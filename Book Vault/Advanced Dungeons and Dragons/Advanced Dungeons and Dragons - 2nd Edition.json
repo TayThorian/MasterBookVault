@@ -1,0 +1,42 @@
+[
+    {
+    "BookName": "DMGR1 - Campaign Sourcebook and Catacomb Guide",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2112",
+    "BookISBN": "0-88038-817-X",
+    "BookAuthor": "Paul Jaquays & William W. Connors",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Dungeon Master's Guide Rules Supplements",
+    "BookPDF": ["D:\\Vault Files\\ADnD\\Dungeon Master's Guide Rules Supplements\\TSR2112 - DMGR1 - Campaign Sourcebook and Catacomb Guide.PDF"],
+    "BookCharacterLevel": ""
+  } ,
+  {
+    "BookName": "DMGR7 - The Complete Book of Necromancers",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2151",
+    "BookISBN": "0-7869-0106-3",
+    "BookAuthor": "Steve Kurtz",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Dungeon Master's Guide Rules Supplements",
+    "BookPDF": ["D:\\Vault Files\\ADnD\\Dungeon Master's Guide Rules Supplements\\TSR2151 - DMGR7 - The Complete Book of Necromancers.pdf"],
+    "BookCharacterLevel": ""
+  } 
+]
