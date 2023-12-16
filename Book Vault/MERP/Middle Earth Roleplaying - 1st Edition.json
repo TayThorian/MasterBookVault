@@ -1,0 +1,216 @@
+[
+    {
+    "BookName": "A Campaign and Adventure Guidebook for Middle Earth",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2100",
+    "BookISBN": "0-915795-05-1",
+    "BookAuthor": "Peter C. Fenlon Jr.",
+    "BookPublished": "1982",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Paperback",
+    "BookSeries": "Campaign Setting",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE2100 - A Campaign and Adventure Guidebook for Middle Earth.pdf",
+      "D:\\Master Vault\\MERP\\1E\\ICE2100 - Campaign Map of NW Middle-earth.jpg"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "A full-colour 24″ x 36″ poster map of Middle-earth, including the wild lands – north, south, and east – and a superimposed reference grid.  ",
+      "Descriptions of the principal inhabitants of Middle-earth, including: a language tree and linguistic data; cultural notes; and an in depth time line.",
+      "Maps and notes on Middle-earth’s topography, climate, trade routes, and population centers.",
+      "Guidelines for incorporating Middle-earth into any major role playing system."
+    ]
+  },
+  {
+    "BookName": "Middle-Earth Adventure Guidebook II",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2210",
+    "BookISBN": "1-55806-078-2",
+    "BookAuthor": "Jessica M. Ney",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Adventure",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE2210 - Middle-earth Adventure Guidebook II.pdf",
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      ""
+    ]
+  },
+  {
+    "BookName": "Thieves of Tharbad",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8050",
+    "BookISBN": "0-915795-35-3",
+    "BookAuthor": "Lisa J. Evans, Walter H. Hunt, Evan Jamieson, Richard Meyer, Robert G. Traynor",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Adventure",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8050 - Thieves of Tharbad.pdf",
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "This product details the major trading city west of the Misty Mountains, a city teeming with cutthroats and thieves. Rescue the Princess of Cardolan’s stolen tiara and help break up the complex smuggling ring.",
+      "Tharbad was founded in the Second Age by Tar-Aldarion as an inland port for his fleet to use while exploring the interior of Middle-earth… Its broad avenues, public parks and well laid out streets were the envy of other northern cities, for Tharbad was built by the Numenorians at the height of their power. However the years have not been kind to Tharbad… Although much grandeur remains, most sections of the city have fallen into decay."
+    ]
+  },
+  {
+    "BookName": "Dagorlad and the Dead Marshes",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8020",
+    "BookISBN": "0-915795-20-5",
+    "BookAuthor": "Ruth Sochard",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Adventure",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8020 - Dagorlad and the Dead Marshes.pdf",
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "South of the Wilderland and north of Mordor lies a widely varying landscape stretching from the scarps and cliffs of the western Emyn Muil through the swamps and marshes of Nindalf to the bare plain known as the Dagorlad (S. “Battle Plain”). Once these lands were pleasant enough, in the way of wild places, although they were never much favored by settlers. The wetlands were filled with all manner of waterfowl and alive with the songs of frogs and blackbirds. The region’s waters gleamed with fish, and deer grazed the marsh grasses, bothered only by the hunting expeditions of the scattered tribes of Marshmen. These folk were almost always left alone and ignored by the wars and battles which raged about them, for their watery lands have always been too difficult for an army to cross with any speed, and treacherous indeed for those not born of the marshes.",
+      "Instead, travelers have always gone by way of the broad plain before the dark gateway into Mordor. This expanse was once covered with wild grains and other grasses which quickly sprang up to hide the remains of the great war fought here at the end of the Second Age. Grouse pecked and nested there, and wild cattle grazed. Although unsettled by Men, these lands were peaceful and fruitful until a few hundred years ago, when the Shadow began to descend upon them once more."
+    ]
+  } ,
+  {
+    "BookName": "The Tower of Cirith Ungol and Shelob's Lair",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8030",
+    "BookISBN": "0-915795-21-3",
+    "BookAuthor": "Carl Willner",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Adventure",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8030 - The Tower of Cirith Ungol and Shelob's Lair.pdf",
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Minas Ithil rests beneath the rising moon, serenely unaware of the terrors stirring in the nearby Mountains of Shadow. Travellers entering the Ithil Vale in 1640 of the Third Age behold the luminous marble walls and slender tower of this famed metropolis, the spire reflecting moonbeams that illuminate the vale with a haunting ethereal glow. Here, across the white bridge of the Ithilduin and between the flowering meadows on either bank, evening splendors beckon: thousands of flickering lanterns promise safety and rest for the weary wayfarer. In Minas Ithil men are immersed in the memories of their former glory, for now – since the Great Plague of four years ago – many of the city’s mansions are tenanted by none save ghosts. Yet none foresee that this place of beauty is fated to become Minas Morgul, dread city of the undead and the fearsome domain of the Nazgûl.",
+      "The dangers are growing daily. Turning from the white bridge over the Ithilduin, one ascends a path on the northern side of the vale. Soon he reaches a series of stairs climbing into the Mountains of Shadow, and beyond that comes to a pass whose very name connotes an age-old evil: Cirith Ungol, the Spider’s Cleft. Within a reeking, dark tunnel at the summit of the pass lurks a primeval monstrosity, the devourer of Men and Elves – Shelob, the Greatest of the Great Spiders. Beyond Shelob’s lair the weird and desolate landscape of Mordor, Sauron’s ancient domain, stands stark and ugly as a vast scar. Once the troops of Gondor warded this land against evil, but since the Plague the watch has been abandoned. Now only a skeletal Gondorian garrison remains to hold the formidable Tower of Cirith Ungol, which commands the westward passes from Mordor. In these days of Gondor’s decline, Orcs, Trolls, and other creatures of Darkness dare to roam within sight of the Tower’s walls.",
+      "On one side of the bridge Minas Ithil stands tall and proud, offering refuge and pleasures. On the other side lie the perils of Cirith Ungol and Mordor, where the valiant and skillful may win renown – or lose their lives trying! Here civilization and wilderness converge, and adventures are but a stone’s throw away."
+    ]
+  },
+  {
+    "BookName": "Isengard and Northern Gondor",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2800",
+    "BookISBN": "0-915795-11-6",
+    "BookAuthor": "Christian Gehman",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Paperback",
+    "BookSeries": "Campaign Setting",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE2800 - Isengard and Northern Gondor.pdf",
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The citadel of Isengard was built by the Númenórians in a sheltered valley at the southern limits of the Misty Mountains. Its main purpose was to defend the gap of Calenardhon and the Fords of Isen against attacks by Sauron’s forces. Self-sufficient and enchanted, it later became the virtually impregnable fortress of Saruman the White. No spire in Middle-earth was stronger, save the Dark Tower of Mordor."
+    ]
+  },
+  {
+    "BookName": "Mouths of the Entwash",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8011",
+    "BookISBN": "1-55806-010-3",
+    "BookAuthor": "Graham Staplehurst",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Adventure",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8011 - Mouths of the Entwash.pdf",
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "This supplement details the wild delta that dominates eastern Rohan. In this marsh the Entwash meets the mighty Anduin river, and unwary travellers encounter unexpected dangers. This module features 3 complete adventures. All are self-contained and can easily be used in other locales.",
+      "Delve into the swampy forests surrounding the treacherous MOUTHS OF THE ENTWASH! For almost two hundred miles the southern channel of the river winds through bog, marsh, fen and breckland, continually splitting and rejoining itself. Here you’ll find a host of peculiar creatures and foul denizens – including the hideous undead known as Mewlips. This module contains the history of the places, people, creatures, and treasures found in the region, together with 3 exciting adventures, each of which can be set up in only minutes."
+    ]
+  },
+  {
+    "BookName": "Ghosts of the Southern Anduin",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8109",
+    "BookISBN": "1-55806-030-8",
+    "BookAuthor": "John Crowdis",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Adventure",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8109 - Ghosts of the Southern Anduin.pdf",
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Four low-to-mid level adventures which each stand on their own and can be set up in minutes.",
+      "Bar-en-Tinnen is a sleepy little town on the banks of the mighty Anduin river. But now the complacent inhabitants must keep their eyes open. A ghost haunts the river on foggy nights; the wise bar their doors at sundown. Can you unlock the mystery of The Ghost on the River?",
+      "The haunted riverfront is not the most terrifying of recent events. A young lad, panic stricken, dripping wet, and shivering, collapses on the doorstep of the Fen Worm’s Fire Inn, a broken arrow shaft protruding from his left arm. Will you help defeat his enemies in The Survivor?",
+      "The tailor’s son disappears after encountering the river ghost and telling the story far and wide. Will you face the darkest evil to search for the young man in The Edain-in-Arthedur?",
+      "Despite plentiful rainfall, the trees and crops are withering. A supernatural blight has struck the land. Are you resourceful enough to combat The Shadow on the Banks?",
+      "Confront bandits, undead, evil priests, and minions of Sauron as you hunt the Ghosts of the Southern Anduin in these four exciting adventures!"
+    ]
+  }    
+]

@@ -1,42 +1,52 @@
 [
     {
-    "BookName": "DMGR1 - Campaign Sourcebook and Catacomb Guide",
-    "BookPublisher": "TSR",
-    "BookCode": "TSR2112",
-    "BookISBN": "0-88038-817-X",
-    "BookAuthor": "Paul Jaquays & William W. Connors",
-    "BookPublished": "1990",
+    "BookName": "",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
     "BookCover": "",
-    "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "2nd Edition",
-    "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookRules": "",
+    "BookEdition": "",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
     "BookLibrary": "Yes",
-    "BookSetting": "Core Books",
-    "BookType": "Rule Supplements",
-    "BookFormat": "Paperback",
-    "BookSeries": "Dungeon Master's Guide Rules Supplements",
-    "BookPDF": ["D:\\Vault Files\\ADnD\\Dungeon Master's Guide Rules Supplements\\TSR2112 - DMGR1 - Campaign Sourcebook and Catacomb Guide.PDF"],
-    "BookCharacterLevel": ""
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
   } ,
   {
-    "BookName": "DMGR7 - The Complete Book of Necromancers",
-    "BookPublisher": "TSR",
-    "BookCode": "TSR2151",
-    "BookISBN": "0-7869-0106-3",
-    "BookAuthor": "Steve Kurtz",
-    "BookPublished": "1995",
+    "BookName": "",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
     "BookCover": "",
-    "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "2nd Edition",
-    "BookPhysical": "Yes",
-    "BookOwnedPDF": "Yes",
+    "BookRules": "",
+    "BookEdition": "",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
     "BookLibrary": "Yes",
-    "BookSetting": "Core Books",
-    "BookType": "Rule Supplements",
-    "BookFormat": "Paperback",
-    "BookSeries": "Dungeon Master's Guide Rules Supplements",
-    "BookPDF": ["D:\\Vault Files\\ADnD\\Dungeon Master's Guide Rules Supplements\\TSR2151 - DMGR7 - The Complete Book of Necromancers.pdf"],
-    "BookCharacterLevel": ""
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
   } 
 ]
