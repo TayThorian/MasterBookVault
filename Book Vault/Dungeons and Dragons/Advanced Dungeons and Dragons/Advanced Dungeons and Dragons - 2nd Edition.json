@@ -91,6 +91,87 @@
     "BookDescription":[
       "The Encyclopedia Magica is a four-volume series that describes every magical item for the AD&D game. These items have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975. This essential reference tool puts the power of more than 20 years of AD&D history at your fingertips!"
     ]
-  } 
-
+  },
+  {
+    "BookName": "Chronomancer",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9506",
+    "BookISBN": "0-7869-0325-2",
+    "BookAuthor": "Loren Coleman",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Optional Game Accessories",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Accessories\\TSR9506 - Chronomancer.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "You have all the time in the world-and now you don't.",
+      "The final and most dangerous fantasy frontier lies not in space, but in time! At last, the dimension of Time is open to those few wizards who would risk everything, even their very existence, to visit ancient and forgotten lands or see the unbelievable wonders and horrors of the future.",
+      "These few wizards are Chronomancers, and this 96-page AD&D game accessory reveals the secrets of their lives. New spells, new powers, and new realms—as well as terrifying monsters—are brought to light in this stunning work.",
+      "Take time to study the mysteries of chronomancy.. before someone else takes that time from you."
+    ]
+  } ,
+  {
+    "BookName": "Shaman",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9507",
+    "BookISBN": "0-7869-0326-0",
+    "BookAuthor": "Kevin Hassall & Steve Miller",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Optional Game Accessories",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Accessories\\TSR9507 - Shaman.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "<b>The secrets of the spirit world unveiled for the first time!</b>",
+      "There is a world unseen by mortals, a world filled with invisible beings that whisper words unheard by all—all but the shaman. The shaman alone knows how to listen for the spirits, and the shaman alone knows their secrets.",
+      "This 96-page AD&D game accessory introduces three new priest classes with unique powers and exciting potential. More subtle and versatile than clerics and wizards, shamans tap the energies of the mysterious spirit world, using their extraordinary abilities to further their personal goals, as well as the agendas of their unseen spirit patrons. Shaman offers complete information on these new classes, tips for incorporating them into established campaigns, new skills, new spells, and a detailed look at the unseen world of spirits."
+    ]
+  },
+  {
+    "BookName": "Monstrous Compendium Annual - Volume Four",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2173",
+    "BookISBN": "0-7869-1212-X",
+    "BookAuthor": "",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Monstrous Compendium Annuals",
+    "BookFormat": "Softcover",
+    "BookSeries": "Monstrous Compendium",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2173 - Monstrous Compendium Annual - Volume Four.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Welcome to Annual Number Four! Drawn from our best adventures of the recent past-not to mention the pages of DRAGON\", DUNGEON\", and POLYHEDRON\" Magazines-this volume also returns old classics to print and introduces some critters never before seen!",
+      "Over 100 creatures are presented, from the Prismatic Dragon and the Clockwork Horrors to the Shades from the Demiplane of Shadow. Creatures in this book have come from the FORGOTTEN REALMS, BIRTHRIGHT, DRAGONLANCE, RAVENLOFT, DARK SUN, RED STEEL, and GREY HAWK settings (and a few have just sprung from the fertile minds of their creators).",
+      "This collection, which is fully indexed, features new monsters from the Far Realm, and includes many creatures suitable for nautical and undersea adventures."
+    ]
+  }  
 ]

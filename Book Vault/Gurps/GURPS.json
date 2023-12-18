@@ -1,0 +1,52 @@
+[
+    {
+    "BookName": "Space",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-1002, SJG01-6076",
+    "BookISBN": "1-55634-245-4, 1-55634-916-4",
+    "BookAuthor": "Jon F. Zeigler and James L. Cambias",
+    "BookPublished": "2006, 2020",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback , Softback",
+    "BookSeries": "Space",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\4E\\SJG01-1002 - Space.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "With this book, you can create anything from a single alien beast to a whole galaxy of civilizations and star systems . . . quickly and randomly, or with a detailed, step-by-step process that's true to biology and astrophysics as we understand them today."
+    ]
+  } ,
+  {
+    "BookName": "",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } 
+]

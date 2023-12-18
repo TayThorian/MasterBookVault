@@ -1,0 +1,94 @@
+[
+    {
+    "BookName": "Dolmenwood Campaign Book",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Rule Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "Dolmenwood Core",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Campaign Book.pdf",
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Referees Maps"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "A complete referee's guide to the magical forest realm of Dolmenwood — Necrotic Gnome's weird fairy tale campaign setting.",
+      "<b>Secrets of Dolmenwood:</b> Referee's background and introduction to Dolmenwood, delving into the secrets of the ley lines, standing stones, lost shrines, fairy roads, fairy nobles, and Wood Gods.",
+      "<b>Factions and Powers:</b> Seven major factions and two independent powers that vie for martial, spiritual, or occult control of the Wood. Each is detailed with its schemes, history, enclaves, and significant NPCs.",
+      "<b>Settlements:</b> Immersive descriptions of 12 settlements, each with an overview, a map, and descriptions of the most important services, locations, and inhabitants.",
+      "<b>Exploring the Wild:</b> Procedures for handling travel in the wilds of Dolmenwood, including rules and tables for weather, encounters, fishing, foraging, and hunting.",
+      "<b>Hex Descriptions:</b> 200 pages of fantastic locales throughout the Wood, each page covering one of the 200 hexes on the campaign map.",
+      "<b>Campaigns in Dolmenwood:</b> Advice on refereeing campaigns in Dolmenwood, including procedures for designing dungeons in the Wood.",
+      "<b>Treasures and Oddments:</b> Tables for determining treasure hoards, along with a wealth of magic items of all kinds — weapons and armour, scrolls and books, crystals, potions, oils, rings, wands, musical instruments, herbs, fungi, etc.",
+      "<b>Appendices:</b> A miscellany of additional detail, including rumours, new spells, and a plethora of useful indexes."
+    ]
+  } ,
+  {
+    "BookName": "Dolmenwood Monster Book",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Rule Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "Dolmenwood Core",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Monster Book.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  },
+  {
+    "BookName": "Dolmenwood Players Book",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Rule Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "Dolmenwood Core",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Players Book.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "A complete player's guide to the magical forest realm of Dolmenwood — Necrotic Gnome's weird fairy tale campaign setting.",
+      "<b>Welcome to Dolmenwood:</b> An introduction to the setting, including a player's gazetteer, a player's overview of Dolmenwood, and some rumours and folklore.",
+      "<b>Starting Play:</b> The basics of RPG play and terminology, plus the rules for character creation and advancement.",
+      "<b>Kindreds:</b> Six playable kindreds (breggle, elf, grimalkin, human, mossling, woodgrue), each presented with background info, mechanical abilities, tables of names and backgrounds, a table of 50 random trinkets, and a set of eight tables of quirky characteristics.",
+      "<b>Classes:</b> Nine playable classes (cleric, enchanter, fighter, friar, hunter, knight, magician, minstrel, thief).",
+      "<b>Magic:</b> The rules for arcane, fairy, and holy magic, along with complete spell lists.",
+      "<b>Equipment, Services, and Animals:</b> Detailed lists of adventuring gear, weapons, and armour. Horses, vehicles, and dogs. Richly evocative lists of food, beverages, pipeleaf, herbs, and fungi. Details on hiring the services of specialists and retainers.",
+      "<b>Adventuring:</b> The core rules of the game, including rules for hazards and challenges, travel and camping in the wilds, dungeon exploration, settlements and downtime, and encounters and combat.",
+      "<b>Appendices:</b> Extra details on the Dolmenwood calendar, moon signs, the noble houses, and the major saints. Optional Kindred-Classes for players who prefer to play archetypal non-humans (e.g. a grimalkin, rather than a grimalkin thief or a grimalkin minstrel)."
+    ]
+  }  
+]

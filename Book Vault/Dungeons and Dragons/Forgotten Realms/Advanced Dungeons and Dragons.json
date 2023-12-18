@@ -1,0 +1,60 @@
+[
+    {
+    "BookName": "Skullport",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11348",
+    "BookISBN": "0-7869-1348-7",
+    "BookAuthor": "Joseph C. Wolf",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Other Accessories",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR11348 - Skullport.pdf"
+    ],
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookDescription": [
+      "Skullport, the Port of Shadow, is perhaps the best kept secret in all the Sword Coast. A mile and a half beneath the orderly streets of Waterdeep squats the most wretched and lawless pit of thieves, buccaneers, slavers, and sellswords the Realms has to offer. Under a moldering tangle of catwalks threaded between the stalactites and stalagmites of the cavern city, illithids, drow, beholders, and other plot and trade with emissaries from the surface. Monsters prowl the dark recesses and alleyways, gangs of zombies shamble about performing menial labor; here, anything and everything can be bought and sold—lethal poisons, foul tomes of forbidden magic, and slaves.",
+      "The only law is meted out by the enigmatic Skulls of Skullport, mysterious floating humanoid skulls whose capricious judgements and madness-induced destructiveness are the stuff of grisly travelers' tales. Gold rules the ever-present twilight, and only those with keen eyes and blades may keep it long.",
+      "This 96-page book contains the following:",
+      "maps and general information about the three layers and four wards of Skullport;",
+      "descriptions of over 100 notable sites in the wards;",
+      "a partial map of the dungeons of Skullport—where the Skulls throw the folk they let live; and",
+      "descriptions of notable NPCs and power groups of Skullport.",
+      "Although no other Forgotten Realms setting products are required to use Skullport, this accessory can be used to provide supplemental information for the Ruins of Undermountain campaign expansion. Dungeon Masters can also use Skullport as a basis for an Underdark city in their own campaigns."
+
+    ]
+  } ,
+  {
+    "BookName": "",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } 
+]

@@ -1,0 +1,53 @@
+[
+    {
+    "BookName": "Dragonlance Adventures",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2021",
+    "BookISBN": "0-88038-452-2",
+    "BookAuthor": "Tracy Hickman & Margaret Weis",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Sourcebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Hardbacks & Boxed Sets",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\TSR2021 - Dragonlance Adventures.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "At last, the complete Krynn source book that contains all the information necessary for limitless campaigning in the world of the DragonLance saga!",
+      "Provides all-new information on the character classes, races, artifacts, and powers that are unique to the fascinating world of Krynn."
+    ]
+  } ,
+  {
+    "BookName": "",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } 
+]

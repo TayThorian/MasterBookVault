@@ -1,0 +1,53 @@
+[
+    {
+    "BookName": "Greyhawk Adventures",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2023",
+    "BookISBN": "0-88038-649-5",
+    "BookAuthor": "James M. Ward",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Accessory",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR2023 - Greyhawk Adventures.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Enter this world and discover excitement far beyond your wildest dreams. Greyhawk is the place where adventure begins and ends?.",
+      "This book is for experienced roleplayers looking from something exciting and original to use in their fantasy gaming. Its pages are filled with bold new gaming experiences. With this book, you join the ranks of the best role players in the world. Your search for glory and fame awaits the turning of a single page!"
+    ]
+  } ,
+  {
+    "BookName": "",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } 
+]
