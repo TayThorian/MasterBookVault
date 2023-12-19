@@ -1,0 +1,83 @@
+[
+    {
+    "BookName": "Swords of Wuxia",
+    "BookPublisher": "BRW Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Joseph Bloch",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Adventures Dark and Deep",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "Swords of Wuxia",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\Adventures Dark and Deep\\Swords of Wuxia.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "New options to expand your old-school roleplaying game!",
+      "Add legends and folklore from ancient China and action from wuxia literature and film with new rules for kung-fu, classes like the w and the weapons master, monsters like hopping vampires and hungry ghosts, and much more.",
+      "Written for the First Edition of the world's most popular RPG, this book will also be useful to anyone running a game using old-school rules."
+    ]
+  } ,
+  {
+    "BookName": "Book of Lost Beasts",
+    "BookPublisher": "BRW Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Joseph Bloch",
+    "BookPublished": "2021",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Adventures Dark and Deep",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "Book of Lost",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\Adventures Dark and Deep\\Book of Lost Beasts.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Nearly 200 new monsters for your old-school campaign!",
+      "From the massive prehistoric ambelodon to the terrifying plague zombie, within these pages you'll find a bevy of new monsters to use in your campaign. There are angels, bladegrass, undead dragons, rakshasa nobles, and much more! Creatures found in dungeons, wilderness, the prehistoric past, the sea, and even alien planes of existance are within.",
+      "Written for the First Edition of the world's most popular RPG, this book will also be useful to anyone running a game using old-school rules."
+    ]
+  },
+  {
+    "BookName": "Book of Lost Lore",
+    "BookPublisher": "BRW Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Joseph Bloch",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Adventures Dark and Deep",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "Book of Lost",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\Adventures Dark and Deep\\Book of Lost Lore.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "New options to expand your old-school roleplaying game!",
+      "This book contains new playable races, new character classes, new magic, alternate combat and treasure systems, and much more for GMs and players alike. You'll find classes including the musical bard, merry jester, studious savant, and villainous blackguard. scores of new spells and magic items, and much more.",
+      "Written for the First Edition of the world's most popular RPG, this book will also be useful to anyone running a game using old-school rules."
+    ]
+  }  
+]

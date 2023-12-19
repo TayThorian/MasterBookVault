@@ -212,5 +212,32 @@
       "Despite plentiful rainfall, the trees and crops are withering. A supernatural blight has struck the land. Are you resourceful enough to combat The Shadow on the Banks?",
       "Confront bandits, undead, evil priests, and minions of Sauron as you hunt the Ghosts of the Southern Anduin in these four exciting adventures!"
     ]
+  } ,
+  {
+    "BookName": "Angmar - Land of the Witch King",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2300",
+    "BookISBN": "",
+    "BookAuthor": "Heike Kubasch2",
+    "BookPublished": "1982",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softback",
+    "BookSeries": "Campaign Setting",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE2300 - Angmar - Land of the Witch King.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Cultures, herblore & guidelines for running your own adventures",
+      "A 16\" x 20\" full-color double-sided detachable mapsheet, side #1 of which details the NORTHERN MISTY MOUNTAINS, side #2, maps out the city of CARN DUM",
+      "Trolls, Giants, Dragons, Bears, Wargs, Orcs and of course THE WITCH KING OF ANGMAR"
+    ]
   }    
 ]
