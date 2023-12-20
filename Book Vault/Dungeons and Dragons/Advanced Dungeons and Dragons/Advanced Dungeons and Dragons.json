@@ -173,5 +173,110 @@
       "Over 100 creatures are presented, from the Prismatic Dragon and the Clockwork Horrors to the Shades from the Demiplane of Shadow. Creatures in this book have come from the FORGOTTEN REALMS, BIRTHRIGHT, DRAGONLANCE, RAVENLOFT, DARK SUN, RED STEEL, and GREY HAWK settings (and a few have just sprung from the fertile minds of their creators).",
       "This collection, which is fully indexed, features new monsters from the Far Realm, and includes many creatures suitable for nautical and undersea adventures."
     ]
-  }  
+  },
+  {
+    "BookName": "GDQ1-7 - Queen of the Spiders",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9179",
+    "BookISBN": "0-88038-321-6",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback and Map book",
+    "BookSeries": "GDQ Series",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\GDQ Series\\TSR9179 - GDQ1-7 - Queen of the Spiders.pdf"
+    ],
+    "BookCharacterLevel": "Levels 8 - 14",
+    "BookDescription": [
+      "Deep within the bowels of the Earth there lives a fell race, the drow, who conspire and plot to enslave and destroy the surface realms. The webs they spin are many, and the tendrils of their power can be felt from the Crystalmist Mountains to the Pomarj. Yet as deadly as these creatures are, they are pale shadows compared to the grim power they worship. ",
+      "<b>The Queen of Spiders! </b>",
+      "The story of the Queen of the Spiders is one of plots within plots, wheels within wheels. Each level of the conspiracy has its own masters (or mistresses) and hidden reasons for their actions. All the parties involved wield their own dread powers and are forces to be reckoned with. It is recommended that at the start of the adventure no characters be of less than 8th level, with loth level the norm as the characters leave the surface world and journey into the sunless realms of the depths beneath the earth. Characters of less than 8th level will quickly find themselves overwhelmed by the creatures they must face, and it is recommended that those of much lower levels begin play with Temple Of Elemental Evil or Scourge of the Slave Lords, which provide the groundwork for this adventure. Just as characters of too low a level will have difficulty dealing with the encounters within, those of supremely high level (18 + at the start of the adventure) will undoubtedly find the challenges within unsatisfying, and surely one such as Lolth would not wish to let into her web any opponent she feels could give her a fair fight! Such characters are best left running their own baronies and kingdoms, provided what support they may for lesser adventurers. "
+    ]
+  },
+  {
+    "BookName": "U1 - The Sinister Secret of Saltmarsh",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9062",
+    "BookISBN": "0-935696-80-6",
+    "BookAuthor": "Dave J. Browne with Don Turnbull",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "U Series",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\U Series\\TSR9062 - U1 - The Sinister Secret of Saltmarsh.pdf"
+    ],
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookDescription": [
+      "Desolate and abandoned, the evil alchemist's mansion stands alone on the cliff, looking out towards the sea. Mysterious lights and ghostly hauntings have kept away the people of Saltmarsh, despite rumors of a fabulous forgotten treasure. What is it's sinister secret?",
+      "The Sinister Secret of Saltmarsh is the first installment in a series of three modules designed and developed in the United Kingdom, for beginning adventures with the AD&D rules. The adventure can be played by 5-10 characters of levels 1-3. This module contains large-scale maps, full background information, and detailed encounter descriptions for the players and DM."
+    ]
+  },
+  {
+    "BookName": "U2 - Danger at Dunwater",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9064",
+    "BookISBN": "0-88038-001-2",
+    "BookAuthor": "Dave J. Browne with Don Turnbull",
+    "BookPublished": "1982",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "U Series",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\U Series\\TSR9064 - U2 - Danger at Dunwater.pdf"
+    ],
+    "BookCharacterLevel": "Levels 1 - 4",
+    "BookDescription": [
+      "The little fishing town of Saltmarsh is threatened! Why are lizard men gathering force nearby and why have they been buying large quantities of weapons? A party of bold adventurers must answer these questions or the people of Saltmarsh will never live in peace!",
+      "\"Danger at Dunwater\" is the second part in a series of three modules designed and developed in the United Kingdom for beginning adventurers with the AD&D rules. Its plot follows direct from that of the first part (U1: \"The Sinister Secret of Saltmarsh\"). This adventure can be played by 6-10 characters of levels 1-4. This module contains large-scale maps, full background information, and detailed encounter descriptions for the players and DM."
+    ]
+  },
+  {
+    "BookName": "U3 - The Final Enemy",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9076",
+    "BookISBN": "0-88038-028-4",
+    "BookAuthor": "Dave J. Browne with Don Turnbull",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "U Series",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\U Series\\TSR9076 - U3 - The Final Enemy.pdf"
+    ],
+    "BookCharacterLevel": "Levels 3 - 5",
+    "BookDescription": [
+      "At last! An opportunity to avert the threat to the little town of Saltmarsh! The real enemies have been identified - evil, cruel creatures, massed in force and viciously organized. Can the brave adventurers thwart this evil and ensure the safety of Saltmarsh?",
+      "\"The Final Enemy\" is the final part in a series of three modules designed and developed in the United Kingdom for beginning adventurers with the AD&D rules. Its plot follows directly from those of the first two parts (U1: \"The Sinister Secret of Saltmarsh\" and U2: \"Danger at Dunwater\"). This adventure can be played by 8-12 characters of experience levels 3 to 5. This module contains large-scale maps, full background information and detailed encounter descriptions for the players and DM."
+    ]
+  }      
 ]

@@ -1,28 +1,28 @@
 [
     {
-    "BookName": "Dragonlance Adventures",
+    "BookName": "Greyhawk Adventures",
     "BookPublisher": "TSR",
-    "BookCode": "TSR2021",
-    "BookISBN": "0-88038-452-2",
-    "BookAuthor": "Tracy Hickman & Margaret Weis",
-    "BookPublished": "1987",
+    "BookCode": "TSR2023",
+    "BookISBN": "0-88038-649-5",
+    "BookAuthor": "James M. Ward",
+    "BookPublished": "1988",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "1st Edition",
-    "BookPhysical": "On Order",
+    "BookPhysical": "Yes",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "Dragonlance",
-    "BookType": "Sourcebook",
+    "BookSetting": "Greyhawk",
+    "BookType": "Accessory",
     "BookFormat": "Hardback",
-    "BookSeries": "Hardbacks & Boxed Sets",
+    "BookSeries": "Accessory",
     "BookPDF": [
-      "D:\\Master Vault\\Dragonlance\\TSR2021 - Dragonlance Adventures.pdf"
+      "D:\\Master Vault\\Greyhawk\\TSR2023 - Greyhawk Adventures.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
-      "At last, the complete Krynn source book that contains all the information necessary for limitless campaigning in the world of the DragonLance saga!",
-      "Provides all-new information on the character classes, races, artifacts, and powers that are unique to the fascinating world of Krynn."
+      "Enter this world and discover excitement far beyond your wildest dreams. Greyhawk is the place where adventure begins and ends?.",
+      "This book is for experienced roleplayers looking from something exciting and original to use in their fantasy gaming. Its pages are filled with bold new gaming experiences. With this book, you join the ranks of the best role players in the world. Your search for glory and fame awaits the turning of a single page!"
     ]
   } ,
   {

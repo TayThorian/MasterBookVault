@@ -1,0 +1,61 @@
+[
+    {
+    "BookName": "Forbidden Lands Core Boxed Set",
+    "BookPublisher": "Free League",
+    "BookCode": "FLF051653",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forbidden Lands",
+    "BookType": "Core Rules",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Core Boxed Set",
+    "BookPDF": [
+      "D:\\Master Vault\\Forbidden Lands\\FLF051653 - Forbidden Lands Core Game\\FLF051653 - Gamemaster's Guide.pdf",
+      "D:\\Master Vault\\Forbidden Lands\\FLF051653 - Forbidden Lands Core Game\\FLF051653 - Player's Handbook.pdf",
+      "D:\\Master Vault\\Forbidden Lands\\FLF051653 - Forbidden Lands Core Game\\FLF051653 - Legends & Adventurers.pdf",
+      "D:\\Master Vault\\Forbidden Lands\\FLF051653 - Forbidden Lands Core Game\\FLF051653 - Map and Stickers.pdf",
+      "D:\\Master Vault\\Forbidden Lands\\FLF051653 - Forbidden Lands Core Game\\FLF051653 - Errata.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "<b>Forbidden Lands</b> is a new take on classic fantasy roleplaying. In this open-world survival roleplaying game, you’re not heroes sent on missions dictated by others - instead, you are raiders and rogues bent on making your own mark on a cursed world. You will discover lost tombs, fight terrible monsters, wander the wild lands and, if you live long enough, build your own stronghold to defend. Contents of the boxed set:",
+      "Hardcover Player's Manual with faux leather covers, including rules for fast character generation, visceral combat, lethal magic, dangerous journeys and for building your own stronghold - easily be ported to your own favourite game world.",
+      "Hardcover Gamemaster's Guide with faux leather covers, including a rich and detailed description of the Forbidden Lands setting, a large illustrated Bestiary, extensive random encounters, and three complete adventure sites.",
+      "The Legends & Adventurers booklet, letting you flesh out your characters and give them unique backgrounds.",
+      "A huge full-colour map, giving you the freedom to explore the Forbidden Lands any way you want, hex by hex.",
+      "A sheet with stickers for adventure sites and gravestones, transforming the game map to a living, permanent record of your adventures."
+    ]
+  } ,
+  {
+    "BookName": "",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } 
+]

@@ -1,0 +1,81 @@
+[
+    {
+    "BookName": "Pathfinder - Player Core",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO12001",
+    "BookISBN": "978-1-64078-553-3",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition - Core",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO12001 - Pathfinder - Player Core.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The Pathfinder Player Core presents a new entry point to Pathfinder Second Edition, with everything a player needs to learn how to play the game! Choose from eight ancestries, eight complete character classes, and hundreds of feats and spells to make unique characters ready for deadly adventures in a world beset by magic and evil! This 464-page hardcover tome is the definitive rules resource for all Pathfinder Second Edition players!",
+      "Pathfinder Player Core is the first core rulebook for the fully remastered Pathfinder Second Edition RPG! These rules are compatible with previous Pathfinder Second Edition rulebooks, incorporating comprehensive errata and rules updates and some of the best additions from later books into new, easier-to-access volumes with new presentations inspired by years of player feedback. Along with the GM Core, Monster Core, and Player Core 2, these books provide a new foundation for the future of tabletop gaming!"
+    ]
+  } ,
+  {
+    "BookName": "Pathfinder - GM Core",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO12002",
+    "BookISBN": "978-1-64078-558-8",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition - Core",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO12002 - Pathfinder - GM Core.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Unleash your imagination, creating worlds and stories beyond measure with the new Pathfinder GM Core for Pathfinder Second Edition! This comprehensive 336-page hardcover rulebook gives Game Masters everything they need to craft thrilling tales of adventure, from a single-night’s dungeon delve to complex epics spanning years. Within these pages you’ll find clear guidelines for creating new hazards and monsters, tools to design challenging, balanced encounters, and rules for rewarding characters for the dastardly challenges you array before them! Pathfinder GM Core also contains a dragon’s hoard of magic items and treasure to entice and reward your players, from simple healing potions to magic weapons and armor and legendary artifacts, including dozens of brand-new items!",
+      "Pathfinder GM Core is the second core rulebook for the fully remastered Pathfinder Second Edition RPG! These rules are compatible with previous Pathfinder Second Edition rulebooks, incorporating comprehensive errata and rules updates and some of the best additions from later books into new, easier-to-access volumes with new presentations inspired by years of player feedback. Along with the Player Core, Monster Core, and Player Core 2, these books provide a new foundation for the future of tabletop gaming!"
+    ]
+  },
+  {
+    "BookName": "Rage of Elements",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO2113",
+    "BookISBN": "978-1-64078-527-4",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "",
+    "BookFormat": "Hardback",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Harness the overwhelming power of the most primordial forces of nature with Rage of Elements, a new 224-page rules resource for the Pathfinder Roleplaying Game focused on the fundamental building blocks of reality itself!",
+      "The elements are yours to control with the all-new kineticist class, which brings one of fantasy’s most popular hero types to Pathfinder. New elemental spells and gear provide tons of additional element-themed options for all character classes, and an extensive gazetteer provides an overview of the majestic elemental planes—including two new ones: the decaying Plane of Metal and the vast and orderly forests of the Plane of Wood. A meaty bestiary presenting scores of element-themed creatures helps to populate these alien landcapes—and liven up even the drabbest Material Plane dungeon!",
+      "The gateways to elemental power stand open wide with Pathfinder Rage of Elements!"
+    ]
+  }  
+]
