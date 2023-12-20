@@ -239,5 +239,83 @@
       "A 16\" x 20\" full-color double-sided detachable mapsheet, side #1 of which details the NORTHERN MISTY MOUNTAINS, side #2, maps out the city of CARN DUM",
       "Trolls, Giants, Dragons, Bears, Wargs, Orcs and of course THE WITCH KING OF ANGMAR"
     ]
-  }    
+  } ,
+  {
+    "BookName": "Umbar - Haven of the Corsairs",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2400",
+    "BookISBN": "",
+    "BookAuthor": "Brenda Gates Spielman",
+    "BookPublished": "1982",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softback",
+    "BookSeries": "Campaign Setting",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE2400 - Umbar - Haven of the Corsairs.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Adventure in a land of warships, traders, thieves and plunderers, ominous towers, dark wizards and scheming overlords."
+    ]
+  } ,
+  {
+    "BookName": "The Court of Ardor in Southern Middle-earth",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2500",
+    "BookISBN": "",
+    "BookAuthor": "Terry Kevin Amthor",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Adventure",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE2500 - The Court of Ardor in Southern Middle-earth.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Within this book is held the tale of the history of the land known as the Mûmakan and an organization of Evil known as the Court of Ardor. Also told is the story of the preparations of the Court for a cataclysm which, if it were to occur, would have dire repercussions not only for the lands of the Mûmakan, but all of Middle-earth.",
+      "Long ago in the dim past of Ender Elven lords came to this southerly area, to a land swathed in warm mists and overgrown with wild yet beautiful trees and vines, and inhabited by all manner of creatures. It was vastly different from the forests and plains to the North, yet the Elves loved it and named it Ardor (S: \"Exalted Land\"). Many centuries passed, and the Immortal Children of Eru lived in peace, until the Shadow fell upon the land and many of the strong were seduced by the clever words of servants of the Black Enemy: Morgoth. Power and wisdom were promised, if they would but perform this one task. Naive were these Elves in the Elder days, and they made oaths lightly, little knowing how heavily this would weigh upon them in the millennia to come. Eagerly they took council and formed a Court of sorts; a hierarchy of lords and ladies to effect this mission for their master. And a Darkness of spirit fell upon the land: a harbinger of the true dark which was to follow should their scheme come to fruition.",
+      "Ages passed, and men, the younger Children, came and settled in Ardor, giving it a name in their own tongues – Mûmakan, after the huge beasts which roam the region. But Ardor still it was to the Court, and Ardor it would be again, when the eternal night fell upon all of Middle-earth."
+    ]
+  },
+  {
+    "BookName": "Middle-earth Role Playing",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8100",
+    "BookISBN": "0-425090-37-X",
+    "BookAuthor": "",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Rulebooks",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8100 - Middle-Earth Role Playing Boxed Set.pdf", 
+      "D:\\Master Vault\\MERP\\1E\\ICE8000 - Middle-earth Role Playing.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  }     
 ]
