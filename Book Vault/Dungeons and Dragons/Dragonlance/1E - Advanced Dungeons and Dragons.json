@@ -26,28 +26,111 @@
     ]
   } ,
   {
-    "BookName": "",
-    "BookPublisher": "",
-    "BookCode": "",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookName": "Time of the Dragon",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1050",
+    "BookISBN": "0-88038-773-4",
+    "BookAuthor": "David \"Zen\" Cook",
+    "BookPublished": "1989",
     "BookCover": "",
-    "BookRules": "",
-    "BookEdition": "",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookSetting": "",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookSetting": "Dragonlance",
+    "BookType": "Accessory",
+    "BookFormat": "Box Set",
+    "BookSeries": "Hardbacks & Boxed Sets",
     "BookPDF": [
-      "D:\\Master Vault\\"
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR1050 - Time of the Dragon.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
-      "No description available."
+      "When the true gods punished Istar by wreaking the Cataclysm on Krynn, a shower of meteors pounded the continent of Ansalon. Halfway around the world, a similar continent was shattered by a single, enormous meteor. Thousands of square miles of land disappeared beneath a smoking sea of magma, which boiled up from beneath the planet's crust. Mountain ranges were toppled, rivers changed course, and weather patterns were altered. Survivors were scattered and isolated. The devastation was nearly complete.",
+      "Centuries later, the cultures and societies which rise out of the ruins are uniquely shaped by this savage environment. The minotaurs with their eloquent diplomats, elite legions, and gladiatorial contests, are spreading their influence throughout the hemisphere. Wild elves fight territorial wars with humans, kender, and gnomes. Fearsome fire minions rampage around the coasts of the lava ocean while the Followers of Hith seek to dominate the land.",
+      "Time of the Dragon includes two information-packed books totaling 160 pages, four full-color maps, and 24 individual color plates showing maps, NPCs, and major races."
     ]
-  } 
+  },
+  {
+    "BookName": "PG1 - Player's Guide to the Dragonlance Campaign",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2143",
+    "BookISBN": "1-56076-698-0",
+    "BookAuthor": "",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Player's Guide",
+    "BookFormat": "Softback",
+    "BookSeries": "Player's Guide Series Accessories",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR2143 - PG1 - Player's Guide to the Dragonlance Campaign.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "If you have been intrigued by the Dragonlance setting, but have felt intimidated by the sheer amount of information it comprises, this is the book for you.",
+      "This book will not baffle you with \"game jargon.\" It presents the world of Krynn in a manner you are sure to find entertaining and informative. Through a combination of original fiction and long-established fact, you will discover the continent of Ansalon—home to the Heroes of the Lance. You will find information about the races of the world, its major cities and regions, its deities, and its monsters. You will read The River of Time, the chronological history of Krynn. Open this book, and open the world!"
+    ]
+  },
+  {
+    "BookName": "MC4 - Monstrous Compendium - Dragonlance Appendix",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2105",
+    "BookISBN": "0-88038-822-6",
+    "BookAuthor": "",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Accessory",
+    "BookFormat": "Cardstock slipcase",
+    "BookSeries": "Monstrous Compendium",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR2105 - MC4 - Monstrous Compendium Dragonlance Appendix.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "This volume of the exciting Monstrous Compendium series brings you the unique creatures of Krynn: astral dragons, Krynn minotaurs, the various races and tribes of dwarves and elves, knights of Solamnia, kender, and dozens of other creatures and monsters from both Ansalon and the new continent of Taladas."
+    ]
+  },
+  {
+    "BookName": "Dragonlance Classics - 15th Anniversary Edition",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11350",
+    "BookISBN": "0-7869-1350-9",
+    "BookAuthor": "Steve Miller & Stan!",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Silver Anniversary Series",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR11350 - Dragonlance Classics - 15th Anniversary Edition.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "WHO DARES TO STAND IN THE PATH OF DARKNESS?",
+      "Five years ago, a group of adventuring companions went in search of the gods who had left the world centuries before. Now these friends gather at the Inn of the Last Home for what they believe will be their final meeting...",
+      "But what they face is instead a beginning. For the world of Krynn stands at a historic crossroads: Armies of darkness are sweeping across the land, and legendary evils have returned for a new and terrible purpose.",
+      "<b>RETURN TO THE WAR OF THE LANCE... FOR THE FIRST TIME!</b>",
+      "To celebrate the 15th anniversary of the publication of the first DRAGONLANCE adventure TSR proudly presents a retelling of the greatest fantasy roleplaying epic ever. Players can assume the roles of Raistlin, Tasslehoff, Tanis, and other Heroes of the Lance, or create original heroes.",
+      "The DRAGONLANCE Classics 15th Anniversary Edition features many all-new scenes, including meetings with Dalamar, Ariakan, and other more recent additions to the Saga. It is fully compatible with both the AD&D and SAGA(r) game rules." 
+    ]
+  }    
 ]
