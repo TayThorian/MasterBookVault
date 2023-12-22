@@ -17,7 +17,7 @@
     "BookFormat": "Paperback",
     "BookSeries": "Rulebook",
     "BookPDF": [
-      "D:\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4500 - Spacemaster Privateers.pdf",
+      "D:\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4500 - Spacemaster Privateers.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
@@ -83,5 +83,88 @@
       "This Equipment Manual provides everything an enterprising privateer can carry - and more! Picture yourself in kinetic armor with a needler in one hand, a monosword in the other hand, and a sniping plasma-carbine with holo-sights on your back. How about adding on a thruster pack, a medscanner, a sneak suit, and a velocity shield? Going camping? Try anti-glare lenses, a vapor canteen, and an environment tent. With the right connections, you might even be able to load up with professional and military grade gear. Also included are 5 critical tables, 16 attack tables, complete tech level benchmarks, and guidelines for construction & design, malfunction & repair, and breakage. Outfit yourself for adventure! Dress for the kill! Equip to the max!",
       "3 volumes, the perfect tool for customizing technology in your science fiction game. Look for Vehicle Manual and Robotics Manual to add even more tech to your game!"
     ]
-  }  
+  } ,
+  {
+    "BookName": "Vehicle Manual",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-SMP-4513",
+    "BookISBN": "1-55806-565-2",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2002",
+    "BookCover": "",
+    "BookRules": "Spacemaster",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster Privateers",
+    "BookType": "Supplement",
+    "BookFormat": "Paperback",
+    "BookSeries": "Tech Law",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4513 - Vehicle Manual.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Havagract reversed the polarity on his drive, rocking forward as the inertial dampers fought to keep up with a sudden blast from his foe. his control panel exploded in a shower of sparks. Not good. All his weapons were redlining, and damage control had failed to reroute power. He had to get far enough away from the planetary atmosphere to kick in the quantum drive.",
+      "He brought the craft into a tight orbit. His pursuers might be faster, but all objects orbit at the same rate, and only Havagract would be foolish enough to attemp a close forcedorbit around a gas giant. If he could come out with enough of a lead, he just might make it...",
+      "Inside you will find every type of vehicle a privateer could desire - marine ships, aircraft, ground conveyances, small spacecraft, and even decommissioned gunboats. Take a test drive in a Death Howl II Heavy Fighter, or perhaps in a \"Light Horse\" Class FAV, or even in a suit of APE Orbital Drop Armour. Bored with the standard, assembly line models? Try customizing your own state of the art vehicle using complete construction & design guidelines with comprehensive sets of features, quirks, and flaws. Also included are complete combat rules, 10 attack tables, and 6 critical tables focusing on vehicles, ordnance, and infantry untis.",
+      "Pilot the best & blast the rest!",
+      "Tech Law - 3 volumes, the perfect tool for customizing technology in your science fiction game. Look for Equipment Manual and Robotics Manual to add even more tech to your game!"    
+    ]
+  } ,
+  {
+    "BookName": "Blaster Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-SMP-4514",
+    "BookISBN": "1-55806-567-9",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2002",
+    "BookCover": "",
+    "BookRules": "Spacemaster",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster Privateers",
+    "BookType": "Supplement",
+    "BookFormat": "Paperback",
+    "BookSeries": "Blaster Law",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4514 - Blaster Law.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Erik stumbled to the side, his numb barely-working fingers fumbling for an energy cell. The laser fire stopped for a moment as his opponents waited for him to show himself. They wouldn't give up their cover. They'd wait for him to move.",
+      "After several, agonizing seconds, he managed to slide a new power cell into his blaster. The burns along the left side of his body made the slightest movement agony. His muscles twitched spasmodically, as nerves died. His burned flesh twitched as it cracked and flaked away.",
+      "This was bad. He took a deep breath and checked his blaster's setting. there was no room left for tactics. He could make a final charge on continuous fire. If he was really lucky, he might live long enough to kill one of his foes. Maybe two. It was either that or wait for his life to ooze out half a dozen small laser wounds.",
+      "Screaming with more bravado than he felt, he swung around the corner, firing wildly. beams of coherent light began seeking him out as he charged headlong, his blaster pulsing in his hand.",
+      "Revel in MORE POWER! Blaster Law is the complete guide to energy weapons and their use in combat. Spacemaster: Privateers has a ton of combat and power, but Blaster Law takes this to the max, expanding directed energy weapons. It uses a tech level system and gives complete weapon creation rules, for use with anything from primitive spacefaring worlds to power weapons invented by worlds on the cutting edge."
+    ]
+  },
+  {
+    "BookName": "Future Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-SMP-4515",
+    "BookISBN": "1-55806-569-2",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2003",
+    "BookCover": "",
+    "BookRules": "Spacemaster",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster Privateers",
+    "BookType": "Supplement",
+    "BookFormat": "Paperback",
+    "BookSeries": "Future Law",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4515 - Future Law.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Add the power of expanded character development to your sci-fi game with Future Law. Future Law is the ultimate players' guide to Spacemaster, with new professions and character options. Get the most out of your character and feel the power of Spacemaster with this exciting new core book."
+    ]
+  }   
 ]
