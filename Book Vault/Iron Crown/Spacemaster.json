@@ -7,7 +7,7 @@
     "BookAuthor": "Robert J. Defendi",
     "BookPublished": "2000",
     "BookCover": "",
-    "BookRules": "Spacemaster",
+    "BookRules": "Spacemaster Privateers",
     "BookEdition": "3rd Edition",
     "BookPhysical": "To Source",
     "BookOwnedPDF": "To Source",
@@ -36,7 +36,7 @@
     "BookAuthor": "Robert J. Defendi",
     "BookPublished": "2000",
     "BookCover": "",
-    "BookRules": "Spacemaster",
+    "BookRules": "Spacemaster Privateers",
     "BookEdition": "3rd Edition",
     "BookPhysical": "To Source",
     "BookOwnedPDF": "To Source",
@@ -65,7 +65,7 @@
     "BookAuthor": "Robert J. Defendi",
     "BookPublished": "2000",
     "BookCover": "",
-    "BookRules": "Spacemaster",
+    "BookRules": "Spacemaster Privateers",
     "BookEdition": "3rd Edition",
     "BookPhysical": "To Source",
     "BookOwnedPDF": "To Source",
@@ -92,7 +92,7 @@
     "BookAuthor": "Robert J. Defendi",
     "BookPublished": "2002",
     "BookCover": "",
-    "BookRules": "Spacemaster",
+    "BookRules": "Spacemaster Privateers",
     "BookEdition": "3rd Edition",
     "BookPhysical": "To Source",
     "BookOwnedPDF": "To Source",
@@ -121,7 +121,7 @@
     "BookAuthor": "Robert J. Defendi",
     "BookPublished": "2002",
     "BookCover": "",
-    "BookRules": "Spacemaster",
+    "BookRules": "Spacemaster Privateers",
     "BookEdition": "3rd Edition",
     "BookPhysical": "To Source",
     "BookOwnedPDF": "To Source",
@@ -150,7 +150,7 @@
     "BookAuthor": "Robert J. Defendi",
     "BookPublished": "2003",
     "BookCover": "",
-    "BookRules": "Spacemaster",
+    "BookRules": "Spacemaster Privateers",
     "BookEdition": "3rd Edition",
     "BookPhysical": "To Source",
     "BookOwnedPDF": "To Source",
@@ -165,6 +165,32 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "Add the power of expanded character development to your sci-fi game with Future Law. Future Law is the ultimate players' guide to Spacemaster, with new professions and character options. Get the most out of your character and feel the power of Spacemaster with this exciting new core book."
+    ]
+  } ,
+  {
+    "BookName": "Races & Cultures",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-SMP-4600",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Spacemaster Privateers",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster Privateers",
+    "BookType": "Supplement",
+    "BookFormat": "Paperback",
+    "BookSeries": "Races & Cultures",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4600 - Races & Cultures.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "A must for any Spacemaster game, this book details the races of the Privateers universe. Find out what the races are really like in detail; from culture to physiology to role playing, everything you wanted to know about the: Falanar, the Kagoth, the Oort, the Tulgar, the Valiesans the Xatosians and of course humans. What will our own species be like in the future?",
+      "Who will you be tomorrow?"
     ]
   }   
 ]
