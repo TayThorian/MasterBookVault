@@ -59,8 +59,8 @@
   },
   {
     "BookName": "Equipment Manual",
-    "BookPublisher": "GCP-SMP-4512",
-    "BookCode": "Iron Crown Enterprises",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-SMP-4512",
     "BookISBN": "1-55806-564-4",
     "BookAuthor": "Robert J. Defendi",
     "BookPublished": "2000",
