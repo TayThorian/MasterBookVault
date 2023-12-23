@@ -29,8 +29,20 @@
 ## Paizo
 - PZO12001 - Pathfinder - Player Core
 - PZO12002 - Pathfinder - GM Core
+## Digest Group Publications
+- - Manhunt
 ## Mongoose Publishing
 - MGP40111 - Reach Adventure 8 - Makergod
+- MGP40061 - Core Adventure 1 - Invasive Species
+- MGP40062 - Core Adventure 2 - Last Call at Eneri's Cantina
+- MGP40063 - Core Adventure 3 - Errant Lightning
+- MGP40073 - The Third Imperium
+- MGP40115 - Wrath of the Ancients
+- MGP40114 - Whispers on the Abyss
+- MGP40112 - The Deep and the Dark
+- MGP40094 - Aliens of Charted Space Volume 3
+- MGP40103 - Aliens of Charted Space Volume 4
+- MGP40095 - Central Supply Catalogue -Update 2023
 ## EN Publishing
 - ENP0101 - N.E.W. - Science Fiction Roleplaying Game
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
@@ -69,8 +81,20 @@
 ## Paizo
 - PZO12001 - Pathfinder - Player Core
 - PZO12002 - Pathfinder - GM Core
+## Digest Group Publications
+- - Manhunt
 ## Mongoose Publishing
 - MGP40111 - Reach Adventure 8 - Makergod
+- MGP40061 - Core Adventure 1 - Invasive Species
+- MGP40062 - Core Adventure 2 - Last Call at Eneri's Cantina
+- MGP40063 - Core Adventure 3 - Errant Lightning
+- MGP40073 - The Third Imperium
+- MGP40115 - Wrath of the Ancients
+- MGP40114 - Whispers on the Abyss
+- MGP40112 - The Deep and the Dark
+- MGP40094 - Aliens of Charted Space Volume 3
+- MGP40103 - Aliens of Charted Space Volume 4
+- MGP40095 - Central Supply Catalogue -Update 2023
 ## EN Publishing
 - ENP0101 - N.E.W. - Science Fiction Roleplaying Game
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing

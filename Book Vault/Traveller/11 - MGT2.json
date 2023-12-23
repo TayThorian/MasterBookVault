@@ -12,7 +12,7 @@
     "BookPhysical": "To Source",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Third Imperium",
     "BookType": "Adventure",
     "BookFormat": "",
     "BookSeries": "Reach Adventures",
@@ -39,7 +39,7 @@
     "BookPhysical": "N/A",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Third Imperium",
     "BookType": "Adventure",
     "BookFormat": "",
     "BookSeries": "Adventures",
@@ -50,5 +50,335 @@
     "BookDescription": [
       "Join Bu and Embla, Travellers of Charted Space, as they visit the world of Vrirhlanz in the Vargr Extents, to take a break with Embla’s family. The homeworld of the Hlanssai, who have made their way throughout Charted Space on ships of the Vargr, Vrirhlanz is as chaotic as the Hlanssai themselves. On a world technically ruled by Vargr, learn how the Hlanssai keep themselves free of outside control and hear Embla’s reflections on her home from the perspective of one who has travelled across entire sectors."
     ]
-  } 
+  },
+  {
+    "BookName": "Core Adventure 1 - Invasive Species",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40061",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Core Adventures",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40061 - Core Adventure 1 - Invasive Species.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The Core is the seat of empire for the Third Imperium, a highly populated and industrialised region of space civilised for thousands of years. It is also home to several reserve worlds, some of which are places where the Imperial feudal nobility go to rest and play. Tinea-Fabre is a candidate to become the fourth reserve world in the sector, hosting a lush ecosphere with dozens of imported alien animals.",
+      "The Travellers are hired by the ducal heir of Alekvadin to fly a safari ship first to Akussanja, to obtain specimens of a rare and wild species, and then to Tinea-Fabre where the animal is to be deposited into a wildlife preserve. After it has settled in, the young duke-to-be enlists the Travellers to hunt the elusive creature in its adopted habitat but it proves to be a wily prey with heretofore unknown abilities. The hunters become the hunted and are seemingly forced to fight off the entire animal kingdom of the preserve. They will end up in a pitched battle for their very survival.",
+      "Invasive Species includes:",
+      "A complete adventure set in the Core",
+      "The Superb Starling, a customised Type-K safari ship",
+      "New and exciting animal encounters, including the sly and ferocious shakuurzarpi of Akussanja",
+      "Maps of two wild alien worlds"
+    ]
+  },
+  {
+    "BookName": "Core Adventure 2 - Last Call at Eneri's Cantina",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40062",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Core Adventures",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40062 - Core Adventure 2 - Last Call at Eneri's Cantina.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Eneri’s Cantina at Affinity Highport is the quintessential starport bar where adventures begin, patrons are met, rumours are heard and weary Travellers wind down after weeks in jumpspace. It is a place to get a good stiff drink and have the chance to rub elbows with the movers and shakers of the Sylean Main.",
+      "The winds of change are blowing in the region, and the high-tech industrial world of Ase is making moves to establish itself as a power broker. Unfortunately for Affinity and worlds like it, they might become casualties of Ase’s master plan, but such is life in the politically charged, high-stakes Core where everything is done on a grand, winner-take-all scale.",
+      "The Travellers become embroiled in these events even though all they really want to do is save their favourite bar. They become pawns in a dangerous political game that might forever change not just Affinity, but an entire way of life… and not for the better. If they play their cards right, they might just find the key to saving Eneri’s Cantina and preserving the things they hold dear.",
+      "Last Call at Eneri’s Cantina includes:",
+      "Deck plans, rules and illustrations of Affinity Highport.",
+      "A new spacecraft, the Rammiakhildru, and a new vehicle, the Seaskimmer.",
+      "World map and animal encounters for the wild waterworld of Affinity."
+    ]
+  },
+  {
+    "BookName": "Core Adventure 3 - Errant Lightning",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40063",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "20222",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Core Adventures",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40063 - Core Adventure 3 - Errant Lightning.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The Core sector is the heart of the Third Imperium, the seat of empire and an economic powerhouse, but even the Core has its backwater worlds. One such place is Adan, a dry, almost desert world with a unique ecosphere and a secret that few know.",
+      "Adan’s small hydrosphere is entirely located in a single deep sea called the Cleft. From that sea grows the Clench, a writhing mass of plant life that extends far into the desert, providing life-giving crops for the world’s six million people. Unfortunately, the Clench is dying and the only people who can help are a remote community of psionic exiles living in the deep desert. The people of Adan have come to terms with their presence, but a scientific team from an Imperial Research Station has come to the planet to find the psions and strip them of their psionic abilities using a controversial new technique. If they succeed, all of Adan might very well pay the price.",
+      "Errant Lightning includes:",
+      "World and city maps of the exotic world of Adan",
+      "The Scirocco, a tilt-rotor aircraft",
+      "New psionic talents",
+      "New vehicle designs that take part in a climactic battle deep in the desert"
+    ]
+  },
+  {
+    "BookName": "Deneb Adventure 1 - The Lost Duke",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40057",
+    "BookISBN": "",
+    "BookAuthor": "Michael Larrimore",
+    "BookPublished": "2021",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Deneb Adventures",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40057 - Deneb Adventure 1 - The Lost Duke.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The planet of Brufort has always managed to remain under the radar of Charted Space at large. The mining companies support their workers as they bring up bountiful hauls of precious Zuchai crystals and, despite the presence of dangerous fauna, the people were happy. That happiness would not last.",
+      "A missing ship brings the Travellers to this backwater. What seems like a simple recovery mission puts them at odds with an outside force that has taken over the planet. Will they be able to help the people of Brufort in a determined resistance or will they be cast out and left to the mercy of the red death that haunts the surrounding jungles?"
+    ]
+  } ,
+  {
+    "BookName": "The Third Imperium",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40073",
+    "BookISBN": "",
+    "BookAuthor": "Christopher Griffen",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Setting",
+    "BookFormat": "Hardback",
+    "BookSeries": "The Third Imperium",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40073 - The Third Imperium.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The Third Imperium is the greatest interstellar empire in the history of Charted Space. Its Emperors have reigned for a thousand years, building a utopian society based upon the pillars of duty, honour, free trade and a powerful navy that protects its worlds and enforces its laws.",
+      "Despite all of its grand achievements, the Imperium has a dark side. It has committed genocide on its own worlds. Its leaders have assassinated and murdered each other in battle to obtain the throne. A civil war nearly tore it apart, ending the dream of its visionary first Emperor. Yet with all the Imperium has been through, it has somehow endured. The Third Imperium is at a crossroads, and choices made now will determine whether it survives or crumbles.",
+      "Into this realm enters a bold group of Travellers, seeking fame, fortune and adventure in hallowed the Core sector, the ancient centre of human civilisation, where dreams are made and broken. This book contains everything Travellers and Referees need to travel and adventure in the heart of the Third Imperium, including:",
+      "A huge poster map of the Core sector.",
+      "Detailed descriptions of the people, society, military forces and power brokers of the Third Imperium.",
+      "The complete history of the Third Imperium as it has never been told before.",
+      "The Core sector, the heart of the Imperium, including playable human and alien races and world descriptions for all 16 subsectors.",
+      "New starships, vehicles, weapons, armour and gear for use in Core sector campaigns or anywhere else in the Third Imperium."
+    ]
+  },
+  {
+    "BookName": "Wrath of the Ancients",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40115",
+    "BookISBN": "",
+    "BookAuthor": "Martin J Dougherty",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Missing",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The Travellers have defeated an Ancient, but the struggle is not yet over. A telepathic nightmare leads the Travellers to a crashed vessel on a desolate moon, where they discover a threat to all Charted Space. The Ancient Tsyamoykyo, once the least of his kind, plans to implement a reign of terror. Meanwhile, something is happening to the Travellers. They are growing in power, developing new abilities. Can they learn to guide the process, becoming whatever they want to be?",
+      "The Travellers seek the wisdom of Eskayloyt, lost homeworld of the Droyne, and confront sadistic researchers at Imperial Research Station Gamma. Their quest leads to a backwater world where Tsyamoykyo is building a giant war machine, and from there into his very fortress. Confronting their greatest foe, the Travellers will decide the fate of the Ancients and perhaps all Charted Space."
+    ]
+  } ,
+  {
+    "BookName": "Whispers on the Abyss",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40114",
+    "BookISBN": "978-1-916675-13-1",
+    "BookAuthor": "Martin J Dougherty",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Missing",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "A complete mini-campaign for Traveller, setting the stage for great events to come!",
+      "The Travellers are offered a lucrative contract to showcase a prototype starship to potential clients along the Spinward Main. Their route takes them around the periphery of the Abyss Rift, a region with a sinister reputation for starship disappearances and mysterious events.",
+      "They soon discover they are not the only players in the game. An Imperial megacorporation is pushing its own designs and playing hard for big contracts. As if competing with General Products was not enough, there is sabotage and revolt on the worlds of the Spinward Main. A simple promotional cruise becomes a fight for survival, and all the while there are whispers of something big happening on the fringes of the Abyss…"
+    ]
+  } ,
+  {
+    "BookName": "The Deep and the Dark",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40112",
+    "BookISBN": "978-1-916675-11-7",
+    "BookAuthor": "Randy Dorman",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Sector Book",
+    "BookFormat": "",
+    "BookSeries": "Sector Book",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Steeped in history, riven by conflict, and filled with contradiction, The Deep and the Dark covers two sectors at the interface of human and Aslan space, where rival species and civilisations have long contended for influence and power. Here lie the ancient battlegrounds of the Aslan Border Wars and the Cultural Purge. Here are found worlds abandoned or ignored for centuries, which shelter strange, isolated societies that have fallen back to primitive conditions.",
+      "Reaver’s Deep lies on the edge of the Great Rift, with a wide Buffer Zone separating the human systems of the Third Imperium and Solomani Confederation from the Aslan worlds of the Hierate. Within this Buffer independent states and worlds harbour fierce animal life and many alien species, while fierce marauders and petty warlords plague the sector. Into this wild area venture intrepid trade pioneers in search of new opportunities.",
+      "The Dark Nebula is named for the mysterious Celella Nebula, a jumpspace phenomenon that has devilled astrogators for millennia. The sector is also the home of Kusyu, homeworld of the Aslan and spiritual heart of their star-spanning Hierate. The Deep and the Dark also provides an overview of the complex, ever-shifting politics of the Hierate and the nature of Aslan culture.",
+      "Includes a giant two-sided poster map of the two sectors."
+    ]
+  } ,
+  {
+    "BookName": "Aliens of Charted Space Volume 3",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40094",
+    "BookISBN": "978-913076-85-6",
+    "BookAuthor": "Darren Bulmer",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Aliens of Charted Space",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40094 - Aliens of Charted Space Volume 3.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Aliens of Charted Space Volume 3 explores five races – the pacifist Darrians, the enigmatic Geonee, the playful Dolphins, the aloof Orca, and the bureaucratic Bwaps. Within these covers you will discover the culture and society of these races, as well as their physiology and their psychology.",
+      "<b>Darrians</b>",
+      "The Darrians are known to be a pacifistic race who value excellence in scientific and artistic endeavours. Many believe the Darrians an easy target, or that their outlook makes them inconsequential on the galactic stage. Nothing could be further from the truth. The Darrians are heirs to some of the most advanced technology available in Charted Space, and their advancement continues. For those who believe they can conquer this race of pacifistic scientists and artists, the Darrians have a feared weapon capable of causing a star to go supernova –the Star Trigger.",
+      "<b>Geonee</b>",
+      "The Geonee claim to be the decedents of the Ancients, and have the ruins and remnant technology to support this. When first contacted by the Vilani, they were thought to be a Major Race until it was discovered they had reverse engineered their jump drive, causing the retraction of their position and relegating them to become a Minor Race. The Geonee have struggled to have their achievements recognised by the greater interstellar community ever since.",
+      "<b>Dolphins</b>",
+      "Dolphins where gifted sophoncy by GenAssist, a genetic engineering corporation founded on Solomani principles. The project was a success, and Dolphins have become recognised as a Minor Race in their own right. Their communities are based on principles of total freedom and equality, but they owe a debt of honour to the humans who gave them reasoned thought.",
+      "<b>Orca</b>",
+      "The Orca are another race granted sophoncy by GenAssist, but this time grudgingly. The project to raise them suffered a serious setback which nearly ended the programme if not for the generosity of the people of Sufren. Matriarchal and aloof, the Orca are far less friendly than their Dolphin cousins, and do not share their outlook,  instead holding principles of matriarchal veneration and mindfulness.",
+      "<b>Bwaps</b>",
+      "Evolved amid the swamps of an alien world, Bwap civilisation grew slowly though cooperation and the universal belief that they all have an individual and unique place in the universe to fulfil. Their obsession with minutia and fine detail placed them in the perfect position to make themselves indispensable to the bureaucracy of the Ziru Sirka, granting them access to technology denied to others.",
+      "This book contains rules for creating Travellers from each of these alien races, High Guard additions and new ships, and Central Supply Catalogue entries for their new equipment."
+    ]
+  } ,
+  {
+    "BookName": "Aliens of Charted Space Volume 4",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40103",
+    "BookISBN": "978-1-91675-01-8",
+    "BookAuthor": "Darren Bulmer",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Aliens of Charted Space",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40103 - Aliens of Charted Space Volume 4.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Aliens of Charted Space: Volume Four explores four species within Charted Space – the nature-loving Suerrat, the pacifistic Za’tachk, the mercantile Gurvin, and the xenophobic Tezcat. Within these covers, you will discover the culture and society of these species as well as their physiology, psychology and societies.",
+      "<b>Suerrat</b>",
+      "The Suerrat are a human subspecies transplanted from Terra to Ilelish by the Ancients. They claim to be a Major Race, as they independently developed interstellar travel based on generation ships but as they had not developed jump technology, others do not accept their claim.",
+      "<b>Za’tachk</b>",
+      "One of the oldest species associated with the Hive Federation, the Za’tachk are a peaceful (some would say cowardly) species. Their natural tendency to structure and organisation have made them invaluable to the Hivers in running the vast bureaucratic machine required for their federation.",
+      "<b>Gurvin</b>",
+      "The Gurvin are a hexapodal species resembling Terran otters and minks. They were the first sophonts encountered by early Hiver explorers, and their language was adopted as the primary form of communication in the federation. Consummate traders and merchants, the Gurvin are the commercial backbone of the Hive Federation.",
+      "<b>Tezcat</b>",
+      "A cat-like semi-humanoid species, the Tezcat are violent and warlike, with a xenophobic hatred for any sophont that does not resemble themselves. Much of their history has been marred with war and bloodshed, but through the unification of the Shaper Church, they have established a pocket empire and proven to their neighbours that they are too dangerous to cross.",
+      "This book also contains rules for creating Travellers from each species, along with High Guard and Central Supply Catalogue entries."
+    ]
+  },
+  {
+    "BookName": "Central Supply Catalogue -Update 2023",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40095",
+    "BookISBN": "978-1-913076-88-7",
+    "BookAuthor": "Geir Lanesskog",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40095 - Central Supply Catalogue -Update 2023.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Welcome to the Central Supply Catalogue Update 2023. This book contains all the equipment Travellers will want, need, or wish they had as they cross the galaxy.",
+      "From entertainment products to laser cannons, from cameras to powered armour, the Central Supply Catalogue Update 2023 has combed the galaxy for items suited to the most discerning Traveller. With this book, you will have everything needed to entertain the local ambassador, survive a month – or years – in the wilderness, or wage a planetary war.",
+      "New additions to the Central Supply Catalogue Update 2023 include more advanced computers, prototech, and rules to bring fabricators into a campaign, allowing Travellers to make what they cannot buy. Procure new gear on the black market, and profit from guns, armour, and ammunition smuggled past starport authorities.",
+      "The Central Supply Catalogue Update 2023. Don’t leave the starport without it."
+    ]
+  }       
 ]
