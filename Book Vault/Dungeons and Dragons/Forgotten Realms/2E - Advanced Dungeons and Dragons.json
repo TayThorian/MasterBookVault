@@ -33,28 +33,29 @@
     ]
   } ,
   {
-    "BookName": "",
-    "BookPublisher": "",
-    "BookCode": "",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookName": "The Wyrmskull Throne",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11405",
+    "BookISBN": "0-7869-1405-X",
+    "BookAuthor": "Steven E. Schend, Thomas M. Reid",
+    "BookPublished": "1999",
     "BookCover": "",
-    "BookRules": "",
-    "BookEdition": "",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Soft Cover",
+    "BookSeries": "Underwater Series",
     "BookPDF": [
-      "D:\\Master Vault\\"
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR11405 - The Wyrmskull Throne.pdf"
     ],
-    "BookCharacterLevel": "",
+    "BookCharacterLevel": "Levels 4 - 7",
     "BookDescription": [
-      "No description available."
+      "The Wyrmskull Throne - the ruling seat of the great dwarven nation of Shanatar - has been lost for five millennia. Now, rumours have surfaced that it has been found, and there are sinister parties that will stop at nothing to claim it. But the path to finding the throne is long and twisted, leading from a small village in the remotest regions of Tethyr to the bottom of the ocean! Those who follow it had best be prepared for the strange and wondrous - as well as enemies on every side - for it is no journey for the faint of heart.",
+      "The Wyrmskull Throne is a companion adventure for the Forgotten Realms accessory Sea of Fallen Stars. It can be played as a stand-alone adventure or with the material presented in that volume."
     ]
   } 
 ]

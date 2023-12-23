@@ -14,8 +14,8 @@
     "BookLibrary": "Yes",
     "BookSetting": "Adventures Dark and Deep",
     "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "Swords of Wuxia",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures Dark and Deep",
     "BookPDF": [
       "D:\\Master Vault\\OSR\\Adventures Dark and Deep\\Swords of Wuxia.pdf"
     ],
@@ -41,8 +41,8 @@
     "BookLibrary": "Yes",
     "BookSetting": "Adventures Dark and Deep",
     "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "Book of Lost",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures Dark and Deep",
     "BookPDF": [
       "D:\\Master Vault\\OSR\\Adventures Dark and Deep\\Book of Lost Beasts.pdf"
     ],
@@ -68,8 +68,8 @@
     "BookLibrary": "Yes",
     "BookSetting": "Adventures Dark and Deep",
     "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "Book of Lost",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures Dark and Deep",
     "BookPDF": [
       "D:\\Master Vault\\OSR\\Adventures Dark and Deep\\Book of Lost Lore.pdf"
     ],
@@ -79,5 +79,58 @@
       "This book contains new playable races, new character classes, new magic, alternate combat and treasure systems, and much more for GMs and players alike. You'll find classes including the musical bard, merry jester, studious savant, and villainous blackguard. scores of new spells and magic items, and much more.",
       "Written for the First Edition of the world's most popular RPG, this book will also be useful to anyone running a game using old-school rules."
     ]
-  }  
+  } ,
+  {
+    "BookName": "Book of Lost Tables",
+    "BookPublisher": "BRW Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Joseph Bloch",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Adventures Dark and Deep",
+    "BookType": "",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures Dark and Deep",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\Adventures Dark and Deep\\Book of Lost Tables.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The Book of Lost Tables is an expansion of the first edition of the world's most popular RPG. This collection of nearly 350 random tables allows you to generate wilderness, dungeon, and urban terrain and encounters, weather, non-player character parties, critical hits and fumbles, and much more. You can even use them to generate random dungeons for solo play!",
+      "Much of the material in this book was previously published as the Random Terrain and Encounter Generator."
+    ]
+  },
+  {
+    "BookName": "Swords of Cthulhu",
+    "BookPublisher": "BRW Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Joseph Bloch",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Adventures Dark and Deep",
+    "BookType": "",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures Dark and Deep",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\Adventures Dark and Deep\\Swords of Cthulhu.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Swords of Cthulhu is filled with new options to expand your old-school roleplaying game!",
+      "Plumb the rich depths of Lovecraftian horror with new races like Deep One hybrids and Degenerates, new classes like the cultist and the scholar, new skills, complete insanity rules, the Dreamlands, the Old Ones and Outer Gods, and much more. For both players and game masters.",
+      "Written for the First Edition of the world's most popular RPG, Swords of Cthulhu will also be useful to anyone running a game using old-school rules."
+    ]
+  }   
 ]

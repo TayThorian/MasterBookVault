@@ -26,6 +26,8 @@
 - - Swords of Wuxia
 - - Book of Lost Beasts
 - - Book of Lost Lore
+- - Book of Lost Tables
+- - Swords of Cthulhu
 ## Paizo
 - PZO12001 - Pathfinder - Player Core
 - PZO12002 - Pathfinder - GM Core
@@ -78,6 +80,8 @@
 - - Swords of Wuxia
 - - Book of Lost Beasts
 - - Book of Lost Lore
+- - Book of Lost Tables
+- - Swords of Cthulhu
 ## Paizo
 - PZO12001 - Pathfinder - Player Core
 - PZO12002 - Pathfinder - GM Core
