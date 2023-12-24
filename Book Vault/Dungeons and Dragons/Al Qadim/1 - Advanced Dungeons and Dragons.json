@@ -1,0 +1,64 @@
+[
+    {
+    "BookName": "ALQ1 - Golden Voyages",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9366",
+    "BookISBN": "1-76076-331-0",
+    "BookAuthor": "David \"Zeb\" Cook",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Al-Qadim (ALQ) Series Sourceboxes",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "ALQ Series",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR9366 - ALQ1 - Golden Voyages.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "<b>Who among you dares to challenge the high seas?</b>",
+      "Inspired by the tales of Sinbad, Golden Voyages provides the source material and adventures needed to run a mini-campaign on the Crowded Sea. Detailed backgrounds, perilous locations, and wondrous NPCs populate the enchanted seas. Player characters will discover wildly different adventures as they sail from place to place.",
+      "Golden Voyages includes six booklets filled with mini-adventures, an overall framing adventure, expanded rules on ships and sailing, details and background concerning topography, tribes, and new locations, and plenty of maps and player handouts. Recommended for use with the Al-Qadim: Arabian Adventures rulebook."
+    ]
+  } ,
+  {
+    "BookName": "ALQ2 - Assassin Mountain",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9431",
+    "BookISBN": "1-76076-564-X",
+    "BookAuthor": "Wolfgang Baur",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Al-Qadim (ALQ) Series Sourceboxes",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "ALQ Series",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR9431 - ALQ2 - Assassin Mountain.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The Caliph of Shadows awaits!",
+      "",
+      "The Assassins of Zakhara strike in silence and from darkness, certain of their faith and the rightness of their cause. The slayers carry out the orders of their Grandfather assassin, never questioning his wisdom or direction.",
+      "Assassin Mountain is the DM's guide to the secrets and objectives of the assassins. Captured inside this Sourcebox, you'll find new information about the holy slayers of Zakhara, from their methods, tools, and secret structure to the means used to ensure the silence of their members.",
+      "The adventures within pit the player characters against the slayers of the Everlasting, one of the most powerful and influential sects in Zakhara. The web of deceit and terror spun by the Everlasting weaves its way into the city of Liham, entangling the PCs and leading them to the perils of the assassins' stronghold.",
+      "Assassin Mountain includes:",
+      "Two booklets filled with source material on the holy slayers of Zakhara and adventures with the Everlasting",
+      "Six cardsheets",
+      "Monstrous Compendium pages detailing new genies and other monsters",
+      "A poster map of Jabal Sarahin, the fortress of the Everlasting",
+      "Recommended for use with the Arabian Adventures rulebook."
+    ]
+  } 
+]

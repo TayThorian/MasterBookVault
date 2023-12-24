@@ -380,5 +380,89 @@
       "New additions to the Central Supply Catalogue Update 2023 include more advanced computers, prototech, and rules to bring fabricators into a campaign, allowing Travellers to make what they cannot buy. Procure new gear on the black market, and profit from guns, armour, and ammunition smuggled past starport authorities.",
       "The Central Supply Catalogue Update 2023. Don’t leave the starport without it."
     ]
-  }       
+  } ,
+  {
+    "BookName": "The Spinward Extents",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40075",
+    "BookISBN": "978-1-913076-66-5",
+    "BookAuthor": "Geir Lanesskog",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Sector Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "Sector Book",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40075 - The Spinward Extents.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40075 - The Spinward Extents - Map - Vanguard Reaches.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40075 - The Spinward Extents - Map - The Beyond.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The Spinward Extents are the border between the familiar and the unknown. Pioneering and adventurous Imperials, Zhodani, Aslan, even Vargr, have reached the Extents; some have dwelt there for centuries or millennia, but they are far from their ancestral homes. Native races have forged their own empires across these stars. In the Extents the daring can make their fortunes, gain fame or infamy, and influence the course of events for entire worlds or distant governments. Alien races, forgotten mysteries, bitter rivalries and great opportunities await under the light of inconstant, giant, and dead stars.",
+      "Spinward Extents presents two complete sectors near the edge of Charted Space: The Beyond and the Vanguard Reaches. The Beyond is a borderland between Aslan expansion and human pocket empires, both ancient and new. At the end of Imperial courier routes, it is home to the alien Sred*Ni, isolated worlds, and mysterious entities. The Storm Knights hold the line in an uneasy truce with Aslan clans, but other dangers and many opportunities await.",
+      "The Vanguard Reaches is the spinward edge of settled space, a sector of proxy states for the distant Third Imperium and Zhodani Consulate. The sector is home to the warlike-Eslyat and peaceful Murians, dying red giant stars and the Helix Nebula. Warfare, politics, piracy, and sparse starscapes challenge Travellers who live and work in this distant sector.",
+      "Includes two huge colour poster maps of The Beyond and Vanguard Reaches sectors."
+    ]
+  },
+  {
+    "BookName": "Robot Handbook",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40085",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40085 - Robot Handbook.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Robots have been a staple of science fiction for a hundred years, fulfilling every role from near mindless worker, to faithful sidekick, to comic relief, to sinister villain trying to take over the world. They range from remote-controlled drones to super intelligent beings who have far exceeded the limits of their biological creators. Robots may be stationary objects equipped with a single arm or nothing more than a radio to control other machines. They may move across the ground, sea or sky, equipped with limbs, tools and weapons of all kinds.",
+      "The Robot Handbook is designed to be both quick and easy to use, and configurable to customise all aspects of a robot’s functions, capabilities and skills; a standard robot can be built in just a few minutes. The Robot Handbook also includes rules for making nanorobots and microrobots, androids, clones, biological robots and brains for both vehicles and spacecraft. And what is a cybernetic limb but a robot part? The Robot Handbook covers everything from a cybernetic arm to a whole mechanical body with a live brain inside.",
+      "The Robot Handbook comes complete with an immense catalogue filled with robots built using these rules, acting as a springboard for your own designs and allowing you to begin using robots right away to be tools, companions or opponents for your Travellers to encounter."
+    ]
+  },
+  {
+    "BookName": "High Guard Update 2022",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40087",
+    "BookISBN": "",
+    "BookAuthor": "Christopher Griffen",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40087 - High Guard Update 2022.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "High Guard Update 2022 is a major expansion to the Traveller roleplaying game with rules for designing, building and operating spacecraft found throughout the galaxy. From small and nimble fighter craft to the adventure-class ships that Travellers fly, from gargantuan megafreighters to military capital ships, this book provides everything the aspiring naval architect needs to populate their universe with ships that ply the spacelanes.",
+      "This book also provides rules for designing space stations and starports, customising ships, and exotic technologies found in popular science fiction novels and movies that can be incorporated into your universe. There are also advanced rules for sensors, detailed descriptions of starship crew roles, how to conduct violent boarding actions, and detailed guidelines for battles between fighter squadrons and enormous fleet battles.",
+      "Finally, High Guard Update 2022 presents dozens of ship designs for the Charted Space universe, including small craft and fighters, traders, gunboats, scout ships and battleships ranging from lethal destroyers to colossal battleships, carriers and dreadnoughts. The revised design system provides a new approach to armour and armaments, making space combat scalable for anything from small skirmishes to devastating clashes between dozens or even hundreds of warships."
+    ]
+  }         
 ]

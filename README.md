@@ -45,6 +45,9 @@
 - MGP40094 - Aliens of Charted Space Volume 3
 - MGP40103 - Aliens of Charted Space Volume 4
 - MGP40095 - Central Supply Catalogue -Update 2023
+- MGP40075 - The Spinward Extents
+- MGP40085 - Robot Handbook
+- MGP40087 - High Guard Update 2022
 ## EN Publishing
 - ENP0101 - N.E.W. - Science Fiction Roleplaying Game
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
@@ -53,7 +56,17 @@
 - TSR9506 - Chronomancer
 - TSR9507 - Shaman
 - TSR2173 - Monstrous Compendium Annual - Volume Four
+- TSR9431 - ALQ2 - Assassin Mountain
 - TSR11348 - Skullport
+- TSR11405 - The Wyrmskull Throne
+- TSR11316 - FOR12 - Demihumans of the Realms
+- TSR11430 - FOR13 - Secrets of the Magister
+- TSR9491 - FOR8 - Pages from the Mages
+- TSR9379 - Volo's Guide to Waterdeep
+- TSR9460 - Volo's Guide to the Sword Coast
+- TSR9486 - Volo's Guide to Cormyr
+- TSR9524 - Volo's Guide to the Dalelands
+- TSR9535 - Volo's Guide to All Things Magical
 ## Seattle Hill Games
 - - OSRIC Player's Guide
 # PDF's Books to Source
@@ -99,6 +112,9 @@
 - MGP40094 - Aliens of Charted Space Volume 3
 - MGP40103 - Aliens of Charted Space Volume 4
 - MGP40095 - Central Supply Catalogue -Update 2023
+- MGP40075 - The Spinward Extents
+- MGP40085 - Robot Handbook
+- MGP40087 - High Guard Update 2022
 ## EN Publishing
 - ENP0101 - N.E.W. - Science Fiction Roleplaying Game
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
@@ -108,5 +124,17 @@
 - TSR2114 - DMGR2 - Castle Guide
 - TSR9506 - Chronomancer
 - TSR9507 - Shaman
+- TSR9366 - ALQ1 - Golden Voyages
+- TSR9431 - ALQ2 - Assassin Mountain
 - TSR2021 - Dragonlance Adventures
+- TSR11405 - The Wyrmskull Throne
+- TSR11393 - Sea of Fallen Stars
+- TSR11316 - FOR12 - Demihumans of the Realms
+- TSR9491 - FOR8 - Pages from the Mages
+- TSR9379 - Volo's Guide to Waterdeep
+- TSR9393 - Volo's Guide to the North
+- TSR9460 - Volo's Guide to the Sword Coast
+- TSR9486 - Volo's Guide to Cormyr
+- TSR9524 - Volo's Guide to the Dalelands
+- TSR9535 - Volo's Guide to All Things Magical
 - TSR2023 - Greyhawk Adventures
