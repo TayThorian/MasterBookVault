@@ -18,10 +18,6 @@
 - GCP-SMP-4600 - Races & Cultures
 ## Monte Cook Games
 - MCG361 - The Glimmering Valley
-- MCG287 - Break The Horizon
-- MCG286 - Vertices
-- MCG161 - Building Tomorrow
-- MCG089 - Ninth World Bestiary 2
 - MCG004 - Ninth World Bestiary
 - MCG168 - Ninth World Bestiary 3
 ## BRW Games
@@ -68,8 +64,6 @@
 - TSR9486 - Volo's Guide to Cormyr
 - TSR9524 - Volo's Guide to the Dalelands
 - TSR9535 - Volo's Guide to All Things Magical
-## Seattle Hill Games
-- - OSRIC Player's Guide
 # PDF's Books to Source
 ## Free League Publishing
 - FLFALE017 - Building Better Worlds
