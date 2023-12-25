@@ -22,6 +22,8 @@
 - MCG286 - Vertices
 - MCG161 - Building Tomorrow
 - MCG089 - Ninth World Bestiary 2
+- MCG004 - Ninth World Bestiary
+- MCG168 - Ninth World Bestiary 3
 ## BRW Games
 - - Swords of Wuxia
 - - Book of Lost Beasts
@@ -30,7 +32,6 @@
 - - Swords of Cthulhu
 ## Paizo
 - PZO12001 - Pathfinder - Player Core
-- PZO12002 - Pathfinder - GM Core
 ## Digest Group Publications
 - - Manhunt
 ## Mongoose Publishing
@@ -85,10 +86,6 @@
 - GCP-SMP-4600 - Races & Cultures
 ## Monte Cook Games
 - MCG361 - The Glimmering Valley
-- MCG287 - Break The Horizon
-- MCG286 - Vertices
-- MCG161 - Building Tomorrow
-- MCG089 - Ninth World Bestiary 2
 ## BRW Games
 - - Swords of Wuxia
 - - Book of Lost Beasts

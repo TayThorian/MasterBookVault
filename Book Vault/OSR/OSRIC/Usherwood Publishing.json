@@ -55,5 +55,30 @@
     "BookDescription": [
       "Inspired by the Usherwood Adventures campaign setting, the material contained in the Usherwood Adventures Expansion for OSRIC is completely setting-agnostic, and easily adaptable to your campaign world. 122 pages of new material, much of it never published previously, and only to be made available in this publication. As all Usherwood Publishing PDF products, this book is fully forms-activated for Adobe ReaderTM (or other PDF-capable application) so you can include your own notes live, on each and every page."
     ]
-  }  
+  },
+  {
+    "BookName": "Monsters of Myth",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Stuart Marshall and Matt Finch",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSRIC",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "OSRIC",
+    "BookType": "Bestiary",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\OSRIC\\Monsters of Myth.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Monsters of Myth is  the premiere collection of OSRIC monsters, and contains more than 150 new creatures for use with First Edition-compatible games.   A companion in the spirit of the monster collections from the 1970s to 1980s, Monsters of Myth will provide game masters with many unique challenges with which to test their players!"
+    ]
+  }   
 ]

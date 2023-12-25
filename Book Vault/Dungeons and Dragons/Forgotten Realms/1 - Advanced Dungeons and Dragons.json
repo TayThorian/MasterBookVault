@@ -357,5 +357,37 @@
       "Suitable for all levels of play.",
       "<b>Special note:</b> This edition of Volo's Guide to Baldur's Gate II: Shadows of Amn, intended for travelers from beyond the borders of Faerûn, contains notes and commentary by the famous archmage and sage, Elminster."
     ]
-  }      
+  },
+  {
+    "BookName": "Forgotten Realms Campaign Set",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1031",
+    "BookISBN": "0-88038-472-7",
+    "BookAuthor": "Ed Greenwood, Jeff Grubb, Karen S. Martin",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Hardbacks & Campaign Settings",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1031 - Forgotten Realms Campaign Set.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Within this box is everything needed to visit the fabulous Forgotten Realms. The 96-page player's book contains entries on all known areas, cities, people, and things, presented in alphabetical order. Numerous maps outline the more well-known cities and lands. The 96-page DM's book contains all the information pertinent to running a campaign set in this fantasy world, from how to bring existing characters into the Forgotten Realms to two complete introductory mini-adventures to a listing of known magical texts and the magics contained therein. Four full-color maps show the entire lands and details of the more well-known areas. Adventuring rules specific to the Forgotten Realms have been included. Everything you need is here—save for your imagination",
+      "<b>Contents:</b>",
+      "Cyclopaedia of the Realms, 96-page booklet",
+      "DM's Sourcebook of the Realms, 96-page booklet",
+      "21\" x 33\" map of the Sword Coast, from Icewind Dale to the jungles of Chult, including the Moonshae Isles and the Far Hills.",
+      "21\" x 33\" map of Interior Faerûn, from Lapaliiya and Eastern Shaar to Anauroch and Sossal",
+      "33\" x 21\" map of Cormyr, Sembia, and the Dalelands, from Priapurl and Tsurlagol to Anauroch and Vaasa",
+      "33\" x 21\" map of the Western Heartlands, from Easting and the Lonely Moor to Beregost, Daggerford, and Mintarn"
+    ]
+  }       
 ]

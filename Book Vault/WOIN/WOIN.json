@@ -76,5 +76,113 @@
       "Play a secret agent, a weary investigator, an elite hacker, or a shadowy ninja. Are you a roving reporter, a kung-fu expert, or a weathered soldier? Dozen of modern careers await you!",
       "This roleplaying game allows you to create and run adventures in any modern setting, from the late 1800s to the 21st century."
     ]
-  }  
+  },
+  {
+    "BookName": "W1 - Xenomorphs - The Fall of Somerset Landing",
+    "BookPublisher": "EN Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "WOIN",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\WOIN\\W1 - Xenomorphs - The Fall of Somerset Landing.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "<b>Dare to enter a gritty setting of sci-fi survival horror!</b>",
+      "In these pages you will find a survival horror setting for your science-fiction WOIN games detailing known space, careers, equipment, monsters, and more; plus a detailed terraforming colony on a small, weatherbeaten moon some 40 light years from Earth, and a terrifying adventure which charts the events just prior to the colony’s loss of contact with the Chen Zua Corporation, the company behind the terraforming technology that oversees the United Planets Terraforming Contracts.",
+      "Terror and monsters await in the depth of space!",
+      "So welcome to Somerset Landing and hold on tight… as all hell is about to break loose!"
+    ]
+  },
+  {
+    "BookName": "Starship Recognition Manual",
+    "BookPublisher": "EN Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "WOIN",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\WOIN\\Starship Recognition Manual.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "USF INTELLIGENCE OFFICE CLASSIFIED DOCUMENT 7863.3D",
+      "This manual contains classified specifications of over 70 USF and foreign spacecraft. Unauthorized possession of this manual is strictly prohibited under Directive 143.C.",      
+      "This manual describes a selection of the major space craft of the United Space Force (USF), Royal Spartan Armada, along with a range of Venetian, Borian, Ogron, and civilian ships.",      
+      "All efforts have been made to ensure the accuracy of this material, with reference to classified intelligence gathered by USF operatives.",
+      "Requires the use of a What's OLD is NEW core rulebook.",
+      "Like this book? Also check out the WOIN Starship Construction Manual to design and build ships of your own! Or use the Starship Recognition Tiles as convenient handouts during the game, and the Starship Counters to represent your ships!"
+    ]
+  } ,
+  {
+    "BookName": "Galactic Sentience Catalog",
+    "BookPublisher": "EN Publishing",
+    "BookCode": "ENP0102",
+    "BookISBN": "978-1-912007-64-6",
+    "BookAuthor": "Russ Morrissey",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "WOIN",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\WOIN\\ENP0102 - Galactic Sentience Catalog.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  },
+  {
+    "BookName": "W3 - Santiago - A Myth of the Far Future",
+    "BookPublisher": "EN Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "WOIN",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\WOIN\\W3 - Santiago - A Myth of the Far Future.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  }     
 ]

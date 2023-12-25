@@ -44,7 +44,7 @@
     "BookRules": "Cypher System",
     "BookEdition": "1st Edition",
     "BookPhysical": "To Source",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
     "BookType": "Supplement",
@@ -77,7 +77,7 @@
     "BookRules": "Cypher System",
     "BookEdition": "1st Edition",
     "BookPhysical": "To Source",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
     "BookType": "Adventure",
@@ -111,14 +111,16 @@
     "BookRules": "Cypher System",
     "BookEdition": "1st Edition",
     "BookPhysical": "To Source",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
     "BookType": "",
     "BookFormat": "Hardback",
     "BookSeries": "Expansion",
     "BookPDF": [
-      "D:\\Master Vault\\Numenera\\MCG161 - Building Tomorrow.pdf"
+      "D:\\Master Vault\\Numenera\\MCG161 - Building Tomorrow.pdf",
+      "D:\\Master Vault\\Numenera\\MCG161 - Building Tomorrow - Poster Maps.pdf",
+      "D:\\Master Vault\\Numenera\\MCG161 - Building Tomorrow - End Sheets.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
@@ -136,7 +138,7 @@
     "BookRules": "Cypher System",
     "BookEdition": "1st Edition",
     "BookPhysical": "To Source",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
     "BookType": "Bestiary",
@@ -149,5 +151,686 @@
     "BookDescription": [
       "The Ninth World is unlike any other fantasy setting: weird, imaginative, dangerous, and often a bit creepy. The creatures of Numenera are no different—and the Ninth World Bestiary 2 gives you over 160 new ones to populate your campaign. Creatures undreamt of by even the most experienced pursuer of the numenera: the huge, burrowing mimus; the six-mouthed jreet; the mirror-faced cyclic raider; and many, many more."
     ]
-  }    
+  } ,
+  {
+    "BookName": "Ninth World Bestiary",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG004",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Bestiary",
+    "BookFormat": "Hardback",
+    "BookSeries": "Bestiary",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG004 - The Ninth World Bestiary.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  },
+  {
+    "BookName": "Ninth World Bestiary 3",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG168",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Bestiary",
+    "BookFormat": "Hardback",
+    "BookSeries": "Bestiary",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG168 - Ninth World Bestiary 3.pdf",
+      "D:\\Master Vault\\Numenera\\MCG168 - Ninth World Bestiary 3 - Poster Maps.pdf",
+      "D:\\Master Vault\\Numenera\\MCG168 - Ninth World Bestiary 3 - End Sheets.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } ,
+  {
+    "BookName": "Numenera Destiny",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG160",
+    "BookISBN": "978-1-939979-78-0",
+    "BookAuthor": "Bruce R. Cordell, Monte Cook, Sean K. Reynolds",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Core Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG160 - Numenera Destiny.pdf",
+      "D:\\Master Vault\\Numenera\\MCG160 - Numenera Destiny - Poster Maps.pdf",
+      "D:\\Master Vault\\Numenera\\MCG160 - Numenera Destiny - End Sheets.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "They say there have been eight worlds before ours. Eight times the people of this planet, over vast millennia, built their civilizations, reaching heights we cannot even fully imagine now. They spoke to the stars, reshaped the creatures of the world, and mastered form and essence. They built cities and machines that have since crumbled to dust, leaving only their barest remnants.",
+      "This is the Ninth World. The people of the prior worlds are gone—scattered, disappeared, or transcended. But their works remain, in the places and devices that still contain some germ of their original function. The ignorant call these magic, but the wise know that these are our legacy. They are our future. They are the . . . NUMENERA",
+      "Set a billion years in our future, Numenera is a tabletop roleplaying game about exploration and discovery. The people of the Ninth World suffer through a dark age, an era of isolation and struggle in the shadow of the ancient wonders crafted by civilizations millennia gone. But discovery awaits those brave enough to seek out the works of the prior worlds. Those who can uncover and master the numenera can unlock the powers and abilities of the ancients, and perhaps bring new light to a struggling world.",
+      "The 416-page (plus double-sided poster map) Numenera Discovery corebook contains everything you need to explore a world of wonder, danger, and mystery. With streamlined, intuitive rules, you can create characters in minutes. The multiple award-winning system (Origins Award for Best Roleplaying Game; seven ENnie Awards including Gold for Best Setting, Best Writing, and Product of the Year) puts the emphasis on story and is amazingly easy to GM, both in prep and at the table."
+    ]
+  } ,
+  {
+    "BookName": "Numenera Discovery",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG150",
+    "BookISBN": "978-1-939979-77-3",
+    "BookAuthor": "Bruce R. Cordell, Monte Cook, Sean K. Reynolds",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Core Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG150 - Numenera Discovery.pdf",
+      "D:\\Master Vault\\Numenera\\MCG150 - Numenera Discovery - Poster Maps.pdf",
+      "D:\\Master Vault\\Numenera\\MCG150 - Numenera Discovery - End Sheets.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "They say there have been eight worlds before ours. Eight times the people of this planet, over vast millennia, built their civilizations, reaching heights we cannot even fully imagine now. They spoke to the stars, reshaped the creatures of the world, and mastered form and essence. They built cities and machines that have since crumbled to dust, leaving only their barest remnants.",
+      "This is the Ninth World. The people of the prior worlds are gone—scattered, disappeared, or transcended. But their works remain, in the places and devices that still contain some germ of their original function. The ignorant call these magic, but the wise know that these are our legacy. They are our future. They are the . . . NUMENERA",
+      "Set a billion years in our future, Numenera is a tabletop roleplaying game about exploration and discovery. The people of the Ninth World suffer through a dark age, an era of isolation and struggle in the shadow of the ancient wonders crafted by civilizations millennia gone. But discovery awaits those brave enough to seek out the works of the prior worlds. Those who can uncover and master the numenera can unlock the powers and abilities of the ancients, and perhaps bring new light to a struggling world.",
+      "The 416-page (plus double-sided poster map) Numenera Discovery corebook contains everything you need to explore a world of wonder, danger, and mystery. With streamlined, intuitive rules, Numenera allows players to create characters in minutes. The multiple award-winning system (Origins Award for Best Roleplaying Game; seven ENnie Awards including Gold for Best Setting, Best Writing, and Product of the Year) puts the emphasis on story and is amazingly easy to GM, both in prep and at the table.",
+      "Numenera Discovery includes all the game rules and everything needed to generate characters, along with a bestiary, an expansive overview of the Ninth World, hundreds of numenera items, great game mastering advice from one of the foremost experts on the topic, and four full-length adventures. All wrapped up in the wonder and weirdness of the Ninth World!"
+    ]
+  }  ,
+  {
+    "BookName": "Liminal Shore",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG258",
+    "BookISBN": "978-1-950568-12-3",
+    "BookAuthor": "Bruce R. Cordell, Sean K. Reynolds",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG258 - Liminal Shore.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "<b>A land of secrets, beyond the farthest seas—or, perhaps, farther still. . .</b>",
+      "Here, everything lives. Not just the dense forests and lush grasslands, teeming with creatures fabulous and humble. Not just the very earth, rocks, seas, and air. But even the clothes, the weapons, the cyphers you find here. It all breathes, grows, consumes, heals, and, well, lives.",
+      "Massive flying creatures drift through the skies. Cities crawl, float, or fly across the landscape. Magnificent towers and superstructures soar upward, some so tall they touch the void itself. And beneath your feet, strange organs and vacuoles permeate the earth, sending bony ramparts thrusting up through the surface to form great mountainous ranges. It’s a land unknown to most in the Steadfast, never touched by the influence of the Order of Truth, never ruled by those who know our civilizations. A land of secrets, said to lie beyond the farthest seas . . . but perhaps its real location is the greatest secret of all.",
+      "Liminal Shore contains:",
+      "An entirely new, previously unexplored region of the Ninth World, unlike anyplace else you’ve been.",
+      "Scores of new cyphers, artifacts, and creatures, all flavored by the unique nature of the Liminal Shore.",
+      "Several new sapient species, including three suitable as PCs. Play a winged caterpillar-like creel, a shelled wholkin, or a mysterious, fungoid spirant.",
+      "Two complete adventures. Unusual Vitality pulls unwitting characters into the Liminal Shore, making it a perfect introduction to the new setting; Pieces of My Heart helps them explore and understand this strange new land."
+    ]
+  } ,
+  {
+    "BookName": "Edge of the Sun",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG259",
+    "BookISBN": "978-1-950568-15-4",
+    "BookAuthor": "Bruce R. Cordell",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG259 - Edge of the Sun.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "<b>The greatest work of the prior worlds: The Engine of the Gods!</b>",
+      "Few who dwell in the Ninth World know of the greatest achievement of the ancients, for it rests—imperceptibly, despite its vast size—on the very edge of the sun itself. The prior worlds were mighty beyond conception, but even for them, this Engine is a work of staggering proportion. What incredible threat to the sun, our world, and all the bodies of our solar system compelled them to such an audacious feat? Has that threat been ended?",
+      "Or do the beings that dwell in the Engine (for yes, it is home to many strange creatures) struggle now in vain, unaware that their mission no longer protects them—or us—from a cataclysm on a scale that dwarfs even the boldness of the prior worlds’ most ambitious work?",
+      "Edge of the Sun details a massive new location for Numenera characters to explore: the Engine of the Gods. Fiercely hostile to human life, it can nevertheless be visited physically or virtually, where its many secrets—and dangers—await discovery.",
+      "This book contains:",
+      "A host of new creatures suited to life on and in the Engine of the Gods.",
+      "Dozens of new cyphers and artifacts, plus augmechs—strange vehicles that can be piloted remotely to explore the Engine or used to reach other locations in the Ninth World or across the solar system.",
+      "A map generator that lets you easily create infinite regions within the planet-sized Engine of the Gods.",
+     " Two complete adventures. “Waking the Mega” introduces augmechs, as the PCs discover, revive, and ultimately pilot one against a titanic threat. “The Sun Doth Move” is a lengthy adventure with world-shattering consequences that can make an excellent capstone to your explorations of the Engine of the Gods—or to an entire Numenera campaign!"
+    ]
+  } ,
+  {
+    "BookName": "Voices of the Datasphere",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG253",
+    "BookISBN": "978-1-950568-08-6",
+    "BookAuthor": "Bruce R. Cordell, Sean K. Reynolds",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG253 - Voices of the Datasphere.pdf",
+      "D:\\Master Vault\\Numenera\\MCG253 - Voices of the Datasphere - End Sheets.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Most Ninth Worlders know the datasphere only as the source of mysterious glimmers—those odd, unbidden flashes of knowledge and insight that, rarely, embed themselves within the mind. Some who study the numenera call it a network built by the ancients to surround the world with their knowledge. Some Aeon Priests say it is in fact many such networks that sometimes, but not always, intersect.",
+      "And then there are those who have explored it. They tell stories of a vast metaspace that one can actually enter, to emerge in wholly other places—and along the way discover treasures and dangers unique to a bizarre realm unconstrained by the laws of nature.",
+      "Some of these sages and adventurers believe its exploration offers the greatest key to unlocking the secrets of the prior worlds. Are they right? Only one thing is certain: the datasphere offers amazing knowledge to be learned, rich treasures to be discovered, and all-new challenges to be overcome.",
+      "Voices of the Datasphere contains:",
+      "An entirely new mode of play, in which characters translate into the virtual metaspace of the datasphere and become avatars of themselves in a bizarre and timeless realm. Explore the datasphere itself, or use it to travel vast distances across the Ninth World.",
+      "Nine sample nodes—encounter spaces within the datasphere.",
+      "Numerous secrets of the prior worlds, such as the likely purpose of the Clock of Kala, long locked away within the knowledge vaults of the datasphere.",
+      "New cyphers, artifacts, vehicles, and creatures.",
+      "Two complete adventures that take you into the datasphere!"
+    ]
+  },
+  {
+    "BookName": "Explorer's Keys - Ten Instant Adventures",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG172 - Explorer's Keys - Ten Instant Adventures.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  },
+  {
+    "BookName": "Shadewalker",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG178",
+    "BookISBN": "",
+    "BookAuthor": "Sean K. Reynolds",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG178 - Shadewalker.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Every few years, the Shadewalker lifts itself from torpor and rambles to a new location—which forces the citizens of Shadewalker Shanty, the trading settlement that has built up under the Shadewalker’s protective bulk, to relocate their town. For the first time in memory, though, the Shadewalker has done something different. Is the giant machine leading the town into danger? Or becoming a threat itself? It’s up to the player characters to find out!",
+      "Shadewalker is a short introductory adventure for Numenera, complete with pregenerated characters so you can jump straight into the action. And it’s a great introduction to Cypher Play Season 18-1 (January through April 2018)—which itself is a lead-in to the launch of Numenera Discovery and Numenera Destiny."
+    ]
+  } ,
+  {
+    "BookName": "The Thief, the Clave and the Ultimatum",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG098",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG098 - The Thief, the Clave and the Ultimatum.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } ,
+  {
+    "BookName": "Forgetting Doomsday",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG222",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG222 - Forgetting Doomsday.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  },
+  {
+    "BookName": "Slaves of the Machine God",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG165",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG165 - Slaves of the Machine God.pdf",
+      "D:\\Master Vault\\Numenera\\MCG165 - Slaves of the Machine God - Poster Maps.pdf",
+      "D:\\Master Vault\\Numenera\\MCG165 - Slaves of the Machine God - End Sheets.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  },
+  {
+    "BookName": "Ninth World Guidebook",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG006",
+    "BookISBN": "978-1-939979-24-7",
+    "BookAuthor": "Monte Cook, Shanna Germain",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG006 - Ninth World Guidebook.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The Ninth World Guidebook takes your Numenera campaign into uncharted territory, literally expanding the setting beyond the borders of the corebook’s maps. This 256-page tome—more than half again the size of previous Numenera hardcover supplements— explores lands hinted at in previous books, opens new territories, and adds detail to those already discussed.",
+      "From the frozen lands beyond the Southern Wall, to the volcanic desert of Vralk and the weird, faroff realm of Corao, The Ninth World Guidebook explores new lands and includes adventure hooks, new creatures, new character options, and the incredible level of detail, imagination, and weirdness that is the hallmark of the Ninth World!"
+    ]
+  },
+  {
+    "BookName": "Technology Compendium - Sir Arthour’s Guide to the Numenera",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG005",
+    "BookISBN": "978-1-939979-20-9",
+    "BookAuthor": "Monte Cook",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG005 - Technology Compendium - Sir Arthour’s Guide to the Numenera.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The namesake of the entire game line, the “numenera” are artifacts, oddities, and little bits of almost magic-like technology left to the Ninth World by a billion years of previous civilizations. Now the Ninth World’s foremost expert, the redoubtable (though perhaps not entirely sane) Sir Arthour, brings nearly 1,000 new items to the Numenera gaming table.",
+      "The Technology Compendium: Sir Arthour’s Guide to the Numenera contains:",
+      "400 new cyphers",
+      "225 new artifacts",
+      "300 new oddities",
+      "For the players, it introduces a new race: the artificial intelligence. And it includes extensive GM advice on integrating incredibly advanced technologies into your game."
+    ]
+  },
+  {
+    "BookName": "Ashes of the Sea",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG191",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG191 - Ashes of the Sea.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } ,
+  {
+    "BookName": "Priests of the Aeons",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG166",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG166 - Priests of the Aeons.pdf",
+      "D:\\Master Vault\\Numenera\\MCG166 - Priests of the Aeons - Poster Maps.pdf",
+      "D:\\Master Vault\\Numenera\\MCG166 - Priests of the Aeons - End Sheets.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } ,
+  {
+    "BookName": "Numenera Player's Guide",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG162",
+    "BookISBN": "978-1-939979-76-6",
+    "BookAuthor": "Bruce R. Cordell, Monte Cook, Sean K. Reynolds",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Core Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG162 - Numenera Player's Guide.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Create characters, explore the Ninth World, and learn the basic rules of the Numenera roleplaying game with this inexpensive player’s guide. It’s perfect for getting a taste of the game, having an extra reference on hand at the gaming table, and building new characters. The guide is an easy-to-access resource for anyone playing Numenera and a wonderful introduction and teaching tool for the game.",
+      "The Numenera Player’s Guide includes:",
+      "All the basic game rules for this fast-paced, story-based tabletop roleplaying game.",
+      "An intuitive, concept-driven character-generation system, with scores of options for building just the character you imagine.",
+      "An overview of the unique and wondrous Ninth World setting.",
+      "Your gaming group will also need at least one copy of Numenera Discovery and Numenera Destiny to play Numenera, but the Player’s Guide is an inexpensive option for having a second set of rules handy at the gaming table."
+    ]
+  },
+  {
+    "BookName": "Into the Outside",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG083",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG083 - Into the Outside.pdf",
+      "D:\\Master Vault\\Numenera\\MCG083 - Into the Outside - Poster Maps.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  },
+  {
+    "BookName": "Into the Deep",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG082",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG082 - Into the Deep.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } ,
+  {
+    "BookName": "Into the Night",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG071",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG071 - Into the Night.pdf",
+      "D:\\Master Vault\\Numenera\\MCG071 - Into the Night - Poster Maps.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } ,
+  {
+    "BookName": "The Nightcraft",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG085",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG085 - The Nightcraft.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } ,
+  {
+    "BookName": "The Hideous Game",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG100",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG100 - The Hideous Game.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  },
+  {
+    "BookName": "Shards of the Looking Glass",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG350",
+    "BookISBN": "",
+    "BookAuthor": "Charles Ryan",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG350 - Shards Of The Looking Glass.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The isolated aldeia of Tavrul is suffering a strange plague: duplicates of its citizens have started wandering into town. They seem to be identical to their originals in personality, memories, and ideals, but their presence is unnerving and confusing at the very least. Duplicates of the living were troubling enough, but now the dead have appeared—and their motives seem much more sinister. Can the PCs discover the cause—and what happens when their own duplicates begin to appear?",
+      "This 16-page adventure was run in official 2022 Numenera events at Gen Con and Gamehole Con, and was specifically designed to create interesting outcomes that play out differently each time the adventure is run. It’s great as a stand-alone scenario for new or experienced Numenera players, or is easily integrated into an ongoing campaign. Six pre-generated characters are included, so you have everything you need to play!"
+    ]
+  } ,
+  {
+    "BookName": "Skein of the Blackbone Bride",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG046",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG046 - Skein of the Blackbone Bride.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  } ,
+  {
+    "BookName": "Beyond All Worlds",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG059",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Numenera\\MCG059 - Beyond All Worlds.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ]
+  }             
 ]
