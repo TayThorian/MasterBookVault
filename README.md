@@ -20,6 +20,9 @@
 - MCG361 - The Glimmering Valley
 - MCG004 - Ninth World Bestiary
 - MCG168 - Ninth World Bestiary 3
+- MCG083 - Into the Outside
+- MCG082 - Into the Deep
+- MCG071 - Into the Night
 ## BRW Games
 - - Swords of Wuxia
 - - Book of Lost Beasts
@@ -115,6 +118,9 @@
 - TSR2114 - DMGR2 - Castle Guide
 - TSR9506 - Chronomancer
 - TSR9507 - Shaman
+- TSR2123 - DMGR3 - Arms and Equipment Guide
+- TSR2133 - DMGR5 - Creative Campaigning
+- TSR2144 - DMGR6 - The Complete Book of Villains
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR2021 - Dragonlance Adventures
