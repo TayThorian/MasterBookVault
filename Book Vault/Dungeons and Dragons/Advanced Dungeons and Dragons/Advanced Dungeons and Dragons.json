@@ -20,7 +20,14 @@
     "BookCharacterLevel": "",
     "BookDescription":[
       "Whether you're a novice DM getting ready to referee your first AD&D game or an old pro who's running an established campaign, there's something for you in the Campaign Sourcebook and Catacomb Guide. We've included dozens of helpful tips to help you better organize your games, design adventures, and make your NPCs come to life. In short, there's something for everybody in this exciting addition to the AD&D game system."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "DMGR2 - Castle Guide",
@@ -44,7 +51,14 @@
     "BookDescription":[
       "Imagine a world of knights in shining armor, mighty castles, and high chivalry. In this book, you'll find a wealth of information desgined to allow any DM to create a campaign world based on feudal Europe. Sections address life in a feudal culture, new Battlesystem rules for the resolution of sieges, a quick resolution system for massive military campaigns, and an assortment of generic castles to spark your imagination.",
       "The Castle Guide is a must for any player or DM who's ever wanted to fight for a seat at the round table."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "DMGR7 - The Complete Book of Necromancers",
@@ -67,7 +81,14 @@
     "BookCharacterLevel": "",
     "BookDescription":[
       "Necromancers like Kazerabet and their priestly counterparts have mastered many dark, forbidden secrets. This tome reveals these mysteries to the Dungeon Master, who will find new NPC kits and volumes of necromancer's minions, familiars, secret societies, poisons, magical items, enchanted tomes, and dozens of new wizard and priest spells, plus the deadly Isle of the Necromancers, a portable setting which can be placed into any existing campaign."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Encyclopedia Magica - Volume One",
@@ -90,7 +111,14 @@
     "BookCharacterLevel": "",
     "BookDescription":[
       "The Encyclopedia Magica is a four-volume series that describes every magical item for the AD&D game. These items have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975. This essential reference tool puts the power of more than 20 years of AD&D history at your fingertips!"
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Chronomancer",
@@ -118,7 +146,14 @@
       "The final and most dangerous fantasy frontier lies not in space, but in time! At last, the dimension of Time is open to those few wizards who would risk everything, even their very existence, to visit ancient and forgotten lands or see the unbelievable wonders and horrors of the future.",
       "These few wizards are Chronomancers, and this 96-page AD&D game accessory reveals the secrets of their lives. New spells, new powers, and new realms—as well as terrifying monsters—are brought to light in this stunning work.",
       "Take time to study the mysteries of chronomancy.. before someone else takes that time from you."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Shaman",
@@ -145,7 +180,14 @@
       "<b>The secrets of the spirit world unveiled for the first time!</b>",
       "There is a world unseen by mortals, a world filled with invisible beings that whisper words unheard by all—all but the shaman. The shaman alone knows how to listen for the spirits, and the shaman alone knows their secrets.",
       "This 96-page AD&D game accessory introduces three new priest classes with unique powers and exciting potential. More subtle and versatile than clerics and wizards, shamans tap the energies of the mysterious spirit world, using their extraordinary abilities to further their personal goals, as well as the agendas of their unseen spirit patrons. Shaman offers complete information on these new classes, tips for incorporating them into established campaigns, new skills, new spells, and a detailed look at the unseen world of spirits."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Monstrous Compendium Annual - Volume Four",
@@ -172,7 +214,14 @@
       "Welcome to Annual Number Four! Drawn from our best adventures of the recent past-not to mention the pages of DRAGON\", DUNGEON\", and POLYHEDRON\" Magazines-this volume also returns old classics to print and introduces some critters never before seen!",
       "Over 100 creatures are presented, from the Prismatic Dragon and the Clockwork Horrors to the Shades from the Demiplane of Shadow. Creatures in this book have come from the FORGOTTEN REALMS, BIRTHRIGHT, DRAGONLANCE, RAVENLOFT, DARK SUN, RED STEEL, and GREY HAWK settings (and a few have just sprung from the fertile minds of their creators).",
       "This collection, which is fully indexed, features new monsters from the Far Realm, and includes many creatures suitable for nautical and undersea adventures."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "GDQ1-7 - Queen of the Spiders",
@@ -199,7 +248,14 @@
       "Deep within the bowels of the Earth there lives a fell race, the drow, who conspire and plot to enslave and destroy the surface realms. The webs they spin are many, and the tendrils of their power can be felt from the Crystalmist Mountains to the Pomarj. Yet as deadly as these creatures are, they are pale shadows compared to the grim power they worship. ",
       "<b>The Queen of Spiders! </b>",
       "The story of the Queen of the Spiders is one of plots within plots, wheels within wheels. Each level of the conspiracy has its own masters (or mistresses) and hidden reasons for their actions. All the parties involved wield their own dread powers and are forces to be reckoned with. It is recommended that at the start of the adventure no characters be of less than 8th level, with loth level the norm as the characters leave the surface world and journey into the sunless realms of the depths beneath the earth. Characters of less than 8th level will quickly find themselves overwhelmed by the creatures they must face, and it is recommended that those of much lower levels begin play with Temple Of Elemental Evil or Scourge of the Slave Lords, which provide the groundwork for this adventure. Just as characters of too low a level will have difficulty dealing with the encounters within, those of supremely high level (18 + at the start of the adventure) will undoubtedly find the challenges within unsatisfying, and surely one such as Lolth would not wish to let into her web any opponent she feels could give her a fair fight! Such characters are best left running their own baronies and kingdoms, provided what support they may for lesser adventurers. "
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "U1 - The Sinister Secret of Saltmarsh",
@@ -225,7 +281,14 @@
     "BookDescription": [
       "Desolate and abandoned, the evil alchemist's mansion stands alone on the cliff, looking out towards the sea. Mysterious lights and ghostly hauntings have kept away the people of Saltmarsh, despite rumors of a fabulous forgotten treasure. What is it's sinister secret?",
       "The Sinister Secret of Saltmarsh is the first installment in a series of three modules designed and developed in the United Kingdom, for beginning adventures with the AD&D rules. The adventure can be played by 5-10 characters of levels 1-3. This module contains large-scale maps, full background information, and detailed encounter descriptions for the players and DM."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "U2 - Danger at Dunwater",
@@ -251,7 +314,14 @@
     "BookDescription": [
       "The little fishing town of Saltmarsh is threatened! Why are lizard men gathering force nearby and why have they been buying large quantities of weapons? A party of bold adventurers must answer these questions or the people of Saltmarsh will never live in peace!",
       "\"Danger at Dunwater\" is the second part in a series of three modules designed and developed in the United Kingdom for beginning adventurers with the AD&D rules. Its plot follows direct from that of the first part (U1: \"The Sinister Secret of Saltmarsh\"). This adventure can be played by 6-10 characters of levels 1-4. This module contains large-scale maps, full background information, and detailed encounter descriptions for the players and DM."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "U3 - The Final Enemy",
@@ -277,7 +347,14 @@
     "BookDescription": [
       "At last! An opportunity to avert the threat to the little town of Saltmarsh! The real enemies have been identified - evil, cruel creatures, massed in force and viciously organized. Can the brave adventurers thwart this evil and ensure the safety of Saltmarsh?",
       "\"The Final Enemy\" is the final part in a series of three modules designed and developed in the United Kingdom for beginning adventurers with the AD&D rules. Its plot follows directly from those of the first two parts (U1: \"The Sinister Secret of Saltmarsh\" and U2: \"Danger at Dunwater\"). This adventure can be played by 8-12 characters of experience levels 3 to 5. This module contains large-scale maps, full background information and detailed encounter descriptions for the players and DM."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "DMGR3 - Arms and Equipment Guide",
@@ -303,7 +380,14 @@
     "BookDescription": [
       "At one time or another, every Dungeon Master faces questions like \"What's the difference between banded mail and splint mail?\" and \"What do all these pole arms look like?\"",
       "DMs and players alike will be thrilled to find answers to these and other equipment questions all in this book, the Arms and Equipment Guide. Lavishly illustrated, this book provides valuable descriptions and diagrams for a variety of armors, weapons, and barding, as well as important items of clothing and equipment. This is the essential volume for the well-equipped character!"
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "DMGR4 - Monster Mythology",
@@ -329,7 +413,14 @@
     "BookDescription": [
       "Maglubiyet... Blibdoolpoolp... Diinkarazan... Panzuriel.... Such names are whispered in the dark on the far side of midnight, or muttered fearfully around jugs of wine when old, scarred adventurers tell their tales. They are the unseen, unknown things worshipped by monsters and monstrosities.",
       "Learn all about the avatars and shamans of giants, goblins, the Underdark - even illithids and beholders - in this expansion of the popular Legends & Lore."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "DMGR5 - Creative Campaigning",
@@ -357,17 +448,20 @@
       "<b>Players:</b> \"Oh no, not another tavern scenario! We're tired of those! We want something different!\"",
       "If this sounds like your latest gaming session, Creative Campaigning can help: This book is loaded with ideas and suggestions that will make even the most jaded players sit up and pay attention. Everything from alternate settings to variant rules to really strange adventures is included.",
       "Put your gaming back on track for outstanding heroic adventure!",
-      "",
-      "<b>Table of Contents</b>",
-      "",
-      "3.   Chapter 1: Alternate Campaigns",
-      "41.  Chapter 2: Alternate Adventures",
-      "70.  Chapter 3: What's Old is New",
-      "85.  Chapter 4: Freestyle Campaigning",
-      "92.  Chapter 5: Handling Players",
-      "101. Chapter 6: The Grand Tour",
-      "112. Chapter 7: The Medieval Mindset"
-    ]
+      ""
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 3,   "title": "Chapter 1 - Alternate Campaigns"},
+        {"page": 41,  "title": "Chapter 2 - Alternate Adventures"},
+        {"page": 70,  "title": "Chapter 3 - What's Old is New"},
+        {"page": 85,  "title": "Chapter 4 - Freestyle Campaigning"},
+        {"page": 92,  "title": "Chapter 5 - Handling Players"},
+        {"page": 101, "title": "Chapter 6 - The Grand Tour"},
+        {"page": 112, "title": "Chapter 7 - Test The Medieval Mindset"}
+        ]    
+    }
   } ,
   {
     "BookName": "DMGR6 - The Complete Book of Villains",
@@ -393,7 +487,14 @@
     "BookDescription": [
       "A paranoid warlord, a bitter drow priestess, a power-mad archmage, a sly dwarven assassin - not all the characters in the AD&D game went the way of the heroes.",
       "Villains (beings dedicated to committing evil) are the most dangerous of all foes, and thus the most useful of tools a Dungeon Master has to create a memorable campaign. This book presents the most complete guidelines ever offered on creating villains for role-playing games. Miss this advice at your own peril!"
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "DMGR8 - Sages and Specialists",
@@ -420,7 +521,14 @@
       "In the dangerous, fast-paced world of adventuring, knowledge means survival. In a age of legends, even the greatest heroes need technical advisors.",
       "Inside Sages & Specialists you'll find ten new NPC specialist classes--from apothecary to seer, from engineer to scribe--each with his own special talents and insights.",
       "In addition, this book contains a host of new rules that directly affect the lives of PCs everywhere. Add depth to your campaign with these unique and three-dimensional NPCs."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "DMGR9 - of Ships and the Sea",
@@ -447,7 +555,14 @@
       "<b>The open sea, primal and unknown, beckons.</b>",
       "Of Ships and the Sea is packed with information on the ships of the AD&D game, rules for sailing them to exotic lands, and two system for conducting naval combat. The action extends below the waves, too, as this book also reveals the secrets of underwater adventuring and exploration-rules for travelling, fighting, and casting spells underwater, new spells, new magical items, and a new character kit, the fathomer.",
       "Dive into a whole new dimension of gaming."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Monster Manual",
@@ -474,7 +589,14 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "No description available."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Player's Handbook",
@@ -501,7 +623,14 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "It's the perfect player's game-playing aid and the best companion to the referee's Dungeon Masters Guide. As a player, this handbook will help you determine your character's abilities such as strength, wisdom and charisma. Character races including elves, halflings, dwarves, gnomes and others are explained in detail to make adventure fast, fun and exciting. You'll learn the rules for progressing in character levels and the most advantageous mapping and combat procedures. And they're all in this easy to use book."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Dungeon Masters Guide",
@@ -528,6 +657,13 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "No description available."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }        
 ]

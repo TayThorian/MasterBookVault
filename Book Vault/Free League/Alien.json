@@ -32,6 +32,18 @@
       "Expeditions – six thrilling expeditions into uncharted space, playable in any order.",
       "The Endgame – the final showdown with everything at stake.",
       "The Appendix – create your own frontier and colonize it."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 3,   "title": "Chapter 1: Alternate Campaigns"},
+        {"page": 41,  "title": "Chapter 2: Alternate Adventures"},
+        {"page": 70,  "title": "Chapter 3: What's Old is New"},
+        {"page": 85,  "title": "Chapter 4: Freestyle Campaigning"},
+        {"page": 92,  "title": "Chapter 5: Handling Players"},
+        {"page": 101, "title": "Chapter 6: The Grand Tour"},
+        {"page": 112, "title": "Chapter 7: The Medieval Mindset"}
+        ]    
+    }
   }
 ]

@@ -16,13 +16,20 @@
     "BookType": "",
     "BookFormat": "",
     "BookSeries": "",
+    "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\"
     ],
-    "BookCharacterLevel": "",
     "BookDescription": [
       "No description available."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "",
@@ -41,12 +48,19 @@
     "BookType": "",
     "BookFormat": "",
     "BookSeries": "",
+    "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\"
     ],
-    "BookCharacterLevel": "",
     "BookDescription": [
       "No description available."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "DMGR5 - Creative Campaigning",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } 
 ]
