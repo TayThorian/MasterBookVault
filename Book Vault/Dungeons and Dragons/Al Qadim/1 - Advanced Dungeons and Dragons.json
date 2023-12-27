@@ -24,7 +24,14 @@
       "<b>Who among you dares to challenge the high seas?</b>",
       "Inspired by the tales of Sinbad, Golden Voyages provides the source material and adventures needed to run a mini-campaign on the Crowded Sea. Detailed backgrounds, perilous locations, and wondrous NPCs populate the enchanted seas. Player characters will discover wildly different adventures as they sail from place to place.",
       "Golden Voyages includes six booklets filled with mini-adventures, an overall framing adventure, expanded rules on ships and sailing, details and background concerning topography, tribes, and new locations, and plenty of maps and player handouts. Recommended for use with the Al-Qadim: Arabian Adventures rulebook."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "ALQ2 - Assassin Mountain",
@@ -59,6 +66,265 @@
       "Monstrous Compendium pages detailing new genies and other monsters",
       "A poster map of Jabal Sarahin, the fortress of the Everlasting",
       "Recommended for use with the Arabian Adventures rulebook."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "ALQ3 - A Dozen And One Adventures",
+    "BookPublisher": "",
+    "BookCode": "TSR9432",
+    "BookISBN": "1-56076-622-0",
+    "BookAuthor": "Steven Kurtz",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Al-Qadim (ALQ) Series Sourceboxes",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "ALQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR9432 - ALQ3 - A Dozen And One Adventures.pdf"
+    ],
+    "BookDescription": [
+      "High Adventure is Your Companion Throughout the Land of Fate! ",
+      "There is no escaping Fate in the world of Zakhara, home of caliphs and favored land of the genies. And the Fate of brave adventurers is to travel the wide realms, vanquishing the urnrighteous and protecting the meek.",
+      "A Dozen and One Adventures leads the characters from bustling Muluk, City of Kings, to the mysterious citadel fo flame, and many points between. They may meet the king who never died, the fish-people of the Great Sea, and other wonders too amazing to mention.",
+      "This adventuresourcebox contains a 64-page booklet of 13 adventures, a 32-page campaign guide describing Muluk, the northern lands, and several new magical items, maps of Muluk and Krakal-Niraan and 4 other map cards, and four MC instert pages featuring NPCs."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ALQ4 - Secrets of the Lamp",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9433",
+    "BookISBN": "1-56076-647-6",
+    "BookAuthor": "Wolfgang Baur",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Al-Qadim (ALQ) Series Sourceboxes",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "ALQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR9433 - ALQ4 - Secrets of the Lamp.pdf"
+    ],
+    "BookDescription": [
+      "Exciting Adventures in the City of Brass and Other Genie Lands!",
+      "Revealed within are the greatest secrets of the genies: their magics, their rulers, and heir homelands. From the Citadel of Ice and Steel to the Great Dismal Delve, the works of geniekind are as wondrous as they are magnificent.",
+      "Tour the City of Brass, from its golden towers to its brazen streets, foil the evil yak men and their dao servants, travel on the desert whirlwinds of the jann. Learn the legends and secret history of the genies, their cities, their foibles, and their feuds. Secrets of the Lamp includes a 64-page sourcebook about genies, a 32-page booklet of adventures set in Zakhara and the City of Brass, a full-color map, six cards showing details of the City, and four Monstrous Compendium pages that introduce new genies and other elemental creatures."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "ALQ5 - Ruined Kingdoms",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9440",
+    "BookISBN": "1-56076-815-0",
+    "BookAuthor": "Steven Kurtz",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Al-Qadim (ALQ) Series Sourceboxes",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "ALQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR9440 - ALQ5 - Ruined Kingdoms.pdf"
+    ],
+    "BookDescription": [
+      "Unveil the forbidden secrets of Nog and Kadar!",
+      "The Nogaro River has seen the rise and gall of countless empires, unequaled in their evil and terror. Buried but not destroyed, their legacy lives on, shrouded by the tangled jungle and by time itself.",
+      "With Ruined Kingdoms, bold explorers can at last lift the veil of oblivion and unravel the mysteries of a dark and sinister past. Inside you'll discover:",
+      "A 32-page campaign booklet describing the Ruined Kingdoms and their many secrets.",
+      "A 64-page book packed with adventures-nine plots of intrigue and danger that transport player characters from Dihliz to Afyal and into the heat of the ruin-choked jungle. Adventurers face yak-men, genies, and giants, and unearth artifacts of awesome magical power.",
+      "An 8-page booklet filled with villainous women and deadly reptilian monsters.",
+      "Six cardstock sheets featuring detailed maps and player aids.",
+      "A stunning poster map of eastern Zakhara, depicting the twisting valleys and ancient capitals of the Ruined Kingdoms."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "ALQ6 - Cities Of Bone",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9467",
+    "BookISBN": "1-56076-847-9",
+    "BookAuthor": "Steven Kurtz",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Al-Qadim (ALQ) Series Sourceboxes",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "ALQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR9467 - ALQ6 - Cities Of Bone.pdf"
+    ],
+    "BookDescription": [
+      "Shifting sands conceal much from the eyes of man. Winds howling across the rolling dunes peel back the veil of time to reveal aeonic ruins or crumbling tombs, long preserved by a shroud of sand. Wrecked and forbidding, monoliths command attention in many unpredictable locales.",
+      "The remnants of antique civilizations litter the Land of Fate, where time-ravaged towers and decaying shrines hide in the arid wastes. I am but a humble efreeti, a creature of fire and spirit, but what little I know of theses places of danger and mystery I pass on to you, O Master of Dungeons Unfathomable.",
+      "Inside this enchanted box lies my gift to you: an Adventure Book holding six plots of deception and many creatures of intrigue with which to challenge and entertain the players under your care; six cards and a poster, all inscribed with carefully drawn maps; and a short booklet detailing new characters to encounter. This Campaign Guide lying open before you contains background needed to lead the adventures in the official Land of Fate."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "ALQ7 - Corsairs of The Great Sea",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9449",
+    "BookISBN": "1-56076-867-3",
+    "BookAuthor": "Nicky Rea",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Al-Qadim (ALQ) Series Sourceboxes",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "ALQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR9449 - ALQ7 - Corsairs of The Great Sea.pdf"
+    ],
+    "BookDescription": [
+      "Set Sail with the Pirates of Chaos!",
+      "A thousand welcomes, noble friend! I see your eye is as keen as the eagle and your mind as sharp as my jambiya, for you hold in your hand a great treasure. This box contains everything needed to launch an epic adventure featuring corsairs and mamluks:",
+      "A stunning poster map of the Corsair Domains and Zakhara's northern shores.",
+      "Six full-color cardstock sheets containing maps and player aids.",
+      "An 8-page booklet filled with new monsters, including the dreaded ghul-kin.",
+      "A 32-page sourcebook detailing the wily pirates of Hawa and their greatest enemies, the stalwart mamluks of Qudra, plus several new magical items.",
+      "A 64-page adventure book presenting a fabulous array of tales set in or near the Corsair Domains. Meet the beautiful and notorious Jayani al-Jasir, called by some the Queen of pirates. Face untold perils to fetch the wondrous waters of the River of Gold. Save Hawa's people from the horrible Soultaker, and much, much more. But beware! Treachery awaits at the hands of those you trust most!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "ALQ8 - Caravans",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9459",
+    "BookISBN": "1-56076-903-3",
+    "BookAuthor": "Rick Swan",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Al-Qadim (ALQ) Series Sourceboxes",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "ALQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR9459 - ALQ8 - Caravans.pdf"
+    ],
+    "BookDescription": [
+      "Journey through a perilous realm of searing sands and burning passions!",
+      "Pit of the Ghuls, Genies' Anvil, Vishap's Teeth... the mere mention of these mystical sites fills men's hearts with fear and apprehension. Now the mysteries of the High Desert are revealed!",
+      "Caravans takes player characters into Zakhara's greatest sea of sand to face its most treacherous denizens. Heroes match wits with djinn and ins alike--and fulfill a lover's obligation more than a half-century old.",
+      "This sourcebox includes:",
+      "A 32-page Campaign Book with notes from famed travelers of the High Desert, plus details on a wondrous magical carpet",
+      "A 64-page Adventure Book featuring tales of honor, riches, and unrequited love",
+      "An 8-page book of player aids",
+      "A magnificent full-color poster depicting Ala'i the Hungry, a fortune-telling carpet whose profound wisdom and wondrous powers will guide heroes on their epic adventure"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Reunion",
+    "BookPublisher": "TSR9584",
+    "BookCode": "TSR",
+    "BookISBN": "0-7869-1196-4",
+    "BookAuthor": "Jackie Cassada, Nicky Rea",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Other Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR9584 - Reunion.pdf"
+    ],
+    "BookDescription": [
+      "Once, the Tribe of Altair roamed the sands, free as the great eagle on the wind. Now, caged by an evil mage, these desert riders yearn for their lost freedom. But Fate takes a hand as a noble djinn seeks to fulfill an ancient wish....",
+      "In this unusual three-part scenario, players take the roles of the men of the tribe, who stage a revolt after being enslaved in the Pit of the Laughing Efreeti and then try to battle their way to freedom. In the second part, the PCs are the women of the tribe, who must escape the evil flame mage's harem and use all their wits to win free of a strange city. Finally, the children of the tribe have to slip away from an evil temple before they can be sacrificed, which calls for them to embark on a magic carpet ride that promises to be the adventure of their lifetimes."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } 
 ]

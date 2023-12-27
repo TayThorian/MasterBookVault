@@ -29,8 +29,7 @@
 - - Book of Lost Lore
 - - Book of Lost Tables
 - - Swords of Cthulhu
-## Paizo
-- PZO12001 - Pathfinder - Player Core
+- ADD1403 - Adventures Dark and Deep Bestiary
 ## Digest Group Publications
 - - Manhunt
 ## Mongoose Publishing
@@ -57,6 +56,8 @@
 - TSR9507 - Shaman
 - TSR2173 - Monstrous Compendium Annual - Volume Four
 - TSR9431 - ALQ2 - Assassin Mountain
+- TSR9433 - ALQ4 - Secrets of the Lamp
+- TSR9467 - ALQ6 - Cities Of Bone
 - TSR11348 - Skullport
 - TSR11405 - The Wyrmskull Throne
 - TSR11316 - FOR12 - Demihumans of the Realms
@@ -67,6 +68,10 @@
 - TSR9486 - Volo's Guide to Cormyr
 - TSR9524 - Volo's Guide to the Dalelands
 - TSR9535 - Volo's Guide to All Things Magical
+## 
+- TSR9432 - ALQ3 - A Dozen And One Adventures
+## TSR9584
+- TSR - Reunion
 # PDF's Books to Source
 ## Free League Publishing
 - FLFALE017 - Building Better Worlds
@@ -123,6 +128,11 @@
 - TSR2144 - DMGR6 - The Complete Book of Villains
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
+- TSR9433 - ALQ4 - Secrets of the Lamp
+- TSR9440 - ALQ5 - Ruined Kingdoms
+- TSR9467 - ALQ6 - Cities Of Bone
+- TSR9449 - ALQ7 - Corsairs of The Great Sea
+- TSR9459 - ALQ8 - Caravans
 - TSR2021 - Dragonlance Adventures
 - TSR11405 - The Wyrmskull Throne
 - TSR11393 - Sea of Fallen Stars
@@ -135,3 +145,5 @@
 - TSR9524 - Volo's Guide to the Dalelands
 - TSR9535 - Volo's Guide to All Things Magical
 - TSR2023 - Greyhawk Adventures
+## 
+- TSR9432 - ALQ3 - A Dozen And One Adventures

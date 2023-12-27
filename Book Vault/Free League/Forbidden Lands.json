@@ -31,31 +31,13 @@
       "The Legends & Adventurers booklet, letting you flesh out your characters and give them unique backgrounds.",
       "A huge full-colour map, giving you the freedom to explore the Forbidden Lands any way you want, hex by hex.",
       "A sheet with stickers for adventure sites and gravestones, transforming the game map to a living, permanent record of your adventures."
-    ]
-  } ,
-  {
-    "BookName": "",
-    "BookPublisher": "",
-    "BookCode": "",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
-    "BookCover": "",
-    "BookRules": "",
-    "BookEdition": "",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
-    "BookLibrary": "Yes",
-    "BookSetting": "",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
-    "BookPDF": [
-      "D:\\Master Vault\\"
     ],
-    "BookCharacterLevel": "",
-    "BookDescription": [
-      "No description available."
-    ]
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } 
 ]

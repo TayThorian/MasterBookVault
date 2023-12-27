@@ -1,0 +1,186 @@
+[
+    {
+    "BookName": "Rolemaster Unified - Core Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-RMU-001",
+    "BookISBN": "",
+    "BookAuthor": "Pete Fenlon, S. Coleman Charlton, and Kurt Fischer",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Rolemaster Unified",
+    "BookEdition": "RMU",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Core Books",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster Unified\\GCP-RMU-001 - Rolemaster Unified - Core Law.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "<b>Rolemaster Core Law</b>",
+      "For over four decades, Rolemaster has been the definitive fantasy role-playing game that combines realism and depth without sacrificing playability. Rolemaster Unified is the next evolution drawing upon the best elements of previous editions to create a streamlined and consistent game.",
+      "<b>Rolemaster Core Law</b> is the cornerstone of Rolemaster Unified.",
+      "<b>Rolemaster Core Law</b> is divided into three parts:",
+      "<b>Character Law:</b> A wide range of character creation choices – 22 professions, 23 races, 10 cultures, and a comprehensive system of talents and flaws. A system of 10 temporary and potential stats determined by using both assigned and random elements. A skill development system that allows a character to improve their skill capabilities without absolute restrictions. Complete, consolidated and streamlined guidelines for resolving actions, magic and attacks.",
+      "<b>Arms Law:</b> the highly acclaimed combat system. Complete rules for melee, ranged and spell combat, with new effective mechanics for battling large and small monsters. 39 attack tables for weapons, animal, monstrous and spell attacks. 15 critical strike tables – Acid, Cold, Electricity, Grapple, Heat, Holy, Impact, Krush, Puncture, Slash, Steam, Strikes, Subdual, Sweeps, and Unbalance – providing injuries with explicit effects and descriptions.",
+      "<b>Gamemaster Law:</b> Helpful guidance on running the game with rules for healing, social skills, fear, and morale as well as environmental hazards, poisons and diseases. Rules and guidance on creating races, cultures and professions using the fully balanced mechanics employed across Rolemaster Unified."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Rolemaster Unified - Spell Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-RMU-002",
+    "BookISBN": "",
+    "BookAuthor": "Pete Fenlon, S. Coleman Charlton, and Kurt Fischer",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Rolemaster Unified",
+    "BookEdition": "RMU",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Core Books",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster Unified\\GCP-RMU-002 - Rolemaster Unified - Spell Law.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "<b>Rolemaster Spell Law</b>",
+      "For over four decades, Rolemaster has been the definitive fantasy role-playing game that combines realism and depth without sacrificing playability. Rolemaster Unified is the next evolution drawing upon the best elements of previous editions to create a streamlined and consistent game.",
+      "<b>Rolemaster Spell Law</b> is the spell system of Rolemaster Unified.",
+      "<b>Rolemaster Spell Law</b> is the definitive and highly acclaimed magic system. Revised, reformatted, reorganized and expanded, Rolemaster Spell Law brings the magic to life in your campaign. Unleash the powers of the elements upon your foes through your mastery of the Essence. Wield the subtler energies of Mentalism to bewilder your enemies and manipulate the minds of your rivals. Call upon your god to heal any wound and blast the undead to ashes.",
+      "<b>Spell Law</b> organizes several thousand spells into multiple spell lists forming the Realms of Essence, Channeling and Mentalism. Spell lists are further characterized into the Open, Closed, Evil and Base categories. The specialist spell lists of all the spell using professions introduced in Rolemaster Core Law are in Rolemaster Spell Law. All spell lists contain a complete set of spells from 1st to 20th level plus epic 25th, 30th, 35th, 40th, and 50th level effects.",
+      "<b>Spell Law</b> contains the rules for magic and spell casting. It provides rules for characters to learn new spells and even research whole new spell lists. Ritual magic is presented as an alternative mechanism of achieving magical effects. Finally Spell Law provides comprehensive explanations on how to handle the more complex areas of magical effects such as portents, healing, summoning, illusions, invisibility and more."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Rolemaster",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1000",
+    "BookISBN": "0-915795-04-3",
+    "BookAuthor": "",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Rules",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Rules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1000 - Rolemaster.pdf"
+    ],
+    "BookDescription": [
+      "ROLEMASTER, the complete FRP game system in one box contains",
+      "- SPELL LAW®, the magic system",
+      "- ARMS LAW/CLAW LAW® , the combat system",
+      "- CHARACTER LAW/CAMPAIGN LAW, the character generation system & campaign guidelines, LOREMASTER module"
+    ],
+    "TableOfContents": {
+      "title": "Rolemaster",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Spell Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1200",
+    "BookISBN": "0-915795-01-9",
+    "BookAuthor": "",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Rules",
+    "BookFormat": "",
+    "BookSeries": "Rules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1200 - Spell Law.pdf"
+    ],
+    "BookDescription": [
+      "SPELL LAW is now a single mighty tome, including over 2000 spell descriptions for three realms of power, covering 15 character classes; detailed alchemy rules; individual spell attack tables; and rules for the use of magic items a campaign."
+    ],
+    "TableOfContents": {
+      "title": "Spell Law",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "War Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1110",
+    "BookISBN": "1-55806-099-5",
+    "BookAuthor": "R. Goral, D. Eubanks",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1110 - War Law.pdf"
+    ],
+    "BookDescription": [
+      "War Law is the mass combat system for ICE’s Rolemaster system. With War Law a GM can make numerous detailed decisions for every aspect of battles that can have anywhere from 2 to 1000’s of participants. However, War Law also includes a very specific, simplified version of this battle system that makes standard decisions for many of the key battle system aspects (e.g., scale, unit size, abstracted losses, unit integrity, morale, etc.). This simplified version does not require a GM to use — it is a fully functional boardgame. War Law has everything you need to make your Rolemaster battles something that will enrich the sagas and legends of your campaign for centuries to come.",
+      "War Law provides:",
+      "• A Standard Game for quick and easy mass combat resolution.",
+      "• A full-blown Refereed Game and a set of Optional Rules that allows a GM to tailor his system to handle any large battle that can occur in his world.",
+      "• A unit generation system that allows the development of units and their skills through the use of a RM development point cost system — 15 unit types and dozens of skills.",
+      "• A `unit attack table’ for each of the basic RM attack tables, so that weapon attacks made by groups of combatants will statistically approximate normal RM results.",
+      "• War Law covers morale rules, maneuver rules, ferocity rules, leaders, formations, siege weapons, and historical and tactical considerations.",
+      "• Summary sheets and blank unit status sheets to help speed play.",
+      "• A hex-based display system: clear plastic hex-sheets and full color terrain inserts.",
+      "• Hundreds of color counters for representing units and leaders.",
+      "• Adaptable to most other fantasy role playing systems."
+    ],
+    "TableOfContents": {
+      "title": "War Law",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } 
+]

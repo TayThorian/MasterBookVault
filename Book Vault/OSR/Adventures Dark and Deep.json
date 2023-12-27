@@ -24,8 +24,15 @@
       "New options to expand your old-school roleplaying game!",
       "Add legends and folklore from ancient China and action from wuxia literature and film with new rules for kung-fu, classes like the w and the weapons master, monsters like hopping vampires and hungry ghosts, and much more.",
       "Written for the First Edition of the world's most popular RPG, this book will also be useful to anyone running a game using old-school rules."
-    ]
-  } ,
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }  ,
   {
     "BookName": "Book of Lost Beasts",
     "BookPublisher": "BRW Games",
@@ -51,8 +58,15 @@
       "Nearly 200 new monsters for your old-school campaign!",
       "From the massive prehistoric ambelodon to the terrifying plague zombie, within these pages you'll find a bevy of new monsters to use in your campaign. There are angels, bladegrass, undead dragons, rakshasa nobles, and much more! Creatures found in dungeons, wilderness, the prehistoric past, the sea, and even alien planes of existance are within.",
       "Written for the First Edition of the world's most popular RPG, this book will also be useful to anyone running a game using old-school rules."
-    ]
-  },
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
   {
     "BookName": "Book of Lost Lore",
     "BookPublisher": "BRW Games",
@@ -78,7 +92,14 @@
       "New options to expand your old-school roleplaying game!",
       "This book contains new playable races, new character classes, new magic, alternate combat and treasure systems, and much more for GMs and players alike. You'll find classes including the musical bard, merry jester, studious savant, and villainous blackguard. scores of new spells and magic items, and much more.",
       "Written for the First Edition of the world's most popular RPG, this book will also be useful to anyone running a game using old-school rules."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Book of Lost Tables",
@@ -104,8 +125,15 @@
     "BookDescription": [
       "The Book of Lost Tables is an expansion of the first edition of the world's most popular RPG. This collection of nearly 350 random tables allows you to generate wilderness, dungeon, and urban terrain and encounters, weather, non-player character parties, critical hits and fumbles, and much more. You can even use them to generate random dungeons for solo play!",
       "Much of the material in this book was previously published as the Random Terrain and Encounter Generator."
-    ]
-  },
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
   {
     "BookName": "Swords of Cthulhu",
     "BookPublisher": "BRW Games",
@@ -131,6 +159,57 @@
       "Swords of Cthulhu is filled with new options to expand your old-school roleplaying game!",
       "Plumb the rich depths of Lovecraftian horror with new races like Deep One hybrids and Degenerates, new classes like the cultist and the scholar, new skills, complete insanity rules, the Dreamlands, the Old Ones and Outer Gods, and much more. For both players and game masters.",
       "Written for the First Edition of the world's most popular RPG, Swords of Cthulhu will also be useful to anyone running a game using old-school rules."
-    ]
-  }   
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Adventures Dark and Deep Bestiary",
+    "BookPublisher": "BRW Games",
+    "BookCode": "ADD1403",
+    "BookISBN": "",
+    "BookAuthor": "Joseph Bloch",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Adventures Dark and Deep",
+    "BookType": "Bestiary",
+    "BookFormat": "",
+    "BookSeries": "Adventures Dark and Deep",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\Adventures Dark and Deep\\ADD1403 - Adventures Dark and Deep Bestiary.pdf"
+    ],
+    "BookDescription": [
+      "The Adventures Dark and Deep™ Bestiary contains Over 900 monsters in one book, including well over a hundred brand-new monsters, with tons of illustrations.",
+      "Need we say more?",
+      "The Adventures Dark and Deep™ Bestiary is the third core rulebook for the Adventures Dark and Deep™ game, an expansion and revision of the original 1st Edition rules that defined the role-playing hobby for a decade. Based on the original plans for expanding the game, Adventures Dark and Deep™ gives you new character classes like the jester, savant, mystic, and mountebank; new spells; a new combat system; new monsters; rules for weather and natural hazards; new magic items, and tons more. And it's all compatible with most old-school games, so you can use it with all your old and new adventures, settings, and supplements."
+    ],
+    "TableOfContents": {
+      "title": "Adventures Dark and Deep Bestiary",
+      "chapters": [
+        {"page": 1, "title": "Introduction"},
+        {"page": 4, "title": "Wilderness and Dungeon Monster Descriptions"},
+        {"page": 253, "title": "Underwater and Waterborne Monster Descriptions"},
+        {"page": 292, "title": "Prehistoric Monster Descriptions"},
+        {"page": 313, "title": "Extraplanar Monster Descriptions"},
+        {"page": 439, "title": "Appendix A - Modifying and Creating New Monsters"},
+        {"page": 440, "title": "Appendix B - The Psychic Strike"},
+        {"page": 441, "title": "Appendix C - Random Creatures of the Lower Planes"},
+        {"page": 445, "title": "Appendix D -  Magic Resistance"},
+        {"page": 446, "title": "Appendix E - Standard Powers of Deities"},
+        {"page": 448, "title": "Special Thanks"},
+        {"page": 449, "title": "License Information"}
+        ]    
+    }
+  } 
 ]
