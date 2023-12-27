@@ -29,8 +29,14 @@
       "a partial map of the dungeons of Skullport—where the Skulls throw the folk they let live; and",
       "descriptions of notable NPCs and power groups of Skullport.",
       "Although no other Forgotten Realms setting products are required to use Skullport, this accessory can be used to provide supplemental information for the Ruins of Undermountain campaign expansion. Dungeon Masters can also use Skullport as a basis for an Underdark city in their own campaigns."
-
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "The Wyrmskull Throne",
@@ -56,7 +62,14 @@
     "BookDescription": [
       "The Wyrmskull Throne - the ruling seat of the great dwarven nation of Shanatar - has been lost for five millennia. Now, rumours have surfaced that it has been found, and there are sinister parties that will stop at nothing to claim it. But the path to finding the throne is long and twisted, leading from a small village in the remotest regions of Tethyr to the bottom of the ocean! Those who follow it had best be prepared for the strange and wondrous - as well as enemies on every side - for it is no journey for the faint of heart.",
       "The Wyrmskull Throne is a companion adventure for the Forgotten Realms accessory Sea of Fallen Stars. It can be played as a stand-alone adventure or with the material presented in that volume."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Sea of Fallen Stars",
@@ -86,7 +99,14 @@
       "Beneath the Seas: Discover the worlds within the Inner Sea! Visit Seros, an ancient land. Meet the enigmatic shalarin, a magical sea people from unknown oceans. Join the mysterious Dukars, magical defenders of the depths.",
       "Myth Nantar, City of Destinies: Wrapped in a magical mythal, the elven city of Myth Nantar is the perfect place to make the transition to the world under the waves or to begin a complete aquatic campaign.",
       "Sea of fallen Stars is the first fully developed underwater setting for AD&D campaign play. It provides a focus for the use of the rules supplements Of Ships and the Sea and Sea Devils, but neither of these products is needed to use this book. Contained in these pages is everything you need to adventure in this exciting world. Bring your game beneath the waves with rules and magic that make it easy and fun to do, or create sea elf, merman, triton, locathah, or shalarin PCs using the character-creation rules herein. Either way, get ready to explore Netherese ruins, sunken ships, and abyssal trenches in the Sea of Fallen Stars!"
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "FOR12 - Demihumans of the Realms",
@@ -113,7 +133,14 @@
       "Is your Forgotten Realms character an elf? A dwarf? Maybe a gnome?",
       "Perhaps, yet that doesn't really say much, does it? One might just as easily say there's now difference between a Calishite and a Thayan because they're both humans! No one is just a demihuman in the Realms—there are acrobats, barbarians, giant killers, manhunters, pestkillers, prospectors, and even tunnelrats, but they're all demihumans and they all walk the face of Faerûn.",
       "Within these pages are dozens of kits designed to help layers in a Forgotten Realms campaign enrich their characters and make them truly native to the Realms. Special benefits and disadvantages for each kit enhance the roleplaying experience while allowing characters to reflect their social roots and racial heritages. This companion to Wizards and Rogues of the Realms and Warriors and Priests of the Realms completes the series of kit-based sourcebooks for the Forgotten Realms campaign."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "FOR13 - Secrets of the Magister",
@@ -141,7 +168,14 @@
       "Here at last, one can learn all the secrets, abilities, and sacred duties of the Magister. Plus, discover the fate of Lady Noumea and the identity of her successor as Magister. Also, read guidelines on how a PC mage might become the Magister.",
       "This book holds the history of the office, new powers, spells, magic items, a roster of select magisters from the past, and guidelines on how to incorporate the Magister into your campaign.",
       "One magister became a god; many others have hoped to."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "FOR8 - Pages from the Mages",
@@ -172,7 +206,14 @@
       "Details of more than 40 spellbooks—appearance, history, the magic they contain, and what is known of the fates of their makers",
       "And just for fun, Elminster's very own traveling spellbook!",
       "All this could have been avoided, of course. If the handful of heedful folk in the worlds would listen to me but a few moments more, much trouble could be averted—and, I suppose, much high adventure. Hmmm. Perhaps 'tis the doom of humans to always rush in heedless of the costs—and to open and read every old, crumbling book they find."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Volo's Guide to Waterdeep",
@@ -197,7 +238,14 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "No description available."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Volo's Guide to the North",
@@ -222,7 +270,14 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "No description available."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Volo's Guide to the Sword Coast",
@@ -247,7 +302,14 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "No description available."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Volo's Guide to Cormyr",
@@ -272,7 +334,14 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "No description available."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Volo's Guide to the Dalelands",
@@ -297,7 +366,14 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "No description available."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Volo's Guide to All Things Magical",
@@ -322,7 +398,14 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "No description available."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Volo's Guide to Baldur's Gate II",
@@ -356,7 +439,14 @@
       "When to experience the full splendor of the Dome of the Rose.",
       "Suitable for all levels of play.",
       "<b>Special note:</b> This edition of Volo's Guide to Baldur's Gate II: Shadows of Amn, intended for travelers from beyond the borders of Faerûn, contains notes and commentary by the famous archmage and sage, Elminster."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Forgotten Realms Campaign Set",
@@ -388,6 +478,128 @@
       "21\" x 33\" map of Interior Faerûn, from Lapaliiya and Eastern Shaar to Anauroch and Sossal",
       "33\" x 21\" map of Cormyr, Sembia, and the Dalelands, from Priapurl and Tsurlagol to Anauroch and Vaasa",
       "33\" x 21\" map of the Western Heartlands, from Easting and the Lonely Moor to Beregost, Daggerford, and Mintarn"
-    ]
-  }       
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }  ,
+  {
+    "BookName": "Drizzt Do'Urden's Guide to the Underdark",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11509",
+    "BookISBN": "0-7869-1509-9",
+    "BookAuthor": "Eric L. Boyd",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Other Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR11509 - Drizzt Do'Urden's Guide to the Underdark.pdf"
+    ],
+    "BookDescription": [
+      "The place has many names: the Underdark, Deepearth, the Realms Below, the Night Below, the Lightless Lands. This vast world beneath the surface is home to fabled races such as beholders, cloakers, drow, illithids, and ixzan. Menzoberranzan, the dreaded City of Spiders, is only one of the hidden cities of the Underdark.",
+      "This 128-page book, compiled by the Underdark's most famous son, Drizzt Do'Urden, lays bare the bizarre societies that lurk in the Realms Below. It includes an overview of the major races of the Underdark, an Underdark survival guide, and details and maps of the more than a dozen cities. Discover a drow city construdted entirely of calcified spider silk, a nigh-immortal dwarven king trapped in stone form, and a storehouse of knowledge that rivals Candlekeep. Learn the particulars of the alliance between Manshoon and the beholders of the Anaurian Hive, the ambitions of the true master of Firedrake Bay, and an explanation of the enduring strength of the beholder cults along the Lake of Steam.",
+      "With Drizzt Do'Urden as your guide, a whole new world opens up beneath your feet."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Kidnapped",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9590",
+    "BookISBN": "",
+    "BookAuthor": "Tom Prusa",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Other Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9590 - Kidnapped.pdf"
+    ],
+    "BookDescription": [
+      "Ruthless kidnappers have abducted the eight-year-old son of Reverend Judge Hykros Allumen, Ravens Bluff's reigning high priest of Tyr. You have been entrusted with the task of delivering the ransom--500,000 gp worth of platinum, magic, and jewels.",
+      "Can you see it safely past all the greedy bandits trying to intercept you and take the treasure for themselves? And if you do, can you trust the kidnappers to return the stolen child? A tale of trust, betrayal, and revenge.",
+      "This classic tournament has been revised for use with the new City of Ravens Bluff sourcebook. It is adaptable for use in any low-level, mid-level, or high-level campaign."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "FRM1 - The Jungles of Chult",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9389",
+    "BookISBN": "1-56076-605-0",
+    "BookAuthor": "James Lowder, Jean Rabe",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "FRM Series",
+    "BookCharacterLevel": "Levels 5 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9389 - FRM1 - The Jungles of Chult.pdf"
+    ],
+    "BookDescription": [
+      "Come, all ye seekers after treasure beyond your ken and adventure greater than any you can dream!",
+      "Come, all ye mighty warriors, seekers after prey worthy of your peerless skills, and stalk the Children of Ubtao. Walk the streets of the city of Mezro, of the Maze of Life. Meet the barae, the holy warriors of Ubtao, those men and women who will live forever sustained by their wisdom and their faith.",
+      "Wizards, be prepared for new magical spells and new methods of magic use based on gemstones.",
+      "Search the jungles of Chult for the fabled emerald mines, for the Heart of the Jungle, a single gem as large as a man's head.",
+      "Also within these pages are new monsters and new character kits: Mage hunters, specialty priests of Ubtao, and spiritlords.",
+      "This adventure is designed for 6 to 8 characters of levels 5 to 8."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 2, "title": "Introduction"},
+        {"page": 3, "title": "Part 1 - CAMPAIGN RESOURCES"},
+        {"page": 3, "title": "Peoples of Chult"},
+        {"page": 7, "title": "The Land"},
+        {"page": 12, "title": "The Lost City of Mezro"},
+        {"page": 20, "title": "Adventures in Mezro"},
+        {"page": 21, "title": "Rural Tabaxi Life"},
+        {"page": 25, "title": "Magic and Mage Kits"},
+        {"page": 26, "title": "Religion and Priest Kits"},
+        {"page": 29, "title": "Other Sites of Interest"},
+        {"page": 33, "title": "Part 2 - THE HEART OF THE JUNGLE"},
+        {"page": 64, "title": "New Monster - Pteraman"}
+        ]    
+    }
+  } 
 ]

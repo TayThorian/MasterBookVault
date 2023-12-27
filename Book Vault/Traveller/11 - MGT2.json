@@ -24,10 +24,17 @@
     "BookDescription": [
       "The raiders of Oghma mercilessly prey upon the blighted star systems of the Outrim Void. Their endless plundering has reduced their neighbours to pre-starflight technology. When the Travellers get caught up in an Oghman raid, they find themselves going to the raiders’ homeworld, a strange and unique place where starfaring technology meets barbarism.",
       "But something is happening on Oghma. Oghma has deep, dark secrets and the Travellers can either help drag this savage world out of darkness, or be swallowed up by it forever."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
-    "BookName": "Bu and Embla Visit Vrihlanz",
+    "BookName": "Bu and Embla Visit Vrirhlanz",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40113",
     "BookISBN": "",
@@ -44,12 +51,19 @@
     "BookFormat": "",
     "BookSeries": "Adventures",
     "BookPDF": [
-      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40113 - Bu and Embla Visit Vrihlanz.pdf"
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40113 - Bu and Embla Visit Vrirhlanz.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
       "Join Bu and Embla, Travellers of Charted Space, as they visit the world of Vrirhlanz in the Vargr Extents, to take a break with Embla’s family. The homeworld of the Hlanssai, who have made their way throughout Charted Space on ships of the Vargr, Vrirhlanz is as chaotic as the Hlanssai themselves. On a world technically ruled by Vargr, learn how the Hlanssai keep themselves free of outside control and hear Embla’s reflections on her home from the perspective of one who has travelled across entire sectors."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Core Adventure 1 - Invasive Species",
@@ -80,7 +94,14 @@
       "The Superb Starling, a customised Type-K safari ship",
       "New and exciting animal encounters, including the sly and ferocious shakuurzarpi of Akussanja",
       "Maps of two wild alien worlds"
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Core Adventure 2 - Last Call at Eneri's Cantina",
@@ -111,7 +132,14 @@
       "Deck plans, rules and illustrations of Affinity Highport.",
       "A new spacecraft, the Rammiakhildru, and a new vehicle, the Seaskimmer.",
       "World map and animal encounters for the wild waterworld of Affinity."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Core Adventure 3 - Errant Lightning",
@@ -142,7 +170,14 @@
       "The Scirocco, a tilt-rotor aircraft",
       "New psionic talents",
       "New vehicle designs that take part in a climactic battle deep in the desert"
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Deneb Adventure 1 - The Lost Duke",
@@ -168,7 +203,14 @@
     "BookDescription": [
       "The planet of Brufort has always managed to remain under the radar of Charted Space at large. The mining companies support their workers as they bring up bountiful hauls of precious Zuchai crystals and, despite the presence of dangerous fauna, the people were happy. That happiness would not last.",
       "A missing ship brings the Travellers to this backwater. What seems like a simple recovery mission puts them at odds with an outside force that has taken over the planet. Will they be able to help the people of Brufort in a determined resistance or will they be cast out and left to the mercy of the red death that haunts the surrounding jungles?"
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "The Third Imperium",
@@ -200,7 +242,14 @@
       "The complete history of the Third Imperium as it has never been told before.",
       "The Core sector, the heart of the Imperium, including playable human and alien races and world descriptions for all 16 subsectors.",
       "New starships, vehicles, weapons, armour and gear for use in Core sector campaigns or anywhere else in the Third Imperium."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Wrath of the Ancients",
@@ -226,7 +275,14 @@
     "BookDescription": [
       "The Travellers have defeated an Ancient, but the struggle is not yet over. A telepathic nightmare leads the Travellers to a crashed vessel on a desolate moon, where they discover a threat to all Charted Space. The Ancient Tsyamoykyo, once the least of his kind, plans to implement a reign of terror. Meanwhile, something is happening to the Travellers. They are growing in power, developing new abilities. Can they learn to guide the process, becoming whatever they want to be?",
       "The Travellers seek the wisdom of Eskayloyt, lost homeworld of the Droyne, and confront sadistic researchers at Imperial Research Station Gamma. Their quest leads to a backwater world where Tsyamoykyo is building a giant war machine, and from there into his very fortress. Confronting their greatest foe, the Travellers will decide the fate of the Ancients and perhaps all Charted Space."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Whispers on the Abyss",
@@ -253,7 +309,14 @@
       "A complete mini-campaign for Traveller, setting the stage for great events to come!",
       "The Travellers are offered a lucrative contract to showcase a prototype starship to potential clients along the Spinward Main. Their route takes them around the periphery of the Abyss Rift, a region with a sinister reputation for starship disappearances and mysterious events.",
       "They soon discover they are not the only players in the game. An Imperial megacorporation is pushing its own designs and playing hard for big contracts. As if competing with General Products was not enough, there is sabotage and revolt on the worlds of the Spinward Main. A simple promotional cruise becomes a fight for survival, and all the while there are whispers of something big happening on the fringes of the Abyss…"
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "The Deep and the Dark",
@@ -281,7 +344,14 @@
       "Reaver’s Deep lies on the edge of the Great Rift, with a wide Buffer Zone separating the human systems of the Third Imperium and Solomani Confederation from the Aslan worlds of the Hierate. Within this Buffer independent states and worlds harbour fierce animal life and many alien species, while fierce marauders and petty warlords plague the sector. Into this wild area venture intrepid trade pioneers in search of new opportunities.",
       "The Dark Nebula is named for the mysterious Celella Nebula, a jumpspace phenomenon that has devilled astrogators for millennia. The sector is also the home of Kusyu, homeworld of the Aslan and spiritual heart of their star-spanning Hierate. The Deep and the Dark also provides an overview of the complex, ever-shifting politics of the Hierate and the nature of Aslan culture.",
       "Includes a giant two-sided poster map of the two sectors."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Aliens of Charted Space Volume 3",
@@ -317,7 +387,14 @@
       "<b>Bwaps</b>",
       "Evolved amid the swamps of an alien world, Bwap civilisation grew slowly though cooperation and the universal belief that they all have an individual and unique place in the universe to fulfil. Their obsession with minutia and fine detail placed them in the perfect position to make themselves indispensable to the bureaucracy of the Ziru Sirka, granting them access to technology denied to others.",
       "This book contains rules for creating Travellers from each of these alien races, High Guard additions and new ships, and Central Supply Catalogue entries for their new equipment."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Aliens of Charted Space Volume 4",
@@ -351,7 +428,14 @@
       "<b>Tezcat</b>",
       "A cat-like semi-humanoid species, the Tezcat are violent and warlike, with a xenophobic hatred for any sophont that does not resemble themselves. Much of their history has been marred with war and bloodshed, but through the unification of the Shaper Church, they have established a pocket empire and proven to their neighbours that they are too dangerous to cross.",
       "This book also contains rules for creating Travellers from each species, along with High Guard and Central Supply Catalogue entries."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Central Supply Catalogue -Update 2023",
@@ -379,7 +463,14 @@
       "From entertainment products to laser cannons, from cameras to powered armour, the Central Supply Catalogue Update 2023 has combed the galaxy for items suited to the most discerning Traveller. With this book, you will have everything needed to entertain the local ambassador, survive a month – or years – in the wilderness, or wage a planetary war.",
       "New additions to the Central Supply Catalogue Update 2023 include more advanced computers, prototech, and rules to bring fabricators into a campaign, allowing Travellers to make what they cannot buy. Procure new gear on the black market, and profit from guns, armour, and ammunition smuggled past starport authorities.",
       "The Central Supply Catalogue Update 2023. Don’t leave the starport without it."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "The Spinward Extents",
@@ -409,7 +500,14 @@
       "Spinward Extents presents two complete sectors near the edge of Charted Space: The Beyond and the Vanguard Reaches. The Beyond is a borderland between Aslan expansion and human pocket empires, both ancient and new. At the end of Imperial courier routes, it is home to the alien Sred*Ni, isolated worlds, and mysterious entities. The Storm Knights hold the line in an uneasy truce with Aslan clans, but other dangers and many opportunities await.",
       "The Vanguard Reaches is the spinward edge of settled space, a sector of proxy states for the distant Third Imperium and Zhodani Consulate. The sector is home to the warlike-Eslyat and peaceful Murians, dying red giant stars and the Helix Nebula. Warfare, politics, piracy, and sparse starscapes challenge Travellers who live and work in this distant sector.",
       "Includes two huge colour poster maps of The Beyond and Vanguard Reaches sectors."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Robot Handbook",
@@ -436,7 +534,14 @@
       "Robots have been a staple of science fiction for a hundred years, fulfilling every role from near mindless worker, to faithful sidekick, to comic relief, to sinister villain trying to take over the world. They range from remote-controlled drones to super intelligent beings who have far exceeded the limits of their biological creators. Robots may be stationary objects equipped with a single arm or nothing more than a radio to control other machines. They may move across the ground, sea or sky, equipped with limbs, tools and weapons of all kinds.",
       "The Robot Handbook is designed to be both quick and easy to use, and configurable to customise all aspects of a robot’s functions, capabilities and skills; a standard robot can be built in just a few minutes. The Robot Handbook also includes rules for making nanorobots and microrobots, androids, clones, biological robots and brains for both vehicles and spacecraft. And what is a cybernetic limb but a robot part? The Robot Handbook covers everything from a cybernetic arm to a whole mechanical body with a live brain inside.",
       "The Robot Handbook comes complete with an immense catalogue filled with robots built using these rules, acting as a springboard for your own designs and allowing you to begin using robots right away to be tools, companions or opponents for your Travellers to encounter."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "High Guard Update 2022",
@@ -463,6 +568,255 @@
       "High Guard Update 2022 is a major expansion to the Traveller roleplaying game with rules for designing, building and operating spacecraft found throughout the galaxy. From small and nimble fighter craft to the adventure-class ships that Travellers fly, from gargantuan megafreighters to military capital ships, this book provides everything the aspiring naval architect needs to populate their universe with ships that ply the spacelanes.",
       "This book also provides rules for designing space stations and starports, customising ships, and exotic technologies found in popular science fiction novels and movies that can be incorporated into your universe. There are also advanced rules for sensors, detailed descriptions of starship crew roles, how to conduct violent boarding actions, and detailed guidelines for battles between fighter squadrons and enormous fleet battles.",
       "Finally, High Guard Update 2022 presents dozens of ship designs for the Charted Space universe, including small craft and fighters, traders, gunboats, scout ships and battleships ranging from lethal destroyers to colossal battleships, carriers and dreadnoughts. The revised design system provides a new approach to armour and armaments, making space combat scalable for anything from small skirmishes to devastating clashes between dozens or even hundreds of warships."
-    ]
-  }         
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "World Builder’s Handbook",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40100",
+    "BookISBN": "978-1-913076-98-6",
+    "BookAuthor": "Geir Lanesskog",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "World Builder’s Handbook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40100 - World Builder’s Handbook.pdf"
+    ],
+    "BookDescription": [
+      "The World Builder’s Handbook provides a complete toolset for expanding a world or star system into a fully realised place to know and explore. It includes procedures for determining the type and location of a system’s significant stars and worlds, an expansion of mainworld generation, and rules for determining the physical and social characteristics of the star system’s other worlds.",
+      "This handbook is both comprehensive and modular, with procedures designed to allow the Referee to focus on the important aspects of a world or system’s characteristics. The World Builder’s Handbook includes knowledge gained from the thousands of exoplanetary systems discovered, and covers habitable and hostile worlds, moons, gas giants, twilight worlds and guidelines for the Referee to describe what Travellers can see in the skies above these worlds. It allows a Referee to create star systems from scratch or expand existing profiles to refine a world’s character.",
+      "Also included are checklists, forms, examples, and the procedures and equipment used by the Imperial Interstellar Scout Service to survey and record information in the Charted Space universe, with a glossary of astronomical terms."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Secrets of the Ancients",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40072",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40072 - Secrets of the Ancients.pdf"
+    ],
+    "BookDescription": [
+      "A complete campaign of truly epic proportions, Secrets of the Ancients delves into the dark past of the Charted Space universe, and the legacy of a race of incredibly advanced and powerful aliens. Over the course of this campaign, the Travellers will see sights no human has ever dreamed of, meddle with powers beyond understanding, clash with secret factions within the Imperium, and ultimately help shape the destiny of all Charted Space.",
+      "Secrets of the Ancients will start your Travellers off within the familiar Spinward Marches, but quickly escalates to take them into times, places and dimensions they barely dreamed of.",
+      "This is Traveller at its very best."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Mysteries of the Ancients",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40104",
+    "BookISBN": "",
+    "BookAuthor": "M J Dougherty",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40104 - Mysteries of the Ancients.pdf"
+    ],
+    "BookDescription": [
+      "A request for help from an old contact leads the Travellers into the mysterious and sometimes downright bizarre world of the Ancients Hunters. Among the weird and often deluded notables of the Hunter community there are those who seem to know something concrete. Those individuals are convinced that something is coming.",
+      "Mysteries of the Ancients takes the Travellers from the whacky Museum of the Ancients to the doomed planet of Calefaction, and finally to a showdown with agents of the Ancients themselves. Their guide is a horribly-written book, long thought to be fiction, which tells of an ambushed convoy and the survivors’ fight for survival in a wondrous technological palace. There, under the mountain known as Twilight’s Peak, the Travellers find their proof.",
+      "Something is coming."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Small Craft Catalogue",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40108",
+    "BookISBN": "",
+    "BookAuthor": "Matthew Sprange",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Craft Catalogue",
+    "BookFormat": "",
+    "BookSeries": "Craft Catalogue",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40108 - Small Craft Catalogue.pdf"
+    ],
+    "BookDescription": [
+      "Welcome to the Small Craft Catalogue, featuring a vessel for your every need!",
+      "Small craft, those vessels of less than 100 tons and without a jump drive, are the workhorses of Traveller and essential to the smooth running of every technological civilisation in Charted Space. This book gives you more than 60 new small craft, to be used by Travellers, pirates, traders, government forces and corporations. Each has a specific role and has been built to accomplish it with the best components available to its builders.",
+      "In this book you will find:",
+      "<b>Modules:</b> It is not just the Modular Cutter that can carry the 30-ton standard module, and there are many configurations that greatly expand the operational capacity of these crafts.",
+      "<b>Commercial Craft:</b> Whether they are hauling cargo or passengers, there is a variety of small craft linking the worlds of each star system, binding colonies and outposts together.",
+      "<b>Working Craft:</b> From the highport to the far reaches of the outsystem, these small craft keep the empires running, fixing, rescuing, mining, and performing a multitude of other tasks.",
+      "<b>Fighters:</b> The most famous of small craft, high performance fighters are at the forefront of any outbreak of hostilities, their pilots destined to become heroes – or to meet an untimely death in the void.",
+      "<b>The Military:</b> Between the fighter and the warship, there are many small craft that keep military forces in the field and capable of acting effectively, from armoured transports and recon craft to assault boats and system defence forces.",
+      "<b>Luxury Craft:</b> Owned by nobles and rich corporate executives, these small craft spare no expense at providing the comfiest rides – and making sure everyone else knows it.",
+      "<b>Aslan, Sword Worlds, Vargr and Zhodani:</b> Beyond the Third Imperium and its affiliated states, other empires can have very different takes on small craft design, but these vessels might just be the perfect in-system ride for a group of Travellers."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "The Trailing Frontier",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40098",
+    "BookISBN": "978-1-913076-96-2",
+    "BookAuthor": "Martin J. Dougherty",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40098 - The Trailing Frontier.pdf"
+    ],
+    "BookDescription": [
+      "The Trailing Frontier... a region of contradictions. At once a safe province and the future site of Humaniti's death-struggle against the K’kree of the Two Thousand Worlds; a backwater and a frontier. Half of the region lies within the Third Imperium, the other half is home to minor states and independent worlds. Beyond lies the territory of the Lords of Thunder, militant herbivores who have vowed to exterminate all meat-eaters.",
+      "The Imperium considers the Gateway sector to be of vast strategic importance, yet cannot spare the resources to tame it. Instead, a host of entrepreneurs and small-ship owners cross the border in search of fortune and perhaps glory. Far from the strictures of Imperial regulations, the Trailing Frontier is a place to play fast and loose - and to be ready to make a quick exit. It is a hunting-ground for pirates and mercenaries, a golden opportunity for merchants and adventurers, and a graveyard for the unwary!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "The Imperial Navy",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40099",
+    "BookISBN": "",
+    "BookAuthor": "M J Dougherty",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Sourcebook",
+    "BookFormat": "",
+    "BookSeries": "Sourcebook",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40099 - The Imperial Navy.pdf"
+    ],
+    "BookDescription": [
+      "Without its senior service, the Third Imperium would not exist. The navy is entwined in the politics and economics of the Imperium, a training ground for the great nobility, and a route to social advancement for the general populace. The Imperial Navy details this massive force, from the great fleets down to a band of new recruits.",
+      "How are the sector and subsector fleets organised, commanded, and provided with warships? How would the Imperium would fight – and win – an interstellar war? How is a starship crew organised? What is the underlying design philosophy of Imperial warships? How do major ships and their escorts interact? How would the Old Expanses fleet respond to renewed conflict with the Solomani Confederation?",
+      "The Imperial Navy has the answers."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "The Marches Adventures 1-5",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40097",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Marches Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40097 - The Marches Adventures 1-5.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } 
 ]

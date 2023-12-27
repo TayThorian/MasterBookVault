@@ -47,6 +47,13 @@
 - MGP40075 - The Spinward Extents
 - MGP40085 - Robot Handbook
 - MGP40087 - High Guard Update 2022
+- MGP40100 - World Builder’s Handbook
+- MGP40072 - Secrets of the Ancients
+- MGP40104 - Mysteries of the Ancients
+- MGP40108 - Small Craft Catalogue
+- MGP40098 - The Trailing Frontier
+- MGP40099 - The Imperial Navy
+- MGP40097 - The Marches Adventures 1-5
 ## EN Publishing
 - ENP0101 - N.E.W. - Science Fiction Roleplaying Game
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
@@ -68,6 +75,9 @@
 - TSR9486 - Volo's Guide to Cormyr
 - TSR9524 - Volo's Guide to the Dalelands
 - TSR9535 - Volo's Guide to All Things Magical
+- TSR11509 - Drizzt Do'Urden's Guide to the Underdark
+- TSR9590 - Kidnapped
+- TSR9389 - FRM1 - The Jungles of Chult
 ## 
 - TSR9432 - ALQ3 - A Dozen And One Adventures
 ## TSR9584
@@ -114,6 +124,13 @@
 - MGP40075 - The Spinward Extents
 - MGP40085 - Robot Handbook
 - MGP40087 - High Guard Update 2022
+- MGP40100 - World Builder’s Handbook
+- MGP40072 - Secrets of the Ancients
+- MGP40104 - Mysteries of the Ancients
+- MGP40108 - Small Craft Catalogue
+- MGP40098 - The Trailing Frontier
+- MGP40099 - The Imperial Navy
+- MGP40097 - The Marches Adventures 1-5
 ## EN Publishing
 - ENP0101 - N.E.W. - Science Fiction Roleplaying Game
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
@@ -144,6 +161,8 @@
 - TSR9486 - Volo's Guide to Cormyr
 - TSR9524 - Volo's Guide to the Dalelands
 - TSR9535 - Volo's Guide to All Things Magical
+- TSR9590 - Kidnapped
+- TSR9389 - FRM1 - The Jungles of Chult
 - TSR2023 - Greyhawk Adventures
 ## 
 - TSR9432 - ALQ3 - A Dozen And One Adventures
