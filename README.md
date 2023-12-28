@@ -65,6 +65,7 @@
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9433 - ALQ4 - Secrets of the Lamp
 - TSR9467 - ALQ6 - Cities Of Bone
+- TSR9584 - Reunion
 - TSR2146 - CGR3 - The Complete Sha'ir's Hhandbook
 - TSR2129 - MC13 - Monstrous Compendium Al-Qadim Appendix
 - TSR1091 - City Of Delights
@@ -84,8 +85,6 @@
 - TSR9389 - FRM1 - The Jungles of Chult
 ## 
 - TSR9432 - ALQ3 - A Dozen And One Adventures
-## TSR9584
-- TSR - Reunion
 # PDF's Books to Source
 ## Free League Publishing
 - FLFALE017 - Building Better Worlds
