@@ -1,0 +1,15 @@
+C:\Applications\Book Vault\x64\pdfium.dll
+C:\Applications\Book Vault\MasterBookVault.exe
+C:\Applications\Book Vault\runtimes\win-x86\native\WebView2Loader.dll
+C:\Applications\Book Vault\runtimes\win-x64\native\WebView2Loader.dll
+C:\Applications\Book Vault\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Applications\Book Vault\MasterBookVault.dll
+C:\Applications\Book Vault\MasterBookVault.deps.json
+C:\Applications\Book Vault\MasterBookVault.runtimeconfig.json
+C:\Applications\Book Vault\MasterBookVault.pdb
+C:\Applications\Book Vault\Microsoft.Web.WebView2.Core.dll
+C:\Applications\Book Vault\Microsoft.Web.WebView2.WinForms.dll
+C:\Applications\Book Vault\Microsoft.Web.WebView2.Wpf.dll
+C:\Applications\Book Vault\Newtonsoft.Json.dll
+C:\Applications\Book Vault\PdfiumViewer.dll
+C:\Applications\Book Vault\nl\PdfiumViewer.resources.dll
