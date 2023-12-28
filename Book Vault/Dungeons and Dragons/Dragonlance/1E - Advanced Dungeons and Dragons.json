@@ -10,7 +10,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "1st Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Dragonlance",
     "BookType": "Sourcebook",
@@ -23,7 +23,14 @@
     "BookDescription": [
       "At last, the complete Krynn source book that contains all the information necessary for limitless campaigning in the world of the DragonLance saga!",
       "Provides all-new information on the character classes, races, artifacts, and powers that are unique to the fascinating world of Krynn."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Time of the Dragon",
@@ -50,7 +57,14 @@
       "When the true gods punished Istar by wreaking the Cataclysm on Krynn, a shower of meteors pounded the continent of Ansalon. Halfway around the world, a similar continent was shattered by a single, enormous meteor. Thousands of square miles of land disappeared beneath a smoking sea of magma, which boiled up from beneath the planet's crust. Mountain ranges were toppled, rivers changed course, and weather patterns were altered. Survivors were scattered and isolated. The devastation was nearly complete.",
       "Centuries later, the cultures and societies which rise out of the ruins are uniquely shaped by this savage environment. The minotaurs with their eloquent diplomats, elite legions, and gladiatorial contests, are spreading their influence throughout the hemisphere. Wild elves fight territorial wars with humans, kender, and gnomes. Fearsome fire minions rampage around the coasts of the lava ocean while the Followers of Hith seek to dominate the land.",
       "Time of the Dragon includes two information-packed books totaling 160 pages, four full-color maps, and 24 individual color plates showing maps, NPCs, and major races."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "PG1 - Player's Guide to the Dragonlance Campaign",
@@ -76,7 +90,14 @@
     "BookDescription": [
       "If you have been intrigued by the Dragonlance setting, but have felt intimidated by the sheer amount of information it comprises, this is the book for you.",
       "This book will not baffle you with \"game jargon.\" It presents the world of Krynn in a manner you are sure to find entertaining and informative. Through a combination of original fiction and long-established fact, you will discover the continent of Ansalon—home to the Heroes of the Lance. You will find information about the races of the world, its major cities and regions, its deities, and its monsters. You will read The River of Time, the chronological history of Krynn. Open this book, and open the world!"
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "MC4 - Monstrous Compendium - Dragonlance Appendix",
@@ -101,7 +122,14 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "This volume of the exciting Monstrous Compendium series brings you the unique creatures of Krynn: astral dragons, Krynn minotaurs, the various races and tribes of dwarves and elves, knights of Solamnia, kender, and dozens of other creatures and monsters from both Ansalon and the new continent of Taladas."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Dragonlance Classics - 15th Anniversary Edition",
@@ -131,6 +159,80 @@
       "<b>RETURN TO THE WAR OF THE LANCE... FOR THE FIRST TIME!</b>",
       "To celebrate the 15th anniversary of the publication of the first DRAGONLANCE adventure TSR proudly presents a retelling of the greatest fantasy roleplaying epic ever. Players can assume the roles of Raistlin, Tasslehoff, Tanis, and other Heroes of the Lance, or create original heroes.",
       "The DRAGONLANCE Classics 15th Anniversary Edition features many all-new scenes, including meetings with Dalamar, Ariakan, and other more recent additions to the Saga. It is fully compatible with both the AD&D and SAGA(r) game rules." 
-    ]
-  }    
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Atlas of the Dragonlance World",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR8448",
+    "BookISBN": "0-88038-448-4",
+    "BookAuthor": "Karen Wynn Fonstad",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Atlas",
+    "BookFormat": "Paperback",
+    "BookSeries": "Other Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR8448 - Atlas of the Dragonlance World.pdf"
+    ],
+    "BookDescription": [
+      "Krynn... Enter the spell-binding world of the Dragonlance Saga with this volume of beautifully rendered maps.",
+      "Accompany the Heroes of the Lance on their epic travels across Krynn in this magnificently illustrated volume. Behold the beauty of the King Priest's Hall of Audience in the Temple of Istar. Smell Raistlin's herbs as you wander the hallways of the Tower of High Sorcery at Palanthas. Become hopelessly lost in the thirty-five levels of Mount Nevermind."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "DL1 - Dragons of Despair",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9130",
+    "BookISBN": "0-88038-086-1",
+    "BookAuthor": "Tracy Hickman",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "Levels 4 - 6",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9130 - DL1 - Dragons of Despair.pdf"
+    ],
+    "BookDescription": [
+      "You stand on the road east of Solace, tired from five years of adventuring, from a fruitless search for lost clerical magic. You know the old proverb that claims \"You must return to find what you left to seek,\" but the saying never really made sense. Soon, however, it will.",
+      "For the world of Krynn is not the same: refugees stream out of the northernmost human lands, telling horrible tales. An invading army has burned their villages and put their families and friends to the sword. Among these stories you hear even darker rumors-that older evils, the dragons themselves, have returned to the world, for new and more terrible purposes.",
+      "\"Dragon of Despair\" is the first in TSR's series of Dragonlance adventures for use with the AD&D game system. Your players will adventure in the world of Krynn, visit strange places such as Haven or ruined Xak Tsaroth, and encounter the bizarre draconians and spectral minions. They can play the modules as a set of separate adventures or as a great quest that spans the entire Dragonlance story."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } 
 ]

@@ -65,6 +65,10 @@
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9433 - ALQ4 - Secrets of the Lamp
 - TSR9467 - ALQ6 - Cities Of Bone
+- TSR2146 - CGR3 - The Complete Sha'ir's Hhandbook
+- TSR2129 - MC13 - Monstrous Compendium Al-Qadim Appendix
+- TSR1091 - City Of Delights
+- TSR1077 - Land Of Fate
 - TSR11348 - Skullport
 - TSR11405 - The Wyrmskull Throne
 - TSR11316 - FOR12 - Demihumans of the Realms
@@ -150,7 +154,9 @@
 - TSR9467 - ALQ6 - Cities Of Bone
 - TSR9449 - ALQ7 - Corsairs of The Great Sea
 - TSR9459 - ALQ8 - Caravans
-- TSR2021 - Dragonlance Adventures
+- TSR2146 - CGR3 - The Complete Sha'ir's Hhandbook
+- TSR1091 - City Of Delights
+- TSR1077 - Land Of Fate
 - TSR11405 - The Wyrmskull Throne
 - TSR11393 - Sea of Fallen Stars
 - TSR11316 - FOR12 - Demihumans of the Realms

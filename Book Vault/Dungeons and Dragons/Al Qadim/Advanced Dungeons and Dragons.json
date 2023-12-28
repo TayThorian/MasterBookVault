@@ -326,5 +326,183 @@
         {"page": 2, "title": ""}
         ]    
     }
+  } ,
+  {
+    "BookName": "CGR3 - The Complete Sha'ir's Hhandbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2146",
+    "BookISBN": "1-56076-828-2",
+    "BookAuthor": "Sam Witt",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Campaign Reference",
+    "BookFormat": "Paperback",
+    "BookSeries": "CGR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR2146 - CGR3 - The Complete Sha'ir's handbook.pdf"
+    ],
+    "BookDescription": [
+      "Discover the secrets of the sha'irs, who counsel and cavort with genies. Unravel the mysteries of elemental mages, who bend flame and sand to their will!",
+      "This magical tome holds a wealth of new information about Zakhara's exotic wizards and their dazzling enchantments. Within you'll find new kits, from clockwork mages to spellslayers. Here too are new spells and proficiencies, plus clandestine and nefarious societies-exposed at last!",
+      "A must-have for all Dungeon Masters and wizard players in the Al-Qadim campaign."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "MC13 - Monstrous Compendium Al-Qadim Appendix",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2129",
+    "BookISBN": "1-56076-370-1",
+    "BookAuthor": "",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Monstrous Compendium",
+    "BookFormat": "Loose 5-hole punched pages",
+    "BookSeries": "Monstrous Compendium",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR2129 - MC13 - Monstrous Compendium Al-Qadim Appendix.pdf"
+    ],
+    "BookDescription": [
+      "Glittering treasures lie undisturbed in darkened caves. Angry genies seethe in magically-sealed bottles. Gigantic birds of prey roost atop unscalable mountain peaks. Sea serpents twist and slither beneath blue waves. Alongside a world of stunning beauty and idyllic leisure exists a harsh realm of legendary beasts and monsters. The Al-Qadim appendix for your Monstrous Compendium contains 64 pages of monsters drawn from the fables of the Middle East. The creatures in this appendix are perfect for an Al-Qadim campaign, or for spicing up any AD&D game desert setting."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "City Of Delights",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1091",
+    "BookISBN": "1-56076-589-5",
+    "BookAuthor": "Tim Beach, Tom Prusa, Steve Kurtz",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Accessory",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Campaign Setting and Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR1091 - City Of Delights.pdf"
+    ],
+    "BookDescription": [
+      "Golden Huzuz, the City of Delights, is the \"heart of the heart\" of the enlightened lands.",
+      "It is the religious and political center of Zakhara and, say its inhabitants, the most beautiful city in the entire world. But beneath the beauty lies mystery, for the court of the Grand Caliph is as full of intrigue as the Grand Bazaar is full of adventures waiting to happen.",
+      "Come, explore the delights and dangers of Huzuz the Golden, heart of the Al-Qadim campaign world."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Arabian Adventures",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2126",
+    "BookISBN": "1-56076-358-2",
+    "BookAuthor": "Jeff Grubb, Andria Hayday",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Paperback",
+    "BookSeries": "Campaign Setting and Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR2126 - Arabian Adventures.pdf"
+    ],
+    "BookDescription": [
+      "Magic carpets, ghoulish vixens, genies rising from the sand in a whirlwind of smoke and fire - such wonders, spun into tales by fabled Scheherasade, enchanted a king for a thousand and one nights.",
+      "The Al-Qadim campaign will enchant role-players for a thousand and one more",      
+      "You are about to discover an exotic realm inspired by the tales of Sinbad, Ali Baba, and other classics from the Arabian Nights. The first in a series of products, this volume features everything DM's and players need to launch the Al-Qadim campaign."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 10, "title": "Chapter 1 - The Land of Fate"},
+        {"page": 19, "title": "Chapter 2 - Characters"},
+        {"page": 27, "title": "Chapter 3 - Kits"},
+        {"page": 71, "title": "Chapter 4 - Proficiencies"},
+        {"page": 78, "title": "Chapter 5 - Perils of Adventure"},
+        {"page": 85, "title": "Chapter 6 - At the Bazaar"},
+        {"page": 97, "title": "Chapter 7 - Sha'ir Abilities"},
+        {"page": 111, "title": "Chapter 8 - Wizard Spells"},
+        {"page": 152, "title": "Appendix A - Wizards Spells by Province"},
+        {"page": 154, "title": "Appendix B - Spell Index"},
+        {"page": 156, "title": "Glossary"},
+        {"page": 156, "title": "Guide to Major Illustrations"},
+        {"page": 157, "title": "Index"}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Land Of Fate",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1077",
+    "BookISBN": "1-56076-329-9",
+    "BookAuthor": "Jeff Grubb, Andria Hayday",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Al Qadim",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Campaign Setting and Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Al Qadim\\TSR1077 - Land Of Fate.pdf"
+    ],
+    "BookDescription": [
+      "Ride a magic carpet to a land of a thousand and one adventures! Visit spired cities, lush oases, and mysterious isles set in glittering seas. Meet sultans and sheikhs. See genies and giants. Discover a trove of new magical treasures! Whether your character starts from the compatible Forgotten Realms game setting or begins the journey elsewhere, this product contains everything a bold adventurer needs to explore the exotic AL-Qadim campaign world.",
+      "Recommended for use with the Arabian Adventures rulebook."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } 
 ]

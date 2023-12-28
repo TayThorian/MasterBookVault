@@ -1,0 +1,124 @@
+[
+    {
+    "BookName": "Dungeon Master's Guide",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCA92190000",
+    "BookISBN": "978-0-7869-6562-5",
+    "BookAuthor": "Mike Mearls, Jeremy Crawford, Christopher Perkins, James Wyatt",
+    "BookPublished": "2014",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Rules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\5E\\WTCA92190000 - Dungeon Master's Guide.pdf"
+    ],
+    "BookDescription": [
+      "Everything a Dungeon Master needs to weave legendary stories for the world’s greatest roleplaying game.",
+      "The Dungeon Master’s Guide provides the inspiration and the guidance you need to spark your imagination and create worlds of adventure for your players to explore and enjoy.",
+      "Inside you’ll find world-building tools, tips and tricks for creating memorable dungeons and adventures, optional game rules, hundreds of classic D&D magic items, and much more!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Monster Manual",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCA92180000",
+    "BookISBN": "978-0-7869-6561-8",
+    "BookAuthor": "Mike Mearls, Jeremy Crawford, Christopher Perkins",
+    "BookPublished": "2014",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Rules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\5E\\WTCA92180000 - Monster Manual.pdf"
+    ],
+    "BookDescription": [
+      "The Monster Manual presents a horde of classic Dungeons & Dragons creatures, including dragons, giants, mind flayers, and beholders—a monstrous feast for Dungeon Masters ready to challenge their players and populate their adventures.",
+      "The monsters contained herein are culled from the D&D game’s illustrious history, with easy-to-use game statistics and thrilling stories to feed your imagination."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Player's Handbook",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCA92170000",
+    "BookISBN": "978-0-7869-6560-1",
+    "BookAuthor": "Mike Mearls, Jeremy Crawford",
+    "BookPublished": "2014",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Rules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\5E\\WTCA92170000 - Player's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "The Player’s Handbook is the essential reference for every Dungeons & Dragons roleplayer. It contains rules for character creation and advancement, backgrounds and skills, exploration and combat, equipment, spells, and much more. Use this book to create exciting characters from among the most iconic D&D races and classes.",
+      "Dungeons & Dragons immerses you in a world of adventure. Explore ancient ruins and deadly dungeons. Battle monsters while searching for legendary treasures. Gain experience and power as you trek across uncharted lands with your companions.",
+      "The world needs heroes. Will you answer the call?"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 4, "title": "Preface"},
+        {"page": 5, "title": "Introduction"},
+        {"page": 9, "title": "Part 1 - Creating a Character"},
+        {"page": 11, "title": "Chapter 1 - Step-by-Step Characters"},
+        {"page": 17, "title": "Chapter 2 - Races"},
+        {"page": 45, "title": "Chapter 3 - Classes"},
+        {"page": 121, "title": "Chapter 4 - Personality and Background"},
+        {"page": 143, "title": "Chapter 5 - Equipment"},
+        {"page": 163, "title": "Chapter 6 - Customization Options"},
+        {"page": 171, "title": "Part 2 - Playing the Game"},
+        {"page": 173, "title": "Chapter 7 - Using Ability Scores"},
+        {"page": 181, "title": "Chapter 8 - Adventuring"},
+        {"page": 189, "title": "Chapter 9 - Combat"},
+        {"page": 199, "title": "Part 3 - The Rules of Magic"},
+        {"page": 201, "title": "Chapter 10 - Spellcasting"},
+        {"page": 207, "title": "Chapter 11 - Spells"},
+        {"page": 290, "title": "Appendix A - Conditions"},
+        {"page": 293, "title": "Appendix B - Gods of the Multiverse"},
+        {"page": 300, "title": "Appendix C - The Planes of Existence"},
+        {"page": 304, "title": "Appendix D - Creature Statistics"},
+        {"page": 312, "title": "Appendix E - Inspirational Reading"},
+        {"page": 313, "title": "Index"},
+        {"page": 317, "title": "Character Sheet"}
+        ]    
+    }
+  } 
+]
