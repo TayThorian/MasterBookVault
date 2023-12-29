@@ -64,6 +64,7 @@
 - TSR9507 - Shaman
 - TSR2173 - Monstrous Compendium Annual - Volume Four
 - TSR9431 - ALQ2 - Assassin Mountain
+- TSR9432 - ALQ3 - A Dozen And One Adventures
 - TSR9433 - ALQ4 - Secrets of the Lamp
 - TSR9467 - ALQ6 - Cities Of Bone
 - TSR9584 - Reunion
@@ -84,8 +85,6 @@
 - TSR11509 - Drizzt Do'Urden's Guide to the Underdark
 - TSR9590 - Kidnapped
 - TSR9389 - FRM1 - The Jungles of Chult
-## 
-- TSR9432 - ALQ3 - A Dozen And One Adventures
 # PDF's Books to Source
 ## Free League Publishing
 - FLFALE017 - Building Better Worlds
@@ -149,6 +148,7 @@
 - TSR2144 - DMGR6 - The Complete Book of Villains
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
+- TSR9432 - ALQ3 - A Dozen And One Adventures
 - TSR9433 - ALQ4 - Secrets of the Lamp
 - TSR9440 - ALQ5 - Ruined Kingdoms
 - TSR9467 - ALQ6 - Cities Of Bone
@@ -170,5 +170,3 @@
 - TSR9590 - Kidnapped
 - TSR9389 - FRM1 - The Jungles of Chult
 - TSR2023 - Greyhawk Adventures
-## 
-- TSR9432 - ALQ3 - A Dozen And One Adventures
