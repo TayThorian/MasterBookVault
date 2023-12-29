@@ -1,0 +1,476 @@
+[
+    {
+    "BookName": "Dungeons & Dragons - Basic Set",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1001",
+    "BookISBN": "",
+    "BookAuthor": "Eric Holmes",
+    "BookPublished": "1979",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "D&D Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Holmes Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1001 - Dungeons & Dragons - Basic Set.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Basic Set",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1011",
+    "BookISBN": "0-935696-48-2",
+    "BookAuthor": "Tom Moldvay",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "D&D BX",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Moldvay Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1011 - Basic Set.pdf"
+    ],
+    "BookDescription": [
+      "This is the 1981 edition of the D&D Basic Rulebook, which was sold as part of the boxed D&D Basic Set and also on its own. It was the first true standalone edition of what became \"Basic D&D\" as previous editions had instead been based on OD&D play."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 3, "title": "Part 1 - Introduction"},
+        {"page": 5, "title": "Part 2 - Player Character Information"},
+        {"page": 15, "title": "Part 3 - Spells"},
+        {"page": 18, "title": "Part 4 - The Adventures"},
+        {"page": 23, "title": "Part 5 - The Encounter"},
+        {"page": 29, "title": "Part 6 - Monsters"},
+        {"page": 45, "title": "Part 7 - Treasure"},
+        {"page": 51, "title": "Part 8 - Dungeon Master Information"},
+        {"page": 63, "title": "Glossary"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Expert Set",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1012",
+    "BookISBN": "0-935696-29-6",
+    "BookAuthor": "Tom Moldvay",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "D&D BX",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Moldvay Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1012 - Expert Set.pdf"
+    ],
+    "BookDescription": [
+      "This is the 1981 edition of the D&D Expert Rulebook by Dave Cook, which was sold as a counterpart to the Moldvay D&D Basic Set."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 2, "title": "Part 1 - Introduction"},
+        {"page": 5, "title": "Part 2 - Player Character Information"},
+        {"page": 11, "title": "Part 3 - Spells"},
+        {"page": 19, "title": "Part 4 - The Adventures"},
+        {"page": 23, "title": "Part 5 - The Encounter"},
+        {"page": 27, "title": "Part 6 - Monsters"},
+        {"page": 43, "title": "Part 7 - Treasure"},
+        {"page": 51, "title": "Part 8 - Dungeon Master Information"},
+        {"page": 63, "title": "Part9 - Special Adventures"}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Set 1 - Basic Rules",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1011",
+    "BookISBN": "",
+    "BookAuthor": "Frank Mentzer",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "D&D BECMI",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Mentzer (BECMI) Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1011 - Basic Set - Players Manual.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1011 - Basic Set - Dungeon Masters Rulebook.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Set 2 - Expert Rules",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1012",
+    "BookISBN": "",
+    "BookAuthor": "Frank Mentzer",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "D&D BECMI",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Mentzer (BECMI) Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1012 - Expert Rulebook.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Set 3 - Companion Rules",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1013",
+    "BookISBN": "",
+    "BookAuthor": "Frank Mentzer",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "D&D BECMI",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Mentzer (BECMI) Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1013 - Players Companion - Book One.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1013 - Dungeon Masters Companion - Book Two.pdf"
+    ],
+    "BookDescription": [
+      "This is the third boxed set of the Dungeons & Dragons game series. The first, the D&D Basic Set, introduced the game and explained the rules for 1st-3rd level characters. In the D&D Expert Set, character levels 4-14 were detailed, along with notes on the fantasy world in which the characters live.",
+      "If you started with a 1st character, and have enjoyed the wilderness expansion of Expert level play, then you are ready for this set.",
+      "You can also use this set if you'd like to discover what it's like to own a medieval castle. You can rule a land, bring civilization to the wilderness, and cope with all the threats to your territory, while facing monsters and magic of all kinds.",
+      "Your adventures will be different than ever before. Lower level characters must keep busy surviving and learning; but when you find the challenges lacking, or treasure too easily found, you may start to wonder? \"Is there anything more?\"",
+      "There certainly is! Games for higher level characters are often different? as new as when the characters first braved the unknown wilderness."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Set 4 - Master Set",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1021",
+    "BookISBN": "",
+    "BookAuthor": "Frank Mentzer",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "D&D BECMI",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Mentzer (BECMI) Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1021 - Master Set - Player's Book.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1021 - Master Set - DM's Book.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Set 5 - Immortals Rules",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1017",
+    "BookISBN": "0-88038-341-0",
+    "BookAuthor": "Frank Mentzer",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "D&D BECMI",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Mentzer (BECMI) Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1017 - Immortals Players Guide.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1017 - Immortals Dungeon Masters Guide.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Rules Cyclopedia",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1071",
+    "BookISBN": "1-56076-085-0",
+    "BookAuthor": "Aaron Allston",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "BECMI",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Challenger Series Rules / Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1071 - Rules Cyclopedia.pdf"
+    ],
+    "BookDescription": [
+      "NWhether you're a player or a Dungeon Master, the Dungeons & Dragons Rules Cyclopedia is now the comprehensive sourcebook you need for the original fantasy roleplaying game! For ages 12 and up, the Cyclopedia contains the compete game system and hundreds of features, including the following:",
+      "All the rules from the D&D boxed set series, including Basic, Expert, Companion, and Masters",
+      "Guidelines to develop and play characters from levels 1-36",
+      "Comprehensive lists of weaponry and equipment",
+      "Expansion rules including optional skills and talents",
+      "An overview of the Known World and the HOLLOW WORLD game setting, the official D&D campaign world; and Rules to convert D&D games and characters into AD&D 2nd edition game statistics and back again",
+      "Fully compatible with the new DUNGEONS & DRAGONS Boxed Set, this volume allows players the full scope of fantasy role-playing from dungeons to the Outer Planes. Now, more than ever, the DUNGEON & DRAGONS game is ready and waiting for you."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 5, "title": "Introduction"},
+        {"page": 6, "title": "Chapter 1 - Steps in Character Creation"},
+        {"page": 13, "title": "Chapter 2 -  The Character Classes"},
+        {"page": 32, "title": "Chapter 3 - Spells and Spellcasting"},
+        {"page": 62, "title": "Chapter 4 - Equipment"},
+        {"page": 75, "title": "Chapter 5 -  Other Character Abilities"},
+        {"page": 87, "title": "Chapter 6 -  Movement"},
+        {"page": 91, "title": "Chapter 7 -  Encounters and Evasion"},
+        {"page": 102, "title": "Chapter 8 - Combat"},
+        {"page": 117, "title": "Chapter 9 - Mass Combat"},
+        {"page": 127, "title": "Chapter 10 - Experience"},
+        {"page": 132, "title": "Chapter 11 - Nonplayer Characters"},
+        {"page": 134, "title": "Chapter 12 - Strongholds and Dominions"},
+        {"page": 143, "title": "Chapter 13 - Dungeon Master Procedures"},
+        {"page": 152, "title": "Chapter 14 - Monsters"},
+        {"page": 219, "title": "Chapter 15 - Immortals"},
+        {"page": 224, "title": "Chapter 16 - Treasure"},
+        {"page": 256, "title": "Chapter 17 - Campaigning"},
+        {"page": 263, "title": "Chapter 18 - The Planes of Existence"},
+        {"page": 266, "title": "Chapter 19 - Variant Rules"},
+        {"page": 268, "title": "Appendix 1 - The D&D® Game World"},
+        {"page": 291, "title": "Appendix 2 - AD&D® Game Conversions"},
+        {"page": 295, "title": "Appendix 3 - Record Sheets"},
+        {"page": 300, "title": "Appendix 4 - Indices"}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "DMR2 - Creature Catalog",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9438",
+    "BookISBN": "1-56076-593-3",
+    "BookAuthor": "Jophn Nephew",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "BECMI",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Dungeon Master's Reference (DMR) Series Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9438 - DMR2 - Creature Catalog.pdf"
+    ],
+    "BookDescription": [
+      "Lurking behind these covers are over 150 of the most ferocious, wondrous, and challenging creatures of the D&D game.",
+      "This new Creature Catalog revises and expands on the older product of a similar name. The perfect companion to the D&D Rules Cyclopedia, the Creature Catalog updates old monster descriptions, provides information compatible with the new Rules Cyclopedia, develops monster background information, and includes new creatures and old fiends from the very best D&D adventure modules. With the Creature Catalog, a Dungeon Master can find the right monster to challenge any adventuring party, form 1st level on up.",
+      "<b>The Creature Catalog</b>",
+      "covers and illustrates over 150 creatures not included in the Rules Cyclopedia;",
+      "contains an updated D&D creature index; and",
+      "features new wilderness encounter tables."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DMR1 - Dungeon Master’s Screen",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9437",
+    "BookISBN": "1-56076-565-8",
+    "BookAuthor": "Teeuwynn Woodruff ",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "BECMI",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Dungeon Master's Reference (DMR) Series Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9437 - DMR1 - Dungeon Master’s Screen.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "B1 - In Search of the Unknown",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9023",
+    "BookISBN": "0-935696-04-0",
+    "BookAuthor": "Mike Carr",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9023 - B1 - In Search of the Unknown.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9023 - B1 - In Search of the Unknown [Mono Cover].pdf"
+    ],
+    "BookDescription": [
+      "Module B1: \"In Search of the Unknown,\" forms a complete adventure for use with Dungeons & Dragons Basic Set. It is especially designed as an instructional aid for beginning Dungeon Masters and players, specifically created to enable new Dungeon Masters to initiate play with a minimum of preparation.",
+      "In addition to descriptive and situational material, this module also includes special informational sections giving background history and legends; listings of possible monsters and treasures, and how to place them; a list of adventuring characters; tips on various aspects of play for the Dungeon Master; and helpful advice for starting players."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "B2 - Keep on the Borderlands",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9034",
+    "BookISBN": "0-935696-47-4",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1980 - 1981",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9034 - B2 - Keep on the Borderlands.pdf"
+    ],
+    "BookDescription": [
+      "This module includes a cover folder with maps and a complete description booklet to form a ready-made scenario for DUNGEONS & DRAGONS® Basic Set. It has been specially designed for use by beginning Dungeon Masters so that they may begin play with a minimum of preparations.",
+      "Within are many features to aid novice players and Dungeon Masters: legends, history and background information, a list of adventuring characters, tips on how to be an effective Dungeon Master, plus an interesting area for characters to base themselves in (the Keep) before setting out to explore the Caves of Chaos!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } 
+]

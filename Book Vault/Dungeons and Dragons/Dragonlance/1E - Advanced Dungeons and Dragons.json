@@ -234,5 +234,265 @@
         {"page": 2, "title": ""}
         ]    
     }
+  } ,
+  {
+    "BookName": "DL2 - Dragons of Flame",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9132",
+    "BookISBN": "0-88038-087-X",
+    "BookAuthor": "Douglas Niles",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "Levels 5 - 7",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9132 - DL2 - Dragons of Flame.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "DL3 - Dragons of Hope",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9131",
+    "BookISBN": "0-88038-088-8",
+    "BookAuthor": "Tracy Hickman",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "Levels 6 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9131 - DL3 - Dragons of Hope.pdf"
+    ],
+    "BookDescription": [
+      "The Dragonlance saga continues!",
+      "You have freed 800 refugees from the depths of Pax Tharkas, but now the armies of the dragon highmaster Verminaard pursue you through the wilderness. There is only one hope for you: Find the gates to Thorbardin, the ancient kingdom of the mountain dwarves, sealed long ago in the Dwarfgate War. The problem is that nobody knows where it is, or if it still exists!",
+      "Through the snow-covered Kharolis Mountains, across the Dergoth Plain, haunted by the ghosts of ancient armies, and to the incredible mountain known as Skullcap, you search for the answer that will save the refugees of Pax Tharkas—and yourself!",
+      "\"Dragons of Hope\" is the exciting third part of the First Book of Dragonlance, an epic quest through the world of Krynn, threatened by the domination of the inhuman draconians. This adventure can be played as part of a separate adventure, or as part of the great quest that spans the entire Dragonlance story."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "DL4 - Dragons of Desolation",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9139",
+    "BookISBN": "0-88038-089-6",
+    "BookAuthor": "Tracy Hickman & Michael Dobson",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "Levels 6 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9139 - DL4 - Dragons of Desolation.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "DL5 - Dragons of Mystery",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9135",
+    "BookISBN": "0-88038-090-X",
+    "BookAuthor": "Michael Dobson",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9135 - DL5 - Dragons of Mystery.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DL6 - Dragons of Ice",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9140",
+    "BookISBN": "0-88038-091-8",
+    "BookAuthor": "Douglas Niles",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "Levels 6 - 9",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9140 - DL6 - Dragons of Ice.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "DL7 - Dragons of Light",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9136",
+    "BookISBN": "0-88038-093-4",
+    "BookAuthor": "Jeff Grubb",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "Levels 7 - 9",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9136 - DL7 - Dragons of Light.pdf"
+    ],
+    "BookDescription": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9136 - DL7 - Dragons of Light.pdf"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "DL8 - Dragons of War",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9141",
+    "BookISBN": "0-88038-097-7",
+    "BookAuthor": "Tracy & Laura Hickman",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "Levels 8 - 10",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9141 - DL8 - Dragons of War.pdf",
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9141 - DL8 - Dragons of War - Map.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "DL9 - Dragons of Deceit",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9137",
+    "BookISBN": "0-88038-095-0",
+    "BookAuthor": "Douglas Niles",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "Levels 8 - 10",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9137 - DL9 - Dragons of Deceit.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } 
 ]

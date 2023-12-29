@@ -59,6 +59,7 @@
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
 - ENP0301 - N.O.W. - The Modern Action RPG
 ## TSR
+- TSR1071 - Rules Cyclopedia
 - TSR9506 - Chronomancer
 - TSR9507 - Shaman
 - TSR2173 - Monstrous Compendium Annual - Volume Four
