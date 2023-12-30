@@ -1,0 +1,36 @@
+[
+    {
+    "BookName": "Cyberpunk 2020",
+    "BookPublisher": "R Talsorian Games",
+    "BookCode": "CP3002",
+    "BookISBN": "0-937279-13-7",
+    "BookAuthor": "Mike Pondsmith,Colin Fisk,Will Moss,Scott Ruggels,Dave Friedland,Mike Blum",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Cyberpunk 2020",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Cyberpunk",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Cyberpunk\\Cyberpunk 2020\\CP3002 - Cyberpunk 2020.pdf"
+    ],
+    "BookDescription": [
+      "The Corporations control the world from their skyscraper fortresses, enforcing their rule with armies of cyborg assassins. On the Street, Boostergangs roam a shattered urban wilderness, killing and looting. The rest of the world is a perpetual party, as fashion-model beautiful techies rub biosculpt jobs with battle armored roadwarriors in the hottest clubs, sleaziest bars and meanest streets this side of the Postholocaust. The Future never looked so bad.",
+      "But you can change it. You've got interface plugs in your wrists, weapons in your arms, lasers in your eyes, bio-chip programs screaming in your brain. You're wired in, cyberenhanced and solid state as you can take it to the fatal Edge where only the toughest and coolest can go. Because you're CYBERPUNK.",
+      "Cyberpunk: the original roleplaying game of the dark future; a world of corporate assassins, heavy-metal heroes and brain burning cyberhackers, packed with cutting edge technology and intense urban action. Within this book, you'll find everything you need to tackle the mean streets of the 2000's -- in a game system that combines the best in realistic action and playability."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } 
+]

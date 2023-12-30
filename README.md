@@ -54,6 +54,10 @@
 - MGP40098 - The Trailing Frontier
 - MGP40099 - The Imperial Navy
 - MGP40097 - The Marches Adventures 1-5
+## Sine Nomine Publishing
+- - Cities Without Number
+- - Stars Without Number Revised Edition
+- - Worlds Without Number
 ## EN Publishing
 - ENP0101 - N.E.W. - Science Fiction Roleplaying Game
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
@@ -86,6 +90,8 @@
 - TSR9590 - Kidnapped
 - TSR9389 - FRM1 - The Jungles of Chult
 # PDF's Books to Source
+## R Talsorian Games
+- CR3001 - Cyberpunk RED
 ## Free League Publishing
 - FLFALE017 - Building Better Worlds
 - FLFTOR012 - Tales from the Lone Lands
@@ -134,6 +140,10 @@
 - MGP40098 - The Trailing Frontier
 - MGP40099 - The Imperial Navy
 - MGP40097 - The Marches Adventures 1-5
+## Sine Nomine Publishing
+- - Cities Without Number
+- - Stars Without Number Revised Edition
+- - Worlds Without Number
 ## EN Publishing
 - ENP0101 - N.E.W. - Science Fiction Roleplaying Game
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
