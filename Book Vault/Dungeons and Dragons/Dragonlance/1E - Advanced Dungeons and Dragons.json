@@ -494,5 +494,232 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "DL10 - Dragons of Dreams",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9142",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9142 - DL10 - Dragons of Dreams.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }  ,
+  {
+    "BookName": "DL11 - Dragons of Glory",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9144",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9144 - DL11 - Dragons of Glory.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "DL12 - Dragons of Faith",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9133",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\aster Vault\\Dragonlance\\ADnD\\TSR9133 - DL12 - Dragons of Faith.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": " DL13 - Dragons of Truth",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9176",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9176 - DL13 - Dragons of Truth.pdf",
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9176 - DL13 - Dragons of Truth - Map.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "DL14 - Dragons of Triumph",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9180",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9180 - DL14 - Dragons of Triumph - Book 3.pdf",
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9180 - DL14 - Dragons of Triumph - Book 1.pdf",
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9180 - DL14 - Dragons of Triumph - Book 2.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "DL15 - Mists of Krynn",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9231",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9231 - DL15 - Mists of Krynn.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "DL16 - World of Krynn",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9237",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DL Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9237 - DL16 - World of Krynn.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } 
 ]

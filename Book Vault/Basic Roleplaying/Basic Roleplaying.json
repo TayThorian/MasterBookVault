@@ -1,0 +1,37 @@
+[
+    {
+    "BookName": "Basic Roleplaying - Universal Game Engine",
+    "BookPublisher": "Chaosium",
+    "BookCode": "CHA2036",
+    "BookISBN": "978-1-56882-470-3",
+    "BookAuthor": "Jason Durall, Steve Perrin",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying",
+    "BookEdition": "",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Basic Roleplaying",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Basic Roleplaying\\CHA2036 - Basic Roleplaying · Universal Game Engine.pdf"
+    ],
+    "BookDescription": [
+      "Basic Roleplaying (BRP) is a system of core rules for tabletop roleplaying. Whether you’re a seasoned roleplaying veteran or new to the hobby, Basic Roleplaying has everything you need for years of entertainment.",
+      "Basic Roleplaying: Universal Game Engine is the complete guide to BRP—the same system that powers Call of Cthulhu, RuneQuest, Pendragon, Rivers of London, and countless others.",
+      "BRP’s Universal Game Engine is available royalty-free for personal and commercial use under the ORC license. Use these rules, and focus on creating your worlds, scenarios and even books to sell!",
+      "This book contains the core system rules, as well as character creation, advancement, monsters and antagonists, as well as GameMaster advice."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } 
+]

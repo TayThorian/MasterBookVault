@@ -472,5 +472,419 @@
         {"page": 2, "title": ""}
         ]    
     }
-  } 
+  } ,
+  {
+    "BookName": "B3 - Palace of the Silver Princess",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9044",
+    "BookISBN": "0-935696-31-8",
+    "BookAuthor": "Tom Moldvay & Jean Wells",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9044 - B3 - Palace of the Silver Princess [Green Cover].pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9044 - B3 - Palace of the Silver Princess.pdf"
+    ],
+    "BookDescription": [
+      "Not long ago, the valley was green and animals ran free through golden fields of grain. The Princess Argenta ruled over this peaceful land and the people were secure and happy. Then one day, a warrior riding a white dragon appeared in the skies over the castle, and almost overnight the tiny kingdom fell into ruin. Now only ruins and rumors remain, and what legends there are tell of a fabulous treasure still buried somewhere within the Palace of the Silver Princess.",
+      "This module is for use with the D&D Basic Set and is specifically designed for beginning players and DMs. Contained within are maps of the palace and its dungeons, background information, new monsters and a special preliminary adventure for novice DMs and players alike."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "B4 - The Lost City",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9049",
+    "BookISBN": "0-935696-55-5",
+    "BookAuthor": "Tom Moldvay",
+    "BookPublished": "1982",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9049 - B4 - The Lost City.pdf"
+    ],
+    "BookDescription": [
+      "Lost in the desert! The only hope for survival lies in a ruined city rising out of the sands. Food, water, and wealth await heroic adventures inside and ancient pyramid ruled by a strange race of masked beings.",
+      "This module includes a cover folder with maps, and a descriptive booklet with a ready-made adventure for the Dungeons & Dragons Basic game. It also includes enough information to continue the adventure beyond level 3, using the Dungeons & Dragons Expert game rules."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "B5 - Horror on the Hill",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9078",
+    "BookISBN": "0-88038-046-2",
+    "BookAuthor": "Douglas Niles",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9078 - B5 - Horror on the Hill.pdf"
+    ],
+    "BookDescription": [
+      "The end of the road. A lonely fort stands on the banks of a mighty river. It is here the hardy bands of adventurers gather to plan their conquests of The Hill, the hulking mass that looms over this tiny settlement.",
+      "The Hill is filled with monsters, they say, and an evil witch makes her home there. Still, no visitor to The Hill has ever returned to prove the rumours true or false. The thrill of discovery is too great to pass up, and only the river stands in the way. The adventurers' boat is waiting!",
+      "This adventure is designed for use with the D&D Basic Rules. A trip through the wilderness begins a unique challenge for the novice player and Dungeon Master.",
+      "Included in the module are 11 maps, 3 new monsters, and a complete set of pre-rolled characters."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "B6 - The Veiled Society",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9086",
+    "BookISBN": "0-88038-085-3",
+    "BookAuthor": "David Cook",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9086 - B6 - The Veiled Society.pdf"
+    ],
+    "BookDescription": [
+      "The widow insists there are demons in her house. She hears them at night in her root cellar, and now they call out to her. But she is old and nervous and her mind often plays tricks on her.",
+      "Two men, their heads fully sheathed in large, black hoods, dig quickly in the darkness of the cellar. The hole grows deeper as their shovels bite into the earth. \"This will teach those meddlers their place,\" the shorter, slim figure says haltingly.",
+      "\"But don't you see the advantage?\" snaps the tall man. \"They will fear us now. They will fear for their lives.\"",
+      "Grunting, they heave a sailcloth bundle into the hole. As it falls, a woman's hand dangles lifelessly form the folds.",
+      "Who is the woman? Why will her death trigger riots and unrest in the city of Specularum? And the assassins: Are they Torenescu, Radu, or Vorloi? Or, curse of curses, the Veiled Society?",
+      "This special game adventure provides a section of buildings and figures to cut out and use, giving you three dimensions to your game play!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }  ,
+  {
+    "BookName": "B7 - Rahasia",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9115",
+    "BookISBN": "0-88038-113-2",
+    "BookAuthor": "Tracy & Laura Hickman",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9115 - B7 - Rahasia.pdf"
+    ],
+    "BookDescription": [
+      "Gray Mountain lies deep in the lush elven forest. The temple there was a haven of meditation and learning until taken over by an evil cleric known as the Rahib.",
+      "Far under the mountain, he paces before the temple's great altar. A brown-robed servant rushes in and falls to his knees, trembling at the sight of the Rahib's black panther. \"Rahib, adventurers came to the village as the sun rose - the strangers now protect Rahasia.\"",
+      "A scowl crosses the Rahib's face. \"I must have Rahasia! Attack again tonight.\" As the servant scurries away, a deep growl rises from the giant cat.",
+      "Gripping the panther's leash, the Rahib paces again, speaking out loud. \"We must dispose of these strangers quickly; the secret beneath the temple will not wait much longer.\""
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "B8 - Journey to the Rock",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9106",
+    "BookISBN": "0-88038-158-2",
+    "BookAuthor": "Michael Malone",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9106 - B8 - Journey to the Rock.pdf"
+    ],
+    "BookDescription": [
+      "To a wizard, knowledge is power, and the wizard Lirdrium Arkayz wants to know the mysterious secret of The Rock. Many have tried to discover it?but The Rock keeps its secret well. The wizard offers a rich reward to anyone bold enough to solve this dark mystery.",
+      "But the road to The Rock leads to danger and hidden peril? dangers that have claimed the lives of many brave adventurers. Rashness and folly will lead to quick death, but riches await the clever and the brave. Have you the wits, courage, and skill to survive the Journey to The Rock?"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "B9 - Castle Caldwell and Beyond",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9143",
+    "BookISBN": "0-88038-200-7",
+    "BookAuthor": "Harry Nuckols",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9143 - B9 - Castle Caldwell and Beyond.pdf"
+    ],
+    "BookDescription": [
+      "Five exciting short adventures to make your Basic campaign come alive!",
+      "The Clearing of Castle Caldwell--A local merchant has recently purchased a small castle... but when he tried to move in, he discovered that the castle was already inhabited!",
+      "Dungeons of Terror--A strange trapdoor in the floor of Castle Cadwell leads to a terrifying challenge!",
+      "The Abduction of Princess Sylvia--On the eve of her wedding, the beautiful princess has been kidnapped! Can you save her in time?",
+      "The Great Escape--Imprisoned in an enemy fortress, without armor or weapons, your situation seems hopeless. Yet there may be a way to freedom . . .",
+      "The Sanctuary of Elwyn the Ardent--A mystical chime of great power has been stolen?but by whom? In the wrong hands, the chime can cause untold harm! But can you find and defeat this mysterious and powerful creature?"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "B10 - Night's Dark Terror",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9149",
+    "BookISBN": "0-88038-269-4",
+    "BookAuthor": "Jim Bambra, Graeme Morris & Phil Gallagher",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "Levels 2 - 4",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9149 - B10 - Night's Dark Terror.pdf"
+    ],
+    "BookDescription": [
+      "Barely one day's march from Kelven, the uncharted tracts of the Dymrak forest conceal horrors enough to freeze the blood of civilized folk. Those who have ventured there tell how death comes quick to the unwary - for the woods at night are far worse than any dungeon.",
+      "But you are adventurers, veterans of many battles, and the call of the will is strong. Will you answer the call, or are you afraid of the dark terrors of the night?",
+      "This campaign adventure is for characters just beginning Expert play (levels 2-4) and hurls them into the exciting outdoor world which awaits in the Expert rulebook.",
+      "With a 64-page booklet, 2 double-panel covers, and complete scans of the original double-sided mapsheet, this super-module provides all you need for epic wilderness and dungeon adventuring. Journey across the Grand Duchy of Karameikos in a desperate race against time and the forces of evil."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "B11 - King's Festival",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9260",
+    "BookISBN": "0-88038-746-7",
+    "BookAuthor": "Carl Sargent",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9260 - B11 - King's Festival.pdf"
+    ],
+    "BookDescription": [
+      "Someone has \"borrowed\" a cleric, and without him, the fabled King's Festival cannot go on. Unfortunately, it looks like the orcs have him, and your characters must rescue him.",
+      "A great learning adventure, King's Festival provides players and DMs with a valuable introduction to fantasy role-playing in the land of Karameikos. Full of helpful hints for the players and the DM, this module also provides a full dose of excitement! Orcs, carrion crawlers, and villains challenge the characters' fighting skills, and a host of traps and puzzles confound their wits!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "B12 - Queen's Harvest",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9261",
+    "BookISBN": "0-88038-746-5",
+    "BookAuthor": "Carl Sargent",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9261 - B12 - Queen's Harvest.pdf"
+    ],
+    "BookDescription": [
+      "The wizard Kavorquian is dead. But certain items belonging to his adopted son were in the wizard's keeping at the time of his demise. Now someone must venture into the silent vaults of Karvorquian's stronghold and recover the missing property.",
+      "\"Queen's Harvest\" picks up its story where B11: \"King's Festival,\" left off. It can be played as a sequel to that adventure or as a complete adventure in itself. It is tailored for beginning Dungeon Masters and players and contains helpful hints on adventuring and the land of Karameikos. The story develops simply, but ultimately leads the player characters into the nether reaches of Penhaligon's politics to confront Ilyana Penhaligon, mad pretender to the throne!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }  ,
+  {
+    "BookName": "B1-9 - In Search of Adventure",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9190",
+    "BookISBN": "0-88038-388-7",
+    "BookAuthor": "",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9190 - B1-9 -  In Search of Adventure.pdf"
+    ],
+    "BookDescription": [
+      "Threshold. The northernmost town in the Duchy? and your last stop before your adventures begin. Threshold, the gateway to mysterious castles, lost temples, deadly caves and caverns. You have heard the stories and legends now you wish to see for yourself.",
+      "This product provides a complete campaign adventure that will take beginning characters from 1st all the way to 3rd level and possibly beyond, drawn from the first nine modules of the B-series adventures."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "BSOLO - Ghost of Lion Castle",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9097",
+    "BookISBN": "",
+    "BookAuthor": "Merle M. Rasmussen",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Solo Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "B Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9097 - BSOLO - Ghost of Lion Castle.pdf"
+    ],
+    "BookDescription": [
+      "\"A great cat sits upon the northern grasslands, my friend, waiting to pounce on adventurers just like you.\" As you part the tall grass with your sword, the words of the tavernkeeper echo in your head.",
+      "\"He was the mightiest wizard we'd ever known, and that Lion Castle was his home.\" Your friends' voices mingle with the tavernkeeper's. \"He's but a ghost now, haunting those halls, and waiting for an heir.\"",
+      "The ground rises slightly. A strong wind rushes through the field. Suddenly, the grasses part, and Lion Castle rises majestically before you!",
+      "\"Magical riches await those who enter!\" \"Beware of man-beasts!\" Voices flood your head again. Will you brave the haunted castle? Can you afford not to? It is all up to you in the D&D Solo Adventure.",
+      "Ghost of Lions Castle is for one player only, but that one player makes all of the choices and enjoys all of the rewards. An entire castle and courtyard await your exploration. The adventure also includes a complete solo combat system."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }  
 ]

@@ -723,6 +723,38 @@
     }
   } ,
   {
+    "BookName": "Adventure Class Ships",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40105",
+    "BookISBN": "978-1-916675-03-2",
+    "BookAuthor": "Matthew Sprange",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Craft Catalogue",
+    "BookFormat": "",
+    "BookSeries": "Craft Catalogue",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40105 - Adventure Class Ships.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
     "BookName": "The Trailing Frontier",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40098",

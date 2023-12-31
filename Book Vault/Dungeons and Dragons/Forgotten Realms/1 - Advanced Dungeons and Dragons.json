@@ -601,5 +601,242 @@
         {"page": 64, "title": "New Monster - Pteraman"}
         ]    
     }
-  } 
+  },
+  {
+    "BookName": "FR1 - Waterdeep & The North",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9213",
+    "BookISBN": "0-88038-490-5",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9213 - FR1 - Waterdeep & The North.pdf"
+    ],
+    "BookDescription": [
+      "The North...rugged mountains and dense forests, which hide many beings hostile to man (who has settled here but lightly). Many dungeons and ruins also lie hidden in the Northern wastes, relics of the former splendor of the dwarven kingdoms, now lost and abandoned, and of earlier, fallen kingdoms of men.",
+      "Waterdeep...crossroads of the world, City of Splendors. Here are wealth and goods from every corner of the Realms, intrigue and feuds and important personages of rank and influence. From the many-spired towers of Piergeiron's Palace to the littered alleys of \"the Docks,\" this book introduces you to the living, ever-changing city of Waterdeep, and suggest many adventures therein.",
+      "Partake of the sights, the bustle and the intrigue-rub shoulders with the powerful and famous-feast your eyes on fabled treasures. Hear tales in the taverns such as can be heard nowhere else in all the world-but keep your weapons ready and your wits sharp. Oh, and above all...enjoy your stay."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "FR2 - Moonshae",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9217",
+    "BookISBN": "0-88038-494-8",
+    "BookAuthor": "Douglas Niles",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9217 - FR2 - Moonshae.pdf"
+    ],
+    "BookDescription": [
+      "The Moonshae Isles are alive with AD&D game campaigns opportunities.",
+      "Characters of virtually all the standard classes and levels can find adventure and challenge in some part of the islands."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }  ,
+  {
+    "BookName": "FR3 - Empires of the Sands",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9224",
+    "BookISBN": "0-88038-539-1",
+    "BookAuthor": "Scott Haring",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9224 - FR3 - Empires of the Sands.pdf"
+    ],
+    "BookDescription": [
+      "In the southeast corner of Faerûn, a thousand miles south of Waterdeep on the great Trade Way road, lie three lands known collectively as the Empires of the Sands. They are harsh lands that have produced tough people—proud, fierce, and hardworking.",
+      "The Empires of the Sands are now fully detailed for your role-playing campaign. The cultures, personalities, economies, cities, towns, and wilderness are described for an AD&D campaign of any size or level. Amn, land of merchants, where everything has a price; Tethyr, where evil grows and petty tyrants vie for a vacant throne; and Calimshan, a dry land where great magic is commonplace. All are waiting for you.",
+      "This sourcebook includes all the information you need to establish an exciting campaign."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }  ,
+  {
+    "BookName": "FR4 - The Magister",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9229",
+    "BookISBN": "0-88038-564-2",
+    "BookAuthor": "Ed Greenwood & Steve Perrin",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9229 - FR4 - The Magister.pdf"
+    ],
+    "BookDescription": [
+      "From Waterdeep and the Sword Coast to the jungles of Chult and faraway lands of Thay, strange and powerful magics fill the Forgotten Realms. Ancient tomes, powerful spells, fearsome weapons - all these and more await adventurers who can overcome terrible dangers to wield great power.",
+      "Ed Greenwood, originator of the FORGOTTEN REALMS game world, and famous game designer Steve Perrin have spent many long days with Elminster of Shadowdale, perhaps the finest sage in the long history of Abeir-Toril. The result of all this work is in your hands; The Magister is a compilation of new spells and items for your FORGOTTEN REALMS campaign.",
+      "Some of the new magics described in The Magister were first published in numerous \"Elminster\" articles in Dragon magazine. The best of these, along with many new fabulous spells and items, appear in this volume."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }  ,
+  {
+    "BookName": "FR5 - The Savage Frontier",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9233",
+    "BookISBN": "0-88038-593-6",
+    "BookAuthor": "Paul Jaquays",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9233 - FR5 - The Savage Frontier.pdf"
+    ],
+    "BookDescription": [
+      "North of Waterdeep, the land is cold, vast, and forbidding. The Trackless Sea stretches northward for what seems like forever, interrupted only by the occasional island and, eventually, the ice. On land, towns and villages flourish right up to the Spine of the World Mountains. It takes a special kind of person to live up here, a determined person used to hardship, a survivor—one with a great love for life and a great respect for the forces, both natural and unnatural, that can end it.",
+      "The Savage Frontier is now fully detailed for your roleplaying campaign. The cultures, personalities, economies, cities, towns, and wilderness are described for an AD&D campaign of any size or level. From the barbarian tribes of the far north to the Luskan pirates of the Trackless Sea, the Savage Frontier is an exciting land where adventure can be found anywhere. And, of course, its all part of the best-selling Forgotten Realms Campaign Setting, home of many other AD&D modules, sourcebooks, and even novels!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "FR6 - Dreams of the Red Wizards",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9235",
+    "BookISBN": "0-88038-615-0",
+    "BookAuthor": "Steve Perrin",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9235 - FR6 - Dreams of the Red Wizards.pdf"
+    ],
+    "BookDescription": [
+      "The Red Wizards of Thay, as cruel and horrible as they are powerful, they have ruled their eastern realm for as long as any sage can remember. They can be powerful allies, or deadly enemies. The Red Wizards know the darkest secrets of the strongest magic, and will sell their skills to the highest bidder. Thay is a land of slavers and tyrants, of intrigue and murder, of danger and opportunity.",
+      "In this book, the government, personalities, economy, cities, people, and wilderness of Thay are described for an AD&D campaign of any size or level. Dreams of the Red Wizards, plus a map of Thay that can be added to the previously published maps of the Forgotten Realms."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "FR7 - Hall of Heroes",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9252",
+    "BookISBN": "0-88038-711-4",
+    "BookAuthor": "Scott Bowles",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9252 - FR7 - Hall of Heroes.pdf"
+    ],
+    "BookDescription": [
+      "The Forgotten Realms fantasy world has been the site of many great adventures and home to countless valiant heroes and infamous villains. Many a tale of derring-do has been recounted in novels like the Moonshae trilogy by Douglas Niles, The Crystal Shard by R. A. Salvatore, Azure Bonds by Kate Novak and Jeff Grubb, and Spellfire by Ed Greenwood (creator of the Forgotten Realms fantasy world).",
+      "Until now, the characters from these Forgotten Realms novels have been unavailable to AD&D game players. But no longer.",
+      "Hall of Heroes provides complete histories and AD&D game statistics for such beloved characters as Elminster, the greatest sage and magic user of the Realms, Tristan Kendrick and Robyn of the Moonshae isles, Wulfgar the Barbarian, Drizzt the dark elf, and Bruenor the dwarf, all from the northern reaches, plus Alias and Dragonbait, Shandril and Narm Tamaraith, and many more.",
+      "But the Hall of Heroes is more that a listing of game statistics: It's also a sourcebook describing (among other things) artificial and magical lifeforms of the Realms, as well as the lives of the world's elves, dwarves, lizardmen, and exotic creatures.",
+      "Whatever your interest in the Forgotten Realms campaign setting, you'll find much to entertain and intrigue you in this volume."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }     
 ]

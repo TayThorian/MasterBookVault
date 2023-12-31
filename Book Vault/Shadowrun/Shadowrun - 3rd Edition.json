@@ -1,7 +1,7 @@
 [
     {
     "BookName": "Shadowrun - Third Edition",
-    "BookPublisher": "Catalyst Game Labs",
+    "BookPublisher": "FanPro",
     "BookCode": "FPR25000",
     "BookISBN": "1-932564-46-2",
     "BookAuthor": "",
@@ -37,7 +37,7 @@
   } ,
   {
     "BookName": "Aztlan",
-    "BookPublisher": "Catalyst Game Labs",
+    "BookPublisher": "FASA Corporation",
     "BookCode": "FAS7213",
     "BookISBN": "1-55560-257-6",
     "BookAuthor": "Nigel Findley",
@@ -77,11 +77,11 @@
   },
   {
     "BookName": "Brainscan",
-    "BookPublisher": "Catalyst Game Labs",
+    "BookPublisher": "FASA Corporation",
     "BookCode": "FAS7331",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55560-410-2",
+    "BookAuthor": "Robert Boyle, Davidson Cole, David Hyatt, Steve Kenson, Jason 'PK' Levine, Brian Schoner",
+    "BookPublished": "2000",
     "BookCover": "",
     "BookRules": "Shadowrun",
     "BookEdition": "3rd Edition",
@@ -114,7 +114,7 @@
   },
   {
     "BookName": "Cannon Companion",
-    "BookPublisher": "Catalyst Game Labs",
+    "BookPublisher": "FanPro",
     "BookCode": "FPR10659",
     "BookISBN": "1-932564-14-4",
     "BookAuthor": "",
@@ -148,11 +148,11 @@
   },
   {
     "BookName": "First Run",
-    "BookPublisher": "Catalyst Game Labs",
+    "BookPublisher": "FASA Corporation",
     "BookCode": "FAS7329",
-    "BookISBN": "",
+    "BookISBN": "1-55560-323-8",
     "BookAuthor": "Michael Mulvihill",
-    "BookPublished": "",
+    "BookPublished": "1999",
     "BookCover": "",
     "BookRules": "Shadowrun",
     "BookEdition": "3rd Edition",
@@ -182,7 +182,7 @@
   } ,
   {
     "BookName": "Character Dossier",
-    "BookPublisher": "Catalyst Game Labs",
+    "BookPublisher": "FanPro",
     "BookCode": "FPR10673",
     "BookISBN": "",
     "BookAuthor": "",
@@ -215,11 +215,11 @@
   } ,
   {
     "BookName": "Matrix",
-    "BookPublisher": "Catalyst Game Labs",
+    "BookPublisher": "FASA Corporation",
     "BookCode": "FAS7909",
     "BookISBN": "1-55560-401-3",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookAuthor": "Randall N. Bills, Rob Boyle, Drew Curtis, Dan Grendell, Keith Henry, Jason 'PK' Levine, Michelle Lyons, Paolo Marcucci, Michael Mulvihill, Kenneth Peters, John Schmidt, Darci Stratton, Jon Szeto, Rich Tomasso, Malik Toms, Frank \"Crazy\" Werschke, Jakko Westerbeke, Sebastian Wiers",
+    "BookPublished": "2000",
     "BookCover": "",
     "BookRules": "Shadowrun",
     "BookEdition": "3rd Edition",
@@ -232,7 +232,7 @@
     "BookSeries": "Expansion",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\Master Vault\\Shadowrun\\3rd Edition\\FAS7907 - Matrix.pdf"
+      "D:\\Master Vault\\Shadowrun\\3rd Edition\\FAS7909 - Matrix.pdf"
     ],
     "BookDescription": [
       "Matrix",
@@ -241,6 +241,71 @@
     ],
     "TableOfContents": {
       "title": "Matrix",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Corporate Download",
+    "BookPublisher": "FASA Corporation",
+    "BookCode": "FAS7125",
+    "BookISBN": "1-55560-362-9",
+    "BookAuthor": "Robert Boyle, Martin Gotthard, Dan Grendell, Eleanor Holmes, David Hyatt, Erik Jameson, Jay Keeler, Steve Kenson, Michael Mulvihill, Brian Schoner, Malik Toms",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Shadowrun",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Shadowrun",
+    "BookType": "Background Setting",
+    "BookFormat": "",
+    "BookSeries": "Background Setting",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Shadowrun\\3rd Edition\\FAS7125 - Corporate Download.pdf"
+    ],
+    "BookDescription": [
+      "The corporate war is over, but the corps need the shadows now more than ever as they scramble for position in the new power structure. Fuchi is dead, Novatech has risen from its ashes, and Wuxing and Cross have elbowed their way onto the Corporate Court. The corps have ceased their open conflict, but the guns are still drawn under the table...",
+      "Corporate Download describes the history, power players and business interests of the ten top megacorps. Corporate Download focuses on information that runners need: the latest security trends, secret plans, dirty tricks, people to know and how to use them. Players will learn what working for each corp means for their characters, and gamemasters will find new rules for using and rating the megacorps in their campaigns."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Corporate Punishment",
+    "BookPublisher": "FASA Corporation",
+    "BookCode": "FAS7330",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Shadowrun",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Shadowrun",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Shadowrun\\3rd Edition\\FAS7330 - Corporate Punishment.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
       "chapters": [
         {"page": 1, "title": ""},
         {"page": 2, "title": ""}

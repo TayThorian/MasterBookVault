@@ -1,5 +1,7 @@
 # Master Book Vault
 # Physical Books to Source
+## Chaosium
+- CHA2036 - Basic Roleplaying - Universal Game Engine
 ## Free League Publishing
 - FLFALE017 - Building Better Worlds
 - FLFTOR012 - Tales from the Lone Lands
@@ -51,6 +53,7 @@
 - MGP40072 - Secrets of the Ancients
 - MGP40104 - Mysteries of the Ancients
 - MGP40108 - Small Craft Catalogue
+- MGP40105 - Adventure Class Ships
 - MGP40098 - The Trailing Frontier
 - MGP40099 - The Imperial Navy
 - MGP40097 - The Marches Adventures 1-5
@@ -137,6 +140,7 @@
 - MGP40072 - Secrets of the Ancients
 - MGP40104 - Mysteries of the Ancients
 - MGP40108 - Small Craft Catalogue
+- MGP40105 - Adventure Class Ships
 - MGP40098 - The Trailing Frontier
 - MGP40099 - The Imperial Navy
 - MGP40097 - The Marches Adventures 1-5
@@ -149,6 +153,17 @@
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
 - ENP0301 - N.O.W. - The Modern Action RPG
 ## TSR
+- TSR9044 - B3 - Palace of the Silver Princess
+- TSR9049 - B4 - The Lost City
+- TSR9078 - B5 - Horror on the Hill
+- TSR9086 - B6 - The Veiled Society
+- TSR9115 - B7 - Rahasia
+- TSR9106 - B8 - Journey to the Rock
+- TSR9143 - B9 - Castle Caldwell and Beyond
+- TSR9149 - B10 - Night's Dark Terror
+- TSR9260 - B11 - King's Festival
+- TSR9261 - B12 - Queen's Harvest
+- TSR9190 - B1-9 - In Search of Adventure
 - TSR2112 - DMGR1 - Campaign Sourcebook and Catacomb Guide
 - TSR2114 - DMGR2 - Castle Guide
 - TSR9506 - Chronomancer
@@ -179,4 +194,6 @@
 - TSR9535 - Volo's Guide to All Things Magical
 - TSR9590 - Kidnapped
 - TSR9389 - FRM1 - The Jungles of Chult
+- TSR9235 - FR6 - Dreams of the Red Wizards
+- TSR9252 - FR7 - Hall of Heroes
 - TSR2023 - Greyhawk Adventures
