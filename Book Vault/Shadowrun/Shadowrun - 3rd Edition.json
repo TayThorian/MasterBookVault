@@ -311,5 +311,71 @@
         {"page": 2, "title": ""}
         ]    
     }
-  } 
+  },
+  {
+    "BookName": "Critters",
+    "BookPublisher": "FASA Corporation",
+    "BookCode": "FAS7102",
+    "BookISBN": "1-55560-369-6",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Shadowrun",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Shadowrun",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Shadowrun\\3rd Edition\\FAS7102 - Critters.pdf"
+    ],
+    "BookDescription": [
+      "Originally included with the Shadowrun, Third Edition, Gamemaster's Screen, this book is a complete catalogue of paranormal critters for Shadowrun. In addition to critter stats and short descriptions, it includes all of the rules you need for using critter powers. 48 Pages."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Corporate Shadowfiles",
+    "BookPublisher": "FAS7113",
+    "BookCode": "",
+    "BookISBN": "1-55560-211-8",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Shadowrun",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Shadowrun",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Shadowrun\\3rd Edition\\FAS7113 - Corporate Shadowfiles.pdf"
+    ],
+    "BookDescription": [
+      "In the world of 2054, money still makes the world go ‘round, and no one holds more of it than the megacorporations. Unchecked by the laws of any nation and bolstered by private armies of the hottest hitters and cyberjocks money can buy. These giants command commercial empires that span the globe. Constantly competing to increase their all-important profit margins, these behemoths will stop at nothing to achieve their ends and don’t care who gets reeked along the way. All fiercely protect their privacy, however, and prefer to wage their wars in the shadows—making them an unending source of biz for the runner.",
+      "Corporate Shadowfiles reveals the secrets of the megacorporations for the first time—their histories, assets, personnel, the works. So if you’re looking for a little background on your corporate clients, or maybe planning that big score that wills et you up for life, open your capture file and read away—but be ready to beat feet, ‘cause the corps will kill to protect this data.",
+      "Corporate Shadowfiles is a Shadowrun sourcebook that includes extensive explanations of megacorporate operations and economics, detailed profiles of the “Big 8” megacorporations, and new game rules for rating corporations that will add a whole new dimension of lethal intrigue to your Shadowrun adventures."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]

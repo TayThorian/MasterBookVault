@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sgyhFNEOCk5p0DCz8YUlUd4qPmDCCmIn1a4hxGqyRhoB/xcSkLdorgvexjaybgEbOZfTuTN3dT3pYagDnamNfw==",
+  "dgSpecHash": "8pwGFgRynDN2gPKkZZPyYbKh/VrIXDKtcCDMzfebC5wSMmuSUQpjNa4Ymipx6oYY/awnTnhkzE0rkHn7r8I+jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bsyca\\source\\repos\\MasterBookVault\\MasterBookVault\\MasterBookVault.vbproj",
+  "projectFilePath": "C:\\Applications\\GitHubs\\MasterBookVault\\MasterBookVault\\MasterBookVault\\MasterBookVault.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\bsyca\\.nuget\\packages\\microsoft.web.webview2\\1.0.2210.55\\microsoft.web.webview2.1.0.2210.55.nupkg.sha512",
     "C:\\Users\\bsyca\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

@@ -78,6 +78,8 @@ Partial Class Form1
         Panel4 = New Panel()
         Label22 = New Label()
         Label23 = New Label()
+        ButtonRunEditor = New Button()
+        ContextMenuStrip1 = New ContextMenuStrip(components)
         Panel1.SuspendLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(WebView2Description, ComponentModel.ISupportInitialize).BeginInit()
@@ -143,7 +145,8 @@ Partial Class Form1
         ' PanelPdfLinks
         ' 
         PanelPdfLinks.AutoSize = True
-        PanelPdfLinks.BackColor = Color.FromArgb(CByte(224), CByte(224), CByte(224))
+        PanelPdfLinks.BackColor = Color.Beige
+        PanelPdfLinks.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
         PanelPdfLinks.Location = New Point(546, 853)
         PanelPdfLinks.Name = "PanelPdfLinks"
         PanelPdfLinks.Size = New Size(627, 226)
@@ -679,11 +682,28 @@ Partial Class Form1
         Label23.TabIndex = 24
         Label23.Text = "PDF:"
         ' 
+        ' ButtonRunEditor
+        ' 
+        ButtonRunEditor.BackColor = SystemColors.ActiveCaption
+        ButtonRunEditor.Font = New Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point)
+        ButtonRunEditor.Location = New Point(464, 13)
+        ButtonRunEditor.Name = "ButtonRunEditor"
+        ButtonRunEditor.Size = New Size(150, 30)
+        ButtonRunEditor.TabIndex = 48
+        ButtonRunEditor.Text = "Launch Editor"
+        ButtonRunEditor.UseVisualStyleBackColor = False
+        ' 
+        ' ContextMenuStrip1
+        ' 
+        ContextMenuStrip1.Name = "ContextMenuStrip1"
+        ContextMenuStrip1.Size = New Size(61, 4)
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(2678, 1263)
+        Controls.Add(ButtonRunEditor)
         Controls.Add(btnGenerateMD)
         Controls.Add(ListBoxPDFToSource)
         Controls.Add(ListBoxBooksOnOrder)
@@ -770,4 +790,6 @@ Partial Class Form1
     Friend WithEvents Panel4 As Panel
     Friend WithEvents Label22 As Label
     Friend WithEvents Label23 As Label
+    Friend WithEvents ButtonRunEditor As Button
+    Friend WithEvents ContextMenuStrip1 As ContextMenuStrip
 End Class

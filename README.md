@@ -9,6 +9,9 @@
 - ICE2300 - Angmar - Land of the Witch King
 - ICE2400 - Umbar - Haven of the Corsairs
 - ICE2500 - The Court of Ardor in Southern Middle-earth
+- ICE3100 - Riders of Rohan
+- ICE2900 - Moria The Dwarven City
+- ICE2600 - Northern Mirkwood, The Wood-Elves Realm
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Rolemaster Unified - Spell Law
 - GCP-SMP-4500 - Spacemaster Privateers

@@ -41,6 +41,16 @@ Public Class Form1
             .Columns.Add("BookOwnedPDF", "Owned PDF")
             .AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill
         End With
+
+        ' Create a context menu strip
+        Dim treeViewContextMenu As New ContextMenuStrip()
+        Dim openItem As New ToolStripMenuItem("Open in JSON Editor")
+        AddHandler openItem.Click, AddressOf OpenJsonFile
+        treeViewContextMenu.Items.Add(openItem)
+
+        ' Assign the context menu to TreeView1
+        TreeView1.ContextMenuStrip = treeViewContextMenu
+
     End Sub
 
     Private Sub ClearAllData()
@@ -507,5 +517,44 @@ Public Class Form1
         e.DrawFocusRectangle()
     End Sub
 
+    Private Sub ButtonRunEditor_Click(sender As Object, e As EventArgs) Handles ButtonRunEditor.Click
+        ' Ensure the path exists
+        If Not System.IO.Directory.Exists(rootFolderPath) Then
+            MessageBox.Show("Folder path does not exist.")
+            Return
+        End If
+
+        ' Attempt to open the folder in the default JSON editor
+        Try
+            Process.Start("explorer.exe", rootFolderPath)
+        Catch ex As Exception
+            MessageBox.Show("Error opening folder: " & ex.Message)
+        End Try
+    End Sub
+
+    Private Sub OpenJsonFile(sender As Object, e As EventArgs)
+        If TreeView1.SelectedNode IsNot Nothing AndAlso TreeView1.SelectedNode.Tag IsNot Nothing Then
+            Dim filePath As String = TreeView1.SelectedNode.Tag.ToString()
+
+            ' Check if the file is a JSON file
+            If Path.GetExtension(filePath).Equals(".json", StringComparison.OrdinalIgnoreCase) Then
+                Try
+                    Process.Start(New ProcessStartInfo(filePath) With {.UseShellExecute = True})
+                Catch ex As Exception
+                    MessageBox.Show("Error opening file: " & ex.Message)
+                End Try
+            End If
+        End If
+    End Sub
+
+    Private Sub TreeView1_MouseUp(sender As Object, e As MouseEventArgs) Handles TreeView1.MouseUp
+        If e.Button = MouseButtons.Right Then
+            ' Select the node under the mouse pointer
+            Dim node As TreeNode = TreeView1.GetNodeAt(e.X, e.Y)
+            If node IsNot Nothing Then
+                TreeView1.SelectedNode = node
+            End If
+        End If
+    End Sub
 
 End Class

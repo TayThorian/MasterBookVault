@@ -250,11 +250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bsyca\\source\\repos\\MasterBookVault\\MasterBookVault\\MasterBookVault.vbproj",
+      "projectUniqueName": "C:\\Applications\\GitHubs\\MasterBookVault\\MasterBookVault\\MasterBookVault\\MasterBookVault.vbproj",
       "projectName": "MasterBookVault",
-      "projectPath": "C:\\Users\\bsyca\\source\\repos\\MasterBookVault\\MasterBookVault\\MasterBookVault.vbproj",
+      "projectPath": "C:\\Applications\\GitHubs\\MasterBookVault\\MasterBookVault\\MasterBookVault\\MasterBookVault.vbproj",
       "packagesPath": "C:\\Users\\bsyca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bsyca\\source\\repos\\MasterBookVault\\MasterBookVault\\obj\\",
+      "outputPath": "C:\\Applications\\GitHubs\\MasterBookVault\\MasterBookVault\\MasterBookVault\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bsyca\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -26,7 +26,14 @@
       "Descriptions of the principal inhabitants of Middle-earth, including: a language tree and linguistic data; cultural notes; and an in depth time line.",
       "Maps and notes on Middle-earth’s topography, climate, trade routes, and population centers.",
       "Guidelines for incorporating Middle-earth into any major role playing system."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Middle-Earth Adventure Guidebook II",
@@ -46,12 +53,19 @@
     "BookFormat": "Paperback",
     "BookSeries": "Adventure",
     "BookPDF": [
-      "D:\\Master Vault\\MERP\\1E\\ICE2210 - Middle-earth Adventure Guidebook II.pdf",
+      "D:\\Master Vault\\MERP\\1E\\ICE2210 - Middle-earth Adventure Guidebook II.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
       ""
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Thieves of Tharbad",
@@ -71,13 +85,20 @@
     "BookFormat": "Paperback",
     "BookSeries": "Adventure",
     "BookPDF": [
-      "D:\\Master Vault\\MERP\\1E\\ICE8050 - Thieves of Tharbad.pdf",
+      "D:\\Master Vault\\MERP\\1E\\ICE8050 - Thieves of Tharbad.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
       "This product details the major trading city west of the Misty Mountains, a city teeming with cutthroats and thieves. Rescue the Princess of Cardolan’s stolen tiara and help break up the complex smuggling ring.",
       "Tharbad was founded in the Second Age by Tar-Aldarion as an inland port for his fleet to use while exploring the interior of Middle-earth… Its broad avenues, public parks and well laid out streets were the envy of other northern cities, for Tharbad was built by the Numenorians at the height of their power. However the years have not been kind to Tharbad… Although much grandeur remains, most sections of the city have fallen into decay."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Dagorlad and the Dead Marshes",
@@ -97,13 +118,20 @@
     "BookFormat": "Paperback",
     "BookSeries": "Adventure",
     "BookPDF": [
-      "D:\\Master Vault\\MERP\\1E\\ICE8020 - Dagorlad and the Dead Marshes.pdf",
+      "D:\\Master Vault\\MERP\\1E\\ICE8020 - Dagorlad and the Dead Marshes.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
       "South of the Wilderland and north of Mordor lies a widely varying landscape stretching from the scarps and cliffs of the western Emyn Muil through the swamps and marshes of Nindalf to the bare plain known as the Dagorlad (S. “Battle Plain”). Once these lands were pleasant enough, in the way of wild places, although they were never much favored by settlers. The wetlands were filled with all manner of waterfowl and alive with the songs of frogs and blackbirds. The region’s waters gleamed with fish, and deer grazed the marsh grasses, bothered only by the hunting expeditions of the scattered tribes of Marshmen. These folk were almost always left alone and ignored by the wars and battles which raged about them, for their watery lands have always been too difficult for an army to cross with any speed, and treacherous indeed for those not born of the marshes.",
       "Instead, travelers have always gone by way of the broad plain before the dark gateway into Mordor. This expanse was once covered with wild grains and other grasses which quickly sprang up to hide the remains of the great war fought here at the end of the Second Age. Grouse pecked and nested there, and wild cattle grazed. Although unsettled by Men, these lands were peaceful and fruitful until a few hundred years ago, when the Shadow began to descend upon them once more."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "The Tower of Cirith Ungol and Shelob's Lair",
@@ -123,14 +151,21 @@
     "BookFormat": "Paperback",
     "BookSeries": "Adventure",
     "BookPDF": [
-      "D:\\Master Vault\\MERP\\1E\\ICE8030 - The Tower of Cirith Ungol and Shelob's Lair.pdf",
+      "D:\\Master Vault\\MERP\\1E\\ICE8030 - The Tower of Cirith Ungol and Shelob's Lair.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
       "Minas Ithil rests beneath the rising moon, serenely unaware of the terrors stirring in the nearby Mountains of Shadow. Travellers entering the Ithil Vale in 1640 of the Third Age behold the luminous marble walls and slender tower of this famed metropolis, the spire reflecting moonbeams that illuminate the vale with a haunting ethereal glow. Here, across the white bridge of the Ithilduin and between the flowering meadows on either bank, evening splendors beckon: thousands of flickering lanterns promise safety and rest for the weary wayfarer. In Minas Ithil men are immersed in the memories of their former glory, for now – since the Great Plague of four years ago – many of the city’s mansions are tenanted by none save ghosts. Yet none foresee that this place of beauty is fated to become Minas Morgul, dread city of the undead and the fearsome domain of the Nazgûl.",
       "The dangers are growing daily. Turning from the white bridge over the Ithilduin, one ascends a path on the northern side of the vale. Soon he reaches a series of stairs climbing into the Mountains of Shadow, and beyond that comes to a pass whose very name connotes an age-old evil: Cirith Ungol, the Spider’s Cleft. Within a reeking, dark tunnel at the summit of the pass lurks a primeval monstrosity, the devourer of Men and Elves – Shelob, the Greatest of the Great Spiders. Beyond Shelob’s lair the weird and desolate landscape of Mordor, Sauron’s ancient domain, stands stark and ugly as a vast scar. Once the troops of Gondor warded this land against evil, but since the Plague the watch has been abandoned. Now only a skeletal Gondorian garrison remains to hold the formidable Tower of Cirith Ungol, which commands the westward passes from Mordor. In these days of Gondor’s decline, Orcs, Trolls, and other creatures of Darkness dare to roam within sight of the Tower’s walls.",
       "On one side of the bridge Minas Ithil stands tall and proud, offering refuge and pleasures. On the other side lie the perils of Cirith Ungol and Mordor, where the valiant and skillful may win renown – or lose their lives trying! Here civilization and wilderness converge, and adventures are but a stone’s throw away."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Isengard and Northern Gondor",
@@ -150,12 +185,19 @@
     "BookFormat": "Paperback",
     "BookSeries": "Campaign Setting",
     "BookPDF": [
-      "D:\\Master Vault\\MERP\\1E\\ICE2800 - Isengard and Northern Gondor.pdf",
+      "D:\\Master Vault\\MERP\\1E\\ICE2800 - Isengard and Northern Gondor.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
       "The citadel of Isengard was built by the Númenórians in a sheltered valley at the southern limits of the Misty Mountains. Its main purpose was to defend the gap of Calenardhon and the Fords of Isen against attacks by Sauron’s forces. Self-sufficient and enchanted, it later became the virtually impregnable fortress of Saruman the White. No spire in Middle-earth was stronger, save the Dark Tower of Mordor."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Mouths of the Entwash",
@@ -175,13 +217,20 @@
     "BookFormat": "Paperback",
     "BookSeries": "Adventure",
     "BookPDF": [
-      "D:\\Master Vault\\MERP\\1E\\ICE8011 - Mouths of the Entwash.pdf",
+      "D:\\Master Vault\\MERP\\1E\\ICE8011 - Mouths of the Entwash.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
       "This supplement details the wild delta that dominates eastern Rohan. In this marsh the Entwash meets the mighty Anduin river, and unwary travellers encounter unexpected dangers. This module features 3 complete adventures. All are self-contained and can easily be used in other locales.",
       "Delve into the swampy forests surrounding the treacherous MOUTHS OF THE ENTWASH! For almost two hundred miles the southern channel of the river winds through bog, marsh, fen and breckland, continually splitting and rejoining itself. Here you’ll find a host of peculiar creatures and foul denizens – including the hideous undead known as Mewlips. This module contains the history of the places, people, creatures, and treasures found in the region, together with 3 exciting adventures, each of which can be set up in only minutes."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Ghosts of the Southern Anduin",
@@ -201,7 +250,7 @@
     "BookFormat": "Paperback",
     "BookSeries": "Adventure",
     "BookPDF": [
-      "D:\\Master Vault\\MERP\\1E\\ICE8109 - Ghosts of the Southern Anduin.pdf",
+      "D:\\Master Vault\\MERP\\1E\\ICE8109 - Ghosts of the Southern Anduin.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
@@ -211,7 +260,14 @@
       "The tailor’s son disappears after encountering the river ghost and telling the story far and wide. Will you face the darkest evil to search for the young man in The Edain-in-Arthedur?",
       "Despite plentiful rainfall, the trees and crops are withering. A supernatural blight has struck the land. Are you resourceful enough to combat The Shadow on the Banks?",
       "Confront bandits, undead, evil priests, and minions of Sauron as you hunt the Ghosts of the Southern Anduin in these four exciting adventures!"
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Angmar - Land of the Witch King",
@@ -238,7 +294,14 @@
       "Cultures, herblore & guidelines for running your own adventures",
       "A 16\" x 20\" full-color double-sided detachable mapsheet, side #1 of which details the NORTHERN MISTY MOUNTAINS, side #2, maps out the city of CARN DUM",
       "Trolls, Giants, Dragons, Bears, Wargs, Orcs and of course THE WITCH KING OF ANGMAR"
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "Umbar - Haven of the Corsairs",
@@ -263,7 +326,14 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "Adventure in a land of warships, traders, thieves and plunderers, ominous towers, dark wizards and scheming overlords."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   } ,
   {
     "BookName": "The Court of Ardor in Southern Middle-earth",
@@ -290,7 +360,14 @@
       "Within this book is held the tale of the history of the land known as the Mûmakan and an organization of Evil known as the Court of Ardor. Also told is the story of the preparations of the Court for a cataclysm which, if it were to occur, would have dire repercussions not only for the lands of the Mûmakan, but all of Middle-earth.",
       "Long ago in the dim past of Ender Elven lords came to this southerly area, to a land swathed in warm mists and overgrown with wild yet beautiful trees and vines, and inhabited by all manner of creatures. It was vastly different from the forests and plains to the North, yet the Elves loved it and named it Ardor (S: \"Exalted Land\"). Many centuries passed, and the Immortal Children of Eru lived in peace, until the Shadow fell upon the land and many of the strong were seduced by the clever words of servants of the Black Enemy: Morgoth. Power and wisdom were promised, if they would but perform this one task. Naive were these Elves in the Elder days, and they made oaths lightly, little knowing how heavily this would weigh upon them in the millennia to come. Eagerly they took council and formed a Court of sorts; a hierarchy of lords and ladies to effect this mission for their master. And a Darkness of spirit fell upon the land: a harbinger of the true dark which was to follow should their scheme come to fruition.",
       "Ages passed, and men, the younger Children, came and settled in Ardor, giving it a name in their own tongues – Mûmakan, after the huge beasts which roam the region. But Ardor still it was to the Court, and Ardor it would be again, when the eternal night fell upon all of Middle-earth."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
   },
   {
     "BookName": "Middle-earth Role Playing",
@@ -316,6 +393,113 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "No description available."
-    ]
-  }     
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Riders of Rohan",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE3100",
+    "BookISBN": "0-915795-29-9",
+    "BookAuthor": "Peter C. Fenlon Jr., Christian Gehman",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Setting",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE3100 - Riders Of Rohan.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Moria The Dwarven City",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2900",
+    "BookISBN": "0-915795-27-2",
+    "BookAuthor": "Peter C. Fenlon Jr.",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Setting",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE2900 - Moria, The Dwarven City.pdf"
+    ],
+    "BookDescription": [
+      "This package details all of the DWARVEN CITY OF KHAZAD-DUM and includes 7 Deeps (levels and sublevels) maps and cross-section diagrams of both the city and the mines, diagrams of traps, machines and forging implements, large-scale detailed floorplans of specific areas: the Chamber of Marzarbul, the Endless Stair, Durin’s Bridge, and the Entry Halls, information on Durin’s tribe, three Orc tribes, the many creatures who later inhabit Moria, and, of course, the BALROG.",
+      "Deep within the bowels of the central Misty Mountains lies Moria, the “Black Chasm”. Here stood Khazad-Dum (Kh. “Dwarf-mansion”) the kingdom of the noblest Lord of the Seven Tribes of Dwarves, a city sculpted from rock and embellished by the finest hall-builders of their day. Within its recesses Durin’s folk mined precious metals and discovered mithril, the “true-silver”.",
+      "Now its chambers are dark and its builders gone. Tales speak of a Balrog, a “Demon of Might” which once served the Black Enemy Morgoth.",
+      "Bats and wolves and deadly traps await those daring few who seep the treasures buried deep in the still, dank chambers of the Black Chasm."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Northern Mirkwood, The Wood-Elves Realm",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2600",
+    "BookISBN": "0-915795-08-6",
+    "BookAuthor": "John David Ruemmler",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Setting",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE2600 - Northern Mirkwood, The Wood-Elves Realm.pdf"
+    ],
+    "BookDescription": [
+      "The Wood-Elves Realm",
+      ""
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]
