@@ -69,8 +69,8 @@
     "TableOfContents": {
       "title": "Book",
       "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
         ]    
     }
   },
@@ -103,8 +103,8 @@
     "TableOfContents": {
       "title": "Book",
       "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
         ]    
     }
   } ,
@@ -182,8 +182,8 @@
     "TableOfContents": {
       "title": "Book",
       "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
         ]    
     }
   } ,
@@ -220,9 +220,177 @@
     "TableOfContents": {
       "title": "Book",
       "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
         ]    
     }
-  } 
+  } ,
+  {
+    "BookName": "Pathfinder Core Rulebook",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO2101",
+    "BookISBN": "978-1-64078-168-9",
+    "BookAuthor": "Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2101 - Pathfinder Core Rulebook.pdf"
+    ],
+    "BookDescription": [
+      "This comprehensive 640-page guide to the Pathfinder roleplaying game provides everything you need to set out into a world of limitless fantasy adventure! Choose from ancestries like elf, human, and goblin and classes like alchemist, fighter, and sorcerer to create a hero of your own design, destined to become a legend! The new Pathfinder rules are easier to learn and faster to play, and they offer deeper customization than ever before!",
+      "This indispensable volume contains the core rules for players and Game Masters, and is your first step on a heroic new journey!",
+      "The Pathfinder Core Rulebook includes:",
+      "More than 600 pages of game rules, advice, character options, treasure, and more for players and Game Masters!",
+      "Six heroic player character ancestries, including elf, dwarf, gnome, goblin, halfling, and human, with variant heritages for half-elf and half-orc!",
+      "More than 30 backgrounds like bartender, soldier, or apprentice to further immerse yourself in your hero's backstory!",
+      "Twelve character classes, including the alchemist, barbarian, bard, champion, cleric, druid, fighter, monk, ranger, rogue, sorcerer, and wizard!",
+      "Hundreds and hundreds of spells, class feats, and other exciting abilities to help you customize your character to become the hero YOU envision her to be!",
+      "Streamlined and revised rules to help ease new players into the game while providing the depth of character options and tactical interest that have defined Pathfinder from the beginning!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Pathfinder Gamemastery Guide",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO2103",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2103 - Pathfinder Gamemastery Guide.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Pathfinder Advanced Player's Guide",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO2105",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2105 - Pathfinder Advanced Player's Guide.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Secrets of Magic",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO2108",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2108 - Secrets of Magic.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Guns & Gears",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO2109",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2109 - Guns & Gears.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  }
 ]

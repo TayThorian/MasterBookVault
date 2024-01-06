@@ -1,0 +1,69 @@
+[
+    {
+    "BookName": "The Traveller Book",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW201",
+    "BookISBN": "",
+    "BookAuthor": "Marc Miller",
+    "BookPublished": "1982",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW201 - The Traveller Book.pdf"
+    ],
+    "BookDescription": [
+      "The complete core rulebook for Classic Traveller, this included the contents of Book 1, Book 2 and Book 3, together with extra material, in particular three adventures:",
+      "Into the Subsector",
+      "Shadows",
+      "Exit Visa"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Book 1 - Characters and Combat",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW300",
+    "BookISBN": "",
+    "BookAuthor": "Marc Miller",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW300 - Book 1 - Characters and Combat.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  }
+]

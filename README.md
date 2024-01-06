@@ -4,23 +4,12 @@
 - CHA2036 - Basic Roleplaying - Universal Game Engine
 ## Free League Publishing
 - FLFALE017 - Building Better Worlds
+- FLFFBL014 - Crypt of the Mellified Mage
+- MUH051557 - The Spire of Quetzel
 - FLFTOR012 - Tales from the Lone Lands
 ## Iron Crown Enterprises
-- ICE2300 - Angmar - Land of the Witch King
-- ICE2400 - Umbar - Haven of the Corsairs
-- ICE2500 - The Court of Ardor in Southern Middle-earth
-- ICE3100 - Riders of Rohan
-- ICE2900 - Moria The Dwarven City
-- ICE2600 - Northern Mirkwood, The Wood-Elves Realm
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Rolemaster Unified - Spell Law
-- GCP-SMP-4500 - Spacemaster Privateers
-- GCP-SMP-4511 - Robotics Manual
-- GCP-SMP-4512 - Equipment Manual
-- GCP-SMP-4513 - Vehicle Manual
-- GCP-SMP-4514 - Blaster Law
-- GCP-SMP-4515 - Future Law
-- GCP-SMP-4600 - Races & Cultures
 ## Monte Cook Games
 - MCG361 - The Glimmering Valley
 - MCG004 - Ninth World Bestiary
@@ -28,13 +17,6 @@
 - MCG083 - Into the Outside
 - MCG082 - Into the Deep
 - MCG071 - Into the Night
-## BRW Games
-- - Swords of Wuxia
-- - Book of Lost Beasts
-- - Book of Lost Lore
-- - Book of Lost Tables
-- - Swords of Cthulhu
-- ADD1403 - Adventures Dark and Deep Bestiary
 ## Digest Group Publications
 - - Manhunt
 ## Mongoose Publishing
@@ -73,6 +55,8 @@
 - TSR9506 - Chronomancer
 - TSR9507 - Shaman
 - TSR2173 - Monstrous Compendium Annual - Volume Four
+- TSR9532 - World Builders Guidebook
+- TSR9556 - Dungeon Builder's Guidebook
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
 - TSR9433 - ALQ4 - Secrets of the Lamp
@@ -185,6 +169,9 @@
 - TSR2146 - CGR3 - The Complete Sha'ir's Hhandbook
 - TSR1091 - City Of Delights
 - TSR1077 - Land Of Fate
+- TSR9275 - DLA1 - Dragon Dawn
+- TSR9285 - DLA2 - Dragon Knight
+- TSR9294 - DLA3 - Dragon's Rest
 - TSR11405 - The Wyrmskull Throne
 - TSR11393 - Sea of Fallen Stars
 - TSR11316 - FOR12 - Demihumans of the Realms
