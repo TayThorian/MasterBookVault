@@ -592,7 +592,7 @@
     }
   } ,
   {
-    "BookName": " DL13 - Dragons of Truth",
+    "BookName": "DL13 - Dragons of Truth",
     "BookPublisher": "TSR",
     "BookCode": "TSR9176",
     "BookISBN": "",
@@ -713,6 +713,110 @@
     ],
     "BookDescription": [
       "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DLA1 - Dragon Dawn",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9275",
+    "BookISBN": "0-88038-823-4",
+    "BookAuthor": "Rick Swan",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DLA Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9275 - DLA1 - Dragon Dawn.pdf"
+    ],
+    "BookDescription": [
+      "Venture once more to the world of Krynn, but this time to the continent of Taladas, largely untouched by the war of the Lance.",
+      "The dragons here are Othlorx, the Uninvolved, because they remain neutral in the struggle against the evil of Takhisis and her minions. Then why are they being systematically exterminated? Who wants all dragons on Taladas dead?",
+      "Your heroes must set on a dangerous trek in pursuit of dragon killers, through the lands of hostile holderfolk and to the mysterious Pillars of the Moon. Along the way they encounter Dragon Knights (warriors with a magic touch!) ancient guardians, and other surprises in the transformed realm of Taladas.",
+      "This AD&D® adventure, set in the world of the DRAGONLANCE® saga, is the first of an epic trilogy beginning in the previously unknown continent of Taladas and ranging out to the Astral plane. Players must track down the dragon killers and warn the conclave of the Othlorx, but those are only the first steps in thwarting a dreadful conspiracy aimed at all of Krynn!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DLA2 - Dragon Knight",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9285",
+    "BookISBN": "0-88038-843-9",
+    "BookAuthor": "Rick Swan",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DLA Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9285 - DLA2 - Dragon Knight.pdf"
+    ],
+    "BookDescription": [
+      "Someone or something is killing the Othlorx ('The Uninvolved') dragons of Taladas. Not only good dragons, but evil ones as well. Who or what would be so angered at these dragons as to slaughter them indiscriminately? To find out, The PCs must masquerade as dragon hunters and set out to destroy dragons. It's a dangerous game—if the dragons don't get you, your employers might!",
+      "This quest will take the heroes from the alleys of rundown Gridmire through the entire Southern Steamwall region of Taladas and eventually to the Astral plane. The poisonous vapors of the Indanalis Sea have wreaked havoc with the inhabitants of this region so be prepared to meet anything!",
+      "This AD&D adventure, set in the world of the Dragonlance saga, is the second of an epic trilogy that begins in the previously unknown continent of Taladas and ranges out to the Astral plane. The players assume the roles of dragon hunters to discover the identity of the \"master\" behind the plan to wipe out the Othlorx dragons of Taladas."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DLA3 - Dragon's Rest",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9294",
+    "BookISBN": "0-88038-869-2",
+    "BookAuthor": "Rick Swan",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DLA Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9294 - DLA3 - Dragon's Rest.pdf"
+    ],
+    "BookDescription": [
+      "Your heroes find themselves on a demi-planar island in the Ethereal void, where a mysterious god enlists their help in his scheme to stop Erestem (Takhisis). The heroes must journey through space and time to recover the powerful cindergemsand forge a weapon to destroy Erestem. If your heroes fail, Erestem's evil minions will invade Taladas and destroy the Orthlox (Uninvolved) dragons, which is just the star of her plans for Taladas!",
+      "Your PCs must venture into eras and places hitherto unknown to them. The cindergemsare strewn throughout the multiverse; ancient dragon burial grounds, magical ice palaces, crypts of restless dead, and much more await the heroes. And just who is that mysterious god who asks so much of them?",
+      "This AD&D game adventure, set in the vast world of the Dragonlance saga, is the conclusion to an epic adventure that began with Dragon Dawn and continued with Dragon Knight. On the previously unknown continent of Taladas, the heroes must strive to thwart the extraplanar invasion plans of Erestem, Queen of Evil, also known as Takhisis. Failure means doom for all of Krynn!",
+      "You need the Time of the Dragon set in order to play this adventure. You need not have played either of the previous modules in this series; alternate beginnings are provided for player who have not done so."
     ],
     "TableOfContents": {
       "title": "Book",

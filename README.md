@@ -43,7 +43,6 @@
 - MGP40062 - Core Adventure 2 - Last Call at Eneri's Cantina
 - MGP40063 - Core Adventure 3 - Errant Lightning
 - MGP40073 - The Third Imperium
-- MGP40115 - Wrath of the Ancients
 - MGP40114 - Whispers on the Abyss
 - MGP40112 - The Deep and the Dark
 - MGP40094 - Aliens of Charted Space Volume 3
@@ -55,6 +54,7 @@
 - MGP40100 - World Builder’s Handbook
 - MGP40072 - Secrets of the Ancients
 - MGP40104 - Mysteries of the Ancients
+- MGP40115 - Wrath of the Ancients
 - MGP40108 - Small Craft Catalogue
 - MGP40105 - Adventure Class Ships
 - MGP40098 - The Trailing Frontier
@@ -130,7 +130,6 @@
 - MGP40062 - Core Adventure 2 - Last Call at Eneri's Cantina
 - MGP40063 - Core Adventure 3 - Errant Lightning
 - MGP40073 - The Third Imperium
-- MGP40115 - Wrath of the Ancients
 - MGP40114 - Whispers on the Abyss
 - MGP40112 - The Deep and the Dark
 - MGP40094 - Aliens of Charted Space Volume 3
@@ -142,6 +141,7 @@
 - MGP40100 - World Builder’s Handbook
 - MGP40072 - Secrets of the Ancients
 - MGP40104 - Mysteries of the Ancients
+- MGP40115 - Wrath of the Ancients
 - MGP40108 - Small Craft Catalogue
 - MGP40105 - Adventure Class Ships
 - MGP40098 - The Trailing Frontier

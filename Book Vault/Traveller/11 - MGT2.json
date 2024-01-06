@@ -252,39 +252,6 @@
     }
   },
   {
-    "BookName": "Wrath of the Ancients",
-    "BookPublisher": "Mongoose Publishing",
-    "BookCode": "MGP40115",
-    "BookISBN": "",
-    "BookAuthor": "Martin J Dougherty",
-    "BookPublished": "2023",
-    "BookCover": "",
-    "BookRules": "Mongoose Traveller",
-    "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
-    "BookOwnedPDF": "To Source",
-    "BookLibrary": "Missing",
-    "BookSetting": "Third Imperium",
-    "BookType": "Adventure",
-    "BookFormat": "",
-    "BookSeries": "Adventures",
-    "BookPDF": [
-      "D:\\Master Vault\\"
-    ],
-    "BookCharacterLevel": "",
-    "BookDescription": [
-      "The Travellers have defeated an Ancient, but the struggle is not yet over. A telepathic nightmare leads the Travellers to a crashed vessel on a desolate moon, where they discover a threat to all Charted Space. The Ancient Tsyamoykyo, once the least of his kind, plans to implement a reign of terror. Meanwhile, something is happening to the Travellers. They are growing in power, developing new abilities. Can they learn to guide the process, becoming whatever they want to be?",
-      "The Travellers seek the wisdom of Eskayloyt, lost homeworld of the Droyne, and confront sadistic researchers at Imperial Research Station Gamma. Their quest leads to a backwater world where Tsyamoykyo is building a giant war machine, and from there into his very fortress. Confronting their greatest foe, the Travellers will decide the fate of the Ancients and perhaps all Charted Space."
-    ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
-  } ,
-  {
     "BookName": "Whispers on the Abyss",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40114",
@@ -626,7 +593,7 @@
     "BookPhysical": "To Source",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Third Imperium",
     "BookType": "Adventure",
     "BookFormat": "",
     "BookSeries": "Adventures",
@@ -660,7 +627,7 @@
     "BookPhysical": "To Source",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Third Imperium",
     "BookType": "Adventure",
     "BookFormat": "Hardback",
     "BookSeries": "Adventures",
@@ -681,6 +648,39 @@
         ]    
     }
   } ,
+  {
+    "BookName": "Wrath of the Ancients",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40115",
+    "BookISBN": "978-1-916676-14-8",
+    "BookAuthor": "M J Dougherty",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40115 - Wrath of the Ancients.pdf"
+    ],
+    "BookDescription": [
+      "The Travellers have defeated an Ancient, but the struggle is not yet over. A telepathic nightmare leads the Travellers to a crashed vessel on a desolate moon, where they discover a threat to all Charted Space. The Ancient Tsyamoykyo, once the least of his kind, plans to implement a reign of terror. Meanwhile, something is happening to the Travellers. They are growing in power, developing new abilities. Can they learn to guide the process, becoming whatever they want to be?",
+      "The Travellers seek the wisdom of Eskayloyt, lost homeworld of the Droyne, and confront sadistic researchers at Imperial Research Station Gamma. Their quest leads to a backwater world where Tsyamoykyo is building a giant war machine, and from there into his very fortress. Confronting their greatest foe, the Travellers will decide the fate of the Ancients and perhaps all Charted Space."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
   {
     "BookName": "Small Craft Catalogue",
     "BookPublisher": "Mongoose Publishing",
