@@ -107,16 +107,114 @@
     "BookType": "Accessory",
     "BookFormat": "Perfect Bound Bookk",
     "BookSeries": "Encyclopedia Magica Series",
-    "BookPDF": ["D:\\Master Vault\\ADnD\\Encyclopedia Magica Series\\TSR2141 - Encyclopedia Magica - Volume One.pdf"],
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Encyclopedia Magica Series\\TSR2141 - Encyclopedia Magica - Volume One.pdf"
+    ],
     "BookCharacterLevel": "",
     "BookDescription":[
       "The Encyclopedia Magica is a four-volume series that describes every magical item for the AD&D game. These items have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975. This essential reference tool puts the power of more than 20 years of AD&D history at your fingertips!"
     ],
     "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
+      "title": "Encyclopedia Magica - Volume One",
       "chapters": [
         {"page": 1, "title": "TOC TO"},
         {"page": 1, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Encyclopedia Magica - Volume Two",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2152",
+    "BookISBN": "0-7869-0124-1",
+    "BookAuthor": "",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Perfect Bound Bookk",
+    "BookSeries": "Encyclopedia Magica Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Encyclopedia Magica Series\\TSR2152 - Encyclopedia Magica - Volume Two.pdf"
+    ],
+    "BookDescription": [
+      "The Encyclopedia Magica is a four-volume series that describes every magical item for the AD&D game. These items have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975. This essential reference tool puts the power of more than 20 years of AD&D history at your fingertips!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Encyclopedia Magica - Volume Three",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2157",
+    "BookISBN": "0-7869-0187-X",
+    "BookAuthor": "",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Perfect Bound Bookk",
+    "BookSeries": "Encyclopedia Magica Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Encyclopedia Magica Series\\TSR2157 - Encyclopedia Magica - Volume Three.pdf"
+    ],
+    "BookDescription": [
+      "The Encyclopedia Magica is a four-volume series that describes every magical item for the AD&D game. These items have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975. This essential reference tool puts the power of more than 20 years of AD&D history at your fingertips!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Encyclopedia Magica - Volume Four",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2161",
+    "BookISBN": "0-7869-0289-2",
+    "BookAuthor": "",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Perfect Bound Bookk",
+    "BookSeries": "Encyclopedia Magica Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Encyclopedia Magica Series\\TSR2161 - Encyclopedia Magica - Volume Four.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
         ]    
     }
   },
@@ -777,5 +875,73 @@
         {"page": 88, "title": "Appendices"}
         ]    
     }
-  }       
+  } ,
+  {
+    "BookName": "T1-4 - The Temple of Elemental Evil",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9147",
+    "BookISBN": "0-88038-018-7",
+    "BookAuthor": "Gary Gygax, Frank Mentzer",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "T Series",
+    "BookCharacterLevel": "Levels 1 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\T Series\\TSR9147 - T1-4 - The Temple of Elemental Evil.pdf"
+    ],
+    "BookDescription": [
+      "A sinister force, long thought destroyed, stirs from the black hole that spawned it. Like an ebony darkness it prowls the land and safety is but an illusion, for it watches from every shadow and ponders possibilities.",
+      "What began years ago, with the introduction of the players to the quiet village of Hommlet and the amazing lands of Greyhawk, at last is complete. Here is the long-awaited campaign adventure, featuring the ruins of the Temple of Elemental Evil, where a great evil broods and grows beneath its blasted stones. This is your chance to drive it back and scatter its force again.",
+      "This product includes the village of Hommlet, the filthy shire of Nulb, and reveals the ruins of the Temple of Elemental Evil and the labyrinths that lie beneath, a warren of darkness. And beyond these ruins, even more is revealed.",
+      "For the first time, this product provides a complete campaign adventure, which will take beginning characters from 1st all the way to 8th level and possibly beyond! Hours of adventuring await you!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  }  ,
+  {
+    "BookName": "T1 - The Village of Hommlet",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9026",
+    "BookISBN": "",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1979 - 1981",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "T Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\T Series\\TSR9026 - T1 - The Village of Hommlet.pdf",
+      "D:\\Master Vault\\ADnD\\Adventures\\T Series\\TSR9147 - T1-4 - The Temple of Elemental Evil.pdf"
+    ],
+    "BookDescription": [
+      "The Village of Hommlet has grown up around a crossroads in a woodland. Once far from any important activity, it became embroiled in the struggle between gods and demons when the Temple of Elemental Evil arose but a few leagues away. Luckily of its inhabitants, the Temple and its evil hordes were destroyed a decade ago, but Hommlet still suffers from incursions of bandits and strange monsters."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  }    
 ]
