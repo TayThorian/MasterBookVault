@@ -31,7 +31,14 @@
       "<b>Campaigns in Dolmenwood:</b> Advice on refereeing campaigns in Dolmenwood, including procedures for designing dungeons in the Wood.",
       "<b>Treasures and Oddments:</b> Tables for determining treasure hoards, along with a wealth of magic items of all kinds — weapons and armour, scrolls and books, crystals, potions, oils, rings, wands, musical instruments, herbs, fungi, etc.",
       "<b>Appendices:</b> A miscellany of additional detail, including rumours, new spells, and a plethora of useful indexes."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
   } ,
   {
     "BookName": "Dolmenwood Monster Book",
@@ -56,7 +63,14 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "No description available."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
   },
   {
     "BookName": "Dolmenwood Players Book",
@@ -89,6 +103,56 @@
       "<b>Equipment, Services, and Animals:</b> Detailed lists of adventuring gear, weapons, and armour. Horses, vehicles, and dogs. Richly evocative lists of food, beverages, pipeleaf, herbs, and fungi. Details on hiring the services of specialists and retainers.",
       "<b>Adventuring:</b> The core rules of the game, including rules for hazards and challenges, travel and camping in the wilds, dungeon exploration, settlements and downtime, and encounters and combat.",
       "<b>Appendices:</b> Extra details on the Dolmenwood calendar, moon signs, the noble houses, and the major saints. Optional Kindred-Classes for players who prefer to play archetypal non-humans (e.g. a grimalkin, rather than a grimalkin thief or a grimalkin minstrel)."
-    ]
-  }  
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Classic Game Set",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0024",
+    "BookISBN": "978-3-96657-069-5",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rules",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "OSE RuleBooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0024-1 - Classic Game Set - Characters.pdf",
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0024-2 - Classic Game Set - Magic.pdf",
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0024-3 - Classic Game Set - Adventures.pdf",
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0024-4 - Classic Game Set - Monsters.pdf",
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0024-5 - Classic Game Set - Treasures.pdf"
+    ],
+    "BookDescription": [
+      "Old-School Essentials Classic Fantasy is also available as a deluxe box set containing everything you need to play! The five books in the Classic Game Set detail:",
+      "<b>Characters:</b> 7 fantastic classes (cleric, dwarf, elf, fighter, halfling, magic-user, thief), full equipment lists, specialists and mercenaries, stronghold construction.",
+      "<b>Magic:</b> The complete set of 34 cleric spells (from 1st to 5th level) and 72 magic-user spells (from 1st to 6th level), for use by players of cleric, elf, and magic-user characters.",
+      "<b>Adventures:</b> Full rules for adventuring in dungeons, the wilderness, and at sea, as well as guidelines for designing and running adventures.",
+      "<b>Monsters:</b> A selection of over 200 classic monsters to challenge adventurers of all levels: dragons and dinosaurs, golems and giants, slimes and oozes, beast-men and unholy spirits, animals monstrous and mundane. Includes complete encounter tables for dungeon levels 1–8+ and all types of wilderness terrain.",
+      "<b>Treasures:</b> A hoard of over 150 wondrous magic items: enchanted arms coveted by every warrior, scrolls, staves, and seeing stones, alchemical concoctions, rings of power, boots and cloaks woven with magic.",
+      "Old-School Essentials Classic Fantasy is a complete retelling of the classic 1980s Basic/Expert game, including all rules, character options, spells, monsters, and magic items.",
+      "The Classic Game Set contains the same game as the Classic Fantasy Rules Tome, just presented in a 5 book set for those who share our love of RPG box sets!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  } 
 ]
