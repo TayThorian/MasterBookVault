@@ -346,8 +346,8 @@
   },
   {
     "BookName": "Corporate Shadowfiles",
-    "BookPublisher": "FAS7113",
-    "BookCode": "",
+    "BookPublisher": "FASA Corporation",
+    "BookCode": "FAS7113",
     "BookISBN": "1-55560-211-8",
     "BookAuthor": "",
     "BookPublished": "",
@@ -375,6 +375,108 @@
       "chapters": [
         {"page": 1, "title": ""},
         {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Loose Alliances",
+    "BookPublisher": "FanPro",
+    "BookCode": "FPR25006",
+    "BookISBN": "1-932564-44-6",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Shadowrun",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Shadowrun",
+    "BookType": "Sourcebook",
+    "BookFormat": "",
+    "BookSeries": "Sourcebook",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Shadowrun\\3rd Edition\\FPR25006 - Loose Alliances.pdf"
+    ],
+    "BookDescription": [
+      "Corps don't give a drek about the runners they hire that's why they call us expendable assets. Forget working for the Mob or the Yakuza, too once you're in, you're part of their family for the rest of your life. Lucky for us, there are swarms of other groups looking to claim their piece of sprawl and who are willing to bypass the law to do it. Policlubs, magical orders, religious factions, black marketers these are just a few of the species struggling for survival in the shadow ecology. Hooking up with such an organization has its advantages resources, steady employment, backup but pick the wrong outfit to run with and you'll regret it when they kick you to curb. So what's it going to be, chummer? You can't roll solo forever.",
+      "Loose Alliances is a sourcebook for organizations that operate by their own set of rules in the Shadowrun world. From political factions and religious movements to treasure hunters and organleggers, it provides a wealth of information on the more obscure parties in the shadows and the benefits and drawbacks that come with them. Loose Alliances broadens the world of Shadowrun for player and gamemaster alike. For use with Shadowrun."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Magic in the Shadows",
+    "BookPublisher": "FanPro",
+    "BookCode": "FPR10658",
+    "BookISBN": "1-89064-658-1",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Shadowrun",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Shadowrun",
+    "BookType": "Sourcebook",
+    "BookFormat": "",
+    "BookSeries": "Sourcebook",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Shadowrun\\3rd Edition\\FPR10658 - Magic in the Shadows.pdf"
+    ],
+    "BookDescription": [
+      "Magic in the Shadows",
+      "So, You Think You Know Magic?",
+      "Chummer, I can write a book on wht you don't know. Can you design a spell or enchant a dagger? Can you invoke a great spirit or divine the future? Have you bared your soul to the Dweller on the Threshold during an astral quest? You've got a lot to learn--not even dragons know all there is to know about Magic in the Shadows.",
+      "Magic in the Shadows expands on the basic magic concepts in Shadowrun and provides advanced magic rules. For players, this book offers new magical paths, metamagic, totems and more than 75 new spells. For the gamemaster, there are rules for initiation, spirits, astral security, magical threats and more! For use with Shadowrun, Third Edition."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Man & Machine - Cyberware",
+    "BookPublisher": "FanPro",
+    "BookCode": "FPR25001",
+    "BookISBN": "1-932564-07-1",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Shadowrun",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Shadowrun",
+    "BookType": "Sourcebook",
+    "BookFormat": "",
+    "BookSeries": "Sourcebook",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Shadowrun\\3rd Edition\\FPR25001 - Man & Machine - Cyberware.pdf"
+    ],
+    "BookDescription": [
+      "Cyberware can increase your speed, enhance your strength and sharpen your reflexes. It can put a computer in your head, armor under your skin and weapons in your arms. There are implants to improve every internal organ and devices that let you interface with machines ... but you'd better know when to stop. Too much cyberware and you're a cyberzombie—more machine than man.",
+      "Man & Machine expands on the basic cybernetic gear offered in Shadowrun, Third Edition, and provides advanced rules for implanting, surgery, healing and damage. This sourcebook offers more than 200 new pieces of gear, features advancements in biotechnology and chemistry, and introduces nanotechnology.",
+      "For use with Shadowrun, Third Edition."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
         ]    
     }
   }
