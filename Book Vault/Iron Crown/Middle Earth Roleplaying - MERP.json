@@ -501,5 +501,71 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "Hillmen of the Trollshaws",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8040",
+    "BookISBN": "0-915795-24-8",
+    "BookAuthor": "Jeffery McKeage",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Adventure",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8040 - Hillmen of the Trollshaws.pdf"
+    ],
+    "BookDescription": [
+      "HILLMEN of the Trollshaws details the lands of western RHUDAUR. Adventure in the rocky highlands near Cameth Brin, where Trolls and the ghosts of Petty-Dwarves haunt ancient caverns."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Minas Tirith",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8301",
+    "BookISBN": "1-55806-001-4",
+    "BookAuthor": "Graham Staplehurst",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "MERP",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "City",
+    "BookFormat": "Hardback",
+    "BookSeries": "Cities",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8301 - Minas Tirith.pdf"
+    ],
+    "BookDescription": [
+      "Minas Tirith, the Guarded City, rises from the base of Mount Mindolluin. Capital of Gondor, it is the preeminent symbol of the struggle against Sauron of Mordor. No other city in western Middle-earth offers greater hope for the defense of the Free Peoples.",
+      "Minas Tirith commands the wide gap between the White Mountains and the Mountains of Shadow that encircle the Dark Lord’s homeland. Its seven walls and seven levels seem to grow out of the stone, as if carved by Giants. Each tier of the Royal City wraps around the rock and looms above the surrounding quarter, its ramparts glimmering white with each sunrise.",
+      "High atop the capital, on the uppermost level, the Tower of Ecthelion reaches skyward like a pearl-and-crystal spire. Amidst the storm spawned by the Lord of the Rings, this citadel is the last hold in Minas Tirith, an unparalleled bastion in an ominous time."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
   }
 ]

@@ -1,0 +1,103 @@
+[
+  {
+  "BookName": "Players Handbook",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "",
+  "BookISBN": "978-1-952379-36-9",
+  "BookAuthor": "Davis Chenault, Mac Golden",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "8th Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Castles & Crusades\\TLG80108 - Players Handbook.pdf"
+  ],
+  "BookDescription": [
+    "A pillar of the table top RPG industry, Castles & Crusades captures the essence of fantasy role playing and embodies the spirit of table top gamer of all stripes. With a versatile rule system and familiar playing field, the C&C Players Handbook has all you need to get started in a wild ride of adventure!",
+    "It’s easy to learn attribute-based rules system allows players to choose among 13 archetypal character classes and 7 races to create their characters. Spells, equipment, fast-paced combat rules, and all essential information needed to play a game of Castles & Crusades is in this book."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO"},
+      {"page": 2, "title": "BE DONE"}
+      ]    
+  }
+},
+{
+  "BookName": "Monsters & Treasure",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80115",
+  "BookISBN": "978-1-944135-83-6",
+  "BookAuthor": "Robert Doyel, Stephen Chenault",
+  "BookPublished": "2019",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Castles & Crusades\\TLG80115 - Monsters & Treasure.pdf"
+  ],
+  "BookDescription": [
+    "Beasts of legend and myth, monsters great and small, these are the minstrel’s fare: dragons, giants, orcs, foul-minded fey, the dreaded hydra, the riddling sphynx, the naga, wyverns, griffons and so very much more.",
+    "Monsters & Treasure contains over 400 monsters for your Castles & Crusades game. Each entry consists of an in-depth description of the monster, along with its nature, habits, the territories they occupy, their predilections, and all other relevant material. Each entry contains all the statistical information required to run the monster at any game table.",
+    "Including mountains of treasure, both magical and mundane, as well as how to roleplay monsters, handling combat with monsters, creating monsters and defining and awarding treasures.",
+    "Contained within this book is a wealth of information for the Castle Keeper. Along with the monsters and are hundreds of unique treasure items, advice on roleplaying monsters, handling combat with monsters, creating monsters, rules for awarding treasures and creating magic items.",
+    "Beasts of legend and myth, monsters great and small, these are the minstrel’s fare: dragons, giants, orcs, foul-minded fey, the dreaded hydra, the riddling sphynx, the naga, wyverns, griffons and so very much more."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO"},
+      {"page": 2, "title": "BE DONE"}
+      ]    
+  }
+},
+{
+  "BookName": "Castle Keepers Guide",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80154",
+  "BookISBN": "978-1-952379-48-2",
+  "BookAuthor": "Davis Chenault, Stephen Chenault",
+  "BookPublished": "2021",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "4th Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Castles & Crusades\\TLG80154 - Castle Keepers Guide.pdf"
+  ],
+  "BookDescription": [
+    "The Castle Keepers Guide includes a host of new material for the role playing enthusiast; from world creation, to dungeon designs, managing non-player characters, character attributes at high levels, spell use and cost, equipment its use and wastage, the tumult of storms, from warfare to combat, monsters, treasure, death and more. The Castle Keepers Guide provides the CK and the Player with a host of new tools for their use; tools designed to enhance play, not hinder it; designed to be malleable from gaming table to gaming table."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO"},
+      {"page": 2, "title": "BE DONE"}
+      ]    
+  }
+}
+]

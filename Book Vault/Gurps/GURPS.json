@@ -14,7 +14,7 @@
     "BookLibrary": "Yes",
     "BookSetting": "GURPS",
     "BookType": "Rulebook",
-    "BookFormat": "Hardback , Softback",
+    "BookFormat": "Hardback, Softback",
     "BookSeries": "Space",
     "BookPDF": [
       "D:\\Master Vault\\GURPS\\4E\\SJG01-1002 - Space.pdf"
@@ -22,31 +22,115 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "With this book, you can create anything from a single alien beast to a whole galaxy of civilizations and star systems . . . quickly and randomly, or with a detailed, step-by-step process that's true to biology and astrophysics as we understand them today."
-    ]
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
   } ,
   {
-    "BookName": "",
-    "BookPublisher": "",
-    "BookCode": "",
+    "BookName": "Horror",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-1003",
+    "BookISBN": "978-1-55634-803-7",
+    "BookAuthor": "Kenneth Hite",
+    "BookPublished": "2011",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Horror",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\4E\\SJG01-1003 - Horror.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "GURPS Horror, Fourth Edition, is the latest incarnation of one of the most popular GURPS supplements ever . . . and now it's been given a new lease on unnatural life by horror master Kenneth Hite. Its time-tested advice on running scary campaigns has been expanded to include current trends and tropes, showing you how to run everything from old-fashioned Gothic and supernatural horror to the latest J-horror, survival horror, and torture horror. The famous bibliography of unspeakable tomes and frightening films has grown to match. And the monsters return with unpleasant friends, as monsters inevitably do – all with GURPS Fourth Edition racial templates that let you use them as foes, as sinister Allies and cursed Alternate Forms, and even as PCs! Add the new and disturbing powers, the expanded rules for madness and corruption, and countless other updates, and you have everything you need to drag your horror campaign screaming into the 21st century."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 4, "title": "Introduction"},
+        {"page": 5, "title": "1. The Rag and Bone Shop"},
+        {"page": 54, "title": "2. Things that go Bump in the Night"},
+        {"page": 98, "title": "3. Dark Theatres"},
+        {"page": 120, "title": "4. Ominous Feelings, Gathering Shadows"},
+        {"page": 149, "title": "5. Tales to Terrify"},
+        {"page": 162, "title": "Blasphemous Lore"},
+        {"page": 173, "title": "Index"}
+        ]    
+    }
+  } ,
+  {
+    "BookName": "Magic",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-0101",
     "BookISBN": "",
     "BookAuthor": "",
     "BookPublished": "",
     "BookCover": "",
-    "BookRules": "",
-    "BookEdition": "",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookSetting": "",
-    "BookType": "",
+    "BookSetting": "GURPS",
+    "BookType": "Rulebook",
     "BookFormat": "",
     "BookSeries": "",
-    "BookPDF": [
-      "D:\\Master Vault\\"
-    ],
     "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\4E\\SJG01-0101 - Magic.pdf"
+    ],
     "BookDescription": [
       "No description available."
-    ]
-  } 
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Powers",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-0102",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\4E\\SJG01-0102 - Powers.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  }
 ]
