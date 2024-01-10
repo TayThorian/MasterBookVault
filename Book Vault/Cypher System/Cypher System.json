@@ -1,0 +1,81 @@
+[
+  {
+  "BookName": "Cypher System Rulebook",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG205",
+  "BookISBN": "978-1-939979-97-1",
+  "BookAuthor": "Monte Cook, Bruce R. Cordell, Sean K. Reynolds",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Ruleboook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Ruleboooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG205 - Cypher System Rulebook - 2nd Edition.pdf"
+  ],
+  "BookDescription": [
+    "The Cypher System is the critically acclaimed game engine that powers any campaign in any genre. You may have heard of it as the system that drives the award-winning Numenera roleplaying game. Lauded for its elegance, ease of use, flexibility, and narrative focus, the Cypher System unleashes the creativity of GMs and players with intuitive character creation, fast-paced gameplay, and a uniquely GM-friendly design.",
+    "The Cypher System is easy for beginners to learn, but offers all the depth, nuance, and complexity you want. Some people call it a “rules-light” system, but it has the power and sophistication of games that are much more mechanically heavy—and yet it is substantially more flexible. GMs find the game easy to prep for and easy to run—it frees up the GM’s attention, in prep and at the game table, to focus on cool, creative ideas rather than numbers, mechanics, and “crunch.”",
+    "Cypher System characters are built from the concept up. A descriptive sentence provides not just an easily-understood overview of the character, but also the mechanical basis for skills, abilities, and stats. And the Cypher System gives players amazing narrative engagement, rewarding player-driven subplots and giving players resources to bear on the tasks and situations they most want to succeed at."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 4, "title": "The Cypher System"},
+      {"page": 13, "title": "Part 1 - Characters"},
+      {"page": 205, "title": "Part 2 - Rules"},
+      {"page": 251, "title": "Part 3 - Genres"},
+      {"page": 311, "title": "Part 4 - Game Mastering"},
+      {"page": 443, "title": "Part 5 - Back Matter"}
+      ]    
+  }
+},
+{
+  "BookName": "The Stars Are Fire",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG209",
+  "BookISBN": "978-1-939979-99-5",
+  "BookAuthor": "Bruce R. Cordell",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Campaign Expansion",
+  "BookFormat": "Hardback",
+  "BookSeries": "The Stars Are Fire",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG209 - The Stars Are Fire .pdf"
+  ],
+  "BookDescription": [
+    "<b>Galaxy-spanning space opera. Near-future hard sci-fi. And everything in between.</b>",
+    "A starship of unknown provenance, adrift and powerless, falls into a nearby orbit. An alien disease causes people to slowly lose interest in life—then take root like a plant. An envoy from another dimension brings warning of a pending catastrophe—but what if its solutions are the real threat?",
+    "It’s your campaign. Where will you take it?",
+    "The Cypher System is the fast, flexible, elegant game engine that powers any campaign you can imagine. The Stars Are Fire adds creatures, rules, character options, loads and loads of gear, and other tools optimized for your science-fiction campaign. Plus a complete, ready-to-use hard sci-fi setting!",
+    "Aliens, robots, starships, creatures, and additional resources for campaigns ranging from gritty and realistic to swashbuckling and star-hopping.",
+    "A huge catalog of sci-fi equipment, all graded according to the tech level and style of your game—from contemporary to fantastic.",
+    "A space combat system for gripping ship-to-ship scenes that engage every player throughout the session.",
+    "A complete sci-fi setting: The Revel. Humanity has colonized the solar system, but a still-mysterious event has caused the Earth to fall dark and quiet.",
+    "A full-length adventure, Salvage Over Saturn, plus two sci-fi Cypher Shorts.",
+    "The Stars Are Fire is a setting and supplement for the Cypher System Rulebook for play."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO"},
+      {"page": 2, "title": "BE DONE"}
+      ]    
+  }
+}
+]

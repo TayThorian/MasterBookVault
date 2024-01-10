@@ -8,6 +8,7 @@
 - MUH051557 - The Spire of Quetzel
 - FLFTOR012 - Tales from the Lone Lands
 ## Iron Crown Enterprises
+- ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Rolemaster Unified - Spell Law
 ## Monte Cook Games
