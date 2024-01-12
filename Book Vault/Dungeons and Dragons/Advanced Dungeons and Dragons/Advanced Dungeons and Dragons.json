@@ -943,5 +943,84 @@
         {"page": 2, "title": "BE DONE"}
         ]    
     }
-  }    
+  },
+  {
+    "BookName": "PHBR1 - The Complete Fighter's Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2110",
+    "BookISBN": "0-88038-779-3",
+    "BookAuthor": "Aaron Allston",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2110 - PHBR1 - The Complete Fighter's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "Who says fighters are the poor cousins of the AD&D game? No one will say it aloud after reading the Complete Fighter's Handbook: 128 pages of mind-expanding advice on how to make your fighter the leanest, meanest threshing machine for leagues around.",
+      "New weapons, new proficiencies, new fighting styles, and fighter \"kits\" make this optional AD&D accessory a useful item for players and DMs."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "Introduction"},
+        {"page": 4, "title": "Character Creation"},
+        {"page": 13, "title": "Warrior Kits"},
+        {"page": 39, "title": "Role-Playing"},
+        {"page": 56, "title": "Combat Rules"},
+        {"page": 93, "title": "Equipment"},
+        {"page": 118, "title": "Tables"},
+        {"page": 120, "title": "Forms"}
+        ]    
+    }
+  },
+  {
+    "BookName": "PHBR2 - The Complete Thief's Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2111",
+    "BookISBN": "0-88038-780-7",
+    "BookAuthor": "John Nephew, Carl Sargent & Douglas Niles",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2111 - PHBR2 - The Complete Thief's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "Hide in shadows, move silently, find traps, open locks - if you thought that was all a thief was good for, think again. The masters of skulking and skullduggery are a force to be reckoned with. Is anyone or anything safe from a person who might be anywhere, anytime?",
+      "Learn the thief's most closely guarded secrets in this devious accessory for the AD&D game."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 4, "title": "Introduction"},
+        {"page": 7, "title": "Chapter 1 - Role-Playing Thieves"},
+        {"page": 16, "title": "Chapter 2 - Proficiencies"},
+        {"page": 22, "title": "Chapter 3 - Thief Kit"},
+        {"page": 51, "title": "Chapter 4 - Thieves' Guild"},
+        {"page": 90, "title": "Chapter 5 - Tools of the Trade"},
+        {"page": 109, "title": "Chapter 6 - The Arts of Deception - Classic Cons"},
+        {"page": 111, "title": "Chapter 7 - New Rules for Thieves"},
+        {"page": 116, "title": "Chapter 8 - The Thief Campaign"}        
+        ]    
+    }
+  }
 ]

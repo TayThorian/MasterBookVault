@@ -23,31 +23,51 @@
     "BookDescription": [
       "Tales from the Lone-lands contains six adventures for The One Ring™, the official tabletop roleplaying game based on the works of J.R.R. Tolkien. All set in the lone-lands of north-western Middle-earth around the year 1965 of the Third Age, the adventures can be played individually, or as part of a larger tale.",
       "Ancient evils wake as the Dark Lord stretches forth his hand. Over the course of these adventures, the heroes may thwart the spies and stratagems of the Enemy, explore long-lost wonders of the north, and travel far from hearth and home. Preserve the spark of hope, and one day these empty, wounded lands shall be healed! Fail, and all will be destroyed..."
-    ]
-  } ,
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
   {
-    "BookName": "",
-    "BookPublisher": "",
-    "BookCode": "",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookName": "Ruins of the Lost Realm",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFTOR005",
+    "BookISBN": "978-89143-49-4",
+    "BookAuthor": "Gareth Hanrahan",
+    "BookPublished": "2022",
     "BookCover": "",
-    "BookRules": "",
-    "BookEdition": "",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookSetting": "",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookSetting": "The One Ring",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
     "BookPDF": [
-      "D:\\Master Vault\\"
+      "D:\\Master Vault\\The One Ring\\FLFTOR005 - Ruins of the Lost Realm.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
-      "No description available."
-    ]
-  } 
+      "In the Westlands of Eriador, between the Misty Mountains and the Mountains of Lune, the Hobbits found both Men and Elves. Indeed, a remnant still dwelt there of the Dunedain, the kings of Men that came over the Sea out of Westernesse; but they were dwindling fast and the lands of their North Kingdom were falling far and wide into waste.",
+      "Eriador, the lone-lands described in The Lord of the Rings, comes alive as never before in Ruins of the Lost Realm, a supplement for The One Ring, the official tabletop roleplaying game based on the works of J.R.R. Tolkien. A region often described as deserted becomes a crucible for adventure, offering many hours of gameplay.",
+      "Chapter 1: Fog Over Eriador offers a description of the regions that once were part of the kingdom of Arnor, with a focus on the city of Tharbad.",
+      "Chapter 2: A Gathering Storm provides the Loremaster with a set of narrative elements aimed at building a possible future for the land of Eriador as a whole, including the description of many looming threats, Loremaster characters and their agendas.",
+      "Chapter 3: Landmarks adds twelve sites of interest in the style of the one presented in the core volume. These locations depict both 'historical' sites mentioned in The Lord of the Rings or The Hobbit, and others that have been created specifically for the game."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 5, "title": "1 - Fog over Eriador"},
+        {"page": 31, "title": "2 - A Gathering Storm"},
+        {"page": 51, "title": "3 - Landmarks"},
+        {"page": 118, "title": "A - Appendix"}
+        ]    
+    }
+  }
 ]

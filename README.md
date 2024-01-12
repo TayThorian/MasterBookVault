@@ -18,6 +18,9 @@
 - MCG083 - Into the Outside
 - MCG082 - Into the Deep
 - MCG071 - Into the Night
+## Pacesetter Games & Simulations
+- 9001 - BX RPG Dungeon Guide
+- 9002 - BX RPG Player's Guide
 ## Digest Group Publications
 - - Manhunt
 ## Mongoose Publishing
@@ -160,6 +163,8 @@
 - TSR2123 - DMGR3 - Arms and Equipment Guide
 - TSR2133 - DMGR5 - Creative Campaigning
 - TSR2144 - DMGR6 - The Complete Book of Villains
+- TSR2110 - PHBR1 - The Complete Fighter's Handbook
+- TSR2111 - PHBR2 - The Complete Thief's Handbook
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures

@@ -1,0 +1,88 @@
+[
+  {
+  "BookName": "BX RPG Dungeon Guide",
+  "BookPublisher": "Pacesetter Games & Simulations",
+  "BookCode": "9001",
+  "BookISBN": "",
+  "BookAuthor": "Bill Barsh",
+  "BookPublished": "2019",
+  "BookCover": "",
+  "BookRules": "BX",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "BX RPG",
+  "BookType": "Rulebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Pacesetter Games & Simulations\\BX Dungeon Guide - 2nd Edition.pdf",
+    "D:\\Master Vault\\OSR\\Pacesetter Games & Simulations\\BX Dungeon Guide.pdf"    
+  ],
+  "BookDescription": [
+    "The BX Dungeon Guide, 2nd Edition, contains all the information needed to create fantastic adventures and run your dungeon exploration game. It includes rules for game play, creatures, magic items, combat charts, sample adventure, and more. "
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 4, "title": "Forward"},
+      {"page": 5, "title": "Introduction"},
+      {"page": 6, "title": "Game Mechanics"},
+      {"page": 14, "title": "Adventuring"},
+      {"page": 16, "title": "Experience Points"},
+      {"page": 17, "title": "Poison"},
+      {"page": 18, "title": "Creatures"},
+      {"page": 78, "title": "Gods & Greater Demons"},
+      {"page": 80, "title": "Treasure Type"},
+      {"page": 81, "title": "Magic Items"},
+      {"page": 90, "title": "Combat Charts"},
+      {"page": 91, "title": "Item Saving Throws"},
+      {"page": 92, "title": "Sample Dungeon"},
+      {"page": 97, "title": "Demi-Humans"}
+      ]    
+  }
+},
+{
+  "BookName": "BX RPG Player's Guide",
+  "BookPublisher": "Pacesetter Games & Simulations",
+  "BookCode": "9002",
+  "BookISBN": "",
+  "BookAuthor": "Bill Barsh",
+  "BookPublished": "2019",
+  "BookCover": "",
+  "BookRules": "BX",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "BX RPG",
+  "BookType": "Rulebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Pacesetter Games & Simulations\\BX Player's Guide - 2nd Edition.pdf",
+    "D:\\Master Vault\\OSR\\Pacesetter Games & Simulations\\BX Player's Guide.pdf"
+  ],
+  "BookDescription": [
+    "The BX Player's Guide, 2nd Edition, contains all the information needed to create and run a character throughout the BX RPG—a game of monsters, treasures, and heroic deeds. It includes rules for characters up to 18th level as well as spell charts and descriptions, weapon and equipment tables, and complete character class descriptions. In all, there are 14 character classes in the game (and yes, race is class). Rules for every facet of your character are included."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 4, "title": "Forward"},
+      {"page": 5, "title": "Introduction"},
+      {"page": 6, "title": "Character Creation"},
+      {"page": 15, "title": "Sample Character"},
+      {"page": 16, "title": "Character Classes/Races"},
+      {"page": 44, "title": "Spells, Arcane & Clerical"},
+      {"page": 46, "title": "Spell Charts"},
+      {"page": 51, "title": "Spell Descriptions"},
+      {"page": 100, "title": "Turning Undead, Example"},
+      {"page": 101, "title": "Character Sheet"}
+      ]    
+  }
+}
+]

@@ -164,7 +164,7 @@ Partial Class Form1
         ' PictureBox1
         ' 
         PictureBox1.BackColor = SystemColors.Window
-        PictureBox1.BorderStyle = BorderStyle.FixedSingle
+        PictureBox1.BorderStyle = BorderStyle.Fixed3D
         PictureBox1.Location = New Point(1218, 123)
         PictureBox1.Name = "PictureBox1"
         PictureBox1.Size = New Size(477, 498)
