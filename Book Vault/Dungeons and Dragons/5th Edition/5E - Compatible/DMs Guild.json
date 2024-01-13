@@ -1,0 +1,295 @@
+[
+  {
+  "BookName": "Rashemen Campaign Guide",
+  "BookPublisher": "DMs Guild",
+  "BookCode": "N/A",
+  "BookISBN": "",
+  "BookAuthor": "Joe Raso, Andrew Bishkinskyi, Blaise Wigglesworth, Bryan Holmes, Ed Greenwood, Emily Harmon, Florian Emmerich, Jean Lorber, Karl Resch, Lydia Van Hoy, Steve Fidler, V.J. Harris",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Campaign Guide",
+  "BookFormat": "",
+  "BookSeries": "Campaign Guides",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Rashemen Campaign Guide.pdf"
+  ],
+  "BookDescription": [
+    "<b>Welcome to Rashemen!</b>",
+    "In the distant lands of the Unapproachable East, on the edge of Faerûn, stoically stands the cold lands of Rashemen. Far from the Sword Coast, this land is filled with wonder, danger, and endless adventure.",
+    "Rashemen is a nation known for its fierce berserkers and the wychlaran, an order of witches who govern with power and wisdom. For centuries, they defended against incursions by the Red Wizards of Thay. The lands hide broken ruins of the fallen empires of Narfell and Raumathar, who destroyed themselves in a conflagration of fiendish and arcane sorcery.",
+    "The Rashemen Campaign Guide is filled with exciting new ideas for Dungeon Master’s and players to add to their home games. The book explores locations in and around Rashemen, its history, and the people who thrive in this dangerous land. A collection of monsters lie ready to challenge adventuring parties of any level. Players will discover enticing character options, including new races, classes, backgrounds, feats, and spells.",
+    "This book provides all of the setting, story, and character options for those looking to craft adventures in Rashemen. Inside you'll discover:",
+    "An overview of Rashemen and the surrounding lands",
+    "A history of events in Rashemen and the faction that influence the region",
+    "3 player character races - hagspawn, spirit folk, and taer",
+    "9 class archetypes plus 1 full character class - the wychlaran",
+    "2 new backgrounds customized for the region",
+    "5 new feats including lodge berserker and runescarring",
+    "11 new spells wielded by the Witches of Rashemen",
+    "11 mundane and magical items from the land of berserkers and witches",
+    "10 unique NPCs waiting to help - or betray - adventurers",
+    "17 new monsters to challenge players, including the Ice Dragon of Lake Tirulag",
+    "A collection of adventure ideas to create your own campaigns in Rashemen"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO"},
+      {"page": 2, "title": "BE DONE"}
+      ]    
+  }
+},
+{
+  "BookName": "Player Primer - Amn",
+  "BookPublisher": "DMs Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Player Primer",
+  "BookFormat": "",
+  "BookSeries": "Player Primers",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Player Primer - Amn.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO"},
+      {"page": 2, "title": "BE DONE"}
+      ]    
+  }
+},
+{
+  "BookName": "Player Primer - Icewind Dale",
+  "BookPublisher": "DMs Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Player Primer",
+  "BookFormat": "",
+  "BookSeries": "Player Primers",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Player Primer - Icewind Dale.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO"},
+      {"page": 2, "title": "BE DONE"}
+      ]    
+  }
+},
+{
+  "BookName": "Player Primer - Moonshae Isles",
+  "BookPublisher": "DMs Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Player Primer",
+  "BookFormat": "",
+  "BookSeries": "Player Primers",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Player Primer - Moonshae Isles.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO"},
+      {"page": 2, "title": "BE DONE"}
+      ]    
+  }
+},
+{
+  "BookName": "Player Primer - Tethyr",
+  "BookPublisher": "DMs Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Player Primer",
+  "BookFormat": "",
+  "BookSeries": "Player Primers",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Player Primer - Tethyr.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO"},
+      {"page": 2, "title": "BE DONE"}
+      ]    
+  }
+},
+{
+  "BookName": "Player Primer - Calimshan",
+  "BookPublisher": "DMs Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Player Primer",
+  "BookFormat": "",
+  "BookSeries": "Player Primers",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Player Primer - Calimshan.pdf"
+  ],
+  "BookDescription": [
+    "Calimshan! The most ancient human civilization in the Forgotten Realms. A land of wonder, magic, and wealth. People from across the world travel seeking their fortunes in Calimshan, only to meet their end in the treacherous Calim Desert. Devious pashas vie for power while the remnants of genie warlords lurk in the sands. All this and more await you in Calimshan!",
+    "This supplement contains everything a DM and players need to begin a campaign set in Calimshan including:",
+    "Life in Calimshan",
+    "Important events",
+    "Regions & cities",
+    "Factions",
+    "New & adapted backgrounds",
+    "A map of Calimshan",
+    "A Character Chronicle system to build characters that feel grounded in Calimshan",
+    "A dark \"dusk\" version, a light \"dawn\" version, and a printer-friendly version of the document",
+    "Our Character Chronicle, adapted from the Heroic Chronicle created in Explorer’s Guide to Wildemount, is a system of character creation that helps players create characters with strong ties to Amn. This includes goals, secrets, and even favorite foods! Useful for any player, this system can also be used to create more fully-realized villains for your campaign."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO"},
+      {"page": 2, "title": "BE DONE"}
+      ]    
+  }
+},
+{
+  "BookName": "Thay - Land of the Red Wizards",
+  "BookPublisher": "DMs Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Ed Greenwood, Alex Kammer, Alan Patrick",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Setting",
+  "BookFormat": "",
+  "BookSeries": "Settings",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Thay - Land of the Red Wizards.pdf",
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Thay - Land of the Red Wizards - Map.pdf"
+  ],
+  "BookDescription": [
+    "Known to the wider Forgotten Realms® as a sinister land of Red Wizards, slavers, and marching undead armies, Thay is the distant—or uncomfortably close—menace that “may become our doom if Szass Tam turns his attention in our direction.”",
+    "And Thay is that, but it is also so much more. A truly magical land (thanks to a secret that even the goddess Mystra helps to keep) of rich culture, a rising middle class, ambitious nobles and Red Wizards who fear Szass Tam more than they hate him, but may soon be forced to defy him, and wealth beyond the imaginings of even wealthy and proud realms elsewhere.",
+    "This tome is your guide to the Thay of right now, a valuable resource for Dungeon Masters and players alike. It sets forth the people and places of the Land of Red Wizards, what life is like, and seeds, hints, and secrets sufficient to spur adventures for years of enjoyment at your gaming table"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO"},
+      {"page": 2, "title": "BE DONE"}
+      ]    
+  }
+},
+{
+  "BookName": "The Border Kingdoms",
+  "BookPublisher": "DMs Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Ed Greenwood, Alex Kammer",
+  "BookPublished": "2020",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Setting",
+  "BookFormat": "",
+  "BookSeries": "Settings",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\The Border Kingdoms.pdf"
+  ],
+  "BookDescription": [
+    "According to the sage Meriadas of Westgate: “The Border Kingdoms are the most favored destination for adventurers who want to proudly and boldly conquer a realm or establish their own new kingdom. Lords, counts, dukes, kings and emperors rise, proclaim themselves, and are swept away with the speed and regularity of waves crashing upon a shore.”",
+    "A legendary “frontier” corner of the Forgotten Realms, the Border Kingdoms are where adventurers come to carve out their own kingdom, flee retribution, hide treasure — or find someone else's treasure.",
+    "It is a hodgepodge of tiny realms ruled by kings, grand viziers, imperial overdukes, and all manner of cabals, councils, and self-titled nobles. It's full of ruins, folk who want to stay hidden, long-slumbering secrets, and adventures waiting to happen.",
+    "The Border Kingdoms is a valuable resource for Dungeon Masters and players alike. In addition to describing the people and places of the Border Kingdoms, this book contains enough adventure hooks and lore to keep adventuring parties busy for years.",
+    "<b>The Border Kingdoms includes:</b>",
+    "Over 100 pages of lore about the Border Kingdoms",
+    "A beautiful new map of the Border Kingdoms by Mike Schley",
+    "11 new and fully Adventures League legal character backgrounds",
+    "Dozens of brand new illustrations",
+    "Brand new campaign hooks"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO"},
+      {"page": 2, "title": "BE DONE"}
+      ]    
+  }
+}
+]

@@ -26,8 +26,8 @@
   "TableOfContents": {
     "title": "Book",
     "chapters": [
-      {"page": 1, "title": "TOC TO"},
-      {"page": 2, "title": "BE DONE"}
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
       ]    
   }
 },
@@ -58,8 +58,8 @@
   "TableOfContents": {
     "title": "Book",
     "chapters": [
-      {"page": 1, "title": "TOC TO"},
-      {"page": 2, "title": "BE DONE"}
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
       ]    
   }
 }

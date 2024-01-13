@@ -144,7 +144,7 @@ Partial Class Form1
         ' 
         ' PanelPdfLinks
         ' 
-        PanelPdfLinks.AutoSize = True
+        PanelPdfLinks.AutoScroll = True
         PanelPdfLinks.BackColor = Color.Beige
         PanelPdfLinks.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
         PanelPdfLinks.Location = New Point(546, 853)

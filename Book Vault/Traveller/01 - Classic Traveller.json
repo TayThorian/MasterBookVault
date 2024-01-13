@@ -67,6 +67,262 @@
     }
   },
   {
+    "BookName": "Book 2 - Starships",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW300",
+    "BookISBN": "",
+    "BookAuthor": "Marc Miller",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW300 - Book 2 - Starships.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Book 3 - Worlds and Adventures",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW300",
+    "BookISBN": "",
+    "BookAuthor": "Marc Miller",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW300 - Book 3 - Worlds and Adventures.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Book 4 - Mercenary",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW304",
+    "BookISBN": "",
+    "BookAuthor": "Marc Miller",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW304 - Book 4 - Mercenary.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Book 5 - High Guard",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW308",
+    "BookISBN": "",
+    "BookAuthor": "Marc Miller",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW308 - Book 5 - High Guard.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Book 6 - Scouts",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW337",
+    "BookISBN": "",
+    "BookAuthor": "Marc Miller",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW337 - Book 6 - Scouts.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Book 7 - Merchant Prince",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW343",
+    "BookISBN": "",
+    "BookAuthor": "Marc Miller",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW343 - Book 7 - Merchant Prince.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Book 8 - Robots",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW344",
+    "BookISBN": "",
+    "BookAuthor": "Marc Miller",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW344 - Book 8 - Robots.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Book 0 - An Introduction to Traveller",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW322",
+    "BookISBN": "",
+    "BookAuthor": "Marc Miller",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW322 - Book 0 - An Introduction to Traveller.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
     "BookName": "Scouts and Assassins",
     "BookPublisher": "Paranoia Press",
     "BookCode": "PP1001",
@@ -384,6 +640,388 @@
       "chapters": [
         {"page": 1, "title": "TOC TO"},
         {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Alien Module 1 - Aslan",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW254",
+    "BookISBN": "",
+    "BookAuthor": "J. Andrew Keith, Marc Miller, John Harshman",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Alien Module",
+    "BookFormat": "Softback",
+    "BookSeries": "Alien Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW254 - Alien Module 1 - Aslan.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Alien Module 2 - k'Kree",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW255",
+    "BookISBN": "",
+    "BookAuthor": "J. Andrew Keith, Loren Wiseman",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Alien Module",
+    "BookFormat": "Softback",
+    "BookSeries": "Alien Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW255 - Alien Module 2 - k'Kree.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Alien Module 3 - Vargr",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW257",
+    "BookISBN": "",
+    "BookAuthor": "J. Andrew Keith, Marc Miller, John Harshman",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Alien Module",
+    "BookFormat": "Softback",
+    "BookSeries": "Alien Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW257 - Alien Module 3 - Vargr.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Alien Module 4 - Zhodani",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW258",
+    "BookISBN": "",
+    "BookAuthor": "J. Andrew Keith, Marc Miller, John Harshman",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Alien Module",
+    "BookFormat": "Softback",
+    "BookSeries": "Alien Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW258 - Alien Module 4 - Zhodani.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Alien Module 5 - Droyne",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW259",
+    "BookISBN": "",
+    "BookAuthor": "J. Andrew Keith, Marc Miller, John Harshman",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Alien Module",
+    "BookFormat": "Softback",
+    "BookSeries": "Alien Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW259 - Alien Module 5 - Droyne.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Alien Module 6 - Solomani",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW260",
+    "BookISBN": "0-943580-07-2",
+    "BookAuthor": "John Harshman, Marc Miller",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Alien Module",
+    "BookFormat": "Softback",
+    "BookSeries": "Alien Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW260 - Alien Module 6 - Solomani.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Alien Module 7 - Hivers",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW263",
+    "BookISBN": "0-943580-11-0",
+    "BookAuthor": "J. Andrew Keith, Marc W. Miller, Loren Wiseman",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Alien Module",
+    "BookFormat": "Softback",
+    "BookSeries": "Alien Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW263 - Alien Module 7 - Hivers.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Alien Module 8 - Darrians",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW264",
+    "BookISBN": "0-943580-40-4",
+    "BookAuthor": "Marc W. Miller, Robert Parker, Nancy Parker, Matt Renner",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Alien Module",
+    "BookFormat": "Softback",
+    "BookSeries": "Alien Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW264 - Alien Module 8 - Darrians.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "101 Robots - An Illustrated Catalog",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0861",
+    "BookISBN": "",
+    "BookAuthor": "Gary L. Thomas",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Digest Group Publications",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Digest Group Publications\\DGP0861 - 101 Robots - An Illustrated Catalog.pdf"
+    ],
+    "BookDescription": [
+      "Here under one cover are 101 different robots for use in Traveller games. Every single robot comes with a complete description, an official Universal Robot Profile, and an illustration. You will know what each robot can (and can't) do, what the robot looks like, and what the robot costs.",
+      "If you're just starting to design your own robots, this book has more than a hundred examples. If you already have several designs of your own, here are 101 more to add to your campaign.",
+      "Whether you're a Traveller player or a referee, 101 Robots gives you all the robots you need to know what life is like at higher tech levels. Robots include:",
+      "Imperial Robots: Designs both common and uncommon that characters can encounter within the Imperium.",
+      "Alien Robots: Robots from all the major races that construct them: Aslan, Zhodani, Vargr, K'Kree, Solomani, and Hiver.",
+      "Warbots: battlefield robots of all races, designed to search out and destroy the opposition.",
+      "Dumbots: The most common robot encountered, good at only one thing, but good enough at that.",
+      "Pseudobiological Robots: At higher tech levels, robots that are \"just like the real things\".",
+      "Expert Robots: Machines that know as much as sentients, able to perform tasks that take \"real intelligence\".",
+      "Design System Examples: Robots that show just how to use the robot design system in Book 8: Robots.",
+      "Encounter Robots: Robots corresponding to all the robots from the encounter tables in Book 8; for easy-to-play robot encounters.",
+      "Robot Devices, Sensors, and Weapons: Brand new custom devices for use with robots, including complete information on their installation.",
+      "Robot Skills: Additional skills for robot programming, complete with CPU space and cost per level.",
+      "Index: A complete index to all 101 robots."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "Introduction"},
+        {"page": 1, "title": "Robot Design, Additional Consideration"},
+        {"page": 4, "title": "Dumbots"},
+        {"page": 13, "title": "Utility Robots"},
+        {"page": 18, "title": "Assistant Robots"},
+        {"page": 25, "title": "Expert Robots"},
+        {"page": 33, "title": "Law Enforcement and Security"},
+        {"page": 38, "title": "Warbots"},
+        {"page": 42, "title": "Medical Robots"},
+        {"page": 46, "title": "Pseudobiological Robots"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Grand Survey",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0862",
+    "BookISBN": "",
+    "BookAuthor": "Joe Fugate",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Digest Group Publications",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Digest Group Publications\\DGP0862 - Grand Survey.pdf"
+    ],
+    "BookDescription": [
+      "In the years 420 and 1065, the Imperial Interstellar Scout Service published the First and Second Grand Surveys. Some of their methods, and some of the results of their surveys, have been published before. But now, with the brand-new, state-of-the-art material in this book, you can have all the detail you ever wanted.",
+      "If you already use Scouts, Grand Survey continues where Scouts left off. And if you don't use Scouts, you can still use Grand Survey to learn more about a world. Starting with the basic Traveller UPP for the world, Grand Survey leads you step-by-step to detailed physical characteristics and an accurate map of the world.",
+      "Whether you're a Traveller player or a referee, Grand Survey tells you what you want to know when you arrive at a new world."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "Introduction"},
+        {"page": 3, "title": "Surveying a World"},
+        {"page": 26, "title": "Detailing a World"},
+        {"page": 48, "title": "Index"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Grand Census",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0863",
+    "BookISBN": "",
+    "BookAuthor": "Gary L. Thomas",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Digest Group Publications",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Digest Group Publications\\DGP0863 - Grand Census.pdf"
+    ],
+    "BookDescription": [
+      "Looking for Adventure? New cultures? Strange new societies with unusual customs? Travel can be a broadening experience, as long as you go where things are different.",
+      "Here, in one book, is all the information that players and referees need to discover the diversity in the 11,000 worlds of the Imperium. Starting with the basic UWP for a world, Grand Census leads you step-by-step to detailed cultural characteristics, including details of the social structures, government institutions, languages, and technology.",
+      "Whether you're a Traveller player or a referee, Grand Census tells what you want to know when you arrive at a new world."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "Introduction"},
+        {"page": 3, "title": "Exploring a World"},
+        {"page": 10, "title": "Landing Party Equipment"},
+        {"page": 22, "title": "Detailing a Culture"},
+        {"page": 48, "title": "Index"}
         ]    
     }
   }

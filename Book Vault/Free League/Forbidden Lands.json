@@ -347,5 +347,75 @@
         {"page": 2, "title": "BE DONE"}
         ]    
     }
+  },
+  {
+    "BookName": "Forbidden Lands GM Screen",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "MUH051562",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forbidden Lands",
+    "BookType": "GM Screen",
+    "BookFormat": "Hardback",
+    "BookSeries": "GM Screen",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forbidden Lands\\MUH051562 - Forbidden Lands GM Screen.pdf"
+    ],
+    "BookDescription": [
+      "This deluxe Gamemaster Screen for the Forbidden Lands roleplaying game is made out of four sections of 3 mm thick hardback, measuring a mighty 688 x 240 mm when unfolded. The outside features beautiful full-color artwork by Alvaro Tapia, and the inside contains charts and tables for easy reference during play."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Forbidden Lands Card Deck",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "MUH051561",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "y",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forbidden Lands",
+    "BookType": "Map & Cards Pack",
+    "BookFormat": "Map & Cards Pack",
+    "BookSeries": "Map & Cards Pack",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forbidden Lands\\MUH051561 - Forbidden Lands Card Deck\\MUH051561 - Forbidden Lands Card Deck - Backs.pdf",
+      "D:\\Master Vault\\Forbidden Lands\\MUH051561 - Forbidden Lands Card Deck\\MUH051561 - Forbidden Lands Card Deck - Fronts.pdf"
+    ],
+    "BookDescription": [
+      "This box contains 55 high quality custom cards designed for the Forbidden Lands roleplaying game. The beautifully illustrated cards describe magical artifacts, mounts, and maneuvers in combat. The cards supplement play and enhance your experience. The deck contains:",
+      "22 Artifact Cards",
+      "8 Mount Cards",
+      "14 Combat Cards",
+      "10 Initiative Cards",
+      "1 Reference Card"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
   }
 ]

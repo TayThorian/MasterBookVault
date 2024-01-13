@@ -241,7 +241,7 @@
     "BookSetting": "Pathfinder",
     "BookType": "Rulebook",
     "BookFormat": "Hardback",
-    "BookSeries": "Core Books",
+    "BookSeries": "Rulebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2101 - Pathfinder Core Rulebook.pdf"
@@ -281,7 +281,7 @@
     "BookSetting": "Pathfinder",
     "BookType": "Rulebook",
     "BookFormat": "Hardback",
-    "BookSeries": "Core Books",
+    "BookSeries": "Rulebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2103 - Pathfinder Gamemastery Guide.pdf"
@@ -381,6 +381,245 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2109 - Guns & Gears.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Book of the Dead",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO2110",
+    "BookISBN": "978-1-64078-401-7",
+    "BookAuthor": "Jason Bulmahn and Jessica Catalan",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Rules Resource",
+    "BookFormat": "",
+    "BookSeries": "Rules Resource",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2110 - Book of the Dead.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Dark Archive",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO2111",
+    "BookISBN": "978-1-64078-443-7",
+    "BookAuthor": "James Case, Mikhail Rekun, and Mark Seifter",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Bestiary",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2111 - Dark Archive.pdf"
+    ],
+    "BookDescription": [
+      "From the fringes, the unknown beckons. Pathfinder Dark Archive contains secrets that any player or GM can use to reveal the paranormal lurking in their Pathfinder games! This spine-tinglingly secretive 224-page hardcover rulebook presents two new character classes perfect for delving into the unexplained: Unleash the untold power of your mind as the psychic or leverage supernatural secrets and mystic implements as the thaumaturge!",
+      "Beyond these new classes, eight secret case files each provide player options, GM tools, and lore into a different paranormal topic, including:",
+      "Strange cryptids glimpsed in the night, gear to track them, and the powers you might gain by surviving an encounter with one",
+      "Cults and esoteric belief, with apocryphal divine magic and the secret of becoming a living vessel for an eldritch being",
+      "Temporal anomalies, with archetypes that skim along the surface of time and a new mystery for oracles unbound from causality",
+      "Each file concludes with a short adventure to immerse players in the paranormal, spanning across Golarion—play all eight to uncover the inexplicable phenomena of the Age of Lost Omens!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Treasure Vault",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO2112",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "To Be Done",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2112 - Treasure Vault.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Pathfinder 2e Beginner Box",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO2106",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Beginner Box",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Beginner Box",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2106 - Pathfinder 2e Beginner Box\\Game Masters Guide.pdf",
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2106 - Pathfinder 2e Beginner Box\\Ad Sheet.pdf",
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2106 - Pathfinder 2e Beginner Box\\Character Sheet [Updated].pdf",
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2106 - Pathfinder 2e Beginner Box\\Character Sheet.pdf",
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2106 - Pathfinder 2e Beginner Box\\Flip-Mat.pdf",
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2106 - Pathfinder 2e Beginner Box\\Heroes Handbook.pdf",
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2106 - Pathfinder 2e Beginner Box\\Intro Sheet.pdf",
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2106 - Pathfinder 2e Beginner Box\\Pawns.pdf",
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2106 - Pathfinder 2e Beginner Box\\Player Reference Card.pdf",
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO2106 - Pathfinder 2e Beginner Box\\Top Sheet.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Lost Omens - World Guide",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO9301",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "World Guide",
+    "BookFormat": "",
+    "BookSeries": "Lost Omens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\Lost Omens\\PZO9301 - Lost Omens - World Guide.pdf",
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\Lost Omens\\PZO9301 - Lost Omens - World Guide - Poster Map.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Lost Omens - Character Guide",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO9302",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Character Guide",
+    "BookFormat": "",
+    "BookSeries": "Lost Omens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\Lost Omens\\PZO9302 - Lost Omens - Character Guide.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO"},
+        {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Lost Omens - Ancestry Guide",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO9308",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Ancestry Guide",
+    "BookFormat": "",
+    "BookSeries": "Lost Omens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\Lost Omens\\PZO9308 - Lost Omens - Ancestry Guide.pdf"
     ],
     "BookDescription": [
       "No description available."
