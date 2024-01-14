@@ -197,5 +197,683 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "Dimension Book 1 - Wormwood",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL809",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL809 - Dimension Book 1 - Wormwood.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 2 - Phase World",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL816",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL816 - Dimension Book 2 - Phase World.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 3 - Phase World Sourcebook",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL817",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL817 - Dimension Book 3 - Phase World Sourcebook.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 4 - Skraypers",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL830",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL830 - Dimension Book 4 - Skraypers.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 5 - Anvil Galaxy",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL847",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL847 - Dimension Book 5 - Anvil Galaxy.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 6 - Three Galaxies",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL851",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL851 - Dimension Book 6 - Three Galaxies.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 7 - Megaverse Builder",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL859",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL859 - Dimension Book 7 - Megaverse Builder.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 8 - Naruni Wave Two",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL860",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL860 - Dimension Book 8 - Naruni Wave Two.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 10 - Hades - Pits of Hell",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL872",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL872 - Dimension Book 10 - Hades - Pits of Hell.pdf",
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL872 - Dimension Book 10 - Hades - Pits of Hell - Maps.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 11 - Dyval - Hell Unleashed",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL873",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL873 - Dimension Book 11 - Dyval - Hell Unleashed.pdf",
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL873 - Dimension Book 11 - Dyval - Hell Unleashed - Maps.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 12 - Dimensional Outbreak",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL875",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL875 - Dimension Book 12 - Dimensional Outbreak.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 13 - Fleets of the Three Galaxies",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL880",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL880 - Dimension Book 13 - Fleets of the Three Galaxies.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 14 - Thundercloud Galaxy",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL883",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL883 - Dimension Book 14 - Thundercloud Galaxy.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dimension Book 15 - Secrets of the Atlanteans",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL890",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Dimension Book",
+  "BookFormat": "",
+  "BookSeries": "Dimension Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL890 - Dimension Book 15 - Secrets of the Atlanteans.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Game Master Guide",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL845",
+  "BookISBN": "1-57457-067-6",
+  "BookAuthor": "Kevin Siembieda,Wayne Breaux Jr.,C.J. Carella,Bill Coffin,Christopher R. Kornmann,Michael Leonard,Ben Cassin Lucas,Peter Murphy,Patrick Nowak,Francois DesRochers,Mark Sumimoto,Erick Wujcik",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL845 - Game Master Guide.pdf"
+  ],
+  "BookDescription": [
+    "The ultimate Rifts® reference and sourcebook",
+    "All the weapons, equipment, body armor, power armor, robots, vehicles, skills and psionics from Rifts® World Books 1-22, Sourcebooks 1-4, and Siege on Tolkeen 1-6, collected into one big reference. Plus maps, lists of O.C.C.s and R.C.C.s, and more."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Rifts Sourcebook One, Revised & Expanded",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL801",
+  "BookISBN": "1-57457-151-6",
+  "BookAuthor": "Kevin Siembieda",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL801 - Sourcebook 1 - Revised and Expanded.pdf",
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL801 - Sourcebook 1.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Rifts Sourcebook Two, The Mechanoids",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL805",
+  "BookISBN": "0-916211-55-X",
+  "BookAuthor": "Kevin Siembieda",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL805 - Sourcebook 2 - The Mechanoids.pdf"
+  ],
+  "BookDescription": [
+    "Archie 3 and Hagan are back, but have inadvertently unleashed The Mechanoids® into the world!",
+    "The Mechanoids have one driving goal: To destroy all humanoid life! This book has it all. Source material, the Mechanoids, new equipment, monsters and adventure."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Rifts Sourcebook Three, Mindwerks",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL812",
+  "BookISBN": "0-916211-69-X",
+  "BookAuthor": "Kevin Siembieda",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL812 - Sourcebook 3 - Mindwerks.pdf"
+  ],
+  "BookDescription": [
+    "A sourcebook for Triax & The NGR"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Rifts Sourcebook Four, Coalition Navy",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL828",
+  "BookISBN": "1-57457-003-X",
+  "BookAuthor": "Patrick Nowak,Kevin Siembieda",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL828 - Sourcebook 4 - Coalition Navy.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Rifts Bionics Sourcebook",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL850",
+  "BookISBN": "1-57457-075-7",
+  "BookAuthor": "Kevin Siembieda,Alex Marciniszyn,Julius Rosenstein,Bill Coffin,Steve Sheiring,Wayne Smith",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL850 - Sourcebook 5 - Bionics.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Shemarrian Nation Sourcebook",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL878",
+  "BookISBN": "1-57457-128-1",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL878 - Shemarrian Nation Sourcebook.pdf"
+  ],
+  "BookDescription": [
+    "Shemarrian warrior women are known throughout North America as some of the deadliest fighters on the continent – eight foot tall aliens from another dimension who include advanced weaponry, bionics, and monstrous war steeds in their arsenal.",
+    "Are they heroes or barbarous conquerors? The fact is, most people know very little about them, and what is known is steeped in legend and mystery. This book contains an in-depth look at the Amazonian warriors, their society, schemes and purpose."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]

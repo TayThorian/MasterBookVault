@@ -1,5 +1,7 @@
 # Master Book Vault
 # Physical Books to Source
+## Open Ended Games
+- - Against the Darkmaster - Core Rules
 ## Chaosium
 - CHA2036 - Basic Roleplaying - Universal Game Engine
 ## Free League Publishing
@@ -46,6 +48,8 @@
 - MGP40098 - The Trailing Frontier
 - MGP40099 - The Imperial Navy
 - MGP40097 - The Marches Adventures 1-5
+- MGP40106 - Traveller Referee's Screen Update 2024
+- MGP40102 - Rim Expeditions
 ## Sine Nomine Publishing
 - - Cities Without Number
 - - Stars Without Number Revised Edition
@@ -136,6 +140,8 @@
 - MGP40098 - The Trailing Frontier
 - MGP40099 - The Imperial Navy
 - MGP40097 - The Marches Adventures 1-5
+- MGP40106 - Traveller Referee's Screen Update 2024
+- MGP40102 - Rim Expeditions
 ## Sine Nomine Publishing
 - - Cities Without Number
 - - Stars Without Number Revised Edition

@@ -838,5 +838,130 @@
         {"page": 2, "title": ""}
         ]    
     }
-  }     
+  },
+  {
+    "BookName": "Cormanthyr Empire of Elves",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1165",
+    "BookISBN": "0-78690-761-4",
+    "BookAuthor": "Steven E. Schend, Kevin Melka",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Paperback",
+    "BookSeries": "Arcane Age Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1165 - Cormanthyr Empire of Elves.pdf"
+    ],
+    "BookDescription": [
+      "Step into the past of 650 DR and experience the sights, sounds, and innumerable wonders of fabled Myth Drannor at its height. Walk the wooded glades of Cormanthyr, the last major elven empire on Faerun, and discover marvellous secrets lost to the Realms of the present day.",
+      "This Arcane Age campaign expansion for the Forgotten Realms setting contains all the information necessary to begin either a full-fledged Cormanthyran campaign or a journey back in time some 700 years to see the City of Song at its most glorious.",
+      "This 160-page book contains exhaustive details on the history, culture, military, society, and citizens of the forest nation of Cormanthyr. Features include a timeline of elven history on Toril, a rundown of Cormanthyr's ruler and important individuals, plus more information on the city of Myth Drannor at its height as well as on the communities of Semberholme and the Tangled Vale. In addition, a new specialty wizard, the elven dualist, is introduced and detailed.",
+      "Also included is a large section that gives the reader knowledge of the elves' magical rites, rituals, and unique magical weapons and items. Features include new and expanded rules on the elves' potent High Magic, moonblades, and the multitude of magics that helped make Myth Drannor the glittering gem of Faerun that it was. Finally, a two-sided, full-colour map of the nation of Cormanthyr and an aerial view of Myth Drannor completes this exciting package - the largest collection of elven lore ever."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 3, "title": "Campaign Introduction"},
+        {"page": 14, "title": "The Elven Mindset"},
+        {"page": 20, "title": "The Elven Ages"},
+        {"page": 43, "title": "Cormanthyr's Civilization"},
+        {"page": 54, "title": "Myth Drannor, City of Song"},
+        {"page": 86, "title": "Semberholme"},
+        {"page": 98, "title": "The Tangled Vale"},
+        {"page": 106, "title": "Mysteries of Elven Court"},
+        {"page": 111, "title": "Cormanthyr's Citizenry"},
+        {"page": 123, "title": "Magic of the People"},
+        {"page": 139, "title": "Mythals"},
+        {"page": 119, "title": "Magical Items"},
+        {"page": 157, "title": "Appendix: Secrets of Windsong Tower"}
+        ]    
+    }
+  },
+  {
+    "BookName": "How the Mighty Are Fallen",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9540",
+    "BookISBN": "0-78690-537-9",
+    "BookAuthor": "slade",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Arcane Age Series",
+    "BookCharacterLevel": "Levels 13 - 14",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9540 - How the Mighty Are Fallen.pdf"
+    ],
+    "BookDescription": [
+      "As the floating cities of Netheril hover peacefully in the air, the winds of intrigue boil all around them. The phaerimm continue to plot the downfall of the Netherese even as Karsus prepares for the casting of his greatest spell. Undead walk the land, driving orcs and humans before them. And somewhere below the greatest nation of Faerun, the Tarrasque awakens from a long slumber.",
+      "How the Mighty Are Fallen is an adventure designed for use with the Netheril: Empire of Magic boxed campaign setting (which is required to play this adventure). Within these pages, the final heroes of Netheril can:",
+      "Gather the spell components that Karsus requires for casting his \"most wondrous\" spell, the only 12th-level spell ever known. He just needs a few body parts from two creatures-a gold dragon and the Tarrasque.",
+      "Reunite lost lovers after they have been separated by death. Nopheus's wife was killed in a magical explosion, and now he's finally saved enough money for her to be resurrected. Certainly a dead body couldn't pose a threat to a band of stalwart heroes?!",
+      "Follow the winds of Fate to wherever Tyche delivers them. Numerous side adventures allow players to take their characters to a variety of different locations. Some heroes might want to follow the trail of the missing nether scrolls, while others might want to join the resistance and fight Karsus and the other archwizards. But only the bravest hearts can take the first step...."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 3, "title": "The Time has Come"},
+        {"page": 5, "title": "The Grand Welcome"},
+        {"page": 13, "title": "Trek Through the Eastern Forest"},
+        {"page": 27, "title": "Side Treks"},
+        {"page": 43, "title": "The Lichlord's Castle"},
+        {"page": 56, "title": "Spells & Magic"},
+        {"page": 61, "title": "Rumours and Hooks"}
+        ]    
+    }
+  },
+  {
+    "BookName": "The Fall of Myth Drannor",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9558",
+    "BookISBN": "0-78691-235-9",
+    "BookAuthor": "Steven E. Schend",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Arcane Age Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9558 - The Fall of Myth Drannor.pdf"
+    ],
+    "BookDescription": [
+      "The Fall of Myth Drannor is an accessory detailing those horrible years encompassing the Weeping War, for use with Cormanthyr: Empire of the Elves book. Herein you will find the causes of the fall of the most lyrical of elf cities; highlights of the twelve campaigns and their most significant battles; copious adventure hooks for involving player characters in behind-the-scenes activities; and new (or should we say ancient?) magical items and spells, most of which have been lost in time.",
+      "From the passing of Coronal Eltargrim to the shattering of the Khov'Anilessa's invisible prison to the stand at Honorsgate, the painful history of the Fall lies within these pages. Now comes the opportunity for heroes to be made—or become part of the history in their attempts."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 2, "title": "Introduction"},
+        {"page": 3, "title": "Last Days of Myth Drannor"},
+        {"page": 20, "title": "The Crucial Campaigns"},
+        {"page": 42, "title": "The Clandestine Campaigns"},
+        {"page": 46, "title": "Fallen Items and Curios"},
+        {"page": 55, "title": "Magic & Mysteries of the Fallen Realm"},
+        {"page": 63, "title": "Glossaries"}
+        ]    
+    }
+  }  
 ]

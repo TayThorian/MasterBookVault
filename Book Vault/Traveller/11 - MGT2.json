@@ -228,7 +228,7 @@
     "BookSetting": "Third Imperium",
     "BookType": "Setting",
     "BookFormat": "Hardback",
-    "BookSeries": "The Third Imperium",
+    "BookSeries": "Sourcebooks",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40073 - The Third Imperium.pdf"
     ],
@@ -301,7 +301,7 @@
     "BookSetting": "Third Imperium",
     "BookType": "Sector Book",
     "BookFormat": "",
-    "BookSeries": "Sector Book",
+    "BookSeries": "Sourcebooks",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40112 - The Deep and the Dark.pdf",
       "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40112 - The Deep and the Dark  - Sector Map - Reavers Deep.pdf",
@@ -422,7 +422,7 @@
     "BookSetting": "Third Imperium",
     "BookType": "Supplement",
     "BookFormat": "Hardback",
-    "BookSeries": "Core Books",
+    "BookSeries": "Core Books - Updated",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40095 - Central Supply Catalogue -Update 2023.pdf"
     ],
@@ -457,7 +457,7 @@
     "BookSetting": "Third Imperium",
     "BookType": "Sector Book",
     "BookFormat": "Hardback",
-    "BookSeries": "Sector Book",
+    "BookSeries": "Sourcebooks",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40075 - The Spinward Extents.pdf",
       "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40075 - The Spinward Extents - Map - Vanguard Reaches.pdf",
@@ -528,7 +528,7 @@
     "BookSetting": "Third Imperium",
     "BookType": "Rulebook",
     "BookFormat": "Hardback",
-    "BookSeries": "Core Books",
+    "BookSeries": "Core Books - Updated",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40087 - High Guard Update 2022.pdf"
     ],
@@ -803,7 +803,7 @@
     "BookSetting": "Third Imperium",
     "BookType": "Sourcebook",
     "BookFormat": "",
-    "BookSeries": "Sourcebook",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40099 - The Imperial Navy.pdf"
@@ -946,6 +946,254 @@
       "chapters": [
         {"page": 1, "title": "TOC TO"},
         {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Traveller Core Rulebook",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40000",
+    "BookISBN": "978-1-908460-52-3",
+    "BookAuthor": "Matthew Sprange",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40000 - Traveller Core Rulebook.pdf"
+    ],
+    "BookDescription": [
+      "A brand new edition of Traveller is now available - based on the original but tweaked, finessed and updated through a massive months-long beta playtest by you, the players!",
+      "Traveller is a science fiction roleplaying game of bold explorers and brave adventurers. The Traveller Core Rulebook contains everything you need to create one of these adventurers and begin exploring the galaxy.",
+      "Spaceports, ancient civilisations, air/rafts, cold steel blades, laser carbines, far distant worlds, and exotic alien beasts – this is the futuristic universe of Traveller, the original and classic science fiction roleplaying game.",
+      "Come visit the future."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Element Class Cruisers - Shipbuilder's Blueprints",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP44444",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Campaign",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Campaigns",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP44444 - Element Class Cruisers - Element Cruisers.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP44444 - Element Class Cruisers - Naval Campaign Sourcebook.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP44444 - Element Class Cruisers - Naval Ship Roster Sheet.pdf"     
+    ],
+    "BookDescription": [
+      "The cruisers of the Imperial Navy are both its symbol and its workhorses.",
+      "The three classes of ship that make up the Element cruiser family are mainstays of the Imperial Navy, and can be found across Charted Space. From fighting wars and protecting the space lanes, to flag showing missions and voyages of discovery, Element cruisers are true, reliable workhorses of the navy. These huge vessels are equipped with configurable pods, allowing them to be tailored to specific missions, and this box set contains eight such pods, allowing a cruiser to act as a fleet carrier, exploration ship, scout or strike vessel.",
+      "This set includes a detailed description of all three Element cruiser classes, the crew who serve aboard them, and the missions they undertake. The ships come alive with the 24 massive blueprint posters (in a variety of electronic formats, allowing you to zoom in on specific details, get a wider view of the entire ship, or print out, allowing players and referees to visualise an entire Imperial capital ship across every deck and weapons bay.",
+      "Also included is the Naval Campaigns Handbook, a complete guide to running your own ‘bridge crew’ campaigns in Traveller. Huge, sweeping campaigns can be created that will take a military ship and its crew through a war, or far out into unexplored space to discover what lies beyond the reach of the Third Imperium."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Traveller Referee's Screen Update 2024",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40106",
+    "BookISBN": "978-1-916675-04-9",
+    "BookAuthor": "",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Referee's Screen",
+    "BookFormat": "Referee's Screen",
+    "BookSeries": "Referee's Screen",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40106 - Traveller Referee's Screen Update 2024.pdf"
+    ],
+    "BookDescription": [
+      "With a stunning science fiction vista facing the players, and every vital table for the Referee, the Traveller Referee’s Screen Update 2024 is the perfect complement to a well-run Traveller campaign.",
+      "Fully updated to the latest rules and with all the important tables and charts needed to run a game, the new Traveller Referee’s Screen Update 2024 is constructed from quality heavy-weight cardstock that will stand the ravages of many years’ gaming."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Rim Expeditions",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40102",
+    "BookISBN": "",
+    "BookAuthor": "Martin Dougherty",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Sector Book",
+    "BookFormat": "",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40102 - Rim Expeditions.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40102 - Rim Expeditions - Sector Map - Kruse.pdf"
+    ],
+    "BookDescription": [
+      "What lies beyond the Solomani Confederation?",
+      "Humans are great explorers, and the Solomani are the greatest of them all. Ever since the days of the Interstellar Wars the people of Terra have felt the call of the great Rimward Frontier, and they have answered. This outward urge has taken Solomani explorers right to the edge of the spiral arm… and beyond.",
+      "The Lubbock and Xuanzang Enclaves are little havens of civilisation out in the big black. Just keeping these forward exploration bases supported is adventure enough for many, but beyond them lies the unknown; the mysterious Rammak, the civilisation to reach and investigate the curious region known as the Spinner, and of course the long voyage out to Point Cetus – the most distant installation yet built by the Solomani people.",
+      "There are many challenges on the Rimward Frontier. Rival Aslan and Hiver exploration missions, strange alien races, and the mysterious Hordes advancing out of the Flous Nebula. The greatest danger may come from other humans, descended from Rule of Man and early Terran colony missions. Some are glad to greet their long-estranged kin; others are territorial and aggressive. Far from home, with no support likely for months or even years, the Travellers must face whatever comes their way. Who knows what wonders await just one jump plot away?"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Solomani Front",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40051",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Sourcebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40051 - Solomani Front.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "The Glorious Empire",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40049",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Sourcebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40049 - The Glorious Empire.pdf"
+    ],
+    "BookDescription": [
+      "The Glorious Empire is an Aslan splinter state in the Trojan Reach that engages in the forbidden practice of slavery. The Empire has spurned the Aslan custom of ritual warfare, insisting upon violent open war in all conflicts. Their borders have held strong for centuries… until now. Beset by enemies on all sides, the Empire is now collapsing rapidly and has lost one world after another. However, like a wounded and cornered predator, the Empire does not plan to go down without a fight. On worlds liberated by the Hierate, freed human slaves – the hisol’i – struggle to integrate into Aslan society. On the Empire’s remaining worlds, there are billions more waiting to be freed.",
+      "This book contains everything needed to run a campaign in this dangerous and volatile region of space including histories, new career paths, world descriptions, new starships, small craft, vehicles, gear, weapons, and animal encounters. Detailed descriptions of Empire mercenary units, slaving ships, enslaved freedom fighters, black marketeers, key Hierate clans, the vaunted Camoranian Starfighters, and more are provided to add depth and colour to any campaign.",
+      "The Glorious Empire is a living region that will change dramatically over the course of a campaign. Wars will be fought, worlds will fall, and Travellers will directly influence, take part in, and decide the shape of things to come. This book includes tools and campaign directions for referees and Travellers to take an active part in the events that change an entire region of space right before their very eyes.",
+      "In this book you will find:",
+      "Patrons and important personalities for your Travellers to meet and interact with.",
+      "Spacecraft of the Glorious Empire and its enemies, along with unique technologies for the region.",
+      "The opportunity for your Travellers to shape the history of the Trojan Reach and support or bring down a failing empire.",
+      "Rules for using Naval Campaigns from Element Class Cruisers with Aslan ships.",
+      "A new entry for the Central Supply Catalogue that introduces the weapons, armour, and equipment of the Glorious Empire"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Traveller Core Rulebook Update 2022",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40058",
+    "BookISBN": "978-1-913076-47-4",
+    "BookAuthor": "Matthew Sprange",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books - Updated",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40058 - Traveller Core Rulebook Update 2022.pdf"
+    ],
+    "BookDescription": [
+      "Traveller is a science fiction roleplaying game of bold explorers and brave adventurers. The Traveller Core Rulebook Update 2022 contains everything you need to create one of these adventures and begin exploring the galaxy.",
+      "Spaceports, ancient civilisations, air/rafts, cold steel blades, laser carbines, far distant worlds, and exotic alien beasts – this is the futuristic universe of Traveller, the original and classic science fiction roleplaying game.",
+      "Come visit the far future.",
+      "The Traveller Core Rulebook Update 2022 has been fully revised for this edition and contains many tweaks and rules updates, as well as a brand new, highest quality interior format with lashings of top tier art to immerse you in the far future."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
         ]    
     }
   }
