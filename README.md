@@ -10,6 +10,13 @@
 - MUH051557 - The Spire of Quetzel
 - FLFTOR012 - Tales from the Lone Lands
 ## Iron Crown Enterprises
+- ICE2210 - Middle-Earth Adventure Guidebook II
+- ICE2300 - Angmar - Land of the Witch King
+- ICE2400 - Umbar - Haven of the Corsairs
+- ICE2500 - The Court of Ardor in Southern Middle-earth
+- ICE3100 - Riders of Rohan
+- ICE2900 - Moria The Dwarven City
+- ICE2600 - Northern Mirkwood, The Wood-Elves Realm
 - ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Rolemaster Unified - Spell Law
@@ -199,4 +206,7 @@
 - TSR9389 - FRM1 - The Jungles of Chult
 - TSR9235 - FR6 - Dreams of the Red Wizards
 - TSR9252 - FR7 - Hall of Heroes
+- TSR1165 - Cormanthyr Empire of Elves
+- TSR9540 - How the Mighty Are Fallen
+- TSR9558 - The Fall of Myth Drannor
 - TSR2023 - Greyhawk Adventures
