@@ -822,9 +822,9 @@
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
-    "BookType": "",
+    "BookType": "Adventure",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Adventures",
     "BookPDF": [
       "D:\\Master Vault\\Numenera\\MCG059 - Beyond All Worlds.pdf"
     ],
@@ -847,9 +847,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
-    "BookType": "",
+    "BookType": "Adventure",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Numenera\\MCG003 - The Devil's Spine.pdf"
@@ -879,9 +879,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
-    "BookType": "",
+    "BookType": "Story",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Stories",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Numenera\\MCG007 - Tales from the Ninth World.pdf"
@@ -911,9 +911,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
-    "BookType": "",
+    "BookType": "Adventure",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Numenera\\MCG013 - Vortex.pdf",
@@ -944,9 +944,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
-    "BookType": "",
+    "BookType": "Supplement",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Numenera\\MCG014 - In Strange Aeons - Lovecraftian Numenera.pdf"
