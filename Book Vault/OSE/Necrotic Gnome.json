@@ -154,5 +154,76 @@
         {"page": 2, "title": "BE DONE"}
         ]    
     }
-  } 
+  },
+  {
+    "BookName": "Advanced Expansion Set",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0025",
+    "BookISBN": "",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rules",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "OSE RuleBooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0025-1 - Advanced Expansion Set - Characters.pdf",
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0025-2 - Advanced Expansion Set - Magic.pdf",
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0025-3 - Advanced Expansion Set - Monsters.pdf",
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0025-4 - Advanced Expansion Set - Treasures.pdf"
+    ],
+    "BookDescription": [
+      "Want to take your game to the next level? Pair the  NG-0024 - Classic Game Set with the Advanced Expansion Set and advance your game with reams of new classes, options, monsters, and magic inspired by the weird and wondrous 1970s Advanced 1st Edition game. The four books in the Advanced Expansion Set detail:",
+      "<b>Characters:</b> 9 additional classes (acrobat, assassin, barbarian, bard, druid, illusionist, knight, paladin, ranger), 6 additional races (drow, duergar, gnome, half-elf, half-orc, svirfneblin), rules for choosing character race and class separately, plus optional rules to add extra depth to character creation, combat, and spell casting.",
+      "<b>Magic:</b> Over 100 new spells for bards, druids, gnomes, illusionists, and rangers.",
+      "<b>Monsters:</b> 120 new monsters: mimics, piercers, shambling mounds, banshees, coffer corpses, terrible eyes, metallic dragons, liches, drow, deep ones, the terrifying tarrasque and many more classic Advanced era monsters! Includes complete encounter tables for dungeon levels 1–8+ and all types of wilderness terrain.",
+      "<b>Treasures:</b> 150 new magic items: the apparatus of the crab, ioun stones, the deck of many things, dancing swords, holy avengers, and many more!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Classic Fantasy - Rules Tome",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0014",
+    "BookISBN": "",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2019",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rules",
+    "BookFormat": "",
+    "BookSeries": "OSE RuleBooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0014 - Classic Fantasy - Rules Tome.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]

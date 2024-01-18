@@ -1,0 +1,124 @@
+[
+  {
+    "BookName": "Mercy of the Icons Part 1 - Emissary Lost",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "MUH051597",
+    "BookISBN": "978-1-912743-02-5",
+    "BookAuthor": "Christian Granath, Tomas Härenstam, Nils Karlén, Kosta Kostulas",
+    "BookPublished": "2018",
+    "BookCover": "",
+    "BookRules": "Coriolis",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Coriolis",
+    "BookType": "Campaign",
+    "BookFormat": "Hardback",
+    "BookSeries": "Mercy of the Icons",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Coriolis\\MUH051597 - Mercy of the Icons Part 1 - Emissary Lost.pdf",
+      "D:\\Master Vault\\Coriolis\\MUH051597 - Mercy of the Icons Part 1 - Emissary Lost - Cast of Characters.pdf"
+    ],
+    "BookDescription": [
+      "Street reporters call it The Mysticides. Scores of mystics have been found dead, or disappeared without a trace. Who is hunting the mystics of Coriolis? And why? When a friend of the player characters disappears, it becomes personal. Can they solve the mystery before it is too late?",
+      "Emissary Lost is the first part in the epic Mercy of the Icons campaign for the award-winning Coriolis – The Third Horizon roleplaying game. The struggle for the Horizon has started – only the Icons themselves know how it will end. Contents of the 232 page full-color hardback book:",
+      "A detailed background of the events and plots that threaten the balance of the Third Horizon.",
+      "In the Wake of the Martyr – an investigative scenario based on Coriolis station. The hunt for clues will bring the characters to the bustling Ozone Plaza, to the decadent elites in the Spire, and deep down into the darkness of the Cellar.",
+      "The Kuan Connection, the second scenario in the book, takes the characters down to the surface of planet Kua. There, they will follow a trail of blood through the jungles, immerse themselves in the violent politics of the Zenithian colonies, and search for answers in the shadow of the mighty Monolith.",
+      "A number of maps and handouts, depicting Coriolis station, planet Kua, and important documents.",
+      "A scenario generator that can be used to provide countless hours of play once the pre-made scenarios are completed."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Mercy of the Icons Part 2 - The Last Cyclade",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFCOR002",
+  "BookISBN": "978-91-89143-13-5",
+  "BookAuthor": "Rickard Antroia",
+  "BookPublished": "2020",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Coriolis",
+  "BookType": "Campaign",
+  "BookFormat": "Hardback",
+  "BookSeries": "Mercy of the Icons",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\FLFCOR002 - Mercy of the Icons Part 2 - The Last Cyclade.pdf",
+    "D:\\Master Vault\\Coriolis\\FLFCOR002 - Mercy of the Icons Part 2 - The Last Cyclade - Art Book.pdf"
+  ],
+  "BookDescription": [
+    "Ash falls like snow over the mourners lining the shores of Dar Bahri, while smoke from the funeral pyres rises toward Dabaran’s bloodred sun. Far above in the darkness of space, a lone ship waits to enter the portal to Uharu. Its crew stands ready to complete their mission: the ghost ship Zafirah has been found – those who reach her first will most likely unveil the truth behind one of the horizon’s most ominous mysteries...",
+    "Many months ago, the destroyer Zafirah vanished during the same event that sent the cruise liner Ghazali crashing into the Hamura star. Now she is back, in a time when both the aftermath of the Mysticides and the death of the Emissary have shaken the horizon to its foundations. The Coriolis Council and Zenithian authority are questioned, and more and more people revolt against their oppressors. The throat of the Third Horizon is exposed, and this is when something ancient rises from the shadows.",
+    "The Last Cyclade is the second part of Mercy of the Icons, the epic and richly illustrated campaign for Coriolis – The Third Horizon. This book contains",
+    "Extensive background information for the Game Master, describing the events which threaten the Third Horizon and its inhabitants",
+    "The Uharan Echo: an adventure set in the darkness of space; a quest to solve a grand and terrifying mystery",
+    "Mission Generator Tables that let you tailor your campaign and create your own adventures, dealing with the hunt for a foe whose power is rising",
+    "The Children are the Future, Forked Tongues, Curse of Rusah, and Fire of the Icons: four adventure landscapes that expose the player characters to these troublesome times",
+    "In the Shadow of the Zenith: a race against time, where the characters return to Coriolis and find themselves at the heart of the horizon’s escalating conflict"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 4, "title": "1. Introduction"},
+      {"page": 15, "title": "2. The Uharan Echo"},
+      {"page": 81, "title": "3. The Cyclade Dance"},
+      {"page": 173, "title": "4. In the Shadow of the Zenith"},
+      {"page": 237, "title": "5. Epilogue"}
+      ]    
+  }
+},
+{
+  "BookName": "Mercy of the Icons Part 3 – Wake of the Icons",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFCOR004",
+  "BookISBN": "978-91-89143-89-0",
+  "BookAuthor": "Rickard Antroia",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Coriolis",
+  "BookType": "Campaign",
+  "BookFormat": "Hardback",
+  "BookSeries": "Mercy of the Icons",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\FLFCOR004 - Mercy of the Icons Part 3 – Wake of the Icons.pdf"
+  ],
+  "BookDescription": [
+    "Nightmares and premonitions wake you in a cold sweat, panic tightening your chest. “It began with rolling fields and an invitation. An outstretched hand – whose hand? Then a starry sky and the emptiness of space. You couldn’t breathe, your heart racing as you recognized a planet – the emerald – Kua, waiting for you. Glittering wings in the darkness surrounding you. Hundreds of butterflies followed by enormous shell-covered titans. A locust swarm coming to devour the Third Horizon.”",
+    "In dreams and visions, something calls out into the dark space of the Third Horizon – a new presence or something old? It may hold the answers for the future – about a prophecy, the Chosen and the coming Horizon Wars.",
+    "Wake of the Icons is the third and final part of Mercy of the Icons, the epic and richly illustrated campaign for Coriolis – The Third Horizon. This book contains:",
+    "Extensive background information for the Gamemaster, describing the events which threaten the Third Horizon.",
+    "A Song for Kua: The first scenario starts with a series of visions, bringing the characters back to Kua.",
+    "The Tenth Icon: The second scenario sets the characters on a diplomatic mission to Sadaal to acquire the Nadir Flotilla as war in the Third Horizon grows closer.",
+    "The Horizon Wars: In the final climactic scenario war breaks out and the characters must lead the people of the Third Horizon to victory.",
+    "A metagame where the Gamemaster and the players can play out the fleet movements and clashes of the war.",
+    "An extensive appendix containing over twenty different ship types that take part in the war of the horizons."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]
