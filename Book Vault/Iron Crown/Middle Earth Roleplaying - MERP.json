@@ -676,5 +676,165 @@
         {"page": 2, "title": "BE DONE"}
         ]    
     }
+  },
+  {
+    "BookName": "Southern Mirkwood - Haunt of the Necromancer",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2700",
+    "BookISBN": "0-915795-09-4",
+    "BookAuthor": "Susan Tyler Hitchcock",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Setting",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE2700 - Southern Mirkwood, Haunt of the Necromancer.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Dunland and the Southern Misty Mountains",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE3600",
+    "BookISBN": "0-915795-91-4",
+    "BookAuthor": "Randell E. Doty",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Setting",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE3600 - Dunland and the Southern Misty Mountains.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Lorien & The Halls of the Elven Smiths",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE3200",
+    "BookISBN": "0-915795-42-6",
+    "BookAuthor": "Terry Kevin Amthor",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Setting",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE3200 - Lorien & The Halls Of The Elven Smiths.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Woses of the Black Wood",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8107",
+    "BookISBN": "0-915795-99-X",
+    "BookAuthor": "",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventure",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8107 - Woses of the Black Wood.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Erech and the Paths of the Dead",
+    "BookPublisher": "ICE8060",
+    "BookCode": "ICE8060",
+    "BookISBN": "0-915795-39-6",
+    "BookAuthor": "Ruth Sochard",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventure",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8060 - Erech and the Paths of the Dead.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

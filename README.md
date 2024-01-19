@@ -18,8 +18,14 @@
 - ICE2900 - Moria The Dwarven City
 - ICE2600 - Northern Mirkwood, The Wood-Elves Realm
 - ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
+- ICE2700 - Southern Mirkwood - Haunt of the Necromancer
+- ICE3600 - Dunland and the Southern Misty Mountains
+- ICE3200 - Lorien & The Halls of the Elven Smiths
+- ICE8107 - Woses of the Black Wood
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Rolemaster Unified - Spell Law
+## ICE8060
+- ICE8060 - Erech and the Paths of the Dead
 ## Monte Cook Games
 - MCG361 - The Glimmering Valley
 - MCG004 - Ninth World Bestiary
@@ -178,6 +184,7 @@
 - TSR2144 - DMGR6 - The Complete Book of Villains
 - TSR2110 - PHBR1 - The Complete Fighter's Handbook
 - TSR2111 - PHBR2 - The Complete Thief's Handbook
+- TSR2154 - Player's Option - Skills & Powers
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures

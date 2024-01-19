@@ -1022,5 +1022,81 @@
         {"page": 116, "title": "Chapter 8 - The Thief Campaign"}        
         ]    
     }
+  },
+  {
+    "BookName": "Player's Option - Skills & Powers",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2154",
+    "BookISBN": "0-7869-0149-7",
+    "BookAuthor": "Douglas Niles, Dale A. Donovan",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Hardback",
+    "BookSeries": "Option Series Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Option Series Hardbacks\\TSR2154 - Player's Option - Skills & Powers.pdf"
+    ],
+    "BookDescription": [
+      "These pages hold the keys to humans who spot secret doors as easily as do elves, thieves who sense illusions, half-ogre sword masters, and a multitude of other unique characters.",
+      "PLAYER'S OPTION Rulebooks present an alternative approach to AD&D characters. Custom-craft your next PC, selecting the profession, skills, and abilities you want! Characters can even have additional ability scores such as Stamina, Muscle, Balance, and others. New proficiencies, talents and updated psionics round out the PLAYER'S OPTION character.",
+      "Be ready for anything with Skills & Powers!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Player's Option - Combat & Tactics",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2149",
+    "BookISBN": "0-7869-0096-2",
+    "BookAuthor": "L. Richard Baker III, Skip Williams",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Hardback",
+    "BookSeries": "Option Series Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Option Series Hardbacks\\TSR2149 - Player's Option - Combat & Tactics.pdf"
+    ],
+    "BookDescription": [
+      "Tired of your fighter doing nothing but trading swings with monsters? Are your dungeon denizens' tactics getting a little too routine? Need help setting up that siege of the evil overlord's castle? Then this is the book for you.",
+      "This exciting expansion to the AD&D game contains rules and systems that will make your battles more vibrant and realistic. There are new rules covering critical hits, tactical options, and combat maneuvers such as shield walls, disarms, and more! Complete weapons tables for all eras of play include lots of new weapons and revised characteristics for old ones.",
+      "The Combat & Tactics system has been carefully designed to present sets of rules in easy-to-use modules that you pick and choose from and incorporate into your campaign. Regardless of which ones you do use, you'll find everything works with everything else."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 6, "title": "Chapter One - PLAYER'S OPTION™ Combat System"},
+        {"page": 38, "title": "Chapter Two - Combat Options"},
+        {"page": 56, "title": "Chapter Three - The Battlefield"},
+        {"page": 70, "title": "Chapter Four -  Weapon Specialization & Mastery"},
+        {"page": 82, "title": "Chapter Five - Unarmed Combat"},
+        {"page": 100, "title": "Chapter Six - Critical Hits"},
+        {"page": 116, "title": "Chapter Seven - Weapons & Armour"},
+        {"page": 152, "title": "Chapter Eight - Siege Warfare"},
+        {"page": 178, "title": "Chapter Nine - Monsters"},
+        {"page": 189, "title": "Index"}
+        ]    
+    }
   }
 ]

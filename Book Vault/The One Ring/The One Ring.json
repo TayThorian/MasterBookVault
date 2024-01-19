@@ -69,5 +69,79 @@
         {"page": 118, "title": "A - Appendix"}
         ]    
     }
+  },
+  {
+    "BookName": "The One Ring Core Rules",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFTOR001",
+    "BookISBN": "978-91-89143-45-6",
+    "BookAuthor": "Francesco Nepitello",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\FLFTOR001 - The One Ring Core Rules.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR001 - The One Ring Core Rules - Player Map of Eriador.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR001 - The One Ring Core Rules - Loremaster Map of Eriador.pdf"
+    ],
+    "BookDescription": [
+      "Enter the world of Middle-earth with The One Ring™, the official tabletop roleplaying game based on the works of J.R.R. Tolkien. Designed specifically to evoke the atmosphere of The Hobbit™ and The Lord of the Rings™, the game contains rules for creating heroes and sending them off on adventures in a land threatened by the growing Shadow.",
+      "This beautifully illustrated, full-colour hardcover manual presents Middle-earth as it was twenty years after Bilbo Baggins’ remarkable disappearance and unexpected return. The great events narrated in The Lord of the Rings™ are still fifty years away, leaving plenty of room to narrate stories worthy of an epic.",
+      "Now in its second edition, The One Ring™ comes with updated and revised rules, a new visual style, and a focus on the land of Eriador — the lone-lands west of the Misty Mountains. Among its key features are:",
+      "Rules for travelling across the land (Journey), facing frightening foes (Combat), and meeting the personalities of Middle-earth (Council).",
+      "Thorough advice for the Loremaster on how to bring Middle-earth to life, including rules for magical treasure, the Shadow, and the Eye of Mordor.",
+      "In-depth information on six Patrons — individuals sponsoring the adventures of the Player-heroes — including Bilbo Baggins and Gandalf the Grey.",
+      "A bestiary containing a spread of adversaries, from lowly Orc Soldiers and Highway-robbers, to monstrous Cave-Trolls and Barrow-Wights.",
+      "Rules to create your very own Nameless Things — unknowable beings from the dark corners of the world.",
+      "A complete Landmark adventure, The Star of the Mist, with extra support for new Loremasters, in the form of tutorial advice throughout."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Strider Mode",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "N/A",
+    "BookISBN": "N/A",
+    "BookAuthor": "Shawn Tomkin, Matt Click",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Strider Mode",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Strider Mode",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\The One Ring - Strider Mode.pdf"
+    ],
+    "BookDescription": [
+      "Strider™ Mode presents additional and modified rules to facilitate solo play in The One Ring™, as well as guidelines and tips for solo players and a selection of random tables to help incite and inspire your lone wanderings across Middle-earth. A copy of The One Ring™ core rules is required to use this supplement."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]
