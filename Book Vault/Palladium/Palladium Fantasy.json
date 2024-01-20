@@ -15,7 +15,7 @@
   "BookSetting": "Palladium Fantasy",
   "BookType": "Rulebook",
   "BookFormat": "",
-  "BookSeries": "Palladium Fantasy",
+  "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Palladium Books\\Fantasy\\PAL450 - Palladium Fantasy Role-Playing Game, Second Edition.pdf"
@@ -47,10 +47,42 @@
   "BookSetting": "Palladium Fantasy",
   "BookType": "Sourcebook",
   "BookFormat": "",
-  "BookSeries": "Palladium Fantasy",
+  "BookSeries": "Sourcebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Palladium Books\\Fantasy\\PAL451 - Dragons & Gods.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Land of the Damned 1 - Chaos Lands",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "AL468",
+  "BookISBN": "",
+  "BookAuthor": "Bill Coffin",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Palladium Fantasy",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Fantasy\\PAL468 - Land of the Damned 1 - Chaos Lands.pdf"
   ],
   "BookDescription": [
     "No description available."

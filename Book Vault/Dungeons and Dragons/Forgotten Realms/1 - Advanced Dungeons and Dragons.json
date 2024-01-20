@@ -840,6 +840,40 @@
     }
   },
   {
+    "BookName": "FR8 - Cities of Mystery",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9262",
+    "BookISBN": "0-8803-8744-0",
+    "BookAuthor": "Jean Rabe",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9262 - FR8 - Cities of Mystery.pdf"
+    ],
+    "BookDescription": [
+      "Dungeon Delving can be delightful. Wandering in the wilderness is a wonderful way to pass the time. But for the ultimate in opportunity, intrigue, and unexpected danger, try visiting the nearest village, town, or city.",
+      "A city is much more than a rest stop, a watering hole, or a placee to but equipment. Any community, from the smallest hamlet ot the most crowded medievial metropolis, offers adventuring possibilities that can't be found in any other environment. Cities of Mystery describes for the Dungeon Master how to create realistic, exciting, and vibrant communities-and gives him the tools to make his creations com alive.",
+      "Inside this folder are 12 different street layout patterns that can be combined in a multitude of ways, plus 33 buildings of various shapes and sizes that can be cut out and assembled. The components, scaled for use with 25mm miniature figures, allow you to create three-dimensional city scenes for characters to explore. Also included is a 64-page book that takes you step by step through the process of defining and designing the villages, towns, and cities of your campaign world. The book contains five adventure scenarios that make use of the street layouts and fold-up buildings-ideas designed to get you started on the way to making your cities come alive."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
     "BookName": "Cormanthyr Empire of Elves",
     "BookPublisher": "TSR",
     "BookCode": "TSR1165",
@@ -963,5 +997,39 @@
         {"page": 63, "title": "Glossaries"}
         ]    
     }
-  }  
+  },
+  {
+    "BookName": "FRS1 - The Dalelands",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9392",
+    "BookISBN": "1-56076-667-0",
+    "BookAuthor": "L. Richard Baker III",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "FRS Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9392 - FRS1 - The Dalelands.pdf"
+    ],
+    "BookDescription": [
+      "Between Cormyr and the Moonsea lie the beautiful forests and fields of the Dalelands, home to some of the most powerful characters and exciting adventures in the Heartlands. Proud and free, these scattered realms stand against the dark evil of Zhentil Keep and the savage raiders of the mountains and forests. Ancient magic lies buried in dangerous ruins within the vast Elven Woods, waiting for the hand bold enough to seize it.",
+      "The Dalelands are a place where adventurers are welcomed, and heroes rewarded with gold, honour, and power. Enemies, old and new, move against the Dales constantly, and the call goes out for brave and true heroes to defend the land!",
+      "The Dalelands are the oldest campaign setting of the Forgotten Realms, finally described in detail. New and exciting information about each of these independent lands I contained in this accessory. Of course, the dark and sinister enemies who plot against the Dales are described as well! Prepare to meet the challenges of the Dalelands!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]

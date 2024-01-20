@@ -117,7 +117,7 @@
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Cyberpunk",
     "BookType": "Tech & Style Guide",
     "BookFormat": "",
     "BookSeries": "Guides",
@@ -140,5 +140,52 @@
         {"page": 2, "title": ""}
         ]    
     }
-  } 
+  },
+  {
+    "BookName": "Cyberpunk RED Jumpstart Kit",
+    "BookPublisher": "R Talsorian Games",
+    "BookCode": "CR3000",
+    "BookISBN": "978-1-950911-01-1",
+    "BookAuthor": "Mike Pondsmith, David Ackerman, J Gray, James Hutt, and Cody Pondsmith",
+    "BookPublished": "2019",
+    "BookCover": "",
+    "BookRules": "Cyberpunk Red",
+    "BookEdition": "RED",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Cyberpunk",
+    "BookType": "Jumpstart Kit",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Jumpstart Kit",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3000 - Cyberpunk Red Jumpstart Kit\\CR3000 - Cyberpunk Red Jumpstart Kit - Rulebook.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3000 - Cyberpunk Red Jumpstart Kit\\CR3000 - Cyberpunk Red Jumpstart Kit - Worldbook.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3000 - Cyberpunk Red Jumpstart Kit\\CPR Character Form.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3000 - Cyberpunk Red Jumpstart Kit\\CR3000 - Cyberpunk Red Jumpstart Kit - EZReferenceLetter.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3000 - Cyberpunk Red Jumpstart Kit\\CR3000 - Cyberpunk Red Jumpstart Kit - EZReferenceTabloid.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3000 - Cyberpunk Red Jumpstart Kit\\CR3000 - Cyberpunk Red Jumpstart Kit - Maps.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3000 - Cyberpunk Red Jumpstart Kit\\CR3000 - Cyberpunk Red Jumpstart Kit - Pregens.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3000 - Cyberpunk Red Jumpstart Kit\\CR3000 - Cyberpunk Red Jumpstart Kit - Standees.pdf"
+    ],
+    "BookDescription": [
+      "The 4th Corporate War’s over and the big dogs have retreated to their corners to lick their wounds. That leaves everyone else to fend for themselves in a shattered world.",
+      "And that’s just fine. ‘cause you’ve got interface plugs in your wrists, metal in your limbs, and chips in your skull. You’re wired in, loaded with chrome, and ready to take it to the Edge.",
+      "There’s a world full of opportunities out there. Maybe this time you can do more than save yourself. Maybe.",
+      "The Cyberpunk Red Jumpstart Kit is the perfect introduction to the newest edition of the classic Cyberpunk tabletop roleplaying game and includes:",
+      "Two booklets, one containing world lore and adventures and the other the essential rules needed to play.",
+      "Six pregenerated characters you can customize with their own unique lifepaths.",
+      "An EZ Reference sheet to facilitate game play.",
+      "Maps and standees to help bring the world of Cyberpunk to life!",
+      "Beautiful dice designed and crafted by Q Workshop."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]

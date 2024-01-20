@@ -104,6 +104,7 @@
 # PDF's Books to Source
 ## R Talsorian Games
 - CR3001 - Cyberpunk RED
+- CR3000 - Cyberpunk RED Jumpstart Kit
 ## Free League Publishing
 - FLFALE017 - Building Better Worlds
 - FLFTOR012 - Tales from the Lone Lands
@@ -221,4 +222,5 @@
 - TSR1165 - Cormanthyr Empire of Elves
 - TSR9540 - How the Mighty Are Fallen
 - TSR9558 - The Fall of Myth Drannor
+- TSR9392 - FRS1 - The Dalelands
 - TSR2023 - Greyhawk Adventures
