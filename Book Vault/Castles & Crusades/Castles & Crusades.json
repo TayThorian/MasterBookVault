@@ -99,5 +99,80 @@
       {"page": 2, "title": "BE DONE"}
       ]    
   }
+},
+{
+  "BookName": "Adventurers Spellbook",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG81421",
+  "BookISBN": "978-1-952379-37-6",
+  "BookAuthor": "",
+  "BookPublished": "2021",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Spell Book",
+  "BookFormat": "Hardback",
+  "BookSeries": "Spell Book",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Castles & Crusades\\TLG81421 -  Adventurers Spellbook.pdf"
+  ],
+  "BookDescription": [
+    "The heart and soul of the magic system in Castles & Crusades are the spells. And now, for the first time we have gathered the spells or C&C into one place. From a wide variety of sources, we have compiled them all in one place. They come from the Players Handbook, Adventurers Backpack, Players Guide to Aihrde, Amazing Adventures, Hallowed Oracle Players Guide & Elemental Spells! A mountainous collection for all the spellcasters",
+    "You will also find a complete collection of all the Codices of Rune Spells within these pages, from the Shadow Runes to the Four Pillars. They are all here. Over 200 new spells for your Rune Mark and Castles & Crusades game!",
+    "It also includes the tables and information on the oft discussed but hard to find Chromatic Mage!"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Adventurers Backpack",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80181",
+  "BookISBN": "978-1-944135-49-2",
+  "BookAuthor": "Stephen Chenault",
+  "BookPublished": "2021",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Castles & Crusades\\TLG80181 - Adventurers Backpack.pdf"
+  ],
+  "BookDescription": [
+    "The Adventures Backpack is the first major book that focuses largely on player content for Castles & Crusades since the release of the Players Handbook. It brings a mountain of NEW material to your gaming table. Within this full color, hardcover book you will find:",
+    "13 new classes",
+    "New Non-derivative spells",
+    "A new approach on counter spells and canceling spells",
+    "34 different backpacks offerings an easier and faster way to equip",
+    "A fresh easier to use approach to Unarmed Combat",
+    "Magic Items for classes who have few to choose from",
+    "A look at the Archetype",
+    "The End Game, why old characters never die",
+    "A whole new renaissance has begun, with years-worth of C&C content at your fingertips."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]

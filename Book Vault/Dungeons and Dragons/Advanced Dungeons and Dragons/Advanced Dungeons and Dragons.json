@@ -1024,6 +1024,179 @@
     }
   },
   {
+    "BookName": "PHBR3 - The Complete Priest's Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2113",
+    "BookISBN": "0-88038-318-8",
+    "BookAuthor": "Aaron Allston",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2113 - PHBR3 - The Complete Priest's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "Clerics have long been among players' favourites, but now there are new priest characters for your gaming enjoyment! Within these pages are new rules for mythos-specific priests, guidelines for creating mythoi of your own, how-to's for making new priesthoods. Also here are new priest \"kits,\" so you can play a fighting monk, an amazon priestess, a savage priest, or even a peasant priest (among many others)."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PHBR4 - The Complete Wizard's Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2115",
+    "BookISBN": "0-88038-838-2",
+    "BookAuthor": "Rick Swan",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2115 - PHBR4 - The Complete Wizard's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "If you thought all wizards were alike, think again! The masters of magic now have a new guide to creating more interesting and imaginative mages, just when you thought you had them figured out. The Complete Wizard's Handbook will put a whole new twist on wizards, from personality and dress codes to schools of magic to building that dream laboratory.",
+      "Look out, world - you'll never look at a mage the same way again!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 3, "title": "Introduction"},
+        {"page": 6, "title": "Chapter 1 - Schools of Magic"},
+        {"page": 22, "title": "Chapter 2 - Creating New Schools"},
+        {"page": 33, "title": "Chapter 3 - Wizard Kits"},
+        {"page": 52, "title": "Chapter 4 - Role-Playing"},
+        {"page": 68, "title": "Chapter 5 - Combat and the Wizard"},
+        {"page": 73, "title": "Chapter 6 - Casting Spells in Unusual Conditions"},
+        {"page": 82, "title": "Chapter 7 - Advanced Procedures"},
+        {"page": 95, "title": "Chapter 8 - New Spells"},
+        {"page": 108, "title": "Chapter 9 - Wizardly Lists"}
+        ]    
+    }
+  },
+  {
+    "BookName": "PHBR5 - The Complete Psionics Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2117",
+    "BookISBN": "1-56076-054-0",
+    "BookAuthor": "Steve Winter",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2117 - PHBR5 - The Complete Psionics Handbook.pdf"
+    ],
+    "BookDescription": [
+      "Are you ready for the mind-blowing potential of the psyche? This handbook describes over 150 paranormal powers: telepathy, ESP, clairvoyance, psychokinesis, biofeedback, out-of-body travel, plus many amazing talents never before revealed. The psionicist is a completely new character class for AD&D games, both for player characters and NPCs.",
+      "Explore inner space! Now you can really put mind over matter with The Complete Psionics Handbook."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PHBR6 - The Complete Book of Dwarves",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2124",
+    "BookISBN": "1-56076-110-5",
+    "BookAuthor": "Jim Bambra",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2124 - PHBR6 - The Complete Book of Dwarves.pdf"
+    ],
+    "BookDescription": [
+      "Battle axes and beards. Good companions when travelling underground. Handy with tools.",
+      "If that was your view of dwarves, you need The Complete Book of Dwarves. Discover 24 new character kits, new weapons, and new possibilities, including six dwarf subraces, new proficiencies, strongholds, origin myths, and a look at dwarven personalities.",
+      "After reading the The Complete Book of Dwarves, you may still look down on these short folk... but only to see them more clearly!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PHBR7 - The Complete Bard's Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2127",
+    "BookISBN": "1-56076-360-4",
+    "BookAuthor": "Blake Mobley",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2127 - PHBR7 - The Complete Bard's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "Thief, musician, clown, actor, acrobat - just a partial list of the many twists on the bard class to be found in this book!",
+      "Seventeen bard kits, multitudes of abilities and powers, new magical items, new proficiencies, rules for gaining patrons and followers, over 100 bardic instruments, and much more await you within. The Complete Bard's Handbook gives you everything you need to create a bard the world will never forget"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
     "BookName": "Player's Option - Skills & Powers",
     "BookPublisher": "TSR",
     "BookCode": "TSR2154",

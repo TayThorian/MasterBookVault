@@ -184,6 +184,11 @@
 - TSR2144 - DMGR6 - The Complete Book of Villains
 - TSR2110 - PHBR1 - The Complete Fighter's Handbook
 - TSR2111 - PHBR2 - The Complete Thief's Handbook
+- TSR2113 - PHBR3 - The Complete Priest's Handbook
+- TSR2115 - PHBR4 - The Complete Wizard's Handbook
+- TSR2117 - PHBR5 - The Complete Psionics Handbook
+- TSR2124 - PHBR6 - The Complete Book of Dwarves
+- TSR2127 - PHBR7 - The Complete Bard's Handbook
 - TSR2154 - Player's Option - Skills & Powers
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain

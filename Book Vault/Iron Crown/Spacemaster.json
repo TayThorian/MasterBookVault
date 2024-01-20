@@ -15,7 +15,7 @@
     "BookSetting": "Spacemaster Privateers",
     "BookType": "Rulebook",
     "BookFormat": "Paperback",
-    "BookSeries": "Rulebook",
+    "BookSeries": "Rulebooks",
     "BookPDF": [
       "D:\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4500 - Spacemaster Privateers.pdf"
     ],
@@ -192,5 +192,389 @@
       "A must for any Spacemaster game, this book details the races of the Privateers universe. Find out what the races are really like in detail; from culture to physiology to role playing, everything you wanted to know about the: Falanar, the Kagoth, the Oort, the Tulgar, the Valiesans the Xatosians and of course humans. What will our own species be like in the future?",
       "Who will you be tomorrow?"
     ]
-  }   
+  },
+  {
+    "BookName": "Space Master Companion I",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9002",
+    "BookISBN": "1-55806-135-5",
+    "BookAuthor": "T. Arnold",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9002 - Space Master Companion I.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Aliens & Artifacts",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9003",
+    "BookISBN": "1-55806-146-0",
+    "BookAuthor": "David Pulver",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9003 - Aliens & Artifacts.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Space Master Companion II",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9004",
+    "BookISBN": "1-55806-187-8",
+    "BookAuthor": "Leo LaDell, Sanford Berenberg, Lem Richards, Bruce Cordell, Thomas Arnold, Ross Henton, David Blank, Tim Taylor, Leo LaDell, Kieth Locke, Rick Cross",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9004 - Space Master Companion II.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Future Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9100",
+    "BookISBN": "0-915795-36-1",
+    "BookAuthor": "",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\1st Edition\\ICE9100 - Future Law.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Action on Akaisha Outstation",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9101",
+    "BookISBN": "0-915795-46-9",
+    "BookAuthor": "Terry Kevin Amthor",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\1st Edition\\ICE9101 - Action on Akaisha Outstation.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "The Cygnus Conspiracy",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9102",
+    "BookISBN": "0-915795-92-2",
+    "BookAuthor": "Alexander Brooke Lindsay III",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\1st Edition\\ICE9102 - The Cygnus Conspiracy.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Tech Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9200",
+    "BookISBN": "0-915795-38-8",
+    "BookAuthor": "",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\1st Edition\\ICE9200 - Tech Law.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Imperial Crisis House Devon in Turmoil",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9300",
+    "BookISBN": "0-915795-37-X",
+    "BookAuthor": "Kevin Barrett",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\1st Edition\\ICE9300 - Imperial Crisis House Devon in Turmoil.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Lost Telepaths - The Secret of House Kashmere",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9400",
+    "BookISBN": "0-915795-48-5",
+    "BookAuthor": "Terry Kevin Amthor",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\1st Edition\\ICE9400 - Lost Telepaths - The Secret of House Kashmere.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Spacemaster Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9500",
+    "BookISBN": "0-915795-33-7",
+    "BookAuthor": "Tod Foley, Terry Kevin Amthor",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\1st Edition\\ICE9500 - Spacemaster Companion I.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Beyond the Core",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9600",
+    "BookISBN": "0-915795-83-3",
+    "BookAuthor": "Tod Foley",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\1st Edition\\ICE9600 - Beyond the Core.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Spacemaster",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Missing",
+    "BookSetting": "Spacemaster",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]

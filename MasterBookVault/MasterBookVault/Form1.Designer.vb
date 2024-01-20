@@ -76,10 +76,12 @@ Partial Class Form1
         Label19 = New Label()
         Label20 = New Label()
         Panel4 = New Panel()
+        Label21 = New Label()
         Label22 = New Label()
         Label23 = New Label()
         ButtonRunEditor = New Button()
         ContextMenuStrip1 = New ContextMenuStrip(components)
+        BookCountListBox = New ListBox()
         Panel1.SuspendLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(WebView2Description, ComponentModel.ISupportInitialize).BeginInit()
@@ -382,7 +384,7 @@ Partial Class Form1
         ListBoxBooksOnOrder.ItemHeight = 15
         ListBoxBooksOnOrder.Location = New Point(2171, 870)
         ListBoxBooksOnOrder.Name = "ListBoxBooksOnOrder"
-        ListBoxBooksOnOrder.Size = New Size(400, 199)
+        ListBoxBooksOnOrder.Size = New Size(400, 154)
         ListBoxBooksOnOrder.TabIndex = 29
         ' 
         ' Label11
@@ -421,7 +423,7 @@ Partial Class Form1
         ListBoxPDFToSource.Font = New Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point)
         ListBoxPDFToSource.FormattingEnabled = True
         ListBoxPDFToSource.ItemHeight = 15
-        ListBoxPDFToSource.Location = New Point(2171, 496)
+        ListBoxPDFToSource.Location = New Point(13, 424)
         ListBoxPDFToSource.Name = "ListBoxPDFToSource"
         ListBoxPDFToSource.Size = New Size(400, 319)
         ListBoxPDFToSource.TabIndex = 33
@@ -650,15 +652,28 @@ Partial Class Form1
         ' 
         Panel4.BackColor = SystemColors.Window
         Panel4.BorderStyle = BorderStyle.Fixed3D
+        Panel4.Controls.Add(BookCountListBox)
+        Panel4.Controls.Add(Label21)
         Panel4.Controls.Add(Label22)
         Panel4.Controls.Add(Label23)
+        Panel4.Controls.Add(ListBoxPDFToSource)
         Panel4.Controls.Add(Label11)
         Panel4.Controls.Add(Label12)
         Panel4.Controls.Add(Label13)
         Panel4.Location = New Point(2156, 69)
         Panel4.Name = "Panel4"
-        Panel4.Size = New Size(430, 1020)
+        Panel4.Size = New Size(430, 1172)
         Panel4.TabIndex = 47
+        ' 
+        ' Label21
+        ' 
+        Label21.AutoSize = True
+        Label21.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
+        Label21.Location = New Point(13, 969)
+        Label21.Name = "Label21"
+        Label21.Size = New Size(103, 21)
+        Label21.TabIndex = 33
+        Label21.Text = "Book Count:"
         ' 
         ' Label22
         ' 
@@ -698,6 +713,15 @@ Partial Class Form1
         ContextMenuStrip1.Name = "ContextMenuStrip1"
         ContextMenuStrip1.Size = New Size(61, 4)
         ' 
+        ' BookCountListBox
+        ' 
+        BookCountListBox.FormattingEnabled = True
+        BookCountListBox.ItemHeight = 15
+        BookCountListBox.Location = New Point(13, 1005)
+        BookCountListBox.Name = "BookCountListBox"
+        BookCountListBox.Size = New Size(400, 139)
+        BookCountListBox.TabIndex = 50
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -705,7 +729,6 @@ Partial Class Form1
         ClientSize = New Size(2678, 1263)
         Controls.Add(ButtonRunEditor)
         Controls.Add(btnGenerateMD)
-        Controls.Add(ListBoxPDFToSource)
         Controls.Add(ListBoxBooksOnOrder)
         Controls.Add(ListBoxBooksToSource)
         Controls.Add(DataGridViewBookDetails)
@@ -792,4 +815,6 @@ Partial Class Form1
     Friend WithEvents Label23 As Label
     Friend WithEvents ButtonRunEditor As Button
     Friend WithEvents ContextMenuStrip1 As ContextMenuStrip
+    Friend WithEvents Label21 As Label
+    Friend WithEvents BookCountListBox As ListBox
 End Class

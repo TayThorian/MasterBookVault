@@ -1,0 +1,434 @@
+[
+  {
+    "BookName": "Hostile Rules",
+    "BookPublisher": "Zozer Games",
+    "BookCode": "N/A",
+    "BookISBN": "",
+    "BookAuthor": "Paul Elliott",
+    "BookPublished": "2021",
+    "BookCover": "",
+    "BookRules": "Cepheus",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Hostile",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Rules.pdf"
+    ],
+    "BookDescription": [
+      "Welcome to the gritty, retro-future universe of HOSTILE which now expands with its own, dedicated rulebook. Based on the Cepheus Engine, these Rules add in the realistic combat rules from Zozer Games’ popular Modern War game, as well as setting-specific rules from some of the eighteen HOSTILE supplements. When combined with its companion book, the HOSTILE Setting, you will have a complete, stand-alone, retro-future sci-fi game.",
+      "<b>HOSTILE</b> is a gritty, near future roleplaying setting that is inspired by movies like Outland, Bladerunner and Alien. It is a universe of mining installations, harsh moons, industrial facilities, hostile planets and brutal, utilitarian spacecraft.",
+      "Comprehensive task resolution mechanics",
+      "An expanded character creation system, with a non-random character design option",
+      "Survival rules from deserts to radiation, deep sea diving to acid … and more",
+      "Stress and panic rules",
+      "Starship combat mechanics",
+      "Tactical combat rules that include area fire, aimed fire and vehicle combat",
+      "Handling friendly NPC teams and squads",
+      "Spaceflight operation and procedure guidelines",
+      "Advice and guidance on interpreting the world data",
+      "Trade, speculation and salvaging",
+      "Encounter tables: in space, on planet, within colonies and at the starport",
+      "A full chapter of referee advice on running HOSTILE",
+      "With a variety of realistic photo-illustrations and replica documents",
+      "Full colour throughout!"
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Hostile Setting",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Paul Elliott",
+  "BookPublished": "2021",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Setting",
+  "BookFormat": "Hardback",
+  "BookSeries": "Setting",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Setting.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Hostile Situation Report 001 - Ghost Ship",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 001 - Ghost Ship.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Hostile Situation Report 002 - Snakehead",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 002 - Snakehead.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Hostile Situation Report 003 - Repellant",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 003 - Repellant.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Hostile Situation Report 004 - Psychosis",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 004 - Psychosis.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Hostile Situation Report 005 - One Of Us",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 005 - One Of Us.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Hostile Situation Report 006 - Hunted",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 006 - Hunted.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Hostile Situation Report 007 - The Ark",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 007 - The Ark.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Hostile Situation Report 008 - Life Cycle",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 008 - Life Cycle.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Hostile Situation Report 009 -Extraction",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 009 -Extraction.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Hostile Situation Report 010 - Street Scum",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 010 - Street scum.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Hostile Ultra-Lite Rules",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Rulebook",
+  "BookFormat": "PDF",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Ultra-Lite Rules.pdf",
+    "D:\\Master Vault\\Cepheus\\Zozer\\Hostile Ultra-Lite Rules - Sheet.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]

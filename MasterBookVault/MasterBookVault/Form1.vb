@@ -11,6 +11,9 @@ Public Class Form1
         TreeView1.ImageList = ImageList1
         InitializeTreeView()
 
+        ' Update the Book Count List Box
+        UpdateBookCountListBox()
+
         ' Set DrawMode to OwnerDrawFixed
         ListBoxBooksToSource.DrawMode = DrawMode.OwnerDrawFixed
         ListBoxPDFToSource.DrawMode = DrawMode.OwnerDrawFixed
@@ -85,6 +88,10 @@ Public Class Form1
         ' Clear details and ToC
         ClearBookDetails()
         ListBoxTOC.Items.Clear()
+
+        ' Update the Book Count List Box
+        UpdateBookCountListBox()
+
     End Sub
 
 
@@ -408,6 +415,83 @@ Public Class Form1
         TextBoxOwnedPDF.Text = selectedBook.BookOwnedPDF
     End Sub
 
+    Private Function CountFields() As Dictionary(Of String, Integer)
+        Dim counts As New Dictionary(Of String, Integer)
+        Dim allFiles() As String = Directory.GetFiles(rootFolderPath, "*.json", SearchOption.AllDirectories)
+
+        ' Initialize counts
+        counts("BookPhysicalYes") = 0
+        counts("BookPhysicalToSource") = 0
+        counts("BookOwnedPDFToSource") = 0
+
+        For Each file In allFiles
+            Try
+                Dim jsonData As String = System.IO.File.ReadAllText(file)
+
+                Dim books As List(Of Book) = JsonConvert.DeserializeObject(Of List(Of Book))(jsonData)
+
+                If books IsNot Nothing Then
+                    For Each book In books
+                        If book.BookPhysical = "Yes" Then
+                            counts("BookPhysicalYes") += 1
+                        ElseIf book.BookPhysical = "To Source" Then
+                            counts("BookPhysicalToSource") += 1
+                        End If
+
+                        If book.BookOwnedPDF = "To Source" Then
+                            counts("BookOwnedPDFToSource") += 1
+                        End If
+                    Next
+                End If
+            Catch ex As Exception
+                MessageBox.Show("Error reading or parsing file: " & file & vbCrLf & ex.ToString())
+            End Try
+        Next
+
+        Return counts
+    End Function
+
+    Public Sub New() ' Constructor of the form
+        ' This call is required by the designer.
+        InitializeComponent()
+
+        ' Set the DrawMode property
+        BookCountListBox.DrawMode = DrawMode.OwnerDrawFixed
+
+        ' Add the event handler for DrawItem
+        AddHandler BookCountListBox.DrawItem, AddressOf BookCountListBox_DrawItem
+    End Sub
+
+    Private Sub BookCountListBox_DrawItem(sender As Object, e As DrawItemEventArgs)
+        e.DrawBackground()
+
+        If e.Index >= 0 Then
+            Dim itemText As String = BookCountListBox.Items(e.Index).ToString()
+
+            ' Set different fonts or colors based on the item index or content
+            Dim font As New Font("Arial", 10, FontStyle.Bold) ' Example font
+            Dim brush As Brush = Brushes.Black ' Example color
+
+            ' Draw the item text
+            e.Graphics.DrawString(itemText, font, brush, e.Bounds)
+        End If
+
+        e.DrawFocusRectangle()
+    End Sub
+
+    Private Sub UpdateBookCountListBox()
+        Dim counts = CountFields()
+
+        ' Clear existing items
+        BookCountListBox.Items.Clear()
+
+        ' Add new counts with custom row names
+        BookCountListBox.Items.Add("Physical Books Owned: " & counts("BookPhysicalYes").ToString())
+        BookCountListBox.Items.Add("Physical Books to Source: " & counts("BookPhysicalToSource").ToString())
+        BookCountListBox.Items.Add("PDF Books to Source: " & counts("BookOwnedPDFToSource").ToString())
+    End Sub
+
+
     Private Sub PdfLink_Click(sender As Object, e As EventArgs)
         Dim link As LinkLabel = DirectCast(sender, LinkLabel)
         Dim filePath As String = link.Tag.ToString()
@@ -556,5 +640,6 @@ Public Class Form1
             End If
         End If
     End Sub
+
 
 End Class
