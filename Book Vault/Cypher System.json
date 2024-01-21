@@ -89,7 +89,7 @@
   "BookRules": "Cypher System",
   "BookEdition": "",
   "BookPhysical": "Yes",
-  "BookOwnedPDF": "",
+  "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "Core",
   "BookType": "Campaign Expansion",

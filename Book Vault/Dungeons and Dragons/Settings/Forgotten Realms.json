@@ -1031,5 +1031,80 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "Forgotten Realms Campaign Setting",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC882360000",
+    "BookISBN": "0-7869-1836-5",
+    "BookAuthor": "Ed Greenwood, Sean K. Reynolds, Skip Williams, Rob Heinsoo",
+    "BookPublished": "2001",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Setting",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\WTC882360000 - Forgotten Realms Campaign Setting.pdf"
+    ],
+    "BookDescription": [
+      "<b>Dark perils and great deeds await.</b>",
+      "Welcome to Faerûn, a land of high magic, terrifying monsters, ancient ruins, and hidden wonders. From the forbidding forests of the Silver Marches to the teeming cities of the Inner Sea, Faerûn encompasses shining kingdoms, monster-infested wastes, endless caverns, and sinister citadels. The Forgotten Realms Campaign Setting presents the most comprehensive fantasy world ever described!",
+      "This book contains all the details you need to play Dungeons & Dragons adventures in the Forgotten Realms setting:",
+      "Dozens of new races, feats, and prestige classes for your characters.",
+      "The Faerûnian pantheon, including over 100 deities and powers.",
+      "Highly detailed regions, new monsters, mysterious sites, and two short adventures to begin your campaign.",
+      "The Forgotten Realms Campaign Setting is fully updated and redesigned for the new edition of the D&D game. To make full use of this book, you also need the Player's Handbook, the Dungeon Master's Guide, and the Monster Manual."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Unapproachable East",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC176650000",
+    "BookISBN": "0-7869-2881-6",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\WTC176650000 - Unapproachable East.pdf"
+    ],
+    "BookDescription": [
+      "<b>Explore a Mysterious Land of Might and Magic</b>",
+      "Tales from beyond the Easting Reach are told with awed voices and hushed tones. Known to most of Faerûn as the homeland of the Simbul, the hathrans, and the Red Wizards, the Unapproachable East is filled with dark secrets, insidious plots, and untold adventure. Discover the people, politics, cities, and societies of the region, along with the monsters, nefarious organizations, and other perils that await unwary travelers in this treacherous corner of the Forgotten Realms game setting.",
+      "12 new prestige classes",
+      "21 new spells",
+      "19 new monsters",
+      "To use this accessory, you also need the Forgotten Realms Campaign Setting, the Player's Handbook, the Dungeon Master's Guide, and the Monster Manual."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

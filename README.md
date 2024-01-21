@@ -22,11 +22,6 @@
 - GCP-RMU-002 - Rolemaster Unified - Spell Law
 ## Monte Cook Games
 - MCG361 - The Glimmering Valley
-- MCG004 - Ninth World Bestiary
-- MCG168 - Ninth World Bestiary 3
-- MCG083 - Into the Outside
-- MCG082 - Into the Deep
-- MCG071 - Into the Night
 ## Free League Publishing
 - FLFTOR012 - Tales from the Lone Lands
 - FLFALE017 - Building Better Worlds
