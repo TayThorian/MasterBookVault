@@ -1,0 +1,130 @@
+[
+  {
+    "BookName": "Deep Magic Vol. 1",
+    "BookPublisher": "Kobold Press",
+    "BookCode": "KOB9542",
+    "BookISBN": "978-1-950789-54-2",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "5E Compatible",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Magic Book",
+    "BookFormat": "",
+    "BookSeries": "Magic Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\5E - Compatible\\Kobold Press\\KOB9542 - Deep Magic Vol. 1.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Tome of Beasts 1",
+  "BookPublisher": "Kobold Press",
+  "BookCode": "KOB9566",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "5E Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Bestiary",
+  "BookFormat": "",
+  "BookSeries": "Bestiary",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\Kobold Press\\KOB9566 - Tome of Beasts 1.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Tome of Beasts II",
+  "BookPublisher": "Kobold Press",
+  "BookCode": "KOBTOB2",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "5E Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Bestiary",
+  "BookFormat": "",
+  "BookSeries": "Bestiary",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\Kobold Press\\KOBTOB2 - Tome of Beasts II.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Tome of Beasts III",
+  "BookPublisher": "Kobold Press",
+  "BookCode": "KOBTOB",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "5E Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Bestiary",
+  "BookFormat": "",
+  "BookSeries": "Bestiary",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\Kobold Press\\KOBTOB3 - Tome of Beasts III.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]

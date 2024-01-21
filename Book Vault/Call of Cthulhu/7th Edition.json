@@ -119,7 +119,7 @@
   },
   {
     "BookName": "Reign of Terror",
-    "BookPublisher": "Chaosium Inc",
+    "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA23149",
     "BookISBN": "978-1-56882-451-2",
     "BookAuthor": "Mark Morrison, Penelope Love, James Coquillat, Darren Watson",
@@ -156,7 +156,7 @@
   },
   {
     "BookName": "Petersen's Abominations",
-    "BookPublisher": "Chaosium Inc",
+    "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA23152",
     "BookISBN": "978-1-56882-452-9",
     "BookAuthor": "Sandy Petersen, Mike Mason",
@@ -191,7 +191,7 @@
   },
   {
     "BookName": "Mansions of Madness - Volume 1 - Behind Closed Doors",
-    "BookPublisher": "Chaosium Inc",
+    "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA23167",
     "BookISBN": "978-1-56882-424-6",
     "BookAuthor": "Stuart Boon, Shaun DeWolfe, Gavin Inglis, Christopher Lackey, Mark Morrison",
@@ -221,6 +221,79 @@
       "chapters": [
         {"page": 1, "title": "TOC TO"},
         {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Does Love Forgive",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23172",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23172 - Does Love Forgive.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23172 - Does Love Forgive - High Resolution.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23172 - Does Love Forgive - Handouts.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Gateways to Terror",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23140",
+    "BookISBN": "978-1-56882-445-1",
+    "BookAuthor": "Leigh Carr, Jon Hook, Todd Gardiner",
+    "BookPublished": "2020",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23140 - Gateways to Terror.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23140 - Gateways to Terror - Pre-Generated Characters.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23140 - Gateways to Terror Handouts.pdf"
+    ],
+    "BookDescription": [
+      "<b>The Necropolis</b>",
+      "What ancient horrors lie slumbering in a newly discovered tomb deep in Egypt's Valley of the Kings? Are you allowing local superstitions and the unfortunate events surrounding the opening of Tutankhamen's tomb to play on your mind as you wait to step down into the darkness…",
+      "<b>What’s in the Cellar?</b>",
+      "Did a respected businessman really commit the bloody murder of his beloved wife in the cellar of the family's ancestral holiday cabin? While the body has never been found, it seems like the criminal has been caught. Is a terrible injustice about to be served? Just what happened in that cellar?",
+      "<b>The Dead Boarder</b>",
+      "And, what has happened to that nice, quiet neighbour of yours? You’ve not seen hide nor hair of him in days! He wasn’t always the friendliest of sorts, but he did seem very pious, what with all the late-night prayers coming from his room…"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
         ]    
     }
   }

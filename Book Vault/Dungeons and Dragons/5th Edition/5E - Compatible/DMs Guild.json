@@ -291,5 +291,37 @@
       {"page": 2, "title": "BE DONE"}
       ]    
   }
+},
+{
+  "BookName": "Vilhon Reach Gazetteer",
+  "BookPublisher": "DMs Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Gazetteer",
+  "BookFormat": "",
+  "BookSeries": "Gazetteer",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Vilhon Reach Gazetteer.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]

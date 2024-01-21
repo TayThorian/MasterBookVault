@@ -875,5 +875,229 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "dventure Sourcebook One - Chi-Town 'Burbs",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL853",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Adventure Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Adventure Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL853 - Adventure Sourcebook One - Chi-Town 'Burbs.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Adventure Sourcebook - Chi-Town 'Burbs 2 - Firetown & The Tolkeen Crisis",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL854",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Adventure Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Adventure Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL854 - Adventure Sourcebook - Chi-Town 'Burbs 2 - Firetown & The Tolkeen Crisis.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Adventure Sourcebook Three - The Black Vault",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL855",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Adventure Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Adventure Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL855 - Adventure Sourcebook Three - The Black Vault.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Adventure Sourcebook Four - The Vanguard",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL856",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Adventure Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Adventure Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL856 - Adventure Sourcebook Four - The Vanguard.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Merc Ops",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL865",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL865 - Merc Ops.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Adventure Sourcebook - Mercenary Adventures",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL867",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL867 - Adventure Sourcebook - Mercenary Adventures.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Chi-Town Burbs - Forbidden Knowledge",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL853",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Adventure Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Adventure Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL853 - Chi-Town Burbs - Forbidden Knowledge.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]

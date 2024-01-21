@@ -22,10 +22,9 @@
 - ICE3600 - Dunland and the Southern Misty Mountains
 - ICE3200 - Lorien & The Halls of the Elven Smiths
 - ICE8107 - Woses of the Black Wood
+- ICE8060 - Erech and the Paths of the Dead
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Rolemaster Unified - Spell Law
-## ICE8060
-- ICE8060 - Erech and the Paths of the Dead
 ## Monte Cook Games
 - MCG361 - The Glimmering Valley
 - MCG004 - Ninth World Bestiary
@@ -63,14 +62,6 @@
 - MGP40097 - The Marches Adventures 1-5
 - MGP40106 - Traveller Referee's Screen Update 2024
 - MGP40102 - Rim Expeditions
-## Sine Nomine Publishing
-- - Cities Without Number
-- - Stars Without Number Revised Edition
-- - Worlds Without Number
-## EN Publishing
-- ENP0101 - N.E.W. - Science Fiction Roleplaying Game
-- ENP0201 - O.L.D - Fantasy Heroic Role-Playing
-- ENP0301 - N.O.W. - The Modern Action RPG
 ## TSR
 - TSR1071 - Rules Cyclopedia
 - TSR9506 - Chronomancer

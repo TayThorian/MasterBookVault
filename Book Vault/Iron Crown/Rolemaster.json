@@ -182,5 +182,37 @@
         {"page": 2, "title": ""}
         ]    
     }
-  } 
+  },
+  {
+    "BookName": "Elemental Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1510",
+    "BookISBN": "1-55806-076-6",
+    "BookAuthor": "M. Carlyle",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1510 - Elemental Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]

@@ -479,5 +479,143 @@
         {"page": 2, "title": "BE DONE"}
         ]    
     }
+  },
+  {
+    "BookName": "Shadowrun Sixth World",
+    "BookPublisher": "Catalyst Games Lab",
+    "BookCode": "CAT28000",
+    "BookISBN": "978-1-941582-78-7",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Shadowrun",
+    "BookEdition": "6th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Shadowrun",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Shadowrun\\6th Edition\\CAT28000 - Shadowrun Sixth World Core Rulebook.pdf"
+    ],
+    "BookDescription": [
+      "The Sixth World. One of the most enduring RPG settings ever created, with shadows growing deeper and darker in its latest edition. Dominated by enormous, world-striding megacorporations strangling metahumanity in their clutches, by 2080 most of the planet has surrendered to these corporate overlords.",
+      "But from the darkest shadows, defiance flickers in people known as shadowrunners. They risk everything—wrestling magical energies, channeling them into power; putting their minds against the electronic void of the Matrix; trading flesh and blood for chrome and steel.",
+      "Stand up, join them, and dare to risk it all!",
+      "Shadowrun, Sixth World builds on Shadowrun’s amazingly successful legacy, becoming easier to learn and play while still providing role-playing depth. Welcome to the marquee event of the game’s 30th Anniversary year!",
+      "The Sixth Edition Core Rulebook (Shadowrun: Sixth World) is a slimmed down, streamlined version of the dystopian urban fantasy world. The book is only 320 pages, and features new art."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
   }
+},
+{
+  "BookName": "Shadowrun Sixth World - City Edition - Berlin",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28000B",
+  "BookISBN": "",
+  "BookAuthor": "Kevin Czarnecki, Jason M. Hardy, Jeff Halket, Michael Messmer, Scott Schletz, RJ Thomas, Malik Toms, Robert Volbrecht, CZ Wright, Brooke Chang, Alexander Kadar, Michael Messmer, O.C. Presley, Dylan Stangel",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Shadowrun\\6th Edition\\CAT28000B - Shadowrun Sixth World - City Edition - Berlin.pdf"
+  ],
+  "BookDescription": [
+    "RISK IS THE REWARD",
+    "THE ODDS ARE AGAINST YOU. Of course they are. The other side has more people, more firepower, more money, more everything. What they don’t have is you—your brains, your guts, and your willingness to put everything on the line. Your job is to make that count.",
+    "Shadowrun, Sixth World is the latest edition of one of the most popular role-playing games of all time. In 2080, the world is controlled by massive megacorps that draw on a wealth of technology and magic to keep the world under their heels. But there are some people who resist, who refuse to sell out, and who survive by living in the margins and developing the skills that make them indispensable. They are shadowrunners, and they’re waiting for you to join their ranks. Be an elf shaman, an ork street samurai, a dwarf rigger, or any of thousands of other possibilities. Find your unique expertise and use it to take the wild chances that can keep you alive, that will give you that one last chance at freedom. So you can survive until the next one.",
+    "City Edition: Berlin contains the full, updated rules content of Shadowrun, Sixth World along with bonus pages of art, fiction, contacts, plot hooks, and other content to get players started in Berlin...."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Shadowrun Sixth World - City Edition - Seattle",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28000S",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Shadowrun\\6th Edition\\CAT28000S - Shadowrun Sixth World - City Edition Seattle.pdf"
+  ],
+  "BookDescription": [
+    "City Edition: Seattle contains the full, updated rules content of Shadowrun, Sixth World along with bonus pages of art, fiction, contacts, plot hooks, and other content to get players started in Seattle, the most iconic setting of the Shadowrun game. Launch into multiple sessions of gaming fun and put your shadowrunner on the road to greatness."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "No Future",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT27453",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Shadowrun\\6th Edition\\CAT27453 - No Future.pdf"
+  ],
+  "BookDescription": [
+    "The voices will be heard. The powers of the Sixth World want to control everything, keeping the world pacified through bland entertainment and milquetoast messages.",
+    "But they can't keep everyone quiet. People have ideas screaming to get out and the tools to record and spread them. Whether they're starting a new band, recording guerrilla trid dramas, or launching a pirate tridcast where someone tells the truth for once, they can grab audiences by the throat and get them to listen.",
+    "They're out of patience, and everyone else is out of time. No Future is the Shadowrun guide to Sixth World culture, including information on music acts, trid movies and series, media sources, and sports, with a look at some of the voices bubbling up from the underground and demanding attention. With detailed setting information and relevant rules, No Future adds new elements and depth to Sixth World role-playing.",
+    "No Future is a cyberPUNK sourcebook that details the culture and everyday life of the Shadowrun setting and is useful for whatever version of Shadowrun you play!"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
 ]

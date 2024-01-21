@@ -145,14 +145,15 @@ Public Class Form1
             Try
                 Dim books As List(Of Book) = JsonConvert.DeserializeObject(Of List(Of Book))(jsonData)
                 If books IsNot Nothing AndAlso books.Any() Then
-                    Dim groupedByRules = books.GroupBy(Function(b) b.BookRules).OrderBy(Function(g) g.Key)
+                    ' First group by BookEdition and then by BookSeries
+                    Dim groupedByEdition = books.GroupBy(Function(b) b.BookEdition).OrderBy(Function(g) g.Key)
 
-                    For Each rulesGroup In groupedByRules
-                        Dim rulesNode As TreeNode = TreeView2.Nodes.Add(rulesGroup.Key)
+                    For Each editionGroup In groupedByEdition
+                        Dim editionNode As TreeNode = TreeView2.Nodes.Add(editionGroup.Key)
 
-                        Dim groupedBySeries = rulesGroup.GroupBy(Function(b) b.BookSeries).OrderBy(Function(g) g.Key)
+                        Dim groupedBySeries = editionGroup.GroupBy(Function(b) b.BookSeries).OrderBy(Function(g) g.Key)
                         For Each seriesGroup In groupedBySeries
-                            Dim seriesNode As TreeNode = rulesNode.Nodes.Add(seriesGroup.Key)
+                            Dim seriesNode As TreeNode = editionNode.Nodes.Add(seriesGroup.Key)
 
                             For Each book In seriesGroup.OrderBy(Function(b) b.BookName)
                                 If Not String.IsNullOrEmpty(book.BookName) Then
@@ -168,6 +169,7 @@ Public Class Form1
             End Try
         End If
     End Sub
+
 
     Private Sub TreeView2_AfterSelect(sender As Object, e As TreeViewEventArgs) Handles TreeView2.AfterSelect
         ClearBookDetails()

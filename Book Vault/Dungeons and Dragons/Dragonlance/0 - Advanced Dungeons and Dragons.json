@@ -825,5 +825,101 @@
         {"page": 2, "title": ""}
         ]    
     }
-  } 
+  },
+  {
+    "BookName": "DLC1 - Dragonlance Classics, Volume I",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9291",
+    "BookISBN": "0-88038-859-5",
+    "BookAuthor": "Tracy Hickman, Douglas Niles & Michael Dobson",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "DLC Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9291 - DLC1 - Dragonlance Classics, Volume I.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DLC2 - Dragonlance Classics, Volume II",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9394",
+    "BookISBN": "1-56076-570-4",
+    "BookAuthor": "Douglas Niles, Jeff Grubb, Tracy & Laura Hickman",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "DLC Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9394 - DLC2 - Dragonlance Classics, Volume II.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DLC3 - Dragonlance Classics, Volume III",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9453",
+    "BookISBN": "1-56076-885-1",
+    "BookAuthor": "Jeff Grubb, Tracy Hickman & Douglas Niles",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonlance",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "DLC Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9453 - DLC3 - Dragonlance Classics, Volume III.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]
