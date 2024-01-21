@@ -748,8 +748,8 @@
     "BookFormat": "Hardback",
     "BookSeries": "Rulebooks",
     "BookPDF": [
-      "D:\\Master Vault\\ADnD\\Rulebooks\\TSR2011 - Dungeon Master Guide.pdf",
       "D:\\Master Vault\\ADnD\\Rulebooks\\TSR2011 - Dungeon Master Guide (Efreet Cover).pdf",
+      "D:\\Master Vault\\ADnD\\Rulebooks\\TSR2011 - Dungeon Master Guide.pdf",      
       "D:\\Master Vault\\ADnD\\Rulebooks\\TSR2011 - Dungeon Master Guide (Premium Edition).pdf"
     ],
     "BookCharacterLevel": "",
@@ -1269,6 +1269,594 @@
         {"page": 152, "title": "Chapter Eight - Siege Warfare"},
         {"page": 178, "title": "Chapter Nine - Monsters"},
         {"page": 189, "title": "Index"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Manual of the Planes",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2022",
+    "BookISBN": "0-88038-399-2",
+    "BookAuthor": "Jeff Grubb",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Other 1st Edition Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2022 - Manual of the Planes.pdf"
+    ],
+    "BookDescription": [
+      "\"...from Arcadia to Pandemonium, from the plane of elemental Fire to the Astral plane, vast new worlds of adventure are now open to players.\"",
+      "A vital source book for players and DMs of all levels of experience, the Manual of the Planes details the manifold worlds of the known planes of existence. This book describes the inhabitants, rulers, and environments of these worlds, as well as rules for movement, survival, combat, and spell use in these alien surroundings. A different style of AD&D adventures awaits!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 5, "title": "An Introduction to the Planes"},
+        {"page": 8, "title": "Spell Summary"},
+        {"page": 11, "title": "The Ethereal Plane"},
+        {"page": 22, "title": "The Inner Planes"},
+        {"page": 31, "title": "The Plane of Elemental Air"},
+        {"page": 36, "title": "The Plane of Elemental Fire"},
+        {"page": 41, "title": "The Plane of Elemental Earth"},
+        {"page": 46, "title": "The Plane of Elemental Water"},
+        {"page": 51, "title": "The Para-Elemental Planes"},
+        {"page": 54, "title": "The Energy Planes"},
+        {"page": 55, "title": "The Quasi-Elemental Planes"},
+        {"page": 55, "title": "The Positive Quasi-Planes"},
+        {"page": 57, "title": "The Negative Quasi-Planes"},
+        {"page": 60, "title": "The Astral Plane"},
+        {"page": 73, "title": "The Outer Planes"},
+        {"page": 117, "title": "Appendix I - The Prime Material Planes"},
+        {"page": 120, "title": "Appendix II - Creatures of the Inner Planes"},
+        {"page": 122, "title": "Appendix III - Creatures of the Outer Planes"},
+        {"page": 124, "title": "Appendix IV - Abilities of the Powers"},
+        {"page": 127, "title": "Indices"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Wilderness Survival Guide",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2020",
+    "BookISBN": "0-88038-291.0",
+    "BookAuthor": "Kim Mohan",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Other 1st Edition Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2020 - Wilderness Survival Guide.pdf"
+    ],
+    "BookDescription": [
+      "This book, for new players and Dungeon Masters as well as more experienced campaigners, presents rules for adventuring in the outdoors. Opportunities and challenges await characters brave enough and hardy enough to take on the biggest \"monster\" of all - the wilderness!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Dungeoneer's Survival Guide",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2019",
+    "BookISBN": "0-88038-272-4",
+    "BookAuthor": "Douglas Niles",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Other 1st Edition Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2019 - Dungeoneer's Survival Guide.pdf"
+    ],
+    "BookDescription": [
+      "For beginners, advanced players, and DMs alike, this book opens up grand new vistas in the realms of the Underdark, that little-known region of dungeons and caverns far beneath the sunlit world of everyday existence. The worlds of subterranean adventure await!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 6, "title": "Dungeoneer's Survival Guide: What is it"},
+        {"page": 7, "title": "Overview of the Underdark"},
+        {"page": 12, "title": "Movement Rules for Underground Play"},
+        {"page": 23, "title": "Proficiencies"},
+        {"page": 36, "title": "The Underground Environment"},
+        {"page": 56, "title": "New Equipment"},
+        {"page": 59, "title": "Improving Play"},
+        {"page": 64, "title": "Dungeon Master's Table of Contents"},
+        {"page": 121, "title": "Compiled Tables"},
+        {"page": 128, "title": "Index"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Oriental Adventures",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2018",
+    "BookISBN": "0-88038-099-3",
+    "BookAuthor": "Gary Gygax, David Cook, Francois Marcela-Froideval",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Other 1st Edition Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2018 - Oriental Adventures.pdf"
+    ],
+    "BookDescription": [
+      "Dungeon Masters and players: prepare yourselves to enter a whole new world-the world of Oriental Adventures!",
+      "The material in this book will enable you to play the AD&D game as you've never played it before. In the lands of Oriental Adventures, characters are not judged solely on their prowess with sword and spell. Oriental characters' social skills and personal honour are just as important as their combat abilities. When was the last time politeness and proper manners really mattered in your campaign? How can characters associate with nobility if they know nothing of courts or court etiquette? How many AD&D characters worry about how their actions reflect upon their families and comrades? These and many other intricacies of social interactions and responsibilities are brought to light in this volume. Don't get the idea that Oriental Adventures characters don't fight. Pages and pages of Oriental weapons and armour are described and illustrated here. From the favoured weapons of the ninja to thin pieces of cloth that actually stop arrows, the arms and defenses of the Orient are yours in the lands of Kara-Tur. Have a favourite monster from Japanese films? Find it under Gargantua in the Monsters section! Want to learn a martial arts style or create a new style? You can do it in the new worlds opened up to you in Oriental Adventures!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Unearthed Arcana",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2017",
+    "BookISBN": "0-88038-084-5",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1985 - 2013",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Other 1st Edition Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2017 - Unearthed Arcana.pdf",
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2017 - Unearthed Arcana (Premium Edition).pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Monster Manual II",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2016",
+    "BookISBN": "0-88038-031-4",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Other 1st Edition Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2016 - Monster Manual II.pdf"
+    ],
+    "BookDescription": [
+      "An alphabetical listing of monsters found in ADVANCED DUNGEONS & DRAGONS adventures, including attacks, damage, special abilities, descriptions, and random encounter tables. A must for the serious AD&D game player. This manual contains all the new members, from Abishai to Zygom, including new creatures like the Deadly Pudding, Devas, and Valley Elves. And you'll also have the advantage of the expanded lists of lycanthropes, giants, and other beasts."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 4, "title": "Preface"},
+        {"page": 4, "title": "Acknowledgements"},
+        {"page": 5, "title": "How to use this Book"},
+        {"page": 8, "title": "Monsters from A - Z"},
+        {"page": 133, "title": "Random Encounter Tables"},
+        {"page": 156, "title": "Index"}
+        ]    
+    }
+  },
+  {
+    "BookName": "Legends & Lore",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2013",
+    "BookISBN": "0-935696-22-9",
+    "BookAuthor": "James M. Ward, Robert J. Kuntz",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Other 1st Edition Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2013 - Legends & Lore.pdf"
+    ],
+    "BookDescription": [
+      "\"Here are the legends and lore needed to recreate the heroic quests in the ADVANCED DUNGEONS & DRAGONS world of fantasy\" Now you can add the grandeur of epic quests to your game. This book provides the Dungeon Master with details of heroes, gods, and monsters from myth, fiction, and legend for use in creating an AD&D fantasy world."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Deities & Demigods",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2013",
+    "BookISBN": "0-935696-22-9",
+    "BookAuthor": "James M. Ward, Robert J. Kuntz",
+    "BookPublished": "1980 - 1981",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Other 1st Edition Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2013 - Deities & Demigods.pdf",
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2013 - Deities & Demigods (2nd Print).pdf"
+    ],
+    "BookDescription": [
+      "Provides the Dungeon Master with Gods, Heroes and monsters from myth, fiction and legends for use in rounding out and Advanced D&D campaign. Within this book are seventeen pantheons of divinities, each profusely illustrated. Also included are new material on Clerics' conduct and their relationships with their deities, information on character mortality and immortality, and more!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Fiend Folio",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2012",
+    "BookISBN": "0-935696-21-0",
+    "BookAuthor": "Don Turnbull",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Other 1st Edition Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2012 - Fiend Folio.pdf"
+    ],
+    "BookDescription": [
+      "A Guidebook of Creatures Malevolent and Benign",
+      "This tome contains alphabetical listings of monsters designed for use with the Advanced Dungeons & Dragons game system. Each creature is describes and most are illustrated for easy identification. Using the new encounter tables contained herein, this work is sure to add new excitement to any AD&D game."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Legends & Lore",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2108",
+    "BookISBN": "0-88038-844-7",
+    "BookAuthor": "James M. Ward, Troy Denning",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Other 2nd Edition Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2108 - Legends & Lore.pdf"
+    ],
+    "BookDescription": [
+      "Add the grandeur of epic adventure to your AD&D game!",
+      "Legends & Lore has now been revised for use with the AD&D 2nd Edition rules and expanded to 192 pages. It describes dozens of deities, heroes, and monsters from 11 different cultures. Special attention has been paid to the priests who worship the deities represented in this book. Each entry outlines the spells and powers granted to followers of a specific faith. In addition, you'll learn about the cultures that worship the deities within and be provided with new spells, magic items, and character classes.",
+      "The revised Legends & Lore is a vital reference work for every serious AD&D player!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Book of Artifacts",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2138",
+    "BookISBN": "1-56076-672-7",
+    "BookAuthor": "David \"Zeb\" Cook",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Other 2nd Edition Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2138 - Book of Artifacts.pdf"
+    ],
+    "BookDescription": [
+      "Incredible magic for all campaigns! The Book of Artifacts will help every adventure reach new plateaus of mystery, danger, and epic excitement. Within these pages is the most complete collection of legendary and obscure artifacts ever assembled for the AD&D 2nd Edition game. Each enigmatic token or powerful relic has a detailed history, special powers that truly fit the theme of the item, and even tips on how to introduce - or remove - the artifact from a campaign.",
+      "New and valuable information is also included for characters who want to create magical items or recharge existing ones. Making that special magical sword or finding ingredients for that powerful potion can be the basis for whole adventures! Whether the characters find the Machine of Lum the Mad or the Jacinth of Inestimable Beauty, the Book of Artifacts packs enough adventure between its covers to be an invaluable addition to every AD&D game!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Tome of Magic",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2121",
+    "BookISBN": "1-56076-107-5",
+    "BookAuthor": "Cook, Findley, Herring, Kubasik, Sargent, Swan",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Other 2nd Edition Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Hardbacks\\TSR2121 - Tome of Magic.pdf"
+    ],
+    "BookDescription": [
+      "Take your spellcasters to limits they have never reached before! With over 200 new spells and magical items, Tome of Magic stretches the horizons of every wizard and priest in the AD&D 2nd Edition game.",
+      "In these pages are new forms of wizard magic including elementalists, metamagic, and wild magic, plus expansions of existing schools. For priests, whole new spheres have been discovered - chaos, law, numbers, thought, time, war, and wards - and powerful new quest spells lie waiting to be tapped.",
+      "All characters will experience the thrill of discovering new magical items such as the claw of magic stealing, dimensional mine, crystal parrot, ring of randomness, and staff of the elements. Tome of Magic is an invaluable expansion for all the spellcasting classes!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Monstrous Manual",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2140",
+    "BookISBN": "1-56076-619-0",
+    "BookAuthor": "",
+    "BookPublished": "1993 - 2013",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Rulebooks\\TSR2140 - Monstrous Manual.pdf",
+      "D:\\Master Vault\\ADnD\\Rulebooks\\TSR2140 - Monstrous Manual Revised (Premium Edition).pdf"
+    ],
+    "BookDescription": [
+      "Need a monster? Look inside, where more than 300 new pieces of full colour art show what the monsters really look like!",
+      "This book contains more than 600 monsters including all the creatures from the MONSTROUS COMPENDIUM Volumes 1 and 2! In addition, there are monsters from the other MONSTROUS COMPENDIUM Volumes, and some creatures never seen in the second edition AD&D Game before."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Dungeon Master Guide",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2160",
+    "BookISBN": "0-7869-0328-7",
+    "BookAuthor": "David “Zeb” Cook",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Rulebooks\\TSR2160 - Dungeon Master Guide, Revised.pdf",
+      "D:\\Master Vault\\ADnD\\Rulebooks\\TSR2160 - Dungeon Master Guide Revised  (Premium Edition).pdf"
+    ],
+    "BookDescription": [
+      "Here is the essential manual for the AD&D game Dungeon Master. All the information you need to create and run thrilling, swords-and-sorcery adventures is clearly laid out in the DUNGEON MASTER Guide. Learn all there is to know about magical spells, hundreds of magical devices and treasures, battles, travel, experience awards, and more. This fresh, new format is your guidebook to the challenging world of the AD&D Dungeon Master!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Player's Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2159",
+    "BookISBN": "0-7869-0329-5",
+    "BookAuthor": "David \"Zeb\" Cook",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Rulebooks\\TSR2159 - Player's Handbook, Revised.pdf",
+      "D:\\Master Vault\\ADnD\\Rulebooks\\TSR2159 - Player's Handbook Revised (Premium Edition).pdf"
+    ],
+    "BookDescription": [
+      "Here is the indispensable encyclopaedia of fantasy role-playing. Everything the player needs is here: how to create a mighty hero or crafty wizard; unique aspects of the elves, dwarves, halflings, and other fantasy races; all the weapons, armour, magical spells, and rules for thrilling battles against supernatural monsters. This fresh, new format for the Player's Handbook is your complete and illustrated guide to the world of heroic adventure!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Player's Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2101",
+    "BookISBN": "",
+    "BookAuthor": "David \"Zeb\" Cook",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Rulebooks\\TSR2101 - Player's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "Here is the indispensable encyclopaedia of fantasy role-playing. Everything the player needs is here: how to create a mighty hero or crafty wizard; unique aspects of the elves, dwarves, halflings, and other fantasy races; all the weapons, armour, magical spells, and rules for thrilling battles against supernatural monsters. This fresh, new format for the Player's Handbook is your complete and illustrated guide to the world of heroic adventure!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Dungeon Master Guide",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2100",
+    "BookISBN": "0-7869-0328-7",
+    "BookAuthor": "David “Zeb” Cook",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Rulebooks\\TSR2100 - Dungeon Master Guide.pdf"
+    ],
+    "BookDescription": [
+      "Here is the essential manual for the AD&D game Dungeon Master. All the information you need to create and run thrilling, swords-and-sorcery adventures is clearly laid out in the DUNGEON MASTER Guide. Learn all there is to know about magical spells, hundreds of magical devices and treasures, battles, travel, experience awards, and more. This fresh, new format is your guidebook to the challenging world of the AD&D Dungeon Master!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
         ]    
     }
   }

@@ -101,7 +101,7 @@ Public Class Form1
         Dim rootNode As New TreeNode(Path.GetFileName(rootFolderPath))
         TreeView1.Nodes.Add(rootNode)
         PopulateTreeView(rootNode, rootFolderPath)
-        TreeView1.ExpandAll()
+        rootNode.Expand()
     End Sub
 
     Private Sub PopulateTreeView(parentNode As TreeNode, folderPath As String)

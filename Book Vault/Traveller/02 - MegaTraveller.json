@@ -109,5 +109,37 @@
         {"page": 48, "title": "Index"}
         ]    
     }
-  }  
+  },
+  {
+    "BookName": "Player's Manual",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW0211",
+    "BookISBN": "0-943580-38-2",
+    "BookAuthor": "",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0211 - Player's Manual.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]

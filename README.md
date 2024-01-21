@@ -4,11 +4,6 @@
 - - Against the Darkmaster - Core Rules
 ## Chaosium
 - CHA2036 - Basic Roleplaying - Universal Game Engine
-## Free League Publishing
-- FLFALE017 - Building Better Worlds
-- FLFFBL014 - Crypt of the Mellified Mage
-- MUH051557 - The Spire of Quetzel
-- FLFTOR012 - Tales from the Lone Lands
 ## Iron Crown Enterprises
 - ICE2210 - Middle-Earth Adventure Guidebook II
 - ICE2300 - Angmar - Land of the Witch King
@@ -32,9 +27,16 @@
 - MCG083 - Into the Outside
 - MCG082 - Into the Deep
 - MCG071 - Into the Night
+## Free League Publishing
+- FLFTOR012 - Tales from the Lone Lands
+- FLFALE017 - Building Better Worlds
+- FLFFBL014 - Crypt of the Mellified Mage
+- MUH051557 - The Spire of Quetzel
 ## Pacesetter Games & Simulations
 - 9001 - BX RPG Dungeon Guide
 - 9002 - BX RPG Player's Guide
+## Game Designers Workshop
+- GDW252 - Tarsus
 ## Digest Group Publications
 - - Manhunt
 ## Mongoose Publishing
@@ -93,12 +95,11 @@
 - TSR9590 - Kidnapped
 - TSR9389 - FRM1 - The Jungles of Chult
 # PDF's Books to Source
-## R Talsorian Games
-- CR3001 - Cyberpunk RED
-- CR3000 - Cyberpunk RED Jumpstart Kit
-## Free League Publishing
-- FLFALE017 - Building Better Worlds
-- FLFTOR012 - Tales from the Lone Lands
+## Monte Cook Games
+- MCG361 - The Glimmering Valley
+## Paizo
+- PZO12001 - Pathfinder - Player Core
+- PZO12002 - Pathfinder - GM Core
 ## Iron Crown Enterprises
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Rolemaster Unified - Spell Law
@@ -109,17 +110,26 @@
 - GCP-SMP-4514 - Blaster Law
 - GCP-SMP-4515 - Future Law
 - GCP-SMP-4600 - Races & Cultures
-## Monte Cook Games
-- MCG361 - The Glimmering Valley
+## Free League Publishing
+- FLFTOR012 - Tales from the Lone Lands
+- FLFALE017 - Building Better Worlds
+## Sine Nomine Publishing
+- - Cities Without Number
+- - Stars Without Number Revised Edition
+- - Worlds Without Number
+## EN Publishing
+- ENP0101 - N.E.W. - Science Fiction Roleplaying Game
+- ENP0201 - O.L.D - Fantasy Heroic Role-Playing
+- ENP0301 - N.O.W. - The Modern Action RPG
+## R Talsorian Games
+- CR3001 - Cyberpunk RED
+- CR3000 - Cyberpunk RED Jumpstart Kit
 ## BRW Games
 - - Swords of Wuxia
 - - Book of Lost Beasts
 - - Book of Lost Lore
 - - Book of Lost Tables
 - - Swords of Cthulhu
-## Paizo
-- PZO12001 - Pathfinder - Player Core
-- PZO12002 - Pathfinder - GM Core
 ## Digest Group Publications
 - - Manhunt
 ## Mongoose Publishing
@@ -147,14 +157,6 @@
 - MGP40097 - The Marches Adventures 1-5
 - MGP40106 - Traveller Referee's Screen Update 2024
 - MGP40102 - Rim Expeditions
-## Sine Nomine Publishing
-- - Cities Without Number
-- - Stars Without Number Revised Edition
-- - Worlds Without Number
-## EN Publishing
-- ENP0101 - N.E.W. - Science Fiction Roleplaying Game
-- ENP0201 - O.L.D - Fantasy Heroic Role-Playing
-- ENP0301 - N.O.W. - The Modern Action RPG
 ## TSR
 - TSR9044 - B3 - Palace of the Silver Princess
 - TSR9049 - B4 - The Lost City
@@ -182,6 +184,17 @@
 - TSR2124 - PHBR6 - The Complete Book of Dwarves
 - TSR2127 - PHBR7 - The Complete Bard's Handbook
 - TSR2154 - Player's Option - Skills & Powers
+- TSR2022 - Manual of the Planes
+- TSR2020 - Wilderness Survival Guide
+- TSR2017 - Unearthed Arcana
+- TSR2016 - Monster Manual II
+- TSR2013 - Deities & Demigods
+- TSR2012 - Fiend Folio
+- TSR2108 - Legends & Lore
+- TSR2138 - Book of Artifacts
+- TSR2121 - Tome of Magic
+- TSR2160 - Dungeon Master Guide
+- TSR2159 - Player's Handbook
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
@@ -196,6 +209,9 @@
 - TSR9275 - DLA1 - Dragon Dawn
 - TSR9285 - DLA2 - Dragon Knight
 - TSR9294 - DLA3 - Dragon's Rest
+- TSR9291 - DLC1 - Dragonlance Classics, Volume I
+- TSR9394 - DLC2 - Dragonlance Classics, Volume II
+- TSR9453 - DLC3 - Dragonlance Classics, Volume III
 - TSR11405 - The Wyrmskull Throne
 - TSR11393 - Sea of Fallen Stars
 - TSR11316 - FOR12 - Demihumans of the Realms
