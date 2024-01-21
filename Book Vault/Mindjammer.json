@@ -1,0 +1,75 @@
+[
+  {
+    "BookName": "Mindjammer the Roleplaying Game",
+    "BookPublisher": "Mindjammer Press",
+    "BookCode": "MJPG2201",
+    "BookISBN": "978-0-9574779-3-3",
+    "BookAuthor": "Sarah Newton",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Fate",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mindjammer",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Mindjammer\\MUH042201 - Mindjammer the Roleplaying Game.pdf"
+    ],
+    "BookDescription": [
+      "Grab your blaster, thoughtcast your orders to the starship sentience, and fire up the planing engines — come and defend the light of humanity’s greatest civilisation as it spreads to the stars!",
+      "The ENnie Award-winning transhuman science-fiction RPG setting returns, in a new edition updated and massively expanded for the Fate Core rules. Mindjammer is an action-packed tabletop roleplaying game about heroic adventurers in the galaxy of the far future, filled with virtual realities, sentient starships, realistic aliens, and mysterious worlds. Using the popular and award-winning Fate Core rules, Mindjammer lets you play hardened mercs, cunning traders, steely-nerved pilots, intrigue-filled spies and culture agents, aliens, divergent hominids, artificial life forms, and even sentient starships.",
+      "500 pages containing all the rules needed to play, including:",
+      "Full rules for starships, organisations, and culture operations",
+      "Detailed character cultures, genotypes, and occupations — play a sentient starship!",
+      "New and innovative rules for describing planets, star systems, and alien life",
+      "Deep background material on the New Commonality of Humankind",
+      "Rules for the Mindscape and virtual worlds",
+      "Starmaps and planet descriptions, histories and background",
+      "Hyper-advanced equipment, weaponry, enhancements, starships, and more."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": " Hearts And Minds",
+  "BookPublisher": "Mindjammer Press",
+  "BookCode": "MJPG2202",
+  "BookISBN": "978-0-9574779-8-8",
+  "BookAuthor": "Sarah Newton",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Fate",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Mindjammer",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Mindjammer\\MUH042202 - Hearts And Minds.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]
