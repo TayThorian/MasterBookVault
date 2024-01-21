@@ -33,6 +33,38 @@
     }
   },
   {
+    "BookName": "Moria - Through the Doors of Durin",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Gareth Hanrahan",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "On Order",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Campaign Module",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
     "BookName": "Ruins of the Lost Realm",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFTOR005",
