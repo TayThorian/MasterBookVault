@@ -27,9 +27,6 @@
 - FLFALE017 - Building Better Worlds
 - FLFFBL014 - Crypt of the Mellified Mage
 - MUH051557 - The Spire of Quetzel
-## Pacesetter Games & Simulations
-- 9001 - BX RPG Dungeon Guide
-- 9002 - BX RPG Player's Guide
 ## Game Designers Workshop
 - GDW252 - Tarsus
 ## Digest Group Publications
@@ -98,13 +95,14 @@
 ## Iron Crown Enterprises
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Rolemaster Unified - Spell Law
-- GCP-SMP-4500 - Spacemaster Privateers
+- GCP-SMP-4500 - Space Master Privateers
 - GCP-SMP-4511 - Robotics Manual
 - GCP-SMP-4512 - Equipment Manual
 - GCP-SMP-4513 - Vehicle Manual
 - GCP-SMP-4514 - Blaster Law
 - GCP-SMP-4515 - Future Law
 - GCP-SMP-4600 - Races & Cultures
+- ICE9000 - Space Master - Boxed Set
 ## Free League Publishing
 - FLFTOR012 - Tales from the Lone Lands
 - FLFALE017 - Building Better Worlds

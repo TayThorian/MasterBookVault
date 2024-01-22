@@ -1,6 +1,6 @@
 [
     {
-    "BookName": "Spacemaster Privateers",
+    "BookName": "Space Master Privateers",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "GCP-SMP-4500",
     "BookISBN": "1-55806-562-8",
@@ -482,7 +482,7 @@
     }
   },
   {
-    "BookName": "Spacemaster Companion",
+    "BookName": "Space Master Companion",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9500",
     "BookISBN": "0-915795-33-7",
@@ -546,7 +546,7 @@
     }
   },
   {
-    "BookName": "Spacemaster",
+    "BookName": "Space Master",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9000",
     "BookISBN": "",
@@ -565,6 +565,523 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Space Master - Boxed Set",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9000",
+    "BookISBN": "1-55806-008-1",
+    "BookAuthor": "",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9000 - Space Master Boxed Set - GM Book.pdf",
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9000 - Space Master Boxed Set - Player Book.pdf",
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9000 - Space Master Boxed Set - Tech Book.pdf"
+    ],
+    "BookDescription": [
+      "The Space Master System is useable in a variety of SF environments, from a black near future of post-holocaust Earth, to a culture of high-tech exploration, to a distant time where civilization has fallen to superstitious ruin.",
+      "Choose from 17 professions, including Armsman, Planetologists, Telepaths, Starship Pilots, or Engineering Specialists. There are dozens of sub-professions, yet all are flexible, eliminating artificial restrictions. Over 120 skills and a rich selection of background options allow each character to be a complex, multi-talented individual. The sophisticated rules are set out in a lucid, understandable format.",
+      "Space Master: The Role Playing GameTM is completely compatible with all Space Master Modules, and is the first part of a Science Fiction Gaming Trilogy. Space Master: Star Strike TM (Fall 1988), a fast-paced game of interplanetary ship combat, puts you in the gunner’s chair as you face enemy starships. Space Master: Armored AssaultTM (Winter 1988-89), moves the combat planetside, where Hovertanks, Powered Armor, and Aircraft vie for supremacy. Space Master can also be integrated with Rolemaster; used together they set the stage for sweeping, coherent, science-fantasy campaigns."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Star Strike",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9010",
+    "BookISBN": "1-55806-051-0",
+    "BookAuthor": "Kevin Barrett",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Combat Game",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Combat Games",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9010 - Star Strike.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Vessel Compendium 1 - Adventurer",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9011",
+    "BookISBN": "1-55806-057-X",
+    "BookAuthor": "Tony van Liew",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9011 - Vessel Compendium 1 Adventurer.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Vessel Compendium 2 - Pursuit Class",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9012",
+    "BookISBN": "1-55806-059-6",
+    "BookAuthor": "Tony van Liew",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9012 - Vessel Compendium 2 Pursuit Class.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Vessel Compendium 3 - Imperial Ships",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9013",
+    "BookISBN": "1-55806-037-5",
+    "BookAuthor": "Tony van Liew",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9013 - Vessel Compendium 3 Imperial Ships.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Armored Assault",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9020",
+    "BookISBN": "1-55806-060-X",
+    "BookAuthor": "Kevin Barrett",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Combat Game",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Combat Games",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9020 - Armored Assault.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Armored Reserves",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9021",
+    "BookISBN": "1-55806-106-1",
+    "BookAuthor": "Kevin Barrett, Tony van Liew",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9021 - Armored Reserves.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Space Master Rulebook",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9050",
+    "BookISBN": "1-55806-172-X",
+    "BookAuthor": "",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Rulebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9050 - SpaceMaster.pdf",
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9050 - SpaceMaster - Charts & Tables.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Tales from Deep Space",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9103",
+    "BookISBN": "1-55806-006-5",
+    "BookAuthor": "Tod Foley",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9103 - Tales from Deep Space.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "War on a Distant Moon",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9104",
+    "BookISBN": "1-55806-020-0",
+    "BookAuthor": "Tod Foley",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9104 - War on a Distant Moon.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "The Durandrium Find, Salvation for House Augustus-Hayes",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9105",
+    "BookISBN": "1-55806-021-9",
+    "BookAuthor": "Leo LaDell",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9105 - The Durandrium Find.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Legacy of the Ancients, Survivors of a Forgotten Colony Ship",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9106",
+    "BookISBN": "1-55806-035-9",
+    "BookAuthor": "Leo LaDell",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9106 - Legacy of the Ancients.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Disaster on Adanis III, Rescue on a Contested World",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9107",
+    "BookISBN": "1-55806-039-1",
+    "BookAuthor": "John Crowdis",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9107 - Disaster on Adanis III.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "League of Merchants, Lords of the Imperial Underworld",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9700",
+    "BookISBN": "1-55806-011-1",
+    "BookAuthor": "Terry Kevin Amthor",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9700 - League of Merchants.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Raiders from the Frontier",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9800",
+    "BookISBN": "1-55806-026-X",
+    "BookAuthor": "Alexander Brooke Lindsay III",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9800 - Raiders from the Frontier.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Combat Screen",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9001",
+    "BookISBN": "1-55806-009-X",
+    "BookAuthor": "",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Play Aid",
+    "BookFormat": "Softcover",
+    "BookSeries": "Play Aids",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9001 - Spacemaster Combat Screen & Tables.pdf"
     ],
     "BookDescription": [
       "No description available."
