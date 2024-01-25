@@ -1197,6 +1197,273 @@
     }
   },
   {
+    "BookName": "PHBR8 - The Complete Book of Elves",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2131",
+    "BookISBN": "1-56076-376-0",
+    "BookAuthor": "Colin McComb",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2131 - PHBR8 - The Complete Book of Elves.pdf"
+    ],
+    "BookDescription": [
+      "<b>The glorious world of elvenkind shines from these pages!</b>",
+      "Detailed in this tome are their societies, rituals, and myths - and their physiology and psychology. Descriptions of every kind of elf abound. Rounding out this information are 11 new kits; new optional rules and suggestions for running elven campaigns; and special elven equipment, spells, and magical items.",
+      "Forget what you thought you knew about elves - The Complete Book of Elves sheds new light on this mysterious race!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PHBR9 - The Complete Book of Gnomes & Halflings",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2134",
+    "BookISBN": "1-56076-573-9",
+    "BookAuthor": "Douglas Niles",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2134 - PHBR9 - The Complete Book of Gnomes & Halflings.pdf"
+    ],
+    "BookDescription": [
+      "Clever illusionists and sly practical jokers. Brilliant burglars and easygoing farmers.",
+      "Now The Complete Book of Gnomes and Halflings reveals the secrets of these two popular races - their culture, beliefs, and subraces (including two new subraces), as well as 28 new character kits, from the gnome Goblinsticker to the halfling Forestwalker.",
+      "If you enjoy playing gnome or halfling characters, or if you're a DM interested in creating an all-gnome or all-halfling campaign, this is the book for you!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PHBR10 - The Complete Book of Humanoids",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2135",
+    "BookISBN": "1-56076-611-5",
+    "BookAuthor": "Bill Slavicsek",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2135 - PHBR10 - The Complete Book of Humanoids.pdf"
+    ],
+    "BookDescription": [
+      "Look out, adventurers, they're here!",
+      "This handbook describes in detail over 20 humanoid races that can be run as player characters - from mischevious pixies to stubborn minotaurs, from the lizardlike saurial to the savage half-ogre - and many more in between. In addition to many new character types, this handbook contains new proficiencies, humanoid kits, unusual equipment, and a few new surprises that will open worlds of adventure within any ongoing campaign.",
+      "Move over, common adventurers, The Complete Book of Humanoids is here!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PHBR11 - The Complete Ranger's Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2136",
+    "BookISBN": "1-56076-634-4",
+    "BookAuthor": "Rick Swan",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2136 - PHBR11 - The Complete Ranger's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "Forest guardian, border runner, bounty hunter, and more - the full potential of the ranger class has never been plumbed. Until now.",
+      "Come learn the inner most secrets of one of the most popular AD&D character classes. Details on every part of the ranger's life, from allied forest brethren to unusual outdoor equipment. With 15 new and exciting character kits, this book is an information-packed accessory for the AD&D Game. A special appendix give the rules for the original AD&D ranger class."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PHBR12 - The Complete Paladin's Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2147",
+    "BookISBN": "1-56076-845-2",
+    "BookAuthor": "Rick Swann",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2147 - PHBR12 - The Complete Paladin's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "In the fight against evil, the paladin stands as Good's supreme, undaunted champion. This 128-page accessory helps you play the noblest warriors of the AD&D game. Create or enhance your paladin with new proficiencies and equipment, new rules for bonded mounts, and paladin kits like the divinate, envoy, ghosthunter, skyrider, and the indomitable wyrmslayer.",
+      "The Complete Paladin's Handbook attends the world's finest heroes as they achieve their lofty ideals."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PHBR13 - The Complete Druid's Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2150",
+    "BookISBN": "1-56076-886-X",
+    "BookAuthor": "David L. Pulver",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2150 - PHBR13 - The Complete Druid's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "Druids love forests, true - but they love the arctic tundra, tropical rain forests, broad savannas, and fungi caverns of the Underdark, too. This 128-page accessory expands the living world of the druid in the AD&D 2nd Edition game, bringing new homes, character kits, personalities, spells, magical items, herbal lore, and a hundred details on druidic society, sacred groves, and high-level aspirations.",
+      "This book has it all - don't leave the woods without it!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PHBR14 - The Complete Barbarian's Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2148",
+    "BookISBN": "0-7869-0090-3",
+    "BookAuthor": "Rick Swan",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2148 - PHBR14 - The Complete Barbarian's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "In savage wastes that would kill a civilized adventurer, the barbarian thrives. Marvel at the barbarian's mystic talismans, rough equipment, and uncanny survival proficiencies. Choose from new character kits like the forest lord, mage killer, dreamwalker, ravager, and the ever-popular brute. Is barbarism the natural state of humankind? The Complete Barbarian's Handbook can help you find out."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PHBR15 - The Complete Ninja's Handbook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2155",
+    "BookISBN": "0-7869-0159-4",
+    "BookAuthor": "Aaron Allston",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Handbook Rules Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2155 - PHBR15 - The Complete Ninja's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "Superhuman feats of skill and daring are the stock in trade of the fearless warriors known as ninja.",
+      "This 128-page accessory gives you all the information you need to role-play exotic ninja, lone wolf operatives, and other character types - new character kits, special rules, and description of the ninja's unique weapons and equipment.",
+      "The Complete Ninja's Handbook brings life to these shadowy figures of myth and legend."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
     "BookName": "Player's Option - Skills & Powers",
     "BookPublisher": "TSR",
     "BookCode": "TSR2154",
@@ -1851,6 +2118,240 @@
     ],
     "BookDescription": [
       "Here is the essential manual for the AD&D game Dungeon Master. All the information you need to create and run thrilling, swords-and-sorcery adventures is clearly laid out in the DUNGEON MASTER Guide. Learn all there is to know about magical spells, hundreds of magical devices and treasures, battles, travel, experience awards, and more. This fresh, new format is your guidebook to the challenging world of the AD&D Dungeon Master!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "HR1 - Vikings Campaign Sourcebook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9322",
+    "BookISBN": "1-56076-128-8",
+    "BookAuthor": "David Zeb Cook",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Softback",
+    "BookSeries": "Historical References",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Historical References\\TSR9322 - HR1 - Vikings Campaign Sourcebook.pdf"
+    ],
+    "BookDescription": [
+      "Now you can take your campaign and player characters into the realms of the Northmen. This is no mere fantasy world - this sourcebook is set in the historical world of Viking legend. Included in this sourcebook are new character classes, new magic, new spells, new monsters, new treasures, and the necessary background information on the life and times of the Vikings. Numerous floorplans and full-colour map of the Viking world give you a complete roleplaying package."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "HR2 - Charlemagne's Paladins Campaign Sourcebook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9323",
+    "BookISBN": "1-56076-393-0",
+    "BookAuthor": "Ken Rolston",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Softback",
+    "BookSeries": "Historical References",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Historical References\\TSR9323 - HR2 - Charlemagne's Paladins Campaign Sourcebook.pdf"
+    ],
+    "BookDescription": [
+      "Charlemagne. Conqueror, statesman, lawmaker, the greatest medieval king of Europe. His reign lasted forty-four years, but his influence was felt for a thousand. From the chaos of the dark ages, he forged a kingdom that rivaled Roman Byzantium in its power and prestige. Join the noblest heroes of the age - mighty Roland, Bradamant the warrior maiden, arch-bishop Turpin, and Malagigi the wizard - on royal quests and wars against the Lombards, Moors, Saxons, and Vikings.",
+      "Find adventure at the dawn of chivalry."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "HR3 - Celts Campaign Sourcebook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9376",
+    "BookISBN": "1-56076-374-4",
+    "BookAuthor": "Graeme Davis",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Softback",
+    "BookSeries": "Historical References",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Historical References\\TSR9376 - HR3 - Celts Campaign Sourcebook.pdf"
+    ],
+    "BookDescription": [
+      "Celts - from those powerful barbarians who ruled Europe for centuries and challenged the might of Rome came the Druids, bards, and even the original legend of King Arthur. They ranged from Scotland to Greece and from Spain to Asia Minor, trading, raiding, and establishing a culture that is still alive today. Join mighty heroes like the legendary Cu Chulainn or the woman-warrior Boudicca in wars against the Romans or the giant Fomorians, compete in feats of skill like chariot-jumping and spear-catching, or wander the half-world of the elflike sidhe.",
+      "The battle frenzy is strong and the call to war rings clear!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "HR4 - A Mighty Fortress Campaign Sourcebook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9370",
+    "BookISBN": "1-56076-372-8",
+    "BookAuthor": "Steve Winter",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Softback",
+    "BookSeries": "Historical References",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Historical References\\TSR9370 - HR4 - A Mighty Fortress Campaign Sourcebook.pdf"
+    ],
+    "BookDescription": [
+      "All for one, and one for all!",
+      "From 1550 to 1650, Europe was torn apart by constant warfare. Social order collapsed under countless religious and civil wars. This was the age of Elizabeth, Francis Drake, Cromwell, Richelieu, D'artagnan, and Captain Blood. Bold mercenaries carved kingdoms out of the chaos; inquisitions and witch hunts raged; brazen pirates plundered the Spanish Main.",
+      "A Mighty Fortress blends the AD&D game with this swashbuckling era. Flourish a rapier, shoulder a musket, and step into the golden age of adventure!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "HR5 - The Glory of Rome Campaign Sourcebook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9425",
+    "BookISBN": "1-76076-673-5",
+    "BookAuthor": "David Pulver",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Softback",
+    "BookSeries": "Historical References",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Historical References\\TSR9425 - HR5 - The Glory of Rome Campaign Sourcebook.pdf"
+    ],
+    "BookDescription": [
+      "\"It is heaven's will that my Rome shall be the capital of the world.\"",
+      "One-thousand years of history are woven around the story of Rome. With this AD&D game supplement, PCs can stand fast before a mass of charging Gauls with Julius Caesar, vie for the emperor's attention in the coliseum, bellow oratory in the senate, or dispense the pax romana to the ends of the earth in the name of the emperor Hadrian.",
+      "The Glory of Rome describes Roman character kits, magic, equipment, culture, and settings for exciting roleplaying in Earth's past, or in a Roman-style realm in any gaming world.",
+      "Experience the grandeur that was Rome!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "HR6 - Age of Heroes Campaign Sourcebook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9408",
+    "BookISBN": "1-56076-814-2",
+    "BookAuthor": "Nicky Rea",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Softback",
+    "BookSeries": "Historical References",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Historical References\\TSR9408 - HR6 - Age of Heroes Campaign Sourcebook.pdf"
+    ],
+    "BookDescription": [
+      "Their names were Achilles, Odysseus, Jason, Heracles, and Alexander. Their deeds pitted them against monsters, men, and the known world. They were Greeks, and theirs was the age of heroes. This supplement, Age of Heroes, transforms this epic time of myth and history into an exciting AD&D setting, with details on spells, magical items, new character kits, maps, pictures of ancient Greek life, and a starting adventure.",
+      "The challenge has gone out - let only the heroes heed the call."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "HR7 - The Crusades Campaign Sourcebook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9469",
+    "BookISBN": "1-56076-858-4",
+    "BookAuthor": "Steve Kurtz",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Softback",
+    "BookSeries": "Historical References",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Historical References\\TSR9469 - HR7 - The Crusades Campaign Sourcebook.pdf"
+    ],
+    "BookDescription": [
+      "Nine hundred years ago, the Dark Ages ended. But a new and terrible age then began, one of great conflicts: brutality and heroism, terror and courage, glorious victory and disastrous defeat. Western Europe turned its eyes eastward toward the Holy Land and moved to take it from the Saracens. But the forces of Islam would have none of this, and under the call of jihad they arose to meet the invaders.",
+      "The Crusades supplement presents the land of Outremer as a powerful AD&D setting, with historical background and maps; new character kits; details on strange magic and fantastic beasts; and adventures. It is a violent and dangerous world, but one of promise and hope as well.",
+      "Only the brave need come."
     ],
     "TableOfContents": {
       "title": "Book",

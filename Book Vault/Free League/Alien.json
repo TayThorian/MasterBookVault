@@ -15,7 +15,7 @@
     "BookSetting": "Alien",
     "BookType": "Campaign Module",
     "BookFormat": "Hardback",
-    "BookSeries": "Campaign Module",
+    "BookSeries": "Campaign Modules",
     "BookPDF": [
       "D:\\Master Vault\\Alien\\FLFALE017 - Building Better Worlds.pdf"
     ],
@@ -32,6 +32,57 @@
       "Expeditions – six thrilling expeditions into uncharted space, playable in any order.",
       "The Endgame – the final showdown with everything at stake.",
       "The Appendix – create your own frontier and colonize it."
-    ]
+    ],
+      "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Colonial Marines Operations Manual",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFALE015",
+    "BookISBN": "978-91-89143-06-7",
+    "BookAuthor": "",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Alien RPG",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Alien",
+    "BookType": "Campaign Module",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Alien\\FLFALE015 - Alien RPG - Colonial Marines Operations Manual.pdf",
+      "D:\\Master Vault\\Alien\\FLFALE015 - Alien RPG - Colonial Marines Operations Manual Art Book.pdf"
+    ],
+    "BookDescription": [
+      "Armor piercing rounds sizzle through raw flesh as plasma beams sear swollen retinas. Acrid smoke chokes down your throat before you realize what’s burning is you. Chemical attacks melt your armour, simmer your eyeballs, and fuse your helmet to your skull, while bioweapons turn your insides out and pulp you into a quivering mound of black jelly.",
+      "Welcome to war on the razor edge of space, marine—where nukes are yesterday’s news, pulse rounds are cheap and a human life is only worth its weight in stock options. It’s a living hell—but none of that’s as bad as the flashes of gnashing metal teeth that terrorize you every time you try to close your eyes—like some monster just split your head open and crawled inside your dreams.",
+      "Sometimes you’ve gotta wonder what the hell it’s all for.",
+      "But no one pays you to ask why, only to follow orders. You’re just a grunt—no offense. So lock and load your pulse rifle, marine—you’ve got a job to do. Protect and serve the citizens and colonies of the Outer Rim—no matter what the cost.",
+      "ALIEN RPG: Colonial Marines Operations Manual is a complete campaign module for the award-winning official ALIEN roleplaying game, giving you all the tools you need to run a full open-world campaign as the iconic Colonial Marines. This 352-page book includes:",
+      "History & Organization – the inside story of the illustrious USCMC.",
+      "Creating Marines – expanded character creation rules for grunts of all kinds.",
+      "Weapons & Vehicles – an extensive chapter with new gear, gloriously illustrated.",
+      "The Frontier War – the framework and backstory for a Colonial Marines campaign.",
+      "Factions on the Frontier – the powers that be and their dark agendas.",
+      "Marine Missions – six thrilling missions for your Marines, playable in any order.",
+      "The Endgame – the showdown against a deadly enemy, finally revealed."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

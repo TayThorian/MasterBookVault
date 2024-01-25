@@ -296,5 +296,167 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "Horror's Heart",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA2359",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Short Campaign",
+    "BookFormat": "",
+    "BookSeries": "Short Campaigns",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\5th Edition\\CHA2359 - Horror's Heart.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "The Bermuda Triangle",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA2372",
+    "BookISBN": "1-56882-122-0",
+    "BookAuthor": "Justin Schmid",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Sourcebook",
+    "BookFormat": "",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\5th Edition\\CHA2372 - The Bermuda Triangle .pdf"
+    ],
+    "BookDescription": [
+      "A 1990s sourcebook centered around the famous mystery of the Devil's Triangle. It acts as a guidebook to the entire Caribbean region, detailing not only Bermuda, Cuba, Jamaica, Haiti, and other nearby islands, but also exploring the mysteries of Rha'thylla, the Sargasso Sea, and more. Guidelines are included for running Caribbean campaigns. The book concludes with \"The Privateer's Diary\", a scenario set in the area."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Beyond the Mountains of Madness",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA2380",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\5th Edition\\CHA2380 - Beyond the Mountains of Madness.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Escape From Innsmouth 2nd Edition Expanded and Revised",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA2371",
+    "BookISBN": "1-56882-115-8",
+    "BookAuthor": "Scott David Aniolowski, Fred Behrendt, Keith Herber, Mark Morrison, Kevin A. Ross, Mike Szymanski",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Background Setting",
+    "BookFormat": "",
+    "BookSeries": "1920's",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\5th Edition\\CHA2371 - Escape From Innsmouth 2nd Edition.pdf"
+    ],
+    "BookDescription": [
+      "A description of the town of Innsmouth, with street-by-street details. Also includes (in later editions) the mammoth adventure, \"The Raid on Innsmouth\", depicting the federal assault on the city."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "The Compact Trail of Tsathogghua",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Background Setting",
+    "BookFormat": "",
+    "BookSeries": "1920's",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\5th Edition\\CHA2362 - The Compact Trail of Tsathogghua.pdf"
+    ],
+    "BookDescription": [
+      "Tsathogghua's curse awaits the unwelcomed investigators of the occult and unknown. What grim secret lurks on the sterile Greenland icecap? What living horror grows beneath the \"Bigfoot\" legend.",
+      "The core of ToT is two scenarios, \"The Trail of Tsathogghua\" and \"The Curse of Tsathogghua\", which are loosely connected. The original editions of ToT also include a third, unconeccted scenario, \"The Haunted House\".",
+      "Each scenario has the potential to take very long time -- in a good way -- to complete. Handouts and red herrings galore."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

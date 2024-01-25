@@ -176,6 +176,14 @@
 - TSR2117 - PHBR5 - The Complete Psionics Handbook
 - TSR2124 - PHBR6 - The Complete Book of Dwarves
 - TSR2127 - PHBR7 - The Complete Bard's Handbook
+- TSR2131 - PHBR8 - The Complete Book of Elves
+- TSR2134 - PHBR9 - The Complete Book of Gnomes & Halflings
+- TSR2135 - PHBR10 - The Complete Book of Humanoids
+- TSR2136 - PHBR11 - The Complete Ranger's Handbook
+- TSR2147 - PHBR12 - The Complete Paladin's Handbook
+- TSR2150 - PHBR13 - The Complete Druid's Handbook
+- TSR2148 - PHBR14 - The Complete Barbarian's Handbook
+- TSR2155 - PHBR15 - The Complete Ninja's Handbook
 - TSR2154 - Player's Option - Skills & Powers
 - TSR2022 - Manual of the Planes
 - TSR2020 - Wilderness Survival Guide
@@ -188,6 +196,13 @@
 - TSR2121 - Tome of Magic
 - TSR2160 - Dungeon Master Guide
 - TSR2159 - Player's Handbook
+- TSR9322 - HR1 - Vikings Campaign Sourcebook
+- TSR9323 - HR2 - Charlemagne's Paladins Campaign Sourcebook
+- TSR9376 - HR3 - Celts Campaign Sourcebook
+- TSR9370 - HR4 - A Mighty Fortress Campaign Sourcebook
+- TSR9425 - HR5 - The Glory of Rome Campaign Sourcebook
+- TSR9408 - HR6 - Age of Heroes Campaign Sourcebook
+- TSR9469 - HR7 - The Crusades Campaign Sourcebook
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
@@ -205,6 +220,29 @@
 - TSR9291 - DLC1 - Dragonlance Classics, Volume I
 - TSR9394 - DLC2 - Dragonlance Classics, Volume II
 - TSR9453 - DLC3 - Dragonlance Classics, Volume III
+- TSR9395 - DLT1 - New Tales The Land Reborn
+- TSR9396 - DLT2 - Dragonlance Book of Lairs
+- TSR9314 - DLS1 - New Beginnings
+- TSR9319 - DLS2 - Treelords
+- TSR9327 - DLS3 - Oak Lords
+- TSR9334 - DLS4 - Wild Elves
+- TSR9243 - DLE1 - In Search of Dragons
+- TSR9244 - DLE2 - Dragon Magic
+- TSR9245 - DLE3 - Dragon Keep
+- TSR9587 - Seeds of Chaos
+- TSR11372 - Chaos Spawn
+- TSR9381 - DLQ1 - Knight's Sword
+- TSR9382 - DLQ2 - Flint's Axe
+- TSR9278 - DLR1 - Otherlands
+- TSR9344 - DLR2 - Taladas The Minotaurs
+- TSR9383 - DLR3 - Unsung Heroes
+- TSR11329 - The Sylvan Veil
+- TSR11396 - Rise of the Titans
+- TSR1074 - Tales of the Lance
+- TSR1086 - Dwarven Kingdoms of Krynn
+- TSR8446 - Leaves From the Inn of the Last Home
+- TSR8372 - The History of Dragonlance
+- TSR8447 - The Art of the Dragonlance Saga
 - TSR11405 - The Wyrmskull Throne
 - TSR11393 - Sea of Fallen Stars
 - TSR11316 - FOR12 - Demihumans of the Realms

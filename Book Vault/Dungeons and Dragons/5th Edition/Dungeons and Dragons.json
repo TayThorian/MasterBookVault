@@ -120,5 +120,38 @@
         {"page": 317, "title": "Character Sheet"}
         ]    
     }
-  } 
+  },
+  {
+    "BookName": "Hoard of the Dragon Queen",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCA96060000",
+    "BookISBN": "978-0-7869-6564-9",
+    "BookAuthor": "Wolfgang Baur, Steve Winter",
+    "BookPublished": "2014",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Tyranny of Dragons",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\5E\\WTCA96060000 - Hoard of the Dragon Queen.pdf"
+    ],
+    "BookDescription": [
+      "Fight the War Against Draconic Oppression in this Adventure for the World's Greatest Roleplaying Game",
+      "In an audacious bid for power the Cult of the Dragon, along with its dragon allies and the Red Wizards of Thay, seek to bring Tiamat from her prison in the Nine Hells to Faerun. To this end, they are sweeping from town to town, laying waste to all those who oppose them and gathering a hoard of riches for their dread queen. The threat of annihilation has become so dire that groups as disparate as the Harpers and Zhentarim are banding together in the fight against the cult. Never before has the need for heroes been so desperate."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]
