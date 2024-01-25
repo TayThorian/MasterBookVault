@@ -1,0 +1,114 @@
+[
+  {
+    "BookName": "Fate Core System",
+    "BookPublisher": "Evil Hate Productions",
+    "BookCode": "EHP0001",
+    "BookISBN": "978-1-61317-029-8",
+    "BookAuthor": "Leonard Balsera",
+    "BookPublished": "203",
+    "BookCover": "",
+    "BookRules": "FATE",
+    "BookEdition": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "FATE",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\FATE\\EHP0001 - Fate Core System.pdf"
+    ],
+    "BookDescription": [
+      "Grab your plasma rifles, spell components, and jetpacks! Name your game; Fate Core is the foundation that can make it happen. Fate Core is a flexible system that can support whatever worlds you dream up.",
+      "Have you always wanted to play a post-apocalyptic spaghetti western with tentacle monsters? Swords and sorcery in space? Wish there was a game based on your favourite series of books, film, or television, but it never happened? Fate Core is your answer.",
+      "Fate Core is a tabletop roleplaying game about proactive, capable people who lead dramatic lives. Create your characters and develop instant group dynamics with our unique phased char gen system. Use those characters as a springboard to storytelling in our GM worldbuilding chapters.",
+      "For the Fate-familiar, take advantage of the new and improved approaches to character actions, aspects, compels, and more. With Fate Core, your story is up to you. But whatever you choose, you can expect a fun storytelling experience full of twists…of fate."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Adversary Toolkit",
+  "BookPublisher": "Evil Hate Productions",
+  "BookCode": "EHP0034",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "FATE",
+  "BookEdition": "",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "FATE",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Toolkits",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\FATE\\EHP0034 - Adversary Toolkit.pdf"
+  ],
+  "BookDescription": [
+    "Calling all adversaries!",
+    "Antagonists. Obstacles. Villains. Impediments. Call them what you will, but a great campaign needs opposition to create stirring conflict. The Fate Adversary Toolkit offers a variety of ideas, mechanics, and hacks to help you make the most out of every obstacle in your game. Explore what an adversary is in Fate terms, and always remember that everything is a character. Inhabit hostile worlds and situations that work against the players. Face down mooks and big bads built to provide high stakes drama and engage everyone at the table. Learn how to use high quality adversaries to drive your stories to completion.",
+    "The Fate Adversary Toolkit is a Fate Core supplement. This Toolkit includes:",
+    "A general approach that gives you the tools to create quality adversaries regardless of setting or genre.",
+    "New categories of adversaries (enemies, obstacles, and constraints), each with their own rules, functions, and samples.",
+    "Ideas on how to use environments to create conflict and make the most of battlefield zones.",
+    "A Rogue’s Gallery, full of sample adversaries separated by genre, with ideas on how to use the characters and settings provided to create plot."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Horror Toolkit",
+  "BookPublisher": "Evil Hate Productions",
+  "BookCode": "EHP0039",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "FATE",
+  "BookEdition": "",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "FATE",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Toolkits",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\FATE\\EHP0039 - Horror Toolkit.pdf"
+  ],
+  "BookDescription": [
+    "<b>Something lurks in the shadows...</b>",
+    "Maybe it’s a masked killer, or a creature from the unknown depths, or a psychotic porcelain doll. Or maybe it’s just a cat, and the threat stands right behind you!",
+    "The Fate Horror Toolkit offers a variety of tools, mechanics, and hacks to help you develop thematic horror in your game. Explore what horror is and how to employ it effectively at your table. Learn how to develop horrific elements in Fate—a game system designed around competent, proactive characters not usually seen in horror. Pick from a variety of mechanics to easily design your own game about the things that go bump in the night.",
+    "The Fate Horror Toolkit is a Fate Core supplement. This Toolkit includes:",
+    "Extensive tools to make scary and effective horror adversaries and running Fate games where doom is inevitable",
+    "Modified and thematic compels designed to help up the suspense and visceral horror elements in your games",
+    "A variety of new aspect types such as legacy and intensity aspects to help develop thematic horror elements and define boundaries",
+    "A campaign framework for running horror stories based on teamwork—particularly good for younger audiences."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]

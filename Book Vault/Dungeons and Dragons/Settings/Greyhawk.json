@@ -23,31 +23,46 @@
     "BookDescription": [
       "Enter this world and discover excitement far beyond your wildest dreams. Greyhawk is the place where adventure begins and ends?.",
       "This book is for experienced roleplayers looking from something exciting and original to use in their fantasy gaming. Its pages are filled with bold new gaming experiences. With this book, you join the ranks of the best role players in the world. Your search for glory and fame awaits the turning of a single page!"
-    ]
-  } ,
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
   {
-    "BookName": "",
-    "BookPublisher": "",
-    "BookCode": "",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookName": "WG7 - Castle Greyhawk",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9222",
+    "BookISBN": "0-88038-530-8",
+    "BookAuthor": "Mike Breault, Jon Pickens",
+    "BookPublished": "1988",
     "BookCover": "",
-    "BookRules": "",
-    "BookEdition": "",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "WG Series Adventure Modules",
     "BookPDF": [
-      "D:\\Master Vault\\"
+      "D:\\Master Vault\\Greyhawk\\TSR9222 - WG7 - Castle Greyhawk.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
-      "No description available."
-    ]
-  } 
+      "Deep beneath the keep of Castle Greyhawk, a really nasty device is creating mutated, unpleasant monsters that are running wild throughout the castle and the twelve-level dungeon beneath. The call has gone out for heroic, fearless, and perhaps foolish adventures to out-hack, out-slash, and sometimes even out-think hordes of doughmen, headless mice, manic bee queens, really bad dead things, burgermen, crazed chefs, and movie moguls. If they survive these and much odder obstacles, the characters still have to find the nasty monster creator and put it out of business.",
+      "Castle Greyhawk contains 13 detailed levels for adventuring and exploration. Each is a separate adventure written by different author and each has its own unique brand of baffling weirdness. Some levels involve solving puzzles and some require good old hacking and slashing. The adventure can be played separately or all together as a grand quest to free Castle Greyhawk from the evil, rotten hordes that are plaguing it. The common theme of this dungeon is that no joke is so old, no pun so bad, and no schtick so obvious that it can't be used to confuse and trip up PCs!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]

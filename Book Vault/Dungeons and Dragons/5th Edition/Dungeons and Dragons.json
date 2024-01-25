@@ -153,5 +153,103 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "The Rise of Tiamat",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCA96070000",
+    "BookISBN": "978-0-7869-6565-6",
+    "BookAuthor": "Steve Winter and Alexander Winter",
+    "BookPublished": "2014",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Tyranny of Dragons",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\5E\\WTCA96070000 - The Rise of Tiamat.pdf"
+    ],
+    "BookDescription": [
+      "Avert the Cataclysmic Return of Tiamat in this Adventure for the World’s Greatest Roleplaying Game. The Cult of the Dragon leads the charge in an unholy crusade to bring Tiamat back to the Realms, and the situation grows more perilous for good people with each passing moment. The battle becomes increasingly political as opportunities to gather allies and gain advantage present themselves. From Waterdeep to the Sea of Moving Ice to Thay, it is a race against Evil. Succeed or succumb to the oppression of draconic tyranny. Win or lose, things will never be the same again."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Princes of the Apocalypse",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCB24360000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\5E\\WTCB24360000 - Princes of the Apocalypse.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Sword Coast Adventurer's Guide",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCB24380000",
+    "BookISBN": "978-0-7869-6580-9",
+    "BookAuthor": "Steve Kenson",
+    "BookPublished": "2016",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Sourcebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Sourcebook",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\5E\\WTCB24380000 - Sword Coast Adventurer's Guide.pdf"
+    ],
+    "BookDescription": [
+      "WELCOME TO THE SWORD COAST",
+      "A region of the Forgotten Realms®, the Sword Coast comprises shining paragons of civilization, perilous locales fraught with evil, and, encompassing them all, a wilderness that offers an explorer both vast opportunity and great danger.",
+      "The Sword Coast Adventurer's Guide™ is a valuable resource for Dungeon Masters and players alike. In addition to describing the peoples and places of the Sword Coast, the book contains a plethora of new character options to intrigue and inspire every adventuring party."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

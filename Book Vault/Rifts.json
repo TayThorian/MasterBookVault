@@ -1099,5 +1099,37 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "Coalition Wars Sourcebook - Secrets of the Coalition States - Heroes of Humanity",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL889",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rifts",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Palladium Books\\Rifts\\PAL889 - Coalition Wars Sourcebook - Secrets of the Coalition States - Heroes of Humanity.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]

@@ -4,6 +4,9 @@
 - - Against the Darkmaster - Core Rules
 ## Chaosium
 - CHA2036 - Basic Roleplaying - Universal Game Engine
+## Evil Hate Productions
+- EHP0034 - Adversary Toolkit
+- EHP0039 - Horror Toolkit
 ## Iron Crown Enterprises
 - ICE2210 - Middle-Earth Adventure Guidebook II
 - ICE2300 - Angmar - Land of the Witch King
@@ -86,7 +89,16 @@
 - TSR11509 - Drizzt Do'Urden's Guide to the Underdark
 - TSR9590 - Kidnapped
 - TSR9389 - FRM1 - The Jungles of Chult
+- TSR8908 - LC1 - Gateway to Raven's Bluff
+- TSR9282 - LC2 - Inside Raven's Bluff, The Living City
+- TSR9315 - LC4 - Port of Raven's Bluff
+## Wizards of the Coast
+- WTC398890000 - Menzoberranzan - City of Intrigue
+- WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
 # PDF's Books to Source
+## Evil Hate Productions
+- EHP0034 - Adversary Toolkit
+- EHP0039 - Horror Toolkit
 ## Monte Cook Games
 - MCG361 - The Glimmering Valley
 ## Paizo
@@ -123,6 +135,8 @@
 - - Book of Lost Lore
 - - Book of Lost Tables
 - - Swords of Cthulhu
+## Dreamscape Design
+- DD0003 - Blueholme - Journeymanne Rules
 ## Digest Group Publications
 - - Manhunt
 ## Mongoose Publishing
@@ -261,4 +275,24 @@
 - TSR9540 - How the Mighty Are Fallen
 - TSR9558 - The Fall of Myth Drannor
 - TSR9392 - FRS1 - The Dalelands
+- TSR8908 - LC1 - Gateway to Raven's Bluff
+- TSR9282 - LC2 - Inside Raven's Bluff, The Living City
+- TSR9316 - LC3 - Night Watch in the Living City
+- TSR9315 - LC4 - Port of Raven's Bluff
+- TSR9575 - The City of Ravens Bluff
+- TSR9484 - The Sword of the Dales
+- TSR9485 - The Secret of Spiderhaunt
+- TSR9488 - The Return of Randal Morn
+- TSR9240 - REF5 - Lords of Darkness
+- TSR2142 - PG2 - Player's Guide to the Forgotten Realms
+- TSR9238 - FRC1 - Ruins of Adventure
+- TSR9239 - FRC2 - Curse of the Azure Bonds
 - TSR2023 - Greyhawk Adventures
+- TSR9222 - WG7 - Castle Greyhawk
+## Wizards of the Coast
+- WTC398890000 - Menzoberranzan - City of Intrigue
+- WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
+- WTC317290000 - Neverwinter Campaign Setting
+- WTC218287200 - Forgotten Realms Campaign Guide
+- WTC218587200 - Forgotten Realms Player's Guide
+- WTC21764740 - FR1 - Scepter Tower of Spellgard

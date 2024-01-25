@@ -1106,5 +1106,637 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "LC1 - Gateway to Raven's Bluff",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR8908",
+    "BookISBN": "1-56076-048-6",
+    "BookAuthor": "Jean Rabe",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Living City Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR8908 - LC1 - Gateway to Raven's Bluff.pdf"
+    ],
+    "BookDescription": [
+      "Gateway to Ravens Bluff, The Living City.",
+      "Enter the gates of Ravens Bluff, The Living City. Nestled in the Forgotten Realms, the city calls to adventurers.",
+      "Inside the gates are many businesses with colorful proprietors, officials and noblemen working to shape the city's future and exciting adventures just waiting to be joined.",
+      "This product, created by RPGA Network members, features several businesses and officials, a complete city adventure, a Ravens Bluff encounter chart, and more. A large, full color map of Ravens Bluff is included.",
+      "Enter the gates of Ravens Bluff, a city that is ever-changing and growing, a city you can be a part of in the Forgotten Realms."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "LC2 - Inside Raven's Bluff, The Living City",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9282",
+    "BookISBN": "",
+    "BookAuthor": "Jean Rabe",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Living City Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9282 - LC2 - Inside Raven's Bluff, The Living City.pdf"
+    ],
+    "BookDescription": [
+      "Continue your tour of the Ravens Bluff campaign setting, the brightest spot on the Dragon Reach. Meet Jack Mooney, proprietor, manager, and ringmaster of the Realms' largest circus. Lucky visitors receive invitations to ourParty on Embassy Row, where intrigue and high society collide. Visit Lord Mayor Charles Oliver O'Kane's study for a quick peek at Elminster's notes on Ravens Bluff and environs. Discover more new businesses, personalities, and officials --including the Vulture, the city's infamous tax collector. All stops on your tour will add adventure to your travels in the Forgotten Realms campaign setting."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "LC3 - Night Watch in the Living City",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9316",
+    "BookISBN": "1-56076-068-0",
+    "BookAuthor": "Walt Baas, Kira Glass",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Living City Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9316 - LC3 - Night Watch in the Living City.pdf"
+    ],
+    "BookDescription": [
+      "Situated where the Fire River flows into the Sea of Fallen Stars, Ravens Bluff is a bustling port and trade center. Residents and frequent visitors to Ravens Bluff often boast that the city is the brightest spot on the Dragon Reach, but even the proudest citizen thinks twice about taking to the streets when the Veil, a thick, cold fog, rolls in.",
+      "The veil turns the city's vigorous docks into a gloomy den where only the brave, the stubborn, or the foolish go abroad. When the veil drops, neophyte adventurers join the Nightwatch, a special police force that sees to it that the fearless citizens who prowl through the Veil restrict themselves to licit business. A successful tour in the Nightwatch means wealth and recognition (those who fail quietly join the uncounted dead).",
+      "This module is specially designed to introduce novice characters to the rigors of adventuring."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "LC4 - Port of Raven's Bluff",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9315",
+    "BookISBN": "1-56076-120-2",
+    "BookAuthor": "Jean Rabe, Skip Williams",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Living City Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9315 - LC4 - Port of Raven's Bluff.pdf"
+    ],
+    "BookDescription": [
+      "Ahoy maties!",
+      "Cast off for adventure with the members of the RPGA Network. Get to know one of the busiest ports of the Sea of Fallen Stars, where adventure awaits on land, at sea, and below the waves. Pirates, honest sailors, smugglers, fishermen, and water creatures rub shoulders with stalwart adventurers bent on exploring the ships in the harbor, businesses on the waterfront, and a few mysteries less audacious locals prefer to ignore.",
+      "This product contains new buildings and personalities for the Forgotten Realms Living City campaign setting, and your own 3-D fold-up ship."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "The City of Ravens Bluff",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9575",
+    "BookISBN": "0-78691-195-6",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Paperback",
+    "BookSeries": "Living City Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9575 - The City of Ravens Bluff.pdf"
+    ],
+    "BookDescription": [
+      "A dozen years in the making, this sourcebook contains everything you need to know about Ravens Bluff, home of the Living City(tm) campaign:",
+      "The movers and shakers of the city are described in detail, from the deans of the Wizards Guild to the prelattes of the Clerical Circle, from the Lady Mayor to the heads of the noble houses.",
+      "The laws of the city are revealed, along with the officials responsible for enforcing them.",
+      "Read the history of the city and discover the secrets of Lost Sarbreen, the dwarven city buried beneath its foundations.",
+      "New monsters and new magics, hidden cults and secret societies, and a description of the entire Vast surrounding the city are all included within these pages.",
+      "As if this were not enough, this sourcebook also includes the most detailed map of the city ever published and an extensive Walking Tour visiting hundreds of locations throughout Ravens Bluff."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Menzoberranzan - City of Intrigue",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC398890000",
+    "BookISBN": "978-0-7869-6036-1",
+    "BookAuthor": "Brian R. James & Eric Menge",
+    "BookPublished": "2012",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplement",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\4th Edition\\WTC398890000 - Menzoberranzan.pdf"
+    ],
+    "BookDescription": [
+      "Menzoberranzan: City of Intrigue provides an in-depth exploration of the greatest drow city in the Dungeons & Dragons game and Forgotten Realms campaign setting.",
+      "It contains all of the information a Dungeon Master needs to run adventures or an entire campaign based in this treacherous city, including descriptions of city locations, drow houses, key organizations, and the precarious political landscape.",
+      "It also gives players the information they need to create characters who are members of drow houses or organizations within Menzoberranzan, as well as explains the benefits and rivalries that come with choosing a particular allegiance."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Ed Greenwood Presents Elminster's Forgotten Realm",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC398880000",
+    "BookISBN": "978-0-7869-6034-7",
+    "BookAuthor": "Matt Sernett, Ari Marmell & Erik Scott de Bie",
+    "BookPublished": "2012",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Sourcebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\4th Edition\\WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realms.pdf"
+    ],
+    "BookDescription": [
+      "The Forgotten Realms is the most successful and widely known Dungeons & Dragons campaign setting ever created, and it owes its existence to creator Ed Greenwood.",
+      "This 160-page book describes the campaign setting as it lives and breathes in the imagination of its creator. Through the alter ego of Elminster, Archmage of Shadowdale, Ed Greenwood presents the Realms as a setting where companies of crazed adventurers are born and have rich lives, and where they get to call the shots. In this book, Ed presents a world where friendships are forged, endless intrigues unfold, and heroes wage war against the monstrous inhabitants of famous dungeons and untamed wildernesses."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Neverwinter Campaign Setting",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC317290000",
+    "BookISBN": "978-0-7869-5814-6",
+    "BookAuthor": "Matt Sernett, Ari Marmell & Erik Scott de Bie",
+    "BookPublished": "2011",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Setting",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\4th Edition\\WTC317290000 - Neverwinter Campaign Setting.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\4th Edition\\WTC317290000 - Neverwinter Campaign Setting - Poster Maps.pdf"
+    ],
+    "BookDescription": [
+      "ADVENTURE IN A REALM OF INTRIGUE",
+      "Left a desolate ruin after a terrible cataclysm, the city of Neverwinter now rises from the ashes to reclaim its title as the Jewel of the North. Yet even as its citizens return and rebuild, hidden forces pursue their own goals and vendettas - any one of which could tear the city apart. If Neverwinter is to survive, it's up to heroes to face down secret cults, sinister necromancers, would-be kings, and the terrible monsters stirring beneath the city.",
+      "This supplement for the DUNGEONS & DRAGONS roleplaying game explores the Neverwinter region, providing details for both players and Dungeon Masters to experience everything the setting has to offer. Players can use this book to enhance their adventurers with exciting options that tie into the setting. They can choose from new character themes, cleric domains and powers, a new type of wizard called the bladesinger, and variants for classic races such as dwarves and elves. For Dungeon Masters, this supplement is a sandbox of adventure and plot options. It gives a Dungeon Master all the tools to build a thrilling campaign that spans the Neverwinter region."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Forgotten Realms Campaign Guide",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC218287200",
+    "BookISBN": "978-0-7869-4924-3",
+    "BookAuthor": "Bruce R. Cordell, Ed Greenwood & Chris Sims",
+    "BookPublished": "2008",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Guide",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Guides",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\4th Edition\\WTC218287200 - Forgotten Realms Campaign Guide.pdf"
+    ],
+    "BookDescription": [
+      "<b>Dark perils and great deeds await!</b>",
+      "Welcome to Faerûn, a land of amazing magic, terrifying monsters, ancient ruins, and hidden wonders. The world has changed since the Spellplague, and from this arcane crucible have emerged shining kingdoms, tyrannical empires, mighty heroes, and monster-infested dungeons. The Forgotten Realms Campaign Guide presents a world of untold adventure, a land of a thousand stories shaped by the deeds of adventurers the likes of which Faerûn has never seen before.",
+      "This product includes everything a Dungeon Master needs to run a D&D campaign in the Forgotten Realms setting, as well as elements that DMs can incorporate into their own D&D campaigns. The book provides background information on the lands of Faerûn, a fully detailed town in which to start a campaign, adventure seeds, new monsters, ready-to-play nonplayer characters, and a full-colour poster map of Faerûn."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Forgotten Realms Player's Guide",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC218587200",
+    "BookISBN": "978-0-7869-4929-8",
+    "BookAuthor": "Rob Heinsoo, Logan Bonner & Robert J. Schwalb",
+    "BookPublished": "2008",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Player's Guide",
+    "BookFormat": "Hardback",
+    "BookSeries": "Player's Guide",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\4th Edition\\WTC218587200 - Forgotten Realms Player's Guide.pdf"
+    ],
+    "BookDescription": [
+      "<b>The complete guide for building Forgotten Realms characters!</b>",
+      "Welcome to Faerûn, a land of amazing magic, terrifying monsters, ancient ruins, and hidden wonders. The world has changed since the Spellplague, and from this arcane crucible have emerged shining kingdoms, tyrannical empires, mighty heroes, and monster-infested dungeons.",
+      "The Forgotten Realms Player’s Guide presents this changed world from the point of view of the adventurers exploring it. This product includes everything a player needs to create his character for a D&D campaign in the Forgotten Realms setting, including new feats, new character powers, new paragon paths and epic destinies, and even a brand-new character class never before seen in D&D: the swordmage!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "FR1 - Scepter Tower of Spellgard",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC21764740",
+    "BookISBN": "978-0-7869-4954-0",
+    "BookAuthor": "David Noonan, Greg A. Vaughan",
+    "BookPublished": "2008",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "Levels 2 - 5",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\4th Edition\\WTC21764740 - FR1 - Scepter Tower of Spellgard.pdf"
+    ],
+    "BookDescription": [
+      "A Forgotten Realms adventure for 2nd-level characters.",
+      "A mysterious presence has taken up residence in one of the towers of Spellgard, and now its dark minions plague the Gray Vale!",
+      "Scepter Tower of Spellgard is the first full-length Forgotten Realms adventure published for 4th Edition D&D. When paired with the adventure that appears in the Forgotten Realms Campaign Guide, this adventure provides the Dungeon Master with all he needs to get his campaign started. This stand-alone adventure is designed to take characters from 2nd level to 5th level."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "The Sword of the Dales",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9484",
+    "BookISBN": "0-7869-0126-8",
+    "BookAuthor": "Jim Butler",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Sword of the Dales Series",
+    "BookCharacterLevel": "Levels 1 - 4",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9484 - The Sword of the Dales.pdf"
+    ],
+    "BookDescription": [
+      "The Sword of the Dales, an icon of the Dalelands symbolizing the unity and strength of the people, has reappeared! Created by Shraevyn the weapons-mage hundreds of years ago, the lost Sword had become nothing more than a fantastic children's tale - until now.",
+      "A group of warriors led by Randal Morn, rightful ruler of Daggerdale, rushed to the Sword's resting place to recover it, but dark forces awaited them, and Randal and his men fell to an ambush. Only one man escaped, yet he brought with him the hope that Randal Morn yet lives. Resolved to rescue his leader, that lone survivor turned to the great Elminster of Shadowdale for aid.",
+      "But Elminster is gone, off plane-hopping while the fate of Daggerdale hangs in the balance. Hence, it is up to Lhaeo, scribe to the old mage, to find a group of heroes who have mettle enough to face down the menace which claimed Randal Morn and his hearty followers...",
+      "This is the first of three adventures that grant player characters the opportunity to determine the fate of Daggerdale. The saga continues with \"The Secret of Spiderhaunt\" and concludes with \"The Return of Randal Morn.\""
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "The Secret of Spiderhaunt",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9485",
+    "BookISBN": "0-7869-0150-0",
+    "BookAuthor": "Jim Butler",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Sword of the Dales Series",
+    "BookCharacterLevel": "Levels 1 - 4",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9485 - The Secret of Spiderhaunt.pdf"
+    ],
+    "BookDescription": [
+      "The infamous Sword of the Dales has always held a certain fascination in the eyes and hearts of the citizens of the Dalelands. Thus, it was no surprise when Randal Morn, rebel leader of Daggerdale, led an expedition into the crypt of a long-dead wizard to recover the weapon.",
+      "Shaevyn the weapons-mage had created the Sword long ago, and it stood to reason that the blade would be waiting within his tomb. Perhaps the Sword of the Dales would allow Randal Morn to rule Daggerdale once again. But Randal Morn never returned from that fated party. Only tales of terror told by a lone survivor held any clues as to Randal's fate. A brave hand of heroes accomplished what Randal Morn's group failed to do in part one of this adventure trilogy, \"The Sword of the Dales.\"",
+      "Battling through the tomb's undead inhabitants, those heroes reached the burial crypt of Shraevyn. There, resting in the center of the coffin, was the Sword of the Dales, its azure glow filling the chamber. However, there was no sign of Randal Morn.",
+      "Only a note signed by his hand held any clue as to his fate. \"Seek me in Spiderhaunt,\" it proclaimed. \"The fate of Daggerdale is in your hands.\"",
+      "This is the second part of a trilogy of modules that began with \"The Sword of the Dales.\" The saga concludes with \"The Return of Randal Morn.\""
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "The Return of Randal Morn",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9488",
+    "BookISBN": "0-78690-170-5",
+    "BookAuthor": "Jim Butler",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Sword of the Dales Series",
+    "BookCharacterLevel": "Levels 1 - 4",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9488 - The Return of Randal Morn.pdf"
+    ],
+    "BookDescription": [
+      "In part one of the Randal Morn Trilogy, \"The Sword of the Dales,\" the legendary leader of Daggerdale, Randal Morn, was captured by unknown assailants as he sought to regain the great weapon for which that adventure was named. A stalwart band of enthusiastic heroes was recruited to ride to his aid, yet all they recovered was the Sword itself and a message: \"Seek me in Spiderhaunt Wood.\" In the second part of the trilogy, \"The Secret of Spiderhaunt,\" those same adventurers found Randal and freed him briefly, yet he was almost as quickly torn from their grasp by an agent of the evil Zhentarim, seeking to end the threat of Randal Morn's return to power.",
+      "In this final episode, the heroes must follow the kidnapper's trail and rescue Randal Morn again before the Zhentarim finish interrogating him and the axe falls upon his neck. Armed with the Sword of the Dales and aided by a powerful spirit that lives within the weapon, the heroes must march into the heart of Zhent-occupied Dagger Falls, free Randal Morn, and save the city from utter destruction. The job is dangerous - perhaps more than the heroes can handle - yet those who would live in songs and legends cannot concern themselves with living to a ripe old age!",
+      "This is the final part of a trilogy of modules that began with \"The Sword of the Dales\" and \"The Secret of Spiderhaunt.\""
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "REF5 - Lords of Darkness",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9240",
+    "BookISBN": "0-88038-622-3",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Reference (REF) Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9240 - REF5 - Lords of Darkness.pdf"
+    ],
+    "BookDescription": [
+      "The Undead. Denied the eternal rest of Death, cursed to wander the many planes and worlds forever, their very existence a mockery of life they constantly crave yet cannot have. Created by the foulest of magics, they have only one thought, on burning goal: revenge against the living. Or do they?",
+      "Lords of Darkness is an anthology of short adventures set in various locations in the Forgotten Realms, though you don't need the Forgotten Realms campaign supplement to use them.",
+      "Some of gaming's best designers have contributed adventures to this collection, which feature undead of all types and descriptions in all sorts of situations-from skeletons to vampires and worse, from graveyards to haunted houses, and even a few places you may never have expected to find the undead.",
+      "These adventures can be used one at a time, inserted into an existing campaign as a change of pace, or they can be a basis for an entirely new campaign. Either way, Lords of Darkness will be sure to give AD&D game players plenty of chills and excitement."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 2, "title": "Introduction"},
+        {"page": 4, "title": "Tales from Beyond the Grave"},
+        {"page": 4, "title": "Skeletons"},
+        {"page": 15, "title": "Ghouls and Ghasts"},
+        {"page": 22, "title": "Wights"},
+        {"page": 29, "title": "Shadows"},
+        {"page": 34, "title": "Mummies"},
+        {"page": 42, "title": "Vampires"},
+        {"page": 51, "title": "Ghosts"},
+        {"page": 59, "title": "Spectres"},
+        {"page": 67, "title": "Lich"},
+        {"page": 76, "title": "The Night Gallery"},
+        {"page": 85, "title": "A Mundane Guide to"},
+        {"page": 92, "title": "The Lords of Darkness"}
+        ]    
+    }
+  },
+  {
+    "BookName": "PG2 - Player's Guide to the Forgotten Realms",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2142",
+    "BookISBN": "1-56076-695-6",
+    "BookAuthor": "",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player's Guide Series Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR2142 - PG2 - Player's Guide to the Forgotten Realms.pdf"
+    ],
+    "BookDescription": [
+      "There are many parallel worlds, and in times past, travel was easy between them. But those ways are now lost. Those worlds are forgotten.",
+      "Or are they?",
+      "Welcome to the Forgotten Realms.",
+      "This volume, brimming with the newly rediscovered facts and original fiction, introduces you to the best-selling world of Faer?n, where elves are mysteriously disappearing, and magic is an art gifted by a goddess. No difficult game jargon obscures the wonders before you. Come and explore.",
+      "Open this book and discover a forgotten world!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "FRC1 - Ruins of Adventure",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9238",
+    "BookISBN": "0-88038-588-X",
+    "BookAuthor": "Mike Breault, David Cook, Jim Ward, and Steve Winter",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "FRC Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9238 - FRC1 - Ruins of Adventure.pdf"
+    ],
+    "BookDescription": [
+      "A great evil force descended on the town of Phlan years ago. The townspeople were all either killed or driven away, and Phlan became (literally) a ghost town. Fifty years later, the survivors are ready to reclaim their town. But they need a band of strong and brave adventurers to lead the fight-they need you.",
+      "Ruins of Adventure is a set of connected short adventures written by James Ward, David \"Zeb\" Cook, Steve Winter and Mike Breault-four names familiar to all AD&D game fans. It uses the same setting, locations and characters as the classic computer game Pool of Radiance by Strategic Simulations, Inc. In fact, many of the scenarios here in Ruins of Adventure will provide important clues to the successful completion of Pool of Radiance."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "FRC2 - Curse of the Azure Bonds",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9239",
+    "BookISBN": "0-88038-606-1",
+    "BookAuthor": "Jeff Grubb and George MacDonald",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "FRC Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9239 - FRC2 - Curse of the Azure Bonds.pdf"
+    ],
+    "BookDescription": [
+      "Day breaks, and the crowing of a distant rooster wakes you from an all-too-short sleep. Another day for adventure, you think as you arise - but then you stop short. You, and all of your companions, have an elaborate blue tattoo covering most of your sword arm!",
+      "And there is more to these marks than a drunken prank. As you try to find out the source and meaning of your new adornment, you are drawn further and further into danger and mystery. Will you become a pawn in somebody else's power game, or will you fight for your freedom and individuality? ",
+      "Curse of the Azure Bonds is an adventure set in the Forgotten Realms game word for the AD&D 2nd Edition game. It is based on the best-selling novel, Azure Bonds, by Jeff Grubb and Kate Novak."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]
