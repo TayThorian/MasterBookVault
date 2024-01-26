@@ -1,0 +1,90 @@
+[
+  {
+    "BookName": "Dragon Magazine - Issues 001 - 025",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "Dragon Magazine",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Magazine",
+    "BookFormat": "",
+    "BookSeries": "Issues 001 - 025",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 001.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 002.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 003.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 004.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 005.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 006.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 007.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 008.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 009.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 010.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 011.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 012.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 013.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 014.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 015.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 016.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 017.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 018.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 019.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 020.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 021.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 022.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 023.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 024.pdf",
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 025.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "",
+  "BookPhysical": "",
+  "BookOwnedPDF": "",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]

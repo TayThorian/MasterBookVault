@@ -1,0 +1,77 @@
+[
+  {
+    "BookName": "Cepheus Journal - Issue 001 - Issue 010",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "Cepheus Journal",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Journal",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Issue 001 - Issue 010",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 001.pdf",
+      "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 002.pdf",
+      "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 003.pdf",
+      "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 004.pdf",
+      "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 005.pdf",
+      "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 006.pdf",
+      "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 007.pdf",
+      "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 008.pdf",
+      "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 009.pdf",
+      "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 010.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Cepheus Journal - Issue 011 - Issue 013",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Cepheus Journal",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Journal",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Issue 011 - Issue 013",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 011.pdf",
+    "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 012.pdf",
+    "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 013.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]

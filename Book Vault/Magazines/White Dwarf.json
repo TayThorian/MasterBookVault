@@ -1,0 +1,98 @@
+[
+  {
+    "BookName": "White Dwarf - Issue 001",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "June / July 1997",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "White Dwarf",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "White Dwarf",
+    "BookType": "Magazine",
+    "BookFormat": "Magazine",
+    "BookSeries": "Issues 001 - 025",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Magazines\\White Dwarf\\Issues 001 - 025\\White Dwarf 001.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "White Dwarf - Issue 002",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "August / September 1997",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "White Dwarf",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "White Dwarf",
+  "BookType": "Magazine",
+  "BookFormat": "Magazine",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Magazines\\White Dwarf\\Issues 001 - 025\\White Dwarf 002.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "White Dwarf - Issue 003",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "October / November 1997",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "White Dwarf",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "White Dwarf",
+  "BookType": "Magazine",
+  "BookFormat": "Magazine",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Magazines\\White Dwarf\\Issues 001 - 025\\White Dwarf 003.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]
