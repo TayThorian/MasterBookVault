@@ -21,6 +21,11 @@
 - ICE3200 - Lorien & The Halls of the Elven Smiths
 - ICE8107 - Woses of the Black Wood
 - ICE8060 - Erech and the Paths of the Dead
+- ICE3000 - Rangers of the North, The Kingdom of Arthedain
+- ICE3110 - Mount Gundabad
+- ICE3111 - Greater Harad
+- ICE3112 - Gorgoroth
+- ICE3113 - The Grey Mountains
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Rolemaster Unified - Spell Law
 ## Monte Cook Games
@@ -32,6 +37,7 @@
 - MUH051557 - The Spire of Quetzel
 ## Game Designers Workshop
 - GDW252 - Tarsus
+- - Supplement 5 - Lightning Class Cruisers
 ## Digest Group Publications
 - - Manhunt
 ## Mongoose Publishing
@@ -61,6 +67,7 @@
 - MGP40102 - Rim Expeditions
 ## TSR
 - TSR1071 - Rules Cyclopedia
+- TSR9023 - B1 - In Search of the Unknown
 - TSR9506 - Chronomancer
 - TSR9507 - Shaman
 - TSR2173 - Monstrous Compendium Annual - Volume Four
@@ -287,7 +294,13 @@
 - TSR2142 - PG2 - Player's Guide to the Forgotten Realms
 - TSR9238 - FRC1 - Ruins of Adventure
 - TSR9239 - FRC2 - Curse of the Azure Bonds
+- TSR1055 - The Horde
+- TSR9516 - Faiths & Avatars
+- TSR9563 - Powers & Pantheons
+- TSR9585 - Demihuman Deities
+- TSR9552 - Villains' Lorebook
 - TSR2023 - Greyhawk Adventures
+- TSR9065 - WG4 - Forgotten Temple of Tharizdun
 - TSR9222 - WG7 - Castle Greyhawk
 ## Wizards of the Coast
 - WTC398890000 - Menzoberranzan - City of Intrigue
@@ -296,3 +309,5 @@
 - WTC218287200 - Forgotten Realms Campaign Guide
 - WTC218587200 - Forgotten Realms Player's Guide
 - WTC21764740 - FR1 - Scepter Tower of Spellgard
+- WTC880990000 - Monsters of Faerun
+- WTC882410000 - Magic of Faerun
