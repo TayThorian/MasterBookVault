@@ -1,7 +1,7 @@
 # Master Book Vault
 # Physical Books to Source
 ## Open Ended Games
-- - Against the Darkmaster - Core Rules
+- N/A - Against the Darkmaster - Core Rules
 ## Chaosium
 - CHA2036 - Basic Roleplaying - Universal Game Engine
 ## Evil Hate Productions
