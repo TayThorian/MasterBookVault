@@ -37,9 +37,9 @@
 - MUH051557 - The Spire of Quetzel
 ## Game Designers Workshop
 - GDW252 - Tarsus
-- - Supplement 5 - Lightning Class Cruisers
+- N/A - Supplement 5 - Lightning Class Cruisers
 ## Digest Group Publications
-- - Manhunt
+- N/A - Manhunt
 ## Mongoose Publishing
 - MGP40111 - Reach Adventure 8 - Makergod
 - MGP40061 - Core Adventure 1 - Invasive Species
@@ -145,7 +145,7 @@
 ## Dreamscape Design
 - DD0003 - Blueholme - Journeymanne Rules
 ## Digest Group Publications
-- - Manhunt
+- N/A - Manhunt
 ## Mongoose Publishing
 - MGP40111 - Reach Adventure 8 - Makergod
 - MGP40061 - Core Adventure 1 - Invasive Species
