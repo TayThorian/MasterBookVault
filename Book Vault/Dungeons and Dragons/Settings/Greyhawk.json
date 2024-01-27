@@ -33,6 +33,40 @@
     }
   },
   {
+    "BookName": "WG4 - Forgotten Temple of Tharizdun",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9065",
+    "BookISBN": "0-88038-002-0",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1982",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "WG Series Adventure Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR9065 - WG4 - Forgotten Temple of Tharizdun.pdf"
+    ],
+    "BookDescription": [
+      "This special adventure is a combined wilderness and dungeon adventure scenario. It contains background information referee's notes, encounter keys, outdoor and dungeon level maps, and new monsters and treasures.",
+      "While it is designed to interface with \"The Lost Caverns of Tsojcanth,\" this adventure is capable of standing alone. Likewise, while it is placed within the Greyhawk Campaign, it can easily be adapted for play in any individual campaign that employs the Advanced Dungeons & Dragons game system."
+
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
     "BookName": "WG7 - Castle Greyhawk",
     "BookPublisher": "TSR",
     "BookCode": "TSR9222",

@@ -1738,5 +1738,294 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "Monsters of Faerun",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC880990000",
+    "BookISBN": "0-7869-1832-2",
+    "BookAuthor": "James Wyatt & Rob Heinsoo",
+    "BookPublished": "2001",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Monstrous Compendium",
+    "BookFormat": "Paperback",
+    "BookSeries": "Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\WTC880990000 - Monsters of Faerun.pdf"
+    ],
+    "BookDescription": [
+      "Mighty heroes deserve wicked foes",
+      "Demons and half-demons, dragons and dragonkin, animated corpses and restless spirits, wielders of magic and eaters of spells: These are the creatures of Faerûn, the monsters of the Forgotten Realms campaign setting.",
+      "Monster Compendium: Monsters of Faerûn contains scores of new monsters for use in Dungeons & Dragons adventures. From the aarakocra to the Tyrantfog zombie, these monsters present a whole new range of challenges.",
+      "Although usable in any campaign, these monsters are especially suited for the Forgotten Realms setting -- a world of great magic, terrible villains, and high adventure."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Magic of Faerun",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC882410000",
+    "BookISBN": "0-7869-1964-7",
+    "BookAuthor": "Sean K. Reynolds, Duane Maxwell & Angel McCoy",
+    "BookPublished": "2001",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\WTC882410000 - Magic of Faerun.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "The Horde",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1055",
+    "BookISBN": "0-88038-868-4",
+    "BookAuthor": "David Cook",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1055 - The Horde.pdf"
+    ],
+    "BookDescription": [
+      "Between East and West, between Earth and Sky, lies the Endless Waste. Barren and desolate, this windswept land forms the barrier between the feuding kingdoms of Faerun and the ancient empires of Kara-Tur. The eternal steppe is home only to the hardy, nomadic horsemen who travel its secret paths.",
+      "This region, long ignored by its neighbors, is about to erupt in the bloodiest conflict ever to sweep across the Forgotten Realms. Yamun Khahan, Emperor of the Tuigan, has united the barbarian tribes into an unstoppable horde. Already he rules the steppes, from the Cave of a Thousand Gods to the Valley of the Dog-Men. Driven to conquer, Yamun Khahan looks both east and west, and sees a world ripe for the harvest."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Faiths & Avatars",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9516",
+    "BookISBN": "0-78690-384-8",
+    "BookAuthor": "Julia Martin with Eric L. Boyd",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Paperback",
+    "BookSeries": "Deity Handbooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9516 - Faiths & Avatars.pdf"
+    ],
+    "BookDescription": [
+      "What makes a god a god? How are divine powers created and how do they die? How powerful is a greater deity compared to a lesser deity? These questions and many more are answered for the Fofgotten Realms campaign setting within Faiths & Avatars.",
+      "Detailed in this 192-page core supplement are the most prominent religions and deities of the Realms. Each divine power is covered in depth by an entry that includes information about the deity's appearance, personality, worshippers, portfolio, aliases, domain name, superior, allies, foes, symbol, worhippers'alignments, avatar manifestation, church, and specialty priests. The information on each religion includes its core dogma, day-to-day activities of priests, holy days and important ceremonies, major centers of worhip, affiliated orders, and the priestly vestments and adventuring garb of the members of the clergy. Finally, each entry contains spells specific to each of the religions—some new, some long unavailable or hard to find, and some updated to conform with the current AD&D game rules.",
+      "Faiths & Avatars includes the following:",
+      "All the greater, intermediate and lesser deities of the Faerûnian pantheon.",
+      "The honored dead, including Bane, Bhaal, Moander, Myrkul, and Leira, among others.",
+      "Expanded and clarified specialty priest classes and specific spells for all religions with priesthoods.",
+      "Color illustrations of priests from every faith in ceremonial dress.",
+      "Four additional general priest classes now official to the Forgotten Realms campaign setting: crusaders, monks, mystics, and shamans."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Powers & Pantheons",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9563",
+    "BookISBN": "0-78690-657-X",
+    "BookAuthor": "Eric L. Boyd",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Paperback",
+    "BookSeries": "Deity Handbooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9563 - Powers & Pantheons.pdf"
+    ],
+    "BookDescription": [
+      "The second volume of the series detailing the gods and their avatars of the Realms continues where Faiths & Avatars left off.",
+      "It contains information on gods, their followers' religious orders, temple floor plans, and much more. This is essential gaming material for the campaign setting."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Demihuman Deities",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9585",
+    "BookISBN": "0-78691-239-1",
+    "BookAuthor": "Eric L. Boyd",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Paperback",
+    "BookSeries": "Deity Handbooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9585 - Demihuman Deities.pdf"
+    ],
+    "BookDescription": [
+      "This essential supplement is a companion to Faiths & Avatars and Powers & Pantheons, which detailed the rules by which deities function in the Realms.",
+      "Demihuman Deities describes the demihuman relgions and powers of the Realms: those of the elves (including the drow), the dwarves, the gnomes and the halflings. Each entry includes information about a deity's appearance, personality, worshipers, portfolio, aliases, domain name, superior, allies, foes, symbol, worshipers' alignments, avatar, manifestations, church, and specialty priests.",
+      "The information on these faiths includes their core dogma, day-to-day activities of priests, holy days and important ceremonies, major centers of worship, affiliated orders, and the priestly vestaments and adventuring garb of members of the clergy.",
+      "Finally, each entry contains spells specific to each of the faiths.",
+      "Demihuman Deities includes:",
+      "The powers of the drow and elven pantheons, including Lolth, Ghaunadur, Vhaeraun, Eilistraee, Corellon Larethian, Hanali Celanil, Rillifane Tallathil, Labelas Enoreth, and others.",
+      "The mysterious Triune Goddess, Angharradh, who is a combined form of Sehanine Moonbow, Hanali Celanil, and Aerdrie Faenya.",
+      "The powers of the dwarf, gnome, and halfling pantheons, including Moradin, Clangeddin Silverbeard, Haela Brightaxe, Garl Glittergold, Baervan Wildwanderer, Flandal Steelskin, Yondalla, Arvoreen, Cyrrollalee, and others.",
+      "Expanded and clarified specialty priest classes for all relgions and priesthoods.",
+      "Religion-specific spells for all faiths with priesthoods.",
+      "Color illustrations of priests from nearly every faith in ceremonial dress."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Heroes' Lorebook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9525",
+    "BookISBN": "0-78690-412-7",
+    "BookAuthor": "Dale Donovan & Paul Culotta",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Lorebook Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9525 - Heroes' Lorebook.pdf"
+    ],
+    "BookDescription": [
+      "They are the stuff legends are made of. In fact, they are legends.",
+      "The major characters who have fought -- and in some cases died -- for the sake of goodness and justice in all parts of the Forgotten Realms campaign world are chronicled for posterity in Heroes' Lorebook, a 160-page compendium of the heroes whose exploits have filled dozens of novels over the past decade.",      
+      "Inside you'll find updated game statistics ad descriptions for Elminster, Drizzt Do'Urden, Alias, and many other characters who appeared in the Hall of Heroes collection published in 1989, as well as a host of brand-new biographies for heroes such as Brianna and Tavis Burdun, Alicia Kendrick, Cadderly, and Danica, who have never been featured in a game product until now.",
+      "No collection of Forgotten Realms gaming literature is complete without this \"Who's Who\" of the people -- and creatures -- who have prevented the forces of evil form having their way."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Villains' Lorebook",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9552",
+    "BookISBN": "0-78691-236-7",
+    "BookAuthor": "Dale Donovan",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Lorebook Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9552 - Villains' Lorebook.pdf"
+    ],
+    "BookDescription": [
+      "Evil takes many forms in the lands of Faer?n. This book brings all of them out of the darkness and into the light.",
+      "These are the characters who have tested the mettle of the foremost heroes of the FORGOTTEN REALMS campaign world. They spread chaos and death wherever they venture, ruining whatever they touch. And they're coming to your campaign!",
+      "Inside this companion volume to Heroes' Lorebook, you'll find complete game statistics and descriptions for a host of dastardly rogues, most of whom have never been described in a game accessory before, including:",
+      "Artemis Entreri, the nemesis of Drizzt Do'Urden.",
+      "Fzoul Chembryl, high priest of Iyachtu Xvim.",
+      "Szass Tam, Zulkir of Necromancy in the Red Wizards of Thay.",
+      "The Xanathar, the beholder crimelord of Waterdeep.",
+      "Halaster Blackcloak, the mad master of Undermountain.",
+      "This \"Who's Who\" of the evildoers of the Realms is a valuable addition to any campaign."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

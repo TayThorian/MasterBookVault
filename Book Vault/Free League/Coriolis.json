@@ -120,5 +120,110 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "Aram's Secret",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "MUH051601",
+  "BookISBN": "978-1-912743-07-0",
+  "BookAuthor": "Mattias Lilja, Kosta Kostulas, Adam Palmquist, Christian Granath",
+  "BookPublished": "2018",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Coriolis",
+  "BookType": "Scenario",
+  "BookFormat": "Paperback",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\MUH051601 - Aram's Secret.pdf"
+  ],
+  "BookDescription": [
+    "The acidified planet Jina is widely considered as an uninhabitable hell hole. Despite this, a hardy mining colony known as Aram’s Ravine persists underneath the heavy clouds. Most travelers and traders in these parts choose the luxury resort moon Cala Duriha instead, and only the most desperate descend through the toxic atmosphere to visit the Ravine. Fate forces the PCs down to the planet, however, where the plot soon thickens around them.",
+    "Aram’s Secret is a thrilling scenario for the award-winning Coriolis – The Third Horizon roleplaying game. Contents of the 52-page booklet:",
+    "The scenario location Aram’s Ravine, complete with maps, NPCs, and story hooks.",
+    "The stand-alone scenario Aram’s Secret, in which the settlement’s dark past is revealed.",
+    "An overview of the Cala Duriha luxury moon, in all its splendor and decadence."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Last Voyage of the Ghazali",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "MUH051600",
+  "BookISBN": "978-1-912743-06-3",
+  "BookAuthor": "Mattias Lilja, Christian Granath",
+  "BookPublished": "2018",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Coriolis",
+  "BookType": "Scenario",
+  "BookFormat": "Paperback",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\MUH051600 - Last Voyage of the Ghazali.pdf"
+  ],
+  "BookDescription": [
+    "The colony in the Taoan system transmits a distress call and goes silent. On Coriolis station, the factions scramble to put together a rescue mission focused on the Ghazali, a decommissioned cruise liner. The PCs are members of the rescue team and put on ice before the jump to Taoan, but something goes terribly wrong before they reach their destination. They wake up to alarms in the darkness on a crippled ship. What has happened? Can they survive the last voyage of the Ghazali?",
+    "Last Voyage of the Ghazali is an action-packed scenario for the award-winning Coriolis – The Third Horizon roleplaying game. Contents of the 72-page booklet:",
+    "An intense race against time in three acts onboard an old luxury cruise liner.",
+    "Floor plans of the Ghazali.",
+    "Floor plans of the Fatima’s Bounty freight ship.",
+    "A description of the Hamura system."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Aram's Ravine",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "MUH051208",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Coriolis",
+  "BookType": "Scenario",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\MUH051208 - Aram's Ravine.pdf"
+  ],
+  "BookDescription": [
+    "This 15-page PDF describes the Aram's Ravine colony on the planet Jina, a complete scenario location for the award-winning Coriolis - The Third Horizon RPG. Between the deep forests of Kua and the smoldering wastelands of Lubau, we find Jina, an acidified hellhole with only one colony, Aram's Ravine. The colony is a mining station for bauxite and other mineral salts and rife with mine lords competing for power."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]
