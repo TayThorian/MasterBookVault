@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Building Better Worlds",
+    "BookName": "FLFALE017 - Building Better Worlds",
+    "BookShortName": "Building Better Worlds",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFALE017",
     "BookISBN": "978-91-89143-24-1",
@@ -42,7 +43,8 @@
     }
   },
   {
-    "BookName": "Colonial Marines Operations Manual",
+    "BookName": "FLFALE015 - Colonial Marines Operations Manual",
+    "BookShortName": "Colonial Marines Operations Manual",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFALE015",
     "BookISBN": "978-91-89143-06-7",
@@ -76,6 +78,54 @@
       "Factions on the Frontier – the powers that be and their dark agendas.",
       "Marine Missions – six thrilling missions for your Marines, playable in any order.",
       "The Endgame – the showdown against a deadly enemy, finally revealed."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "FLFALE014 - Destroyer of Worlds",
+    "BookShortName": "Destroyer of Worlds",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFALE014",
+    "BookISBN": "978-91-89143-05-0",
+    "BookAuthor": "Andrew E.C. Gaska",
+    "BookPublished": "2021",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Alien",
+    "BookType": "Cinematic Scenario",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Cinematic Scenario",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Alien\\FLFALE014 - Alien RPG - Destroyer of Worlds.pdf",
+      "D:\\Master Vault\\Alien\\FLFALE014 - Alien RPG - Destroyer of Worlds Extras\\Destroyer of Worlds - Card Backs.pdf",
+      "D:\\Master Vault\\Alien\\FLFALE014 - Alien RPG - Destroyer of Worlds Extras\\Destroyer of Worlds - Card Fronts.pdf",
+      "D:\\Master Vault\\Alien\\FLFALE014 - Alien RPG - Destroyer of Worlds Extras\\Destroyer of Worlds - Character Sheets.pdf",
+      "D:\\Master Vault\\Alien\\FLFALE014 - Alien RPG - Destroyer of Worlds Extras\\Destroyer of Worlds - Handouts.pdf",
+      "D:\\Master Vault\\Alien\\FLFALE014 - Alien RPG - Destroyer of Worlds Extras\\Destroyer of Worlds - Map.pdf"
+    ],
+    "BookDescription": [
+      "The mission was a manhunt, the objectives clear—track down four fugitives, recover any assets they may have made off with, and keep ‘em all out of enemy hands. Go find them on a frozen moon full of hostiles and get it done on the eve of war.",
+      "Nothing you couldn’t handle.",
+      "But what it is that these bastards stole—and how the hell it got inside them—is another thing altogether. It’s all above your paygrade, marine—but somehow you’re the one who’s got to deal with it.",
+      "Of course, now there’s an invasion fleet incoming, and there’s something else, too—something much worse. Something out there hates you—hates everyone. Something big and ugly. Something with metal teeth—and you’re pretty sure it ain’t alone.",
+      "Yeah, the mission was supposed to be a simple manhunt. Instead it turned out to be just another glorious day in the corps.",
+      "Destroyer of Worlds is a complete Cinematic Scenario for the ALIEN roleplaying game, written by sci-fi novelist Andrew E.C. Gaska. In Destroyer of Worlds, players take the roles of Colonial Marines. The scenario is designed for 3–5 players plus the Game Mother, and it’s a gauntlet of one hell after another. Expect it to take three sessions to complete. This set contains:",
+      "The main Destroyer of Worlds scenario book.",
+      "A huge double-sided map of Ariaricus colony on one side and the Fort Nebraska space elevator ground base on the other.",
+      "Seven pre-generated characters to choose from.",
+      "Custom cards for weapons, vehicles, and personal agendas.",
+      "Player maps and handouts."
     ],
     "TableOfContents": {
       "title": "Book",

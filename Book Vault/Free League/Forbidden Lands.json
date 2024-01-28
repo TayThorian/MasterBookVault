@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Forbidden Lands Core Boxed Set",
+    "BookName": "FLF051653 - Forbidden Lands Core Boxed Set",
+    "BookShortName": "Forbidden Lands Core Boxed Set",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLF051653",
     "BookISBN": "",
@@ -41,7 +42,8 @@
     }
   } ,
   {
-    "BookName": "The Bitter Reach",
+    "BookName": "FLFFBL007 - The Bitter Reach",
+    "BookShortName": "The Bitter Reach",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFFBL007",
     "BookISBN": "978-91-88805-81-2",
@@ -83,7 +85,8 @@
     }
   },
   {
-    "BookName": "Bitter Reach Map & Cards Pack",
+    "BookName": "FLFFBL008 - Bitter Reach Map & Cards Pack",
+    "BookShortName": "Bitter Reach Map & Cards Pack",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFFBL008",
     "BookISBN": "",
@@ -120,7 +123,8 @@
     }
   },
   {
-    "BookName": "The Book of Beasts",
+    "BookName": "FLFFBL016 - The Book of Beasts",
+    "BookShortName": "The Book of Beasts",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFFBL016",
     "BookISBN": "978-91-89143-64-7",
@@ -155,7 +159,8 @@
     }
   },
   {
-    "BookName": "Crypt of the Mellified Mage",
+    "BookName": "FLFFBL014 - Crypt of the Mellified Mage",
+    "BookShortName": "Crypt of the Mellified Mage",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFFBL014",
     "BookISBN": "978-91-88805-99-7",
@@ -195,7 +200,8 @@
     }
   },
   {
-    "BookName": "The Bloodmarch",
+    "BookName": "FLFFBL017 - The Bloodmarch",
+    "BookShortName": "The Bloodmarch",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFFBL017",
     "BookISBN": "978-91-89143-66-1",
@@ -234,7 +240,8 @@
     }
   },
   {
-    "BookName": "The Bloodmarch - Map and Cards Pack",
+    "BookName": "FLFFBL018 - The Bloodmarch - Map and Cards Pack",
+    "BookShortName": "The Bloodmarch - Map and Cards Pack",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFFBL018",
     "BookISBN": "",
@@ -271,7 +278,8 @@
     }
   },
   {
-    "BookName": "Raven's Purge",
+    "BookName": "MUH051557 - Raven's Purge",
+    "BookShortName": "Raven's Purge",
     "BookPublisher": "Free League Publishing",
     "BookCode": "MUH051557",
     "BookISBN": "978-1-912200-90-0",
@@ -310,7 +318,8 @@
     }
   },
   {
-    "BookName": "The Spire of Quetzel",
+    "BookName": "MUH051557 - The Spire of Quetzel",
+    "BookShortName": "The Spire of Quetzel",
     "BookPublisher": "Free League Publishing",
     "BookCode": "MUH051557",
     "BookISBN": "978-1-912200-91-7",
@@ -349,7 +358,8 @@
     }
   },
   {
-    "BookName": "Forbidden Lands GM Screen",
+    "BookName": "MUH051562 - Forbidden Lands GM Screen",
+    "BookShortName": "Forbidden Lands GM Screen",
     "BookPublisher": "Free League Publishing",
     "BookCode": "MUH051562",
     "BookISBN": "",
@@ -381,7 +391,8 @@
     }
   },
   {
-    "BookName": "Forbidden Lands Card Deck",
+    "BookName": "MUH051561 - Forbidden Lands Card Deck",
+    "BookShortName": "Forbidden Lands Card Deck",
     "BookPublisher": "Free League Publishing",
     "BookCode": "MUH051561",
     "BookISBN": "",

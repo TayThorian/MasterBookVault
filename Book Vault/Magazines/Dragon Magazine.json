@@ -1,6 +1,7 @@
 [
   {
-    "BookName": "Dragon Magazine - Issues 001 - 025",
+    "BookName": "Dragon Magazine - Issues 001",
+    "BookShortName": "Dragon Magazine - Issues 001",
     "BookPublisher": "",
     "BookCode": "",
     "BookISBN": "",
@@ -18,31 +19,7 @@
     "BookSeries": "Issues 001 - 025",
     "BookCharacterLevel": "",
     "BookPDF": [
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 001.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 002.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 003.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 004.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 005.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 006.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 007.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 008.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 009.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 010.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 011.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 012.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 013.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 014.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 015.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 016.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 017.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 018.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 019.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 020.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 021.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 022.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 023.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 024.pdf",
-        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 025.pdf"
+        "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 001.pdf"
     ],
     "BookDescription": [
       "No description available."
@@ -56,7 +33,8 @@
   }
 },
 {
-  "BookName": "",
+  "BookName": "Dragon Magazine - Issues 002",
+  "BookShortName": "Dragon Magazine - Issues 002",
   "BookPublisher": "",
   "BookCode": "",
   "BookISBN": "",
@@ -64,27 +42,786 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "",
-  "BookEdition": "",
-  "BookPhysical": "",
-  "BookOwnedPDF": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "",
-  "BookType": "",
+  "BookType": "Magazine",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Issues 001 - 025",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\Master Vault\\"
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 002.pdf"
   ],
   "BookDescription": [
     "No description available."
   ],
   "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 003",
+  "BookShortName": "Dragon Magazine - Issues 003",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 003.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 004",
+  "BookShortName": "Dragon Magazine - Issues 004",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 004.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 005",
+  "BookShortName": "Dragon Magazine - Issues 005",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 005.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 006",
+  "BookShortName": "Dragon Magazine - Issues 006",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 006.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 007",
+  "BookShortName": "Dragon Magazine - Issues 007",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 007.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 008",
+  "BookShortName": "Dragon Magazine - Issues 008",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 008.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 009",
+  "BookShortName": "Dragon Magazine - Issues 009",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 009.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 010",
+  "BookShortName": "Dragon Magazine - Issues 010",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 010.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 011",
+  "BookShortName": "Dragon Magazine - Issues 011",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 011.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 012",
+  "BookShortName": "Dragon Magazine - Issues 012",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 012.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 013",
+  "BookShortName": "Dragon Magazine - Issues 013",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 013.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 014",
+  "BookShortName": "Dragon Magazine - Issues 014",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 014.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 015",
+  "BookShortName": "Dragon Magazine - Issues 015",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 015.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 016",
+  "BookShortName": "Dragon Magazine - Issues 016",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 016.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 017",
+  "BookShortName": "Dragon Magazine - Issues 017",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 017.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 018",
+  "BookShortName": "Dragon Magazine - Issues 018",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 018.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 019",
+  "BookShortName": "Dragon Magazine - Issues 019",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 019.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 020",
+  "BookShortName": "Dragon Magazine - Issues 020",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 020.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 021",
+  "BookShortName": "Dragon Magazine - Issues 021",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 021.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 022",
+  "BookShortName": "Dragon Magazine - Issues 022",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 022.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 023",
+  "BookShortName": "Dragon Magazine - Issues 023",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 023.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 024",
+  "BookShortName": "Dragon Magazine - Issues 024",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 024.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+},
+{
+  "BookName": "Dragon Magazine - Issues 025",
+  "BookShortName": "Dragon Magazine - Issues 025",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Dragon Magazine",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Magazine",
+  "BookFormat": "",
+  "BookSeries": "Issues 001 - 025",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Dragon Magazine\\Issues 001 - 025\\Dragon Magazine 025.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
 }
 ]

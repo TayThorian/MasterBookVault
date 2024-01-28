@@ -1,6 +1,7 @@
 [
   {
     "BookName": "Cepheus Journal - Issue 001",
+    "BookShortName": "Cepheus Journal - Issue 001",
     "BookPublisher": "",
     "BookCode": "",
     "BookISBN": "",
@@ -33,6 +34,7 @@
 },
   {
     "BookName": "Cepheus Journal - Issue 002",
+    "BookShortName": "Cepheus Journal - Issue 002",
     "BookPublisher": "",
     "BookCode": "",
     "BookISBN": "",
@@ -65,6 +67,7 @@
 },
   {
     "BookName": "Cepheus Journal - Issue 003",
+    "BookShortName": "Cepheus Journal - Issue 003",
     "BookPublisher": "",
     "BookCode": "",
     "BookISBN": "",
@@ -97,6 +100,7 @@
 },
   {
     "BookName": "Cepheus Journal - Issue 004",
+    "BookShortName": "Cepheus Journal - Issue 004",
     "BookPublisher": "",
     "BookCode": "",
     "BookISBN": "",
@@ -129,6 +133,7 @@
 },
   {
     "BookName": "Cepheus Journal - Issue 005",
+    "BookShortName": "Cepheus Journal - Issue 005",
     "BookPublisher": "",
     "BookCode": "",
     "BookISBN": "",
@@ -161,6 +166,7 @@
 },
   {
     "BookName": "Cepheus Journal - Issue 006",
+    "BookShortName": "Cepheus Journal - Issue 006",
     "BookPublisher": "",
     "BookCode": "",
     "BookISBN": "",
@@ -193,6 +199,7 @@
 },
   {
     "BookName": "Cepheus Journal - Issue 007",
+    "BookShortName": "Cepheus Journal - Issue 007",
     "BookPublisher": "",
     "BookCode": "",
     "BookISBN": "",
@@ -225,6 +232,7 @@
 },
   {
     "BookName": "Cepheus Journal - Issue 008",
+    "BookShortName": "Cepheus Journal - Issue 008",
     "BookPublisher": "",
     "BookCode": "",
     "BookISBN": "",
@@ -257,6 +265,7 @@
 },
   {
     "BookName": "Cepheus Journal - Issue 009",
+    "BookShortName": "Cepheus Journal - Issue 009",
     "BookPublisher": "",
     "BookCode": "",
     "BookISBN": "",
@@ -289,6 +298,7 @@
 },
   {
     "BookName": "Cepheus Journal - Issue 010",
+    "BookShortName": "Cepheus Journal - Issue 010",
     "BookPublisher": "",
     "BookCode": "",
     "BookISBN": "",
@@ -320,7 +330,8 @@
   }
 },
 {
-  "BookName": "Cepheus Journal - Issue 011 - Issue 011",
+  "BookName": "Cepheus Journal - Issue 011",
+  "BookShortName": "Cepheus Journal - Issue 011",
   "BookPublisher": "",
   "BookCode": "",
   "BookISBN": "",
@@ -335,7 +346,7 @@
   "BookSetting": "",
   "BookType": "Journal",
   "BookFormat": "PDF Only",
-  "BookSeries": "Issue 011 - Issue 013",
+  "BookSeries": "Issue 011 - Issue 020",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 011.pdf"
@@ -353,6 +364,7 @@
 },
 {
   "BookName": "Cepheus Journal - Issue 012",
+  "BookShortName": "Cepheus Journal - Issue 012",
   "BookPublisher": "",
   "BookCode": "",
   "BookISBN": "",
@@ -367,7 +379,7 @@
   "BookSetting": "",
   "BookType": "Journal",
   "BookFormat": "PDF Only",
-  "BookSeries": "Issue 011 - Issue 013",
+  "BookSeries": "Issue 011 - Issue 020",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 012.pdf"
@@ -385,6 +397,7 @@
 },
 {
   "BookName": "Cepheus Journal - Issue 013",
+  "BookShortName": "Cepheus Journal - Issue 013",
   "BookPublisher": "",
   "BookCode": "",
   "BookISBN": "",
@@ -399,10 +412,76 @@
   "BookSetting": "",
   "BookType": "Journal",
   "BookFormat": "PDF Only",
-  "BookSeries": "Issue 011 - Issue 013",
+  "BookSeries": "Issue 011 - Issue 020",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 013.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Cepheus Journal - Issue 014",
+  "BookShortName": "Cepheus Journal - Issue 014",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Cepheus Journal",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Journal",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Issue 011 - Issue 020",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 014.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Cepheus Journal - Issue 015",
+  "BookShortName": "Cepheus Journal - Issue 015",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Cepheus Journal",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Journal",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Issue 011 - Issue 020",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 015.pdf"
   ],
   "BookDescription": [
     "No description available."

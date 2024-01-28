@@ -1,6 +1,7 @@
 [
   {
-  "BookName": "Palladium Fantasy Role-Playing Game",
+  "BookName": "PAL450 - Palladium Fantasy Role-Playing Game",
+  "BookShortName": "Palladium Fantasy Role-Playing Game",
   "BookPublisher": "Palladium Books",
   "BookCode": "PAL450",
   "BookISBN": "",
@@ -8,7 +9,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Palladium System",
-  "BookEdition": "Second Edition",
+  "BookEdition": "2nd Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -32,7 +33,8 @@
   }
 },
 {
-  "BookName": "Dragons & Gods",
+  "BookName": "PAL451 - Dragons & Gods",
+  "BookShortName": "Dragons & Gods",
   "BookPublisher": "Palladium Books",
   "BookCode": "PAL451",
   "BookISBN": "",
@@ -64,9 +66,10 @@
   }
 },
 {
-  "BookName": "Land of the Damned 1 - Chaos Lands",
+  "BookName": "PAL468 - Land of the Damned 1 - Chaos Lands",
+  "BookShortName": "Land of the Damned 1 - Chaos Lands",
   "BookPublisher": "Palladium Books",
-  "BookCode": "AL468",
+  "BookCode": "PAL468",
   "BookISBN": "",
   "BookAuthor": "Bill Coffin",
   "BookPublished": "",
