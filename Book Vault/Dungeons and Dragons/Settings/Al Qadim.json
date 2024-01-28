@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "ALQ1 - Golden Voyages",
+    "BookName": "TSR9366 - ALQ1 - Golden Voyages",
+    "BookShortName": "ALQ1 - Golden Voyages",
     "BookPublisher": "TSR",
     "BookCode": "TSR9366",
     "BookISBN": "1-76076-331-0",
@@ -34,7 +35,8 @@
     }
   } ,
   {
-    "BookName": "ALQ2 - Assassin Mountain",
+    "BookName": "TSR9431 - ALQ2 - Assassin Mountain",
+    "BookShortName": "ALQ2 - Assassin Mountain",
     "BookPublisher": "TSR",
     "BookCode": "TSR9431",
     "BookISBN": "1-76076-564-X",
@@ -76,7 +78,8 @@
     }
   } ,
   {
-    "BookName": "ALQ3 - A Dozen And One Adventures",
+    "BookName": "TSR9432 - ALQ3 - A Dozen And One Adventures",
+    "BookShortName": "ALQ3 - A Dozen And One Adventures",
     "BookPublisher": "TSR",
     "BookCode": "TSR9432",
     "BookISBN": "1-56076-622-0",
@@ -111,7 +114,8 @@
     }
   },
   {
-    "BookName": "ALQ4 - Secrets of the Lamp",
+    "BookName": "TSR9433 - ALQ4 - Secrets of the Lamp",
+    "BookShortName": "ALQ4 - Secrets of the Lamp",
     "BookPublisher": "TSR",
     "BookCode": "TSR9433",
     "BookISBN": "1-56076-647-6",
@@ -145,7 +149,8 @@
     }
   } ,
   {
-    "BookName": "ALQ5 - Ruined Kingdoms",
+    "BookName": "TSR9440 - ALQ5 - Ruined Kingdoms",
+    "BookShortName": "ALQ5 - Ruined Kingdoms",
     "BookPublisher": "TSR",
     "BookCode": "TSR9440",
     "BookISBN": "1-56076-815-0",
@@ -184,7 +189,8 @@
     }
   } ,
   {
-    "BookName": "ALQ6 - Cities Of Bone",
+    "BookName": "TSR9467 - ALQ6 - Cities Of Bone",
+    "BookShortName": "ALQ6 - Cities Of Bone",
     "BookPublisher": "TSR",
     "BookCode": "TSR9467",
     "BookISBN": "1-56076-847-9",
@@ -218,7 +224,8 @@
     }
   } ,
   {
-    "BookName": "ALQ7 - Corsairs of The Great Sea",
+    "BookName": "TSR9449 - ALQ7 - Corsairs of The Great Sea",
+    "BookShortName": "ALQ7 - Corsairs of The Great Sea",
     "BookPublisher": "TSR",
     "BookCode": "TSR9449",
     "BookISBN": "1-56076-867-3",
@@ -256,7 +263,8 @@
     }
   } ,
   {
-    "BookName": "ALQ8 - Caravans",
+    "BookName": "TSR9459 - ALQ8 - Caravans",
+    "BookShortName": "ALQ8 - Caravans",
     "BookPublisher": "TSR",
     "BookCode": "TSR9459",
     "BookISBN": "1-56076-903-3",
@@ -295,7 +303,8 @@
     }
   } ,
   {
-    "BookName": "Reunion",
+    "BookName": "TSR9584 - Reunion",
+    "BookShortName": "Reunion",
     "BookPublisher": "TSR",
     "BookCode": "TSR9584",
     "BookISBN": "0-7869-1196-4",
@@ -328,7 +337,8 @@
     }
   } ,
   {
-    "BookName": "CGR3 - The Complete Sha'ir's Hhandbook",
+    "BookName": "TSR2146 - CGR3 - The Complete Sha'ir's Hhandbook",
+    "BookShortName": "CGR3 - The Complete Sha'ir's Hhandbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2146",
     "BookISBN": "1-56076-828-2",
@@ -362,7 +372,8 @@
     }
   } ,
   {
-    "BookName": "MC13 - Monstrous Compendium Al-Qadim Appendix",
+    "BookName": "TSR2129 - MC13 - Monstrous Compendium Al-Qadim Appendix",
+    "BookShortName": "MC13 - Monstrous Compendium Al-Qadim Appendix",
     "BookPublisher": "TSR",
     "BookCode": "TSR2129",
     "BookISBN": "1-56076-370-1",
@@ -394,7 +405,8 @@
     }
   },
   {
-    "BookName": "City Of Delights",
+    "BookName": "TSR1091 - City Of Delights",
+    "BookShortName": "City Of Delights",
     "BookPublisher": "TSR",
     "BookCode": "TSR1091",
     "BookISBN": "1-56076-589-5",
@@ -428,7 +440,8 @@
     }
   } ,
   {
-    "BookName": "Arabian Adventures",
+    "BookName": "TSR2126 - Arabian Adventures",
+    "BookShortName": "Arabian Adventures",
     "BookPublisher": "TSR",
     "BookCode": "TSR2126",
     "BookISBN": "1-56076-358-2",
@@ -473,7 +486,8 @@
     }
   } ,
   {
-    "BookName": "Land Of Fate",
+    "BookName": "TSR1077 - Land Of Fate",
+    "BookShortName": "Land Of Fate",
     "BookPublisher": "TSR",
     "BookCode": "TSR1077",
     "BookISBN": "1-56076-329-9",

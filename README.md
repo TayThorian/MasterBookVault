@@ -42,9 +42,9 @@
 - MCG361 - The Glimmering Valley
 ## Free League Publishing
 - FLFTOR012 -
-- FLFALE017 -
-- FLFFBL014 -
-- MUH051557 -
+- FLFALE017 - Building Better Worlds
+- FLFFBL014 - Crypt of the Mellified Mage
+- MUH051557 - The Spire of Quetzel
 ## Game Designers Workshop
 - GDW252 -
 - N/A -
@@ -84,15 +84,15 @@
 - TSR9532 -
 - TSR9556 -
 - TSR9147 -
-- TSR9431 -
-- TSR9432 -
-- TSR9433 -
-- TSR9467 -
-- TSR9584 -
-- TSR2146 -
-- TSR2129 -
-- TSR1091 -
-- TSR1077 -
+- TSR9431 - ALQ2 - Assassin Mountain
+- TSR9432 - ALQ3 - A Dozen And One Adventures
+- TSR9433 - ALQ4 - Secrets of the Lamp
+- TSR9467 - ALQ6 - Cities Of Bone
+- TSR9584 - Reunion
+- TSR2146 - CGR3 - The Complete Sha'ir's Hhandbook
+- TSR2129 - MC13 - Monstrous Compendium Al-Qadim Appendix
+- TSR1091 - City Of Delights
+- TSR1077 - Land Of Fate
 - TSR11348 -
 - TSR11405 -
 - TSR11316 -
@@ -134,7 +134,7 @@
 - ICE9000 - Space Master - Boxed Set
 ## Free League Publishing
 - FLFTOR012 -
-- FLFALE017 -
+- FLFALE017 - Building Better Worlds
 ## Sine Nomine Publishing
 - -
 - -
@@ -234,17 +234,17 @@
 - TSR9425 -
 - TSR9408 -
 - TSR9469 -
-- TSR9366 -
-- TSR9431 -
-- TSR9432 -
-- TSR9433 -
-- TSR9440 -
-- TSR9467 -
-- TSR9449 -
-- TSR9459 -
-- TSR2146 -
-- TSR1091 -
-- TSR1077 -
+- TSR9366 - ALQ1 - Golden Voyages
+- TSR9431 - ALQ2 - Assassin Mountain
+- TSR9432 - ALQ3 - A Dozen And One Adventures
+- TSR9433 - ALQ4 - Secrets of the Lamp
+- TSR9440 - ALQ5 - Ruined Kingdoms
+- TSR9467 - ALQ6 - Cities Of Bone
+- TSR9449 - ALQ7 - Corsairs of The Great Sea
+- TSR9459 - ALQ8 - Caravans
+- TSR2146 - CGR3 - The Complete Sha'ir's Hhandbook
+- TSR1091 - City Of Delights
+- TSR1077 - Land Of Fate
 - TSR9275 -
 - TSR9285 -
 - TSR9294 -
