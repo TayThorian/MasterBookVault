@@ -1,6 +1,7 @@
 [
     {
     "BookName": "A Campaign and Adventure Guidebook for Middle Earth",
+    "BookShortName": "",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2100",
     "BookISBN": "0-915795-05-1",
@@ -37,6 +38,7 @@
   },
   {
     "BookName": "Middle-Earth Adventure Guidebook II",
+    "BookShortName": "",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2210",
     "BookISBN": "1-55806-078-2",
@@ -69,6 +71,7 @@
   },
   {
     "BookName": "Thieves of Tharbad",
+    "BookShortName": "",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8050",
     "BookISBN": "0-915795-35-3",
@@ -102,6 +105,7 @@
   },
   {
     "BookName": "Dagorlad and the Dead Marshes",
+    "BookShortName": "",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8020",
     "BookISBN": "0-915795-20-5",
@@ -135,6 +139,7 @@
   } ,
   {
     "BookName": "The Tower of Cirith Ungol and Shelob's Lair",
+    "BookShortName": "",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8030",
     "BookISBN": "0-915795-21-3",
@@ -169,6 +174,7 @@
   },
   {
     "BookName": "Isengard and Northern Gondor",
+    "BookShortName": "",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2800",
     "BookISBN": "0-915795-11-6",
@@ -201,6 +207,7 @@
   },
   {
     "BookName": "Mouths of the Entwash",
+    "BookShortName": "",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8011",
     "BookISBN": "1-55806-010-3",
@@ -234,6 +241,7 @@
   },
   {
     "BookName": "Ghosts of the Southern Anduin",
+    "BookShortName": "",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8109",
     "BookISBN": "1-55806-030-8",
@@ -271,6 +279,7 @@
   } ,
   {
     "BookName": "Angmar - Land of the Witch King",
+    "BookShortName": "",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2300",
     "BookISBN": "",
@@ -569,7 +578,7 @@
     }
   },
   {
-    "BookName": "Lords of Middle-earth Vol I: The Immortals",
+    "BookName": "Lords of Middle Earth Vol I - The Immortals",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8002",
     "BookISBN": "0-915795-26-4",
@@ -985,6 +994,326 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE3113 - The Grey Mountains.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Lords of Middle Earth Vol II - The Mannish Races",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8003",
+    "BookISBN": "0-915795-32-9",
+    "BookAuthor": "Peter C. Fenlon Jr.",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8003 - Lords of Middle Earth Vol 2.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Lords of Middle Earth Vol III - Hobbits, Dwarves, Ents, Orcs & Trolls",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8004",
+    "BookISBN": "1-55806-052-9",
+    "BookAuthor": "",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8004 - Lords of Middle Earth Vol 3.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Mirkwood The Wilds of Rhovanion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE4010",
+    "BookISBN": "1-55806-018-9",
+    "BookAuthor": "Peter C. Fenlon Jr., John David Ruemmler, Susan Tyler Hitchcock",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE4010 - Mirkwood The Wilds of Rhovanion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Empire of the Witch King",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE4020",
+    "BookISBN": "1-55806-024-3",
+    "BookAuthor": "Heike Kubasch, Graham Staplehurst",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE4010 - Mirkwood The Wilds of Rhovanion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Havens of Gondor",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE3300",
+    "BookISBN": "0-915795-069-3",
+    "BookAuthor": "Carl Willner",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE3300 - Havens of Gondor, Land of Belfalas.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Sea-Lords of Gondor",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE3400",
+    "BookISBN": "0-915795-88-4",
+    "BookAuthor": "John Bliven Morin",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE3400 - Sea Lords of Gondor, Pelargir & Lebenin.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Ents of Fangorn",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE350",
+    "BookISBN": "0-915795-84-1",
+    "BookAuthor": "Randell E. Doty",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE3500 - Ents of Fangorn.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Lost Realm of Cardolan",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE3700",
+    "BookISBN": "0-915795-95-7",
+    "BookAuthor": "Jeffery McKeage",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE3700 - Lost Realm of Cardolan.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Far Harad The Scorched Land",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE3800",
+    "BookISBN": "1-55806-007-3",
+    "BookAuthor": "Charles Crutchfield",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE3800 - Far Harad, The Scorched Land.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Shadow in the South",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE3900",
+    "BookISBN": "1-55806-013-8",
+    "BookAuthor": "Peter C. Fenlon Jr., Chris Stone",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE3900 - Shadow in the South.pdf"
     ],
     "BookDescription": [
       "No description available."

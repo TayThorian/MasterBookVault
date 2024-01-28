@@ -3,311 +3,321 @@
 ## Open Ended Games
 - N/A - Against the Darkmaster - Core Rules
 ## Chaosium
-- CHA2036 - Basic Roleplaying - Universal Game Engine
+- CHA2036 -
 ## Evil Hate Productions
-- EHP0034 - Adversary Toolkit
-- EHP0039 - Horror Toolkit
+- EHP0034 -
+- EHP0039 -
 ## Iron Crown Enterprises
-- ICE2210 - Middle-Earth Adventure Guidebook II
-- ICE2300 - Angmar - Land of the Witch King
-- ICE2400 - Umbar - Haven of the Corsairs
-- ICE2500 - The Court of Ardor in Southern Middle-earth
-- ICE3100 - Riders of Rohan
-- ICE2900 - Moria The Dwarven City
-- ICE2600 - Northern Mirkwood, The Wood-Elves Realm
-- ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
-- ICE2700 - Southern Mirkwood - Haunt of the Necromancer
-- ICE3600 - Dunland and the Southern Misty Mountains
-- ICE3200 - Lorien & The Halls of the Elven Smiths
-- ICE8107 - Woses of the Black Wood
-- ICE8060 - Erech and the Paths of the Dead
-- ICE3000 - Rangers of the North, The Kingdom of Arthedain
-- ICE3110 - Mount Gundabad
-- ICE3111 - Greater Harad
-- ICE3112 - Gorgoroth
-- ICE3113 - The Grey Mountains
-- GCP-RMU-001 - Rolemaster Unified - Core Law
-- GCP-RMU-002 - Rolemaster Unified - Spell Law
+- ICE2210 -
+- ICE2300 -
+- ICE2400 -
+- ICE2500 -
+- ICE3100 -
+- ICE2900 -
+- ICE2600 -
+- ICE2000 -
+- ICE2700 -
+- ICE3600 -
+- ICE3200 -
+- ICE8107 -
+- ICE8060 -
+- ICE3000 -
+- ICE3110 -
+- ICE3111 -
+- ICE3112 -
+- ICE3113 -
+- ICE8003 -
+- ICE8004 -
+- ICE4010 -
+- ICE4020 -
+- ICE3300 -
+- ICE3400 -
+- ICE350 -
+- ICE3700 -
+- ICE3800 -
+- ICE3900 -
+- GCP-RMU-001 -
+- GCP-RMU-002 -
 ## Monte Cook Games
-- MCG361 - The Glimmering Valley
+- MCG361 -
 ## Free League Publishing
-- FLFTOR012 - Tales from the Lone Lands
-- FLFALE017 - Building Better Worlds
-- FLFFBL014 - Crypt of the Mellified Mage
-- MUH051557 - The Spire of Quetzel
+- FLFTOR012 -
+- FLFALE017 -
+- FLFFBL014 -
+- MUH051557 -
 ## Game Designers Workshop
-- GDW252 - Tarsus
-- N/A - Supplement 5 - Lightning Class Cruisers
+- GDW252 -
+- N/A -
 ## Digest Group Publications
-- N/A - Manhunt
+- N/A -
 ## Mongoose Publishing
-- MGP40111 - Reach Adventure 8 - Makergod
-- MGP40061 - Core Adventure 1 - Invasive Species
-- MGP40062 - Core Adventure 2 - Last Call at Eneri's Cantina
-- MGP40063 - Core Adventure 3 - Errant Lightning
-- MGP40073 - The Third Imperium
-- MGP40114 - Whispers on the Abyss
-- MGP40112 - The Deep and the Dark
-- MGP40094 - Aliens of Charted Space Volume 3
-- MGP40103 - Aliens of Charted Space Volume 4
-- MGP40095 - Central Supply Catalogue -Update 2023
-- MGP40075 - The Spinward Extents
-- MGP40085 - Robot Handbook
-- MGP40087 - High Guard Update 2022
-- MGP40100 - World Builder’s Handbook
-- MGP40072 - Secrets of the Ancients
-- MGP40104 - Mysteries of the Ancients
-- MGP40115 - Wrath of the Ancients
-- MGP40108 - Small Craft Catalogue
-- MGP40105 - Adventure Class Ships
-- MGP40098 - The Trailing Frontier
-- MGP40099 - The Imperial Navy
-- MGP40097 - The Marches Adventures 1-5
-- MGP40106 - Traveller Referee's Screen Update 2024
-- MGP40102 - Rim Expeditions
+- MGP40111 -
+- MGP40061 -
+- MGP40062 -
+- MGP40063 -
+- MGP40073 -
+- MGP40114 -
+- MGP40112 -
+- MGP40094 -
+- MGP40103 -
+- MGP40095 -
+- MGP40075 -
+- MGP40085 -
+- MGP40087 -
+- MGP40100 -
+- MGP40072 -
+- MGP40104 -
+- MGP40115 -
+- MGP40108 -
+- MGP40105 -
+- MGP40098 -
+- MGP40099 -
+- MGP40097 -
+- MGP40106 -
+- MGP40102 -
 ## TSR
-- TSR1071 - Rules Cyclopedia
-- TSR9023 - B1 - In Search of the Unknown
-- TSR9506 - Chronomancer
-- TSR9507 - Shaman
-- TSR2173 - Monstrous Compendium Annual - Volume Four
-- TSR9532 - World Builders Guidebook
-- TSR9556 - Dungeon Builder's Guidebook
-- TSR9147 - T1-4 - The Temple of Elemental Evil
-- TSR9431 - ALQ2 - Assassin Mountain
-- TSR9432 - ALQ3 - A Dozen And One Adventures
-- TSR9433 - ALQ4 - Secrets of the Lamp
-- TSR9467 - ALQ6 - Cities Of Bone
-- TSR9584 - Reunion
-- TSR2146 - CGR3 - The Complete Sha'ir's Hhandbook
-- TSR2129 - MC13 - Monstrous Compendium Al-Qadim Appendix
-- TSR1091 - City Of Delights
-- TSR1077 - Land Of Fate
-- TSR11348 - Skullport
-- TSR11405 - The Wyrmskull Throne
-- TSR11316 - FOR12 - Demihumans of the Realms
-- TSR11430 - FOR13 - Secrets of the Magister
-- TSR9491 - FOR8 - Pages from the Mages
-- TSR9379 - Volo's Guide to Waterdeep
-- TSR9460 - Volo's Guide to the Sword Coast
-- TSR9486 - Volo's Guide to Cormyr
-- TSR9524 - Volo's Guide to the Dalelands
-- TSR9535 - Volo's Guide to All Things Magical
-- TSR11509 - Drizzt Do'Urden's Guide to the Underdark
-- TSR9590 - Kidnapped
-- TSR9389 - FRM1 - The Jungles of Chult
-- TSR8908 - LC1 - Gateway to Raven's Bluff
-- TSR9282 - LC2 - Inside Raven's Bluff, The Living City
-- TSR9315 - LC4 - Port of Raven's Bluff
+- TSR1071 -
+- TSR9023 -
+- TSR9506 -
+- TSR9507 -
+- TSR2173 -
+- TSR9532 -
+- TSR9556 -
+- TSR9147 -
+- TSR9431 -
+- TSR9432 -
+- TSR9433 -
+- TSR9467 -
+- TSR9584 -
+- TSR2146 -
+- TSR2129 -
+- TSR1091 -
+- TSR1077 -
+- TSR11348 -
+- TSR11405 -
+- TSR11316 -
+- TSR11430 -
+- TSR9491 -
+- TSR9379 -
+- TSR9460 -
+- TSR9486 -
+- TSR9524 -
+- TSR9535 -
+- TSR11509 -
+- TSR9590 -
+- TSR9389 -
+- TSR8908 -
+- TSR9282 -
+- TSR9315 -
 ## Wizards of the Coast
-- WTC398890000 - Menzoberranzan - City of Intrigue
-- WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
+- WTC398890000 -
+- WTC398880000 -
 # PDF's Books to Source
 ## Evil Hate Productions
-- EHP0034 - Adversary Toolkit
-- EHP0039 - Horror Toolkit
+- EHP0034 -
+- EHP0039 -
 ## Monte Cook Games
-- MCG361 - The Glimmering Valley
+- MCG361 -
 ## Paizo
-- PZO12001 - Pathfinder - Player Core
-- PZO12002 - Pathfinder - GM Core
+- PZO12001 -
+- PZO12002 -
 ## Iron Crown Enterprises
-- GCP-RMU-001 - Rolemaster Unified - Core Law
-- GCP-RMU-002 - Rolemaster Unified - Spell Law
-- GCP-SMP-4500 - Space Master Privateers
-- GCP-SMP-4511 - Robotics Manual
-- GCP-SMP-4512 - Equipment Manual
-- GCP-SMP-4513 - Vehicle Manual
-- GCP-SMP-4514 - Blaster Law
-- GCP-SMP-4515 - Future Law
-- GCP-SMP-4600 - Races & Cultures
-- ICE9000 - Space Master - Boxed Set
+- GCP-RMU-001 -
+- GCP-RMU-002 -
+- GCP-SMP-4500 -
+- GCP-SMP-4511 -
+- GCP-SMP-4512 -
+- GCP-SMP-4513 -
+- GCP-SMP-4514 -
+- GCP-SMP-4515 -
+- GCP-SMP-4600 -
+- ICE9000 -
 ## Free League Publishing
-- FLFTOR012 - Tales from the Lone Lands
-- FLFALE017 - Building Better Worlds
+- FLFTOR012 -
+- FLFALE017 -
 ## Sine Nomine Publishing
-- - Cities Without Number
-- - Stars Without Number Revised Edition
-- - Worlds Without Number
+- -
+- -
+- -
 ## EN Publishing
-- ENP0101 - N.E.W. - Science Fiction Roleplaying Game
-- ENP0201 - O.L.D - Fantasy Heroic Role-Playing
-- ENP0301 - N.O.W. - The Modern Action RPG
+- ENP0101 -
+- ENP0201 -
+- ENP0301 -
 ## R Talsorian Games
-- CR3001 - Cyberpunk RED
-- CR3000 - Cyberpunk RED Jumpstart Kit
+- CR3001 -
+- CR3000 -
 ## BRW Games
-- - Swords of Wuxia
-- - Book of Lost Beasts
-- - Book of Lost Lore
-- - Book of Lost Tables
-- - Swords of Cthulhu
+- -
+- -
+- -
+- -
+- -
 ## Dreamscape Design
-- DD0003 - Blueholme - Journeymanne Rules
+- DD0003 -
 ## Digest Group Publications
-- N/A - Manhunt
+- N/A -
 ## Mongoose Publishing
-- MGP40111 - Reach Adventure 8 - Makergod
-- MGP40061 - Core Adventure 1 - Invasive Species
-- MGP40062 - Core Adventure 2 - Last Call at Eneri's Cantina
-- MGP40063 - Core Adventure 3 - Errant Lightning
-- MGP40073 - The Third Imperium
-- MGP40114 - Whispers on the Abyss
-- MGP40112 - The Deep and the Dark
-- MGP40094 - Aliens of Charted Space Volume 3
-- MGP40103 - Aliens of Charted Space Volume 4
-- MGP40095 - Central Supply Catalogue -Update 2023
-- MGP40075 - The Spinward Extents
-- MGP40085 - Robot Handbook
-- MGP40087 - High Guard Update 2022
-- MGP40100 - World Builder’s Handbook
-- MGP40072 - Secrets of the Ancients
-- MGP40104 - Mysteries of the Ancients
-- MGP40115 - Wrath of the Ancients
-- MGP40108 - Small Craft Catalogue
-- MGP40105 - Adventure Class Ships
-- MGP40098 - The Trailing Frontier
-- MGP40099 - The Imperial Navy
-- MGP40097 - The Marches Adventures 1-5
-- MGP40106 - Traveller Referee's Screen Update 2024
-- MGP40102 - Rim Expeditions
+- MGP40111 -
+- MGP40061 -
+- MGP40062 -
+- MGP40063 -
+- MGP40073 -
+- MGP40114 -
+- MGP40112 -
+- MGP40094 -
+- MGP40103 -
+- MGP40095 -
+- MGP40075 -
+- MGP40085 -
+- MGP40087 -
+- MGP40100 -
+- MGP40072 -
+- MGP40104 -
+- MGP40115 -
+- MGP40108 -
+- MGP40105 -
+- MGP40098 -
+- MGP40099 -
+- MGP40097 -
+- MGP40106 -
+- MGP40102 -
 ## TSR
-- TSR9044 - B3 - Palace of the Silver Princess
-- TSR9049 - B4 - The Lost City
-- TSR9078 - B5 - Horror on the Hill
-- TSR9086 - B6 - The Veiled Society
-- TSR9115 - B7 - Rahasia
-- TSR9106 - B8 - Journey to the Rock
-- TSR9143 - B9 - Castle Caldwell and Beyond
-- TSR9149 - B10 - Night's Dark Terror
-- TSR9260 - B11 - King's Festival
-- TSR9261 - B12 - Queen's Harvest
-- TSR9190 - B1-9 - In Search of Adventure
-- TSR2112 - DMGR1 - Campaign Sourcebook and Catacomb Guide
-- TSR2114 - DMGR2 - Castle Guide
-- TSR9506 - Chronomancer
-- TSR9507 - Shaman
-- TSR2123 - DMGR3 - Arms and Equipment Guide
-- TSR2133 - DMGR5 - Creative Campaigning
-- TSR2144 - DMGR6 - The Complete Book of Villains
-- TSR2110 - PHBR1 - The Complete Fighter's Handbook
-- TSR2111 - PHBR2 - The Complete Thief's Handbook
-- TSR2113 - PHBR3 - The Complete Priest's Handbook
-- TSR2115 - PHBR4 - The Complete Wizard's Handbook
-- TSR2117 - PHBR5 - The Complete Psionics Handbook
-- TSR2124 - PHBR6 - The Complete Book of Dwarves
-- TSR2127 - PHBR7 - The Complete Bard's Handbook
-- TSR2131 - PHBR8 - The Complete Book of Elves
-- TSR2134 - PHBR9 - The Complete Book of Gnomes & Halflings
-- TSR2135 - PHBR10 - The Complete Book of Humanoids
-- TSR2136 - PHBR11 - The Complete Ranger's Handbook
-- TSR2147 - PHBR12 - The Complete Paladin's Handbook
-- TSR2150 - PHBR13 - The Complete Druid's Handbook
-- TSR2148 - PHBR14 - The Complete Barbarian's Handbook
-- TSR2155 - PHBR15 - The Complete Ninja's Handbook
-- TSR2154 - Player's Option - Skills & Powers
-- TSR2022 - Manual of the Planes
-- TSR2020 - Wilderness Survival Guide
-- TSR2017 - Unearthed Arcana
-- TSR2016 - Monster Manual II
-- TSR2013 - Deities & Demigods
-- TSR2012 - Fiend Folio
-- TSR2108 - Legends & Lore
-- TSR2138 - Book of Artifacts
-- TSR2121 - Tome of Magic
-- TSR2160 - Dungeon Master Guide
-- TSR2159 - Player's Handbook
-- TSR9322 - HR1 - Vikings Campaign Sourcebook
-- TSR9323 - HR2 - Charlemagne's Paladins Campaign Sourcebook
-- TSR9376 - HR3 - Celts Campaign Sourcebook
-- TSR9370 - HR4 - A Mighty Fortress Campaign Sourcebook
-- TSR9425 - HR5 - The Glory of Rome Campaign Sourcebook
-- TSR9408 - HR6 - Age of Heroes Campaign Sourcebook
-- TSR9469 - HR7 - The Crusades Campaign Sourcebook
-- TSR9366 - ALQ1 - Golden Voyages
-- TSR9431 - ALQ2 - Assassin Mountain
-- TSR9432 - ALQ3 - A Dozen And One Adventures
-- TSR9433 - ALQ4 - Secrets of the Lamp
-- TSR9440 - ALQ5 - Ruined Kingdoms
-- TSR9467 - ALQ6 - Cities Of Bone
-- TSR9449 - ALQ7 - Corsairs of The Great Sea
-- TSR9459 - ALQ8 - Caravans
-- TSR2146 - CGR3 - The Complete Sha'ir's Hhandbook
-- TSR1091 - City Of Delights
-- TSR1077 - Land Of Fate
-- TSR9275 - DLA1 - Dragon Dawn
-- TSR9285 - DLA2 - Dragon Knight
-- TSR9294 - DLA3 - Dragon's Rest
-- TSR9291 - DLC1 - Dragonlance Classics, Volume I
-- TSR9394 - DLC2 - Dragonlance Classics, Volume II
-- TSR9453 - DLC3 - Dragonlance Classics, Volume III
-- TSR9395 - DLT1 - New Tales The Land Reborn
-- TSR9396 - DLT2 - Dragonlance Book of Lairs
-- TSR9314 - DLS1 - New Beginnings
-- TSR9319 - DLS2 - Treelords
-- TSR9327 - DLS3 - Oak Lords
-- TSR9334 - DLS4 - Wild Elves
-- TSR9243 - DLE1 - In Search of Dragons
-- TSR9244 - DLE2 - Dragon Magic
-- TSR9245 - DLE3 - Dragon Keep
-- TSR9587 - Seeds of Chaos
-- TSR11372 - Chaos Spawn
-- TSR9381 - DLQ1 - Knight's Sword
-- TSR9382 - DLQ2 - Flint's Axe
-- TSR9278 - DLR1 - Otherlands
-- TSR9344 - DLR2 - Taladas The Minotaurs
-- TSR9383 - DLR3 - Unsung Heroes
-- TSR11329 - The Sylvan Veil
-- TSR11396 - Rise of the Titans
-- TSR1074 - Tales of the Lance
-- TSR1086 - Dwarven Kingdoms of Krynn
-- TSR8446 - Leaves From the Inn of the Last Home
-- TSR8372 - The History of Dragonlance
-- TSR8447 - The Art of the Dragonlance Saga
-- TSR11405 - The Wyrmskull Throne
-- TSR11393 - Sea of Fallen Stars
-- TSR11316 - FOR12 - Demihumans of the Realms
-- TSR9491 - FOR8 - Pages from the Mages
-- TSR9379 - Volo's Guide to Waterdeep
-- TSR9393 - Volo's Guide to the North
-- TSR9460 - Volo's Guide to the Sword Coast
-- TSR9486 - Volo's Guide to Cormyr
-- TSR9524 - Volo's Guide to the Dalelands
-- TSR9535 - Volo's Guide to All Things Magical
-- TSR9590 - Kidnapped
-- TSR9389 - FRM1 - The Jungles of Chult
-- TSR9235 - FR6 - Dreams of the Red Wizards
-- TSR9252 - FR7 - Hall of Heroes
-- TSR1165 - Cormanthyr Empire of Elves
-- TSR9540 - How the Mighty Are Fallen
-- TSR9558 - The Fall of Myth Drannor
-- TSR9392 - FRS1 - The Dalelands
-- TSR8908 - LC1 - Gateway to Raven's Bluff
-- TSR9282 - LC2 - Inside Raven's Bluff, The Living City
-- TSR9316 - LC3 - Night Watch in the Living City
-- TSR9315 - LC4 - Port of Raven's Bluff
-- TSR9575 - The City of Ravens Bluff
-- TSR9484 - The Sword of the Dales
-- TSR9485 - The Secret of Spiderhaunt
-- TSR9488 - The Return of Randal Morn
-- TSR9240 - REF5 - Lords of Darkness
-- TSR2142 - PG2 - Player's Guide to the Forgotten Realms
-- TSR9238 - FRC1 - Ruins of Adventure
-- TSR9239 - FRC2 - Curse of the Azure Bonds
-- TSR1055 - The Horde
-- TSR9516 - Faiths & Avatars
-- TSR9563 - Powers & Pantheons
-- TSR9585 - Demihuman Deities
-- TSR9552 - Villains' Lorebook
-- TSR2023 - Greyhawk Adventures
-- TSR9065 - WG4 - Forgotten Temple of Tharizdun
-- TSR9222 - WG7 - Castle Greyhawk
+- TSR9044 -
+- TSR9049 -
+- TSR9078 -
+- TSR9086 -
+- TSR9115 -
+- TSR9106 -
+- TSR9143 -
+- TSR9149 -
+- TSR9260 -
+- TSR9261 -
+- TSR9190 -
+- TSR2112 -
+- TSR2114 -
+- TSR9506 -
+- TSR9507 -
+- TSR2123 -
+- TSR2133 -
+- TSR2144 -
+- TSR2110 -
+- TSR2111 -
+- TSR2113 -
+- TSR2115 -
+- TSR2117 -
+- TSR2124 -
+- TSR2127 -
+- TSR2131 -
+- TSR2134 -
+- TSR2135 -
+- TSR2136 -
+- TSR2147 -
+- TSR2150 -
+- TSR2148 -
+- TSR2155 -
+- TSR2154 -
+- TSR2022 -
+- TSR2020 -
+- TSR2017 -
+- TSR2016 -
+- TSR2013 -
+- TSR2012 -
+- TSR2108 -
+- TSR2138 -
+- TSR2121 -
+- TSR2160 -
+- TSR2159 -
+- TSR9322 -
+- TSR9323 -
+- TSR9376 -
+- TSR9370 -
+- TSR9425 -
+- TSR9408 -
+- TSR9469 -
+- TSR9366 -
+- TSR9431 -
+- TSR9432 -
+- TSR9433 -
+- TSR9440 -
+- TSR9467 -
+- TSR9449 -
+- TSR9459 -
+- TSR2146 -
+- TSR1091 -
+- TSR1077 -
+- TSR9275 -
+- TSR9285 -
+- TSR9294 -
+- TSR9291 -
+- TSR9394 -
+- TSR9453 -
+- TSR9395 -
+- TSR9396 -
+- TSR9314 -
+- TSR9319 -
+- TSR9327 -
+- TSR9334 -
+- TSR9243 -
+- TSR9244 -
+- TSR9245 -
+- TSR9587 -
+- TSR11372 -
+- TSR9381 -
+- TSR9382 -
+- TSR9278 -
+- TSR9344 -
+- TSR9383 -
+- TSR11329 -
+- TSR11396 -
+- TSR1074 -
+- TSR1086 -
+- TSR8446 -
+- TSR8372 -
+- TSR8447 -
+- TSR11405 -
+- TSR11393 -
+- TSR11316 -
+- TSR9491 -
+- TSR9379 -
+- TSR9393 -
+- TSR9460 -
+- TSR9486 -
+- TSR9524 -
+- TSR9535 -
+- TSR9590 -
+- TSR9389 -
+- TSR9235 -
+- TSR9252 -
+- TSR1165 -
+- TSR9540 -
+- TSR9558 -
+- TSR9392 -
+- TSR8908 -
+- TSR9282 -
+- TSR9316 -
+- TSR9315 -
+- TSR9575 -
+- TSR9484 -
+- TSR9485 -
+- TSR9488 -
+- TSR9240 -
+- TSR2142 -
+- TSR9238 -
+- TSR9239 -
+- TSR1055 -
+- TSR9516 -
+- TSR9563 -
+- TSR9585 -
+- TSR9552 -
+- TSR2023 -
+- TSR9065 -
+- TSR9222 -
 ## Wizards of the Coast
-- WTC398890000 - Menzoberranzan - City of Intrigue
-- WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
-- WTC317290000 - Neverwinter Campaign Setting
-- WTC218287200 - Forgotten Realms Campaign Guide
-- WTC218587200 - Forgotten Realms Player's Guide
-- WTC21764740 - FR1 - Scepter Tower of Spellgard
-- WTC880990000 - Monsters of Faerun
-- WTC882410000 - Magic of Faerun
+- WTC398890000 -
+- WTC398880000 -
+- WTC317290000 -
+- WTC218287200 -
+- WTC218587200 -
+- WTC21764740 -
+- WTC880990000 -
+- WTC882410000 -

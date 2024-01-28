@@ -76,12 +76,12 @@ Partial Class Form1
         Label19 = New Label()
         Label20 = New Label()
         Panel4 = New Panel()
+        BookCountListBox = New ListBox()
         Label21 = New Label()
         Label22 = New Label()
         Label23 = New Label()
         ButtonRunEditor = New Button()
         ContextMenuStrip1 = New ContextMenuStrip(components)
-        BookCountListBox = New ListBox()
         Panel1.SuspendLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(WebView2Description, ComponentModel.ISupportInitialize).BeginInit()
@@ -113,7 +113,7 @@ Partial Class Form1
         ' 
         TreeView2.Location = New Point(14, 511)
         TreeView2.Name = "TreeView2"
-        TreeView2.Size = New Size(438, 492)
+        TreeView2.Size = New Size(438, 633)
         TreeView2.TabIndex = 2
         ' 
         ' ImageList1
@@ -151,7 +151,7 @@ Partial Class Form1
         PanelPdfLinks.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
         PanelPdfLinks.Location = New Point(546, 853)
         PanelPdfLinks.Name = "PanelPdfLinks"
-        PanelPdfLinks.Size = New Size(627, 226)
+        PanelPdfLinks.Size = New Size(627, 362)
         PanelPdfLinks.TabIndex = 6
         ' 
         ' Panel1
@@ -160,7 +160,7 @@ Partial Class Form1
         Panel1.Controls.Add(TreeView2)
         Panel1.Location = New Point(57, 69)
         Panel1.Name = "Panel1"
-        Panel1.Size = New Size(468, 1020)
+        Panel1.Size = New Size(468, 1155)
         Panel1.TabIndex = 7
         ' 
         ' PictureBox1
@@ -359,10 +359,10 @@ Partial Class Form1
         ' DataGridViewBookDetails
         ' 
         DataGridViewBookDetails.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewBookDetails.Location = New Point(57, 1114)
+        DataGridViewBookDetails.Location = New Point(2592, 69)
         DataGridViewBookDetails.Name = "DataGridViewBookDetails"
         DataGridViewBookDetails.RowTemplate.Height = 25
-        DataGridViewBookDetails.Size = New Size(1657, 127)
+        DataGridViewBookDetails.Size = New Size(721, 1155)
         DataGridViewBookDetails.TabIndex = 27
         ' 
         ' ListBoxBooksToSource
@@ -382,7 +382,7 @@ Partial Class Form1
         ListBoxBooksOnOrder.Font = New Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point)
         ListBoxBooksOnOrder.FormattingEnabled = True
         ListBoxBooksOnOrder.ItemHeight = 15
-        ListBoxBooksOnOrder.Location = New Point(2171, 870)
+        ListBoxBooksOnOrder.Location = New Point(2171, 858)
         ListBoxBooksOnOrder.Name = "ListBoxBooksOnOrder"
         ListBoxBooksOnOrder.Size = New Size(400, 154)
         ListBoxBooksOnOrder.TabIndex = 29
@@ -411,7 +411,7 @@ Partial Class Form1
         ' 
         Label13.AutoSize = True
         Label13.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label13.Location = New Point(13, 764)
+        Label13.Location = New Point(13, 755)
         Label13.Name = "Label13"
         Label13.Size = New Size(201, 21)
         Label13.TabIndex = 32
@@ -599,7 +599,7 @@ Partial Class Form1
         Panel2.Controls.Add(TextBoxEdition)
         Panel2.Location = New Point(531, 69)
         Panel2.Name = "Panel2"
-        Panel2.Size = New Size(1183, 1020)
+        Panel2.Size = New Size(1183, 1155)
         Panel2.TabIndex = 8
         ' 
         ' Panel3
@@ -613,7 +613,7 @@ Partial Class Form1
         Panel3.Controls.Add(Label20)
         Panel3.Location = New Point(1720, 69)
         Panel3.Name = "Panel3"
-        Panel3.Size = New Size(430, 1020)
+        Panel3.Size = New Size(430, 1155)
         Panel3.TabIndex = 25
         ' 
         ' TextBox1
@@ -662,14 +662,23 @@ Partial Class Form1
         Panel4.Controls.Add(Label13)
         Panel4.Location = New Point(2156, 69)
         Panel4.Name = "Panel4"
-        Panel4.Size = New Size(430, 1172)
+        Panel4.Size = New Size(430, 1155)
         Panel4.TabIndex = 47
+        ' 
+        ' BookCountListBox
+        ' 
+        BookCountListBox.FormattingEnabled = True
+        BookCountListBox.ItemHeight = 15
+        BookCountListBox.Location = New Point(13, 987)
+        BookCountListBox.Name = "BookCountListBox"
+        BookCountListBox.Size = New Size(400, 139)
+        BookCountListBox.TabIndex = 50
         ' 
         ' Label21
         ' 
         Label21.AutoSize = True
         Label21.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label21.Location = New Point(13, 969)
+        Label21.Location = New Point(13, 953)
         Label21.Name = "Label21"
         Label21.Size = New Size(103, 21)
         Label21.TabIndex = 33
@@ -713,20 +722,11 @@ Partial Class Form1
         ContextMenuStrip1.Name = "ContextMenuStrip1"
         ContextMenuStrip1.Size = New Size(61, 4)
         ' 
-        ' BookCountListBox
-        ' 
-        BookCountListBox.FormattingEnabled = True
-        BookCountListBox.ItemHeight = 15
-        BookCountListBox.Location = New Point(13, 1005)
-        BookCountListBox.Name = "BookCountListBox"
-        BookCountListBox.Size = New Size(400, 139)
-        BookCountListBox.TabIndex = 50
-        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(2678, 1263)
+        ClientSize = New Size(3325, 1263)
         Controls.Add(ButtonRunEditor)
         Controls.Add(btnGenerateMD)
         Controls.Add(ListBoxBooksOnOrder)

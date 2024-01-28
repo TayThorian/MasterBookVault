@@ -43,6 +43,9 @@ Public Class Form1
             .Columns.Add("BookPhysical", "Physical")
             .Columns.Add("BookOwnedPDF", "Owned PDF")
             .AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill
+
+            ' Set the SortMode for the BookCode column
+            .Columns("BookCode").SortMode = DataGridViewColumnSortMode.Automatic
         End With
 
         ' Create a context menu strip
@@ -170,7 +173,6 @@ Public Class Form1
         End If
     End Sub
 
-
     Private Sub TreeView2_AfterSelect(sender As Object, e As TreeViewEventArgs) Handles TreeView2.AfterSelect
         ClearBookDetails()
         DataGridViewBookDetails.Rows.Clear()
@@ -185,12 +187,22 @@ Public Class Form1
             If bookDictionary.TryGetValue(bookName, selectedBook) Then
                 DisplayTableOfContents(selectedBook) ' DisplayTableOfContents expects a Book object
             End If
-        ElseIf e.Node.Level = 1 Then ' Level 1 might be a series or category
-            For Each childNode As TreeNode In e.Node.Nodes
-                AddBookToDataGridView(childNode.Text)
+        ElseIf e.Node.Level = 0 Then ' Level 0 indicates a BookEdition node
+            ' Populate the DataGridView with books from the selected edition
+            Dim edition As String = e.Node.Text
+            For Each editionNode As TreeNode In e.Node.Nodes
+                For Each seriesNode As TreeNode In editionNode.Nodes
+                    AddBookToDataGridView(seriesNode.Text)
+                Next
+
+                ' Sort by BookCode
+                DataGridViewBookDetails.Sort(DataGridViewBookDetails.Columns("BookCode"), System.ComponentModel.ListSortDirection.Ascending)
+
             Next
         End If
     End Sub
+
+
 
 
 
@@ -266,7 +278,7 @@ Public Class Form1
         For Each publisherGroup In groupedByPublisher
             ListBoxBooksToSource.Items.Add("Publisher: " & publisherGroup.Key)
             For Each book In publisherGroup
-                ListBoxBooksToSource.Items.Add("    " & book.BookCode & " - " & book.BookName)
+                ListBoxBooksToSource.Items.Add("    " & book.BookCode & " - " & book.BookShortName)
             Next
         Next
     End Sub
@@ -297,7 +309,7 @@ Public Class Form1
         For Each publisherGroup In groupedByPublisher
             ListBoxPDFToSource.Items.Add("Publisher: " & publisherGroup.Key)
             For Each book In publisherGroup
-                ListBoxPDFToSource.Items.Add("    " & book.BookCode & " - " & book.BookName)
+                ListBoxPDFToSource.Items.Add("    " & book.BookCode & " - " & book.BookShortName)
             Next
         Next
     End Sub
@@ -331,7 +343,7 @@ Public Class Form1
         For Each publisherGroup In groupedByPublisher
             ListBoxBooksOnOrder.Items.Add("Publisher: " & publisherGroup.Key)
             For Each book In publisherGroup
-                ListBoxBooksOnOrder.Items.Add("    " & book.BookCode & " - " & book.BookName)
+                ListBoxBooksOnOrder.Items.Add("    " & book.BookCode & " - " & book.BookShortName)
             Next
         Next
     End Sub
@@ -370,7 +382,7 @@ Public Class Form1
             With DataGridViewBookDetails
                 Dim row As String() = {
                     selectedBook.BookCode,
-                    selectedBook.BookName,
+                    selectedBook.BookShortName,
                     selectedBook.BookISBN,
                     selectedBook.BookPhysical,
                     selectedBook.BookOwnedPDF
@@ -401,7 +413,7 @@ Public Class Form1
     End Sub
 
     Private Sub UpdateTextBoxes(selectedBook As Book)
-        TextBoxBookName.Text = selectedBook.BookName
+        TextBoxBookName.Text = selectedBook.BookShortName
         TextBoxCode.Text = selectedBook.BookCode
         TextBoxPublisher.Text = selectedBook.BookPublisher
         TextBoxISBN.Text = selectedBook.BookISBN
@@ -555,8 +567,8 @@ Public Class Form1
                     Dim delimiterIndex = trimmedItem.IndexOf(delimiter)
                     If delimiterIndex > -1 Then
                         Dim bookCode = trimmedItem.Substring(0, delimiterIndex).Trim()
-                        Dim bookName = trimmedItem.Substring(delimiterIndex + delimiter.Length).Trim()
-                        markdownContent.AppendLine($"- {bookCode} - {bookName}")
+                        Dim bookshortName = trimmedItem.Substring(delimiterIndex + delimiter.Length).Trim()
+                        markdownContent.AppendLine($"- {bookCode} - {bookshortName}")
                     Else
                         ' Handling the case where there is no " - " delimiter
                         markdownContent.AppendLine($"- {trimmedItem}")

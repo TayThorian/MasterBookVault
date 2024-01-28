@@ -1,5 +1,7 @@
 ﻿Public Class Book
     Public Property BookName As String
+
+    Public Property BookShortName As String
     Public Property BookPublisher As String
     Public Property BookCode As String
     Public Property BookISBN As String

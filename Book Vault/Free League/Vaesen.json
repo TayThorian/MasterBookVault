@@ -1,6 +1,7 @@
 [
   {
-    "BookName": "Vaesen - Nordic Horror Roleplaying",
+    "BookName": "FLFVAS01 - Vaesen - Nordic Horror Roleplaying",
+    "BookShortName": "Vaesen - Nordic Horror Roleplaying",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFVAS01",
     "BookISBN": "978-91-89143-92-0",
@@ -50,6 +51,7 @@
 },
 {
   "BookName": "A Wicked Secret and other Mysteries",
+  "BookShortName": "",
   "BookPublisher": "Free League Publishing",
   "BookCode": "FLFVAS06",
   "BookISBN": "978-91-89143-98-2",
@@ -86,6 +88,7 @@
 },
 {
   "BookName": "Mythic Britain & Ireland",
+  "BookShortName": "",
   "BookPublisher": "Free League Publishing",
   "BookCode": "FLFVAS10",
   "BookISBN": "978-91-89143-61-6",
@@ -113,6 +116,141 @@
     "A guide to the mythology of Mythic Britain & Ireland, with a score of mythological locations across the islands.",
     "A chapter detailing several mythical beings with stats, background information, story seeds, and variants.",
     "Three new complete mysteries to play."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Seasons of Mystery",
+  "BookShortName": "",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFVAS11",
+  "BookISBN": "978-91-89143-62-3",
+  "BookAuthor": "Gabrielle de Bourg, Tomas Härenstam, Andreas Marklund, Kiku Pukk Härenstam",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Year Zero Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Vaesen",
+  "BookType": "Adventure",
+  "BookFormat": "Hardback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Vaesen\\FLFVAS11 - Seasons of Mystery.pdf"
+  ],
+  "BookDescription": [
+    "Within these pages you will find four spine-tingling cases for Vaesen - Nordic Horror Roleplaying. This book containers four standalone mysteries, one for each season of the year. In these pages you will find A Dance with Death - Travel to the green vales of Dalarna in the springtime to investigate strange events in a remote village."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 4, "title": "1. A Dance with Death"},
+      {"page": 24, "title": "2. Fireheart"},
+      {"page": 46, "title": "3. The Devil on the Moor"},
+      {"page": 68, "title": "4. A Winter's Tale"},
+      {"page": 88, "title": "Handouts"}
+      ]    
+  }
+},
+{
+  "BookName": "The Lost Mountain Saga",
+  "BookShortName": "",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFVAS16",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "Year Zero Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Vaesen",
+  "BookType": "Adventure",
+  "BookFormat": "Hardback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Vaesen\\FLFVAS16 - The Lost Mountain Saga.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Fear the Evenfall",
+  "BookShortName": "",
+  "BookPublisher": "Free League Workshop",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Year Zero Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Vaesen",
+  "BookType": "Free League Workshop",
+  "BookFormat": "",
+  "BookSeries": "Free League Workshop",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Vaesen\\Fear the Evenfall - A Vaesen Mystery.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Mythic Japan",
+  "BookShortName": "",
+  "BookPublisher": "Free League Workshop",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Year Zero Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Vaesen",
+  "BookType": "Free League Workshop",
+  "BookFormat": "",
+  "BookSeries": "Free League Workshop",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Vaesen\\Mythic Japan.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
   ],
   "TableOfContents": {
     "title": "Book",

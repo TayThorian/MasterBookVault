@@ -1,6 +1,6 @@
 [
     {
-    "BookName": "DMGR1 - Campaign Sourcebook and Catacomb Guide",
+    "BookName": "TSR2112 - DMGR1 - Campaign Sourcebook and Catacomb Guide",
     "BookPublisher": "TSR",
     "BookCode": "TSR2112",
     "BookISBN": "0-88038-817-X",
@@ -30,7 +30,7 @@
     }
   } ,
   {
-    "BookName": "DMGR2 - Castle Guide",
+    "BookName": "TSR2114 - DMGR2 - Castle Guide",
     "BookPublisher": "TSR",
     "BookCode": "TSR2114",
     "BookISBN": "0-88038-837-4",
@@ -61,7 +61,7 @@
     }
   } ,
   {
-    "BookName": "DMGR7 - The Complete Book of Necromancers",
+    "BookName": "TSR2151 - DMGR7 - The Complete Book of Necromancers",
     "BookPublisher": "TSR",
     "BookCode": "TSR2151",
     "BookISBN": "0-7869-0106-3",
@@ -91,7 +91,7 @@
     }
   },
   {
-    "BookName": "Encyclopedia Magica - Volume One",
+    "BookName": "TSR2141 - Encyclopedia Magica - Volume One",
     "BookPublisher": "TSR",
     "BookCode": "TSR2141",
     "BookISBN": "1-56076-842-8",
@@ -123,7 +123,7 @@
     }
   },
   {
-    "BookName": "Encyclopedia Magica - Volume Two",
+    "BookName": "TSR2152 - Encyclopedia Magica - Volume Two",
     "BookPublisher": "TSR",
     "BookCode": "TSR2152",
     "BookISBN": "0-7869-0124-1",
@@ -155,7 +155,7 @@
     }
   },
   {
-    "BookName": "Encyclopedia Magica - Volume Three",
+    "BookName": "TSR2157 - Encyclopedia Magica - Volume Three",
     "BookPublisher": "TSR",
     "BookCode": "TSR2157",
     "BookISBN": "0-7869-0187-X",
@@ -187,7 +187,7 @@
     }
   },
   {
-    "BookName": "Encyclopedia Magica - Volume Four",
+    "BookName": "TSR2161 - Encyclopedia Magica - Volume Four",
     "BookPublisher": "TSR",
     "BookCode": "TSR2161",
     "BookISBN": "0-7869-0289-2",
@@ -219,7 +219,7 @@
     }
   },
   {
-    "BookName": "Chronomancer",
+    "BookName": "TSR9506 - Chronomancer",
     "BookPublisher": "TSR",
     "BookCode": "TSR9506",
     "BookISBN": "0-7869-0325-2",
@@ -663,7 +663,7 @@
     }
   },
   {
-    "BookName": "Monster Manual",
+    "BookName": "Monster Manual - 1st Edition",
     "BookPublisher": "TSR",
     "BookCode": "TSR2009",
     "BookISBN": "0-935696-00-8",
@@ -697,7 +697,7 @@
     }
   } ,
   {
-    "BookName": "Player's Handbook",
+    "BookName": "Player's Handbook - 1st Edition",
     "BookPublisher": "TSR",
     "BookCode": "TSR2010",
     "BookISBN": "0-935696-01-6",
@@ -731,7 +731,7 @@
     }
   },
   {
-    "BookName": "Dungeon Masters Guide",
+    "BookName": "Dungeon Masters Guide - 1st Edition",
     "BookPublisher": "TSR",
     "BookCode": "TSR2011",
     "BookISBN": "0-88038-051-9",
@@ -1964,7 +1964,7 @@
     }
   },
   {
-    "BookName": "Monstrous Manual",
+    "BookName": "Monstrous Manual - 2nd Edition",
     "BookPublisher": "TSR",
     "BookCode": "TSR2140",
     "BookISBN": "1-56076-619-0",
@@ -1998,7 +1998,7 @@
     }
   },
   {
-    "BookName": "Dungeon Master Guide",
+    "BookName": "Dungeon Master Guide - 2nd Edition",
     "BookPublisher": "TSR",
     "BookCode": "TSR2160",
     "BookISBN": "0-7869-0328-7",
@@ -2031,7 +2031,7 @@
     }
   },
   {
-    "BookName": "Player's Handbook",
+    "BookName": "Player's Handbook - 2nd Edition",
     "BookPublisher": "TSR",
     "BookCode": "TSR2159",
     "BookISBN": "0-7869-0329-5",
@@ -2064,7 +2064,7 @@
     }
   },
   {
-    "BookName": "Player's Handbook",
+    "BookName": "TSR2101 - Player's Handbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2101",
     "BookISBN": "",
@@ -2096,7 +2096,7 @@
     }
   },
   {
-    "BookName": "Dungeon Master Guide",
+    "BookName": "TSR2100 - Dungeon Master Guide",
     "BookPublisher": "TSR",
     "BookCode": "TSR2100",
     "BookISBN": "0-7869-0328-7",

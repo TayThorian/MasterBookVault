@@ -1,6 +1,7 @@
 [
   {
   "BookName": "Against the Darkmaster - Player's Handbook",
+  "BookShortName": "Against the Darkmaster - Player's Handbook",
   "BookPublisher": "Open Ended Games",
   "BookCode": "N/A",
   "BookISBN": "",
@@ -40,6 +41,7 @@
 },
 {
   "BookName": "Against the Darkmaster - Core Rules",
+  "BookShortName": "Against the Darkmaster - Core Rules",
   "BookPublisher": "Open Ended Games",
   "BookCode": "N/A",
   "BookISBN": "978-1-7358474-0-5",
@@ -86,6 +88,7 @@
 },
 {
   "BookName": "Adventure Module - The Beast of Willow Lake",
+  "BookShortName": "Adventure Module - The Beast of Willow Lake",
   "BookPublisher": "Open Ended Games",
   "BookCode": "",
   "BookISBN": "",
@@ -118,6 +121,7 @@
 },
 {
   "BookName": "The Silence of Dawnfell",
+  "BookShortName": "The Silence of Dawnfell",
   "BookPublisher": "Open Ended Games",
   "BookCode": "",
   "BookISBN": "",
@@ -157,6 +161,7 @@
 },
 {
   "BookName": "Against The Darkmaster - Quickstart",
+  "BookShortName": "Against The Darkmaster - Quickstart",
   "BookPublisher": "Open Ended Games",
   "BookCode": "VSDQSDL",
   "BookISBN": "",
@@ -197,6 +202,7 @@
 },
 {
   "BookName": "Secrets of the Golden Throne",
+  "BookShortName": "Secrets of the Golden Throne",
   "BookPublisher": "Open Ended Games",
   "BookCode": "",
   "BookISBN": "",
@@ -206,44 +212,12 @@
   "BookRules": "Against the Darkmaster",
   "BookEdition": "",
   "BookPhysical": "No",
-  "BookOwnedPDF": "Missing",
+  "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "Against the Darkmaster",
   "BookType": "Adventure",
   "BookFormat": "",
-  "BookSeries": "Adventures",
-  "BookCharacterLevel": "",
-  "BookPDF": [
-    "D:\\Master Vault\\"
-  ],
-  "BookDescription": [
-    "No description available."
-  ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
-},
-{
-  "BookName": "Secrets of the Golden Throne",
-  "BookPublisher": "Open Ended Games",
-  "BookCode": "",
-  "BookISBN": "",
-  "BookAuthor": "",
-  "BookPublished": "2024",
-  "BookCover": "",
-  "BookRules": "Against the Darkmaster",
-  "BookEdition": "",
-  "BookPhysical": "No",
-  "BookOwnedPDF": "No",
-  "BookLibrary": "Yes",
-  "BookSetting": "Against the Darkmaster",
-  "BookType": "Sourcebook",
-  "BookFormat": "",
-  "BookSeries": "Sourcebooks",
+  "BookSeries": "Adventure",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Against The Darkmaster\\Secrets of the Golden Throne.pdf"
