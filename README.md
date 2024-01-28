@@ -3,39 +3,39 @@
 ## Open Ended Games
 - N/A - Against the Darkmaster - Core Rules
 ## Chaosium
-- CHA2036 -
+- CHA2036 - Basic Roleplaying - Universal Game Engine
 ## Evil Hate Productions
-- EHP0034 -
-- EHP0039 -
+- EHP0034 - Adversary Toolkit
+- EHP0039 - Horror Toolkit
 ## Iron Crown Enterprises
-- ICE2210 -
-- ICE2300 -
-- ICE2400 -
-- ICE2500 -
-- ICE3100 -
-- ICE2900 -
-- ICE2600 -
-- ICE2000 -
-- ICE2700 -
-- ICE3600 -
-- ICE3200 -
-- ICE8107 -
-- ICE8060 -
-- ICE3000 -
-- ICE3110 -
-- ICE3111 -
-- ICE3112 -
-- ICE3113 -
-- ICE8003 -
-- ICE8004 -
-- ICE4010 -
-- ICE4020 -
-- ICE3300 -
-- ICE3400 -
-- ICE350 -
-- ICE3700 -
-- ICE3800 -
-- ICE3900 -
+- ICE2210 - Middle-Earth Adventure Guidebook II
+- ICE2300 - Angmar - Land of the Witch King
+- ICE2400 - Umbar - Haven of the Corsairs
+- ICE2500 - The Court of Ardor in Southern Middle-earth
+- ICE3100 - Riders of Rohan
+- ICE2900 - Moria The Dwarven City
+- ICE2600 - Northern Mirkwood, The Wood-Elves Realm
+- ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
+- ICE2700 - Southern Mirkwood - Haunt of the Necromancer
+- ICE3600 - Dunland and the Southern Misty Mountains
+- ICE3200 - Lorien & The Halls of the Elven Smiths
+- ICE8107 - Woses of the Black Wood
+- ICE8060 - Erech and the Paths of the Dead
+- ICE3000 - Rangers of the North, The Kingdom of Arthedain
+- ICE3110 - Mount Gundabad
+- ICE3111 - Greater Harad
+- ICE3112 - Gorgoroth
+- ICE3113 - The Grey Mountains
+- ICE8003 - Lords of Middle Earth Vol II - The Mannish Races
+- ICE8004 - Lords of Middle Earth Vol III - Hobbits, Dwarves, Ents, Orcs & Trolls
+- ICE4010 - Mirkwood The Wilds of Rhovanion
+- ICE4020 - Empire of the Witch King
+- ICE3300 - Havens of Gondor
+- ICE3400 - Sea-Lords of Gondor
+- ICE3500 - Ents of Fangorn
+- ICE3700 - Lost Realm of Cardolan
+- ICE3800 - Far Harad The Scorched Land
+- ICE3900 - Shadow in the South
 - GCP-RMU-001 -
 - GCP-RMU-002 -
 ## Monte Cook Games
@@ -114,8 +114,8 @@
 - WTC398880000 -
 # PDF's Books to Source
 ## Evil Hate Productions
-- EHP0034 -
-- EHP0039 -
+- EHP0034 - Adversary Toolkit
+- EHP0039 - Horror Toolkit
 ## Monte Cook Games
 - MCG361 -
 ## Paizo
@@ -124,14 +124,14 @@
 ## Iron Crown Enterprises
 - GCP-RMU-001 -
 - GCP-RMU-002 -
-- GCP-SMP-4500 -
-- GCP-SMP-4511 -
-- GCP-SMP-4512 -
-- GCP-SMP-4513 -
-- GCP-SMP-4514 -
-- GCP-SMP-4515 -
-- GCP-SMP-4600 -
-- ICE9000 -
+- GCP-SMP-4500 - Space Master Privateers
+- GCP-SMP-4511 - Robotics Manual
+- GCP-SMP-4512 - Equipment Manual
+- GCP-SMP-4513 - Vehicle Manual
+- GCP-SMP-4514 - Blaster Law
+- GCP-SMP-4515 - Future Law
+- GCP-SMP-4600 - Races & Cultures
+- ICE9000 - Space Master - Boxed Set
 ## Free League Publishing
 - FLFTOR012 -
 - FLFALE017 -
