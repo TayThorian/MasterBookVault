@@ -36,10 +36,10 @@
 - ICE3700 - Lost Realm of Cardolan
 - ICE3800 - Far Harad The Scorched Land
 - ICE3900 - Shadow in the South
-- GCP-RMU-001 -
-- GCP-RMU-002 -
+- GCP-RMU-001 - Rolemaster Unified - Core Law
+- GCP-RMU-002 - Rolemaster Unified - Spell Law
 ## Monte Cook Games
-- MCG361 -
+- MCG361 - The Glimmering Valley
 ## Free League Publishing
 - FLFTOR012 -
 - FLFALE017 -
@@ -117,13 +117,13 @@
 - EHP0034 - Adversary Toolkit
 - EHP0039 - Horror Toolkit
 ## Monte Cook Games
-- MCG361 -
+- MCG361 - The Glimmering Valley
 ## Paizo
-- PZO12001 -
-- PZO12002 -
+- PZO12001 - Pathfinder - Player Core
+- PZO12002 - Pathfinder - GM Core
 ## Iron Crown Enterprises
-- GCP-RMU-001 -
-- GCP-RMU-002 -
+- GCP-RMU-001 - Rolemaster Unified - Core Law
+- GCP-RMU-002 - Rolemaster Unified - Spell Law
 - GCP-SMP-4500 - Space Master Privateers
 - GCP-SMP-4511 - Robotics Manual
 - GCP-SMP-4512 - Equipment Manual

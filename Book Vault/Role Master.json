@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Rolemaster Unified - Core Law",
+    "BookName": "GCP-RMU-001 - Rolemaster Unified - Core Law",
+    "BookShortName": "Rolemaster Unified - Core Law",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "GCP-RMU-001",
     "BookISBN": "",
@@ -38,7 +39,8 @@
     }
   } ,
   {
-    "BookName": "Rolemaster Unified - Spell Law",
+    "BookName": "GCP-RMU-002 - Rolemaster Unified - Spell Law",
+    "BookShortName": "Rolemaster Unified - Spell Law",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "GCP-RMU-002",
     "BookISBN": "",
@@ -75,7 +77,8 @@
     }
   },
   {
-    "BookName": "Rolemaster",
+    "BookName": "ICE1000 - Rolemaster",
+    "BookShortName": "Rolemaster",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE1000",
     "BookISBN": "0-915795-04-3",
@@ -110,7 +113,8 @@
     }
   } ,
   {
-    "BookName": "Spell Law",
+    "BookName": "ICE1200 - Spell Law",
+    "BookShortName": "Spell Law",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE1200",
     "BookISBN": "0-915795-01-9",
@@ -142,7 +146,8 @@
     }
   } ,
   {
-    "BookName": "War Law",
+    "BookName": "ICE1110 - War Law",
+    "BookShortName": "War Law",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE1110",
     "BookISBN": "1-55806-099-5",
@@ -184,7 +189,8 @@
     }
   },
   {
-    "BookName": "Elemental Companion",
+    "BookName": "ICE1510 - Elemental Companion",
+    "BookShortName": "Elemental Companion",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE1510",
     "BookISBN": "1-55806-076-6",

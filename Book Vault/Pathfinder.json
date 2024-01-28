@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Pathfinder - Player Core",
+    "BookName": "PZO12001 - Pathfinder - Player Core",
+    "BookShortName": "Pathfinder - Player Core",
     "BookPublisher": "Paizo",
     "BookCode": "PZO12001",
     "BookISBN": "978-1-64078-553-3",
@@ -42,7 +43,8 @@
     }
   } ,
   {
-    "BookName": "Pathfinder - GM Core",
+    "BookName": "PZO12002 - Pathfinder - GM Core",
+    "BookShortName": "Pathfinder - GM Core",
     "BookPublisher": "Paizo",
     "BookCode": "PZO12002",
     "BookISBN": "978-1-64078-558-8",
@@ -75,7 +77,8 @@
     }
   },
   {
-    "BookName": "Rage of Elements",
+    "BookName": "PZO2113 - Rage of Elements",
+    "BookShortName": "Rage of Elements",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2113",
     "BookISBN": "978-1-64078-527-4",
@@ -109,7 +112,8 @@
     }
   } ,
   {
-    "BookName": "Pathfinder Bestiary",
+    "BookName": "PZO2102 - Pathfinder Bestiary",
+    "BookShortName": "Pathfinder Bestiary",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2102",
     "BookISBN": "978-1-64078-170-2",
@@ -150,7 +154,8 @@
     }
   } ,
   {
-    "BookName": "Pathfinder Bestiary 2",
+    "BookName": "PZO2104 - Pathfinder Bestiary 2",
+    "BookShortName": "Pathfinder Bestiary 2",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2104",
     "BookISBN": "978-1-64078-223-5",
@@ -188,7 +193,8 @@
     }
   } ,
   {
-    "BookName": "Pathfinder Bestiary 3",
+    "BookName": "PZO2107 - Pathfinder Bestiary 3",
+    "BookShortName": "Pathfinder Bestiary 3",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2107",
     "BookISBN": "978-1-64078-312-6",
@@ -226,7 +232,8 @@
     }
   } ,
   {
-    "BookName": "Pathfinder Core Rulebook",
+    "BookName": "PZO2101 - Pathfinder Core Rulebook",
+    "BookShortName": "Pathfinder Core Rulebook",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2101",
     "BookISBN": "978-1-64078-168-9",
@@ -266,7 +273,8 @@
     }
   },
   {
-    "BookName": "Pathfinder Gamemastery Guide",
+    "BookName": "PZO2103 - Pathfinder Gamemastery Guide",
+    "BookShortName": "Pathfinder Gamemastery Guide",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2103",
     "BookISBN": "",
@@ -298,7 +306,8 @@
     }
   },
   {
-    "BookName": "Pathfinder Advanced Player's Guide",
+    "BookName": "PZO2105 - Pathfinder Advanced Player's Guide",
+    "BookShortName": "Pathfinder Advanced Player's Guide",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2105",
     "BookISBN": "",
@@ -330,7 +339,8 @@
     }
   },
   {
-    "BookName": "Secrets of Magic",
+    "BookName": "PZO2108 - Secrets of Magic",
+    "BookShortName": "Secrets of Magic",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2108",
     "BookISBN": "",
@@ -362,7 +372,8 @@
     }
   },
   {
-    "BookName": "Guns & Gears",
+    "BookName": "PZO2109 - Guns & Gears",
+    "BookShortName": "Guns & Gears",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2109",
     "BookISBN": "",
@@ -394,7 +405,8 @@
     }
   },
   {
-    "BookName": "Book of the Dead",
+    "BookName": "PZO2110 - Book of the Dead",
+    "BookShortName": "Book of the Dead",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2110",
     "BookISBN": "978-1-64078-401-7",
@@ -426,7 +438,8 @@
     }
   },
   {
-    "BookName": "Dark Archive",
+    "BookName": "PZO2111 - Dark Archive",
+    "BookShortName": "Dark Archive",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2111",
     "BookISBN": "978-1-64078-443-7",
@@ -463,7 +476,8 @@
     }
   },
   {
-    "BookName": "Treasure Vault",
+    "BookName": "PZO2112 - Treasure Vault",
+    "BookShortName": "Treasure Vault",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2112",
     "BookISBN": "978-1-664078-497-0",
@@ -495,7 +509,8 @@
     }
   },
   {
-    "BookName": "Pathfinder 2e Beginner Box",
+    "BookName": "PZO2106 - Pathfinder 2e Beginner Box",
+    "BookShortName": "Pathfinder 2e Beginner Box",
     "BookPublisher": "Paizo",
     "BookCode": "PZO2106",
     "BookISBN": "",
@@ -536,7 +551,8 @@
     }
   },
   {
-    "BookName": "Lost Omens - World Guide",
+    "BookName": "PZO9301 - Lost Omens - World Guide",
+    "BookShortName": "Lost Omens - World Guide",
     "BookPublisher": "Paizo",
     "BookCode": "PZO9301",
     "BookISBN": "",
@@ -569,7 +585,8 @@
     }
   },
   {
-    "BookName": "Lost Omens - Character Guide",
+    "BookName": "PZO9302 - Lost Omens - Character Guide",
+    "BookShortName": "Lost Omens - Character Guide",
     "BookPublisher": "Paizo",
     "BookCode": "PZO9302",
     "BookISBN": "",
@@ -601,7 +618,8 @@
     }
   },
   {
-    "BookName": "Lost Omens - Ancestry Guide",
+    "BookName": "PZO9308 - Lost Omens - Ancestry Guide",
+    "BookShortName": "Lost Omens - Ancestry Guide",
     "BookPublisher": "Paizo",
     "BookCode": "PZO9308",
     "BookISBN": "",
@@ -629,6 +647,105 @@
       "chapters": [
         {"page": 1, "title": "TOC TO"},
         {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "PZO9303 - Lost Omens - Gods and Magic",
+    "BookShortName": "Lost Omens - Gods and Magic",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO9303",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "Lost Omens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\Lost Omens\\PZO9303 - Lost Omens - Gods and Magic.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PZO9304 - Lost Omens - Absalom, City of Lost Omens",
+    "BookShortName": "Lost Omens - Absalom, City of Lost Omens",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO9304",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "Lost Omens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\Lost Omens\\PZO9304 - Lost Omens - Absalom, City of Lost Omens.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PZO9306 - Lost Omens - Legends",
+    "BookShortName": "Lost Omens - Legends",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO9306",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "Lost Omens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\Lost Omens\\PZO9306 - Lost Omens - Legends.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
         ]    
     }
   }
