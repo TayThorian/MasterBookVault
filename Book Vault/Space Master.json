@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Space Master Privateers",
+    "BookName": "GCP-SMP-4500 - Space Master Privateers",
+    "BookShortName": "Space Master Privateers",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "GCP-SMP-4500",
     "BookISBN": "1-55806-562-8",
@@ -29,7 +30,8 @@
     ]
   } ,
   {
-    "BookName": "Robotics Manual",
+    "BookName": "GCP-SMP-4511 - Robotics Manual",
+    "BookShortName": "Robotics Manual",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "GCP-SMP-4511",
     "BookISBN": "1-55806-563-6",
@@ -58,7 +60,8 @@
     ]
   },
   {
-    "BookName": "Equipment Manual",
+    "BookName": "GCP-SMP-4512 - Equipment Manual",
+    "BookShortName": "Equipment Manual",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "GCP-SMP-4512",
     "BookISBN": "1-55806-564-4",
@@ -85,7 +88,8 @@
     ]
   } ,
   {
-    "BookName": "Vehicle Manual",
+    "BookName": "GCP-SMP-4513 - Vehicle Manual",
+    "BookShortName": "Vehicle Manual",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "GCP-SMP-4513",
     "BookISBN": "1-55806-565-2",
@@ -114,7 +118,8 @@
     ]
   } ,
   {
-    "BookName": "Blaster Law",
+    "BookName": "GCP-SMP-4514 - Blaster Law",
+    "BookShortName": "Blaster Law",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "GCP-SMP-4514",
     "BookISBN": "1-55806-567-9",
@@ -143,7 +148,8 @@
     ]
   },
   {
-    "BookName": "Future Law (3rd Edition)",
+    "BookName": "GCP-SMP-4515 - Future Law",
+    "BookShortName": "Future Law",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "GCP-SMP-4515",
     "BookISBN": "1-55806-569-2",
@@ -168,7 +174,8 @@
     ]
   } ,
   {
-    "BookName": "Races & Cultures",
+    "BookName": "GCP-SMP-4600 - Races & Cultures",
+    "BookShortName": "Races & Cultures",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "GCP-SMP-4600",
     "BookISBN": "",
@@ -194,7 +201,8 @@
     ]
   },
   {
-    "BookName": "Space Master Companion I",
+    "BookName": "ICE9002 - Space Master Companion I",
+    "BookShortName": "Space Master Companion I",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9002",
     "BookISBN": "1-55806-135-5",
@@ -226,7 +234,8 @@
     }
   },
   {
-    "BookName": "Aliens & Artifacts",
+    "BookName": "ICE9003 - Aliens & Artifacts",
+    "BookShortName": "Aliens & Artifacts",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9003",
     "BookISBN": "1-55806-146-0",
@@ -258,7 +267,8 @@
     }
   },
   {
-    "BookName": "Space Master Companion II",
+    "BookName": "ICE9004 - Space Master Companion II",
+    "BookShortName": "Space Master Companion II",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9004",
     "BookISBN": "1-55806-187-8",
@@ -290,7 +300,8 @@
     }
   },
   {
-    "BookName": "Future Law (1st Edition)",
+    "BookName": "ICE9100 - Future Law",
+    "BookShortName": "Future Law",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9100",
     "BookISBN": "0-915795-36-1",
@@ -322,7 +333,8 @@
     }
   },
   {
-    "BookName": "Action on Akaisha Outstation",
+    "BookName": "ICE9101 - Action on Akaisha Outstation",
+    "BookShortName": "Action on Akaisha Outstation",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9101",
     "BookISBN": "0-915795-46-9",
@@ -354,7 +366,8 @@
     }
   },
   {
-    "BookName": "The Cygnus Conspiracy",
+    "BookName": "ICE9102 - The Cygnus Conspiracy",
+    "BookShortName": "The Cygnus Conspiracy",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9102",
     "BookISBN": "0-915795-92-2",
@@ -386,7 +399,8 @@
     }
   },
   {
-    "BookName": "Tech Law",
+    "BookName": "ICE9200 - Tech Law",
+    "BookShortName": "Tech Law",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9200",
     "BookISBN": "0-915795-38-8",
@@ -418,7 +432,8 @@
     }
   },
   {
-    "BookName": "Imperial Crisis House Devon in Turmoil",
+    "BookName": "ICE9300 - Imperial Crisis House Devon in Turmoil",
+    "BookShortName": "Imperial Crisis House Devon in Turmoil",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9300",
     "BookISBN": "0-915795-37-X",
@@ -450,7 +465,8 @@
     }
   },
   {
-    "BookName": "Lost Telepaths - The Secret of House Kashmere",
+    "BookName": "ICE9400 - Lost Telepaths - The Secret of House Kashmere",
+    "BookShortName": "Lost Telepaths - The Secret of House Kashmere",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9400",
     "BookISBN": "0-915795-48-5",
@@ -482,7 +498,8 @@
     }
   },
   {
-    "BookName": "Space Master Companion",
+    "BookName": "ICE9500 - Space Master Companion",
+    "BookShortName": "Space Master Companion",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9500",
     "BookISBN": "0-915795-33-7",
@@ -514,7 +531,8 @@
     }
   },
   {
-    "BookName": "Beyond the Core",
+    "BookName": "ICE9600 - Beyond the Core",
+    "BookShortName": "Beyond the Core",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9600",
     "BookISBN": "0-915795-83-3",
@@ -546,7 +564,8 @@
     }
   },
   {
-    "BookName": "Space Master",
+    "BookName": "ICE9000 - Space Master",
+    "BookShortName": "Space Master",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9000",
     "BookISBN": "",
@@ -578,7 +597,8 @@
     }
   },
   {
-    "BookName": "Space Master - Boxed Set",
+    "BookName": "ICE9000 - Space Master - Boxed Set",
+    "BookShortName": "Space Master - Boxed Set",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9000",
     "BookISBN": "1-55806-008-1",
@@ -614,7 +634,8 @@
     }
   },
   {
-    "BookName": "Star Strike",
+    "BookName": "ICE9010 - Star Strike",
+    "BookShortName": "Star Strike",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9010",
     "BookISBN": "1-55806-051-0",
@@ -646,7 +667,8 @@
     }
   },
   {
-    "BookName": "Vessel Compendium 1 - Adventurer",
+    "BookName": "ICE9011 - Vessel Compendium 1 - Adventurer",
+    "BookShortName": "Vessel Compendium 1 - Adventurer",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9011",
     "BookISBN": "1-55806-057-X",
@@ -678,7 +700,8 @@
     }
   },
   {
-    "BookName": "Vessel Compendium 2 - Pursuit Class",
+    "BookName": "ICE9012 - Vessel Compendium 2 - Pursuit Class",
+    "BookShortName": "Vessel Compendium 2 - Pursuit Class",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9012",
     "BookISBN": "1-55806-059-6",
@@ -710,7 +733,8 @@
     }
   },
   {
-    "BookName": "Vessel Compendium 3 - Imperial Ships",
+    "BookName": "ICE9013 - Vessel Compendium 3 - Imperial Ships",
+    "BookShortName": "Vessel Compendium 3 - Imperial Ships",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9013",
     "BookISBN": "1-55806-037-5",
@@ -742,7 +766,8 @@
     }
   },
   {
-    "BookName": "Armored Assault",
+    "BookName": "ICE9020 - Armored Assault",
+    "BookShortName": "Armored Assault",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9020",
     "BookISBN": "1-55806-060-X",
@@ -774,7 +799,8 @@
     }
   },
   {
-    "BookName": "Armored Reserves",
+    "BookName": "ICE9021 - Armored Reserves",
+    "BookShortName": "Armored Reserves",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9021",
     "BookISBN": "1-55806-106-1",
@@ -806,7 +832,8 @@
     }
   },
   {
-    "BookName": "Space Master Rulebook",
+    "BookName": "ICE9050 - Space Master Rulebook",
+    "BookShortName": "Space Master Rulebook",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9050",
     "BookISBN": "1-55806-172-X",
@@ -839,7 +866,8 @@
     }
   },
   {
-    "BookName": "Tales from Deep Space",
+    "BookName": "ICE9103 - Tales from Deep Space",
+    "BookShortName": "Tales from Deep Space",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9103",
     "BookISBN": "1-55806-006-5",
@@ -871,7 +899,8 @@
     }
   },
   {
-    "BookName": "War on a Distant Moon",
+    "BookName": "ICE9104 - War on a Distant Moon",
+    "BookShortName": "War on a Distant Moon",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9104",
     "BookISBN": "1-55806-020-0",
@@ -903,7 +932,8 @@
     }
   },
   {
-    "BookName": "The Durandrium Find, Salvation for House Augustus-Hayes",
+    "BookName": "ICE9105 - The Durandrium Find, Salvation for House Augustus-Hayes",
+    "BookShortName": "The Durandrium Find, Salvation for House Augustus-Hayes",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9105",
     "BookISBN": "1-55806-021-9",
@@ -935,7 +965,8 @@
     }
   },
   {
-    "BookName": "Legacy of the Ancients, Survivors of a Forgotten Colony Ship",
+    "BookName": "ICE9106 - Legacy of the Ancients, Survivors of a Forgotten Colony Ship",
+    "BookShortName": "Legacy of the Ancients, Survivors of a Forgotten Colony Ship",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9106",
     "BookISBN": "1-55806-035-9",
@@ -967,7 +998,8 @@
     }
   },
   {
-    "BookName": "Disaster on Adanis III, Rescue on a Contested World",
+    "BookName": "ICE9107 - Disaster on Adanis III, Rescue on a Contested World",
+    "BookShortName": "Disaster on Adanis III, Rescue on a Contested World",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9107",
     "BookISBN": "1-55806-039-1",
@@ -999,7 +1031,8 @@
     }
   },
   {
-    "BookName": "League of Merchants, Lords of the Imperial Underworld",
+    "BookName": "ICE9700 - League of Merchants, Lords of the Imperial Underworld",
+    "BookShortName": "League of Merchants, Lords of the Imperial Underworld",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9700",
     "BookISBN": "1-55806-011-1",
@@ -1031,7 +1064,8 @@
     }
   },
   {
-    "BookName": "Raiders from the Frontier",
+    "BookName": "ICE9800 - Raiders from the Frontier",
+    "BookShortName": "Raiders from the Frontier",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9800",
     "BookISBN": "1-55806-026-X",
@@ -1063,7 +1097,8 @@
     }
   },
   {
-    "BookName": "Combat Screen",
+    "BookName": "ICE9001 - Combat Screen",
+    "BookShortName": "Combat Screen",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE9001",
     "BookISBN": "1-55806-009-X",

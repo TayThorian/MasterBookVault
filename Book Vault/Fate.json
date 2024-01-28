@@ -1,6 +1,7 @@
 [
   {
-    "BookName": "Fate Core System",
+    "BookName": "EHP0001 - Fate Core System",
+    "BookShortName": "Fate Core System",
     "BookPublisher": "Evil Hate Productions",
     "BookCode": "EHP0001",
     "BookISBN": "978-1-61317-029-8",
@@ -35,7 +36,8 @@
   }
 },
 {
-  "BookName": "Adversary Toolkit",
+  "BookName": "EHP0034 - Adversary Toolkit",
+  "BookShortName": "Adversary Toolkit",
   "BookPublisher": "Evil Hate Productions",
   "BookCode": "EHP0034",
   "BookISBN": "",
@@ -73,7 +75,8 @@
   }
 },
 {
-  "BookName": "Horror Toolkit",
+  "BookName": "EHP0039 - Horror Toolkit",
+  "BookShortName": "Horror Toolkit",
   "BookPublisher": "Evil Hate Productions",
   "BookCode": "EHP0039",
   "BookISBN": "",

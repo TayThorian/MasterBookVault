@@ -1,7 +1,7 @@
 [
     {
-    "BookName": "A Campaign and Adventure Guidebook for Middle Earth",
-    "BookShortName": "",
+    "BookName": "ICE2100 - A Campaign and Adventure Guidebook for Middle Earth",
+    "BookShortName": "A Campaign and Adventure Guidebook for Middle Earth",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2100",
     "BookISBN": "0-915795-05-1",
@@ -37,8 +37,8 @@
     }
   },
   {
-    "BookName": "Middle-Earth Adventure Guidebook II",
-    "BookShortName": "",
+    "BookName": "ICE2210 - Middle-Earth Adventure Guidebook II",
+    "BookShortName": "Middle-Earth Adventure Guidebook II",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2210",
     "BookISBN": "1-55806-078-2",
@@ -70,8 +70,8 @@
     }
   },
   {
-    "BookName": "Thieves of Tharbad",
-    "BookShortName": "",
+    "BookName": "ICE8050 - Thieves of Tharbad",
+    "BookShortName": "Thieves of Tharbad",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8050",
     "BookISBN": "0-915795-35-3",
@@ -104,8 +104,8 @@
     }
   },
   {
-    "BookName": "Dagorlad and the Dead Marshes",
-    "BookShortName": "",
+    "BookName": "ICE8020 - Dagorlad and the Dead Marshes",
+    "BookShortName": "Dagorlad and the Dead Marshes",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8020",
     "BookISBN": "0-915795-20-5",
@@ -138,8 +138,8 @@
     }
   } ,
   {
-    "BookName": "The Tower of Cirith Ungol and Shelob's Lair",
-    "BookShortName": "",
+    "BookName": "ICE8030 - The Tower of Cirith Ungol and Shelob's Lair",
+    "BookShortName": "The Tower of Cirith Ungol and Shelob's Lair",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8030",
     "BookISBN": "0-915795-21-3",
@@ -173,8 +173,8 @@
     }
   },
   {
-    "BookName": "Isengard and Northern Gondor",
-    "BookShortName": "",
+    "BookName": "ICE2800 - Isengard and Northern Gondor",
+    "BookShortName": "Isengard and Northern Gondor",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2800",
     "BookISBN": "0-915795-11-6",
@@ -206,8 +206,8 @@
     }
   },
   {
-    "BookName": "Mouths of the Entwash",
-    "BookShortName": "",
+    "BookName": "ICE8011 - Mouths of the Entwash",
+    "BookShortName": "Mouths of the Entwash",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8011",
     "BookISBN": "1-55806-010-3",
@@ -240,8 +240,8 @@
     }
   },
   {
-    "BookName": "Ghosts of the Southern Anduin",
-    "BookShortName": "",
+    "BookName": "ICE8109 - Ghosts of the Southern Anduin",
+    "BookShortName": "Ghosts of the Southern Anduin",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8109",
     "BookISBN": "1-55806-030-8",
@@ -278,8 +278,8 @@
     }
   } ,
   {
-    "BookName": "Angmar - Land of the Witch King",
-    "BookShortName": "",
+    "BookName": "ICE2300 - Angmar - Land of the Witch King",
+    "BookShortName": "Angmar - Land of the Witch King",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2300",
     "BookISBN": "",
@@ -313,7 +313,8 @@
     }
   } ,
   {
-    "BookName": "Umbar - Haven of the Corsairs",
+    "BookName": "ICE2400 - Umbar - Haven of the Corsairs",
+    "BookShortName": "Umbar - Haven of the Corsairs",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2400",
     "BookISBN": "",
@@ -345,7 +346,8 @@
     }
   } ,
   {
-    "BookName": "The Court of Ardor in Southern Middle-earth",
+    "BookName": "ICE2500 - The Court of Ardor in Southern Middle-earth",
+    "BookShortName": "The Court of Ardor in Southern Middle-earth",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2500",
     "BookISBN": "",
@@ -379,7 +381,8 @@
     }
   },
   {
-    "BookName": "Middle-earth Role Playing",
+    "BookName": "ICE8100 - Middle-earth Role Playing",
+    "BookShortName": "Middle-earth Role Playing",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8100",
     "BookISBN": "0-425090-37-X",
@@ -412,7 +415,8 @@
     }
   } ,
   {
-    "BookName": "Riders of Rohan",
+    "BookName": "ICE3100 - Riders of Rohan",
+    "BookShortName": "Riders of Rohan",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3100",
     "BookISBN": "0-915795-29-9",
@@ -444,7 +448,8 @@
     }
   },
   {
-    "BookName": "Moria The Dwarven City",
+    "BookName": "ICE2900 - Moria The Dwarven City",
+    "BookShortName": "Moria The Dwarven City",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2900",
     "BookISBN": "0-915795-27-2",
@@ -479,7 +484,8 @@
     }
   },
   {
-    "BookName": "Northern Mirkwood, The Wood-Elves Realm",
+    "BookName": "ICE2600 - Northern Mirkwood, The Wood-Elves Realm",
+    "BookShortName": "Northern Mirkwood, The Wood-Elves Realm",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2600",
     "BookISBN": "0-915795-08-6",
@@ -512,7 +518,8 @@
     }
   },
   {
-    "BookName": "Hillmen of the Trollshaws",
+    "BookName": "ICE8040 - Hillmen of the Trollshaws",
+    "BookShortName": "Hillmen of the Trollshaws",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8040",
     "BookISBN": "0-915795-24-8",
@@ -544,7 +551,8 @@
     }
   },
   {
-    "BookName": "Minas Tirith",
+    "BookName": "ICE8301 -Minas Tirith",
+    "BookShortName": "Minas Tirith",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8301",
     "BookISBN": "1-55806-001-4",
@@ -578,7 +586,8 @@
     }
   },
   {
-    "BookName": "Lords of Middle Earth Vol I - The Immortals",
+    "BookName": "ICE8002 - Lords of Middle Earth Vol I - The Immortals",
+    "BookShortName": "Lords of Middle Earth Vol I - The Immortals",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8002",
     "BookISBN": "0-915795-26-4",
@@ -612,7 +621,8 @@
     }
   },
   {
-    "BookName": "Middle-earth Campaign Guide",
+    "BookName": "ICE2003 - Middle-earth Campaign Guide",
+    "BookShortName": "Middle-earth Campaign Guide",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2003",
     "BookISBN": "1-55806-193-2",
@@ -652,7 +662,8 @@
     }
   },
   {
-    "BookName": "Middle-earth Role Playing, 2nd Edition - Collector's Edition",
+    "BookName": "ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition",
+    "BookShortName": "Middle-earth Role Playing, 2nd Edition - Collector's Edition",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2000",
     "BookISBN": "1-55806-190-8",
@@ -687,7 +698,8 @@
     }
   },
   {
-    "BookName": "Southern Mirkwood - Haunt of the Necromancer",
+    "BookName": "ICE2700 - Southern Mirkwood - Haunt of the Necromancer",
+    "BookShortName": "Southern Mirkwood - Haunt of the Necromancer",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE2700",
     "BookISBN": "0-915795-09-4",
@@ -719,7 +731,8 @@
     }
   },
   {
-    "BookName": "Dunland and the Southern Misty Mountains",
+    "BookName": "ICE3600 - Dunland and the Southern Misty Mountains",
+    "BookShortName": "Dunland and the Southern Misty Mountains",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3600",
     "BookISBN": "0-915795-91-4",
@@ -751,7 +764,8 @@
     }
   },
   {
-    "BookName": "Lorien & The Halls of the Elven Smiths",
+    "BookName": "ICE3200 - Lorien & The Halls of the Elven Smiths",
+    "BookShortName": "Lorien & The Halls of the Elven Smiths",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3200",
     "BookISBN": "0-915795-42-6",
@@ -783,7 +797,8 @@
     }
   },
   {
-    "BookName": "Woses of the Black Wood",
+    "BookName": "ICE8107 - Woses of the Black Wood",
+    "BookShortName": "Woses of the Black Wood",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8107",
     "BookISBN": "0-915795-99-X",
@@ -815,7 +830,8 @@
     }
   },
   {
-    "BookName": "Erech and the Paths of the Dead",
+    "BookName": "ICE8060 - Erech and the Paths of the Dead",
+    "BookShortName": "Erech and the Paths of the Dead",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8060",
     "BookISBN": "0-915795-39-6",
@@ -847,7 +863,8 @@
     }
   },
   {
-    "BookName": "Rangers of the North, The Kingdom of Arthedain",
+    "BookName": "ICE3000 - Rangers of the North, The Kingdom of Arthedain",
+    "BookShortName": "Rangers of the North, The Kingdom of Arthedain",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3000",
     "BookISBN": "0-915795-22-1",
@@ -879,7 +896,8 @@
     }
   },
   {
-    "BookName": "Mount Gundabad",
+    "BookName": "ICE3110 - Mount Gundabad",
+    "BookShortName": "Mount Gundabad",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3110",
     "BookISBN": "1-55806-069-3",
@@ -911,7 +929,8 @@
     }
   },
   {
-    "BookName": "Greater Harad",
+    "BookName": "ICE3111 - Greater Harad",
+    "BookShortName": "Greater Harad",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3111",
     "BookISBN": "1-55806-100-2",
@@ -943,7 +962,8 @@
     }
   },
   {
-    "BookName": "Gorgoroth",
+    "BookName": "ICE3112 - Gorgoroth",
+    "BookShortName": "Gorgoroth",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3112",
     "BookISBN": "0-55806-105-3",
@@ -975,7 +995,8 @@
     }
   },
   {
-    "BookName": "The Grey Mountains",
+    "BookName": "ICE3113 - The Grey Mountains",
+    "BookShortName": "The Grey Mountains",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3113",
     "BookISBN": "1-55806-154-1",
@@ -1007,7 +1028,8 @@
     }
   },
   {
-    "BookName": "Lords of Middle Earth Vol II - The Mannish Races",
+    "BookName": "ICE8003 - Lords of Middle Earth Vol II - The Mannish Races",
+    "BookShortName": "Lords of Middle Earth Vol II - The Mannish Races",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8003",
     "BookISBN": "0-915795-32-9",
@@ -1039,7 +1061,8 @@
     }
   },
   {
-    "BookName": "Lords of Middle Earth Vol III - Hobbits, Dwarves, Ents, Orcs & Trolls",
+    "BookName": "ICE8004 - Lords of Middle Earth Vol III - Hobbits, Dwarves, Ents, Orcs & Trolls",
+    "BookShortName": "Lords of Middle Earth Vol III - Hobbits, Dwarves, Ents, Orcs & Trolls",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8004",
     "BookISBN": "1-55806-052-9",
@@ -1071,7 +1094,8 @@
     }
   },
   {
-    "BookName": "Mirkwood The Wilds of Rhovanion",
+    "BookName": "ICE4010 - Mirkwood The Wilds of Rhovanion",
+    "BookShortName": "Mirkwood The Wilds of Rhovanion",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE4010",
     "BookISBN": "1-55806-018-9",
@@ -1103,7 +1127,8 @@
     }
   },
   {
-    "BookName": "Empire of the Witch King",
+    "BookName": "ICE4020 - Empire of the Witch King",
+    "BookShortName": "Empire of the Witch King",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE4020",
     "BookISBN": "1-55806-024-3",
@@ -1135,7 +1160,8 @@
     }
   },
   {
-    "BookName": "Havens of Gondor",
+    "BookName": "ICE3300- Havens of Gondor",
+    "BookShortName": "Havens of Gondor",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3300",
     "BookISBN": "0-915795-069-3",
@@ -1167,7 +1193,8 @@
     }
   },
   {
-    "BookName": "Sea-Lords of Gondor",
+    "BookName": "ICE3400 - Sea-Lords of Gondor",
+    "BookShortName": "Sea-Lords of Gondor",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3400",
     "BookISBN": "0-915795-88-4",
@@ -1199,9 +1226,10 @@
     }
   },
   {
-    "BookName": "Ents of Fangorn",
+    "BookName": "ICE3500 - Ents of Fangorn",
+    "BookShortName": "Ents of Fangorn",
     "BookPublisher": "Iron Crown Enterprises",
-    "BookCode": "ICE350",
+    "BookCode": "ICE3500",
     "BookISBN": "0-915795-84-1",
     "BookAuthor": "Randell E. Doty",
     "BookPublished": "1987",
@@ -1231,7 +1259,8 @@
     }
   },
   {
-    "BookName": "Lost Realm of Cardolan",
+    "BookName": "ICE3700 - Lost Realm of Cardolan",
+    "BookShortName": "Lost Realm of Cardolan",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3700",
     "BookISBN": "0-915795-95-7",
@@ -1263,7 +1292,8 @@
     }
   },
   {
-    "BookName": "Far Harad The Scorched Land",
+    "BookName": "ICE3800 - Far Harad The Scorched Land",
+    "BookShortName": "Far Harad The Scorched Land",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3800",
     "BookISBN": "1-55806-007-3",
@@ -1295,7 +1325,8 @@
     }
   },
   {
-    "BookName": "Shadow in the South",
+    "BookName": "ICE3900 - Shadow in the South",
+    "BookShortName": "Shadow in the South",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3900",
     "BookISBN": "1-55806-013-8",
