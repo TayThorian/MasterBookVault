@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Cyberspace RPG",
+    "BookName": ""ICE5100 - Cyberspace RPG",
+    "BookShortName": "Cyberspace RPG",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5100",
     "BookISBN": "1-55806-045-6",
@@ -32,7 +33,8 @@
     }
   } ,
   {
-    "BookName": "Sprawlgangs & Megacorps",
+    "BookName": "ICE5101 - Sprawlgangs & Megacorps",
+    "BookShortName": "Sprawlgangs & Megacorps",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5101",
     "BookISBN": "1-55806-086-3",
@@ -64,7 +66,8 @@
     }
   } ,
   {
-    "BookName": "Edge On",
+    "BookName": "ICE5102 - Edge On",
+    "BookShortName": "Edge On",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5102",
     "BookISBN": "1-55806-087-1",
@@ -96,7 +99,8 @@
     }
   } ,
   {
-    "BookName": "CyberRogues",
+    "BookName": "ICE5103 - CyberRogues",
+    "BookShortName": "CyberRogues",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5103",
     "BookISBN": "1-55806-125-8",
@@ -128,7 +132,8 @@
     }
   } ,
   {
-    "BookName": "The Bodybank",
+    "BookName": "ICE5104 - The Bodybank",
+    "BookShortName": "The Bodybank",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5104",
     "BookISBN": "1-55806-128-2",
@@ -160,7 +165,8 @@
     }
   } ,
   {
-    "BookName": "Death Vally Free Prison",
+    "BookName": "ICE5105 - Death Vally Free Prison",
+    "BookShortName": "Death Vally Free Prison",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5105",
     "BookISBN": "1-55806-129-0",
@@ -192,7 +198,8 @@
     }
   } ,
   {
-    "BookName": "Deathgame 2090",
+    "BookName": "ICE5106 - Deathgame 2090",
+    "BookShortName": "Deathgame 2090",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5106",
     "BookISBN": "1-55806-132-0",
@@ -224,7 +231,8 @@
     }
   } ,
   {
-    "BookName": "Cyber Skelter",
+    "BookName": "ICE5107 - Cyber Skelter",
+    "BookShortName": "Cyber Skelter",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5107",
     "BookISBN": "1-55806-142-8",
@@ -256,7 +264,8 @@
     }
   } ,
   {
-    "BookName": "Chicago Arcology",
+    "BookName": "ICE5108 - Chicago Arcology",
+    "BookShortName": "Chicago Arcology",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5108",
     "BookISBN": "1-55806-144-4",
@@ -288,7 +297,8 @@
     }
   } ,
   {
-    "BookName": "Cyber Europe",
+    "BookName": "ICE5109 - Cyber Europe",
+    "BookShortName": "Cyber Europe",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5109",
     "BookISBN": "1-55806-158-4",
