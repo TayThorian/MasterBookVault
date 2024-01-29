@@ -140,9 +140,9 @@
 - -
 - -
 ## EN Publishing
-- ENP0101 -
-- ENP0201 -
-- ENP0301 -
+- ENP0101 - N.E.W. - Science Fiction Roleplaying Game
+- ENP0201 - O.L.D - Fantasy Heroic Role-Playing
+- ENP0301 - N.O.W. - The Modern Action RPG
 ## R Talsorian Games
 - CR3001 -
 - CR3000 -

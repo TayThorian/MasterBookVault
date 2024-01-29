@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Space",
+    "BookName": "SJG01-1002 - Space",
+    "BookShortName": "Space",
     "BookPublisher": "Steve Jackson Games",
     "BookCode": "SJG01-1002, SJG01-6076",
     "BookISBN": "1-55634-245-4, 1-55634-916-4",
@@ -32,7 +33,8 @@
     }
   } ,
   {
-    "BookName": "Horror",
+    "BookName": "SJG01-1003 - Horror",
+    "BookShortName": "Horror",
     "BookPublisher": "Steve Jackson Games",
     "BookCode": "SJG01-1003",
     "BookISBN": "978-1-55634-803-7",
@@ -70,7 +72,8 @@
     }
   } ,
   {
-    "BookName": "Magic",
+    "BookName": "SJG01-0101 - Magic",
+    "BookShortName": "Magic",
     "BookPublisher": "Steve Jackson Games",
     "BookCode": "SJG01-0101",
     "BookISBN": "",
@@ -102,7 +105,8 @@
     }
   },
   {
-    "BookName": "Powers",
+    "BookName": "SJG01-0102 - Powers",
+    "BookShortName": "Powers",
     "BookPublisher": "Steve Jackson Games",
     "BookCode": "SJG01-0102",
     "BookISBN": "",

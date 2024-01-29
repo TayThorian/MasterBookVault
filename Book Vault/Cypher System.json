@@ -1,6 +1,7 @@
 [
   {
-  "BookName": "Cypher System Rulebook",
+  "BookName": "MCG205 - Cypher System Rulebook",
+  "BookShortName": "Cypher System Rulebook",
   "BookPublisher": "Monte Cook Games",
   "BookCode": "MCG205",
   "BookISBN": "978-1-939979-97-1",
@@ -38,7 +39,8 @@
   }
 },
 {
-  "BookName": "The Stars Are Fire",
+  "BookName": "MCG209 - The Stars Are Fire",
+  "BookShortName": "The Stars Are Fire",
   "BookPublisher": "Monte Cook Games",
   "BookCode": "MCG209",
   "BookISBN": "978-1-939979-99-5",
@@ -79,7 +81,8 @@
   }
 },
 {
-  "BookName": "Expanded Worlds",
+  "BookName": "MCG109 - Expanded Worlds",
+  "BookShortName": "Expanded Worlds",
   "BookPublisher": "Monte Cook Games",
   "BookCode": "MCG109",
   "BookISBN": "978-1-939979-62-9",
