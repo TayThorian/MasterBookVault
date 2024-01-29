@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Dungeon Master's Guide",
+    "BookName": "WTCA92190000 - Dungeon Master's Guide",
+    "BookShortName": "Dungeon Master's Guide",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTCA92190000",
     "BookISBN": "978-0-7869-6562-5",
@@ -34,7 +35,8 @@
     }
   } ,
   {
-    "BookName": "Monster Manual",
+    "BookName": "WTCA92180000 - Monster Manual",
+    "BookShortName": "Monster Manual",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTCA92180000",
     "BookISBN": "978-0-7869-6561-8",
@@ -67,7 +69,8 @@
     }
   } ,
   {
-    "BookName": "Player's Handbook",
+    "BookName": "WTCA92170000 - Player's Handbook",
+    "BookShortName": "Player's Handbook",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTCA92170000",
     "BookISBN": "978-0-7869-6560-1",
@@ -122,7 +125,8 @@
     }
   },
   {
-    "BookName": "Hoard of the Dragon Queen",
+    "BookName": "WTCA96060000 - Hoard of the Dragon Queen",
+    "BookShortName": "Hoard of the Dragon Queen",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTCA96060000",
     "BookISBN": "978-0-7869-6564-9",
@@ -155,7 +159,8 @@
     }
   },
   {
-    "BookName": "The Rise of Tiamat",
+    "BookName": "WTCA96070000 - The Rise of Tiamat",
+    "BookShortName": "The Rise of Tiamat",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTCA96070000",
     "BookISBN": "978-0-7869-6565-6",
@@ -187,7 +192,8 @@
     }
   },
   {
-    "BookName": "Princes of the Apocalypse",
+    "BookName": "WTCB24360000 - Princes of the Apocalypse",
+    "BookShortName": "Princes of the Apocalypse",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTCB24360000",
     "BookISBN": "",
@@ -219,7 +225,8 @@
     }
   },
   {
-    "BookName": "Sword Coast Adventurer's Guide",
+    "BookName": "WTCB24380000 - Sword Coast Adventurer's Guide",
+    "BookShortName": "Sword Coast Adventurer's Guide",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTCB24380000",
     "BookISBN": "978-0-7869-6580-9",
