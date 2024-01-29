@@ -1,8 +1,9 @@
 [
   {
-  "BookName": "Players Handbook",
+  "BookName": "TLG80108 - Players Handbook",
+  "BookShortName": "Players Handbook",
   "BookPublisher": "Troll Lord Games",
-  "BookCode": "",
+  "BookCode": "TLG80108",
   "BookISBN": "978-1-952379-36-9",
   "BookAuthor": "Davis Chenault, Mac Golden",
   "BookPublished": "",
@@ -33,7 +34,8 @@
   }
 },
 {
-  "BookName": "Monsters & Treasure",
+  "BookName": "TLG80115 - Monsters & Treasure",
+  "BookShortName": "Monsters & Treasure",
   "BookPublisher": "Troll Lord Games",
   "BookCode": "TLG80115",
   "BookISBN": "978-1-944135-83-6",
@@ -69,7 +71,8 @@
   }
 },
 {
-  "BookName": "Castle Keepers Guide",
+  "BookName": "TLG80154 - Castle Keepers Guide",
+  "BookShortName": "Castle Keepers Guide",
   "BookPublisher": "Troll Lord Games",
   "BookCode": "TLG80154",
   "BookISBN": "978-1-952379-48-2",
@@ -101,7 +104,8 @@
   }
 },
 {
-  "BookName": "Adventurers Spellbook",
+  "BookName": "TLG81421 - Adventurers Spellbook",
+  "BookShortName": "Adventurers Spellbook",
   "BookPublisher": "Troll Lord Games",
   "BookCode": "TLG81421",
   "BookISBN": "978-1-952379-37-6",
@@ -135,7 +139,8 @@
   }
 },
 {
-  "BookName": "Adventurers Backpack",
+  "BookName": "TLG80181 - Adventurers Backpack",
+  "BookShortName": "Adventurers Backpack",
   "BookPublisher": "Troll Lord Games",
   "BookCode": "TLG80181",
   "BookISBN": "978-1-944135-49-2",
