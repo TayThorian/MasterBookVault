@@ -1,6 +1,7 @@
 [
     {
     "BookName": "Cities Without Number",
+    "BookShortName": "Cities Without Number",
     "BookPublisher": "Sine Nomine Publishing",
     "BookCode": "",
     "BookISBN": "",
@@ -51,6 +52,7 @@
   } ,
   {
     "BookName": "Stars Without Number Revised Edition",
+    "BookShortName": "Stars Without Number Revised Edition",
     "BookPublisher": "Sine Nomine Publishing",
     "BookCode": "",
     "BookISBN": "",
@@ -104,6 +106,7 @@
   } ,
   {
     "BookName": "Worlds Without Number",
+    "BookShortName": "Worlds Without Number",
     "BookPublisher": "Sine Nomine Publishing",
     "BookCode": "",
     "BookISBN": "978-1-950965-07-6",
@@ -151,6 +154,7 @@
   } ,
   {
     "BookName": "The Atlas of the Latter Earth",
+    "BookShortName": "The Atlas of the Latter Earth",
     "BookPublisher": "Sine Nomine Publishing",
     "BookCode": "",
     "BookISBN": "978-1-950965-18-2",
