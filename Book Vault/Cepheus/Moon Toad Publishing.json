@@ -1,6 +1,7 @@
 [
   {
-  "BookName": "Cepheus Engine - Core Rules",
+  "BookName": "MTP404 - Cepheus Engine - Core Rules",
+  "BookShortName": "Cepheus Engine - Core Rules",
   "BookPublisher": "Moon Toad Publishing",
   "BookCode": "MTP404",
   "BookISBN": "",
@@ -34,7 +35,8 @@
   }
 },
 {
-  "BookName": "Spacecraft Design Guide",
+  "BookName": ""MTP405 - Spacecraft Design Guide",
+  "BookShortName": "Spacecraft Design Guide",
   "BookPublisher": "Moon Toad Publishing",
   "BookCode": "MTP405",
   "BookISBN": "",
@@ -69,7 +71,8 @@
   }
 },
 {
-  "BookName": "Vehicle Design Guide",
+  "BookName": "MTP406 - Vehicle Design Guide",
+  "BookShortName": "Vehicle Design Guide",
   "BookPublisher": "Moon Toad Publishing",
   "BookCode": "MTP406",
   "BookISBN": "",
