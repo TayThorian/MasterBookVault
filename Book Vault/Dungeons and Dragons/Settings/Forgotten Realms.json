@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Skullport",
+    "BookName": "TSR11348 - Skullport",
+    "BookShortName": "Skullport",
     "BookPublisher": "TSR",
     "BookCode": "TSR11348",
     "BookISBN": "0-7869-1348-7",
@@ -39,7 +40,8 @@
     }
   } ,
   {
-    "BookName": "The Wyrmskull Throne",
+    "BookName": "TSR11405 - The Wyrmskull Throne",
+    "BookShortName": "The Wyrmskull Throne",
     "BookPublisher": "TSR",
     "BookCode": "TSR11405",
     "BookISBN": "0-7869-1405-X",
@@ -72,7 +74,8 @@
     }
   },
   {
-    "BookName": "Sea of Fallen Stars",
+    "BookName": "TSR11393 - Sea of Fallen Stars",
+    "BookShortName": "Sea of Fallen Stars",
     "BookPublisher": "TSR",
     "BookCode": "TSR11393",
     "BookISBN": "0-78691-393-2",
@@ -109,7 +112,8 @@
     }
   },
   {
-    "BookName": "FOR12 - Demihumans of the Realms",
+    "BookName": "TSR11316 - FOR12 - Demihumans of the Realms",
+    "BookShortName": "FOR12 - Demihumans of the Realms",
     "BookPublisher": "TSR",
     "BookCode": "TSR11316",
     "BookISBN": "0-7869-1316-9",
@@ -143,7 +147,8 @@
     }
   },
   {
-    "BookName": "FOR13 - Secrets of the Magister",
+    "BookName": "TSR11430 - FOR13 - Secrets of the Magister",
+    "BookShortName": "FOR13 - Secrets of the Magister",
     "BookPublisher": "TSR",
     "BookCode": "TSR11430",
     "BookISBN": "0-7869-1430-0",
@@ -178,7 +183,8 @@
     }
   },
   {
-    "BookName": "FOR8 - Pages from the Mages",
+    "BookName": "TSR9491 - FOR8 - Pages from the Mages",
+    "BookShortName": "FOR8 - Pages from the Mages",
     "BookPublisher": "TSR",
     "BookCode": "TSR9491",
     "BookISBN": "0-7869-0183-7",
@@ -216,7 +222,8 @@
     }
   },
   {
-    "BookName": "Volo's Guide to Waterdeep",
+    "BookName": "TSR9379 - Volo's Guide to Waterdeep",
+    "BookShortName": "Volo's Guide to Waterdeep",
     "BookPublisher": "TSR",
     "BookCode": "TSR9379",
     "BookISBN": "1-56076-335-3",
@@ -248,7 +255,8 @@
     }
   } ,
   {
-    "BookName": "Volo's Guide to the North",
+    "BookName": "TSR9393 - Volo's Guide to the North",
+    "BookShortName": "Volo's Guide to the North",
     "BookPublisher": "TSR",
     "BookCode": "TSR9393",
     "BookISBN": "1-56076-678-6",
@@ -280,7 +288,8 @@
     }
   } ,
   {
-    "BookName": "Volo's Guide to the Sword Coast",
+    "BookName": "TSR9460 - Volo's Guide to the Sword Coast",
+    "BookShortName": "Volo's Guide to the Sword Coast",
     "BookPublisher": "TSR",
     "BookCode": "TSR9460",
     "BookISBN": "1-56076-904-1",
@@ -312,7 +321,8 @@
     }
   } ,
   {
-    "BookName": "Volo's Guide to Cormyr",
+    "BookName": "TSR9486 - Volo's Guide to Cormyr",
+    "BookShortName": "Volo's Guide to Cormyr",
     "BookPublisher": "TSR",
     "BookCode": "TSR9486",
     "BookISBN": "0-7869-0151-9",
@@ -344,7 +354,8 @@
     }
   } ,
   {
-    "BookName": "Volo's Guide to the Dalelands",
+    "BookName": "TSR9524 - Volo's Guide to the Dalelands",
+    "BookShortName": "Volo's Guide to the Dalelands",
     "BookPublisher": "TSR",
     "BookCode": "TSR9524",
     "BookISBN": "0-7869-0406-2",
@@ -376,7 +387,8 @@
     }
   } ,
   {
-    "BookName": "Volo's Guide to All Things Magical",
+    "BookName": "TSR9535 - Volo's Guide to All Things Magical",
+    "BookShortName": "Volo's Guide to All Things Magical",
     "BookPublisher": "TSR",
     "BookCode": "TSR9535",
     "BookISBN": "0-7869-0446-1",
@@ -408,7 +420,8 @@
     }
   } ,
   {
-    "BookName": "Volo's Guide to Baldur's Gate II",
+    "BookName": "TSR11626 - Volo's Guide to Baldur's Gate II",
+    "BookShortName": "Volo's Guide to Baldur's Gate II",
     "BookPublisher": "TSR",
     "BookCode": "TSR11626",
     "BookISBN": "0-7869-1626-5",
@@ -449,7 +462,8 @@
     }
   },
   {
-    "BookName": "Forgotten Realms Campaign Set",
+    "BookName": "TSR1031 - Forgotten Realms Campaign Set",
+    "BookShortName": "Forgotten Realms Campaign Set",
     "BookPublisher": "TSR",
     "BookCode": "TSR1031",
     "BookISBN": "0-88038-472-7",
@@ -488,7 +502,8 @@
     }
   }  ,
   {
-    "BookName": "Drizzt Do'Urden's Guide to the Underdark",
+    "BookName": "TSR11509 - Drizzt Do'Urden's Guide to the Underdark",
+    "BookShortName": "Drizzt Do'Urden's Guide to the Underdark",
     "BookPublisher": "TSR",
     "BookCode": "TSR11509",
     "BookISBN": "0-7869-1509-9",
@@ -522,7 +537,8 @@
     }
   } ,
   {
-    "BookName": "Kidnapped",
+    "BookName": "TSR9590 - Kidnapped",
+    "BookShortName": "Kidnapped",
     "BookPublisher": "TSR",
     "BookCode": "TSR9590",
     "BookISBN": "",
@@ -556,7 +572,8 @@
     }
   } ,
   {
-    "BookName": "FRM1 - The Jungles of Chult",
+    "BookName": "TSR9389 - FRM1 - The Jungles of Chult",
+    "BookShortName": "FRM1 - The Jungles of Chult",
     "BookPublisher": "TSR",
     "BookCode": "TSR9389",
     "BookISBN": "1-56076-605-0",
@@ -603,7 +620,8 @@
     }
   },
   {
-    "BookName": "FR1 - Waterdeep & The North",
+    "BookName": "TSR921 - FR1 - Waterdeep & The North",
+    "BookShortName": "FR1 - Waterdeep & The North",
     "BookPublisher": "TSR",
     "BookCode": "TSR9213",
     "BookISBN": "0-88038-490-5",
@@ -637,7 +655,8 @@
     }
   },
   {
-    "BookName": "FR2 - Moonshae",
+    "BookName": "TSR9217 - FR2 - Moonshae",
+    "BookShortName": "FR2 - Moonshae",
     "BookPublisher": "TSR",
     "BookCode": "TSR9217",
     "BookISBN": "0-88038-494-8",
@@ -670,7 +689,8 @@
     }
   }  ,
   {
-    "BookName": "FR3 - Empires of the Sands",
+    "BookName": "TSR9224 - FR3 - Empires of the Sands",
+    "BookShortName": "FR3 - Empires of the Sands",
     "BookPublisher": "TSR",
     "BookCode": "TSR9224",
     "BookISBN": "0-88038-539-1",
@@ -704,7 +724,8 @@
     }
   }  ,
   {
-    "BookName": "FR4 - The Magister",
+    "BookName": "TSR9229 - FR4 - The Magister",
+    "BookShortName": "FR4 - The Magister",
     "BookPublisher": "TSR",
     "BookCode": "TSR9229",
     "BookISBN": "0-88038-564-2",
@@ -738,7 +759,8 @@
     }
   }  ,
   {
-    "BookName": "FR5 - The Savage Frontier",
+    "BookName": "TSR9233 - FR5 - The Savage Frontier",
+    "BookShortName": "FR5 - The Savage Frontier",
     "BookPublisher": "TSR",
     "BookCode": "TSR9233",
     "BookISBN": "0-88038-593-6",
@@ -771,7 +793,8 @@
     }
   },
   {
-    "BookName": "FR6 - Dreams of the Red Wizards",
+    "BookName": "TSR9235 - FR6 - Dreams of the Red Wizards",
+    "BookShortName": "FR6 - Dreams of the Red Wizards",
     "BookPublisher": "TSR",
     "BookCode": "TSR9235",
     "BookISBN": "0-88038-615-0",
@@ -804,7 +827,8 @@
     }
   } ,
   {
-    "BookName": "FR7 - Hall of Heroes",
+    "BookName": "TSR9252 - FR7 - Hall of Heroes",
+    "BookShortName": "FR7 - Hall of Heroes",
     "BookPublisher": "TSR",
     "BookCode": "TSR9252",
     "BookISBN": "0-88038-711-4",
@@ -840,7 +864,8 @@
     }
   },
   {
-    "BookName": "FR8 - Cities of Mystery",
+    "BookName": "TSR9262 - FR8 - Cities of Mystery",
+    "BookShortName": "FR8 - Cities of Mystery",
     "BookPublisher": "TSR",
     "BookCode": "TSR9262",
     "BookISBN": "0-8803-8744-0",
@@ -874,7 +899,8 @@
     }
   },
   {
-    "BookName": "Cormanthyr Empire of Elves",
+    "BookName": "TSR1165 - Cormanthyr Empire of Elves",
+    "BookShortName": "Cormanthyr Empire of Elves",
     "BookPublisher": "TSR",
     "BookCode": "TSR1165",
     "BookISBN": "0-78690-761-4",
@@ -920,7 +946,8 @@
     }
   },
   {
-    "BookName": "How the Mighty Are Fallen",
+    "BookName": "TSR9540 - How the Mighty Are Fallen",
+    "BookShortName": "How the Mighty Are Fallen",
     "BookPublisher": "TSR",
     "BookCode": "TSR9540",
     "BookISBN": "0-78690-537-9",
@@ -961,7 +988,8 @@
     }
   },
   {
-    "BookName": "The Fall of Myth Drannor",
+    "BookName": "TSR9558 - The Fall of Myth Drannor",
+    "BookShortName": "The Fall of Myth Drannor",
     "BookPublisher": "TSR",
     "BookCode": "TSR9558",
     "BookISBN": "0-78691-235-9",
@@ -999,7 +1027,8 @@
     }
   },
   {
-    "BookName": "FRS1 - The Dalelands",
+    "BookName": "TSR9392 - FRS1 - The Dalelands",
+    "BookShortName": "FRS1 - The Dalelands",
     "BookPublisher": "TSR",
     "BookCode": "TSR9392",
     "BookISBN": "1-56076-667-0",
@@ -1033,7 +1062,8 @@
     }
   },
   {
-    "BookName": "Forgotten Realms Campaign Setting",
+    "BookName": "WTC882360000 - Forgotten Realms Campaign Setting",
+    "BookShortName": "Forgotten Realms Campaign Setting",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTC882360000",
     "BookISBN": "0-7869-1836-5",
@@ -1071,7 +1101,8 @@
     }
   },
   {
-    "BookName": "Unapproachable East",
+    "BookName": "WTC176650000 - Unapproachable East",
+    "BookShortName": "Unapproachable East",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTC176650000",
     "BookISBN": "0-7869-2881-6",
@@ -1108,7 +1139,8 @@
     }
   },
   {
-    "BookName": "LC1 - Gateway to Raven's Bluff",
+    "BookName": "TSR8908 - LC1 - Gateway to Raven's Bluff",
+    "BookShortName": "LC1 - Gateway to Raven's Bluff",
     "BookPublisher": "TSR",
     "BookCode": "TSR8908",
     "BookISBN": "1-56076-048-6",
@@ -1144,7 +1176,8 @@
     }
   },
   {
-    "BookName": "LC2 - Inside Raven's Bluff, The Living City",
+    "BookName": "TSR9282 - LC2 - Inside Raven's Bluff, The Living City",
+    "BookShortName": "LC2 - Inside Raven's Bluff, The Living City",
     "BookPublisher": "TSR",
     "BookCode": "TSR9282",
     "BookISBN": "",
@@ -1176,7 +1209,8 @@
     }
   },
   {
-    "BookName": "LC3 - Night Watch in the Living City",
+    "BookName": "TSR9316 - LC3 - Night Watch in the Living City",
+    "BookShortName": "LC3 - Night Watch in the Living City",
     "BookPublisher": "TSR",
     "BookCode": "TSR9316",
     "BookISBN": "1-56076-068-0",
@@ -1210,7 +1244,8 @@
     }
   },
   {
-    "BookName": "LC4 - Port of Raven's Bluff",
+    "BookName": "TSR9315 - LC4 - Port of Raven's Bluff",
+    "BookShortName": "LC4 - Port of Raven's Bluff",
     "BookPublisher": "TSR",
     "BookCode": "TSR9315",
     "BookISBN": "1-56076-120-2",
@@ -1244,7 +1279,8 @@
     }
   },
   {
-    "BookName": "The City of Ravens Bluff",
+    "BookName": "TSR9575 - The City of Ravens Bluff",
+    "BookShortName": "The City of Ravens Bluff",
     "BookPublisher": "TSR",
     "BookCode": "TSR9575",
     "BookISBN": "0-78691-195-6",
@@ -1281,7 +1317,8 @@
     }
   },
   {
-    "BookName": "Menzoberranzan - City of Intrigue",
+    "BookName": "WTC398890000 - Menzoberranzan - City of Intrigue",
+    "BookShortName": "Menzoberranzan - City of Intrigue",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTC398890000",
     "BookISBN": "978-0-7869-6036-1",
@@ -1315,7 +1352,8 @@
     }
   },
   {
-    "BookName": "Ed Greenwood Presents Elminster's Forgotten Realm",
+    "BookName": "WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm",
+    "BookShortName": "Ed Greenwood Presents Elminster's Forgotten Realm",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTC398880000",
     "BookISBN": "978-0-7869-6034-7",
@@ -1348,7 +1386,8 @@
     }
   },
   {
-    "BookName": "Neverwinter Campaign Setting",
+    "BookName": "WTC317290000 - Neverwinter Campaign Setting",
+    "BookShortName": "Neverwinter Campaign Setting",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTC317290000",
     "BookISBN": "978-0-7869-5814-6",
@@ -1383,7 +1422,8 @@
     }
   },
   {
-    "BookName": "Forgotten Realms Campaign Guide",
+    "BookName": "WTC218287200 - Forgotten Realms Campaign Guide",
+    "BookShortName": "Forgotten Realms Campaign Guide",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTC218287200",
     "BookISBN": "978-0-7869-4924-3",
@@ -1417,7 +1457,8 @@
     }
   },
   {
-    "BookName": "Forgotten Realms Player's Guide",
+    "BookName": "WTC218587200 - Forgotten Realms Player's Guide",
+    "BookShortName": "Forgotten Realms Player's Guide",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTC218587200",
     "BookISBN": "978-0-7869-4929-8",
@@ -1451,7 +1492,8 @@
     }
   },
   {
-    "BookName": "FR1 - Scepter Tower of Spellgard",
+    "BookName": "WTC21764740 - FR1 - Scepter Tower of Spellgard",
+    "BookShortName": "FR1 - Scepter Tower of Spellgard",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTC21764740",
     "BookISBN": "978-0-7869-4954-0",
@@ -1485,7 +1527,8 @@
     }
   },
   {
-    "BookName": "The Sword of the Dales",
+    "BookName": "TSR9484 - The Sword of the Dales",
+    "BookShortName": "The Sword of the Dales",
     "BookPublisher": "TSR",
     "BookCode": "TSR9484",
     "BookISBN": "0-7869-0126-8",
@@ -1520,7 +1563,8 @@
     }
   },
   {
-    "BookName": "The Secret of Spiderhaunt",
+    "BookName": "TSR9485 - The Secret of Spiderhaunt",
+    "BookShortName": "The Secret of Spiderhaunt",
     "BookPublisher": "TSR",
     "BookCode": "TSR9485",
     "BookISBN": "0-7869-0150-0",
@@ -1556,7 +1600,8 @@
     }
   },
   {
-    "BookName": "The Return of Randal Morn",
+    "BookName": "TSR9488 - The Return of Randal Morn",
+    "BookShortName": "The Return of Randal Morn",
     "BookPublisher": "TSR",
     "BookCode": "TSR9488",
     "BookISBN": "0-78690-170-5",
@@ -1590,7 +1635,8 @@
     }
   },
   {
-    "BookName": "REF5 - Lords of Darkness",
+    "BookName": "TSR9240 - REF5 - Lords of Darkness",
+    "BookShortName": "REF5 - Lords of Darkness",
     "BookPublisher": "TSR",
     "BookCode": "TSR9240",
     "BookISBN": "0-88038-622-3",
@@ -1637,7 +1683,8 @@
     }
   },
   {
-    "BookName": "PG2 - Player's Guide to the Forgotten Realms",
+    "BookName": "TSR2142 - PG2 - Player's Guide to the Forgotten Realms",
+    "BookShortName": "PG2 - Player's Guide to the Forgotten Realms",
     "BookPublisher": "TSR",
     "BookCode": "TSR2142",
     "BookISBN": "1-56076-695-6",
@@ -1673,7 +1720,8 @@
     }
   },
   {
-    "BookName": "FRC1 - Ruins of Adventure",
+    "BookName": "TSR9238 - FRC1 - Ruins of Adventure",
+    "BookShortName": "FRC1 - Ruins of Adventure",
     "BookPublisher": "TSR",
     "BookCode": "TSR9238",
     "BookISBN": "0-88038-588-X",
@@ -1706,7 +1754,8 @@
     }
   },
   {
-    "BookName": "FRC2 - Curse of the Azure Bonds",
+    "BookName": "TSR9239 - FRC2 - Curse of the Azure Bonds",
+    "BookShortName": "FRC2 - Curse of the Azure Bonds",
     "BookPublisher": "TSR",
     "BookCode": "TSR9239",
     "BookISBN": "0-88038-606-1",
@@ -1740,7 +1789,8 @@
     }
   },
   {
-    "BookName": "Monsters of Faerun",
+    "BookName": "WTC880990000 - Monsters of Faerun",
+    "BookShortName": "Monsters of Faerun",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTC880990000",
     "BookISBN": "0-7869-1832-2",
@@ -1775,7 +1825,8 @@
     }
   },
   {
-    "BookName": "Magic of Faerun",
+    "BookName": "WTC882410000 - Magic of Faerun",
+    "BookShortName": "Magic of Faerun",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTC882410000",
     "BookISBN": "0-7869-1964-7",
@@ -1807,7 +1858,8 @@
     }
   },
   {
-    "BookName": "The Horde",
+    "BookName": "TSR1055 - The Horde",
+    "BookShortName": "The Horde",
     "BookPublisher": "TSR",
     "BookCode": "TSR1055",
     "BookISBN": "0-88038-868-4",
@@ -1840,7 +1892,8 @@
     }
   },
   {
-    "BookName": "Faiths & Avatars",
+    "BookName": "TSR9516 - Faiths & Avatars",
+    "BookShortName": "Faiths & Avatars",
     "BookPublisher": "TSR",
     "BookCode": "TSR9516",
     "BookISBN": "0-78690-384-8",
@@ -1879,7 +1932,8 @@
     }
   },
   {
-    "BookName": "Powers & Pantheons",
+    "BookName": "TSR9563 - Powers & Pantheons",
+    "BookShortName": "Powers & Pantheons",
     "BookPublisher": "TSR",
     "BookCode": "TSR9563",
     "BookISBN": "0-78690-657-X",
@@ -1912,7 +1966,8 @@
     }
   },
   {
-    "BookName": "Demihuman Deities",
+    "BookName": "TSR9585 - Demihuman Deities",
+    "BookShortName": "Demihuman Deities",
     "BookPublisher": "TSR",
     "BookCode": "TSR9585",
     "BookISBN": "0-78691-239-1",
@@ -1954,7 +2009,8 @@
     }
   },
   {
-    "BookName": "Heroes' Lorebook",
+    "BookName": "TSR9525 - Heroes' Lorebook",
+    "BookShortName": "Heroes' Lorebook",
     "BookPublisher": "TSR",
     "BookCode": "TSR9525",
     "BookISBN": "0-78690-412-7",
@@ -1989,7 +2045,8 @@
     }
   },
   {
-    "BookName": "Villains' Lorebook",
+    "BookName": "TSR9552 - Villains' Lorebook",
+    "BookShortName": "Villains' Lorebook",
     "BookPublisher": "TSR",
     "BookCode": "TSR9552",
     "BookISBN": "0-78691-236-7",
@@ -2019,6 +2076,39 @@
       "The Xanathar, the beholder crimelord of Waterdeep.",
       "Halaster Blackcloak, the mad master of Undermountain.",
       "This \"Who's Who\" of the evildoers of the Realms is a valuable addition to any campaign."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "WTC885670000 - Silver Marches",
+    "BookShortName": "Silver Marches",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC885670000",
+    "BookISBN": "0-7869-2835-2",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Campaign Accessory",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\WTC885670000 - Silver Marches.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
     ],
     "TableOfContents": {
       "title": "Book",

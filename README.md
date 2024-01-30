@@ -93,25 +93,25 @@
 - TSR2129 - MC13 - Monstrous Compendium Al-Qadim Appendix
 - TSR1091 - City Of Delights
 - TSR1077 - Land Of Fate
-- TSR11348 -
-- TSR11405 -
-- TSR11316 -
-- TSR11430 -
-- TSR9491 -
-- TSR9379 -
-- TSR9460 -
-- TSR9486 -
-- TSR9524 -
-- TSR9535 -
-- TSR11509 -
-- TSR9590 -
-- TSR9389 -
-- TSR8908 -
-- TSR9282 -
-- TSR9315 -
+- TSR11348 - Skullport
+- TSR11405 - The Wyrmskull Throne
+- TSR11316 - FOR12 - Demihumans of the Realms
+- TSR11430 - FOR13 - Secrets of the Magister
+- TSR9491 - FOR8 - Pages from the Mages
+- TSR9379 - Volo's Guide to Waterdeep
+- TSR9460 - Volo's Guide to the Sword Coast
+- TSR9486 - Volo's Guide to Cormyr
+- TSR9524 - Volo's Guide to the Dalelands
+- TSR9535 - Volo's Guide to All Things Magical
+- TSR11509 - Drizzt Do'Urden's Guide to the Underdark
+- TSR9590 - Kidnapped
+- TSR9389 - FRM1 - The Jungles of Chult
+- TSR8908 - LC1 - Gateway to Raven's Bluff
+- TSR9282 - LC2 - Inside Raven's Bluff, The Living City
+- TSR9315 - LC4 - Port of Raven's Bluff
 ## Wizards of the Coast
-- WTC398890000 -
-- WTC398880000 -
+- WTC398890000 - Menzoberranzan - City of Intrigue
+- WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
 # PDF's Books to Source
 ## Evil Hate Productions
 - EHP0034 - Adversary Toolkit
@@ -136,9 +136,9 @@
 - FLFTOR012 -
 - FLFALE017 - Building Better Worlds
 ## Sine Nomine Publishing
-- -
-- -
-- -
+- - Cities Without Number
+- - Stars Without Number Revised Edition
+- - Worlds Without Number
 ## EN Publishing
 - ENP0101 - N.E.W. - Science Fiction Roleplaying Game
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
@@ -274,50 +274,50 @@
 - TSR8446 -
 - TSR8372 -
 - TSR8447 -
-- TSR11405 -
-- TSR11393 -
-- TSR11316 -
-- TSR9491 -
-- TSR9379 -
-- TSR9393 -
-- TSR9460 -
-- TSR9486 -
-- TSR9524 -
-- TSR9535 -
-- TSR9590 -
-- TSR9389 -
-- TSR9235 -
-- TSR9252 -
-- TSR1165 -
-- TSR9540 -
-- TSR9558 -
-- TSR9392 -
-- TSR8908 -
-- TSR9282 -
-- TSR9316 -
-- TSR9315 -
-- TSR9575 -
-- TSR9484 -
-- TSR9485 -
-- TSR9488 -
-- TSR9240 -
-- TSR2142 -
-- TSR9238 -
-- TSR9239 -
-- TSR1055 -
-- TSR9516 -
-- TSR9563 -
-- TSR9585 -
-- TSR9552 -
+- TSR11405 - The Wyrmskull Throne
+- TSR11393 - Sea of Fallen Stars
+- TSR11316 - FOR12 - Demihumans of the Realms
+- TSR9491 - FOR8 - Pages from the Mages
+- TSR9379 - Volo's Guide to Waterdeep
+- TSR9393 - Volo's Guide to the North
+- TSR9460 - Volo's Guide to the Sword Coast
+- TSR9486 - Volo's Guide to Cormyr
+- TSR9524 - Volo's Guide to the Dalelands
+- TSR9535 - Volo's Guide to All Things Magical
+- TSR9590 - Kidnapped
+- TSR9389 - FRM1 - The Jungles of Chult
+- TSR9235 - FR6 - Dreams of the Red Wizards
+- TSR9252 - FR7 - Hall of Heroes
+- TSR1165 - Cormanthyr Empire of Elves
+- TSR9540 - How the Mighty Are Fallen
+- TSR9558 - The Fall of Myth Drannor
+- TSR9392 - FRS1 - The Dalelands
+- TSR8908 - LC1 - Gateway to Raven's Bluff
+- TSR9282 - LC2 - Inside Raven's Bluff, The Living City
+- TSR9316 - LC3 - Night Watch in the Living City
+- TSR9315 - LC4 - Port of Raven's Bluff
+- TSR9575 - The City of Ravens Bluff
+- TSR9484 - The Sword of the Dales
+- TSR9485 - The Secret of Spiderhaunt
+- TSR9488 - The Return of Randal Morn
+- TSR9240 - REF5 - Lords of Darkness
+- TSR2142 - PG2 - Player's Guide to the Forgotten Realms
+- TSR9238 - FRC1 - Ruins of Adventure
+- TSR9239 - FRC2 - Curse of the Azure Bonds
+- TSR1055 - The Horde
+- TSR9516 - Faiths & Avatars
+- TSR9563 - Powers & Pantheons
+- TSR9585 - Demihuman Deities
+- TSR9552 - Villains' Lorebook
 - TSR2023 -
 - TSR9065 -
 - TSR9222 -
 ## Wizards of the Coast
-- WTC398890000 -
-- WTC398880000 -
-- WTC317290000 -
-- WTC218287200 -
-- WTC218587200 -
-- WTC21764740 -
-- WTC880990000 -
-- WTC882410000 -
+- WTC398890000 - Menzoberranzan - City of Intrigue
+- WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
+- WTC317290000 - Neverwinter Campaign Setting
+- WTC218287200 - Forgotten Realms Campaign Guide
+- WTC218587200 - Forgotten Realms Player's Guide
+- WTC21764740 - FR1 - Scepter Tower of Spellgard
+- WTC880990000 - Monsters of Faerun
+- WTC882410000 - Magic of Faerun
