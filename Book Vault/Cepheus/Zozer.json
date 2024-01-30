@@ -1,6 +1,7 @@
 [
   {
     "BookName": "Hostile Rules",
+    "BookShortName": "Hostile Rules",
     "BookPublisher": "Zozer Games",
     "BookCode": "N/A",
     "BookISBN": "",
@@ -48,6 +49,7 @@
 },
 {
   "BookName": "Hostile Setting",
+  "BookShortName": "Hostile Setting",
   "BookPublisher": "Zozer Games",
   "BookCode": "",
   "BookISBN": "",
@@ -80,6 +82,7 @@
 },
 {
   "BookName": "Hostile Situation Report 001 - Ghost Ship",
+  "BookShortName": "Hostile Situation Report 001 - Ghost Ship",
   "BookPublisher": "Zozer Games",
   "BookCode": "",
   "BookISBN": "",
@@ -112,6 +115,7 @@
 },
 {
   "BookName": "Hostile Situation Report 002 - Snakehead",
+  "BookShortName": "Hostile Situation Report 002 - Snakehead",
   "BookPublisher": "Zozer Games",
   "BookCode": "",
   "BookISBN": "",
@@ -144,6 +148,7 @@
 },
 {
   "BookName": "Hostile Situation Report 003 - Repellant",
+  "BookShortName": "Hostile Situation Report 003 - Repellant",
   "BookPublisher": "Zozer Games",
   "BookCode": "",
   "BookISBN": "",
@@ -176,6 +181,7 @@
 },
 {
   "BookName": "Hostile Situation Report 004 - Psychosis",
+  "BookShortName": "Hostile Situation Report 004 - Psychosis",
   "BookPublisher": "Zozer Games",
   "BookCode": "",
   "BookISBN": "",
@@ -208,6 +214,7 @@
 },
 {
   "BookName": "Hostile Situation Report 005 - One Of Us",
+  "BookShortName": "Hostile Situation Report 005 - One Of Us",
   "BookPublisher": "Zozer Games",
   "BookCode": "",
   "BookISBN": "",
@@ -240,6 +247,7 @@
 },
 {
   "BookName": "Hostile Situation Report 006 - Hunted",
+  "BookShortName": "Hostile Situation Report 006 - Hunted",
   "BookPublisher": "Zozer Games",
   "BookCode": "",
   "BookISBN": "",
@@ -272,6 +280,7 @@
 },
 {
   "BookName": "Hostile Situation Report 007 - The Ark",
+  "BookShortName": "Hostile Situation Report 007 - The Ark",
   "BookPublisher": "Zozer Games",
   "BookCode": "",
   "BookISBN": "",
@@ -304,6 +313,7 @@
 },
 {
   "BookName": "Hostile Situation Report 008 - Life Cycle",
+  "BookShortName": "Hostile Situation Report 008 - Life Cycle",
   "BookPublisher": "Zozer Games",
   "BookCode": "",
   "BookISBN": "",
@@ -336,6 +346,7 @@
 },
 {
   "BookName": "Hostile Situation Report 009 -Extraction",
+  "BookShortName": "Hostile Situation Report 009 -Extraction",
   "BookPublisher": "Zozer Games",
   "BookCode": "",
   "BookISBN": "",
@@ -368,6 +379,7 @@
 },
 {
   "BookName": "Hostile Situation Report 010 - Street Scum",
+  "BookShortName": "Hostile Situation Report 010 - Street Scum",
   "BookPublisher": "Zozer Games",
   "BookCode": "",
   "BookISBN": "",
@@ -400,6 +412,7 @@
 },
 {
   "BookName": "Hostile Ultra-Lite Rules",
+  "BookShortName": "Hostile Ultra-Lite Rules",
   "BookPublisher": "Zozer Games",
   "BookCode": "",
   "BookISBN": "",
