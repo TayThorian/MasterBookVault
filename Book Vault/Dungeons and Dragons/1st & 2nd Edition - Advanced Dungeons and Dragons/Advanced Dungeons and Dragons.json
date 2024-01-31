@@ -1,7 +1,7 @@
 [
     {
     "BookName": "TSR2112 - DMGR1 - Campaign Sourcebook and Catacomb Guide",
-    "BookShortName": "",
+    "BookShortName": "DMGR1 - Campaign Sourcebook and Catacomb Guide",
     "BookPublisher": "TSR",
     "BookCode": "TSR2112",
     "BookISBN": "0-88038-817-X",
@@ -32,7 +32,7 @@
   } ,
   {
     "BookName": "TSR2114 - DMGR2 - Castle Guide",
-    "BookShortName": "",
+    "BookShortName": "DMGR2 - Castle Guide",
     "BookPublisher": "TSR",
     "BookCode": "TSR2114",
     "BookISBN": "0-88038-837-4",
@@ -64,7 +64,7 @@
   } ,
   {
     "BookName": "TSR2151 - DMGR7 - The Complete Book of Necromancers",
-    "BookShortName": "",
+    "BookShortName": "DMGR7 - The Complete Book of Necromancers",
     "BookPublisher": "TSR",
     "BookCode": "TSR2151",
     "BookISBN": "0-7869-0106-3",
@@ -95,7 +95,7 @@
   },
   {
     "BookName": "TSR2141 - Encyclopedia Magica - Volume One",
-    "BookShortName": "",
+    "BookShortName": "Encyclopedia Magica - Volume One",
     "BookPublisher": "TSR",
     "BookCode": "TSR2141",
     "BookISBN": "1-56076-842-8",
@@ -128,7 +128,7 @@
   },
   {
     "BookName": "TSR2152 - Encyclopedia Magica - Volume Two",
-    "BookShortName": "",
+    "BookShortName": "Encyclopedia Magica - Volume Two",
     "BookPublisher": "TSR",
     "BookCode": "TSR2152",
     "BookISBN": "0-7869-0124-1",
@@ -161,7 +161,7 @@
   },
   {
     "BookName": "TSR2157 - Encyclopedia Magica - Volume Three",
-    "BookShortName": "",
+    "BookShortName": "Encyclopedia Magica - Volume Three",
     "BookPublisher": "TSR",
     "BookCode": "TSR2157",
     "BookISBN": "0-7869-0187-X",
@@ -194,7 +194,7 @@
   },
   {
     "BookName": "TSR2161 - Encyclopedia Magica - Volume Four",
-    "BookShortName": "",
+    "BookShortName": "Encyclopedia Magica - Volume Four",
     "BookPublisher": "TSR",
     "BookCode": "TSR2161",
     "BookISBN": "0-7869-0289-2",
@@ -227,7 +227,7 @@
   },
   {
     "BookName": "TSR9506 - Chronomancer",
-    "BookShortName": "",
+    "BookShortName": "Chronomancer",
     "BookPublisher": "TSR",
     "BookCode": "TSR9506",
     "BookISBN": "0-7869-0325-2",
@@ -262,8 +262,8 @@
     }
   } ,
   {
-    "BookName": "Shaman",
-    "BookShortName": "",
+    "BookName": "TSR9507 - Shaman",
+    "BookShortName": "Shaman",
     "BookPublisher": "TSR",
     "BookCode": "TSR9507",
     "BookISBN": "0-7869-0326-0",
@@ -297,8 +297,8 @@
     }
   },
   {
-    "BookName": "Monstrous Compendium Annual - Volume Four",
-    "BookShortName": "",
+    "BookName": "TSR2173 - Monstrous Compendium Annual - Volume Four",
+    "BookShortName": "Monstrous Compendium Annual - Volume Four",
     "BookPublisher": "TSR",
     "BookCode": "TSR2173",
     "BookISBN": "0-7869-1212-X",
@@ -332,8 +332,8 @@
     }
   },
   {
-    "BookName": "GDQ1-7 - Queen of the Spiders",
-    "BookShortName": "",
+    "BookName": "TSR9179 - GDQ1-7 - Queen of the Spiders",
+    "BookShortName": "GDQ1-7 - Queen of the Spiders",
     "BookPublisher": "TSR",
     "BookCode": "TSR9179",
     "BookISBN": "0-88038-321-6",
@@ -367,8 +367,8 @@
     }
   },
   {
-    "BookName": "U1 - The Sinister Secret of Saltmarsh",
-    "BookShortName": "",
+    "BookName": "TSR9062 - U1 - The Sinister Secret of Saltmarsh",
+    "BookShortName": "U1 - The Sinister Secret of Saltmarsh",
     "BookPublisher": "TSR",
     "BookCode": "TSR9062",
     "BookISBN": "0-935696-80-6",
@@ -401,8 +401,8 @@
     }
   },
   {
-    "BookName": "U2 - Danger at Dunwater",
-    "BookShortName": "",
+    "BookName": "TSR9064 - U2 - Danger at Dunwater",
+    "BookShortName": "U2 - Danger at Dunwater",
     "BookPublisher": "TSR",
     "BookCode": "TSR9064",
     "BookISBN": "0-88038-001-2",
@@ -435,8 +435,8 @@
     }
   },
   {
-    "BookName": "U3 - The Final Enemy",
-    "BookShortName": "",
+    "BookName": "TSR9076 - U3 - The Final Enemy",
+    "BookShortName": "U3 - The Final Enemy",
     "BookPublisher": "TSR",
     "BookCode": "TSR9076",
     "BookISBN": "0-88038-028-4",
@@ -469,8 +469,8 @@
     }
   } ,
   {
-    "BookName": "DMGR3 - Arms and Equipment Guide",
-    "BookShortName": "",
+    "BookName": "TSR2123 - DMGR3 - Arms and Equipment Guide",
+    "BookShortName": "DMGR3 - Arms and Equipment Guide",
     "BookPublisher": "TSR",
     "BookCode": "TSR2123",
     "BookISBN": "1-56076-109-1",
@@ -503,8 +503,8 @@
     }
   } ,
   {
-    "BookName": "DMGR4 - Monster Mythology",
-    "BookShortName": "",
+    "BookName": "TSR2128 - DMGR4 - Monster Mythology",
+    "BookShortName": "DMGR4 - Monster Mythology",
     "BookPublisher": "TSR",
     "BookCode": "TSR2128",
     "BookISBN": "1-56076-362-0",
