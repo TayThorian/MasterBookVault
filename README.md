@@ -223,17 +223,17 @@
 - TSR2013 -
 - TSR2012 -
 - TSR2108 -
-- TSR2138 -
-- TSR2121 -
-- TSR2160 -
-- TSR2159 -
-- TSR9322 -
-- TSR9323 -
-- TSR9376 -
-- TSR9370 -
-- TSR9425 -
-- TSR9408 -
-- TSR9469 -
+- TSR2138 - Book of Artifacts
+- TSR2121 - Tome of Magic
+- TSR2160 - Dungeon Master Guide
+- TSR2159 - Player's Handbook - 2nd Edition
+- TSR9322 - HR1 - Vikings Campaign Sourcebook
+- TSR9323 - HR2 - Charlemagne's Paladins Campaign Sourcebook
+- TSR9376 - HR3 - Celts Campaign Sourcebook
+- TSR9370 - HR4 - A Mighty Fortress Campaign Sourcebook
+- TSR9425 - HR5 - The Glory of Rome Campaign Sourcebook
+- TSR9408 - HR6 - Age of Heroes Campaign Sourcebook
+- TSR9469 - HR7 - The Crusades Campaign Sourcebook
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
