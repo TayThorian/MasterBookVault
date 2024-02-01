@@ -36,12 +36,16 @@
 - ICE3700 - Lost Realm of Cardolan
 - ICE3800 - Far Harad The Scorched Land
 - ICE3900 - Shadow in the South
+- ICE8005 - Creatures of Middle Earth
+- ICE8006 - Treasures of Middle Earth
+- ICE8007 - Angus McBrides Characters of Middle Earth
+- ICE8010 - Bree & The Barrow Downs
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Rolemaster Unified - Spell Law
 ## Monte Cook Games
 - MCG361 - The Glimmering Valley
 ## Free League Publishing
-- FLFTOR012 -
+- FLFTOR012 - Tales from the Lone Lands
 - FLFALE017 - Building Better Worlds
 - FLFFBL014 - Crypt of the Mellified Mage
 - MUH051557 - The Spire of Quetzel
@@ -133,7 +137,7 @@
 - GCP-SMP-4600 - Races & Cultures
 - ICE9000 - Space Master - Boxed Set
 ## Free League Publishing
-- FLFTOR012 -
+- FLFTOR012 - Tales from the Lone Lands
 - FLFALE017 - Building Better Worlds
 ## Sine Nomine Publishing
 - - Cities Without Number
