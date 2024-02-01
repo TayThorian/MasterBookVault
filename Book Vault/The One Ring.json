@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Tales from the Lone Lands",
+    "BookName": "FLFTOR012 - Tales from the Lone Lands",
+    "BookShortName": "Tales from the Lone Lands",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFTOR012",
     "BookISBN": "978-91-89765-13-9",
@@ -34,6 +35,7 @@
   },
   {
     "BookName": "Moria - Through the Doors of Durin",
+    "BookShortName": "Moria - Through the Doors of Durin",
     "BookPublisher": "Free League Publishing",
     "BookCode": "",
     "BookISBN": "",
@@ -65,7 +67,8 @@
     }
   },
   {
-    "BookName": "Ruins of the Lost Realm",
+    "BookName": "FLFTOR005 - Ruins of the Lost Realm",
+    "BookShortName": "Ruins of the Lost Realm",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFTOR005",
     "BookISBN": "978-89143-49-4",
@@ -103,7 +106,8 @@
     }
   },
   {
-    "BookName": "The One Ring Core Rules",
+    "BookName": "FLFTOR001 - The One Ring Core Rules",
+    "BookShortName": "The One Ring Core Rules",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFTOR001",
     "BookISBN": "978-91-89143-45-6",
@@ -146,6 +150,7 @@
   },
   {
     "BookName": "Strider Mode",
+    "BookShortName": "Strider Mode",
     "BookPublisher": "Free League Publishing",
     "BookCode": "N/A",
     "BookISBN": "N/A",
@@ -177,7 +182,8 @@
     }
   },
   {
-    "BookName": "The One Ring Starter Set",
+    "BookName": "FLFTOR004 - The One Ring Starter Set",
+    "BookShortName": "The One Ring Starter Set",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFTOR004",
     "BookISBN": "978-91-89143-48-7",
@@ -229,7 +235,8 @@
     }
   },
   {
-    "BookName": "Loremaster's Screen & Rivendell Compendium",
+    "BookName": "FLFTOR003 - Loremaster's Screen & Rivendell Compendium",
+    "BookShortName": "Loremaster's Screen & Rivendell Compendium",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFTOR003",
     "BookISBN": "978-91-89143-47-0",
@@ -262,7 +269,8 @@
     }
   },
   {
-    "BookName": "The One Ring - Adventures over the Edge of the Wild",
+    "BookName": "CB71000 - The One Ring - Adventures over the Edge of the Wild",
+    "BookShortName": "The One Ring - Adventures over the Edge of the Wild",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71000",
     "BookISBN": "978-1-907204-14-2",
@@ -297,7 +305,8 @@
     }
   },
   {
-    "BookName": "The Darkening of Mirkwood",
+    "BookName": "CB71005 - The Darkening of Mirkwood",
+    "BookShortName": "The Darkening of Mirkwood",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71005",
     "BookISBN": "978-0-85744-134-8",
@@ -329,7 +338,8 @@
     }
   },
   {
-    "BookName": "Rivendell",
+    "BookName": "CB71006 - Rivendell",
+    "BookShortName": "Rivendell",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71006",
     "BookISBN": "978-0-85744-135-5",
@@ -374,7 +384,8 @@
     }
   },
   {
-    "BookName": "Loremaster's Screen and Lake-town Guide",
+    "BookName": "CB71004 - Loremaster's Screen and Lake-town Guide",
+    "BookShortName": "Loremaster's Screen and Lake-town Guide",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71004",
     "BookISBN": "978-0-85744-133-1",
@@ -413,7 +424,8 @@
     }
   },
   {
-    "BookName": "The Heart of the Wild",
+    "BookName": "CB71007 - The Heart of the Wild",
+    "BookShortName": "The Heart of the Wild",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71007",
     "BookISBN": "978-0-85744-143-0",
@@ -446,7 +458,8 @@
     }
   },
   {
-    "BookName": "Words of the Wise",
+    "BookName": "CB71008 - Words of the Wise",
+    "BookShortName": "Words of the Wise",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71008",
     "BookISBN": "",
@@ -478,7 +491,8 @@
     }
   },
   {
-    "BookName": "Ruins of the North",
+    "BookName": "CB71010 - Ruins of the North",
+    "BookShortName": "Ruins of the North",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71010",
     "BookISBN": "978-0-85744-249-9",
@@ -512,7 +526,8 @@
     }
   },
   {
-    "BookName": "Adventurer's Companion",
+    "BookName": "CB71011 - Adventurer's Companion",
+    "BookShortName": "Adventurer's Companion",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71011",
     "BookISBN": "978-0-85744-272-7",
@@ -551,7 +566,8 @@
     }
   },
   {
-    "BookName": "Horse-Lords of Rohan",
+    "BookName": "CB71012 - Horse-Lords of Rohan",
+    "BookShortName": "Horse-Lords of Rohan",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71012",
     "BookISBN": "978-0-85744-254-3",
@@ -583,7 +599,8 @@
     }
   },
   {
-    "BookName": "Journeys and Maps",
+    "BookName": "CB71013 - Journeys and Maps",
+    "BookShortName": "Journeys and Maps",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71013",
     "BookISBN": "978-0-85744-255-0",
@@ -616,7 +633,8 @@
     }
   },
   {
-    "BookName": "Oaths of the Riddermark",
+    "BookName": "CB71014 - Oaths of the Riddermark",
+    "BookShortName": "Oaths of the Riddermark",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71014",
     "BookISBN": "978-0-85744-266-6",
@@ -649,7 +667,8 @@
     }
   },
   {
-    "BookName": "Erebor - The Lonely Mountain",
+    "BookName": "CB71015 - Erebor - The Lonely Mountain",
+    "BookShortName": "Erebor - The Lonely Mountain",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71015",
     "BookISBN": "978-0-85744-279-6",
@@ -682,7 +701,8 @@
     }
   },
   {
-    "BookName": "Tales From Wilderland",
+    "BookName": "CB71017 - Tales From Wilderland",
+    "BookShortName": "Tales From Wilderland",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71017",
     "BookISBN": "978-0-85744-282-6",
@@ -716,7 +736,8 @@
     }
   },
   {
-    "BookName": "The Laughter of Dragons",
+    "BookName": "CB71018 - The Laughter of Dragons",
+    "BookShortName": "The Laughter of Dragons",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71018",
     "BookISBN": "978-0-85744-288-8",
@@ -748,7 +769,8 @@
     }
   },
   {
-    "BookName": "Bree",
+    "BookName": "CB71019 - Bree",
+    "BookShortName": "Bree",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71019",
     "BookISBN": "978-0-85744-318-2",
@@ -780,7 +802,8 @@
     }
   },
   {
-    "BookName": "Hobbit Tales from the Green Dragon Inn",
+    "BookName": "CB72101 - Hobbit Tales from the Green Dragon Inn",
+    "BookShortName": "Hobbit Tales from the Green Dragon Inn",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB72101",
     "BookISBN": "97-0-85744-183-6",
@@ -812,7 +835,8 @@
     }
   },
   {
-    "BookName": "The One Ring - Revised Edition",
+    "BookName": "CB71009 - The One Ring - Revised Edition",
+    "BookShortName": "The One Ring - Revised Edition",
     "BookPublisher": "Cubicle 7",
     "BookCode": "CB71009",
     "BookISBN": "978-0-85744-244-4",

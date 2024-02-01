@@ -78,9 +78,9 @@
 ## TSR
 - TSR1071 -
 - TSR9023 -
-- TSR9506 -
-- TSR9507 -
-- TSR2173 -
+- TSR9506 - Chronomancer
+- TSR9507 - Shaman
+- TSR2173 - Monstrous Compendium Annual - Volume Four
 - TSR9532 -
 - TSR9556 -
 - TSR9147 -
@@ -193,11 +193,11 @@
 - TSR9260 -
 - TSR9261 -
 - TSR9190 -
-- TSR2112 -
-- TSR2114 -
-- TSR9506 -
-- TSR9507 -
-- TSR2123 -
+- TSR2112 - DMGR1 - Campaign Sourcebook and Catacomb Guide
+- TSR2114 - DMGR2 - Castle Guide
+- TSR9506 - Chronomancer
+- TSR9507 - Shaman
+- TSR2123 - DMGR3 - Arms and Equipment Guide
 - TSR2133 -
 - TSR2144 -
 - TSR2110 -
