@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Cyberpunk RED",
+    "BookName": "CR3001 - Cyberpunk RED",
+    "BookShortName": "Cyberpunk RED",
     "BookPublisher": "R Talsorian Games",
     "BookCode": "CR3001",
     "BookISBN": "978-1-950911-06-6",
@@ -41,7 +42,8 @@
     }
   } ,
   {
-    "BookName": "Interface RED - Volume 1",
+    "BookName": "CR3041 - Interface RED - Volume 1",
+    "BookShortName": "Interface RED - Volume 1",
     "BookPublisher": "R Talsorian Games",
     "BookCode": "CR3041",
     "BookISBN": "",
@@ -73,7 +75,8 @@
     }
   } ,
   {
-    "BookName": "Interface RED - Volume 2",
+    "BookName": "CR3071 - Interface RED - Volume 2",
+    "BookShortName": "Interface RED - Volume 2",
     "BookPublisher": "R Talsorian Games",
     "BookCode": "CR3071",
     "BookISBN": "",
@@ -105,7 +108,8 @@
     }
   } ,
   {
-    "BookName": "Black Chrome",
+    "BookName": "CR3061 - Black Chrome",
+    "BookShortName": "Black Chrome",
     "BookPublisher": "R Talsorian Games",
     "BookCode": "CR3061",
     "BookISBN": "978-1-950911-28-8",
@@ -142,7 +146,8 @@
     }
   },
   {
-    "BookName": "Cyberpunk RED Jumpstart Kit",
+    "BookName": "CR3000 - Cyberpunk RED Jumpstart Kit",
+    "BookShortName": "Cyberpunk RED Jumpstart Kit",
     "BookPublisher": "R Talsorian Games",
     "BookCode": "CR3000",
     "BookISBN": "978-1-950911-01-1",
