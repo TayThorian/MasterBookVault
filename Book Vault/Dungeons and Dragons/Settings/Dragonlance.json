@@ -1,6 +1,7 @@
 [
     {
     "BookName": "Dragonlance Adventures",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR2021",
     "BookISBN": "0-88038-452-2",
@@ -34,6 +35,7 @@
   } ,
   {
     "BookName": "Time of the Dragon",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR1050",
     "BookISBN": "0-88038-773-4",
@@ -68,6 +70,7 @@
   },
   {
     "BookName": "PG1 - Player's Guide to the Dragonlance Campaign",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR2143",
     "BookISBN": "1-56076-698-0",
@@ -101,6 +104,7 @@
   },
   {
     "BookName": "MC4 - Monstrous Compendium - Dragonlance Appendix",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR2105",
     "BookISBN": "0-88038-822-6",
@@ -133,6 +137,7 @@
   },
   {
     "BookName": "Dragonlance Classics - 15th Anniversary Edition",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR11350",
     "BookISBN": "0-7869-1350-9",
@@ -170,6 +175,7 @@
   },
   {
     "BookName": "Atlas of the Dragonlance World",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR8448",
     "BookISBN": "0-88038-448-4",
@@ -203,6 +209,7 @@
   } ,
   {
     "BookName": "DL1 - Dragons of Despair",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9130",
     "BookISBN": "0-88038-086-1",
@@ -237,6 +244,7 @@
   } ,
   {
     "BookName": "DL2 - Dragons of Flame",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9132",
     "BookISBN": "0-88038-087-X",
@@ -269,6 +277,7 @@
   } ,
   {
     "BookName": "DL3 - Dragons of Hope",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9131",
     "BookISBN": "0-88038-088-8",
@@ -304,6 +313,7 @@
   } ,
   {
     "BookName": "DL4 - Dragons of Desolation",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9139",
     "BookISBN": "0-88038-089-6",
@@ -336,6 +346,7 @@
   } ,
   {
     "BookName": "DL5 - Dragons of Mystery",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9135",
     "BookISBN": "0-88038-090-X",
@@ -368,6 +379,7 @@
   },
   {
     "BookName": "DL6 - Dragons of Ice",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9140",
     "BookISBN": "0-88038-091-8",
@@ -400,6 +412,7 @@
   } ,
   {
     "BookName": "DL7 - Dragons of Light",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9136",
     "BookISBN": "0-88038-093-4",
@@ -432,6 +445,7 @@
   } ,
   {
     "BookName": "DL8 - Dragons of War",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9141",
     "BookISBN": "0-88038-097-7",
@@ -465,6 +479,7 @@
   } ,
   {
     "BookName": "DL9 - Dragons of Deceit",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9137",
     "BookISBN": "0-88038-095-0",
@@ -497,6 +512,7 @@
   },
   {
     "BookName": "DL10 - Dragons of Dreams",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9142",
     "BookISBN": "",
@@ -529,6 +545,7 @@
   }  ,
   {
     "BookName": "DL11 - Dragons of Glory",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9144",
     "BookISBN": "",
@@ -561,6 +578,7 @@
   } ,
   {
     "BookName": "DL12 - Dragons of Faith",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9133",
     "BookISBN": "",
@@ -593,6 +611,7 @@
   } ,
   {
     "BookName": "DL13 - Dragons of Truth",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9176",
     "BookISBN": "",
@@ -626,6 +645,7 @@
   } ,
   {
     "BookName": "DL14 - Dragons of Triumph",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9180",
     "BookISBN": "",
@@ -660,6 +680,7 @@
   } ,
   {
     "BookName": "DL15 - Mists of Krynn",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9231",
     "BookISBN": "",
@@ -692,6 +713,7 @@
   } ,
   {
     "BookName": "DL16 - World of Krynn",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9237",
     "BookISBN": "",
@@ -724,6 +746,7 @@
   },
   {
     "BookName": "DLA1 - Dragon Dawn",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9275",
     "BookISBN": "0-88038-823-4",
@@ -759,6 +782,7 @@
   },
   {
     "BookName": "DLA2 - Dragon Knight",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9285",
     "BookISBN": "0-88038-843-9",
@@ -793,6 +817,7 @@
   },
   {
     "BookName": "DLA3 - Dragon's Rest",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9294",
     "BookISBN": "0-88038-869-2",
@@ -828,6 +853,7 @@
   },
   {
     "BookName": "DLC1 - Dragonlance Classics, Volume I",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9291",
     "BookISBN": "0-88038-859-5",
@@ -860,6 +886,7 @@
   },
   {
     "BookName": "DLC2 - Dragonlance Classics, Volume II",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9394",
     "BookISBN": "1-56076-570-4",
@@ -892,6 +919,7 @@
   },
   {
     "BookName": "DLC3 - Dragonlance Classics, Volume III",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9453",
     "BookISBN": "1-56076-885-1",
@@ -924,6 +952,7 @@
   },
   {
     "BookName": "DLT1 - New Tales The Land Reborn",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9395",
     "BookISBN": "",
@@ -956,6 +985,7 @@
   },
   {
     "BookName": "DLT2 - Dragonlance Book of Lairs",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9396",
     "BookISBN": "",
@@ -988,6 +1018,7 @@
   },
   {
     "BookName": "DLS1 - New Beginnings",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9314",
     "BookISBN": "",
@@ -1020,6 +1051,7 @@
   },
   {
     "BookName": "DLS2 - Treelords",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9319",
     "BookISBN": "",
@@ -1052,6 +1084,7 @@
   },
   {
     "BookName": "DLS3 - Oak Lords",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9327",
     "BookISBN": "",
@@ -1084,6 +1117,7 @@
   },
   {
     "BookName": "DLS4 - Wild Elves",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9334",
     "BookISBN": "",
@@ -1116,6 +1150,7 @@
   },
   {
     "BookName": "DLE1 - In Search of Dragons",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9243",
     "BookISBN": "",
@@ -1148,6 +1183,7 @@
   },
   {
     "BookName": "DLE2 - Dragon Magic",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9244",
     "BookISBN": "",
@@ -1180,6 +1216,7 @@
   },
   {
     "BookName": "DLE3 - Dragon Keep",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9245",
     "BookISBN": "",
@@ -1212,6 +1249,7 @@
   },
   {
     "BookName": "Seeds of Chaos",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9587",
     "BookISBN": "",
@@ -1244,6 +1282,7 @@
   },
   {
     "BookName": "Chaos Spawn",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR11372",
     "BookISBN": "",
@@ -1276,6 +1315,7 @@
   },
   {
     "BookName": "DLQ1 - Knight's Sword",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9381",
     "BookISBN": "",
@@ -1308,6 +1348,7 @@
   },
   {
     "BookName": "DLQ2 - Flint's Axe",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9382",
     "BookISBN": "",
@@ -1340,6 +1381,7 @@
   },
   {
     "BookName": "DLR1 - Otherlands",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9278",
     "BookISBN": "",
@@ -1372,6 +1414,7 @@
   },
   {
     "BookName": "DLR2 - Taladas The Minotaurs",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9344",
     "BookISBN": "",
@@ -1404,6 +1447,7 @@
   },
   {
     "BookName": "DLR3 - Unsung Heroes",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9383",
     "BookISBN": "",
@@ -1436,6 +1480,7 @@
   },
   {
     "BookName": "The Sylvan Veil",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR11329",
     "BookISBN": "",
@@ -1468,6 +1513,7 @@
   },
   {
     "BookName": "Rise of the Titans",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR11396",
     "BookISBN": "",
@@ -1500,6 +1546,7 @@
   },
   {
     "BookName": "Tales of the Lance",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR1074",
     "BookISBN": "",
@@ -1532,6 +1579,7 @@
   },
   {
     "BookName": "Dwarven Kingdoms of Krynn",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR1086",
     "BookISBN": "",
@@ -1564,6 +1612,7 @@
   },
   {
     "BookName": "Leaves From the Inn of the Last Home",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR8446",
     "BookISBN": "",
@@ -1596,6 +1645,7 @@
   },
   {
     "BookName": "The History of Dragonlance",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR8372",
     "BookISBN": "",
@@ -1628,6 +1678,7 @@
   },
   {
     "BookName": "The Art of the Dragonlance Saga",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR8447",
     "BookISBN": "",
@@ -1660,6 +1711,7 @@
   },
   {
     "BookName": "Dragonlance - Campaign setting",
+    "BookShortName": "",
     "BookPublisher": "Wizards of the Coast",
     "BookCode": "WTC869900000",
     "BookISBN": "0-7869-3086-1",
@@ -1693,6 +1745,7 @@
   },
   {
     "BookName": "Age of Mortals",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4001",
     "BookISBN": "",
@@ -1725,6 +1778,7 @@
   },
   {
     "BookName": "War of the Lance",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4002",
     "BookISBN": "",
@@ -1757,6 +1811,7 @@
   },
   {
     "BookName": "Legends of the Twins",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4003",
     "BookISBN": "",
@@ -1789,6 +1844,7 @@
   },
   {
     "BookName": "Towers of High Sorcery",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4401",
     "BookISBN": "",
@@ -1821,6 +1877,7 @@
   },
   {
     "BookName": "Holy Orders of the Stars",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4402",
     "BookISBN": "",
@@ -1853,6 +1910,7 @@
   },
   {
     "BookName": "Knightly Orders of Ansalon",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4403",
     "BookISBN": "",
@@ -1885,6 +1943,7 @@
   },
   {
     "BookName": "Races of Ansalon",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4404",
     "BookISBN": "",
@@ -1917,6 +1976,7 @@
   },
   {
     "BookName": "Bestiary of Krynn Revised",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4405",
     "BookISBN": "",
@@ -1949,6 +2009,7 @@
   },
   {
     "BookName": "Dragons of Krynn",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4406",
     "BookISBN": "",
@@ -1981,6 +2042,7 @@
   },
   {
     "BookName": "Bestiary of Krynn",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4801",
     "BookISBN": "",
@@ -2013,6 +2075,7 @@
   },
   {
     "BookName": "Lost Leaves From the Inn of the Last Home",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4407",
     "BookISBN": "",
@@ -2045,6 +2108,7 @@
   },
   {
     "BookName": "Dungeon Master's Screen",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4901",
     "BookISBN": "",
@@ -2077,6 +2141,7 @@
   },
   {
     "BookName": "Tasslehoff's Map Pouch - The Age of Mortals",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4902",
     "BookISBN": "",
@@ -2109,6 +2174,7 @@
   },
   {
     "BookName": "Tasslehoff's Map Pouch - The War of the Lance",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4903",
     "BookISBN": "",
@@ -2141,6 +2207,7 @@
   },
   {
     "BookName": "Tasslehoff's Map Pouch - Legends",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4904",
     "BookISBN": "",
@@ -2173,6 +2240,7 @@
   },
   {
     "BookName": "Key Of Destiny",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4201",
     "BookISBN": "",
@@ -2205,6 +2273,7 @@
   },
   {
     "BookName": "Spectre of Sorrows",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4202",
     "BookISBN": "",
@@ -2237,6 +2306,7 @@
   },
   {
     "BookName": "Price of Courage",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4203",
     "BookISBN": "",
@@ -2269,6 +2339,7 @@
   },
   {
     "BookName": "Dragons of Autumn",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4204",
     "BookISBN": "",
@@ -2301,6 +2372,7 @@
   },
   {
     "BookName": "Dragons of Winter War of the Lance Chronicles, Volume II",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4205",
     "BookISBN": "",
@@ -2333,6 +2405,7 @@
   },
   {
     "BookName": "Dragons of Spring War of the Lance Chronicles, Volume III",
+    "BookShortName": "",
     "BookPublisher": "Sovereign Press",
     "BookCode": "SVP-4206",
     "BookISBN": "",
@@ -2365,6 +2438,7 @@
   },
   {
     "BookName": "The World Of Krynn Trail Map",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9400",
     "BookISBN": "",
@@ -2397,6 +2471,7 @@
   },
   {
     "BookName": "Dragonlance 5th Age Heroes of Defiance",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9517",
     "BookISBN": "",

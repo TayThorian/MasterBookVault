@@ -1,6 +1,7 @@
 [
   {
-    "BookName": "Birthright Campaign Setting",
+    "BookName": "TSR3100 - Birthright Campaign Setting",
+    "BookShortName": "Birthright Campaign Setting",
     "BookPublisher": "TSR",
     "BookCode": "TSR3100",
     "BookISBN": "",
@@ -32,7 +33,8 @@
   }
 },
 {
-  "BookName": "Blood Enemies - Abominations of Cerilia",
+  "BookName": "TSR3101 - Blood Enemies - Abominations of Cerilia",
+  "BookShortName": "Blood Enemies - Abominations of Cerilia",
   "BookPublisher": "TSR",
   "BookCode": "TSR3101",
   "BookISBN": "0-7869-0156-X",

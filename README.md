@@ -113,6 +113,7 @@
 - TSR8908 - LC1 - Gateway to Raven's Bluff
 - TSR9282 - LC2 - Inside Raven's Bluff, The Living City
 - TSR9315 - LC4 - Port of Raven's Bluff
+- TSR2107 - MC5 - Monstrous Compendium Greyhawk Adventures Appendix
 ## Wizards of the Coast
 - WTC398890000 - Menzoberranzan - City of Intrigue
 - WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
@@ -313,9 +314,9 @@
 - TSR9563 - Powers & Pantheons
 - TSR9585 - Demihuman Deities
 - TSR9552 - Villains' Lorebook
-- TSR2023 -
-- TSR9065 -
-- TSR9222 -
+- TSR2023 - Greyhawk Adventures
+- TSR9065 - WG4 - Forgotten Temple of Tharizdun
+- TSR9222 - WG7 - Castle Greyhawk
 ## Wizards of the Coast
 - WTC398890000 - Menzoberranzan - City of Intrigue
 - WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm

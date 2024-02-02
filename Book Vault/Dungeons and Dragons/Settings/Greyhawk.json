@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Greyhawk Adventures",
+    "BookName": "TSR2023 - Greyhawk Adventures",
+    "BookShortName": "Greyhawk Adventures",
     "BookPublisher": "TSR",
     "BookCode": "TSR2023",
     "BookISBN": "0-88038-649-5",
@@ -33,7 +34,8 @@
     }
   },
   {
-    "BookName": "WG4 - Forgotten Temple of Tharizdun",
+    "BookName": "TSR9065 - WG4 - Forgotten Temple of Tharizdun",
+    "BookShortName": "WG4 - Forgotten Temple of Tharizdun",
     "BookPublisher": "TSR",
     "BookCode": "TSR9065",
     "BookISBN": "0-88038-002-0",
@@ -67,7 +69,8 @@
     }
   },
   {
-    "BookName": "WG7 - Castle Greyhawk",
+    "BookName": "TSR9222 - WG7 - Castle Greyhawk",
+    "BookShortName": "WG7 - Castle Greyhawk",
     "BookPublisher": "TSR",
     "BookCode": "TSR9222",
     "BookISBN": "0-88038-530-8",
@@ -90,6 +93,251 @@
     "BookDescription": [
       "Deep beneath the keep of Castle Greyhawk, a really nasty device is creating mutated, unpleasant monsters that are running wild throughout the castle and the twelve-level dungeon beneath. The call has gone out for heroic, fearless, and perhaps foolish adventures to out-hack, out-slash, and sometimes even out-think hordes of doughmen, headless mice, manic bee queens, really bad dead things, burgermen, crazed chefs, and movie moguls. If they survive these and much odder obstacles, the characters still have to find the nasty monster creator and put it out of business.",
       "Castle Greyhawk contains 13 detailed levels for adventuring and exploration. Each is a separate adventure written by different author and each has its own unique brand of baffling weirdness. Some levels involve solving puzzles and some require good old hacking and slashing. The adventure can be played separately or all together as a grand quest to free Castle Greyhawk from the evil, rotten hordes that are plaguing it. The common theme of this dungeon is that no joke is so old, no pun so bad, and no schtick so obvious that it can't be used to confuse and trip up PCs!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1015 - World of Greyhawk",
+    "BookShortName": "World of Greyhawk",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1015",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Accessory",
+    "BookFormat": "Box Set",
+    "BookSeries": "Folios, Hardbacks & Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR1015 - World of Greyhawk.pdf",
+      "D:\\Master Vault\\Greyhawk\\TSR1015 - World of Greyhawk - Book 1.pdf",
+      "D:\\Master Vault\\Greyhawk\\TSR1015 - World of Greyhawk - Book 2.pdf",
+      "D:\\Master Vault\\Greyhawk\\TSR1015 - World of Greyhawk - Book 3.pdf"
+    ],
+    "BookDescription": [
+      "Enter the WORLD OF GREYHAWK...",
+      "...A world where bandit kings raid from their remote stronghold;",
+      "...A world where noble elves fight savage invaders and where bold knights wage war on the terror of Iuz;",
+      "...A world scarred by a vast Sea of Dust, across which drift lost memories from the awful forgotten past.",
+      "Enter a World of Wonder & Intrigue...",
+      "Fantasy Game Setting for a panoramic view of this fantastic place.",
+      "More than a collection of maps and names, it is an active world filled with decaying empires and dark forests. Game elements include the gods of Greyhawk, the clash of political factions, and encounters in this wild land."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1043 - The City of Greyhawk",
+    "BookShortName": "The City of Greyhawk",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1043",
+    "BookISBN": "0-88038-731-9",
+    "BookAuthor": "Douglas Niles",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Accessory",
+    "BookFormat": "Box Set",
+    "BookSeries": "Folios, Hardbacks & Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR1043 - The City of Greyhawk.pdf"
+    ],
+    "BookDescription": [
+      "Greyhawk - City of High Culture and Low Life!",
+      "From the high towers of its grand universities to the rancid alleys of its darkest slums, the City of Greyhawk awaits you. Center of magic and learning in the Flanaess, Greyhawk is also the home of powerful thieves, mighty warriors, traitorous ambassadors, and honest craftsmen.",
+      "They all await you within the pages of this information-packed boxed set.",
+      "You get four full-size, full-color maps, each depicting a different aspect of the Greyhawk campaign. Two 96-page books give you a detailed overview of the city and a closer look at its more influential citizens - and its more notoriouus criminals.",
+      "Many detailed, colorful adventure cards provide players with short adventures in the city and throughout the surrounding realms of Greyhawk."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9578 - Greyhawk Player's Guide",
+    "BookShortName": "Greyhawk Player's Guide",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9578",
+    "BookISBN": "0-7869-1248-0",
+    "BookAuthor": "Anne Brown",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Other 2nd Edition Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR9578 - Greyhawk Player's Guide.pdf"
+    ],
+    "BookDescription": [
+      "Return to the roots of fantasy roleplaying with the Player's Guide for the Greyhawk campaign setting - the original AD&D game world! For newcomers as well as old-time fans, this book is the doorway to high adventure.",
+      "Enter the Flanaess, a crowded cluster of kingdoms and states, great and petty, struggling for survival and supremacy against one another and countless foes both internal and external. Learn about the nations and cities of the world Greyhawk; the leaders and rebels that affect this war-torn land; that races that inhabit it and the creatures that threaten it. Use this book in conjunction with other Greyhawk game accessories, or to begin your own campaign in the land that helped shape the AD&D game, the world that even now defines excitement and intrigue."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2107 - MC5 - Monstrous Compendium Greyhawk Adventures Appendix",
+    "BookShortName": "MC5 - Monstrous Compendium Greyhawk Adventures Appendix",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2107",
+    "BookISBN": "0-88038-836-6",
+    "BookAuthor": "",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Accessory",
+    "BookFormat": "Cardstock slipcase",
+    "BookSeries": "Monstrous Compendium",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR2107 - MC5 - Monstrous Compendium Greyhawk Adventures Appendix.pdf"
+    ],
+    "BookDescription": [
+      "Prepare yourselves and your characters?. Here come more monsters, this time from the Greyhawk Campaign Setting! These 64 pages are filled with beasties and creatures, from aspis to zygon-and everything in-between! Crystalmist dragons (yes, there are more-four more, to be precise), and plenty of deadly plants await entry into your campaign. As always, these monster descriptions are organized on separate pages, ready to be incorporated into your Monstrous Compendium binder. And, you get four full-colour dividers with identification tabs! Snap them in, and set them free!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1064 - From the Ashes",
+    "BookShortName": "From the Ashes",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1064",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR1064 - From the Ashes.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1068 - Greyhawk Wars",
+    "BookShortName": "Greyhawk Wars",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1068",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR1068 - Greyhawk Wars.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9025 - World of Greyhawk Folio",
+    "BookShortName": "World of Greyhawk Folio",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9025",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR9025 - World of Greyhawk Folio.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
     ],
     "TableOfContents": {
       "title": "Book",
