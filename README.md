@@ -1,12 +1,7 @@
 # Master Book Vault
 # Physical Books to Source
-## Open Ended Games
-- N/A - Against the Darkmaster - Core Rules
 ## Chaosium
 - CHA2036 - Basic Roleplaying - Universal Game Engine
-## Evil Hate Productions
-- EHP0034 - Adversary Toolkit
-- EHP0039 - Horror Toolkit
 ## Iron Crown Enterprises
 - ICE2210 - Middle-Earth Adventure Guidebook II
 - ICE2300 - Angmar - Land of the Witch King
@@ -118,7 +113,7 @@
 - WTC398890000 - Menzoberranzan - City of Intrigue
 - WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
 # PDF's Books to Source
-## Evil Hate Productions
+## Evil Hat Productions
 - EHP0034 - Adversary Toolkit
 - EHP0039 - Horror Toolkit
 ## Monte Cook Games
@@ -149,8 +144,8 @@
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
 - ENP0301 - N.O.W. - The Modern Action RPG
 ## R Talsorian Games
-- CR3001 -
-- CR3000 -
+- CR3001 - Cyberpunk RED
+- CR3000 - Cyberpunk RED Jumpstart Kit
 ## BRW Games
 - -
 - -

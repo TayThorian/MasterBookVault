@@ -1,0 +1,118 @@
+[
+  {
+    "BookName": "Dragonbane Core Set",
+    "BookShortName": "Dragonbane Core Set",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Tomas Härenstam",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonbane",
+    "BookType": "Core Set",
+    "BookFormat": "Box Set",
+    "BookSeries": "Core Set",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Dragonbane\\Dragonbane - Box Set\\Dragonbane - Rulebook.pdf",
+      "D:\\Master Vault\\Dragonbane\\Dragonbane - Box Set\\Dragonbane - Adventures.pdf",
+      "D:\\Master Vault\\Dragonbane\\Dragonbane - Box Set\\Dragonbane - Cards Back.pdf",
+      "D:\\Master Vault\\Dragonbane\\Dragonbane - Box Set\\Dragonbane - Cards Front.pdf",
+      "D:\\Master Vault\\Dragonbane\\Dragonbane - Box Set\\Dragonbane - Map - Outskirt.pdf",
+      "D:\\Master Vault\\Dragonbane\\Dragonbane - Box Set\\Dragonbane - Map - The Misty Vale.pdf",
+      "D:\\Master Vault\\Dragonbane\\Dragonbane - Box Set\\Dragonbane - Solo Adventure.pdf"
+    ],
+    "BookDescription": [
+      "Dragonbane is a classic fantasy tabletop roleplaying game full of magic, mystery, and adventure. It is designed from the ground up to facilitate fast and furious play, with very little prep time and adventures that are a breeze to run. Dragonbane is a game with room for laughs at the table, while still offering brutal challenges for the adventurers. This boxed core set includes:",
+      "Rulebook with fast and effective D20-based game rules for character creation, skills, combat, magic, and travel",
+      "Adventures book with eleven complete adventures, to be played separately or tied together in the epic Secret of the Dragon Emperor campaign",
+      "The booklet Alone in Deepfall Breach letting you play Dragonbane solo",
+      "Huge full-color map of the Misty Vale",
+      "Illustrated playing cards for adventures, treasure, and more",
+      "Ten transparent polyhedral dice, including two custom D20s",
+      "Five pregenerated characters",
+      "Five blank character sheets",
+      "Cardboard standees for characters and monsters",
+      "Double-sided battle mat"
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dragonbane - Bestiary",
+  "BookShortName": "Dragonbane - Bestiary",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "",
+  "BookISBN": "978-91-89765-31-3",
+  "BookAuthor": "Magnus Seter, Mattias Johnsson Haake, Andreas Marklund, Tomas Härenstam",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dragonbane",
+  "BookType": "Bestiary",
+  "BookFormat": "Hardback",
+  "BookSeries": "Bestiary",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Dragonbane\\Dragonbane - Bestiary.pdf"
+  ],
+  "BookDescription": [
+    "From cat people to chimeras, fairies to frog people, hippogriffs to hydras, and much more – this Bestiary for the Dragonbane roleplaying game includes no less than 63 wondrous creatures for the player characters to encounter. Each of them is brought to life in text and art, as well as a random encounter and a seed for a complete adventure. Among these fantastic beings, there are nine new playable kin, each with their own unique ability. The full-color hardcover book is gloriously illustrated by Johan Egerkrans and David Brasgalla."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Dragonbane Quickstart",
+  "BookShortName": "Dragonbane Quickstart",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Tomas Härenstam",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dragonbane",
+  "BookType": "Quickstart",
+  "BookFormat": "",
+  "BookSeries": "Quickstart",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Dragonbane\\Dragonbane - Quickstart.pdf"
+  ],
+  "BookDescription": [
+    "Dragonbane is a classic fantasy tabletop roleplaying game full of magic, mystery, and adventure. It is designed from the ground up to facilitate fast and furious play, with very little prep time and adventures that are a breeze to run. Dragonbane is a game with room for laughs at the table, while still offering brutal challenges for the adventurers.",
+    "This FREE Quickstart PDF includes the complete introductory adventure Riddermound, and five pre-generated characters to play! Shortly after purchase (at zero cost), you will get a download link from DrivethruRPG. Just download the PDF and play!"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]

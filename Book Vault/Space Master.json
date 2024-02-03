@@ -607,7 +607,7 @@
     "BookCover": "",
     "BookRules": "Spacemaster - 2nd Edition",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "On Order",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Spacemaster",
@@ -618,7 +618,8 @@
     "BookPDF": [
       "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9000 - Space Master Boxed Set - GM Book.pdf",
       "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9000 - Space Master Boxed Set - Player Book.pdf",
-      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9000 - Space Master Boxed Set - Tech Book.pdf"
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9000 - Space Master Boxed Set - Tech Book.pdf",
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\Maps\\Spacemaster Star Map.pdf"
     ],
     "BookDescription": [
       "The Space Master System is useable in a variety of SF environments, from a black near future of post-holocaust Earth, to a culture of high-tech exploration, to a distant time where civilization has fallen to superstitious ruin.",
@@ -1117,6 +1118,270 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9001 - Spacemaster Combat Screen & Tables.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SMD1 - Spacemaster Datanet 01",
+    "BookShortName": "Spacemaster Datanet 01",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD1",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 01.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SMD2 - Spacemaster Datanet 02",
+    "BookShortName": "Spacemaster Datanet 02",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD2",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 02.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SMD3 - Spacemaster Datanet 03",
+    "BookShortName": "Spacemaster Datanet 03",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD3",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 03.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SMD4 - Spacemaster Datanet 04",
+    "BookShortName": "Spacemaster Datanet 04",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD4",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 04.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SMD5 - Spacemaster Datanet 05",
+    "BookShortName": "Spacemaster Datanet 05",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD5",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 05.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SMD6 - Spacemaster Datanet 06",
+    "BookShortName": "Spacemaster Datanet 06",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD6",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2007",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 06.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SMD7 - Spacemaster Datanet 07",
+    "BookShortName": "Spacemaster Datanet 07",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD7",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2007",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 07.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SMD8 - Spacemaster Datanet 08",
+    "BookShortName": "Spacemaster Datanet 08",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD8",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2007",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 08.pdf"
     ],
     "BookDescription": [
       "No description available."
