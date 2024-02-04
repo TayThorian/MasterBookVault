@@ -2117,5 +2117,236 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "WTC885740000 - City of the Spider Queen",
+    "BookShortName": "City of the Spider Queen",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC885740000",
+    "BookISBN": "0-7869-2874-3",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\WTC885740000 - City of the Spider Queen.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "WTC885780000 - Races of Faerun",
+    "BookShortName": "Races of Faerun",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC885780000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\WTC885780000 - Races of Faerun.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "WTC885810000 - Underdark",
+    "BookShortName": "Underdark",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC885810000",
+    "BookISBN": "0-7869-3053-5",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\WTC885810000 - Underdark.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "WTC886430000 - Faiths and Pantheons",
+    "BookShortName": "Faiths and Pantheons",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC886430000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\WTC886430000 - Faiths and Pantheons.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "WTC886700000 - Lords of Darkness",
+    "BookShortName": "Lords of Darkness",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC886700000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Campaign Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\WTC886700000 - Lords of Darkness.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "WTC886860000 - Forgotten Realms Dungeon Master Screen",
+    "BookShortName": "Forgotten Realms Dungeon Master Screen",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC886860000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Referee Screen",
+    "BookFormat": "Hardback",
+    "BookSeries": "Referee Screen",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\WTC886860000 - Forgotten Realms Dungeon Master Screen.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "WTC953660000 - Power of Faerun",
+    "BookShortName": "Power of Faerun",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC953660000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\WTC953660000 - Power of Faerun.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

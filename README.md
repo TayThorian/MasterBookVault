@@ -314,3 +314,10 @@
 - WTC21764740 - FR1 - Scepter Tower of Spellgard
 - WTC880990000 - Monsters of Faerun
 - WTC882410000 - Magic of Faerun
+- WTC885740000 - City of the Spider Queen
+- WTC885780000 - Races of Faerun
+- WTC885810000 - Underdark
+- WTC886430000 - Faiths and Pantheons
+- WTC886700000 - Lords of Darkness
+- WTC886860000 - Forgotten Realms Dungeon Master Screen
+- WTC953660000 - Power of Faerun

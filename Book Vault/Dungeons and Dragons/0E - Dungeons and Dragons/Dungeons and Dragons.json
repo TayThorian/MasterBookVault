@@ -1,6 +1,7 @@
 [
     {
     "BookName": "Dungeons & Dragons - Basic Set",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR1001",
     "BookISBN": "",
@@ -33,6 +34,7 @@
   } ,
   {
     "BookName": "Basic Set",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR1011",
     "BookISBN": "0-935696-48-2",
@@ -72,6 +74,7 @@
   },
   {
     "BookName": "Expert Set",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR1012",
     "BookISBN": "0-935696-29-6",
@@ -111,6 +114,7 @@
   } ,
   {
     "BookName": "Set 1 - Basic Rules",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR1011",
     "BookISBN": "",
@@ -144,6 +148,7 @@
   } ,
   {
     "BookName": "Set 2 - Expert Rules",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR1012",
     "BookISBN": "",
@@ -176,6 +181,7 @@
   } ,
   {
     "BookName": "Set 3 - Companion Rules",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR1013",
     "BookISBN": "",
@@ -213,6 +219,7 @@
   } ,
   {
     "BookName": "Set 4 - Master Set",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR1021",
     "BookISBN": "",
@@ -246,6 +253,7 @@
   } ,
   {
     "BookName": "Set 5 - Immortals Rules",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR1017",
     "BookISBN": "0-88038-341-0",
@@ -279,6 +287,7 @@
   },
   {
     "BookName": "Rules Cyclopedia",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR1071",
     "BookISBN": "1-56076-085-0",
@@ -339,6 +348,7 @@
   } ,
   {
     "BookName": "DMR2 - Creature Catalog",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9438",
     "BookISBN": "1-56076-593-3",
@@ -376,6 +386,7 @@
   },
   {
     "BookName": "DMR1 - Dungeon Master’s Screen",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9437",
     "BookISBN": "1-56076-565-8",
@@ -408,6 +419,7 @@
   },
   {
     "BookName": "B1 - In Search of the Unknown",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9023",
     "BookISBN": "0-935696-04-0",
@@ -442,6 +454,7 @@
   },
   {
     "BookName": "B2 - Keep on the Borderlands",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9034",
     "BookISBN": "0-935696-47-4",
@@ -475,6 +488,7 @@
   } ,
   {
     "BookName": "B3 - Palace of the Silver Princess",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9044",
     "BookISBN": "0-935696-31-8",
@@ -509,6 +523,7 @@
   },
   {
     "BookName": "B4 - The Lost City",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9049",
     "BookISBN": "0-935696-55-5",
@@ -542,6 +557,7 @@
   } ,
   {
     "BookName": "B5 - Horror on the Hill",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9078",
     "BookISBN": "0-88038-046-2",
@@ -577,6 +593,7 @@
   } ,
   {
     "BookName": "B6 - The Veiled Society",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9086",
     "BookISBN": "0-88038-085-3",
@@ -614,6 +631,7 @@
   }  ,
   {
     "BookName": "B7 - Rahasia",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9115",
     "BookISBN": "0-88038-113-2",
@@ -649,6 +667,7 @@
   },
   {
     "BookName": "B8 - Journey to the Rock",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9106",
     "BookISBN": "0-88038-158-2",
@@ -682,6 +701,7 @@
   },
   {
     "BookName": "B9 - Castle Caldwell and Beyond",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9143",
     "BookISBN": "0-88038-200-7",
@@ -719,6 +739,7 @@
   } ,
   {
     "BookName": "B10 - Night's Dark Terror",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9149",
     "BookISBN": "0-88038-269-4",
@@ -754,6 +775,7 @@
   } ,
   {
     "BookName": "B11 - King's Festival",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9260",
     "BookISBN": "0-88038-746-7",
@@ -787,6 +809,7 @@
   } ,
   {
     "BookName": "B12 - Queen's Harvest",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9261",
     "BookISBN": "0-88038-746-5",
@@ -820,6 +843,7 @@
   }  ,
   {
     "BookName": "B1-9 - In Search of Adventure",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9190",
     "BookISBN": "0-88038-388-7",
@@ -853,6 +877,7 @@
   } ,
   {
     "BookName": "BSOLO - Ghost of Lion Castle",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9097",
     "BookISBN": "",
@@ -889,6 +914,7 @@
   },
   {
     "BookName": "AC1 - The Shady Dragon Inn",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9100",
     "BookISBN": "0-88083-072-1",
@@ -931,6 +957,7 @@
   },
   {
     "BookName": "AC2 - Combat Shield and Mini-adventure",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9099",
     "BookISBN": "",
@@ -963,6 +990,7 @@
   },
   {
     "BookName": "AC10 - Bestiary of Dragons and Giants",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9211",
     "BookISBN": "",
@@ -995,6 +1023,7 @@
   },
   {
     "BookName": "AC11 - The Book of Wondrous Inventions",
+    "BookShortName": "",
     "BookPublisher": "TSR",
     "BookCode": "TSR9220",
     "BookISBN": "0-88038-497-2",
@@ -1028,7 +1057,8 @@
     }
   },
   {
-    "BookName": "O1 - The Gem and the Staff",
+    "BookName": "TSR9050 - O1 - The Gem and the Staff",
+    "BookShortName": "O1 - The Gem and the Staff",
     "BookPublisher": "TSR",
     "BookCode": "TSR9050",
     "BookISBN": "",
@@ -1060,7 +1090,8 @@
     }
   },
   {
-    "BookName": "O2 - Blade of Vengeance",
+    "BookName": "TSR9108 - O2 - Blade of Vengeance",
+    "BookShortName": "O2 - Blade of Vengeance",
     "BookPublisher": "TSR",
     "BookCode": "TSR9108",
     "BookISBN": "",
@@ -1079,6 +1110,303 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9108 - O2 - Blade of Vengeance.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9117 - CM1 - Test of the Warlords",
+    "BookShortName": "CM1 - Test of the Warlords",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9117",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "CM Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9117 - CM1 - Test of the Warlords.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9118 - CM2 - Death's Ride",
+    "BookShortName": "CM2 - Death's Ride",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9118",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "CM Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9118 - CM2 - Death's Ride.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9119 - CM3 - Sabre River",
+    "BookShortName": "CM3 - Sabre River",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9119",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "CM Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9119 - CM3 - Sabre River.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9128 - CM4 - Earthshaker",
+    "BookShortName": "CM4 - Earthshaker",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9128",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "CM Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9128 - CM4 - Earthshaker.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9154 - CM5 - Mystery of the Snow Pearls",
+    "BookShortName": "CM5 - Mystery of the Snow Pearls",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9154",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "CM Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9154 - CM5 - Mystery of the Snow Pearls.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9158 - CM6 - Where Chaos Reigns",
+    "BookShortName": "CM6 - Where Chaos Reigns",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9158",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "CM Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9158 - CM6 - Where Chaos Reigns.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9166 - CM7 - The Tree of Life",
+    "BookShortName": "CM7 - The Tree of Life",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9166",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "CM Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9166 - CM7 - The Tree of Life.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9192 - CM8 - The Endless Stair",
+    "BookShortName": "CM8 - The Endless Stair",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9192",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "CM Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9192 - CM8 - The Endless Stair.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9210 - CM9 - Legacy of Blood",
+    "BookShortName": "CM9 - Legacy of Blood",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9210",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "CM Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9210 - CM9 - Legacy of Blood.pdf"
     ],
     "BookDescription": [
       "No description available."
