@@ -1,6 +1,7 @@
 [
   {
     "BookName": "Mercy of the Icons Part 1 - Emissary Lost",
+    "BookShortName": "",
     "BookPublisher": "Free League Publishing",
     "BookCode": "MUH051597",
     "BookISBN": "978-1-912743-02-5",
@@ -40,6 +41,7 @@
 },
 {
   "BookName": "Mercy of the Icons Part 2 - The Last Cyclade",
+  "BookShortName": "",
   "BookPublisher": "Free League Publishing",
   "BookCode": "FLFCOR002",
   "BookISBN": "978-91-89143-13-5",
@@ -83,6 +85,7 @@
 },
 {
   "BookName": "Mercy of the Icons Part 3 – Wake of the Icons",
+  "BookShortName": "",
   "BookPublisher": "Free League Publishing",
   "BookCode": "FLFCOR004",
   "BookISBN": "978-91-89143-89-0",
@@ -123,6 +126,7 @@
 },
 {
   "BookName": "Aram's Secret",
+  "BookShortName": "",
   "BookPublisher": "Free League Publishing",
   "BookCode": "MUH051601",
   "BookISBN": "978-1-912743-07-0",
@@ -159,6 +163,7 @@
 },
 {
   "BookName": "Last Voyage of the Ghazali",
+  "BookShortName": "",
   "BookPublisher": "Free League Publishing",
   "BookCode": "MUH051600",
   "BookISBN": "978-1-912743-06-3",
@@ -195,7 +200,8 @@
   }
 },
 {
-  "BookName": "Aram's Ravine",
+  "BookName": "MUH051208 - Aram's Ravine",
+  "BookShortName": "Aram's Ravine",
   "BookPublisher": "Free League Publishing",
   "BookCode": "MUH051208",
   "BookISBN": "",
@@ -217,6 +223,44 @@
   ],
   "BookDescription": [
     "This 15-page PDF describes the Aram's Ravine colony on the planet Jina, a complete scenario location for the award-winning Coriolis - The Third Horizon RPG. Between the deep forests of Kua and the smoldering wastelands of Lubau, we find Jina, an acidified hellhole with only one colony, Aram's Ravine. The colony is a mining station for bauxite and other mineral salts and rife with mine lords competing for power."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "FLFCOR001 - Coriolis - Scenario Compendium 1",
+  "BookShortName": "Coriolis - Scenario Compendium 1",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFCOR001",
+  "BookISBN": "978-1-912743-05-6",
+  "BookAuthor": "Axel Widén, Kosta Kostulas",
+  "BookPublished": "2019",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Coriolis",
+  "BookType": "Scenario Compendium",
+  "BookFormat": "Paperback",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\FLFCOR001 - Coriolis - Scenario Compendium 1.pdf"
+  ],
+  "BookDescription": [
+    "The Third Horizon is filled with strange worlds and wondrous stories, and this scenario compendium lets the PCs become part of those tales. Within its pages are three short adventures and a scenario location, each one inviting the players to visit a far-flung place, from the forest moon Arzachel to the sweltering hot streets of Mehrabi, the petroleum capital of Lubau.",
+    "<b>Featured Content:</b>",
+    "In The Tailor from Mira, the PCs get caught up in the intrigues and secrets of the Icon City and its rulers.",
+    "Eye of the Beast puts the PCs on the forest moon of Arzachel, where they must confront their Icon beliefs or succumb to the rationality of science.",
+    "Algebra of the Icons drops the PCs into a murder investigation that will lead them through the metropolis of Mehrabi.",
+    "The scenario location The Mahanji Oasis introduces a desert oasis including maps, NPCs and scenario seeds."    
   ],
   "TableOfContents": {
     "title": "Book",

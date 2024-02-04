@@ -7,7 +7,6 @@
 - ICE2300 - Angmar - Land of the Witch King
 - ICE2400 - Umbar - Haven of the Corsairs
 - ICE2500 - The Court of Ardor in Southern Middle-earth
-- ICE3100 - Riders of Rohan
 - ICE2900 - Moria The Dwarven City
 - ICE2600 - Northern Mirkwood, The Wood-Elves Realm
 - ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
@@ -19,10 +18,7 @@
 - ICE3000 - Rangers of the North, The Kingdom of Arthedain
 - ICE3110 - Mount Gundabad
 - ICE3111 - Greater Harad
-- ICE3112 - Gorgoroth
 - ICE3113 - The Grey Mountains
-- ICE8003 - Lords of Middle Earth Vol II - The Mannish Races
-- ICE8004 - Lords of Middle Earth Vol III - Hobbits, Dwarves, Ents, Orcs & Trolls
 - ICE4010 - Mirkwood The Wilds of Rhovanion
 - ICE4020 - Empire of the Witch King
 - ICE3300 - Havens of Gondor
@@ -143,9 +139,6 @@
 - ENP0101 - N.E.W. - Science Fiction Roleplaying Game
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
 - ENP0301 - N.O.W. - The Modern Action RPG
-## R Talsorian Games
-- CR3001 - Cyberpunk RED
-- CR3000 - Cyberpunk RED Jumpstart Kit
 ## BRW Games
 - -
 - -

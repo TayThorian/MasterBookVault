@@ -11,7 +11,7 @@
     "BookRules": "Cyberpunk Red",
     "BookEdition": "RED",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Cyberpunk",
     "BookType": "Core Rules",
@@ -53,7 +53,7 @@
     "BookRules": "Cyberpunk Red",
     "BookEdition": "RED",
     "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Cyberpunk",
     "BookType": "Collection",
@@ -86,7 +86,7 @@
     "BookRules": "Cyberpunk Red",
     "BookEdition": "RED",
     "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Cyberpunk",
     "BookType": "Collection",
@@ -119,7 +119,7 @@
     "BookRules": "Cyberpunk Red",
     "BookEdition": "RED",
     "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Cyberpunk",
     "BookType": "Tech & Style Guide",
@@ -157,7 +157,7 @@
     "BookRules": "Cyberpunk Red",
     "BookEdition": "RED",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Cyberpunk",
     "BookType": "Jumpstart Kit",
@@ -184,6 +184,214 @@
       "An EZ Reference sheet to facilitate game play.",
       "Maps and standees to help bring the world of Cyberpunk to life!",
       "Beautiful dice designed and crafted by Q Workshop."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CR3071 - Danger Gal Dossier",
+    "BookShortName": "Danger Gal Dossier",
+    "BookPublisher": "R Talsorian Games",
+    "BookCode": "CR3071",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cyberpunk Red",
+    "BookEdition": "RED",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Cyberpunk",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3071 - Danger Gal Dossier.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CP3011 - Cyberpunk RED - Data Screen",
+    "BookShortName": "Cyberpunk RED - Data Screen",
+    "BookPublisher": "R Talsorian Games",
+    "BookCode": "CP3011",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cyberpunk Red",
+    "BookEdition": "RED",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Cyberpunk",
+    "BookType": "Data Screen",
+    "BookFormat": "",
+    "BookSeries": "Data Screen",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Cyberpunk\\Red\\CP3011 - Cyberpunk RED - Data Screen\\CPRedDataScreenPreview.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CP3011 - Cyberpunk RED - Data Screen\\RTG-CPR-DataScreen-Playerside-Full.jpg",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CP3011 - Cyberpunk RED - Data Screen\\RTG-CPR-DataScreen-DigitalGMSide.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CP3011 - Cyberpunk RED - Data Screen\\RTG-CPR-DataScreen-DigitalGMSide-NightMode.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CP3011 - Cyberpunk RED - Data Screen\\RTG-CPR-DataScreen-DigitalPlayerSide.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CP3021 - Cyberpunk RED - Data Pack",
+    "BookShortName": "Cyberpunk RED - Data Pack",
+    "BookPublisher": "R Talsorian Games",
+    "BookCode": "CP3021",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cyberpunk Red",
+    "BookEdition": "RED",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Cyberpunk",
+    "BookType": "Pack",
+    "BookFormat": "",
+    "BookSeries": "Packs",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Cyberpunk\\Red\\CP3021 - Cyberpunk RED - Data Pack\\CP3021 Cyberpunk RED - Data Pack - Sleeve.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CP3021 - Cyberpunk RED - Data Pack\\CP3021 Cyberpunk RED - Data Pack - Booklet.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CP3021 - Cyberpunk RED - Data Pack\\CP3021 Cyberpunk RED - Data Pack - Maps.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CR3031 - Cyberpunk RED - Netrunning Deck",
+    "BookShortName": "Cyberpunk RED - Netrunning Deck",
+    "BookPublisher": "R Talsorian Games",
+    "BookCode": "CR3031",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cyberpunk Red",
+    "BookEdition": "RED",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Cyberpunk",
+    "BookType": "Pack",
+    "BookFormat": "",
+    "BookSeries": "Packs",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3031 - Cyberpunk RED - Netrunning Deck\\Cyberpunk RED - Netrunning Deck - Sleeve.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3031 - Cyberpunk RED - Netrunning Deck\\Cyberpunk RED - Netrunning Deck - 1x1.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3031 - Cyberpunk RED - Netrunning Deck\\Cyberpunk RED - Netrunning Deck - 3x3.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3031 - Cyberpunk RED - Netrunning Deck\\Cyberpunk RED - Netrunning Deck - Booklet.pdf",
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3031 - Cyberpunk RED - Netrunning Deck\\Cyberpunk RED - Netrunning Deck - Nine Up.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CR3051 - Tales of the RED - Street Stories",
+    "BookShortName": "Tales of the RED - Street Stories",
+    "BookPublisher": "R Talsorian Games",
+    "BookCode": "CR3051",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cyberpunk Red",
+    "BookEdition": "RED",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Cyberpunk",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3051 - Tales of the RED - Street Stories.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CR3081 - Interface RED - Volume 3",
+    "BookShortName": "Interface RED - Volume 3",
+    "BookPublisher": "R Talsorian Games",
+    "BookCode": "CR3081",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cyberpunk Red",
+    "BookEdition": "RED",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Cyberpunk",
+    "BookType": "Collection",
+    "BookFormat": "",
+    "BookSeries": "Collection",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Cyberpunk\\Red\\CR3081 - Interface RED - Volume 3.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
     ],
     "TableOfContents": {
       "title": "Book",
