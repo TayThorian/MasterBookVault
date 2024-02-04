@@ -1488,5 +1488,962 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "ICE8012 - Warlords Desert",
+    "BookShortName": "Warlords Desert",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8012",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8012 - Warlords Desert.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8013 - Dark Mage of Rhudaur",
+    "BookShortName": "Dark Mage of Rhudaur",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8013",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8013 - Dark Mage of Rhudaur.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8014 - Rogues of the Borderlands",
+    "BookShortName": "Rogues of the Borderlands",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8014",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8014 - Rogues of the Borderlands.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8015 - Forest of Tears",
+    "BookShortName": "Forest of Tears",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8015",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8015 - Forest of Tears.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8016 - Ghost Warriors",
+    "BookShortName": "Ghost Warriors",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8016",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8016 - Ghost Warriors.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8070 - Goblin Gate and Eagles's Eyrye",
+    "BookShortName": "Goblin Gate and Eagles's Eyrye",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8070",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8070 - Goblin Gate and Eagles's Eyrye.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8080 - Rivendell The House of Elrond",
+    "BookShortName": "Rivendell The House of Elrond",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8080",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8080 - Rivendell The House of Elrond.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8090 - Brigands of Mirkwood",
+    "BookShortName": "Brigands of Mirkwood",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8090",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8090 - Brigands of Mirkwood.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8101 - Haunted Rruins of the Dunlendings",
+    "BookShortName": "Haunted Rruins of the Dunlendings",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8101",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8101 - Haunted Rruins of the Dunlendings.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8102 - Phantom Of The Northern Marches",
+    "BookShortName": "Phantom Of The Northern Marches",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8102",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8102 - Phantom Of The Northern Marches.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8103 - Trolls Of The Misty Mountains",
+    "BookShortName": "Trolls Of The Misty Mountains",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8103",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8103 - Trolls Of The Misty Mountains.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8104 - Pirates of Pelargir",
+    "BookShortName": "Pirates of Pelargir",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8104",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8104 - Pirates of Pelargir.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8105 - Gates Of Mordor",
+    "BookShortName": "Gates Of Mordor",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8105",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8105 - Gates Of Mordor.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8106 - Assassins of Dol Amroth",
+    "BookShortName": "Assassins of Dol Amroth",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8106",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8106 - Assassins of Dol Amroth.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8108 - Raiders of Cardolan",
+    "BookShortName": "Raiders of Cardolan",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8108",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8108 - Raiders of Cardolan.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8110 - Perils on the Sea of Rhun",
+    "BookShortName": "Perils on the Sea of Rhun",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8110",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8110 - Perils on the Sea of Rhun.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8111 - Denizens of the Dark Wood",
+    "BookShortName": "Denizens of the Dark Wood",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8111",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8111 - Denizens of the Dark Wood.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8112 - Hazard of the Harad Wood",
+    "BookShortName": "Hazard of the Harad Wood",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8112",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8112 - Hazard of the Harad Wood.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8113 - The Necromancer's Lieutenant",
+    "BookShortName": "The Necromancer's Lieutenant",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8113",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8113 - The Necromancer's Lieutenant.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE4001 - Campaign Atlas - Northwestern Middle Eart Map Set",
+    "BookShortName": "Campaign Atlas - Northwestern Middle Eart Map Set",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE4001",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE4001 - Campaign Atlas - Northwestern Middle Eart Map Set.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE4002 - Northwestern Middle-earth Gazeteer",
+    "BookShortName": "Northwestern Middle-earth Gazeteer",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE4002",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE4002 - Northwestern Middle-earth Gazeteer.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8001 - Combat Screen",
+    "BookShortName": "Combat Screen",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8001",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8001 - Combat Screen.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8114 - River Running",
+    "BookShortName": "River Running",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8114",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8114 - River Running.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8201 - Weathertop Tower of Wind",
+    "BookShortName": "Weathertop Tower of Wind",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8201",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8201 - Weathertop Tower of Wind.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8202 - Teeth of Mordor",
+    "BookShortName": "Teeth of Mordor",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8202",
+    "BookISBN": "1-55806-96-5",
+    "BookAuthor": "Terry Kevin Amthor",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Fortress Module",
+    "BookFormat": "Softcover",
+    "BookSeries": "Fortress Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8202 - Teeth of Mordor.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8203 - Calenhad A Beacon of Gondor",
+    "BookShortName": "Calenhad A Beacon of Gondor",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8203",
+    "BookISBN": "1-55806-097-9",
+    "BookAuthor": "Tim Cooke",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Fortress Module",
+    "BookFormat": "Softcover",
+    "BookSeries": "Fortress Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8203 - Calenhad A Beacon of Gondor.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8204 - Halls of the Elven King",
+    "BookShortName": "Halls of the Elven King",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8204",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8204 - Halls of the Elven King.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8205 - Nazguls Citadel",
+    "BookShortName": "Nazguls Citadel",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8205",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8205 - Nazguls Citadel.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE8302 - Minas Ithil",
+    "BookShortName": "Minas Ithil",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE8302",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\ICE8302 - Minas Ithil.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

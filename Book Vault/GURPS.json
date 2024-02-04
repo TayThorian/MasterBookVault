@@ -136,5 +136,355 @@
         {"page": 2, "title": "BE DONE"}
         ]    
     }
+  },
+  {
+    "BookName": "SJG6002 - Orcslayer",
+    "BookShortName": "Orcslayer",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6002",
+    "BookISBN": "1-55634-015-X",
+    "BookAuthor": "Warren Spector, Steve Jackson",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\3E\\SJG6002 - Orcslayer.pdf"
+    ],
+    "BookDescription": [
+      "Generations ago, the orc-hordes swarmed east into the peaceful kingdom of Caithness. Now they're coming back.",
+      "Last time, it took an army to stop them.",
+      "This time, your lord is sending you . . .",
+      "<b>Orcslayer!</b> is the first combat adventure for Man to Man. It's both a combat game and a roleplaying adventure. Nine linked combat scenarios are divided by roleplaying \"interludes\" – a whole new concept in adventure supplements.",
+      "<b>Orcslayer!</b> also includes the NPC Reaction Table from GURPS; random encounters; four new maps (double-sized Castle Keep, Castle Wall that can be duplicated to completely surround the Keep, and Cavern); and 15 pre-generated NPCs of several different races. The book is suitable for three-hole punching.",
+      "<b>Orcslayer!</b> is set in the fantasy kingdom of Caithness – which can become part of any GM's game-world. Further adventures will use the same background, allowing the adventure to continue.",
+      "But first, you must survive <b>Orcslayer!</b>"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SJG6031 - Basic Set - Third Edition, Revised",
+    "BookShortName": "Basic Set - Third Edition, Revised",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6031",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\3E\\SJG6031 - Basic Set - Third Edition, Revised.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SJG6010 - Aliens",
+    "BookShortName": "Aliens",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6010",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\3E\\SJG6010 - Aliens.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SJG6009 - Humanx",
+    "BookShortName": "Humanx",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6009",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\3E\\SJG6009 - Humanx.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SJG6003 - Autoduel - 2nd Edition",
+    "BookShortName": "Autoduel - 2nd Edition",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6003",
+    "BookISBN": "1-55634-240-3",
+    "BookAuthor": "Christopher J. Burke, Rob Garitta",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\3E\\SJG6003 - Autoduel - 2nd Edition.pdf"
+    ],
+    "BookDescription": [
+      "GURPS Autoduel was one of the first worldbooks ever published for the GURPS system – over ten years ago! Its post-apocalyptic world, based on the classic Car Wars boardgame, was a fan favorite as players faced a world devastated by war, famine and despair . . . on lawless highways where the right of way went to the biggest guns.",
+      "Ten years later, things have gotten better in Autoduel America – but not much. This all-new Second Edition is 32 pages longer than the original, and includes:",
+      "A detailed history and description of \"Autoduel America\".",
+      "An updated and expanded \"AADA Road Atlas and Survival Guide\".",
+      "Vehicle construction rules completely compatible with GURPS Vehicles Second Edition, with a dozen sample vehicles.",
+      "Complete character creation guidelines, including guns, equipment and gadgets galore.",
+      "Loads of campaign ideas for everything from a corporate autoduelling team to a lone wolf vigilante, and more!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SJG6006 - Japan",
+    "BookShortName": "Japan",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6006",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\3E\\SJG6006 - Japan.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SJG6004 - Horror",
+    "BookShortName": "Horror",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6004",
+    "BookISBN": "1-55634-453-8",
+    "BookAuthor": "J.M. Caparula, Scott D. Haring",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Horror",
+    "BookType": "Setting",
+    "BookFormat": "Softback",
+    "BookSeries": "Horror",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\3E\\SJG6004 - Horror.pdf"
+    ],
+    "BookDescription": [
+      "Horror has always been one of the most popular GURPS settings. This new Third Edition has been revised and updated by Kenneth Hite. It replaces the old historical settings with three brand-new campaign frames designed specifically for horror play. The focus is widened from supernatural horror to include psychological, cosmic, conspiratorial, and other subgenres. And many monster types are given racial templates so they can be used as PCs!",
+      "With all new illustrations by Christopher Shy, this book will terrify players in new and unexpected ways . . ."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SJG6005 - Space - 3rd Edition",
+    "BookShortName": "Space - 3rd Edition",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6005",
+    "BookISBN": "1-55634-390-6",
+    "BookAuthor": "Steve Jackson, William A. Barton",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Space",
+    "BookType": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Space",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\3E\\SJG6005 - Space - 3rd Edition.pdf",
+      "D:\\Master Vault\\GURPS\\3E\\SJG6005 - Space (1st edition, 1988).pdf",
+      "D:\\Master Vault\\GURPS\\3E\\SJG6005 - Space (2nd edition, 1990).pdf"
+    ],
+    "BookDescription": [
+      "A classic becomes classier in this updating of the definitive guide to science-fiction roleplaying. Previous editions of GURPS Space offered a comprehensive set of tools to design your own starfaring campaigns, from space opera to hard science with any stop in between. Substantially revised and expanded, the Third Edition:",
+      "Upgrades the spaceship design and space combat systems!",
+      "Ensures that recent, popular science-fiction cinema and television settings will be easily simulated!",
+      "Updates the rules to conform with changes since the last edition brought about by GURPS Compendium I, Traveller, Ultra-Tech 2, and Vehicles.",
+      "In addition to the above topics, GURPS Space offers an inventory of science-fiction equipment from lasers to force swords, treatment of classic science-fiction character types, advice on creating planets and the cultures that inhabit them, and much more!",
+      "If you're looking for Fourth Edition material, the newest edition of GURPS Space replaces and expands on all of the information from this book."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SJG6007 - Horseclans",
+    "BookShortName": "Horseclans",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6007",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\3E\\SJG6007 - Horseclans.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SJG6008 - Witch World",
+    "BookShortName": "Witch World",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6008",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\GURPS\\3E\\SJG6008 - Witch World.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

@@ -31,10 +31,40 @@
 - ICE8006 - Treasures of Middle Earth
 - ICE8007 - Angus McBrides Characters of Middle Earth
 - ICE8010 - Bree & The Barrow Downs
+- ICE8012 - Warlords Desert
+- ICE8013 - Dark Mage of Rhudaur
+- ICE8014 - Rogues of the Borderlands
+- ICE8015 - Forest of Tears
+- ICE8016 - Ghost Warriors
+- ICE8070 - Goblin Gate and Eagles's Eyrye
+- ICE8080 - Rivendell The House of Elrond
+- ICE8090 - Brigands of Mirkwood
+- ICE8101 - Haunted Rruins of the Dunlendings
+- ICE8102 - Phantom Of The Northern Marches
+- ICE8103 - Trolls Of The Misty Mountains
+- ICE8104 - Pirates of Pelargir
+- ICE8105 - Gates Of Mordor
+- ICE8106 - Assassins of Dol Amroth
+- ICE8108 - Raiders of Cardolan
+- ICE8110 - Perils on the Sea of Rhun
+- ICE8111 - Denizens of the Dark Wood
+- ICE8112 - Hazard of the Harad Wood
+- ICE8113 - The Necromancer's Lieutenant
+- ICE4001 - Campaign Atlas - Northwestern Middle Eart Map Set
+- ICE4002 - Northwestern Middle-earth Gazeteer
+- ICE8001 - Combat Screen
+- ICE8114 - River Running
+- ICE8201 - Weathertop Tower of Wind
+- ICE8202 - Teeth of Mordor
+- ICE8203 - Calenhad A Beacon of Gondor
+- ICE8204 - Halls of the Elven King
+- ICE8205 - Nazguls Citadel
+- ICE8302 - Minas Ithil
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Rolemaster Unified - Spell Law
 ## Monte Cook Games
 - MCG361 - The Glimmering Valley
+- MCG311 - Path of the Planebreaker
 ## Free League Publishing
 - FLFTOR012 - Tales from the Lone Lands
 - FLFALE017 - Building Better Worlds
@@ -44,7 +74,7 @@
 - GDW252 -
 - N/A -
 ## Digest Group Publications
-- N/A -
+- - Manhunt
 ## Mongoose Publishing
 - MGP40111 -
 - MGP40061 -
@@ -148,7 +178,7 @@
 ## Dreamscape Design
 - DD0003 -
 ## Digest Group Publications
-- N/A -
+- - Manhunt
 ## Mongoose Publishing
 - MGP40111 -
 - MGP40061 -
@@ -321,3 +351,6 @@
 - WTC886700000 - Lords of Darkness
 - WTC886860000 - Forgotten Realms Dungeon Master Screen
 - WTC953660000 - Power of Faerun
+- TSR11634 - Into the Dragon's Lair
+- WTC177380000 - Lost Empires of Faerun
+- WTC178720000 - Champions of Ruin

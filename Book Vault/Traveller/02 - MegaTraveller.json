@@ -1,8 +1,9 @@
 [
     {
     "BookName": "Manhunt",
+    "BookShortName": "Manhunt",
     "BookPublisher": "Digest Group Publications",
-    "BookCode": "N/A",
+    "BookCode": "",
     "BookISBN": "",
     "BookAuthor": "Phil Athans",
     "BookPublished": "2022",
@@ -33,7 +34,8 @@
     }
   } ,
   {
-    "BookName": "The Early Adventures",
+    "BookName": "DGP0864 - The Early Adventures",
+    "BookShortName": "The Early Adventures",
     "BookPublisher": "Digest Group Publications",
     "BookCode": "DGP0864",
     "BookISBN": "",
@@ -65,12 +67,13 @@
     }
   },
   {
-    "BookName": " 101 Vehicles",
+    "BookName": "DGP0871 - 101 Vehicles",
+    "BookShortName": "101 Vehicles",
     "BookPublisher": "Digest Group Publications",
     "BookCode": "DGP0871",
-    "BookISBN": "1988",
+    "BookISBN": "",
     "BookAuthor": "Rob Caswell, Joe Fugate, Bryan Gibson",
-    "BookPublished": "",
+    "BookPublished": "1988",
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "MegaTraveller",
@@ -80,7 +83,7 @@
     "BookSetting": "MegaTraveller",
     "BookType": "Vehicle Supplement",
     "BookFormat": "Softcover",
-    "BookSeries": "Supplments",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0871 - 101 Vehicles.pdf"
@@ -111,7 +114,8 @@
     }
   },
   {
-    "BookName": "Player's Manual",
+    "BookName": "GDW0211 - Player's Manual",
+    "BookShortName": "Player's Manual",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW0211",
     "BookISBN": "0-943580-38-2",
@@ -145,7 +149,8 @@
     }
   },
   {
-    "BookName": "Referee's Manual",
+    "BookName": "GDW0212 - Referee's Manual",
+    "BookShortName": "Referee's Manual",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW0212",
     "BookISBN": "0-943580-47-1",
@@ -164,6 +169,534 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0212 - Referee's Manual.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW0213 - Imperial Encyclopedia",
+    "BookShortName": "Imperial Encyclopedia",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW0213",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0213 - Imperial Encyclopedia.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW0214 - Rebellion Sourcebook",
+    "BookShortName": "Rebellion Sourcebook",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW0214",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0214 - Rebellion Sourcebook.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW0215 - Referee's Companion",
+    "BookShortName": "Referee's Companion",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW0215",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0215 - Referee's Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW0216 - COACC",
+    "BookShortName": "COACC",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW0216",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0216 - COACC.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW0218 - Fighting Ships of the Shattered Imperium",
+    "BookShortName": "Fighting Ships of the Shattered Imperium",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW0218",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0218 - Fighting Ships of the Shattered Imperium.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW0219 - Knightfall",
+    "BookShortName": "Knightfall",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW0219",
+    "BookISBN": "1-55878-062-9",
+    "BookAuthor": "Joe Fugate",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0219 - Knightfall.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DGP0872 - Starship Operator's Manual, Volume 1",
+    "BookShortName": "Starship Operator's Manual, Volume 1",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0872",
+    "BookISBN": "",
+    "BookAuthor": "Rob Caswell, William W. Connors, Joe Fugate, Gary L. Thomas",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "Starship Operator's Manual",
+    "BookFormat": "Softcover",
+    "BookSeries": "Starship Operator's Manual",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0872 - Starship Operator's Manual, Volume 1.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DGP0875 - World Builder's Handbook",
+    "BookShortName": "World Builder's Handbook",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0875",
+    "BookISBN": "",
+    "BookAuthor": "Joe Fugate, J. Andrew Keith, Gary L. Thomas",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "World Builder's Handbook",
+    "BookFormat": "Softcover",
+    "BookSeries": "World Builder's Handbook",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0875 - World Builder's Handbook.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DGP0876 - Referee's Gaming Kit",
+    "BookShortName": "Referee's Gaming Kit",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0876",
+    "BookISBN": "",
+    "BookAuthor": "Joe Fugate, Gary L. Thomas",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "Referee's Gaming Kit",
+    "BookFormat": "Folio",
+    "BookSeries": "Referee's Gaming Kit",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0876 - Referee's Gaming Kit.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DGP0878 - Vilani & Vargr - The Coreward Races",
+    "BookShortName": "Vilani & Vargr - The Coreward Races",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0878",
+    "BookISBN": "",
+    "BookAuthor": "James Holden, Joe D. Fugate Sr., Terrance McInnes",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "Alien Races",
+    "BookFormat": "Softcover",
+    "BookSeries": "Alien Races",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0878 - Vilani & Vargr - The Coreward Races.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DGP0880 - The Flaming Eye",
+    "BookShortName": "The Flaming Eye",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0880",
+    "BookISBN": "1-879187-01-9",
+    "BookAuthor": "Thom Gressman, J. Andrew Keith, Joe Fugate, Nancy Parker, Bill Hezeltine",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "Campaign Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0880 - The Flaming Eye.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DGP0881 - Solomani & Aslan - The Rimward Races",
+    "BookShortName": "Solomani & Aslan - The Rimward Races",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0881",
+    "BookISBN": "1-879187-02-7",
+    "BookAuthor": "Peter G. Celella, James Holden",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "Alien Races",
+    "BookFormat": "Softcover",
+    "BookSeries": "Alien Races",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0881 - Solomani & Aslan - The Rimward Races.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DGP0201 - The MegaTraveller Journal 01",
+    "BookShortName": "The MegaTraveller Journal 01",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0201",
+    "BookISBN": "",
+    "BookAuthor": "Rob Caswell",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "MegaTraveller Journal",
+    "BookFormat": "Softcover",
+    "BookSeries": "MegaTraveller Journal",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0201 - The MegaTraveller Journal 01.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DGP0202 - The MegaTraveller Journal 02",
+    "BookShortName": "The MegaTraveller Journal 02",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0202",
+    "BookISBN": "",
+    "BookAuthor": "Rob Caswell",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "MegaTraveller Journal",
+    "BookFormat": "Softcover",
+    "BookSeries": "MegaTraveller Journal",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0202 - The MegaTraveller Journal 02.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DGP0203 - The MegaTraveller Journal 03",
+    "BookShortName": "The MegaTraveller Journal 03",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0203",
+    "BookISBN": "",
+    "BookAuthor": "Rob Caswell",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "MegaTraveller Journal",
+    "BookFormat": "Softcover",
+    "BookSeries": "MegaTraveller Journal",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0203 - The MegaTraveller Journal 03.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "DGP0204 - The MegaTraveller Journal 04",
+    "BookShortName": "The MegaTraveller Journal 04",
+    "BookPublisher": "Digest Group Publications",
+    "BookCode": "DGP0204",
+    "BookISBN": "",
+    "BookAuthor": "Joe Fugate",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "MegaTraveller Journal",
+    "BookFormat": "Softcover",
+    "BookSeries": "MegaTraveller Journal",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0204 - The MegaTraveller Journal 04.pdf"
     ],
     "BookDescription": [
       "No description available."

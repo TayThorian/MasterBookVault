@@ -1,6 +1,7 @@
 [
   {
-    "BookName": "Arcana of the Ancients",
+    "BookName": "MCG245 - Arcana of the Ancients",
+    "BookShortName": "Arcana of the Ancients",
     "BookPublisher": "Monte Cook Games",
     "BookCode": "MCG245",
     "BookISBN": "978-1-950568-07-9",
@@ -8,7 +9,7 @@
     "BookPublished": "2020",
     "BookCover": "",
     "BookRules": "Numenera",
-    "BookEdition": "5th Edition",
+    "BookEdition": "5th Edition Compatible",
     "BookPhysical": "Yes",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
@@ -40,7 +41,8 @@
   }
 },
 {
-  "BookName": "Beasts Of Flesh & Steel",
+  "BookName": "MCG247 - Beasts Of Flesh & Steel",
+  "BookShortName": "Beasts Of Flesh & Steel",
   "BookPublisher": "Monte Cook Games",
   "BookCode": "MCG247",
   "BookISBN": "978-1-950568-14-7",
@@ -48,7 +50,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Numenera",
-  "BookEdition": "5th Edition",
+  "BookEdition": "5th Edition Compatible",
   "BookPhysical": "Yes",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -80,7 +82,8 @@
   }
 },
 {
-  "BookName": "Beneath The Monolith",
+  "BookName": "MCG248 - Beneath The Monolith",
+  "BookShortName": "Beneath The Monolith",
   "BookPublisher": "Monte Cook Games",
   "BookCode": "MCG248",
   "BookISBN": "",
@@ -88,7 +91,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Numenera",
-  "BookEdition": "5th Edition",
+  "BookEdition": "5th Edition Compatible",
   "BookPhysical": "Yes",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -106,6 +109,111 @@
     "The Ninth World is the setting of Monte Cook’s critically acclaimed, multiple-award-winning Numenera RPG. Beneath the Monolith brings this critically acclaimed world to 5e. Explore the ruins of incomprehensible civilizations. Discover the numenera, ancient technologies so advanced that most people think they’re just magic. Encounter creatures weird, fierce, and dangerous. Open doors to new worlds and alternate dimensions. And, perhaps, unlock some of the mysteries of the prior worlds.",
     "Beneath the Monolith brings the wondrous Ninth World your Fifth Edition game.",
     "Arcana of the Ancients will help you get the most of this book. It contains loads of cyphers, artifacts, creatures, and additional content that brings a Ninth World campaign to life, along with great advice and information on running weird science-fantasy games in 5e."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MCG249 - Where the Machines Wait",
+  "BookShortName": "Where the Machines Wait",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG249",
+  "BookISBN": "978-1-950568-19-2",
+  "BookAuthor": "Bruce R. Cordell",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Numenera",
+  "BookEdition": "5th Edition Compatible",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Numenera",
+  "BookType": "",
+  "BookFormat": "Hardback",
+  "BookSeries": "Monte Cook 5E",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\Monte Cook Games\\MCG249 - Where the Machines Wait.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MCG311 - Path of the Planebreaker",
+  "BookShortName": "Path of the Planebreaker",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG311",
+  "BookISBN": "",
+  "BookAuthor": "Bruce R. Cordell, Monte Cook, Sean K. Reynolds",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "5th Edition Compatible",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Numenera",
+  "BookType": "",
+  "BookFormat": "Hardback",
+  "BookSeries": "Monte Cook 5E",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\Monte Cook Games\\MCG311 - Path of the Planebreaker.pdf"
+  ],
+  "BookDescription": [
+    "A cursed moon hurtles through the multiverse, crashing from one plane to the next, never at rest, forever fleeing a catastrophe that predates existence itself. Behold the Planebreaker!",
+    "The Planebreaker visits all planes, all demiworlds, and all dimensions. Some are known to sages and planar travelers. But in a multiverse stretching across epochs, the number of previously uncatalogued planes is vast. The Planebreaker races through all of them, in time, and the Path that trails behind it creates a route that links them all.",
+    "Path of the Planebreaker introduces this enigmatic interplanar object that unlocks access to the planes for characters of all levels. This book includes:",
+    "The Planebreaker and its fascinating city of Timeborne—home to refugees, planar travelers, and residents from across the planes. Base an entire campaign in Timeborne, or experience its intrigues as you pass through.",
+    "Dozens of exotic planes to explore. Venture into the Citadel of the Fate Eater, get lost in the Grove of Crows, or find despair in the Tomb of Tomorrow. They’re all connected by the Path, a sort of interplanar road that trails behind the Planebreaker.",
+    "New creatures, NPCs, magic items, and spells for the DM to introduce. Plus two exciting, plane-hopping adventures that make it easy to introduce PCs to the Planebreaker and planar travel.",
+    "New playable species, feats, subclasses, and spells for players. Play a changeable chimeran, a Shadow-Stitched rogue, or a cleric of the Multiverse domain!"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MCG327 - Planebreaker Planar Bestiary",
+  "BookShortName": "Planebreaker Planar Bestiary",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG327",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "5th Edition Compatible",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Monte Cook 5E",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\Monte Cook Games\\MCG327 - Planebreaker Planar Bestiary.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
   ],
   "TableOfContents": {
     "title": "Book",

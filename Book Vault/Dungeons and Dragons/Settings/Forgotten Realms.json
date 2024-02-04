@@ -2348,5 +2348,153 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "TSR1170 - Pool of Radiance - Attack on Myth Drannor",
+    "BookShortName": "Pool of Radiance - Attack on Myth Drannor",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "TSR1170",
+    "BookISBN": "0-7869-1710-5",
+    "BookAuthor": "Sean K. Reynolds",
+    "BookPublished": "2000",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\TSR1170 - Pool of Radiance - Attack on Myth Drannor.pdf"
+    ],
+    "BookDescription": [
+      "<b>Evil Reigns in the Elven Ruins</b>",
+      "Where elves once built the shining city of Myth Drannor, demons and devils now prowl in search of prey. Ancient evil slumbers beneath mossy stones, waiting for those foolish enough to venture within its grasp. Bold swordsmen, stealthy rogues, and skillful wizards have all met their end within the walls of Myth Drannor. But the lure of the city's magical treasures still draws heroes and villains alike to tempt death—or worse.",
+      "Drawn by the dream of limitless magical power, the Cult of the Dragon has carved out a secret stronghold in the heart of the ruins. Using the power of a corrupted pool of radiance, the Cultists stand poised to attain their goal of subjugating all of Faerûn... unless a group of brave heroes can stop them first.",
+      "This adventure can be played as a stand-alone or as a tie-in with Pool of Radiance: Ruins of Myth Drannor computer game."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 3, "title": "Chapter 1 -  Cultists in Action"},
+        {"page": 12, "title": "Chapter 2 - Outer Myth Drannor"},
+        {"page": 26, "title": "Chapter 3 - Polyandrium"},
+        {"page": 38, "title": "Chapter 4 - Great Crypts"},
+        {"page": 51, "title": "Chapter 5 - Myth Drannor"},
+        {"page": 61, "title": "Chapter 6 - Castle Cormanthor"},
+        {"page": 73, "title": "Appendix 1 - Pools of Radiance"},
+        {"page": 75, "title": "Appendix 2 - The Mythal"},
+        {"page": 77, "title": "Appendix 3 - New Magic Items"},
+        {"page": 82, "title": "Appendix 4 - New Monsters"},
+        {"page": 86, "title": "Appendix 5 - Creature Statistics"}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR11634 - Into the Dragon's Lair",
+    "BookShortName": "Into the Dragon's Lair",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "TSR11634",
+    "BookISBN": "0-78691-634-6",
+    "BookAuthor": "Sean K. Reynolds, Steve Miller",
+    "BookPublished": "2000",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3rd Edition\\TSR11634 - Into the Dragon's Lair.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "WTC177380000 - Lost Empires of Faerun",
+    "BookShortName": "Lost Empires of Faerun",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC177380000",
+    "BookISBN": "0-7869-3654-1",
+    "BookAuthor": "Richard Baker, Ed Bonny, Travis Stout",
+    "BookPublished": "2005",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC177380000 - Lost Empires of Faerun.pdf"
+    ],
+    "BookDescription": [
+      "EXPLORE THE ECHOES OF A VANISHED TIME",
+      "The ruins and remnants of once-mighty nations lie scattered across the lands of Faerûn. Hidden within the dusty vaults and passages of these crumbling monuments, great treasures and terrible dangers await discovery. Only those bold explorers armed with courage and equipped with knowledge dare to delve into these earliest secrets of the Forgotten Realms setting.",
+      "5 new in-depth prestige classes",
+      "16 new feats",
+      "29 new monsters"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "WTC178720000 - Champions of Ruin",
+    "BookShortName": "Champions of Ruin",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC178720000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC178720000 - Champions of Ruin.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]
