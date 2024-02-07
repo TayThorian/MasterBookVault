@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Reach Adventure 8 - Makergod",
+    "BookName": "MGP40111 - Reach Adventure 8 - Makergod",
+    "BookShortName": "Reach Adventure 8 - Makergod",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40111",
     "BookISBN": "",
@@ -9,7 +10,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -35,6 +36,7 @@
   },
   {
     "BookName": "Bu and Embla Visit Vrirhlanz",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40113",
     "BookISBN": "",
@@ -67,6 +69,7 @@
   },
   {
     "BookName": "Core Adventure 1 - Invasive Species",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40061",
     "BookISBN": "",
@@ -75,7 +78,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -105,6 +108,7 @@
   },
   {
     "BookName": "Core Adventure 2 - Last Call at Eneri's Cantina",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40062",
     "BookISBN": "",
@@ -113,7 +117,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -143,6 +147,7 @@
   },
   {
     "BookName": "Core Adventure 3 - Errant Lightning",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40063",
     "BookISBN": "",
@@ -151,7 +156,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -181,6 +186,7 @@
   },
   {
     "BookName": "Deneb Adventure 1 - The Lost Duke",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40057",
     "BookISBN": "",
@@ -214,6 +220,7 @@
   } ,
   {
     "BookName": "The Third Imperium",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40073",
     "BookISBN": "",
@@ -222,7 +229,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -253,6 +260,7 @@
   },
   {
     "BookName": "Whispers on the Abyss",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40114",
     "BookISBN": "978-1-916675-13-1",
@@ -261,7 +269,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Missing",
     "BookSetting": "Third Imperium",
@@ -287,6 +295,7 @@
   } ,
   {
     "BookName": "The Deep and the Dark",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40112",
     "BookISBN": "978-1-916675-11-7",
@@ -295,7 +304,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -324,6 +333,7 @@
   } ,
   {
     "BookName": "Aliens of Charted Space Volume 3",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40094",
     "BookISBN": "978-913076-85-6",
@@ -332,7 +342,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -367,6 +377,7 @@
   } ,
   {
     "BookName": "Aliens of Charted Space Volume 4",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40103",
     "BookISBN": "978-1-91675-01-8",
@@ -375,7 +386,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -407,7 +418,8 @@
     }
   },
   {
-    "BookName": "Central Supply Catalogue -Update 2023",
+    "BookName": "MGP40095 - Central Supply Catalogue -Update 2023",
+    "BookShortName": "Central Supply Catalogue -Update 2023",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40095",
     "BookISBN": "978-1-913076-88-7",
@@ -443,6 +455,7 @@
   } ,
   {
     "BookName": "The Spinward Extents",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40075",
     "BookISBN": "978-1-913076-66-5",
@@ -451,7 +464,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -479,7 +492,8 @@
     }
   },
   {
-    "BookName": "Robot Handbook",
+    "BookName": "MGP40085 - Robot Handbook",
+    "BookShortName": "Robot Handbook",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40085",
     "BookISBN": "",
@@ -513,7 +527,8 @@
     }
   },
   {
-    "BookName": "High Guard Update 2022",
+    "BookName": "MGP40087 - High Guard Update 2022",
+    "BookShortName": "High Guard Update 2022",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40087",
     "BookISBN": "",
@@ -547,7 +562,8 @@
     }
   } ,
   {
-    "BookName": "World Builder’s Handbook",
+    "BookName": "MGP40100 - World Builder’s Handbook",
+    "BookShortName": "World Builder’s Handbook",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40100",
     "BookISBN": "978-1-913076-98-6",
@@ -582,6 +598,7 @@
   },
   {
     "BookName": "Secrets of the Ancients",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40072",
     "BookISBN": "",
@@ -590,7 +607,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -616,6 +633,7 @@
   } ,
   {
     "BookName": "Mysteries of the Ancients",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40104",
     "BookISBN": "",
@@ -624,7 +642,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -650,6 +668,7 @@
   } ,
   {
     "BookName": "Wrath of the Ancients",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40115",
     "BookISBN": "978-1-916676-14-8",
@@ -658,7 +677,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -683,6 +702,7 @@
   },
   {
     "BookName": "Small Craft Catalogue",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40108",
     "BookISBN": "",
@@ -691,7 +711,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "",
@@ -724,6 +744,7 @@
   } ,
   {
     "BookName": "Adventure Class Ships",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40105",
     "BookISBN": "978-1-916675-03-2",
@@ -732,7 +753,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "",
@@ -756,6 +777,7 @@
   },
   {
     "BookName": "The Trailing Frontier",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40098",
     "BookISBN": "978-1-913076-96-2",
@@ -764,7 +786,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -789,6 +811,7 @@
   } ,
   {
     "BookName": "The Imperial Navy",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40099",
     "BookISBN": "",
@@ -797,7 +820,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -823,6 +846,7 @@
   } ,
   {
     "BookName": "The Marches Adventures 1-5",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40097",
     "BookISBN": "",
@@ -831,7 +855,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -855,6 +879,7 @@
   } ,
   {
     "BookName": "Great Rift Adventure 1 - Islands in the Rift",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40015",
     "BookISBN": "",
@@ -887,6 +912,7 @@
   },
   {
     "BookName": "Great Rift Adventure 2 - Deepnight Endeavour",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40014",
     "BookISBN": "",
@@ -919,6 +945,7 @@
   },
   {
     "BookName": "Great Rift Adventure 3 - Flatlined",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40016",
     "BookISBN": "",
@@ -951,6 +978,7 @@
   },
   {
     "BookName": "Traveller Core Rulebook",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40000",
     "BookISBN": "978-1-908460-52-3",
@@ -986,6 +1014,7 @@
   },
   {
     "BookName": "Element Class Cruisers - Shipbuilder's Blueprints",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP44444",
     "BookISBN": "",
@@ -1023,6 +1052,7 @@
   },
   {
     "BookName": "Traveller Referee's Screen Update 2024",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40106",
     "BookISBN": "978-1-916675-04-9",
@@ -1031,7 +1061,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "",
@@ -1056,6 +1086,7 @@
   },
   {
     "BookName": "Rim Expeditions",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40102",
     "BookISBN": "",
@@ -1064,7 +1095,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
@@ -1092,6 +1123,7 @@
   },
   {
     "BookName": "Solomani Front",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40051",
     "BookISBN": "",
@@ -1124,6 +1156,7 @@
   },
   {
     "BookName": "The Glorious Empire",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40049",
     "BookISBN": "",
@@ -1164,6 +1197,7 @@
   },
   {
     "BookName": "Traveller Core Rulebook Update 2022",
+    "BookShortName": "",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40058",
     "BookISBN": "978-1-913076-47-4",

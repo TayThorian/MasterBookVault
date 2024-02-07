@@ -1473,7 +1473,8 @@
     }
   },
   {
-    "BookName": "Tarsus",
+    "BookName": "GDW252 - Tarsus",
+    "BookShortName": "Tarsus",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW252",
     "BookISBN": "",
@@ -2181,8 +2182,9 @@
   },
   {
     "BookName": "Supplement 5 - Lightning Class Cruisers",
+    "BookShortName": "Supplement 5 - Lightning Class Cruisers",
     "BookPublisher": "Game Designers Workshop",
-    "BookCode": "N/A",
+    "BookCode": "",
     "BookISBN": "",
     "BookAuthor": "",
     "BookPublished": "",

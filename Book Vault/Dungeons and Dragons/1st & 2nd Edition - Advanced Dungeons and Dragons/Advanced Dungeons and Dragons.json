@@ -236,7 +236,7 @@
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "",
@@ -272,7 +272,7 @@
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "",
@@ -307,7 +307,7 @@
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Core",
@@ -798,7 +798,7 @@
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "",
@@ -838,7 +838,7 @@
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Core Books",
@@ -913,7 +913,7 @@
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "1st Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "",
@@ -1054,8 +1054,8 @@
     }
   },
   {
-    "BookName": "PHBR3 - The Complete Priest's Handbook",
-    "BookShortName": "",
+    "BookName": "TSR2113 - PHBR3 - The Complete Priest's Handbook",
+    "BookShortName": "PHBR3 - The Complete Priest's Handbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2113",
     "BookISBN": "0-88038-318-8",
@@ -1087,8 +1087,8 @@
     }
   },
   {
-    "BookName": "PHBR4 - The Complete Wizard's Handbook",
-    "BookShortName": "",
+    "BookName": "TSR2115 - PHBR4 - The Complete Wizard's Handbook",
+    "BookShortName": "PHBR4 - The Complete Wizard's Handbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2115",
     "BookISBN": "0-88038-838-2",
@@ -1129,8 +1129,8 @@
     }
   },
   {
-    "BookName": "PHBR5 - The Complete Psionics Handbook",
-    "BookShortName": "",
+    "BookName": "TSR2117 - PHBR5 - The Complete Psionics Handbook",
+    "BookShortName": "PHBR5 - The Complete Psionics Handbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2117",
     "BookISBN": "1-56076-054-0",
@@ -1163,8 +1163,8 @@
     }
   },
   {
-    "BookName": "PHBR6 - The Complete Book of Dwarves",
-    "BookShortName": "",
+    "BookName": "TSR2124 - PHBR6 - The Complete Book of Dwarves",
+    "BookShortName": "PHBR6 - The Complete Book of Dwarves",
     "BookPublisher": "TSR",
     "BookCode": "TSR2124",
     "BookISBN": "1-56076-110-5",
@@ -1198,8 +1198,8 @@
     }
   },
   {
-    "BookName": "PHBR7 - The Complete Bard's Handbook",
-    "BookShortName": "",
+    "BookName": "TSR2127 - PHBR7 - The Complete Bard's Handbook",
+    "BookShortName": "PHBR7 - The Complete Bard's Handbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2127",
     "BookISBN": "1-56076-360-4",
@@ -1232,8 +1232,8 @@
     }
   },
   {
-    "BookName": "PHBR8 - The Complete Book of Elves",
-    "BookShortName": "",
+    "BookName": "TSR2131 - PHBR8 - The Complete Book of Elves",
+    "BookShortName": "PHBR8 - The Complete Book of Elves",
     "BookPublisher": "TSR",
     "BookCode": "TSR2131",
     "BookISBN": "1-56076-376-0",
@@ -1267,8 +1267,8 @@
     }
   },
   {
-    "BookName": "PHBR9 - The Complete Book of Gnomes & Halflings",
-    "BookShortName": "",
+    "BookName": "TSR2134 - PHBR9 - The Complete Book of Gnomes & Halflings",
+    "BookShortName": "PHBR9 - The Complete Book of Gnomes & Halflings",
     "BookPublisher": "TSR",
     "BookCode": "TSR2134",
     "BookISBN": "1-56076-573-9",
@@ -1302,8 +1302,8 @@
     }
   },
   {
-    "BookName": "PHBR10 - The Complete Book of Humanoids",
-    "BookShortName": "",
+    "BookName": "TSR2135 - PHBR10 - The Complete Book of Humanoids",
+    "BookShortName": "PHBR10 - The Complete Book of Humanoids",
     "BookPublisher": "TSR",
     "BookCode": "TSR2135",
     "BookISBN": "1-56076-611-5",
@@ -1337,8 +1337,8 @@
     }
   },
   {
-    "BookName": "PHBR11 - The Complete Ranger's Handbook",
-    "BookShortName": "",
+    "BookName": "TSR2136 - PHBR11 - The Complete Ranger's Handbook",
+    "BookShortName": "PHBR11 - The Complete Ranger's Handbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2136",
     "BookISBN": "1-56076-634-4",
@@ -1371,8 +1371,8 @@
     }
   },
   {
-    "BookName": "PHBR12 - The Complete Paladin's Handbook",
-    "BookShortName": "",
+    "BookName": "TSR2147 - PHBR12 - The Complete Paladin's Handbook",
+    "BookShortName": "PHBR12 - The Complete Paladin's Handbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2147",
     "BookISBN": "1-56076-845-2",
@@ -1405,8 +1405,8 @@
     }
   },
   {
-    "BookName": "PHBR13 - The Complete Druid's Handbook",
-    "BookShortName": "",
+    "BookName": "TSR2150 - PHBR13 - The Complete Druid's Handbook",
+    "BookShortName": "PHBR13 - The Complete Druid's Handbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2150",
     "BookISBN": "1-56076-886-X",
@@ -1439,8 +1439,8 @@
     }
   },
   {
-    "BookName": "PHBR14 - The Complete Barbarian's Handbook",
-    "BookShortName": "",
+    "BookName": "TSR2148 - PHBR14 - The Complete Barbarian's Handbook",
+    "BookShortName": "PHBR14 - The Complete Barbarian's Handbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2148",
     "BookISBN": "0-7869-0090-3",
@@ -1472,8 +1472,8 @@
     }
   },
   {
-    "BookName": "PHBR15 - The Complete Ninja's Handbook",
-    "BookShortName": "",
+    "BookName": "TSR2155 - PHBR15 - The Complete Ninja's Handbook",
+    "BookShortName": "PHBR15 - The Complete Ninja's Handbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2155",
     "BookISBN": "0-7869-0159-4",
@@ -1507,8 +1507,8 @@
     }
   },
   {
-    "BookName": "Player's Option - Skills & Powers",
-    "BookShortName": "",
+    "BookName": "TSR2154 - Player's Option - Skills & Powers",
+    "BookShortName": "Player's Option - Skills & Powers",
     "BookPublisher": "TSR",
     "BookCode": "TSR2154",
     "BookISBN": "0-7869-0149-7",

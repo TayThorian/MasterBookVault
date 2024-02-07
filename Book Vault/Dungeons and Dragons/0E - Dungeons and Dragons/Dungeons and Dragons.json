@@ -286,8 +286,8 @@
     }
   },
   {
-    "BookName": "Rules Cyclopedia",
-    "BookShortName": "",
+    "BookName": "TSR1071 - Rules Cyclopedia",
+    "BookShortName": "Rules Cyclopedia",
     "BookPublisher": "TSR",
     "BookCode": "TSR1071",
     "BookISBN": "1-56076-085-0",
@@ -418,8 +418,8 @@
     }
   },
   {
-    "BookName": "B1 - In Search of the Unknown",
-    "BookShortName": "",
+    "BookName": "TSR9023 - B1 - In Search of the Unknown",
+    "BookShortName": "B1 - In Search of the Unknown",
     "BookPublisher": "TSR",
     "BookCode": "TSR9023",
     "BookISBN": "0-935696-04-0",
@@ -428,7 +428,7 @@
     "BookCover": "",
     "BookRules": "Dungeons and Dragons",
     "BookEdition": "Basic D&D",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Mystara",

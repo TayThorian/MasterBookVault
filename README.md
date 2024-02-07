@@ -2,113 +2,29 @@
 # Physical Books to Source
 ## Chaosium
 - CHA2036 - Basic Roleplaying - Universal Game Engine
-## Iron Crown Enterprises
-- ICE2210 - Middle-Earth Adventure Guidebook II
-- ICE2300 - Angmar - Land of the Witch King
-- ICE2400 - Umbar - Haven of the Corsairs
-- ICE2500 - The Court of Ardor in Southern Middle-earth
-- ICE2900 - Moria The Dwarven City
-- ICE2600 - Northern Mirkwood, The Wood-Elves Realm
-- ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
-- ICE2700 - Southern Mirkwood - Haunt of the Necromancer
-- ICE3600 - Dunland and the Southern Misty Mountains
-- ICE3200 - Lorien & The Halls of the Elven Smiths
-- ICE8107 - Woses of the Black Wood
-- ICE8060 - Erech and the Paths of the Dead
-- ICE3000 - Rangers of the North, The Kingdom of Arthedain
-- ICE3110 - Mount Gundabad
-- ICE3111 - Greater Harad
-- ICE3113 - The Grey Mountains
-- ICE4010 - Mirkwood The Wilds of Rhovanion
-- ICE4020 - Empire of the Witch King
-- ICE3300 - Havens of Gondor
-- ICE3400 - Sea-Lords of Gondor
-- ICE3500 - Ents of Fangorn
-- ICE3700 - Lost Realm of Cardolan
-- ICE3800 - Far Harad The Scorched Land
-- ICE3900 - Shadow in the South
-- ICE8005 - Creatures of Middle Earth
-- ICE8006 - Treasures of Middle Earth
-- ICE8007 - Angus McBrides Characters of Middle Earth
-- ICE8010 - Bree & The Barrow Downs
-- ICE8012 - Warlords Desert
-- ICE8013 - Dark Mage of Rhudaur
-- ICE8014 - Rogues of the Borderlands
-- ICE8015 - Forest of Tears
-- ICE8016 - Ghost Warriors
-- ICE8070 - Goblin Gate and Eagles's Eyrye
-- ICE8080 - Rivendell The House of Elrond
-- ICE8090 - Brigands of Mirkwood
-- ICE8101 - Haunted Rruins of the Dunlendings
-- ICE8102 - Phantom Of The Northern Marches
-- ICE8103 - Trolls Of The Misty Mountains
-- ICE8104 - Pirates of Pelargir
-- ICE8105 - Gates Of Mordor
-- ICE8106 - Assassins of Dol Amroth
-- ICE8108 - Raiders of Cardolan
-- ICE8110 - Perils on the Sea of Rhun
-- ICE8111 - Denizens of the Dark Wood
-- ICE8112 - Hazard of the Harad Wood
-- ICE8113 - The Necromancer's Lieutenant
-- ICE4001 - Campaign Atlas - Northwestern Middle Eart Map Set
-- ICE4002 - Northwestern Middle-earth Gazeteer
-- ICE8001 - Combat Screen
-- ICE8114 - River Running
-- ICE8201 - Weathertop Tower of Wind
-- ICE8202 - Teeth of Mordor
-- ICE8203 - Calenhad A Beacon of Gondor
-- ICE8204 - Halls of the Elven King
-- ICE8205 - Nazguls Citadel
-- ICE8302 - Minas Ithil
-- GCP-RMU-001 - Rolemaster Unified - Core Law
-- GCP-RMU-002 - Rolemaster Unified - Spell Law
 ## Monte Cook Games
 - MCG361 - The Glimmering Valley
 - MCG311 - Path of the Planebreaker
+## Iron Crown Enterprises
+- GCP-RMU-001 - Rolemaster Unified - Core Law
+- GCP-RMU-002 - Rolemaster Unified - Spell Law
 ## Free League Publishing
 - FLFTOR012 - Tales from the Lone Lands
 - FLFALE017 - Building Better Worlds
 - FLFFBL014 - Crypt of the Mellified Mage
 - MUH051557 - The Spire of Quetzel
 ## Game Designers Workshop
-- GDW252 -
-- N/A -
+- GDW252 - Tarsus
+- - Supplement 5 - Lightning Class Cruisers
 ## Digest Group Publications
 - - Manhunt
 ## Mongoose Publishing
-- MGP40111 -
-- MGP40061 -
-- MGP40062 -
-- MGP40063 -
-- MGP40073 -
-- MGP40114 -
-- MGP40112 -
-- MGP40094 -
-- MGP40103 -
-- MGP40095 -
-- MGP40075 -
-- MGP40085 -
-- MGP40087 -
-- MGP40100 -
-- MGP40072 -
-- MGP40104 -
-- MGP40115 -
-- MGP40108 -
-- MGP40105 -
-- MGP40098 -
-- MGP40099 -
-- MGP40097 -
-- MGP40106 -
-- MGP40102 -
+- MGP40095 - Central Supply Catalogue -Update 2023
+- MGP40085 - Robot Handbook
+- MGP40087 - High Guard Update 2022
+- MGP40100 - World Builder’s Handbook
 ## TSR
-- TSR1071 -
-- TSR9023 -
-- TSR9506 - Chronomancer
-- TSR9507 - Shaman
-- TSR2173 - Monstrous Compendium Annual - Volume Four
-- TSR9532 -
-- TSR9556 -
-- TSR9147 -
+- TSR1071 - Rules Cyclopedia
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
 - TSR9433 - ALQ4 - Secrets of the Lamp
@@ -180,7 +96,7 @@
 ## Digest Group Publications
 - - Manhunt
 ## Mongoose Publishing
-- MGP40111 -
+- MGP40111 - Reach Adventure 8 - Makergod
 - MGP40061 -
 - MGP40062 -
 - MGP40063 -
@@ -189,11 +105,11 @@
 - MGP40112 -
 - MGP40094 -
 - MGP40103 -
-- MGP40095 -
+- MGP40095 - Central Supply Catalogue -Update 2023
 - MGP40075 -
-- MGP40085 -
-- MGP40087 -
-- MGP40100 -
+- MGP40085 - Robot Handbook
+- MGP40087 - High Guard Update 2022
+- MGP40100 - World Builder’s Handbook
 - MGP40072 -
 - MGP40104 -
 - MGP40115 -
@@ -225,20 +141,20 @@
 - TSR2144 -
 - TSR2110 -
 - TSR2111 -
-- TSR2113 -
-- TSR2115 -
-- TSR2117 -
-- TSR2124 -
-- TSR2127 -
-- TSR2131 -
-- TSR2134 -
-- TSR2135 -
-- TSR2136 -
-- TSR2147 -
-- TSR2150 -
-- TSR2148 -
-- TSR2155 -
-- TSR2154 -
+- TSR2113 - PHBR3 - The Complete Priest's Handbook
+- TSR2115 - PHBR4 - The Complete Wizard's Handbook
+- TSR2117 - PHBR5 - The Complete Psionics Handbook
+- TSR2124 - PHBR6 - The Complete Book of Dwarves
+- TSR2127 - PHBR7 - The Complete Bard's Handbook
+- TSR2131 - PHBR8 - The Complete Book of Elves
+- TSR2134 - PHBR9 - The Complete Book of Gnomes & Halflings
+- TSR2135 - PHBR10 - The Complete Book of Humanoids
+- TSR2136 - PHBR11 - The Complete Ranger's Handbook
+- TSR2147 - PHBR12 - The Complete Paladin's Handbook
+- TSR2150 - PHBR13 - The Complete Druid's Handbook
+- TSR2148 - PHBR14 - The Complete Barbarian's Handbook
+- TSR2155 - PHBR15 - The Complete Ninja's Handbook
+- TSR2154 - Player's Option - Skills & Powers
 - TSR2022 -
 - TSR2020 -
 - TSR2017 -
