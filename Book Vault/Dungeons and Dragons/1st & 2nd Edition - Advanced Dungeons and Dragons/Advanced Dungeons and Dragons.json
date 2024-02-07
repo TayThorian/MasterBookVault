@@ -537,8 +537,8 @@
     }
   } ,
   {
-    "BookName": "DMGR5 - Creative Campaigning",
-    "BookShortName": "",
+    "BookName": "TSR2133 - DMGR5 - Creative Campaigning",
+    "BookShortName": "DMGR5 - Creative Campaigning",
     "BookPublisher": "TSR",
     "BookCode": "TSR2133",
     "BookISBN": "1-56076-561-5",
@@ -579,8 +579,8 @@
     }
   } ,
   {
-    "BookName": "DMGR6 - The Complete Book of Villains",
-    "BookShortName": "",
+    "BookName": "TSR2144 - DMGR6 - The Complete Book of Villains",
+    "BookShortName": "DMGR6 - The Complete Book of Villains",
     "BookPublisher": "TSR",
     "BookCode": "TSR2144",
     "BookISBN": "1-56076-837-1",
@@ -613,8 +613,8 @@
     }
   } ,
   {
-    "BookName": "DMGR8 - Sages and Specialists",
-    "BookShortName": "",
+    "BookName": "TSR2164 - DMGR8 - Sages and Specialists",
+    "BookShortName": "DMGR8 - Sages and Specialists",
     "BookPublisher": "TSR",
     "BookCode": "TSR2164",
     "BookISBN": "0-7869-0410-0",
@@ -648,8 +648,8 @@
     }
   } ,
   {
-    "BookName": "DMGR9 - of Ships and the Sea",
-    "BookShortName": "",
+    "BookName": "TSR2170 - DMGR9 - of Ships and the Sea",
+    "BookShortName": "DMGR9 - of Ships and the Sea",
     "BookPublisher": "TSR",
     "BookCode": "TSR2170",
     "BookISBN": "0-7869-0706-1",
@@ -683,8 +683,8 @@
     }
   },
   {
-    "BookName": "Monster Manual - 1st Edition",
-    "BookShortName": "",
+    "BookName": "TSR2009 - Monster Manual - 1st Edition",
+    "BookShortName": "Monster Manual - 1st Edition",
     "BookPublisher": "TSR",
     "BookCode": "TSR2009",
     "BookISBN": "0-935696-00-8",
@@ -718,8 +718,8 @@
     }
   } ,
   {
-    "BookName": "Player's Handbook - 1st Edition",
-    "BookShortName": "",
+    "BookName": "TSR2010 - Player's Handbook - 1st Edition",
+    "BookShortName": "Player's Handbook - 1st Edition",
     "BookPublisher": "TSR",
     "BookCode": "TSR2010",
     "BookISBN": "0-935696-01-6",
@@ -753,8 +753,8 @@
     }
   },
   {
-    "BookName": "Dungeon Masters Guide - 1st Edition",
-    "BookShortName": "",
+    "BookName": "TSR2011 - Dungeon Masters Guide - 1st Edition",
+    "BookShortName": "Dungeon Masters Guide - 1st Edition",
     "BookPublisher": "TSR",
     "BookCode": "TSR2011",
     "BookISBN": "0-88038-051-9",
@@ -788,8 +788,8 @@
     }
   },
   {
-    "BookName": "World Builders Guidebook",
-    "BookShortName": "",
+    "BookName": "TSR9532 - World Builders Guidebook",
+    "BookShortName": "World Builders Guidebook",
     "BookPublisher": "TSR",
     "BookCode": "TSR9532",
     "BookISBN": "0-7869-0434-8",
@@ -828,8 +828,8 @@
     }
   },
   {
-    "BookName": "Dungeon Builder's Guidebook",
-    "BookShortName": "",
+    "BookName": "TSR9556 - Dungeon Builder's Guidebook",
+    "BookShortName": "Dungeon Builder's Guidebook",
     "BookPublisher": "TSR",
     "BookCode": "TSR9556",
     "BookISBN": "0-7869-1207-3",
@@ -861,8 +861,8 @@
     }
   } ,
   {
-    "BookName": "Den of Thieves",
-    "BookShortName": "",
+    "BookName": "TSR9515 - Den of Thieves",
+    "BookShortName": "Den of Thieves",
     "BookPublisher": "TSR",
     "BookCode": "TSR9515",
     "BookISBN": "0-7869-0382-1",
@@ -903,8 +903,8 @@
     }
   } ,
   {
-    "BookName": "T1-4 - The Temple of Elemental Evil",
-    "BookShortName": "",
+    "BookName": "TSR9147 - T1-4 - The Temple of Elemental Evil",
+    "BookShortName": "T1-4 - The Temple of Elemental Evil",
     "BookPublisher": "TSR",
     "BookCode": "TSR9147",
     "BookISBN": "0-88038-018-7",
@@ -939,8 +939,8 @@
     }
   }  ,
   {
-    "BookName": "T1 - The Village of Hommlet",
-    "BookShortName": "",
+    "BookName": "TSR9026 - T1 - The Village of Hommlet",
+    "BookShortName": "T1 - The Village of Hommlet",
     "BookPublisher": "TSR",
     "BookCode": "TSR9026",
     "BookISBN": "",
@@ -973,8 +973,8 @@
     }
   },
   {
-    "BookName": "PHBR1 - The Complete Fighter's Handbook",
-    "BookShortName": "",
+    "BookName": "TSR2110 - PHBR1 - The Complete Fighter's Handbook",
+    "BookShortName": "PHBR1 - The Complete Fighter's Handbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2110",
     "BookISBN": "0-88038-779-3",
@@ -1013,8 +1013,8 @@
     }
   },
   {
-    "BookName": "PHBR2 - The Complete Thief's Handbook",
-    "BookShortName": "",
+    "BookName": "TSR2111 - PHBR2 - The Complete Thief's Handbook",
+    "BookShortName": "PHBR2 - The Complete Thief's Handbook",
     "BookPublisher": "TSR",
     "BookCode": "TSR2111",
     "BookISBN": "0-88038-780-7",
@@ -1542,8 +1542,8 @@
     }
   },
   {
-    "BookName": "Player's Option - Combat & Tactics",
-    "BookShortName": "",
+    "BookName": "TSR2149 - Player's Option - Combat & Tactics",
+    "BookShortName": "Player's Option - Combat & Tactics",
     "BookPublisher": "TSR",
     "BookCode": "TSR2149",
     "BookISBN": "0-7869-0096-2",
@@ -1585,8 +1585,8 @@
     }
   },
   {
-    "BookName": "Manual of the Planes",
-    "BookShortName": "",
+    "BookName": "TSR2022 - Manual of the Planes",
+    "BookShortName": "Manual of the Planes",
     "BookPublisher": "TSR",
     "BookCode": "TSR2022",
     "BookISBN": "0-88038-399-2",
@@ -1637,8 +1637,8 @@
     }
   },
   {
-    "BookName": "Wilderness Survival Guide",
-    "BookShortName": "",
+    "BookName": "TSR2020 - Wilderness Survival Guide",
+    "BookShortName": "Wilderness Survival Guide",
     "BookPublisher": "TSR",
     "BookCode": "TSR2020",
     "BookISBN": "0-88038-291.0",
@@ -1670,8 +1670,8 @@
     }
   },
   {
-    "BookName": "Dungeoneer's Survival Guide",
-    "BookShortName": "",
+    "BookName": "TSR2019 - Dungeoneer's Survival Guide",
+    "BookShortName": "Dungeoneer's Survival Guide",
     "BookPublisher": "TSR",
     "BookCode": "TSR2019",
     "BookISBN": "0-88038-272-4",
@@ -1711,8 +1711,8 @@
     }
   },
   {
-    "BookName": "Oriental Adventures",
-    "BookShortName": "",
+    "BookName": "TSR2018 - Oriental Adventures",
+    "BookShortName": "Oriental Adventures",
     "BookPublisher": "TSR",
     "BookCode": "TSR2018",
     "BookISBN": "0-88038-099-3",
@@ -1745,8 +1745,8 @@
     }
   },
   {
-    "BookName": "Unearthed Arcana",
-    "BookShortName": "",
+    "BookName": "TSR2017 - Unearthed Arcana",
+    "BookShortName": "Unearthed Arcana",
     "BookPublisher": "TSR",
     "BookCode": "TSR2017",
     "BookISBN": "0-88038-084-5",
@@ -1779,8 +1779,8 @@
     }
   },
   {
-    "BookName": "Monster Manual II",
-    "BookShortName": "",
+    "BookName": "TSR2016 - Monster Manual II",
+    "BookShortName": "Monster Manual II",
     "BookPublisher": "TSR",
     "BookCode": "TSR2016",
     "BookISBN": "0-88038-031-4",
@@ -1816,8 +1816,8 @@
     }
   },
   {
-    "BookName": "Legends & Lore",
-    "BookShortName": "",
+    "BookName": "TSR2013 - Legends & Lore",
+    "BookShortName": "Legends & Lore",
     "BookPublisher": "TSR",
     "BookCode": "TSR2013",
     "BookISBN": "0-935696-22-9",
@@ -1849,8 +1849,8 @@
     }
   },
   {
-    "BookName": "Deities & Demigods",
-    "BookShortName": "",
+    "BookName": "TSR2013 - Deities & Demigods",
+    "BookShortName": "Deities & Demigods",
     "BookPublisher": "TSR",
     "BookCode": "TSR2013",
     "BookISBN": "0-935696-22-9",
@@ -1883,8 +1883,8 @@
     }
   },
   {
-    "BookName": "Fiend Folio",
-    "BookShortName": "",
+    "BookName": "TSR2012 - Fiend Folio",
+    "BookShortName": "Fiend Folio",
     "BookPublisher": "TSR",
     "BookCode": "TSR2012",
     "BookISBN": "0-935696-21-0",
@@ -1917,8 +1917,8 @@
     }
   },
   {
-    "BookName": "Legends & Lore",
-    "BookShortName": "",
+    "BookName": "TSR2108 - Legends & Lore",
+    "BookShortName": "Legends & Lore",
     "BookPublisher": "TSR",
     "BookCode": "TSR2108",
     "BookISBN": "0-88038-844-7",
