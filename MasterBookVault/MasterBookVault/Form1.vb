@@ -160,8 +160,20 @@ Public Class Form1
 
                             For Each book In seriesGroup.OrderBy(Function(b) b.BookName)
                                 If Not String.IsNullOrEmpty(book.BookName) Then
-                                    seriesNode.Nodes.Add(book.BookName)
+                                    Dim bookNode As TreeNode = seriesNode.Nodes.Add(book.BookName)
                                     bookDictionary(book.BookName) = book
+
+                                    ' Set the color of the node based on the BookPhysical field
+                                    Select Case book.BookPhysical
+                                        Case "Yes"
+                                            bookNode.ForeColor = Color.Blue
+                                        Case "To Source"
+                                            bookNode.ForeColor = Color.Red
+                                        Case "On Order"
+                                            bookNode.ForeColor = Color.Green
+                                        Case Else
+                                            bookNode.ForeColor = Color.Black
+                                    End Select
                                 End If
                             Next
                         Next

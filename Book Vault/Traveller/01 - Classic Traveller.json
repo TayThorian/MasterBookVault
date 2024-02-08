@@ -332,8 +332,8 @@
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "Classic Traveller",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "",
     "BookType": "",
@@ -364,8 +364,8 @@
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "Classic Traveller",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "",
     "BookType": "",
@@ -396,8 +396,8 @@
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "Classic Traveller",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "",
     "BookType": "",
@@ -429,8 +429,8 @@
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "Classic Traveller",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "",
     "BookType": "",
@@ -461,8 +461,8 @@
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "Classic Traveller",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "",
     "BookType": "",
@@ -1552,8 +1552,8 @@
     "BookLibrary": "Yes",
     "BookSetting": "Traveller",
     "BookType": "Module",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Modules",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW261 - The Spinward Marches Campaign - Adventures in a War-Ravaged Sector.pdf"
@@ -2201,6 +2201,369 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\Supplement 5 - Lightning Class Cruisers.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GL1971 - Wanted Adventurers",
+    "BookShortName": "Wanted Adventurers",
+    "BookPublisher": "Game Lords",
+    "BookCode": "GL1971",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Game Lords",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Lords\\GL1971 - Wanted Adventurers.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GL1975 - Startown Liberty",
+    "BookShortName": "Startown Liberty",
+    "BookPublisher": "Game Lords",
+    "BookCode": "GL1975",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Game Lords",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Lords\\GL1975 - Startown Liberty.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GL1980 - Lees Guide to Interstellar Adventure - Volume 1",
+    "BookShortName": "Lees Guide to Interstellar Adventure - Volume 1",
+    "BookPublisher": "Game Lords",
+    "BookCode": "GL1980",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Game Lords",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Lords\\GL1980 - Lees Guide to Interstellar Adventure - Volume 1.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GL1984 - The Undersea Environment",
+    "BookShortName": "The Undersea Environment",
+    "BookPublisher": "Game Lords",
+    "BookCode": "GL1984",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Game Lords",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Lords\\GL1984 - The Undersea Environment.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GL1985 - The Drenslaar Quest",
+    "BookShortName": "The Drenslaar Quest",
+    "BookPublisher": "Game Lords",
+    "BookCode": "GL1985",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Game Lords",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Lords\\GL1985 - The Drenslaar Quest.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GL1986 - The Mountain Environment",
+    "BookShortName": "The Mountain Environment",
+    "BookPublisher": "Game Lords",
+    "BookCode": "GL1986",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Game Lords",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Lords\\GL1986 - The Mountain Environment.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GL1987 - Ascent to Anekthor",
+    "BookShortName": "Ascent to Anekthor",
+    "BookPublisher": "Game Lords",
+    "BookCode": "GL1987",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Game Lords",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Lords\\GL1987 - Ascent to Anekthor.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GL1988 - The Desert Environment",
+    "BookShortName": "The Desert Environment",
+    "BookPublisher": "Game Lords",
+    "BookCode": "GL1988",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Game Lords",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Lords\\GL1988 - The Desert Environment.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GL1989 - Duneraiders",
+    "BookShortName": "Duneraiders",
+    "BookPublisher": "Game Lords",
+    "BookCode": "GL1989",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Game Lords",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Lords\\GL1989 - Duneraiders.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GL2980 - A Pilot's Guide to the Drexilthar Subsector",
+    "BookShortName": "A Pilot's Guide to the Drexilthar Subsector",
+    "BookPublisher": "Game Lords",
+    "BookCode": "GL2980",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Game Lords",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Lords\\GL2980 - A Pilot's Guide to the Drexilthar Subsector.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GL2990 - A Pilots Guide to Caledon Subsector",
+    "BookShortName": "A Pilots Guide to Caledon Subsector",
+    "BookPublisher": "Game Lords",
+    "BookCode": "GL2990",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "",
+    "BookFormat": "Softback",
+    "BookSeries": "Game Lords",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Lords\\GL2990 - A Pilots Guide to Caledon Subsector.pdf"
     ],
     "BookDescription": [
       "No description available."
