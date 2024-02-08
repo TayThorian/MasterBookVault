@@ -427,6 +427,7 @@ Public Class Form1
         TextBoxSeries.Text = selectedBook.BookSeries
         TextBoxPhysical.Text = selectedBook.BookPhysical
         TextBoxOwnedPDF.Text = selectedBook.BookOwnedPDF
+        TextBoxCharLvl.Text = selectedBook.BookCharacterLevel
     End Sub
 
     Private Function CountFields() As Dictionary(Of String, Integer)

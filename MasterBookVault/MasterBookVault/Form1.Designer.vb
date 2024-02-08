@@ -71,6 +71,8 @@ Partial Class Form1
         Label4 = New Label()
         Label18 = New Label()
         Panel2 = New Panel()
+        TextBoxCharLvl = New TextBox()
+        Label24 = New Label()
         Panel3 = New Panel()
         TextBox1 = New TextBox()
         Label19 = New Label()
@@ -179,7 +181,7 @@ Partial Class Form1
         Label1.AutoSize = True
         Label1.BackColor = SystemColors.Window
         Label1.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label1.Location = New Point(681, 649)
+        Label1.Location = New Point(680, 649)
         Label1.Name = "Label1"
         Label1.Size = New Size(90, 21)
         Label1.TabIndex = 9
@@ -200,7 +202,7 @@ Partial Class Form1
         Label2.AutoSize = True
         Label2.BackColor = SystemColors.Window
         Label2.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label2.Location = New Point(681, 622)
+        Label2.Location = New Point(680, 622)
         Label2.Name = "Label2"
         Label2.Size = New Size(51, 21)
         Label2.TabIndex = 11
@@ -231,7 +233,7 @@ Partial Class Form1
         Label3.AutoSize = True
         Label3.BackColor = SystemColors.Window
         Label3.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label3.Location = New Point(681, 594)
+        Label3.Location = New Point(680, 594)
         Label3.Name = "Label3"
         Label3.Size = New Size(87, 21)
         Label3.TabIndex = 14
@@ -243,7 +245,7 @@ Partial Class Form1
         Label5.AutoSize = True
         Label5.BackColor = SystemColors.Window
         Label5.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label5.Location = New Point(681, 677)
+        Label5.Location = New Point(680, 677)
         Label5.Name = "Label5"
         Label5.Size = New Size(86, 21)
         Label5.TabIndex = 16
@@ -264,7 +266,7 @@ Partial Class Form1
         Label6.AutoSize = True
         Label6.BackColor = SystemColors.Window
         Label6.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label6.Location = New Point(681, 743)
+        Label6.Location = New Point(680, 743)
         Label6.Name = "Label6"
         Label6.Size = New Size(55, 21)
         Label6.TabIndex = 18
@@ -285,7 +287,7 @@ Partial Class Form1
         Label7.AutoSize = True
         Label7.BackColor = SystemColors.Window
         Label7.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label7.Location = New Point(681, 771)
+        Label7.Location = New Point(680, 771)
         Label7.Name = "Label7"
         Label7.Size = New Size(69, 21)
         Label7.TabIndex = 20
@@ -296,7 +298,7 @@ Partial Class Form1
         TextBoxPhysical.BackColor = SystemColors.Window
         TextBoxPhysical.BorderStyle = BorderStyle.None
         TextBoxPhysical.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxPhysical.Location = New Point(781, 910)
+        TextBoxPhysical.Location = New Point(781, 911)
         TextBoxPhysical.Name = "TextBoxPhysical"
         TextBoxPhysical.Size = New Size(120, 22)
         TextBoxPhysical.TabIndex = 21
@@ -339,7 +341,7 @@ Partial Class Form1
         WebView2Description.BackColor = SystemColors.Window
         WebView2Description.CreationProperties = Nothing
         WebView2Description.DefaultBackgroundColor = Color.White
-        WebView2Description.Location = New Point(546, 123)
+        WebView2Description.Location = New Point(13, 52)
         WebView2Description.Name = "WebView2Description"
         WebView2Description.Size = New Size(627, 691)
         WebView2Description.TabIndex = 25
@@ -464,7 +466,7 @@ Partial Class Form1
         Label15.AutoSize = True
         Label15.BackColor = SystemColors.Window
         Label15.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label15.Location = New Point(681, 827)
+        Label15.Location = New Point(680, 827)
         Label15.Name = "Label15"
         Label15.Size = New Size(50, 21)
         Label15.TabIndex = 37
@@ -495,7 +497,7 @@ Partial Class Form1
         Label16.AutoSize = True
         Label16.BackColor = SystemColors.Window
         Label16.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label16.Location = New Point(681, 883)
+        Label16.Location = New Point(680, 883)
         Label16.Name = "Label16"
         Label16.Size = New Size(59, 21)
         Label16.TabIndex = 40
@@ -550,7 +552,7 @@ Partial Class Form1
         Label4.AutoSize = True
         Label4.BackColor = SystemColors.Window
         Label4.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label4.Location = New Point(681, 562)
+        Label4.Location = New Point(680, 562)
         Label4.Name = "Label4"
         Label4.Size = New Size(53, 21)
         Label4.TabIndex = 45
@@ -571,12 +573,15 @@ Partial Class Form1
         ' 
         Panel2.BackColor = SystemColors.Window
         Panel2.BorderStyle = BorderStyle.Fixed3D
+        Panel2.Controls.Add(TextBoxCharLvl)
+        Panel2.Controls.Add(Label24)
         Panel2.Controls.Add(Label3)
         Panel2.Controls.Add(TextBoxPublisher)
         Panel2.Controls.Add(Label16)
         Panel2.Controls.Add(Label17)
         Panel2.Controls.Add(TextBoxAuthor)
         Panel2.Controls.Add(TextBoxBookName)
+        Panel2.Controls.Add(WebView2Description)
         Panel2.Controls.Add(Label15)
         Panel2.Controls.Add(TextBoxCode)
         Panel2.Controls.Add(Label14)
@@ -601,6 +606,27 @@ Partial Class Form1
         Panel2.Name = "Panel2"
         Panel2.Size = New Size(1183, 1155)
         Panel2.TabIndex = 8
+        ' 
+        ' TextBoxCharLvl
+        ' 
+        TextBoxCharLvl.BackColor = SystemColors.Window
+        TextBoxCharLvl.BorderStyle = BorderStyle.None
+        TextBoxCharLvl.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        TextBoxCharLvl.Location = New Point(781, 941)
+        TextBoxCharLvl.Name = "TextBoxCharLvl"
+        TextBoxCharLvl.Size = New Size(306, 22)
+        TextBoxCharLvl.TabIndex = 48
+        ' 
+        ' Label24
+        ' 
+        Label24.AutoSize = True
+        Label24.BackColor = SystemColors.Window
+        Label24.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
+        Label24.Location = New Point(680, 941)
+        Label24.Name = "Label24"
+        Label24.Size = New Size(54, 21)
+        Label24.TabIndex = 46
+        Label24.Text = "Level:"
         ' 
         ' Panel3
         ' 
@@ -733,7 +759,6 @@ Partial Class Form1
         Controls.Add(ListBoxBooksToSource)
         Controls.Add(DataGridViewBookDetails)
         Controls.Add(Label10)
-        Controls.Add(WebView2Description)
         Controls.Add(TextBoxISBN)
         Controls.Add(PictureBox1)
         Controls.Add(PanelPdfLinks)
@@ -817,4 +842,6 @@ Partial Class Form1
     Friend WithEvents ContextMenuStrip1 As ContextMenuStrip
     Friend WithEvents Label21 As Label
     Friend WithEvents BookCountListBox As ListBox
+    Friend WithEvents Label24 As Label
+    Friend WithEvents TextBoxCharLvl As TextBox
 End Class
