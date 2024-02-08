@@ -53,7 +53,7 @@
     "BookSetting": "Middle Earth",
     "BookType": "Adventure",
     "BookFormat": "Paperback",
-    "BookSeries": "Adventure",
+    "BookSeries": "Adventures",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE2210 - Middle-earth Adventure Guidebook II.pdf"
     ],
@@ -86,7 +86,7 @@
     "BookSetting": "Middle Earth",
     "BookType": "Adventure",
     "BookFormat": "Paperback",
-    "BookSeries": "Adventure",
+    "BookSeries": "Adventures",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8050 - Thieves of Tharbad.pdf"
     ],
@@ -120,7 +120,7 @@
     "BookSetting": "Middle Earth",
     "BookType": "Adventure",
     "BookFormat": "Paperback",
-    "BookSeries": "Adventure",
+    "BookSeries": "Adventures",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8020 - Dagorlad and the Dead Marshes.pdf"
     ],
@@ -154,7 +154,7 @@
     "BookSetting": "Middle Earth",
     "BookType": "Adventure",
     "BookFormat": "Paperback",
-    "BookSeries": "Adventure",
+    "BookSeries": "Adventures",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8030 - The Tower of Cirith Ungol and Shelob's Lair.pdf"
     ],
@@ -222,7 +222,7 @@
     "BookSetting": "Middle Earth",
     "BookType": "Adventure",
     "BookFormat": "Paperback",
-    "BookSeries": "Adventure",
+    "BookSeries": "Adventures",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8011 - Mouths of the Entwash.pdf"
     ],
@@ -256,7 +256,7 @@
     "BookSetting": "Middle Earth",
     "BookType": "Adventure",
     "BookFormat": "Paperback",
-    "BookSeries": "Adventure",
+    "BookSeries": "Adventures",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8109 - Ghosts of the Southern Anduin.pdf"
     ],
@@ -293,7 +293,7 @@
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
     "BookType": "Campaign Setting",
-    "BookFormat": "Softback",
+    "BookFormat": "Softcover",
     "BookSeries": "Campaign Settings",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE2300 - Angmar - Land of the Witch King.pdf"
@@ -328,7 +328,7 @@
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
     "BookType": "Campaign Setting",
-    "BookFormat": "Softback",
+    "BookFormat": "Softcover",
     "BookSeries": "Campaign Settings",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE2400 - Umbar - Haven of the Corsairs.pdf"
@@ -362,7 +362,7 @@
     "BookSetting": "Middle Earth",
     "BookType": "Adventure",
     "BookFormat": "Paperback",
-    "BookSeries": "Adventure",
+    "BookSeries": "Adventures",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE2500 - The Court of Ardor in Southern Middle-earth.pdf"
     ],
@@ -533,8 +533,8 @@
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
     "BookType": "Adventure",
-    "BookFormat": "Softback",
-    "BookSeries": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8040 - Hillmen of the Trollshaws.pdf"
@@ -813,7 +813,7 @@
     "BookSetting": "Middle Earth",
     "BookType": "Adventure",
     "BookFormat": "Softcover",
-    "BookSeries": "Adventure",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8107 - Woses of the Black Wood.pdf"
@@ -846,7 +846,7 @@
     "BookSetting": "Middle Earth",
     "BookType": "Adventure",
     "BookFormat": "Softcover",
-    "BookSeries": "Adventure",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8060 - Erech and the Paths of the Dead.pdf"
@@ -984,7 +984,14 @@
       "D:\\Master Vault\\MERP\\1E\\ICE3112 - Gorgoroth.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "For thousands of years, the Men of the West stood guard over the Black Land, ever vigilant to prevent the return of Sauron’s might. The Great Plague has broken that watch, and evil stirs east of the Mountains of Shadow. Torchlight glares from arrow slits of once-abandoned citadels, and smoke unfurls from Orodruin’s long quiet summit. Foul beasts move by night through cracks in the broken surface of Gorgoroth’s volcanic plateau.",
+      "GORGOROTH includes:",
+      "11″ x 17″ FULL-COLOR MAP depicting the plateau of Gorgoroth.",
+      "2 FULL-COLOR CITY MAPS (on the reverse of the terrain map) showing Ostigurth, the City of Death, where new recruits to the Dark Lord’s forces are indoctrinated , and Bar Lithyrn, a Gondorian mining town on the northern slopes of the Ash Mountains.",
+      "4 CHILLING ADVENTURES on the foothills of the Ash Mountains that provide the daring with an unexpected introduction to Mordor.",
+      "DETAILED LAYOUTS of Mount Doom, Carach Angren, and other significant fortresses under the Lidless Eye.",
+      "IN-DEPTH INFORMATION on the military hierarchy of Mordor and its prominent leaders.",
+      "STATS AND BACKGROUND INFORMATION for all Nine Ringwraiths, as well as the heinous Lords of Mordor who implement the schemes devised by the Ulairi."
     ],
     "TableOfContents": {
       "title": "Book",
@@ -1362,9 +1369,9 @@
     "BookShortName": "Creatures of Middle Earth",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8005",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-019-7",
+    "BookAuthor": "Peter C. Fenlon Jr., Ruth Sochard, Jeff O’Hare",
+    "BookPublished": "1998",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1372,9 +1379,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8005 - Creatures of Middle Earth.pdf"
@@ -1395,9 +1402,9 @@
     "BookShortName": "Treasures of Middle Earth",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8006",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-048-0",
+    "BookAuthor": "Wolfgang Baur",
+    "BookPublished": "1989",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1405,9 +1412,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8006 - Treasures of Middle Earth.pdf"
@@ -1428,9 +1435,9 @@
     "BookShortName": "Angus McBrides Characters of Middle Earth",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8007",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-134-7",
+    "BookAuthor": "Jessica M. Ney",
+    "BookPublished": "1990",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1438,9 +1445,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8007 - Angus McBrides Characters of Middle Earth.pdf"
@@ -1457,13 +1464,13 @@
     }
   },
   {
-    "BookName": "ICE8010 - Bree & The Barrow Downs",
-    "BookShortName": "Bree & The Barrow Downs",
+    "BookName": "ICE8010 - Bree and The Barrow Downs",
+    "BookShortName": "Bree and The Barrow Downs",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8010",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-915795-16-7",
+    "BookAuthor": "Heike Kubasch",
+    "BookPublished": "1984",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1471,9 +1478,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8010 - Bree & The Barrow Downs.pdf"
@@ -1494,9 +1501,9 @@
     "BookShortName": "Warlords Desert",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8012",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-058-8",
+    "BookAuthor": "Charles Crutchfield",
+    "BookPublished": "1989",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1504,9 +1511,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8012 - Warlords Desert.pdf"
@@ -1527,9 +1534,9 @@
     "BookShortName": "Dark Mage of Rhudaur",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8013",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-072-3",
+    "BookAuthor": "Jeffery McKeage",
+    "BookPublished": "1989",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1537,9 +1544,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8013 - Dark Mage of Rhudaur.pdf"
@@ -1560,8 +1567,8 @@
     "BookShortName": "Rogues of the Borderlands",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8014",
-    "BookISBN": "",
-    "BookAuthor": "",
+    "BookISBN": "1-55806-083-9",
+    "BookAuthor": "John Crowdis",
     "BookPublished": "",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
@@ -1570,9 +1577,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8014 - Rogues of the Borderlands.pdf"
@@ -1593,9 +1600,9 @@
     "BookShortName": "Forest of Tears",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8015",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-084-7",
+    "BookAuthor": "Charles Crutchfield",
+    "BookPublished": "1989",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1603,9 +1610,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8015 - Forest of Tears.pdf"
@@ -1626,9 +1633,9 @@
     "BookShortName": "Ghost Warriors",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8016",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-107-X",
+    "BookAuthor": "John M. Ferrone",
+    "BookPublished": "1990",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1636,9 +1643,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8016 - Ghost Warriors.pdf"
@@ -1659,9 +1666,9 @@
     "BookShortName": "Goblin Gate and Eagles's Eyrye",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8070",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-915795-40-X",
+    "BookAuthor": "Carl Willner",
+    "BookPublished": "1985",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1669,9 +1676,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8070 - Goblin Gate and Eagles's Eyrye.pdf"
@@ -1692,9 +1699,9 @@
     "BookShortName": "Rivendell The House of Elrond",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8080",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-915795-87-6",
+    "BookAuthor": "Terry Kevin Amthor",
+    "BookPublished": "1987",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1702,9 +1709,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8080 - Rivendell The House of Elrond.pdf"
@@ -1725,9 +1732,9 @@
     "BookShortName": "Brigands of Mirkwood",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8090",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-915795-85-X",
+    "BookAuthor": "Charles Crutchfield",
+    "BookPublished": "1987",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1735,9 +1742,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8090 - Brigands of Mirkwood.pdf"
@@ -1754,13 +1761,13 @@
     }
   },
   {
-    "BookName": "ICE8101 - Haunted Rruins of the Dunlendings",
-    "BookShortName": "Haunted Rruins of the Dunlendings",
+    "BookName": "ICE8101 - Haunted Ruins of the Dunlendings",
+    "BookShortName": "Haunted Ruins of the Dunlendings",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8101",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-915795-27-2",
+    "BookAuthor": "Ruth Sochard",
+    "BookPublished": "1985",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1768,12 +1775,12 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\Master Vault\\MERP\\1E\\ICE8101 - Haunted Rruins of the Dunlendings.pdf"
+      "D:\\Master Vault\\MERP\\1E\\ICE8101 - Haunted Ruins of the Dunlendings.pdf"
     ],
     "BookDescription": [
       "No description available."
@@ -1791,9 +1798,9 @@
     "BookShortName": "Phantom Of The Northern Marches",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8102",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-915795-47-7",
+    "BookAuthor": "Graham Staplehurst",
+    "BookPublished": "1986",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1801,9 +1808,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8102 - Phantom Of The Northern Marches.pdf"
@@ -1824,9 +1831,9 @@
     "BookShortName": "Trolls Of The Misty Mountains",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8103",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-915795-49-3",
+    "BookAuthor": "John Cresswell, Mike Cresswell",
+    "BookPublished": "1986",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1834,9 +1841,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8103 - Trolls Of The Misty Mountains.pdf"
@@ -1857,9 +1864,9 @@
     "BookShortName": "Pirates of Pelargir",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8104",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-915795-44-2",
+    "BookAuthor": "Ruth Sochard",
+    "BookPublished": "1987",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1867,9 +1874,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8104 - Pirates of Pelargir.pdf"
@@ -1890,9 +1897,9 @@
     "BookShortName": "Gates Of Mordor",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8105",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-915795-81-7",
+    "BookAuthor": "Graham Staplehurst",
+    "BookPublished": "1987",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1900,9 +1907,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8105 - Gates Of Mordor.pdf"
@@ -1923,9 +1930,9 @@
     "BookShortName": "Assassins of Dol Amroth",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8106",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-915795-98-1",
+    "BookAuthor": "Charles Crutchfield",
+    "BookPublished": "1987",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1933,9 +1940,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8106 - Assassins of Dol Amroth.pdf"
@@ -1956,9 +1963,9 @@
     "BookShortName": "Raiders of Cardolan",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8108",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-005-7",
+    "BookAuthor": "Jeffery McKeage",
+    "BookPublished": "1988",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1966,9 +1973,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8108 - Raiders of Cardolan.pdf"
@@ -1989,9 +1996,9 @@
     "BookShortName": "Perils on the Sea of Rhun",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8110",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-032-4",
+    "BookAuthor": "William B. Field, Peter G. Strassun",
+    "BookPublished": "1989",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -1999,9 +2006,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8110 - Perils on the Sea of Rhun.pdf"
@@ -2022,9 +2029,9 @@
     "BookShortName": "Denizens of the Dark Wood",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8111",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-081-2",
+    "BookAuthor": "Matthias Birkner, Karen Birkner",
+    "BookPublished": "1989",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -2032,9 +2039,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8111 - Denizens of the Dark Wood.pdf"
@@ -2055,9 +2062,9 @@
     "BookShortName": "Hazard of the Harad Wood",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8112",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-096-0",
+    "BookAuthor": "John Crowdis",
+    "BookPublished": "1990",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -2065,9 +2072,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8112 - Hazard of the Harad Wood.pdf"
@@ -2088,9 +2095,9 @@
     "BookShortName": "The Necromancer's Lieutenant",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8113",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-113-4",
+    "BookAuthor": "Dan Henley, Margaret Henley",
+    "BookPublished": "1990",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -2098,9 +2105,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8113 - The Necromancer's Lieutenant.pdf"
@@ -2121,9 +2128,9 @@
     "BookShortName": "Campaign Atlas - Northwestern Middle Eart Map Set",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE4001",
-    "BookISBN": "",
+    "BookISBN": "1-55806-170-3",
     "BookAuthor": "",
-    "BookPublished": "",
+    "BookPublished": "1994",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -2131,9 +2138,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE4001 - Campaign Atlas - Northwestern Middle Eart Map Set.pdf"
@@ -2154,9 +2161,9 @@
     "BookShortName": "Northwestern Middle-earth Gazeteer",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE4002",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-171-1",
+    "BookAuthor": "Mark Rabuck",
+    "BookPublished": "1992",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -2164,9 +2171,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE4002 - Northwestern Middle-earth Gazeteer.pdf"
@@ -2187,9 +2194,9 @@
     "BookShortName": "Combat Screen",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8001",
-    "BookISBN": "",
+    "BookISBN": "0-915795-34-5",
     "BookAuthor": "",
-    "BookPublished": "",
+    "BookPublished": "1984",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -2197,9 +2204,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Combat Screen",
+    "BookFormat": "Softcover",
+    "BookSeries": "Combat Screen",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8001 - Combat Screen.pdf"
@@ -2220,9 +2227,9 @@
     "BookShortName": "River Running",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8114",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-159-2",
+    "BookAuthor": "Joe Martin",
+    "BookPublished": "1992",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -2230,9 +2237,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8114 - River Running.pdf"
@@ -2253,9 +2260,9 @@
     "BookShortName": "Weathertop Tower of Wind",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8201",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-915795-89-2",
+    "BookAuthor": "Peter C. Fenlon Jr.",
+    "BookPublished": "1987",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -2263,9 +2270,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Fortress Module",
+    "BookFormat": "Softcover",
+    "BookSeries": "Fortress Modules",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8201 - Weathertop Tower of Wind.pdf"
@@ -2352,9 +2359,9 @@
     "BookShortName": "Halls of the Elven King",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8204",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-015-4",
+    "BookAuthor": "Tom Loback",
+    "BookPublished": "1988",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -2362,9 +2369,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Fortress Module",
+    "BookFormat": "Softcover",
+    "BookSeries": "Fortress Modules",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8204 - Halls of the Elven King.pdf"
@@ -2385,9 +2392,9 @@
     "BookShortName": "Nazguls Citadel",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8205",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-121-5",
+    "BookAuthor": "William E. Wilson, Gary D. McClellan, Robert J. McCarter",
+    "BookPublished": "1991",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -2395,9 +2402,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Fortress Module",
+    "BookFormat": "Softcover",
+    "BookSeries": "Fortress Modules",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8205 - Nazguls Citadel.pdf"
@@ -2418,9 +2425,9 @@
     "BookShortName": "Minas Ithil",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8302",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-143-6",
+    "BookAuthor": "Mark Rabuck",
+    "BookPublished": "1991",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
@@ -2428,12 +2435,804 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "City",
+    "BookFormat": "Softcover",
+    "BookSeries": "Cities",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\MERP\\1E\\ICE8302 - Minas Ithil.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2002 - Accessory Pack",
+    "BookShortName": "Accessory Pack",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2002",
+    "BookISBN": "1-55806-193-2",
+    "BookAuthor": "Jessica M. Ney-Grimm, Peter C. Fenlon Jr., Jessica M. Ney",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Play Aid",
+    "BookFormat": "Softcover",
+    "BookSeries": "Play Aids",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2002 - Accessory Pack.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2004 - Combat Screen & Reference Sheets",
+    "BookShortName": "Combat Screen & Reference Sheets",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2004",
+    "BookISBN": "1-55806-195-9",
+    "BookAuthor": "",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Combat Screen",
+    "BookFormat": "Softcover",
+    "BookSeries": "Combat Screen",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2004 - Combat Screen & Reference Sheets.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2005 - Arnor",
+    "BookShortName": "Arnor",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2005",
+    "BookISBN": "1-55806-176-2",
+    "BookAuthor": "Heike Kubasch, John David Ruemmler, Jeffery McKeage, Wesley Frank, Lisa J. Evans, Walter H. Hunt, Evan Jamieson, Richard Meyer, Robert G. Traynor",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Realm",
+    "BookFormat": "Softcover",
+    "BookSeries": "Realms",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2005 - Arnor.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2006 - Valar and Maiar - The Immortal Powers",
+    "BookShortName": "Valar and Maiar - The Immortal Powers",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2006",
+    "BookISBN": "1-55806-196-7",
+    "BookAuthor": "Peter C. Fenlon Jr.",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Peoples",
+    "BookFormat": "Softcover",
+    "BookSeries": "Peoples",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2006 - Valar and Maiar - The Immortal Powers.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2007 - Minas Tirith",
+    "BookShortName": "Minas Tirith",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2007",
+    "BookISBN": "1-55806-199-1",
+    "BookAuthor": "Graham Staplehurst",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Citadel",
+    "BookFormat": "Softcover",
+    "BookSeries": "Citadels",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2007 - Minas Tirith.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2008 - Map of Middle-Earth",
+    "BookShortName": "Map of Middle-Earth",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2008",
+    "BookISBN": "1-55806-201-7",
+    "BookAuthor": "",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Map",
+    "BookFormat": "Softcover",
+    "BookSeries": "Maps",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2008 - Map of Middle-Earth.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2009 - Palantir Quest",
+    "BookShortName": "Palantir Quest",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2009",
+    "BookISBN": "1-55806-207-6",
+    "BookAuthor": "Phil Kime, Chris Kennedy",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2009 - Palantir Quest.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2010 - Treasures of Middle-earth",
+    "BookShortName": "Treasures of Middle-earth",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2010",
+    "BookISBN": "1-55806-211-4",
+    "BookAuthor": "Wolfgang Baur",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2010 - Treasures of Middle-earth.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2011 - Moria",
+    "BookShortName": "Moria",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2011",
+    "BookISBN": "1-55806-213-0",
+    "BookAuthor": "Peter C. Fenlon Jr.",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Citadel",
+    "BookFormat": "Softcover",
+    "BookSeries": "Citadels",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2011 - Moria.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2012 - Creatures of Middle-earth",
+    "BookShortName": "Creatures of Middle-earth",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2012",
+    "BookISBN": "1-55806-216-5",
+    "BookAuthor": "Peter C. Fenlon Jr., Ruth Sochard, Jeff O’Hare",
+    "BookPublished": "2012",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2012 - Creatures of Middle-earth.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2013 - Elves",
+    "BookShortName": "Elves",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2013",
+    "BookISBN": "1-55806-218-1",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Peoples",
+    "BookFormat": "Softcover",
+    "BookSeries": "Peoples",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2013 - Elves.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2014 - Dol Guldur",
+    "BookShortName": "Dol Guldur",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2014",
+    "BookISBN": "1-55806-224-6",
+    "BookAuthor": "David Woolpy",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Citadel",
+    "BookFormat": "Softcover",
+    "BookSeries": "Citadels",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2014 - Dol Guldur.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2015 - The Kinstrife",
+    "BookShortName": "The Kinstrife",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2015",
+    "BookISBN": "1-55806-228-9",
+    "BookAuthor": "Anders Blixt, Mats Blomqvist, Gunnar Brolin, Sanna Fogelvik, Mike Rosenius, Chris Seeman",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2015 - The Kinstrife.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2016 - Lake-Town",
+    "BookShortName": "Lake-Town",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2016",
+    "BookISBN": "1-55806-229-7",
+    "BookAuthor": "Zachariah Woolf",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Citadel",
+    "BookFormat": "Softcover",
+    "BookSeries": "Citadels",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2016 - Lake-Town.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2017 - The Shire",
+    "BookShortName": "The Shire",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2017",
+    "BookISBN": "1-55806-234-3",
+    "BookAuthor": "Wesley Frank",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Realm",
+    "BookFormat": "Softcover",
+    "BookSeries": "Realms",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2017 - The Shire.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2018 - Angmar",
+    "BookShortName": "Angmar",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2018",
+    "BookISBN": "1-55806-244-0",
+    "BookAuthor": "Heike Kubasch, Graham Staplehurst",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2018 - Angmar.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2019 - Mirkwood",
+    "BookShortName": "Mirkwood",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2019",
+    "BookISBN": "1-55806-246-7",
+    "BookAuthor": "Peter C. Fenlon Jr., John David Ruemmler, Susan Tyler Hitchcock",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2019 - Mirkwood.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2020 - Southern Gondor - The People",
+    "BookShortName": "Southern Gondor - The People",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2020",
+    "BookISBN": "1-55806-255-6",
+    "BookAuthor": "Anders Blixt, Mats Blomqvist, Gunnar Brolin, Chris Seeman, Jason Beresford, Jeff Hatch, Tim Innes, Martin Rundkvist, Erik Ragvik, Olle Sahlin, Magnus Seter",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Peoples",
+    "BookFormat": "Softcover",
+    "BookSeries": "Peoples",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2020 - Southern Gondor-The People.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2021 - Southern Gondor - The Land",
+    "BookShortName": "Southern Gondor - The Land",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2021",
+    "BookISBN": "1-55806-256-4",
+    "BookAuthor": "Anders Blixt, Mats Blomqvist, Gunnar Brolin, ??ke Rosenius, Chris Seeman, Jason Beresford, Jeff Hatch, Tim Innes, Martin Rundkvist, Erik Ragvik, Magnus Seter",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Lands",
+    "BookFormat": "Softcover",
+    "BookSeries": "Lands",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2021 - Southern Gondor - The Land.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2022 - Arnor - The People",
+    "BookShortName": "Arnor - The People",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2022",
+    "BookISBN": "1-55806-287-4",
+    "BookAuthor": "Heike Kubasch, John David Ruemmler, Jeffery McKeage, Wesley Frank, Lisa J. Evans, Walter H. Hunt, Evan Jamieson, Richard Meyer, Robert G. Traynor",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Peoples",
+    "BookFormat": "Softcover",
+    "BookSeries": "Peoples",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2022 - Arnor - The People.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2023 - Arnor - The Land",
+    "BookShortName": "Arnor - The Land",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2023",
+    "BookISBN": "1-55806-288-2",
+    "BookAuthor": "Heike Kubasch, John David Ruemmler, Jeffery McKeage, Wesley Frank, Lisa J. Evans, Walter H. Hunt, Evan Jamieson, Richard Meyer, Robert G. Traynor",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Lands",
+    "BookFormat": "Softcover",
+    "BookSeries": "Lands",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2023 - Arnor - The Land.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2025 - The Northern Wastes",
+    "BookShortName": "The Northern Wastes",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2025",
+    "BookISBN": "1-55806-226-3",
+    "BookAuthor": "Randy Maxwell",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Realm",
+    "BookFormat": "Softcover",
+    "BookSeries": "Realms",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2025 - The Northern Wastes.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2026 - Hands of the Healer",
+    "BookShortName": "Hands of the Healer",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2026",
+    "BookISBN": "1-55806-316-1",
+    "BookAuthor": "Mark R. Feil",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2026 - Hands of the Healer.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE2024 - Lord of the Rings Poster Map",
+    "BookShortName": "Lord of the Rings Poster Map",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE2024",
+    "BookISBN": "",
+    "BookAuthor": "Jo Hartwig",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "MERP - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Map",
+    "BookFormat": "Softcover",
+    "BookSeries": "Maps",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\2E\\ICE2024 - Lord of the Rings Poster Map.pdf"
     ],
     "BookDescription": [
       "No description available."

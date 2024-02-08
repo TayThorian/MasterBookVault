@@ -1,6 +1,7 @@
 [
     {
     "BookName": "Dolmenwood Campaign Book",
+    "BookShortName": "Dolmenwood Campaign Book",
     "BookPublisher": "Necrotic Gnome",
     "BookCode": "",
     "BookISBN": "",
@@ -42,6 +43,7 @@
   } ,
   {
     "BookName": "Dolmenwood Monster Book",
+    "BookShortName": "Dolmenwood Monster Book",
     "BookPublisher": "Necrotic Gnome",
     "BookCode": "",
     "BookISBN": "",
@@ -74,6 +76,7 @@
   },
   {
     "BookName": "Dolmenwood Player's Book",
+    "BookShortName": "Dolmenwood Player's Book",
     "BookPublisher": "Necrotic Gnome",
     "BookCode": "",
     "BookISBN": "",
@@ -113,7 +116,8 @@
     }
   } ,
   {
-    "BookName": "Classic Game Set",
+    "BookName": "NG-0024 - Classic Game Set",
+    "BookShortName": "Classic Game Set",
     "BookPublisher": "Necrotic Gnome",
     "BookCode": "NG-0024",
     "BookISBN": "978-3-96657-069-5",
@@ -121,7 +125,7 @@
     "BookPublished": "2022",
     "BookCover": "",
     "BookRules": "OSE",
-    "BookEdition": "",
+    "BookEdition": "1st Edition",
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
@@ -156,7 +160,8 @@
     }
   },
   {
-    "BookName": "Advanced Expansion Set",
+    "BookName": "NG-0025 - Advanced Expansion Set",
+    "BookShortName": "Advanced Expansion Set",
     "BookPublisher": "Necrotic Gnome",
     "BookCode": "NG-0025",
     "BookISBN": "",
@@ -164,7 +169,7 @@
     "BookPublished": "2022",
     "BookCover": "",
     "BookRules": "OSE",
-    "BookEdition": "",
+    "BookEdition": "1st Edition",
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
@@ -195,7 +200,8 @@
     }
   },
   {
-    "BookName": "Classic Fantasy - Rules Tome",
+    "BookName": "NG-0014 - Classic Fantasy - Rules Tome",
+    "BookShortName": "Classic Fantasy - Rules Tome",
     "BookPublisher": "Necrotic Gnome",
     "BookCode": "NG-0014",
     "BookISBN": "",
@@ -203,7 +209,7 @@
     "BookPublished": "2019",
     "BookCover": "",
     "BookRules": "OSE",
-    "BookEdition": "",
+    "BookEdition": "1st Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",

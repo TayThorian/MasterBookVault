@@ -134,5 +134,225 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "FLFALE002 - Alien RPG - Core Rulebook",
+    "BookShortName": "Alien RPG - Core Rulebook",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFALE002",
+    "BookISBN": "978-91-88805-55-3",
+    "BookAuthor": "Tomas Härenstam",
+    "BookPublished": "2020",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Alien",
+    "BookType": "Core Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Alien\\FLFALE002 - Alien RPG - Core Rulebook.pdf"
+    ],
+    "BookDescription": [
+      "Space is vast, dark, and not your friend. Gamma rays and neutrino bursts erupt from dying stars to cook you alive, black holes tear you apart, and the void itself boils your blood and seizes your brain. Try to scream and no one can hear you—hold your breath and you rupture your lungs. Space isn’t as empty as you’d think, either—its frontiers are ever expanding. Rival governments wage a cold war of aggression while greedy corporations vie for valuable resources. Colonists reach for the stars and gamble with their lives—each new world tamed is either feast or famine. And there are things lurking in the shadows of every asteroid—things strange and different and deadly.",
+      "<b>Things alien.</b>",
+      "This is the official ALIEN tabletop roleplaying game—a universe of body horror and corporate brinkmanship, where synthetic people play god while space truckers and marines serve host to newborn ghoulish creatures. It’s a harsh and unforgiving universe and you are nothing if not expendable.",
+      "Stay alive if you can.",
+      "The ALIEN tabletop roleplaying game is a beautifully illustrated full-color hardcover book of a massive 392 pages, both presenting the world of ALIEN in the year 2183 and a fast and effective ruleset designed specifically to enhance the ALIEN experience. The game supports two distinct game modes:",
+      "Cinematic play is based on pre-made scenarios that emulate the dramatic arc of an ALIEN film. Designed to be played in a single session, this game mode emphasizes high stakes and fast and brutal play. You are not all expected to survive. The core rulebook contains one complete Cinematic scenario.",
+      "Campaign play is designed for longer continuous play with the same cast of player characters over many game sessions, letting you explore the ALIEN universe freely, sandbox style. The core rulebook contains random tables and other powerful tools to quickly create star systems, colonies, missions, encounters, and NPCs for your campaign.",
+      "The rules of the game are based on the acclaimed Year Zero Engine, used in award-winning games such as Tales from the Loop and Mutant: Year Zero, but adapted and further developed to fully support and enhance the core themes of ALIEN: horror and action in the cold darkness of space."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "FLFALE016 - Heart of Darkness",
+    "BookShortName": "Heart of Darkness",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFALE016",
+    "BookISBN": "978-91-89143-23-4",
+    "BookAuthor": "Andrew E.C. Gaska",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Alien",
+    "BookType": "Cinematic Scenario",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Cinematic Scenario",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Alien\\FLFALE016 - Heart of Darkness.pdf"
+    ],
+    "BookDescription": [
+      "Heart of Darkness is a complete Cinematic Scenario for the ALIEN roleplaying game, written by sci-fi novelist Andrew E.C. Gaska. It is a stand-alone adventure, but also serves as a conclusion to the Draconis Strain Saga begun in the cinematic scenario Chariot of the Gods and continued in _Destroyer of World_s. The scenario is designed for 3–5 players plus the Game Mother, and is a spiraling descent into soul-crushing madness. This boxed set contains:",
+      "The main Heart of Darkness scenario book.",
+      "A huge double-sided map (format 864x558mm) of the Erebos plasma trawling space station.",
+      "Seven pre-generated characters to choose from.",
+      "Custom cards for secret messages and personal agendas.",
+      "Player maps and handouts."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "FLFALE006 - Alien RPG - Game Mother's Screen",
+    "BookShortName": "Alien RPG - Game Mother's Screen",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFALE006",
+    "BookISBN": "978-91-88805-55-3",
+    "BookAuthor": "Tomas Härenstam",
+    "BookPublished": "2020",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Alien",
+    "BookType": "Game Mother's Screen",
+    "BookFormat": "Screen",
+    "BookSeries": "Game Mother's Screen",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Alien\\FLFALE006 - Alien RPG - Game Mother's Screen.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "FLFALE008 - Maps and Markers Pack",
+    "BookShortName": "Maps and Markers Pack",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFALE008",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Alien",
+    "BookType": "Map Pack",
+    "BookFormat": "Map Pack",
+    "BookSeries": "Map Pack",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Alien\\FLFALE008 - Maps and Markers Pack.pdf"
+    ],
+    "BookDescription": [
+      "This Maps & Markers Pack contains useful gaming aids for the official ALIEN Roleplaying Game. Contents:",
+      "A large full-color, double-sided map, with one side depicting chartered space in the year 2183 and the other floor plans for the Hope's Last Day scenario included in the core rulebook.",
+      "Game markers for keeping track of characters, motion tracker pings, spaceships and space combat actions."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "FLFALE013 - Alien RPG - Starter Set",
+    "BookShortName": "Alien RPG - Starter Set",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFALE013",
+    "BookISBN": "978-91-88805-97-3",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Alien",
+    "BookType": "Starter Set",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Starter Set",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Alien\\FLFALE013 - Alien RPG - Starter Set\\FLFALE013 - Alien RPG - Starter Set - Rulebook.pdf",
+      "D:\\Master Vault\\Alien\\FLFALE013 - Alien RPG - Starter Set\\FLFALE013 - Alien RPG - Starter Set - Markers.pdf",
+      "D:\\Master Vault\\Alien\\FLFALE013 - Alien RPG - Starter Set\\FLFALE013 - Alien RPG - Starter Set - Set Card Backs.pdf",
+      "D:\\Master Vault\\Alien\\FLFALE013 - Alien RPG - Starter Set\\FLFALE013 - Alien RPG - Starter Set - Set Card Fronts.pdf",
+      "D:\\Master Vault\\Alien\\FLFALE013 - Alien RPG - Starter Set\\FLFALE013 - Alien RPG - Starter Set - Character Sheets.pdf",
+      "D:\\Master Vault\\Alien\\FLFALE013 - Alien RPG - Starter Set\\FLFALE013 - Alien RPG - Starter Set - Chariot of the Gods.pdf",
+      "D:\\Master Vault\\Alien\\FLFALE013 - Alien RPG - Starter Set\\FLFALE013 - Alien RPG - Starter Set - Map.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "FLFALE009 - Alien RPG - Chariot of the Gods",
+    "BookShortName": "Alien RPG - Chariot of the Gods",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFALE009",
+    "BookISBN": "978-91-88805-97-3",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Alien",
+    "BookType": "Scenario",
+    "BookFormat": "Softcover",
+    "BookSeries": "Scenarios",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Alien\\FLFALE013 - Alien RPG - Starter Set\\FLFALE009 - Alien RPG - Chariot of the Gods.pdf"
+    ],
+    "BookDescription": [
+      "The job was routine, the money fair. Then the damn company diverted you to answer a distress call from a ship that disappeared almost 80 years ago—a derelict carrying something bizarre, twisted, and alien. What the ship’s frozen crew brought back with them was bad enough—what they themselves were turning into was a bloody nightmare. Add to that an annoying sensor ghost shadowing you in the void, and your stress level is shot.",
+      "It’s all a bit much.",
+      "You don’t get paid enough to deal with monsters. But hold your breath, count to three, and play your cards right with this one, and you just might walk away very rich. Oh, who am I kidding?"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]
