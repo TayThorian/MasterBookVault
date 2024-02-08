@@ -7,7 +7,8 @@
 - MCG311 - Path of the Planebreaker
 ## Iron Crown Enterprises
 - GCP-RMU-001 - Rolemaster Unified - Core Law
-- GCP-RMU-002 - Rolemaster Unified - Spell Law
+- GCP-RMU-002 - Spell Law
+- GCP-RMU-003 - Treasure Law
 ## Free League Publishing
 - FLFTOR012 - Tales from the Lone Lands
 - FLFALE017 - Building Better Worlds
@@ -65,7 +66,7 @@
 - PZO12002 - Pathfinder - GM Core
 ## Iron Crown Enterprises
 - GCP-RMU-001 - Rolemaster Unified - Core Law
-- GCP-RMU-002 - Rolemaster Unified - Spell Law
+- GCP-RMU-002 - Spell Law
 - GCP-SMP-4500 - Space Master Privateers
 - GCP-SMP-4511 - Robotics Manual
 - GCP-SMP-4512 - Equipment Manual
@@ -137,10 +138,10 @@
 - TSR9506 - Chronomancer
 - TSR9507 - Shaman
 - TSR2123 - DMGR3 - Arms and Equipment Guide
-- TSR2133 -
-- TSR2144 -
-- TSR2110 -
-- TSR2111 -
+- TSR2133 - DMGR5 - Creative Campaigning
+- TSR2144 - DMGR6 - The Complete Book of Villains
+- TSR2110 - PHBR1 - The Complete Fighter's Handbook
+- TSR2111 - PHBR2 - The Complete Thief's Handbook
 - TSR2113 - PHBR3 - The Complete Priest's Handbook
 - TSR2115 - PHBR4 - The Complete Wizard's Handbook
 - TSR2117 - PHBR5 - The Complete Psionics Handbook
@@ -155,13 +156,13 @@
 - TSR2148 - PHBR14 - The Complete Barbarian's Handbook
 - TSR2155 - PHBR15 - The Complete Ninja's Handbook
 - TSR2154 - Player's Option - Skills & Powers
-- TSR2022 -
-- TSR2020 -
-- TSR2017 -
-- TSR2016 -
-- TSR2013 -
-- TSR2012 -
-- TSR2108 -
+- TSR2022 - Manual of the Planes
+- TSR2020 - Wilderness Survival Guide
+- TSR2017 - Unearthed Arcana
+- TSR2016 - Monster Manual II
+- TSR2013 - Deities & Demigods
+- TSR2012 - Fiend Folio
+- TSR2108 - Legends & Lore
 - TSR2138 - Book of Artifacts
 - TSR2121 - Tome of Magic
 - TSR2160 - Dungeon Master Guide
