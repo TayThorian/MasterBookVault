@@ -26,6 +26,7 @@
 - MGP40100 - World Builder’s Handbook
 ## TSR
 - TSR1071 - Rules Cyclopedia
+- TSR2173 - Monstrous Compendium Annual - Volume Four
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
 - TSR9433 - ALQ4 - Secrets of the Lamp
@@ -166,7 +167,7 @@
 - TSR2138 - Book of Artifacts
 - TSR2121 - Tome of Magic
 - TSR2160 - Dungeon Master Guide
-- TSR2159 - Player's Handbook - 2nd Edition
+- TSR2159 - Player's Handbook
 - TSR9322 - HR1 - Vikings Campaign Sourcebook
 - TSR9323 - HR2 - Charlemagne's Paladins Campaign Sourcebook
 - TSR9376 - HR3 - Celts Campaign Sourcebook

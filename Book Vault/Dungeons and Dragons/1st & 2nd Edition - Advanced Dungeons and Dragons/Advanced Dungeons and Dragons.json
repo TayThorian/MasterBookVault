@@ -297,6 +297,42 @@
     }
   },
   {
+    "BookName": "TSR2145 - Monstrous Compendium Annual - Volume One",
+    "BookShortName": "Monstrous Compendium Annual - Volume One",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2145",
+    "BookISBN": "1-56076-838-X",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Monstrous Compendium Annuals",
+    "BookFormat": "Hardback",
+    "BookSeries": "Monstrous Compendium",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2145 - Monstrous Compendium Annual - Volume One.pdf"
+    ],
+    "BookDescription": [
+      "They're BAA-aaack!",
+      "Virtually all of the monsters that appeared in TSR's 1993 AD&D product line, plus many of those that appeared in the 1993 issues of Dragon, Dungeon, and Polyhedron magazines, are brought together in this first release in an annual series of Monstrous Compendium supplements. This book is crawling with more than 100 denizens of the land, sky, sea, and underdark, waiting to creep into the nearest adventure.",
+      "Creatures within these pages have appeared in the Forgotten Realms campaign setting, the Al-Qadim world of adventure, the Ravenloft world of horror, the Dark Sun game world, and even the Outer and Inner Planes, but they've been reorganized, updated, and edited so they can be used in any campaign. An introduction explaining how to breathe life into random encounters is included too. Every illustration is brand new and presented in full colour, so these monsters are more lifelike than ever before!",
+      "This is a must-have item for all serious Dungeon Masters."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
     "BookName": "TSR2173 - Monstrous Compendium Annual - Volume Four",
     "BookShortName": "Monstrous Compendium Annual - Volume Four",
     "BookPublisher": "TSR",
@@ -307,7 +343,7 @@
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "To Source",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Core",
