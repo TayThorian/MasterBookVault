@@ -138,6 +138,7 @@
 - TSR2114 - DMGR2 - Castle Guide
 - TSR9506 - Chronomancer
 - TSR9507 - Shaman
+- TSR2158 - Monstrous Compendium Annual - Volume Two
 - TSR2123 - DMGR3 - Arms and Equipment Guide
 - TSR2133 - DMGR5 - Creative Campaigning
 - TSR2144 - DMGR6 - The Complete Book of Villains

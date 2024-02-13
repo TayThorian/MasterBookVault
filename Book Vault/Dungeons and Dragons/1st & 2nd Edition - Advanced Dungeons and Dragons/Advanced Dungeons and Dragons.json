@@ -333,6 +333,76 @@
     }
   },
   {
+    "BookName": "TSR2158 - Monstrous Compendium Annual - Volume Two",
+    "BookShortName": "Monstrous Compendium Annual - Volume Two",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2158",
+    "BookISBN": "0-7869-0199-3",
+    "BookAuthor": "",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Monstrous Compendium Annuals",
+    "BookFormat": "Hardback",
+    "BookSeries": "Monstrous Compendium",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2158 - Monstrous Compendium Annual - Volume Two.pdf"
+    ],
+    "BookDescription": [
+      "Back again, and better than ever! Virtually all the new AD&D game monsters that were published by TSR in 1994 have growled, burrowed, and slithered their way into this second release in a yearly series of MONSTROUS COMPENDIUM supplements.",
+      "More than 100 denizens of the land, sky, sea, and... other places... are collected inside. Most of these creatures originally appeared in a specific AD&D campaign setting, but they've been updated and edited so they can be used in any campaign. This year's collection also features the return of the long out-of-print dinosaurs and pleistocene creatures, and includes general encounter tables for the MONSTROUS COMPENDIUM books.",
+      "This richly illustrated book is an essential addition to every Dungeon Master's library."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2166 - Monstrous Compendium Annual - Volume Three",
+    "BookShortName": "Monstrous Compendium Annual - Volume Three",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2166",
+    "BookISBN": "0-7869-0449-6",
+    "BookAuthor": "",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Monstrous Compendium Annuals",
+    "BookFormat": "Hardback",
+    "BookSeries": "Monstrous Compendium",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2166 - Monstrous Compendium Annual - Volume Three.pdf"
+    ],
+    "BookDescription": [
+      "Welcome to the third instalment of the Monstrous Compendium annual. Drawn from our best adventures of 1995?not to mention the award-winning Dragon, Dungeon, and Polyhedron magazines? this annual also marks the return of many old classics and introduces some nifty new critters!",
+      "More than 100 denizens of the land, sky, sea, and Outer Planes are ready to sneak, storm, or wheedle their way out of these pages and into the nearest adventure. These creatures, many of them from the Forgotten Realms, Birthright, Ravenloft, Dark Sun, Al-Qadim, and Greyhawk settings, are looking for new worlds to conquer.",
+      "This collection features a full combined index to the Monstrous Manual tome and all three annuals."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
     "BookName": "TSR2173 - Monstrous Compendium Annual - Volume Four",
     "BookShortName": "Monstrous Compendium Annual - Volume Four",
     "BookPublisher": "TSR",
@@ -2594,6 +2664,144 @@
       "That's where the Dungeon Master's Design Kit comes in. Inside its 96 time-saving pages are scores of organizational ideas, refereeing hints, and ready-to-use materials that will make you a better-prepared, better-organized, and just plain better Dungeon Master - without spending a lot of extra time you don't have!",
       "The Dungeon Master's Design Kit includes a 32-page book of forms, designed to keep important information together and at your fingertips. A number of difficult refereeing situations are covered, including the chase scene, one of the toughest AD&D game situations to judge. Another 32-page book contains the \"DM's Cookbook,\" full of ready-to-go ingredients that you can combine in a flash to spice up your campaign. The last book puts the package all together, including loads of practical advice on becoming a better DM.",
       "So pick up the Dungeon Master's Design Kit, harried DM - and watch your AD&D campaign take off!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2102 - MC1 - Monstrous Compendium - Volume One",
+    "BookShortName": "MC1 - Monstrous Compendium - Volume One",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2102",
+    "BookISBN": "0-88038-738-6",
+    "BookAuthor": "",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Cardstock slipcase",
+    "BookSeries": "Monstrous Compendium",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2102 - MC1 - Monstrous Compendium - Volume One.pdf",
+      "D:\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2102 - MC1 - Monstrous Compendium - Volume One - Dividers.pdf"
+    ],
+    "BookDescription": [
+      "What's a fantasy role-playing game without monsters?",
+      "At the heart of any good AD&D adventure, you'll find great monsters -- dragons, giants, trolls, killer oozes, shadows, and who knows what else!",
+      "This first Monstrous Compendium gives DMs and players 144 pages of new and improved monsters, with all-new illustrations, expanded descriptions, and complete statistical data, all in an easy-to-read, easy to reference format. Players can organize the monsters in this pack, alphabetically, according to when they show up in an adventure, according to monster type, or any other way they see fit."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2103 - MC2 - Monstrous Compendium - Volume Two",
+    "BookShortName": "MC2 - Monstrous Compendium - Volume Two",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2103",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Cardstock slipcase",
+    "BookSeries": "Monstrous Compendium",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2103 - MC2 - Monstrous Compendium - Volume Two.pdf",
+      "D:\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2103 - MC2 - Monstrous Compendium - Volume Two - Dividers.pdf"
+    ],
+    "BookDescription": [
+      "Monstrous Compendium - Volume Two"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2118 - MC8 - Monstrous Compendium - Outer Planes Appendix",
+    "BookShortName": "MC8 - Monstrous Compendium - Outer Planes Appendix",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2118",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Loose leaf",
+    "BookSeries": "Monstrous Compendium",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2118 - MC8 - Monstrous Compendium - Outer Planes Appendix.pdf"
+    ],
+    "BookDescription": [
+      "Welcome to the Monstrous Compendium volume that finally details the powerful creatures unique to the outer planes.",
+      "These denizens of the planes can be powerful allies or terrible enemies.",
+      "From aasimon to zoveri, and everything between, this supplement is a must have for any DM planning to run an adventure in the outer planes.a"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2132 - MC14 - Monstrous Compendium - Fiend Folio Appendix",
+    "BookShortName": "MC14 - Monstrous Compendium - Fiend Folio Appendix",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2132",
+    "BookISBN": "1-56076-428-7",
+    "BookAuthor": "1992",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Loose leaf",
+    "BookSeries": "Monstrous Compendium",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2132 - MC14 - Fiend Folio Appendix.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
     ],
     "TableOfContents": {
       "title": "Book",
