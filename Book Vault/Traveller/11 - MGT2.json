@@ -35,8 +35,8 @@
     }
   },
   {
-    "BookName": "Bu and Embla Visit Vrirhlanz",
-    "BookShortName": "",
+    "BookName": "MGP401 - Bu and Embla Visit Vrirhlanz",
+    "BookShortName": "Bu and Embla Visit Vrirhlanz",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40113",
     "BookISBN": "",
@@ -68,8 +68,8 @@
     }
   },
   {
-    "BookName": "Core Adventure 1 - Invasive Species",
-    "BookShortName": "",
+    "BookName": "MGP40061 - Core Adventure 1 - Invasive Species",
+    "BookShortName": "Core Adventure 1 - Invasive Species",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40061",
     "BookISBN": "",
@@ -107,8 +107,8 @@
     }
   },
   {
-    "BookName": "Core Adventure 2 - Last Call at Eneri's Cantina",
-    "BookShortName": "",
+    "BookName": "MGP40062 - Core Adventure 2 - Last Call at Eneri's Cantina",
+    "BookShortName": "Core Adventure 2 - Last Call at Eneri's Cantina",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40062",
     "BookISBN": "",
@@ -146,8 +146,8 @@
     }
   },
   {
-    "BookName": "Core Adventure 3 - Errant Lightning",
-    "BookShortName": "",
+    "BookName": "MGP40063 - Core Adventure 3 - Errant Lightning",
+    "BookShortName": "Core Adventure 3 - Errant Lightning",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40063",
     "BookISBN": "",
@@ -185,8 +185,8 @@
     }
   },
   {
-    "BookName": "Deneb Adventure 1 - The Lost Duke",
-    "BookShortName": "",
+    "BookName": "MGP40057 - Deneb Adventure 1 - The Lost Duke",
+    "BookShortName": "Deneb Adventure 1 - The Lost Duke",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40057",
     "BookISBN": "",
@@ -219,8 +219,8 @@
     }
   } ,
   {
-    "BookName": "The Third Imperium",
-    "BookShortName": "",
+    "BookName": "MGP40073 - The Third Imperium",
+    "BookShortName": "The Third Imperium",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40073",
     "BookISBN": "",
@@ -1209,7 +1209,7 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Traveller",
     "BookType": "Rulebook",
     "BookFormat": "Hardback",
     "BookSeries": "Core Books - Updated",
@@ -1222,6 +1222,41 @@
       "Spaceports, ancient civilisations, air/rafts, cold steel blades, laser carbines, far distant worlds, and exotic alien beasts – this is the futuristic universe of Traveller, the original and classic science fiction roleplaying game.",
       "Come visit the far future.",
       "The Traveller Core Rulebook Update 2022 has been fully revised for this edition and contains many tweaks and rules updates, as well as a brand new, highest quality interior format with lashings of top tier art to immerse you in the far future."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "MGP40101 - Traveller Companion Update 2024",
+    "BookShortName": "Traveller Companion Update 2024",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40101",
+    "BookISBN": "978-1-913076-99-3",
+    "BookAuthor": "Martin J. Dougherty",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Sourcebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books - Updated",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40101 - Traveller Companion Update 2024.pdf"
+    ],
+    "BookDescription": [
+      "The Traveller Companion is a compilation of variant and alternate rules. Variant Traveller creation systems allow specific tailoring, whilst alternate combat rules introduce hit locations and wound severity. Rules for hunger, thirst, temperature, atmospheric and water pressure effects make the universe more realistic, not to mention more hazardous. Encounters with animals and vehicles are also covered, along with the consequences of lawbreaking on personal and starship-operations scales.",
+      "The game universe is expanded with advice on using tools such as Travellermap and the Traveller Wiki, interpreting UWP data to flesh out a world, and additional spaceport types. The Companion also contains rules for starship operations in gas giant atmospheres, travelling slower than light and in jump space, and making space travel more hazardous with minefields, missile salvoes, and new starship weapons. Also included are rules for entirely different styles of play such as narrative task resolution and the mundane events resolution system.",
+      "The Traveller Companion is a complete toolkit allowing referees to pick and choose enhancements to their own campaigns, giving greater depth and weight to their adventures."
     ],
     "TableOfContents": {
       "title": "Book",

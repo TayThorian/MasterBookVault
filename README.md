@@ -24,6 +24,7 @@
 - MGP40085 - Robot Handbook
 - MGP40087 - High Guard Update 2022
 - MGP40100 - World Builder’s Handbook
+- MGP40101 - Traveller Companion Update 2024
 ## TSR
 - TSR1071 - Rules Cyclopedia
 - TSR2173 - Monstrous Compendium Annual - Volume Four
@@ -94,15 +95,15 @@
 - -
 - -
 ## Dreamscape Design
-- DD0003 -
+- DD0003 - Blueholme - Journeymanne Rules
 ## Digest Group Publications
 - - Manhunt
 ## Mongoose Publishing
 - MGP40111 - Reach Adventure 8 - Makergod
-- MGP40061 -
-- MGP40062 -
-- MGP40063 -
-- MGP40073 -
+- MGP40061 - Core Adventure 1 - Invasive Species
+- MGP40062 - Core Adventure 2 - Last Call at Eneri's Cantina
+- MGP40063 - Core Adventure 3 - Errant Lightning
+- MGP40073 - The Third Imperium
 - MGP40114 -
 - MGP40112 -
 - MGP40094 -
@@ -122,6 +123,7 @@
 - MGP40097 -
 - MGP40106 -
 - MGP40102 -
+- MGP40101 - Traveller Companion Update 2024
 ## TSR
 - TSR9044 -
 - TSR9049 -
