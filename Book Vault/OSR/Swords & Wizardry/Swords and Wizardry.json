@@ -1,0 +1,80 @@
+[
+  {
+    "BookName": "Swords and Wizardry - Complete Revised",
+    "BookShortName": "Swords and Wizardry - Complete Revised",
+    "BookPublisher": "Mythmere Games",
+    "BookCode": "",
+    "BookISBN": "979-8-88584-002-6",
+    "BookAuthor": "Matt Finch",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Swords and Wizardry",
+    "BookEdition": "Complete Revised",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Swords and Wizardry",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised.pdf",
+      "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Cleric Digital Spellbook.pdf",
+      "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Druid Digital Spellbook.pdf",
+      "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Magic User Digital Spellbook.pdf",
+      "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Referee Screen Inserts - Landscape.pdf",
+      "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Referee Screen Inserts - Portrait.pdf",
+      "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\SW_Character_Reference_Sheets.pdf",
+      "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\SW_Character_Sheet_2023.pdf",
+      "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\SW_Referee_Log_2023.pdf"
+    ],
+    "BookDescription": [
+      "Swords & Wizardry is the ENNIE award-winning retro-clone of the original 1974-1978 rules for Dungeons & Dragons*, an edition usually called Original D&D or \"OD&D.\"",
+      "This is a complete game, with rules for character generation, monsters, magic items, encounter tables -- the whole works. It is non-OGL: the original game is re-created using the creative commons grant from Wizards of the Coast, and will have a third-party publisher license once we decide whether to use the ORC license or a different third-party license.",
+      "This version includes several additions and revisions to earlier versions. The \"random castles\" material is added, morale rules are added, and spell research rules are added. The treasure tables are revamped, and errata from earlier versions is now incorporated into the book."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "City Encounters",
+  "BookShortName": "City Encounters",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "979-8-88584-011-8",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Swords and Wizardry",
+  "BookEdition": "Complete Revised",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "Softcover",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\City Encounters.pdf"
+  ],
+  "BookDescription": [
+    "Running a freewheeling city adventure can be hard work, but this book gives you a powerful resource for handling interactions with non-player characters — their names, objectives, abilities, and quirky activities! City Encounters provides 200 daytime encounters and 200 night-time encounters for your characters to run into while exploring the city. Plus, each of the encounters has several alternative possibilities involved, so you can adapt the encounter to your players or use the same encounter more than once with a different alternative. Encounters that can lead to adventures are cross-referenced to let you find the other NPCs who might be involved in an ongoing situation, and there are several possible “recurring” villains, heroes, and weirdos to battle, assist, and befriend.",
+    "Enter a city filled with anarchists, arsonists, sorcery, skullduggery, factional conflict, and necromancy!",
+    "This is the OSR version of City Encounters, written for Swords & Wizardry but easily usable with systems including OD&D, AD&D (1E), B/X, OSE and others!"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]

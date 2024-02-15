@@ -1691,6 +1691,128 @@
     }
   },
   {
+    "BookName": "TSR2156 - Dungeon Master Option - High-Level Campaigns",
+    "BookShortName": "Dungeon Master Option - High-Level Campaigns",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2156",
+    "BookISBN": "0-7869-0168-3",
+    "BookAuthor": "Skip Williams",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Hardback",
+    "BookSeries": "Option Series Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Option Series Hardbacks\\TSR2156 - Dungeon Master Option - High-Level Campaigns.pdf"
+    ],
+    "BookDescription": [
+      "What's a DM to do when the player characters in his campaign become so powerful that nothing in the 'world is a challenge for them anymore? Just what are the essential ingredients in an adventure geared toward high-level play? Here is a trove of advice and new rules for every AD&D game Dungeon Master who wishes to create adventures for truly legendary heroes. Find everything you need to create encounters that confound the craftiest wizard and chill the most valiant warrior's heart. Discover the power of True Dweomers, the mightiest spells ever. Build new realities for your heroes to explore. Learn how to conduct magical duels and oversee the creation of magical items. Expand the horizons of your Wing experience with High-Level Campaigns!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 6, "title": "Chapter 1 - The Seven Maxims"},
+        {"page": 30, "title": "Chapter 2 - Adventures"},
+        {"page": 68, "title": "Chapter 3 - Spells and Magical Items"},
+        {"page": 86, "title": "Chapter 4 - Creating Magical Items"},
+        {"page": 96, "title": "Chapter 5 - Magical Duels"},
+        {"page": 118, "title": "Chapter 6 - True Dweomers"},
+        {"page": 142, "title": "Chapter 7 - High-Level Characters"},
+        {"page": 180, "title": "Appendix - Spell Duelling Characteristics"},
+        {"page": 189, "title": "Index"}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2163 - Player's Option - Spells & Magic",
+    "BookShortName": "Player's Option - Spells & Magic",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2163",
+    "BookISBN": "0-7869-0394-5",
+    "BookAuthor": "Richard Baker",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Hardback",
+    "BookSeries": "Option Series Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Option Series Hardbacks\\TSR2163 - Player's Option - Spells & Magic.pdf"
+    ],
+    "BookDescription": [
+      "Does your wizard wish to create a powerful magical item or a potent new spell? What other effects does your priest's favourite offensive spell accomplish? Spells & Magic provides players and Dungeon Masters with expanded rules that are compatible with the Player's Handbook, the Dungeon Master's Guide, and the rest of the Player's Option line of rulebooks.",
+      "Within these pages you will find new spells and proficiencies for wizards and priests, plus further rules on spell research and magical item creation, new options for designing spellcasters, an alternate system of gaining and using spells, and much more.",
+      "Use this book to bring out the full power and potential of any spellcasting character."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 6, "title": "Introduction"},
+        {"page": 12, "title": "Chapter 1 - Wizards"},
+        {"page": 28, "title": "Chapter 2 - Priests"},
+        {"page": 42, "title": "Chapter 3 - Other Spellcasters"},
+        {"page": 50, "title": "Chapter 4 - Proficiencies"},
+        {"page": 62, "title": "Chapter 5 - Equipment"},
+        {"page": 76, "title": "Chapter 6 - Magic"},
+        {"page": 100, "title": "Chapter 7 - Spell Research and Magical Item Creation"},
+        {"page": 116, "title": "Chapter 8 - Spells in Combat"},
+        {"page": 129, "title": "Appendix 1 - New Wizard Spells"},
+        {"page": 160, "title": "Appendix 2 - New Priest Spells"},
+        {"page": 180, "title": "Appendix 3 - Wizard Spells by School"},
+        {"page": 186, "title": "Appendix 4 - Priest Spells by Sphere"},
+        {"page": 189, "title": "Index"}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR11383 - Campaign Option - Council of Wyrms",
+    "BookShortName": "Campaign Option - Council of Wyrms",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11383",
+    "BookISBN": "0-7869-1383-5",
+    "BookAuthor": "Bill Slavicsek",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core Books",
+    "BookType": "Rule Supplements",
+    "BookFormat": "Hardback",
+    "BookSeries": "Option Series Hardbacks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Option Series Hardbacks\\TSR11383 - Campaign Option - Council of Wyrms.pdf"
+    ],
+    "BookDescription": [
+      "This revised and expanded edition of one of the AD&D game's hottest selling products, Campaign Option: Council of Wyrms takes the Advanced Dungeons & Dragons game in an entirely new direction.",
+      "For the first time, everything a player needs to create dragon player characters for the AD&D game, and everything a Dungeon Master needs to set up a dragon-based campaign.",
+      "Includes rules for creating and playing dragons, new character types like kindred, half-dragons, and dragon slayers, campaign background material, and a series of adventures designed to challenge even the greatest of dragons!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
     "BookName": "TSR2022 - Manual of the Planes",
     "BookShortName": "Manual of the Planes",
     "BookPublisher": "TSR",

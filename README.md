@@ -160,6 +160,9 @@
 - TSR2148 - PHBR14 - The Complete Barbarian's Handbook
 - TSR2155 - PHBR15 - The Complete Ninja's Handbook
 - TSR2154 - Player's Option - Skills & Powers
+- TSR2156 - Dungeon Master Option - High-Level Campaigns
+- TSR2163 - Player's Option - Spells & Magic
+- TSR11383 - Campaign Option - Council of Wyrms
 - TSR2022 - Manual of the Planes
 - TSR2020 - Wilderness Survival Guide
 - TSR2017 - Unearthed Arcana
