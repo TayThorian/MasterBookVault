@@ -256,6 +256,13 @@
 - TSR9563 - Powers & Pantheons
 - TSR9585 - Demihuman Deities
 - TSR9552 - Villains' Lorebook
+- TSR9267 - FR9 - The Bloodstone Lands
+- TSR9274 - FR10 - Old Empires
+- TSR9300 - FR11 - Dwarves Deep
+- TSR9324 - FR12 - Horde Campaign
+- TSR9320 - FR13 - Anauroch
+- TSR9351 - FR14 - The Great Glacier
+- TSR9388 - FR16 - The Shining South
 - TSR2023 - Greyhawk Adventures
 - TSR9065 - WG4 - Forgotten Temple of Tharizdun
 - TSR9222 - WG7 - Castle Greyhawk

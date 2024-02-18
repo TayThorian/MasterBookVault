@@ -2496,5 +2496,292 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "TSR9267 - FR9 - The Bloodstone Lands",
+    "BookShortName": "FR9 - The Bloodstone Lands",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9267",
+    "BookISBN": "0-88038-771-8",
+    "BookAuthor": "R.A. Salvatore",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9267 - FR9 - The Bloodstone Lands.pdf"
+    ],
+    "BookDescription": [
+      "The Bloodstone Lands are one of the wildest areas in the Forgotten Realms.",
+      "In this sourcebook, the author of the Icewind Dales trilogy explores this frozen region. Presented for players and DMs alike are people, places, and events that shaped the Bloodstone Lands-the political movers and shakers who carved their own brand of civilization from the rocks and ice. In addition to this insider information, there are 10 new adventure scenario suggestions for all levels of play, from beginner to advanced, allowing campaigning in the Bloodstone Lands to continue long after exploring the mines themselves and conquering Orcus.",
+      "Prepare then to enter the barbaric kingdoms of Vaasa and Damara-the Bloodstone Lands."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9274 - FR10 - Old Empires",
+    "BookShortName": "FR10 - Old Empires",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9274",
+    "BookISBN": "0-8803-8821-8",
+    "BookAuthor": "Scott Bennie",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9274 - FR10 - Old Empires.pdf"
+    ],
+    "BookDescription": [
+      "This booklet presents the Old Empires for DMs and players alike. Descriptions of all the major cities and towns, maps of the most important ones, information of the people, places, economics, geography, and cultures of these countries, are within these pages.",
+      "Prepare, then, to enter the realms of god-kings and pharaohs, of strange magic unknown even to the likes of the Red Wizards of Thay. These are the Old Empires."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9300 - FR11 - Dwarves Deep",
+    "BookShortName": "FR11 - Dwarves Deep",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9300",
+    "BookISBN": "0-88038-880-3",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9300 - FR11 - Dwarves Deep.pdf"
+    ],
+    "BookDescription": [
+      "This sourcebook is one of a series that belongs on the bookshelf of any dungeon master exploring the rich lands (and dark under-realms) of the Forgotten Realms. It presents as introduction to the Deep Folk of Faerun, three unique races of dwarves. Virtually all of the famous \"dungeons\" of the realms, explored by adventurers seeking treasure, magic, and lore, were built - and in most cases, once occupied - by the dwarves. Learn their ways and unlock their secrets.",
+      "In the pages of Dwarves Deep, readers will find:",
+      "Dwarven spells of earth and fire,",
+      "Dwarven magical items of rare quality and power,",
+      "Details of the dwarven clans, priesthood's, and adventuring brotherhoods,",
+      "Details of dwarven lands and settlements, including the fabled riches, ways and armies of the Great Rift, the Deeps and the Lost Kingdoms,",
+      "New monsters and notes on dwarven half-breeds and special powers wielded by dwarven High Old Ones,",
+      "Special metals and alloys used by the dwarves to hone the blades that slay their enemies, Dwarven beards?and much, much more!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9324 - FR12 - Horde Campaign",
+    "BookShortName": "FR12 - Horde Campaign",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9324",
+    "BookISBN": "1-56076-126-1",
+    "BookAuthor": "Curtis M. Scott",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9324 - FR12 - Horde Campaign.pdf"
+    ],
+    "BookDescription": [
+      "This is the first in a series of reference books aimed at the recreationist. In these pages are the battles fought by Yamun Khahan, Batu Min Ho, and all the others caught up in the sweeping Horde campaigns. The strategies and disposition of the forces are set forth in plain terms.",
+      "BattleSystem rules statistics allow for the complete recreation of each battle fought in this massive campaign. Ten interior maps delineate the terrain and forces involved in each major confrontation.",
+      "With this book you, too, can fight from the edges of far eastern Kara-Tur across the steppes into the heartlands of Faerun. Whether you wish to replay the wars in precise detail, or try your own strategies, this is the book that will help you achieve your goal."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9320 - FR13 - Anauroch",
+    "BookShortName": "FR13 - Anauroch",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9320",
+    "BookISBN": "1-56076-130-X",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9320 - FR13 - Anauroch.pdf"
+    ],
+    "BookDescription": [
+      "The Great Desert. Where the Winds Wail. Grave of the Lost Princes. The Great Sand Sea. Not a place many sane folk in the Forgotten Realms want to visit. But there are plenty of the other sort, who come hence to find wonders both beautiful and dangerous.",
+      "The deadly, shifting sands of Anauroch hide-and occasionally, tantalizingly reveal-the riches and strange treasures of The Lost Kingdoms, swallowed long ago. The legendary wealth of The Cities of Gold lies somewhere in its sandy depths.",
+      "So, too, do worse things: fell monsters, famous in adventurers' tales (and listeners' nightmares) across the Realms. Evil crawling magic whose counterspells have been long forgotten, whose death slumbers lightly, ever-ready to awaken and strike down the unwary intruder.",
+      "In the pages of this sourcebook, Anauroch comes to life. Its dark, innermost secrets are revealed, and the colorful cultures of the Bedine-and beings far worse-are explored. This guide to the most important \"forgotten\" land of the Forgotten Realms present new rules galore: new spells, new adventures, new monsters-and much, much more."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9351 - FR14 - The Great Glacier",
+    "BookShortName": "FR14 - The Great Glacier",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9351",
+    "BookISBN": "1-56076-324-8",
+    "BookAuthor": "Rick Swan",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9351 - FR14 - The Great Glacier.pdf"
+    ],
+    "BookDescription": [
+      "Strange sentiments, perhaps, from one who lives in what many perceive as a frozen wasteland, but the philosopher Inum speaks for the Ulutiun people of the Great Glacier. Their tribes share that icy landscape with arctic dwarves who enjoy sunbathing, sled-animals that are hardier than dogs, and fierce monsters that live nowhere else-and thrive in the freezing air.",
+      "The Great Glacier is the first supplement for the Forgotten Realms campaign setting to detail an Inuit-based culture. In this booklet is fact-based information on building a snow-house, surviving in sub-zero temperatures for extended periods of time, and more ideas for fantasy campaigning in an arctic setting. For those who are tired of the normal, temperate, \"you-meet-in-the-tavern-and-proceed-to-go-adventuring\" games, here's something completely different.",
+      "Make sure your characters dress warmly-it gets nippy at night on the Great Glacier.",
+      "This accessory is suitable for use by all levels of play."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9373 - FR15 - Gold & Glory",
+    "BookShortName": "FR15 - Gold & Glory",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9373",
+    "BookISBN": "1-56076-334-5",
+    "BookAuthor": "Tim Beach",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9373 - FR15 - Gold & Glory.pdf"
+    ],
+    "BookDescription": [
+      "The jingle of gold and the chance to earn glory in the battlefield motivate many people to answer a call to arms. These men and women are mercenaries, willing to fight someone else's battle for the chance to earn a few coins or lasting fame.",
+      "Gold & Glory describes the mercenary companies of the Forgotten Realms Campaign Setting. The famous and the infamous are detailed within: the Flaming Fist, possibly the most powerful private army on Toril; The Mindulgulph Mercenary Company, certainly the most bizarre; the honourable Bushido, the sly Masquerade, the snobbish Order of the Blue Boar, the hard-fighting She-Wolves, and many more. Many of the companies are brought to life in the full-page full colour portraits in this sourcebook.",
+      "Gaming information, including statistics for BATTLESYSTEM(tm) Game scenarios, is offered as well. Player characters can adventure with these mercenary corps, earning gold and glory for themselves!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9388 - FR16 - The Shining South",
+    "BookShortName": "FR16 - The Shining South",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9388",
+    "BookISBN": "1-56076-595-X",
+    "BookAuthor": "Tom Prusa",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9388 - FR16 - The Shining South.pdf"
+    ],
+    "BookDescription": [
+      "Far off in the south exist countries of legend. Here live the powerful, reclusive mages of Halruaa, the cheerful halflings of Luiren, and the traders of Durpar and Var the Golden. Come along on a risky visit to Dambrath, a country ruled by an alliance of drow and the priestesses of Loviatar, or to Ulgarth, where the only true coffee in the Realms is grown.",
+      "Prepare to shop the fabulous markets fo Durpar, break bread at the bakeries of Luiren, or see the horse fairs of Dambrath. The lucky among you might even catch a glimpse of a Halruan skyship, floating through the skies above the Great Sea, or witness the breathtaking, seemingly choreographed Dance of the Dolphins.",
+      "This sourcebook contains the necessary gaming information for a Forgotten Realms campaign to expand into the countries collectively know as the Shining South.",
+      "This accessory is suitable for use by all levels of play."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

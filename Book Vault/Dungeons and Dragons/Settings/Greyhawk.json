@@ -346,5 +346,84 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "TSR9577 - The Adventure Begins",
+    "BookShortName": "The Adventure Begins",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9577",
+    "BookISBN": "0-7869-1249-9",
+    "BookAuthor": "Roger E. Moore",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Other 2nd Edition Accessories",
+    "BookCharacterLevel": "All Levels",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR9577 - The Adventure Begins.pdf"
+    ],
+    "BookDescription": [
+      "The year is 591 CY. The World of GREYHAWK has changed a lot, as nations topple and leaders plot. Whole realms are \"lost\"; others have crumbled; still others have advanced, becoming new powers in the Flanaess. So where are you going to find all the news? And more to the point, where in the City of Greyhawk can you find some interesting gossip, cheap-but-good ale, and fellow adventurers to share it with?",
+      "A Dungeon Master's dream, this 128-page guide gives you what you need to start a Greyhawk campaign - or to update an existing one:",
+      "Extensive histories of the Flanaess and the Domain of Greyhawk",
+      "A place-by-place description of the City of Greyhawk",
+      "A 16-page map booklet with new and updated maps of towns and adventuring sites in the central Flanaess",
+      "Updates on famous people - good and bad",
+      "The seeds for thousands of new adventures",
+      "This book will give your adventuring parties experiences they'll never forget. The World of Greyhawk is back - and it's better than ever!",
+      "For players of all levels."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 2, "title": "The Greyhawk Campaign"},
+        {"page": 5, "title": "The Gem of the Flanaess"},
+        {"page": 9, "title": "The World of Oerth"},
+        {"page": 14, "title": "The Flanaess"},
+        {"page": 39, "title": "The Calendar"},
+        {"page": 48, "title": "The Climate of Greyhawk"},
+        {"page": 54, "title": "The Domain and City of Greyhawk"}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR11374 - The Scarlet Brotherhood",
+    "BookShortName": "The Scarlet Brotherhood",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11374+",
+    "BookISBN": "0-7869-1374-6",
+    "BookAuthor": "Sean Reynolds",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Other 2nd Edition Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR11374 - The Scarlet Brotherhood.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]
