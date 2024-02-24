@@ -88,7 +88,7 @@
     "BookRules": "Rolemaster Unified",
     "BookEdition": "RMU",
     "BookPhysical": "To Source",
-    "BookOwnedPDF": "Missing",
+    "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Rolemaster",
     "BookType": "Rulebook",
@@ -96,7 +96,7 @@
     "BookSeries": "Core Books",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\Master Vault\\"
+      "D:\\Master Vault\\Rolemaster\\Rolemaster Unified\\GCP-RMU-003 - Rolemaster Unified - Treasure Law.pdf"
     ],
     "BookDescription": [
       "Rolemaster Treasure Law",

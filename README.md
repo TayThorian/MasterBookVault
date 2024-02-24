@@ -69,6 +69,7 @@
 ## Iron Crown Enterprises
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Spell Law
+- GCP-RMU-003 - Treasure Law
 - GCP-SMP-4500 - Space Master Privateers
 - GCP-SMP-4511 - Robotics Manual
 - GCP-SMP-4512 - Equipment Manual
@@ -138,12 +139,9 @@
 - TSR9190 -
 - TSR2112 - DMGR1 - Campaign Sourcebook and Catacomb Guide
 - TSR2114 - DMGR2 - Castle Guide
-- TSR9506 - Chronomancer
-- TSR9507 - Shaman
 - TSR2158 - Monstrous Compendium Annual - Volume Two
 - TSR2123 - DMGR3 - Arms and Equipment Guide
 - TSR2133 - DMGR5 - Creative Campaigning
-- TSR2144 - DMGR6 - The Complete Book of Villains
 - TSR2110 - PHBR1 - The Complete Fighter's Handbook
 - TSR2111 - PHBR2 - The Complete Thief's Handbook
 - TSR2113 - PHBR3 - The Complete Priest's Handbook
@@ -169,7 +167,6 @@
 - TSR2016 - Monster Manual II
 - TSR2013 - Deities & Demigods
 - TSR2012 - Fiend Folio
-- TSR2108 - Legends & Lore
 - TSR2138 - Book of Artifacts
 - TSR2121 - Tome of Magic
 - TSR2160 - Dungeon Master Guide
