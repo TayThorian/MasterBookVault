@@ -1,6 +1,7 @@
 [
   {
-  "BookName": "Blades in the Dark",
+  "BookName": "EHP0030 - Blades in the Dark",
+  "BookShortName": "Blades in the Dark",
   "BookPublisher": "Evil Hat Productions",
   "BookCode": "EHP0030",
   "BookISBN": "",
@@ -40,7 +41,8 @@
   }
 },
 {
-  "BookName": "Scum and Villainy",
+  "BookName": "EHP0040 - Scum and Villainy",
+  "BookShortName": "Scum and Villainy",
   "BookPublisher": "Evil Hat Productions",
   "BookCode": "EHP0040",
   "BookISBN": "978-1-61317-153-0",
@@ -80,7 +82,8 @@
   }
 },
 {
-  "BookName": "Band of Blades",
+  "BookName": "EHP0048 - Band of Blades",
+  "BookShortName": "Band of Blades",
   "BookPublisher": "Evil Hat Productions",
   "BookCode": "EHP0048",
   "BookISBN": "978-1-61317-173-8",
