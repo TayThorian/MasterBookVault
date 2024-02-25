@@ -1,7 +1,7 @@
 [
     {
-    "BookName": "Dungeons & Dragons - Basic Set",
-    "BookShortName": "",
+    "BookName": "TSR1001 - Dungeons & Dragons - Basic Set",
+    "BookShortName": "Dungeons & Dragons - Basic Set",
     "BookPublisher": "TSR",
     "BookCode": "TSR1001",
     "BookISBN": "",
@@ -33,8 +33,8 @@
     }
   } ,
   {
-    "BookName": "Basic Set",
-    "BookShortName": "",
+    "BookName": "TSR1011 - Basic Set",
+    "BookShortName": "Basic Set",
     "BookPublisher": "TSR",
     "BookCode": "TSR1011",
     "BookISBN": "0-935696-48-2",
@@ -73,8 +73,8 @@
     }
   },
   {
-    "BookName": "Expert Set",
-    "BookShortName": "",
+    "BookName": "TSR1012 - Expert Set",
+    "BookShortName": "Expert Set",
     "BookPublisher": "TSR",
     "BookCode": "TSR1012",
     "BookISBN": "0-935696-29-6",
@@ -113,8 +113,8 @@
     }
   } ,
   {
-    "BookName": "Set 1 - Basic Rules",
-    "BookShortName": "",
+    "BookName": "TSR1011 - Set 1 - Basic Rules",
+    "BookShortName": "Set 1 - Basic Rules",
     "BookPublisher": "TSR",
     "BookCode": "TSR1011",
     "BookISBN": "",
@@ -147,8 +147,8 @@
     }
   } ,
   {
-    "BookName": "Set 2 - Expert Rules",
-    "BookShortName": "",
+    "BookName": "TSR1012 - Set 2 - Expert Rules",
+    "BookShortName": "Set 2 - Expert Rules",
     "BookPublisher": "TSR",
     "BookCode": "TSR1012",
     "BookISBN": "",
@@ -180,8 +180,8 @@
     }
   } ,
   {
-    "BookName": "Set 3 - Companion Rules",
-    "BookShortName": "",
+    "BookName": "TSR1013 - Set 3 - Companion Rules",
+    "BookShortName": "Set 3 - Companion Rules",
     "BookPublisher": "TSR",
     "BookCode": "TSR1013",
     "BookISBN": "",
@@ -218,8 +218,8 @@
     }
   } ,
   {
-    "BookName": "Set 4 - Master Set",
-    "BookShortName": "",
+    "BookName": "TSR1021 - Set 4 - Master Set",
+    "BookShortName": "Set 4 - Master Set",
     "BookPublisher": "TSR",
     "BookCode": "TSR1021",
     "BookISBN": "",
@@ -252,8 +252,8 @@
     }
   } ,
   {
-    "BookName": "Set 5 - Immortals Rules",
-    "BookShortName": "",
+    "BookName": "TSR1017 - Set 5 - Immortals Rules",
+    "BookShortName": "Set 5 - Immortals Rules",
     "BookPublisher": "TSR",
     "BookCode": "TSR1017",
     "BookISBN": "0-88038-341-0",
@@ -347,8 +347,8 @@
     }
   } ,
   {
-    "BookName": "DMR2 - Creature Catalog",
-    "BookShortName": "",
+    "BookName": "TSR9438 - DMR2 - Creature Catalog",
+    "BookShortName": "DMR2 - Creature Catalog",
     "BookPublisher": "TSR",
     "BookCode": "TSR9438",
     "BookISBN": "1-56076-593-3",
@@ -385,8 +385,8 @@
     }
   },
   {
-    "BookName": "DMR1 - Dungeon Master’s Screen",
-    "BookShortName": "",
+    "BookName": "TSR9437 - DMR1 - Dungeon Master’s Screen",
+    "BookShortName": "DMR1 - Dungeon Master’s Screen",
     "BookPublisher": "TSR",
     "BookCode": "TSR9437",
     "BookISBN": "1-56076-565-8",
@@ -453,8 +453,8 @@
     }
   },
   {
-    "BookName": "B2 - Keep on the Borderlands",
-    "BookShortName": "",
+    "BookName": "TSR9034 - B2 - Keep on the Borderlands",
+    "BookShortName": "B2 - Keep on the Borderlands",
     "BookPublisher": "TSR",
     "BookCode": "TSR9034",
     "BookISBN": "0-935696-47-4",
@@ -487,8 +487,8 @@
     }
   } ,
   {
-    "BookName": "B3 - Palace of the Silver Princess",
-    "BookShortName": "",
+    "BookName": "TSR9044 - B3 - Palace of the Silver Princess",
+    "BookShortName": "B3 - Palace of the Silver Princess",
     "BookPublisher": "TSR",
     "BookCode": "TSR9044",
     "BookISBN": "0-935696-31-8",
@@ -522,8 +522,8 @@
     }
   },
   {
-    "BookName": "B4 - The Lost City",
-    "BookShortName": "",
+    "BookName": "TSR9049 - B4 - The Lost City",
+    "BookShortName": "B4 - The Lost City",
     "BookPublisher": "TSR",
     "BookCode": "TSR9049",
     "BookISBN": "0-935696-55-5",
@@ -556,8 +556,8 @@
     }
   } ,
   {
-    "BookName": "B5 - Horror on the Hill",
-    "BookShortName": "",
+    "BookName": "TSR9078 - B5 - Horror on the Hill",
+    "BookShortName": "B5 - Horror on the Hill",
     "BookPublisher": "TSR",
     "BookCode": "TSR9078",
     "BookISBN": "0-88038-046-2",
@@ -592,8 +592,8 @@
     }
   } ,
   {
-    "BookName": "B6 - The Veiled Society",
-    "BookShortName": "",
+    "BookName": "TSR9086 - B6 - The Veiled Society",
+    "BookShortName": "B6 - The Veiled Society",
     "BookPublisher": "TSR",
     "BookCode": "TSR9086",
     "BookISBN": "0-88038-085-3",
@@ -630,8 +630,8 @@
     }
   }  ,
   {
-    "BookName": "B7 - Rahasia",
-    "BookShortName": "",
+    "BookName": "TSR9115 - B7 - Rahasia",
+    "BookShortName": "B7 - Rahasia",
     "BookPublisher": "TSR",
     "BookCode": "TSR9115",
     "BookISBN": "0-88038-113-2",
@@ -666,8 +666,8 @@
     }
   },
   {
-    "BookName": "B8 - Journey to the Rock",
-    "BookShortName": "",
+    "BookName": "TSR9106 - B8 - Journey to the Rock",
+    "BookShortName": "B8 - Journey to the Rock",
     "BookPublisher": "TSR",
     "BookCode": "TSR9106",
     "BookISBN": "0-88038-158-2",
@@ -700,8 +700,8 @@
     }
   },
   {
-    "BookName": "B9 - Castle Caldwell and Beyond",
-    "BookShortName": "",
+    "BookName": "TSR9143 - B9 - Castle Caldwell and Beyond",
+    "BookShortName": "B9 - Castle Caldwell and Beyond",
     "BookPublisher": "TSR",
     "BookCode": "TSR9143",
     "BookISBN": "0-88038-200-7",
@@ -738,8 +738,8 @@
     }
   } ,
   {
-    "BookName": "B10 - Night's Dark Terror",
-    "BookShortName": "",
+    "BookName": "TSR9149 - B10 - Night's Dark Terror",
+    "BookShortName": "B10 - Night's Dark Terror",
     "BookPublisher": "TSR",
     "BookCode": "TSR9149",
     "BookISBN": "0-88038-269-4",
@@ -774,8 +774,8 @@
     }
   } ,
   {
-    "BookName": "B11 - King's Festival",
-    "BookShortName": "",
+    "BookName": "TSR9260 - B11 - King's Festival",
+    "BookShortName": "B11 - King's Festival",
     "BookPublisher": "TSR",
     "BookCode": "TSR9260",
     "BookISBN": "0-88038-746-7",
@@ -808,8 +808,8 @@
     }
   } ,
   {
-    "BookName": "B12 - Queen's Harvest",
-    "BookShortName": "",
+    "BookName": "TSR9261 - B12 - Queen's Harvest",
+    "BookShortName": "B12 - Queen's Harvest",
     "BookPublisher": "TSR",
     "BookCode": "TSR9261",
     "BookISBN": "0-88038-746-5",
@@ -842,8 +842,8 @@
     }
   }  ,
   {
-    "BookName": "B1-9 - In Search of Adventure",
-    "BookShortName": "",
+    "BookName": "TSR9190 - B1-9 - In Search of Adventure",
+    "BookShortName": "B1-9 - In Search of Adventure",
     "BookPublisher": "TSR",
     "BookCode": "TSR9190",
     "BookISBN": "0-88038-388-7",
@@ -876,8 +876,8 @@
     }
   } ,
   {
-    "BookName": "BSOLO - Ghost of Lion Castle",
-    "BookShortName": "",
+    "BookName": "TSR9097 - BSOLO - Ghost of Lion Castle",
+    "BookShortName": "BSOLO - Ghost of Lion Castle",
     "BookPublisher": "TSR",
     "BookCode": "TSR9097",
     "BookISBN": "",
@@ -913,8 +913,8 @@
     }
   },
   {
-    "BookName": "AC1 - The Shady Dragon Inn",
-    "BookShortName": "",
+    "BookName": "TSR9100 - AC1 - The Shady Dragon Inn",
+    "BookShortName": "AC1 - The Shady Dragon Inn",
     "BookPublisher": "TSR",
     "BookCode": "TSR9100",
     "BookISBN": "0-88083-072-1",
@@ -956,8 +956,8 @@
     }
   },
   {
-    "BookName": "AC2 - Combat Shield and Mini-adventure",
-    "BookShortName": "",
+    "BookName": "TSR9099 - AC2 - Combat Shield and Mini-adventure",
+    "BookShortName": "AC2 - Combat Shield and Mini-adventure",
     "BookPublisher": "TSR",
     "BookCode": "TSR9099",
     "BookISBN": "",
@@ -989,8 +989,8 @@
     }
   },
   {
-    "BookName": "AC10 - Bestiary of Dragons and Giants",
-    "BookShortName": "",
+    "BookName": "TSR9211 - AC10 - Bestiary of Dragons and Giants",
+    "BookShortName": "AC10 - Bestiary of Dragons and Giants",
     "BookPublisher": "TSR",
     "BookCode": "TSR9211",
     "BookISBN": "",
@@ -1022,8 +1022,8 @@
     }
   },
   {
-    "BookName": "AC11 - The Book of Wondrous Inventions",
-    "BookShortName": "",
+    "BookName": "TSR9220 - AC11 - The Book of Wondrous Inventions",
+    "BookShortName": "AC11 - The Book of Wondrous Inventions",
     "BookPublisher": "TSR",
     "BookCode": "TSR9220",
     "BookISBN": "0-88038-497-2",
@@ -1407,6 +1407,250 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9210 - CM9 - Legacy of Blood.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GAZ13 - The Shadow Elves",
+    "BookShortName": "GAZ13 - The Shadow Elves",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9287",
+    "BookISBN": "0-88038-846-3",
+    "BookAuthor": "Carl Sargent, Gary Thomas",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Gazetteer",
+    "BookFormat": "Softback",
+    "BookSeries": "Gazetteer",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9287 - GAZ13 - The Shadow Elves.pdf"
+    ],
+    "BookDescription": [
+      "Dark is the underworld. Darker are the lands of the Shadow Elves. Far underneath the rugged broken lands, even deeper than the deepest caverns of the trolls, live these pale faced warriors. Their law is that of their Immortal Rafiel, and their mystical strength that of their Soul Crystals. Together, they will guide the people of the shadows to the lands under the sun."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9173 - AC9 - Creature Catalogue",
+    "BookShortName": "AC9 - Creature Catalogue",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9173",
+    "BookISBN": "0-88038-315-1",
+    "BookAuthor": "Jim Bambra, Phil Gallagher & Graeme Morris",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "AC Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9173 - AC9 - Creature Catalogue.pdf"
+    ],
+    "BookDescription": [
+      "Are you ready to face the horror of the Hivebrood, the gruesome Geonid, or the dread Dusanu? These and many other baleful beasts lurk within the pages of this manual, waiting to challenge even the mightiest adventurers!",
+      "The Creature Catalogue is the first major expansion to the range of D&D game monsters. Within its covers have been collected all the curious creatures first presented in the official D&D adventure modules, plus many more new nasties, designed to challenge and perplex the heartiest heroes. Also included is a comprehensive index of all D&D monsters found in the Basic, Expert, Companion, and Master rule sets.",
+      "Whether your players' characters are 1st, 21st, or 31st level, this tome contains many fantastic creatures with which to test their mettle. Armed with the Creature Catalogue, you will be able to find the right fearsome foe to confront even the most foolhardy fellow."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 3, "title": "Introduction"},
+        {"page": 8, "title": "Main (Creature Name) Index"},
+        {"page": 11, "title": "Animals - Mundane, Extinct and Giant"},
+        {"page": 22, "title": "Conjurations - Magical and Other Planar"},
+        {"page": 32, "title": "Humanoids - Tribal and Solitary"},
+        {"page": 49, "title": "Lowlife - Plants, Bugs, Worms and Goos"},
+        {"page": 59, "title": "Monsters - and Other Fantastical Creatures"},
+        {"page": 82, "title": "Undead Mindless and Malignant"},
+        {"page": 90, "title": "Creature ‘Type’ Index"},
+        {"page": 92, "title": "Habitat Index"}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9159 - M1 - Into the Maelstrom",
+    "BookShortName": "M1 - Into the Maelstrom",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9159",
+    "BookISBN": "0-88038-244-9",
+    "BookAuthor": "Bruce Heard, Beatrice Heard",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "M Series",
+    "BookCharacterLevel": "Levels 25 - 30",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9159 - M1 - Into the Maelstrom.pdf"
+    ],
+    "BookDescription": [
+      "Alphatia, the most ancient empire, land of arcane and obscure secrets. It has grown for centuries and its might now overshadows the cauldron of civilization. Some say the Alphatians come from elsewhere, but no one knows for sure.",
+      "Beyond the scope of mortals broods an evil mastermind, still in darkness. Once a betrayed emperor of ancient Alphatia, now an entity of the Sphere of Entropy, he seeks revenge on the greatest empire and on the race of man. His plots brought a deathly fog on all of Norwold. Perhaps it will extend to the southern nations.",
+      "The matter is grave, so much that lords of the spheres have now to show their might. For them, it is time for mortals to intervene. Man defends his cause for him to earn divine favor.",
+      "A great armada has been raised and able commanders must be found. Prove your worth, and the eternal portals of the spheres may open for you."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9148 - M2 - Vengeance of Alphaks",
+    "BookShortName": "M2 - Vengeance of Alphaks",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9148",
+    "BookISBN": "0-88038-271-6",
+    "BookAuthor": "Skip Williams",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "M Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9148 - M2 - Vengeance of Alphaks.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9174 - M3 - Twilight Calling",
+    "BookShortName": "M3 - Twilight Calling",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9174",
+    "BookISBN": "0-88038-316-X",
+    "BookAuthor": "Tom Moldvay",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "M Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9174 - M3 - Twilight Calling.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9204 - M4 - Five Coins For A Kingdom",
+    "BookShortName": "M4 - Five Coins For A Kingdom",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9204",
+    "BookISBN": "0-88038-411-5",
+    "BookAuthor": "Allen Varney",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "M Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9204 - M4 - Five Coins For A Kingdom.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9214 - M5 - Talons of Night",
+    "BookShortName": "M5 - Talons of Night",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9214",
+    "BookISBN": "0-88038-491-3",
+    "BookAuthor": "Paul Jaquays",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "M Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9214 - M5 - Talons of Night.pdf"
     ],
     "BookDescription": [
       "No description available."

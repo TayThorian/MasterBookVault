@@ -73,5 +73,121 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "MUH042203 - The City People",
+  "BookShortName": "The City People",
+  "BookPublisher": "Mindjammer Press",
+  "BookCode": "MUH042203",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Fate",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Mindjammer",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Mindjammer\\MUH042203 - The City People.pdf"
+  ],
+  "BookDescription": [
+    "Mystery and Exploration Beyond the Frontier!",
+    "Space trek sci-fi horror for Mindjammer — The Roleplaying Game.",
+    "An event horizon probe has discovered a lost colony world beyond the Commonality Frontier like no one has ever seen before. Join the crew of Maggie, the Magnanimous Intervention, and take the light of humankind’s civilisation to the stars. Are you ready to push back the darkness_—_whatever you may find?",
+    "<b>The City People</b> includes:",
+    "a mysterious and lethal alien world to explore—maps, biosphere, and more;",
+    "a deadly multi-session scenario of conflict, investigation, and mystery;",
+    "tech specs, deckplans, and details of the Space Force instrumentality;",
+    "pregenerated characters, including the chance to play a sentient starship!",
+    "A ground-breaking adventure of thrilling sci-fi horror, pushing back the frontiers of transhuman knowledge and experience!"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MUH042204 - Dominion Quickstart",
+  "BookShortName": "Dominion Quickstart",
+  "BookPublisher": "Mindjammer Press",
+  "BookCode": "MUH042204",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Fate",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Mindjammer",
+  "BookType": "Quickstart",
+  "BookFormat": "Softback",
+  "BookSeries": "Quickstart",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Mindjammer\\MUH042204 - Dominion Quickstart.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MUH042205 - The Far Havens",
+  "BookShortName": "The Far Havens",
+  "BookPublisher": "Mindjammer Press",
+  "BookCode": "MUH042205",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Fate",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Mindjammer",
+  "BookType": "Campaign",
+  "BookFormat": "",
+  "BookSeries": "Campaigns",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Mindjammer\\MUH042205 - The Far Havens.pdf"
+  ],
+  "BookDescription": [
+    "Fire your planing engines beyond the Rim, above the galactic plane to the outer worlds, free from Commonality assimilation. There’s a bounty out here on Event Horizon Probes, and the only synthetics are those who serve us.",
+    "My family is from the revered Wayfarers’ Guild, with Voyager eugenics strong in our lineage. I do not hold to the Utopian rapture, for I have flown a Stargull across the Dragonfly Ruins on Balar, and believe that all our fates are to be found there.",
+    "Join us! Think free! Live true! We are the Far Havens. We stand together; we go beyond.",
+    "THE FAR HAVENS is a campaign pack supplement for your Mindjammer game, providing rich setting detail for an exotic polity far beyond the Commonality frontier, above the galactic plane, which fiercely resists the inexorable advance of the event horizon probes. Join the Licensed Free Agents and the New Traders: explore this perilous frontier, and fight the machinations of the Commodus sentience and the rise of ancient powers…",
+    "THE FAR HAVENS includes:",
+    "A whole new Outer Worlds polity, beyond the Commonality Frontier;",
+    "Dozens of new worlds to explore, complete with starmaps, planetary maps and statistics;",
+    "Organisations, technology, ships, new genotypes and life forms;",
+    "Mysteries, intrigue, and adversaries for your Mindjammer campaign!",
+    "THE FAR HAVENS is a complete campaign pack for Mindjammer—The Roleplaying Game. The Mindjammer—The Roleplaying Game core book is required for play."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]

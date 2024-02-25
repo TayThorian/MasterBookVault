@@ -126,17 +126,18 @@
 - MGP40102 - Rim Expeditions
 - MGP40101 - Traveller Companion Update 2024
 ## TSR
-- TSR9044 -
-- TSR9049 -
-- TSR9078 -
-- TSR9086 -
-- TSR9115 -
-- TSR9106 -
-- TSR9143 -
-- TSR9149 -
-- TSR9260 -
-- TSR9261 -
-- TSR9190 -
+- TSR9044 - B3 - Palace of the Silver Princess
+- TSR9049 - B4 - The Lost City
+- TSR9078 - B5 - Horror on the Hill
+- TSR9086 - B6 - The Veiled Society
+- TSR9115 - B7 - Rahasia
+- TSR9106 - B8 - Journey to the Rock
+- TSR9143 - B9 - Castle Caldwell and Beyond
+- TSR9149 - B10 - Night's Dark Terror
+- TSR9260 - B11 - King's Festival
+- TSR9261 - B12 - Queen's Harvest
+- TSR9190 - B1-9 - In Search of Adventure
+- TSR9287 - GAZ13 - The Shadow Elves
 - TSR2112 - DMGR1 - Campaign Sourcebook and Catacomb Guide
 - TSR2114 - DMGR2 - Castle Guide
 - TSR2158 - Monstrous Compendium Annual - Volume Two
@@ -155,7 +156,6 @@
 - TSR2136 - PHBR11 - The Complete Ranger's Handbook
 - TSR2147 - PHBR12 - The Complete Paladin's Handbook
 - TSR2150 - PHBR13 - The Complete Druid's Handbook
-- TSR2148 - PHBR14 - The Complete Barbarian's Handbook
 - TSR2155 - PHBR15 - The Complete Ninja's Handbook
 - TSR2154 - Player's Option - Skills & Powers
 - TSR2156 - Dungeon Master Option - High-Level Campaigns
