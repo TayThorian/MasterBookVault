@@ -90,11 +90,11 @@
 - ENP0201 - O.L.D - Fantasy Heroic Role-Playing
 - ENP0301 - N.O.W. - The Modern Action RPG
 ## BRW Games
-- -
-- -
-- -
-- -
-- -
+- - Swords of Wuxia
+- - Book of Lost Beasts
+- - Book of Lost Lore
+- - Book of Lost Tables
+- - Swords of Cthulhu
 ## Dreamscape Design
 - DD0003 - Blueholme - Journeymanne Rules
 ## Digest Group Publications
@@ -105,25 +105,25 @@
 - MGP40062 - Core Adventure 2 - Last Call at Eneri's Cantina
 - MGP40063 - Core Adventure 3 - Errant Lightning
 - MGP40073 - The Third Imperium
-- MGP40114 -
-- MGP40112 -
-- MGP40094 -
-- MGP40103 -
+- MGP40114 - Whispers on the Abyss
+- MGP40112 - The Deep and the Dark
+- MGP40094 - Aliens of Charted Space Volume 3
+- MGP40103 - Aliens of Charted Space Volume 4
 - MGP40095 - Central Supply Catalogue -Update 2023
-- MGP40075 -
+- MGP40075 - The Spinward Extents
 - MGP40085 - Robot Handbook
 - MGP40087 - High Guard Update 2022
 - MGP40100 - World Builder’s Handbook
-- MGP40072 -
-- MGP40104 -
-- MGP40115 -
-- MGP40108 -
-- MGP40105 -
-- MGP40098 -
-- MGP40099 -
-- MGP40097 -
-- MGP40106 -
-- MGP40102 -
+- MGP40072 - Secrets of the Ancients
+- MGP40104 - Mysteries of the Ancients
+- MGP40115 - Wrath of the Ancients
+- MGP40108 - Small Craft Catalogue
+- MGP40105 - Adventure Class Ships
+- MGP40098 - The Trailing Frontier
+- MGP40099 - The Imperial Navy
+- MGP40097 - The Marches Adventures 1-5
+- MGP40106 - Traveller Referee's Screen Update 2024
+- MGP40102 - Rim Expeditions
 - MGP40101 - Traveller Companion Update 2024
 ## TSR
 - TSR9044 -

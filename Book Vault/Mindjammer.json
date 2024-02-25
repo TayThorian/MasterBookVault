@@ -1,6 +1,7 @@
 [
   {
-    "BookName": "Mindjammer the Roleplaying Game",
+    "BookName": "MJPG2201 - Mindjammer the Roleplaying Game",
+    "BookShortName": "Mindjammer the Roleplaying Game",
     "BookPublisher": "Mindjammer Press",
     "BookCode": "MJPG2201",
     "BookISBN": "978-0-9574779-3-3",
@@ -41,7 +42,8 @@
   }
 },
 {
-  "BookName": " Hearts And Minds",
+  "BookName": "MJPG2202 - Hearts And Minds",
+  "BookShortName": "Hearts And Minds",
   "BookPublisher": "Mindjammer Press",
   "BookCode": "MJPG2202",
   "BookISBN": "978-0-9574779-8-8",

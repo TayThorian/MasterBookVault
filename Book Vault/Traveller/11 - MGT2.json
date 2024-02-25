@@ -35,7 +35,7 @@
     }
   },
   {
-    "BookName": "MGP401 - Bu and Embla Visit Vrirhlanz",
+    "BookName": "MGP40113 - Bu and Embla Visit Vrirhlanz",
     "BookShortName": "Bu and Embla Visit Vrirhlanz",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40113",
@@ -259,8 +259,8 @@
     }
   },
   {
-    "BookName": "Whispers on the Abyss",
-    "BookShortName": "",
+    "BookName": "MGP40114 - Whispers on the Abyss",
+    "BookShortName": "Whispers on the Abyss",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40114",
     "BookISBN": "978-1-916675-13-1",
@@ -294,8 +294,8 @@
     }
   } ,
   {
-    "BookName": "The Deep and the Dark",
-    "BookShortName": "",
+    "BookName": "MGP40112 - The Deep and the Dark",
+    "BookShortName": "The Deep and the Dark",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40112",
     "BookISBN": "978-1-916675-11-7",
@@ -332,8 +332,8 @@
     }
   } ,
   {
-    "BookName": "Aliens of Charted Space Volume 3",
-    "BookShortName": "",
+    "BookName": "MGP40094 - Aliens of Charted Space Volume 3",
+    "BookShortName": "Aliens of Charted Space Volume 3",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40094",
     "BookISBN": "978-913076-85-6",
@@ -376,8 +376,8 @@
     }
   } ,
   {
-    "BookName": "Aliens of Charted Space Volume 4",
-    "BookShortName": "",
+    "BookName": "MGP40103 - Aliens of Charted Space Volume 4",
+    "BookShortName": "Aliens of Charted Space Volume 4",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40103",
     "BookISBN": "978-1-91675-01-8",
@@ -454,8 +454,8 @@
     }
   } ,
   {
-    "BookName": "The Spinward Extents",
-    "BookShortName": "",
+    "BookName": "MGP40075 - The Spinward Extents",
+    "BookShortName": "The Spinward Extents",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40075",
     "BookISBN": "978-1-913076-66-5",
@@ -597,8 +597,8 @@
     }
   },
   {
-    "BookName": "Secrets of the Ancients",
-    "BookShortName": "",
+    "BookName": "MGP40072 - Secrets of the Ancients",
+    "BookShortName": "Secrets of the Ancients",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40072",
     "BookISBN": "",
@@ -632,8 +632,8 @@
     }
   } ,
   {
-    "BookName": "Mysteries of the Ancients",
-    "BookShortName": "",
+    "BookName": "MGP40104 - Mysteries of the Ancients",
+    "BookShortName": "Mysteries of the Ancients",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40104",
     "BookISBN": "",
@@ -667,8 +667,8 @@
     }
   } ,
   {
-    "BookName": "Wrath of the Ancients",
-    "BookShortName": "",
+    "BookName": "MGP40115 - Wrath of the Ancients",
+    "BookShortName": "Wrath of the Ancients",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40115",
     "BookISBN": "978-1-916676-14-8",
@@ -701,8 +701,8 @@
     }
   },
   {
-    "BookName": "Small Craft Catalogue",
-    "BookShortName": "",
+    "BookName": "MGP40108 - Small Craft Catalogue",
+    "BookShortName": "Small Craft Catalogue",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40108",
     "BookISBN": "",
@@ -743,8 +743,8 @@
     }
   } ,
   {
-    "BookName": "Adventure Class Ships",
-    "BookShortName": "",
+    "BookName": "MGP40105 - Adventure Class Ships",
+    "BookShortName": "Adventure Class Ships",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40105",
     "BookISBN": "978-1-916675-03-2",
@@ -776,8 +776,8 @@
     }
   },
   {
-    "BookName": "The Trailing Frontier",
-    "BookShortName": "",
+    "BookName": "MGP40098 - The Trailing Frontier",
+    "BookShortName": "The Trailing Frontier",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40098",
     "BookISBN": "978-1-913076-96-2",
@@ -810,8 +810,8 @@
     }
   } ,
   {
-    "BookName": "The Imperial Navy",
-    "BookShortName": "",
+    "BookName": "MGP40099 - The Imperial Navy",
+    "BookShortName": "The Imperial Navy",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40099",
     "BookISBN": "",
@@ -845,8 +845,8 @@
     }
   } ,
   {
-    "BookName": "The Marches Adventures 1-5",
-    "BookShortName": "",
+    "BookName": "MGP40097 - The Marches Adventures 1-5",
+    "BookShortName": "The Marches Adventures 1-5",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40097",
     "BookISBN": "",
@@ -878,8 +878,8 @@
     }
   } ,
   {
-    "BookName": "Great Rift Adventure 1 - Islands in the Rift",
-    "BookShortName": "",
+    "BookName": "MGP40015 - Great Rift Adventure 1 - Islands in the Rift",
+    "BookShortName": "Great Rift Adventure 1 - Islands in the Rift",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40015",
     "BookISBN": "",
@@ -911,8 +911,8 @@
     }
   },
   {
-    "BookName": "Great Rift Adventure 2 - Deepnight Endeavour",
-    "BookShortName": "",
+    "BookName": "MGP40014 - Great Rift Adventure 2 - Deepnight Endeavour",
+    "BookShortName": "Great Rift Adventure 2 - Deepnight Endeavour",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40014",
     "BookISBN": "",
@@ -944,8 +944,8 @@
     }
   },
   {
-    "BookName": "Great Rift Adventure 3 - Flatlined",
-    "BookShortName": "",
+    "BookName": "MGP40016 - Great Rift Adventure 3 - Flatlined",
+    "BookShortName": "Great Rift Adventure 3 - Flatlined",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40016",
     "BookISBN": "",
@@ -977,8 +977,8 @@
     }
   },
   {
-    "BookName": "Traveller Core Rulebook",
-    "BookShortName": "",
+    "BookName": "MGP40000 - Traveller Core Rulebook",
+    "BookShortName": "Traveller Core Rulebook",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40000",
     "BookISBN": "978-1-908460-52-3",
@@ -1013,8 +1013,8 @@
     }
   },
   {
-    "BookName": "Element Class Cruisers - Shipbuilder's Blueprints",
-    "BookShortName": "",
+    "BookName": "MGP44444 - Element Class Cruisers - Shipbuilder's Blueprints",
+    "BookShortName": "Element Class Cruisers - Shipbuilder's Blueprints",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP44444",
     "BookISBN": "",
@@ -1051,8 +1051,8 @@
     }
   },
   {
-    "BookName": "Traveller Referee's Screen Update 2024",
-    "BookShortName": "",
+    "BookName": "MGP40106 - Traveller Referee's Screen Update 2024",
+    "BookShortName": "Traveller Referee's Screen Update 2024",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40106",
     "BookISBN": "978-1-916675-04-9",
@@ -1085,8 +1085,8 @@
     }
   },
   {
-    "BookName": "Rim Expeditions",
-    "BookShortName": "",
+    "BookName": "MGP40102 - Rim Expeditions",
+    "BookShortName": "Rim Expeditions",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40102",
     "BookISBN": "",
@@ -1122,8 +1122,8 @@
     }
   },
   {
-    "BookName": "Solomani Front",
-    "BookShortName": "",
+    "BookName": "MGP40051 - Solomani Front",
+    "BookShortName": "Solomani Front",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40051",
     "BookISBN": "",
@@ -1155,8 +1155,8 @@
     }
   },
   {
-    "BookName": "The Glorious Empire",
-    "BookShortName": "",
+    "BookName": "MGP40049 - The Glorious Empire",
+    "BookShortName": "The Glorious Empire",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40049",
     "BookISBN": "",
@@ -1196,8 +1196,8 @@
     }
   },
   {
-    "BookName": "Traveller Core Rulebook Update 2022",
-    "BookShortName": "",
+    "BookName": "MGP40058 - Traveller Core Rulebook Update 2022",
+    "BookShortName": "Traveller Core Rulebook Update 2022",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40058",
     "BookISBN": "978-1-913076-47-4",

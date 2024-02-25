@@ -36,7 +36,7 @@
   }
 },
 {
-  "BookName": ""PAL800 - Rifts - Ultimate Edition",
+  "BookName": "PAL800 - Rifts - Ultimate Edition",
   "BookShortName": "Rifts - Ultimate Edition",
   "BookPublisher": "Palladium Books",
   "BookCode": "PAL800",
@@ -120,7 +120,7 @@
   }
 },
 {
-  "BookName": ""PAL811 - Conversion Book 2 - Pantheons of the Megaverse",
+  "BookName": "PAL811 - Conversion Book 2 - Pantheons of the Megaverse",
   "BookShortName": "Conversion Book 2 - Pantheons of the Megaverse",
   "BookPublisher": "Palladium Books",
   "BookCode": "PAL811",
@@ -570,7 +570,7 @@
 },
 {
   "BookName": "PAL880 - Dimension Book 13 - Fleets of the Three Galaxies",
-  "BookShortName": Dimension Book 13 - Fleets of the Three Galaxies"",
+  "BookShortName": "Dimension Book 13 - Fleets of the Three Galaxies",
   "BookPublisher": "Palladium Books",
   "BookCode": "PAL880",
   "BookISBN": "",

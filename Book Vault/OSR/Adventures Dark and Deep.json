@@ -1,6 +1,7 @@
 [
     {
     "BookName": "Swords of Wuxia",
+    "BookShortName": "Swords of Wuxia",
     "BookPublisher": "BRW Games",
     "BookCode": "",
     "BookISBN": "",
@@ -35,6 +36,7 @@
   }  ,
   {
     "BookName": "Book of Lost Beasts",
+    "BookShortName": "Book of Lost Beasts",
     "BookPublisher": "BRW Games",
     "BookCode": "",
     "BookISBN": "",
@@ -69,6 +71,7 @@
   } ,
   {
     "BookName": "Book of Lost Lore",
+    "BookShortName": "Book of Lost Lore",
     "BookPublisher": "BRW Games",
     "BookCode": "",
     "BookISBN": "",
@@ -103,6 +106,7 @@
   } ,
   {
     "BookName": "Book of Lost Tables",
+    "BookShortName": "Book of Lost Tables",
     "BookPublisher": "BRW Games",
     "BookCode": "",
     "BookISBN": "",
@@ -136,6 +140,7 @@
   } ,
   {
     "BookName": "Swords of Cthulhu",
+    "BookShortName": "Swords of Cthulhu",
     "BookPublisher": "BRW Games",
     "BookCode": "",
     "BookISBN": "",
@@ -169,7 +174,8 @@
     }
   },
   {
-    "BookName": "Adventures Dark and Deep Players Manual",
+    "BookName": "ADD1401 - Adventures Dark and Deep Players Manual",
+    "BookShortName": "Adventures Dark and Deep Players Manual",
     "BookPublisher": "BRW Games",
     "BookCode": "ADD1401",
     "BookISBN": "",
@@ -202,7 +208,8 @@
     }
   },
   {
-    "BookName": "Adventures Dark and Deep Game Masters Toolkit",
+    "BookName": "ADD1402 - Adventures Dark and Deep Game Masters Toolkit",
+    "BookShortName": "Adventures Dark and Deep Game Masters Toolkit",
     "BookPublisher": "BRW Games",
     "BookCode": "ADD1402",
     "BookISBN": "",
@@ -235,7 +242,8 @@
     }
   },
   {
-    "BookName": "Adventures Dark and Deep Bestiary",
+    "BookName": "ADD1403 - Adventures Dark and Deep Bestiary",
+    "BookShortName": "Adventures Dark and Deep Bestiary",
     "BookPublisher": "BRW Games",
     "BookCode": "ADD1403",
     "BookISBN": "",
@@ -279,7 +287,8 @@
     }
   },
   {
-    "BookName": "Random Terrain and Encounter Generator",
+    "BookName": "ADD1404 - Random Terrain and Encounter Generator",
+    "BookShortName": "Random Terrain and Encounter Generator",
     "BookPublisher": "BRW Games",
     "BookCode": "ADD1404",
     "BookISBN": "",
@@ -312,6 +321,7 @@
   },
   {
     "BookName": "P1 - Pirates of the Airdish Main",
+    "BookShortName": "P1 - Pirates of the Airdish Main",
     "BookPublisher": "BRW Games",
     "BookCode": "",
     "BookISBN": "",
@@ -345,6 +355,7 @@
   },
   {
     "BookName": "P2 - The Ghost of Harven Half-Skull",
+    "BookShortName": "P2 - The Ghost of Harven Half-Skull",
     "BookPublisher": "BRW Games",
     "BookCode": "",
     "BookISBN": "",
@@ -363,6 +374,39 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\OSR\\Adventures Dark and Deep\\P2 - The Ghost of Harven Half-Skull.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "MA1 - Castle of the Mad Archmage -  Decennial Edition The Core Levels",
+    "BookShortName": "Castle of the Mad Archmage",
+    "BookPublisher": "BRW Games",
+    "BookCode": "MA1",
+    "BookISBN": "",
+    "BookAuthor": "Joseph Bloch",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "Decennial Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\Adventures Dark and Deep\\MA1 - Castle of the Mad Archmage -  Decennial Edition The Core Levels.pdf"
     ],
     "BookDescription": [
       "No description available."

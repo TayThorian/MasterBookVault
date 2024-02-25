@@ -1,13 +1,14 @@
 [
   {
-  "BookName": "BX RPG Dungeon Guide",
+  "BookName": "9001 - BX RPG Dungeon Guide",
+  "BookShortName": "BX RPG Dungeon Guide",
   "BookPublisher": "Pacesetter Games & Simulations",
   "BookCode": "9001",
   "BookISBN": "",
   "BookAuthor": "Bill Barsh",
   "BookPublished": "2019",
   "BookCover": "",
-  "BookRules": "BX",
+  "BookRules": "BX Game System",
   "BookEdition": "2nd Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "Yes",
@@ -45,14 +46,15 @@
   }
 },
 {
-  "BookName": "BX RPG Player's Guide",
+  "BookName": "9002 - BX RPG Player's Guide",
+  "BookShortName": "BX RPG Player's Guide",
   "BookPublisher": "Pacesetter Games & Simulations",
   "BookCode": "9002",
   "BookISBN": "",
   "BookAuthor": "Bill Barsh",
   "BookPublished": "2019",
   "BookCover": "",
-  "BookRules": "BX",
+  "BookRules": "BX Game System",
   "BookEdition": "2nd Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "Yes",
@@ -82,6 +84,171 @@
       {"page": 51, "title": "Spell Descriptions"},
       {"page": 100, "title": "Turning Undead, Example"},
       {"page": 101, "title": "Character Sheet"}
+      ]    
+  }
+},
+{
+  "BookName": "9004 - Adventurer RPG - Player Guide",
+  "BookShortName": "Adventurer RPG - Player Guide",
+  "BookPublisher": "Pacesetter Games & Simulations",
+  "BookCode": "9004",
+  "BookISBN": "",
+  "BookAuthor": "Bill Barsh",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Adventurer RPG",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Adventurer RPG",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Pacesetter Games & Simulations\\Adventurer RPG\\9004 - Adventurer RPG - Player Guide.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "9005 - Adventurer RPG - Dungeon Guide",
+  "BookShortName": "Adventurer RPG - Dungeon Guide",
+  "BookPublisher": "Pacesetter Games & Simulations",
+  "BookCode": "9005",
+  "BookISBN": "",
+  "BookAuthor": "Bill Barsh",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Adventurer RPG",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Adventurer RPG",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Pacesetter Games & Simulations\\Adventurer RPG\\9005 - Adventurer RPG - Dungeon Guide.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "4227bx - Into the Unknown",
+  "BookShortName": "Into the Unknown",
+  "BookPublisher": "Pacesetter Games & Simulations",
+  "BookCode": "4227bx",
+  "BookISBN": "978-1-64871-243-2",
+  "BookAuthor": "Ben Barsh",
+  "BookPublished": "2021",
+  "BookCover": "",
+  "BookRules": "BX Game System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Solo Adventure",
+  "BookFormat": "",
+  "BookSeries": "Solo Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Pacesetter Games & Simulations\\4227bx - Into the Unknown.pdf"
+  ],
+  "BookDescription": [
+    "Welcome to a world of new adventure! The day has finally come. Your training at Farrador Keep has come to its end. You are now a fully-fledged adventurer ready to make your name known in all the lands. However, this time, you will go it alone. Farrador is a relatively peaceful region; however, menacing monsters reside in the shadows of even the brightest lights. You are being called to explore abandoned mines, save villages from devastating foes, and claim your name as the next true adventurer. All this and more will be possible as you go Into the Unknown!"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "1805BX - Endless Encounters Dungeons",
+  "BookShortName": "Endless Encounters Dungeons",
+  "BookPublisher": "Pacesetter Games & Simulations",
+  "BookCode": "1805BX",
+  "BookISBN": "",
+  "BookAuthor": "Bill Barsh",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "BX Game System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Endless Encounters",
+  "BookType": "Endless Encounters",
+  "BookFormat": "",
+  "BookSeries": "Endless Encounters",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Pacesetter Games & Simulations\\1805BX - Endless Encounters Dungeons.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "1805MAP - Endless Encounters Dungeons Map Book",
+  "BookShortName": "Endless Encounters Dungeons Map Book",
+  "BookPublisher": "Pacesetter Games & Simulations",
+  "BookCode": "1805MAP",
+  "BookISBN": "",
+  "BookAuthor": "Bill Barsh",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "BX Game System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Endless Encounters",
+  "BookType": "Endless Encounters",
+  "BookFormat": "",
+  "BookSeries": "Endless Encounters",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Pacesetter Games & Simulations\\1805MAP - Endless Encounters Dungeons Map Book.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
       ]    
   }
 }

@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Keeper Rulebook",
+    "BookName": "CHA23135 - Keeper Rulebook",
+    "BookShortName": "Keeper Rulebook",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA23135",
     "BookISBN": "978-1-56882-430-7",
@@ -38,7 +39,8 @@
     }
   },
   {
-    "BookName": "Investigators Handbook",
+    "BookName": "CHA23136 - Investigators Handbook",
+    "BookShortName": "Investigators Handbook",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA23136",
     "BookISBN": "978-1-56882-431-4",
@@ -75,7 +77,8 @@
     }
   },
   {
-    "BookName": "Keeper Screen",
+    "BookName": "CHA23137 - Keeper Screen",
+    "BookShortName": "Keeper Screen",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA23137",
     "BookISBN": "978-1-56882-410-9",
@@ -118,7 +121,8 @@
     }
   },
   {
-    "BookName": "Reign of Terror",
+    "BookName": "CHA23149 - Reign of Terror",
+    "BookShortName": "Reign of Terror",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA23149",
     "BookISBN": "978-1-56882-451-2",
@@ -155,7 +159,8 @@
     }
   },
   {
-    "BookName": "Petersen's Abominations",
+    "BookName": "CHA23152 - Petersen's Abominations",
+    "BookShortName": "Petersen's Abominations",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA23152",
     "BookISBN": "978-1-56882-452-9",
@@ -190,7 +195,8 @@
     }
   },
   {
-    "BookName": "Mansions of Madness - Volume 1 - Behind Closed Doors",
+    "BookName": "CHA23167 - Mansions of Madness - Volume 1 - Behind Closed Doors",
+    "BookShortName": "Mansions of Madness - Volume 1 - Behind Closed Doors",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA23167",
     "BookISBN": "978-1-56882-424-6",
@@ -225,7 +231,8 @@
     }
   },
   {
-    "BookName": "Does Love Forgive",
+    "BookName": "CHA23172 - Does Love Forgive",
+    "BookShortName": "Does Love Forgive",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA23172",
     "BookISBN": "",
@@ -238,9 +245,9 @@
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Call of Cthulhu",
-    "BookType": "",
+    "BookType": "Scenario",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Scenarios",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23172 - Does Love Forgive.pdf",
@@ -259,7 +266,8 @@
     }
   },
   {
-    "BookName": "Gateways to Terror",
+    "BookName": "CHA23140 - Gateways to Terror",
+    "BookShortName": "Gateways to Terror",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA23140",
     "BookISBN": "978-1-56882-445-1",
@@ -298,7 +306,8 @@
     }
   },
   {
-    "BookName": "Horror's Heart",
+    "BookName": "CHA2359 - Horror's Heart",
+    "BookShortName": "Horror's Heart",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA2359",
     "BookISBN": "",
@@ -330,7 +339,8 @@
     }
   },
   {
-    "BookName": "The Bermuda Triangle",
+    "BookName": "CHA2372 - The Bermuda Triangle",
+    "BookShortName": "The Bermuda Triangle",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA2372",
     "BookISBN": "1-56882-122-0",
@@ -362,7 +372,8 @@
     }
   },
   {
-    "BookName": "Beyond the Mountains of Madness",
+    "BookName": "CHA2380 - Beyond the Mountains of Madness",
+    "BookShortName": "Beyond the Mountains of Madness",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA2380",
     "BookISBN": "",
@@ -394,7 +405,8 @@
     }
   },
   {
-    "BookName": "Escape From Innsmouth 2nd Edition Expanded and Revised",
+    "BookName": "CHA2371 - Escape From Innsmouth 2nd Edition Expanded and Revised",
+    "BookShortName": "Escape From Innsmouth 2nd Edition Expanded and Revised",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA2371",
     "BookISBN": "1-56882-115-8",
@@ -426,7 +438,8 @@
     }
   },
   {
-    "BookName": "The Compact Trail of Tsathogghua",
+    "BookName": "CHA2362 - The Compact Trail of Tsathogghua",
+    "BookShortName": "The Compact Trail of Tsathogghua",
     "BookPublisher": "Chaosium Inc.",
     "BookCode": "CHA2362",
     "BookISBN": "",
@@ -450,6 +463,575 @@
       "Tsathogghua's curse awaits the unwelcomed investigators of the occult and unknown. What grim secret lurks on the sterile Greenland icecap? What living horror grows beneath the \"Bigfoot\" legend.",
       "The core of ToT is two scenarios, \"The Trail of Tsathogghua\" and \"The Curse of Tsathogghua\", which are loosely connected. The original editions of ToT also include a third, unconeccted scenario, \"The Haunted House\".",
       "Each scenario has the potential to take very long time -- in a good way -- to complete. Handouts and red herrings galore."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23151 - Down Darker Trails",
+    "BookShortName": "Down Darker Trails",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23151",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Setting Guide",
+    "BookFormat": "",
+    "BookSeries": "Setting Guides",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23151 - Down Darker Trails.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23151 - Down Darker Trails - Keeper Reference Booklet.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23154 - Alone Against the Dark",
+    "BookShortName": "Alone Against the Dark",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23154",
+    "BookISBN": "978-156882-453-6",
+    "BookAuthor": "Matthew J. Costello, Mike Mason",
+    "BookPublished": "2019",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Solo - Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Solo - Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23154 - Alone Against the Dark.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23154 - Alone Against the Dark - Handouts.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23154 - Alone Against the Dark - Calendar.pdf"
+    ],
+    "BookDescription": [
+      "Alone Against The Dark is an adventure for one player, set in the fall of 1931. Your goal is to solve strange disappearances and to forestall a calamity about to beset the world. You will journey from New York City to Greece, Egypt, Germany, and Antarctica.",
+      "Beginning with the theft of a priceless relic, four friends are drawn one by one into a dark web of mystery and horror. As the darkness grows, only you can hold out against the dying of the light. The fate of the world is in your hands.",
+      "As Louis Grunewald, a quiet linguistics professor from the Miskatonic University, you will confound the forces of darkness before time runs out—but should Professor Grunewald be eliminated for some reason, you can successively assume the identity of a new investigator. There are four ready-made investigators provided for this purpose, enabling you to take on differing roles as circumstances change in your search for the truth: Louis Grunewald, a linguistics professor from the Miskatonic University, Lydia Lau, a story-seeking reporter for the New York Sun, Devon Wilson, a sailor on leave from the US Navy, and Ernest Holt, a wealthy industrialist.",
+      "This adventure is guaranteed dangerous. But, no matter how skillfully you avoid death or madness, your investigators will fail if they do not prevent the turning of the world and the freeing of the City of the Old Ones from the ice."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23174 - Alone Against the Tide",
+    "BookShortName": "Alone Against the Tide",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23174",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Solo - Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Solo - Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23174 - Alone Against the Tide.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23174 - Alone Against the Tide - Eleanor Woods.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23164 - Alone Against the Frost",
+    "BookShortName": "Alone Against the Frost",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23164",
+    "BookISBN": "978-1-56882-370-6",
+    "BookAuthor": "Glenn Rahman, Gavin Inglis",
+    "BookPublished": "2019",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Solo - Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Solo - Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23164 - Alone Against the Frost.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23164 - Alone Against the Frost - Character Sheets.pdf"
+    ],
+    "BookDescription": [
+      "Solitaire Adventure in Canada’s Wilds",
+      "Alone Against the Frost is a solo horror adventure for one player, set during a research expedition to Canada’s Northwest Territories during the 1920s. Here, you choose your own path as you navigate through the story—your choices will determine whether you find success or failure!",
+      "You take on the role of Dr. L. C. Nadelmann, an anthropologist from the renowned Miskatonic University in Arkham, MA. Accompanied by three of your most gifted and practical graduate students, as well as an experienced local guide, you set off into the fabled valley of the North Hanninah in search of the anthropological discovery that will make your career and bring you fame. Or, so you hope.",
+      "Your expedition members are:",
+      "Dr. L. C. Nadelmann, an academic obsessed by early North American prehistory, myths, and legends, particularly in the Big Woods region.",
+      "Bernard Ebstein, a cherubic-looking native New Yorker, eager to experience life in the wilds before his upcoming marriage to his sweetheart, Catherine.",
+      "Sylvia Davidson, the latest in a long line of Boston Brahmins, destined for academic greatness thanks to her dedication and determination.",
+      "Norman Falkner, a mature, largely self-taught student whose calm nature acts as a steadying influence on those around him.",
+      "Charlie Foxtail, a cautious Tsuut’ina professional wilderness guide, hired to lead the expedition safely through the North Hanninah.",
+      "But such a journey is fraught with difficulties, from dangerous white water to the superstitious beliefs of the region’s inhabitants—not to mention the wildlife!",
+      "Will you manage to survive every challenge this hostile environment throws at you? Will your companions? Can you return with your reputation—and your sanity—intact? Only time will tell.",
+      "Armed with a pencil, some roleplaying dice, and a copy of the Call of Cthulhu Rulebook or the Call of Cthulhu Starter Set, you are ready to brave the remote wilderness as one of MU’s youngest ever professors! Dare you take on the challenge? If the answer is yes, then don’t forget to wrap up warm! It can get mighty cold out there...",
+      "Originally released over 30 years ago, this new edition of Alone Against the Frost has been completely revised and updated for Call of Cthulhu 7th edition—over 650 entries, complete with new illustrations and an afterword by the original author."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23161 - Berlin - The Wicked City",
+    "BookShortName": "Berlin - The Wicked City",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23161",
+    "BookISBN": "978-1-56882-417-8",
+    "BookAuthor": "David Larkins, Mike Mason, Lynne Hardy",
+    "BookPublished": "2019",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "1920's",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23161 - Berlin - The Wicked City.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23161 - Berlin - The Wicked City - Keeper Reference Booklet.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23161 - Berlin - The Wicked City - City Map.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23161 - Berlin - The Wicked City - Handouts.pdf"
+    ],
+    "BookDescription": [
+      "In the aftermath of the Great War, Berlin has a reputation for licentiousness. A place where anything may be had for the right price. It is both a city of hedonism and a city of business; its streets overflow with disabled veterans, prostitutes, destitute immigrants, and political agitators—all rubbing shoulders with buttoned-down businessmen, scholars, and artists. The gutters run with the blood of political assassinations, where Communists and völkisch Nationalists clash with each other, as well as with the police. Long into the evenings, Berlin’s world-famous cabarets offer music, dance, and titillating entertainment in stark contrast to the gray buildings that run on for endless miles along the sprawling city’s byways.",
+      "Into this bubbling stew, Berlin the Wicked City introduces the weird elements of the Cthulhu Mythos. A hotbed of occult organizations, strange cults, and half-whispered lore. Amid the wicked air of the world’s capital of sin, the very nature of what it means to be human is questioned. And, as the city hurtles toward its inevitable dark destiny, the oppressive atmosphere pushes the sanity of investigators to its breaking point.",
+      "This book presents an overview of 1920s Berlin as it would be experienced by visitors and residents of the time. Guidelines are presented for creating investigators for a Berlin-centric campaign, as well as investigator organizations to help bind groups together. Notable personalities, key locations, and a system for generating details of the urban landscape on the fly are provided. With crime and punishment, the city’s underworld, and also its high culture detailed, the tools provided help the Keeper gain an understanding of what makes Berlin unique.",
+      "Three scenarios, spanning the history of Berlin between the end of the Great War and the rise of Adolf Hitler and the Nazi Party, contain colourful details of Berlin and its inhabitants and may be run as stand-alone adventures or linked together to form a mini-campaign.",
+      "Chapter 1: The City, presents an overview of 1920s Berlin. Creating investigators for a Berlin-centric campaign, as well as advice for bringing in existing player characters. Investigator organizations and Experience Packages are designed to add new dimensions to investigative groups. The chapter includes an overview of Berlin’s history, as well as its topology, identifying key districts that best reflect the city’s character. Details are provided on travel, communications, housing, crime and punishment, drug abuse, the city’s underworld, and its high culture.",
+      "Chapter 2: Uncovering Berlin containsa range oflocations of interest for investigators, from libraries and museums to cafés and nightclubs. Due to the city’s sheer size, we eschew a block-by-block description, instead highlighting locations of interest and filling in the blanks with a system for generating details of the urban landscape on the fly. Berlin’s predilection for hedonism centers on the city’s relationship with prostitution, food and drink, and cabaret. Guidelines are provided for a range of investigator contacts and the chapter concludes with details on neighborhood street encounters, all providing the Keeper with inspiration for cabarets and clubs, architectural details, and businesses. With the tools provided in this chapter, the Keeper gains an understanding of what makes Berlin unique and has the tools to bring the city to life at the gaming table.",
+      "Chapter 3: Oh! You Pretty Things details notable historical personalities to provide color and insight into the city. Whether Marlene Dietrich or Joseph Goebbels, short biographies highlight the time certain individuals lived or worked in Berlin, providing inspiration for encounters and scenarios.",
+      "Chapter 4: Strange Berlin considers how the Cthulhu Mythos festers in the dark corners and shadows of the city. A range of scenario seeds and cults ensures the Keeper has the material for creating a decade-spanning campaign of horror.",
+      "Three scenarios spanning the history of Berlin include more of Berlin’s colorful details. Each scenario may be run as stand-alone episode or linked together to form a mini-campaign.",
+      "In The Devil Eats Flies Germany teeters on the brink of economic ruin and political chaos. The ghost of a madman stalks the city, turning its own citizenry against itself. To stop a demonic spirit and save a Russian princess in exile, the investigators must strike a bargain with other sinister forces and ask themselves: who else are we prepared to see die in order to save the city?",
+      "Dances of Vice, Horror, and Ecstasy takes place in the city’s golden years, when things have become superficially stable and prosperous again. A bungling sorcerer, a debauched dancer, and a strange cult of gnostic Saturn-worshippers threaten to put all of that to an end and turn Berlin into a pit of madness and depravity.",
+      "Schreckfilm sees Berlin racing toward its grim future. The investigators come face to face with a shadowy cabal of the city’s movers and shakers who are determined to turn the city’s world-famous film industry toward ill ends. Trapped in a labyrinth of their own making and hounded relentlessly by dark forces beyond their ken, the investigators must confront the fundamental question of what is real and what is illusion.",
+      "Concluding the book is a selection of inspirational media, including books, film, and websites for those wishing to delve even deeper into the mysteries, history, and geography of Berlin."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23168 - Malleus Monstrorum - Volume I - Monsters of the Mythos",
+    "BookShortName": "Malleus Monstrorum - Volume I - Monsters of the Mythos",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23168",
+    "BookISBN": "978-1-56882-315-7",
+    "BookAuthor": "Mike Mason, Scott David Aniolowski, with Paul Fricker",
+    "BookPublished": "2020",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Malleus Monstrorum",
+    "BookFormat": "Hardback",
+    "BookSeries": "Malleus Monstrorum",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23168 - Malleus Monstrorum - Volume I - Monsters of the Mythos.pdf"
+    ],
+    "BookDescription": [
+      "From the spawn of Abhoth to yuggs, the monsters of the Mythos are herein described, their lore and statistics updated and revised for the Call of Cthulhu 7th edition game.",
+      "With over 150 entries concerning Cthulhu Mythos monsters and alien species, as well as creatures from folklore and animal beasts, this tome supplies a wealth of ideas to bring your campaigns and scenarios life with untold horrors."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23169 - Malleus Monstrorum - Volume II - Deities of the Mythos",
+    "BookShortName": "Malleus Monstrorum - Volume II - Deities of the Mythos",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23169",
+    "BookISBN": "978-1-56882-317-1",
+    "BookAuthor": "Mike Mason, Scott David Aniolowski, with Paul Fricker",
+    "BookPublished": "2020",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Malleus Monstrorum",
+    "BookFormat": "Hardback",
+    "BookSeries": "Malleus Monstrorum",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23169 - Malleus Monstrorum - Volume II - Deities of the Mythos.pdf"
+    ],
+    "BookDescription": [
+      "Fundamental truths of the cosmos herein lie, to be used to support and inspire countless adventures by bringing Cthulhu, Hastur, Azathoth, and many others to your games. With over 110 entries concerning Great Old Ones, Outer Gods, Elder Gods, Avatars, and Unique Beings, this tome supplies a plethora of ideas to immerse your campaigns and scenarios deep in the heart of Cthulhu Mythos lore.",
+      "While humanity may crave both comfort and truth, only one or the other is possible."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23145 - Alone Against the Flames",
+    "BookShortName": "Alone Against the Flames",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23145",
+    "BookISBN": "978-1-56882-435-2",
+    "BookAuthor": "Gavin Inglis",
+    "BookPublished": "2016",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Solo - Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Solo - Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23145 - Alone Against the Flames.pdf"
+    ],
+    "BookDescription": [
+      "This is a solo adventure for the Call of Cthulhu game. It is a horror story set in the 1920s where you are the main character, and your choices determine the outcome. It is also designed to lead you through the basic rules of the game in a gradual and entertaining fashion. Although most such adventures are played with your friends, this one is just for you.",
+      "Before you begin to play, make sure you have a copy of the Call of Cthulhu Seventh Edition Quick-Start Rules (download the free Call of Cthulhu Quick-Start Rules). You’ll also need a pencil, an eraser, and some roleplaying dice.",
+      "You don’t need to read the rules before you start playing. Just settle in a comfortable chair before a roaring fire. Then read on and follow the instructions.",
+      "…On second thought, don’t sit too close to the fire."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23181 - Alone Against the Static",
+    "BookShortName": "Alone Against the Static",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23181",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Solo - Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Solo - Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23181 - Alone Against the Static.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23181 - Alone Against the Static - Log Sheet.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23181 - Alone Against the Static - Investigator Sheet - Charlie.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23181 - Alone Against the Static - Investigator Sheet - Alex.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23180 - Nameless Horrors - 2nd Edition",
+    "BookShortName": "Nameless Horrors - 2nd Edition",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23180",
+    "BookISBN": "978-156882-458-1",
+    "BookAuthor": "Paul Fricker, Matt Sanderson, Scott Dorward",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Scenario",
+    "BookFormat": "Hardback",
+    "BookSeries": "Scenarios",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23180 - Nameless Horrors - 2nd Edition.pdf"
+    ],
+    "BookDescription": [
+      "The denizens of Nameless Horrors are unlike anything you’ve encountered before. Each is truly of the Cthulhu Mythos, but they come from realms unknown, and will keep even the most seasoned investigators on their toes.",
+      "<b>What's Inside</b>",
+      "Nameless Horrors contains six scenarios for Call of Cthulhu, each taking place in a different setting and time period—perfect for one-shot games, and for kicking off a new and unique campaign."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Doors to Darkness",
+    "BookShortName": "Doors to Darkness",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23148",
+    "BookISBN": "978-1-56882-437-6",
+    "BookAuthor": "Christopher Smith Adair, Glynn Owen Barrass, Brian Courtemanche, Tom Lynch, Kevin Ross, Brian M. Sammons",
+    "BookPublished": "2016",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23148 - Doors to Darkness.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23148 - Doors to Darkness - Handouts.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23148 - Doors to Darkness - Pre-generated Characters.pdf"
+    ],
+    "BookDescription": [
+      "Doors to Darkness is a collection of five scenarios for Call of Cthulhu. Explore the signature setting of 1920s New England through these tales of eldritch dread designed for brand new Keepers—if you’re new to Call of Cthulhu, this is your next step!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23178 - Call of Cthulhu - Starter Set",
+    "BookShortName": "Call of Cthulhu - Starter Set",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23178",
+    "BookISBN": "978-1-56882-463-5",
+    "BookAuthor": "Mike Mason, Paul Fricker, Lynne Hardy, Sandy Petersen, Lynn Willis",
+    "BookPublished": "2018",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Starter Set",
+    "BookFormat": "Box Set",
+    "BookSeries": "Starter Set",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23178 - Call of Cthulhu - Starter Set\\CHA23178 - Call of Cthulhu - Starter Set - Book 1 - Alone Against the Flames.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23178 - Call of Cthulhu - Starter Set\\CHA23178 - Call of Cthulhu - Starter Set - Book 2 - Introductory Rules.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23178 - Call of Cthulhu - Starter Set\\CHA23178 - Call of Cthulhu - Starter Set - Book 3 - Scenarios.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23178 - Call of Cthulhu - Starter Set\\CHA23178 - Call of Cthulhu - Starter Set - Color Character Sheet.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23178 - Call of Cthulhu - Starter Set\\CHA23178 - Call of Cthulhu - Starter Set - Greyscale Character Sheet.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23178 - Call of Cthulhu - Starter Set\\CHA23178 - Call of Cthulhu - Starter Set - Player Handouts and Character Sheets.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23178 - Call of Cthulhu - Starter Set\\CHA23178 - Call of Cthulhu - Starter Set - Player Handouts.pdf"
+    ],
+    "BookDescription": [
+      "The Call of Cthulhu Starter Set contains books, dice, premade character sheets, maps, and enough content to keep a group busy for several roleplaying sessions.",
+      "This updated Starter Set also includes:",
+      "New box art by Lin Hsiang",
+      "Updated interior book cover designs",
+      "All errata and corrections",
+      "40th Anniversary Investigator Sheets",
+      "<b>Rules & Dice</b>",
+      "Three softcover manuals broken into rules and scenarios to guide you in playing Call of Cthulhu. The box also includes all the dice you need to play the game: a D4, D6, D8, D20, Percentile D10, and an extra D10 in a different colour for use as a bonus/penalty die."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23165 - Cthulhu Dark Ages - 3rd Edition",
+    "BookShortName": "Cthulhu Dark Ages - 3rd Edition",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23165",
+    "BookISBN": "978-1-56882-421-5",
+    "BookAuthor": "Chad Bowser, Andi Newton, James Holloway, Mike Mason",
+    "BookPublished": "2020",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Expansion",
+    "BookFormat": "Hardback",
+    "BookSeries": "Dark Ages",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23165 - Cthulhu Dark Ages - 3rd Edition.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23165 - Cthulhu Dark Ages - 3rd Edition - PDF Pack.pdf"
+    ],
+    "BookDescription": [
+      "Cthulhu Dark Ages is a world lit only by fire. The ancient empires collapsed centuries ago, taking their culture and learning with them. It’s a dark world and people are right to be afraid of the dark. Apart from the Viking raiders, witches, and outlaws, there are the unquiet dead, ancient horrors, and other malevolent beings stalking the countryside. Dark entities, beyond good and evil, wait hidden in the recesses of time and the angles of space. A few brave souls try their best to resist the horrors and push them back from whence they came.",
+      "With the 3rd Edition, Cthulhu Dark Ages has been updated for Call of Cthulhu 7th Edition, completely revised and includes a wealth of new setting material. Inside you will find a player’s guide to the Dark Ages, an optional Sanity mechanic for mirroring the medieval mindset, rules for the oral tradition of storytelling and mounted combat, a grimoire of Dark Age spells plus optional rules for Folk Magic, a bestiary of monsters, as well as a fully detailed setting—the Anglo-Saxon community of Totburh in England’s Severn Valley, full of interesting characters, dwelling descriptions, and a multitude of plot hooks for Keepers to use and develop.",
+      "This new 3rd edition comes in hardback and full colour, with additional material concerning poetry and kennings, the written word, using the Oral Tradition in games, amulets, further use of Sanity in the setting, Paganism, and Norse Paganism.",
+      "Three ready-to-play scenarios introduce players to the world of Cthulhu Dark Ages, building on the tensions, characters, and horrors lurking in Toburh and the lands surrounding the community.",
+      "The Hunt—wherein a terrifying wolf is troubling the community of Totburh and must be dealt with. This short adventure provides the perfect introduction to the Dark Ages setting.",
+      "The Doom That Came to Wessex—all is not well at the Monastery of S. Swithun, with an attack leaving some of the monks dead or injured. Something foul is afoot threatening the very sanctity of the monastery.",
+      "Eseweald—Oswyn, the thegn of Totburh, is concerned about the disappearance of his son, sent on a diplomatic mission to calm tension with a neighboring community, who seems to have vanished without a trace in the dark foreboding Eseweald forest",
+      "The book is rounded out with comprehensive appendices containing a Dark Ages Glossary of historical terms, a Timeline covering 950–1054 CE, a Who’s Who of notable historical people, kings, and popes, and a bibliography of texts and sources of inspiration.",
+      "Throughout, advice and guidance on running adventures and presenting the world of the Dark Ages is provided."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23159 - Dead Light and Other Dark Turns",
+    "BookShortName": "Dead Light and Other Dark Turns",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23159",
+    "BookISBN": "978-1-56882-499-4",
+    "BookAuthor": "Alan Bligh, Matt Sanderson, Lynne Hardy, Mike Mason",
+    "BookPublished": "2020",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Encounters",
+    "BookFormat": "",
+    "BookSeries": "Encounters",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23159 - Dead Light and Other Dark Turns.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23159 - Dead Light and Other Dark Turns Handouts.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA23141 - The Grand Grimoire of Cthulhu Mythos Magic Hardcover",
+    "BookShortName": "The Grand Grimoire of Cthulhu Mythos Magic Hardcover",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23141",
+    "BookISBN": "978-1-56882-405-5",
+    "BookAuthor": "Mike Mason with Matt Sanderson",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23141 - The Grand Grimoire of Cthulhu Mythos Magic.pdf"
+    ],
+    "BookDescription": [
+      "Over 550 spells of dire consequences, secrets, and unfathomable power! Here are gathered spells drawn from over thirty years of Call of Cthulhu supplements and scenarios.",
+      "Each spell has been revised for the Call of Cthulhu 7th edition game, including optional Deeper Magic for the most powerful of Mythos sorcerers and monsters, with which to beguile and confound investigators.",
+      "Packed full of advice and guidance on diverse matters including spell names, elements of spell casting, magical components, and astronomical considerations.",
+      "Plus flawed spells, ley lines, folk magic, and the magic of the Dreamlands. Use this grimoire as a resource, a play aid, and as inspiration when designing scenarios.",
+      "The Grand Grimoire of Cthulhu Mythos Magic is an essential supplement for Keepers of Arcane Lore."
     ],
     "TableOfContents": {
       "title": "Book",
