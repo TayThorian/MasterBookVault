@@ -259,5 +259,38 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "ICE5800 - Rolemaster Fantasy Role Playing",
+    "BookShortName": "Rolemaster Fantasy Role Playing",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5800",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster Fantasy Roleplaying\\ICE5800 - Rolemaster Fantasy Role Playing.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]
