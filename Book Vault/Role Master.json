@@ -265,25 +265,28 @@
     "BookShortName": "Rolemaster Fantasy Role Playing",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5800",
-    "BookISBN": "",
+    "BookISBN": "1-55806-550-4",
     "BookAuthor": "",
-    "BookPublished": "",
+    "BookPublished": "1999",
     "BookCover": "",
-    "BookRules": "",
-    "BookEdition": "",
+    "BookRules": "Rolemaster Fantasy Role Playing",
+    "BookEdition": "RMFRP",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookSetting": "",
-    "BookType": "",
+    "BookSetting": "Rolemaster Fantasy Role Playing",
+    "BookType": "Rulebook",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Rulebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Rolemaster\\Rolemaster Fantasy Roleplaying\\ICE5800 - Rolemaster Fantasy Role Playing.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "Prepare yourself! You are about to begin your journey toward the ultimate fantasy role playing adventure! We know you have great stories to tell and fascinating characters to play. So do your fantasy justice and use the most flexible rules around: Rolemaster Fantasy Role Playing.",
+      "Why have your grand tales limited by the rules you use? Choose the system which tells your story your way. Rolemaster has been the system of choice for GMs and players for almost 20 years. They choose Rolemaster because it gives them exactly what they need for their role playing adventures. You too can now join the enlightened.",
+      "Rolemaster Fantasy Role Playing is easier than ever to understand and all you need to play the game – combat, character creation, and spell casting – can be found in the pages of this one book! Other supplements can be purchased to add as much detail or flavor as you prefer, but all the required rules are here.",
+      "Rolemaster is back and better than ever!"
     ],
     "TableOfContents": {
       "title": "Book",
