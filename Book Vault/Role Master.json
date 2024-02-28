@@ -763,9 +763,9 @@
     "BookShortName": "Construct Companion",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5815",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-602-0",
+    "BookAuthor": "Nicholas H.M. Caldwell",
+    "BookPublished": "2003",
     "BookCover": "",
     "BookRules": "Rolemaster Fantasy Role Playing",
     "BookEdition": "RMFRP",
@@ -773,9 +773,9 @@
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Rolemaster Fantasy Role Playing",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Supplement",
+    "BookFormat": "Softback & Hardback",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Rolemaster\\Rolemaster Fantasy Roleplaying\\ICE5815 - Construct Companion.pdf"
@@ -796,9 +796,9 @@
     "BookShortName": "Races & Cultures",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5816",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "1-55806-606-3",
+    "BookAuthor": "Douglas Sun",
+    "BookPublished": "2004",
     "BookCover": "",
     "BookRules": "Rolemaster Fantasy Role Playing",
     "BookEdition": "RMFRP",
@@ -806,15 +806,16 @@
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Rolemaster Fantasy Role Playing",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Supplement",
+    "BookFormat": "Softback & Hardback",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Rolemaster\\Rolemaster Fantasy Roleplaying\\ICE5816 - Races & Cultures.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "Created for RMFRP and Shadow World, the new Races & Cultures gives you everything you need to design unique, exciting and diverse characters for you Rolemaster and Shadow World adventures. Races & Cultures is divided into two main sections on races and cultures so you can mix and match! Included are all the core races as well as many humanoid (including centaurs), and fey races (like the Dwelf and the Pech).",
+      "Also included are unusual races from Creatures & Monsters, and the monster races as well"
     ],
     "TableOfContents": {
       "title": "Book",
