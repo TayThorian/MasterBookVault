@@ -70,6 +70,23 @@
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Spell Law
 - GCP-RMU-003 - Treasure Law
+- ICE5800 - Rolemaster Fantasy Role Playing
+- ICE5801 - Arms Law
+- ICE5802 - Creatures & Monsters
+- ICE5803 - Spell Law of Channeling
+- ICE5804 - Spell Law of Essence
+- ICE5805 - Spell Law of Mentalism
+- ICE5806 - Character Law
+- ICE5807 - Gamemaster Law
+- ICE5808 - School of Hard Knocks - The Skill Companion
+- ICE5809 - Channeling Companion
+- ICE5810 - Arms Law
+- ICE5811 - Treasure Companion
+- ICE5812 - Fire & Ice - The Elemental Companion
+- ICE5813 - The Armory
+- ICE5814 - Mentalism Companion
+- ICE5815 - Construct Companion
+- ICE5816 - Races & Cultures
 - GCP-SMP-4500 - Space Master Privateers
 - GCP-SMP-4511 - Robotics Manual
 - GCP-SMP-4512 - Equipment Manual
