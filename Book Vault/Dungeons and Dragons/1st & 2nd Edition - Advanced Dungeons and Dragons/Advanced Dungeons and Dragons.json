@@ -1384,7 +1384,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Rule Supplements",
@@ -1522,7 +1522,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Rule Supplements",
@@ -2295,7 +2295,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Accessory",
@@ -2329,7 +2329,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Accessory",
@@ -2924,6 +2924,152 @@
     ],
     "BookDescription": [
       "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9122 - H1 - Bloodstone Pass",
+    "BookShortName": "H1 - Bloodstone Pass",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9122",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "H Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\H Series\\TSR9122 - H1 - Bloodstone Pass.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9168 - H2 - The Mines of Bloodstone",
+    "BookShortName": "H2 - The Mines of Bloodstone",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9168",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "H Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\H Series\\TSR9168 - H2 - The Mines of Bloodstone.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9200 - H3 - The Bloodstone Wars",
+    "BookShortName": "H3 - The Bloodstone Wars",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9200",
+    "BookISBN": "0-88038-398-4",
+    "BookAuthor": "Michael Dobson & Douglas Niles",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "H Series",
+    "BookCharacterLevel": "Levels 17 - 20",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\H Series\\TSR9200 - H3 - The Bloodstone Wars.pdf"
+    ],
+    "BookDescription": [
+      "What strange role does Orcus, Prince of the Undead, play in the invasion of peace-loving Damara? And what interest does the Grandfather of Assassins have in the tiny barony of Bloodstone Pass?",
+      "With this adventure, your player characters inherit an entire barony - with a recently reopened mine that produces immense wealth. Wealth enough to attract the dangerous attention of their neighbors?wealth enough to attract the attention of the Witch-King of Vaasa?and Orcus himself!",
+      "Now, your tiny barony ias the pivotal point in a war that threatens to engulf the entire Forgotten Realms. Take command, and defend yourself against the encroachment of the evil, demonic forces of the nightmare realm of Vaasa.",
+      "Come learn why high-level AD&D game play can be much more than just monster bashing. The army of Bloodstone Pass wants you!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 2, "title": "Introduction"},
+        {"page": 5, "title": "Prologue"},
+        {"page": 6, "title": "Chapter 1 - The Barons Treasure"},
+        {"page": 10, "title": "Chapter 2 - Return of the Assassins"},
+        {"page": 17, "title": "Chapter 3 - Battles of Bloodstone"},
+        {"page": 22, "title": "Chapter 4 - The Assassin's Run"},
+        {"page": 28, "title": "Epilogue"},
+        {"page": 28, "title": "Appendix - Dramatis Personae"},
+        {"page": 30, "title": "Appendix - Pregenerated Player Characters"}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9228 - H4 - The Throne of Bloodstone",
+    "BookShortName": "H4 - The Throne of Bloodstone",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9228",
+    "BookISBN": "0-88038-560-X",
+    "BookAuthor": "Douglas Niles & Michael Dobson",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "H Series",
+    "BookCharacterLevel": "Levels 18 - 100",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\H Series\\TSR9228 - H4 - The Throne of Bloodstone.pdf",
+      "D:\\Master Vault\\ADnD\\Adventures\\H Series\\TSR9228 - H4 - The Throne of Bloodstone - Parts.pdf",
+      "D:\\Master Vault\\ADnD\\Adventures\\H Series\\TSR9228 - H4 - The Throne of Bloodstone - Composite.pdf"
+    ],
+    "BookDescription": [
+      "The battle between the mighty undead army of the Witch-King of Vaasa and the forces of Bloodstone has come to a standstill. As long as the source of the Witch-King's power is at work, his evil forces will never be defeated!",
+      "As the rulers of Bloodstone Pass, it is up to you to find and destroy the source of Vaasa's power. All you have to do is journey to the Abyss, confront the mightiest demon of all, steal the Wand of Orcus, and take it to the Seven Heavens to be destroyed.",
+      "The Throne of Bloodstone is the fourth and final instalment in a series of modules specially designed for high-level characters. While it is not necessary to have played any of the three previous modules, The Throne of Bloodstone is the climax of an epic struggle for a kingdom against the forces of darkest evil. Recommended for characters of levels 18-100, The Throne of Bloodstone is the highest-level adventure ever published by TSR!"
     ],
     "TableOfContents": {
       "title": "Book",

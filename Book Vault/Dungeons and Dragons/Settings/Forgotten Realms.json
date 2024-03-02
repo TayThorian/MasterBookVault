@@ -583,7 +583,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "To Source",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Adventure",
@@ -804,7 +804,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "1st Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
@@ -838,7 +838,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
@@ -875,7 +875,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
@@ -957,7 +957,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Adventure",
@@ -1038,7 +1038,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
@@ -1046,7 +1046,8 @@
     "BookSeries": "FRS Series",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9392 - FRS1 - The Dalelands.pdf"
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9392 - FRS1 - The Dalelands.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9392 - FRS1 - The Dalelands - Poster Map.pdf"
     ],
     "BookDescription": [
       "Between Cormyr and the Moonsea lie the beautiful forests and fields of the Dalelands, home to some of the most powerful characters and exciting adventures in the Heartlands. Proud and free, these scattered realms stand against the dark evil of Zhentil Keep and the savage raiders of the mountains and forests. Ancient magic lies buried in dangerous ruins within the vast Elven Woods, waiting for the hand bold enough to seize it.",
@@ -1538,7 +1539,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Adventure",
@@ -1646,7 +1647,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "1st Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
@@ -1903,7 +1904,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Campaign Expansion",
@@ -2509,7 +2510,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
@@ -2578,7 +2579,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
@@ -2618,7 +2619,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
@@ -2653,7 +2654,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
@@ -2689,7 +2690,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
@@ -2760,7 +2761,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
@@ -2775,6 +2776,670 @@
       "Prepare to shop the fabulous markets fo Durpar, break bread at the bakeries of Luiren, or see the horse fairs of Dambrath. The lucky among you might even catch a glimpse of a Halruan skyship, floating through the skies above the Great Sea, or witness the breathtaking, seemingly choreographed Dance of the Dolphins.",
       "This sourcebook contains the necessary gaming information for a Forgotten Realms campaign to expand into the countries collectively know as the Shining South.",
       "This accessory is suitable for use by all levels of play."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9333 - FMA1 - Fires of Zatal",
+    "BookShortName": "Fires of Zatal",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9333",
+    "BookISBN": "1-56076-139-3",
+    "BookAuthor": "Jeff Grubb, Tim Beach",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Maztica Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9333 - FMA1 - Fires of Zatal.pdf"
+    ],
+    "BookDescription": [
+      "On the Night of Wailing, when the creatures of Viperhand come to life, when the great Maztican gods Qotal and Zaltec battled, the great Cloak of One Plume - a magical item of great power and a token of great authority - was believed lost forever.",
+      "Such was not the case.",
+      "Rumors fly that the Cloak was rescued that night, and hidden away in a safe location. Now a petty noble of New Amn plans to recover it, and is looking for brave young souls who can bring it back to him. But other players are invovled in the chase, trying to recover the lost Cloak.",
+      "Fires of Zatal spans the great continent of Maztica from the new colony of Helmsport to the Valley of Nexal, at the foot of Mt. Zatal itself. It is the first adventure for the new Maztica campaign setting in the Realms; DMs wishing to run this need the Maztica Campaign Boxed Set. This module serves as an introduction to this new world of adventure, a land of wise and savage empires and growing, monstrous threats.",
+      "Welcome to Maztica. This is not the Realms you're familiar with!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9340 - FMA2 - Endless Armies",
+    "BookShortName": "FMA2 - Endless Armies",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9340",
+    "BookISBN": "1-56076-146-6",
+    "BookAuthor": "Jeff Grubb",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Maztica Series",
+    "BookCharacterLevel": "Levels 4 - 6",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9340 - FMA2 - Endless Armies.pdf"
+    ],
+    "BookDescription": [
+      "The second adventure set in the land of Maztica. A plague of giant army ants threatens to annihilate the peaceful jungle kingdom of Payit. Can the heroes stop the army long enough to break the magical force that impels the deadly insects? Includes Battlesystems rules scenarios for use in the New World as wall as role-playing adventures.",
+      "Deep within the heart of the jungles of Far Payit is a city lost to time and the modern people of Maztica. Long ago abandoned by its people, it holds a deadly secret deep beneath its ruined surface, a secret held safe by a tribe of inhuman guardians.",
+      "A secret that has remained inviolate until now.",
+      "A cleric of the church of Helm has disappeared. A piece of a map to the lost city of Ixtul has been found. Great armies of ants perform deadly assassinations. And in the jungle, a new leader has appeared, promising power to those who follow her into the forbidden vale.",
+      "Now the heroes must follow as well, to uncloak the mystery and prevent the unleashing of a deadly force on the surface world of Maztica, a force that threatens both people of Payit and the newcomers' civilization in Helmsport. Should the heroes fail to defeat the endless armies of their foe, all in Maztica will perish!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9349 - FMQ1 - City of Gold",
+    "BookShortName": "FMQ1 - City of Gold",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9349",
+    "BookISBN": "1-56076-322-1",
+    "BookAuthor": "John Nephew, Jonathan Tweet",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Maztica Series",
+    "BookCharacterLevel": "All",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9349 - FMQ1 - City of Gold.pdf"
+    ],
+    "BookDescription": [
+      "Somewhere in the True World, to the north of the lands you know, lies the City of Gold: Michaca. It is a city of legend, of fable, and of wonder. The journey is hard, and the perils are many; you know, however, that the rewards will far outshine any treasure you have ever seen.",
+      "This supplement for the Maztica Campaign setting is a new type of product: a combination adventure and accessory. In this booklet you will find information on a new character race, the Azuposi; on new character classes for rogues, including the clown (or koyemshis); on new priest classes, including the \"bent priest\"; and a new magic unique to Maztica, fetishism.",
+      "The adventure itself leads your party from the known areas of the True World into the northlands, through the lands of the desert dwarves, the Poscadar elves, the Dog People, and others. Your characters will deal with desert hardships they have never endured before. They will also confront spirits they've never heard of; the spirits that have caused the downfall of Michaca, the City of Gold.",
+      "And do not forget the words of a poet of another place, and another time: \"Nor all that tempts your wand'ring eyes / And heedless hearts, is lawful prize; / Nor all, that glisters, gold.\""
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9444 - Marco Volo Departure",
+    "BookShortName": "Marco Volo Departure",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9444",
+    "BookISBN": "1-56076-848-7",
+    "BookAuthor": "Anthony Pryor",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Marco Volo Series",
+    "BookCharacterLevel": "Levels 6 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9444 - Marco Volo Departure.pdf"
+    ],
+    "BookDescription": [
+      "Marco Volo: Departure is the first volume of the Marco Volo trilogy, designed for four to eight player characters of levels 6 to 8. This free-wheeling adventure begins with an intrigue-laden journey from Waterdeep to Shadowdale. The party is thrown into the company of one Marcus Wands (also known as \"Marco Volo\"), a bothersome but likeable little rogue. In his guise of Marco, he gains unintentional help from the party members, leading only to their own arrest. To remedy that predicament, the characters are strong-armed into carrying an important letter to Shadowdale, and taking along Marcus as their \"guide.\"",
+      "Of course, things are nowhere near as simple as they seem.",
+      "There's this little matter of the Dragonking's Eye, a powerful artifact from another plane. Naively, Marcus thought he could steal the thing and pin the theft on Volothamp Geddarm, the roguish author of many popular books about cities in the Realms. The notorious mage-assassin Felibarr Blacklance has been hired to hunt for the thief, and he is a man grimly determined to earn his fee.",
+      "Then, there's the business about this letter that's on its way to Shadowdale. It is accompanied by a rare enchanted item that wizards and fortune hunters want to obtain at all costs.",
+      "A series of adventures ensues that takes the adventurers from Waterdeep to the Way Inn, by which time they will doubtless suspect there is more to Marco Volo than meets the eye. Amid the brawls and mistaken identities, the wild rides and the glowering villains, the characters never have a chance to slow down or catch their collective breath. What results is a light-hearted, picaresque adventure in the manner ofDumas and Sabatini, and a good time is had by all!",
+      "(Except the bad guys, of course. They're never happy with how things are turning out...)"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9450 - Marco Volo Journey",
+    "BookShortName": "Marco Volo Journey",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9450",
+    "BookISBN": "1-56076-869-X",
+    "BookAuthor": "Anthony Pryor",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Marco Volo Series",
+    "BookCharacterLevel": "Levels 6 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9450 - Marco Volo Journey.pdf"
+    ],
+    "BookDescription": [
+      "Marco Volo - Journey is the second volume of the Marco Volo trilogy, designed for four to eight player characters of 6th to 8th level. This free-wheeling adventure began in Waterdeep as the characters set out on an intrgiue-laden journey to Shadwodale. Accompanying them is Marcus Wands (also known as \"Marco Volo\"), a bothersome but likeable little rogue.",
+      "After leaving the Way Inn, the party heads for the Chauntean Monastery near Berdusk, where they have been promised safe shelter. Arrinving at the monastery. all seems pastoral and pleasant...but of course, things are never quite that simple.",
+      "After escaping from the monastery, the PCs run afoul of King Azoun's Purple Dragons on the lookout for the infamous thief, Marco Volo. Only the timely intervention of a band of wandering entertainers enables the party to continue on its way.",
+      "While on the road with Heino's Woodland Troupe, the characters learn the joys of being in a traveling repertory company, performing for a different audience each night. In the course of the adventure, the PCs also learn more about Marcus and his secrets - some of his secrets, anyway. There's still the matter of the mysterious letter, and that powerful artifact from another plane, the Dragonking's Eye.",
+      "The adventure ends with Shadowdale in sight not to be reached, however, without a final confrontation with the notorious mage-assassin Felibarr Blacklance.",
+      "This volume of the Marco Volo trilogy offers DMs the opportunity to run unusual encounters, and it calls for considerable role playing from all. Player characters cannot easily rely on their swords and spells to get them out of the brawls and misunderstandings that arise. What results is a dramatic but picaresque enterprise as the adventure continues!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9455 - Marco Volo Arrival",
+    "BookShortName": "Marco Volo Arrival",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9455",
+    "BookISBN": "1-56076-890-8",
+    "BookAuthor": "Anthony Pryor",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Marco Volo Series",
+    "BookCharacterLevel": "Levels 6 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9455 - Marco Volo Arrival.pdf"
+    ],
+    "BookDescription": [
+      "Marco Volo - Arrival is the last volume of the Marco Volo trilogy, designed for four to eight player characters of 6th to 8th level. When the characters first set off on an intrigue-laden journey to Shadowdale, they did not suspect how much trouble they would get into. Joined by Marcus Wands (also known as Marco Volo), they found him just a bothersome but likeable little rogue. No one suspected he was on the run from the crazy wizard Sabbar. The troublesome Marcus had previously stolen from him a rare artifact called the Dragonking's Eye, and hid it in the Spiderhaunt Woods.",
+      "Now the party approaches the Spiderhaunts, and Marcus insists on diverting the group to retrive the Eye. But strangethings have been happening there. There are rumors of an oddly constructed keep of bone (or is it crystal?): of a warlord out for conquest (or is it a lich?); of goblin tribes strangely clad, an extra-planar beings banding with the giant spiders of the aptly named Spiderhaunt Woods. Something evil has denned at the heart of the forest. It has a mind of its own...and it has plans for Faerun.",
+      "The last volume of the Marco Volo trilogy gives a DM tools to run this free-wheeling, fast-paced adventure, and the secrets of the powers at work behind the scenes. The player characters must face - and deal with - the mad wizard Sabbar, the annoyed Volothamp Geddarm (who wants to have \"a little chat\" with Marcus!), and ultimately the Dragonking's Eye itself. Even the gods themselves step in to have their say. In a dramatic denouement, this epic adventure draws to a close, but the memory of what transpired will live on!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9410 - Cormyr",
+    "BookShortName": "Cormyr",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9410",
+    "BookISBN": "1-56076-818-5",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Other Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9410 - Cormyr.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1111 - Elminster's Ecologies",
+    "BookShortName": "Elminster's Ecologies",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1111",
+    "BookISBN": "1-56076-917-3",
+    "BookAuthor": "Rick Swan, Monte Cook, Eric Haddock, Anthony Pryor",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Elminster’s Ecologies",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - Anauroch.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - Coastal Aquatic Lands.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - Cormanthor.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - Explorers Manual.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - The Cormyrean Marshes.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - The Great Gray Land o fThar.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - The Settled Lands.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - The Stone lands and the Goblin.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - The Thunder Peaks and the Storm Horns.pdf"
+    ],
+    "BookDescription": [
+      "The world is vast and varied, comprising towering mountains, dense jungles, and sprawling seas. There are regions so cold that their snow never melts, others so hot that their rain turns to steam as it touches the ground.",
+      "It is this variety of environments that accounts for the variety of life. In my travels I have noted 73 distinct types of pine trees?I estimate the number of fishes at well over five thousand. The number of insect species likely exceeds the number of grains of sand on the shores of Dragon Reach.",
+      "Every environment, no matter how hostile to humankind, is compatible with some form of life. The diversity and adaptability of organisms are staggering?.",
+      "-Elminster of Shadowdale",
+      "Within this set are nine booklets. Eight of them, each written by and expert in the area, describe various ecological niches on the continent of Faerun. Begin by reading the Explorer's Manual, which:",
+      "ntroduces the reader to the organization of the eight area-specific booklets",
+      "contains the whole of the above excerpt from Elminster's work-in-progress about Realmsian biodiversity",
+      "Provides color-coded encounter tables for the eight other booklets along with instructions for their use.",
+      "Would-be travelers are advised to read well the information presented by the Sage of Shadowdale and his eight compatriots, and to memorize the Rules of the Rabbit. There are only three: A rabbit isn't always a rabbit. A rabbit doesn't want to be rich. A rabbit doesn't always stay put. An explanation? You'll find it in the Explorer's Manual. Read on, thou hearty adventurer!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9489 - Elminster's Ecologies Appendix I - The Battle of Bones and Hill of Lost Souls",
+    "BookShortName": "Elminster's Ecologies Appendix I - The Battle of Bones and Hill of Lost Souls",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9489",
+    "BookISBN": "0-78690-115-2",
+    "BookAuthor": "Scott Davis, Donald J. Bingle",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Paperback",
+    "BookSeries": "Elminster’s Ecologies",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9489 - Elminster's Ecologies Appendix I - The Battle of Bones and Hill of Lost Souls - Book One.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9489 - Elminster's Ecologies Appendix I - The Battle of Bones and Hill of Lost Souls - Book Two.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9489 - Elminster's Ecologies Appendix I - The Battle of Bones and Hill of Lost Souls - Book Three.pdf"
+    ],
+    "BookDescription": [
+      "Ask the average dull peasant when and where the Battle of Bones took place and likely he will scratch his head and stammer that it was in the year 1090 Dale Reckoning, at a battlefield bordering on the southwest edge of Anauroch, the Secret Desert. And that afterwards, the humans and their allies camped on the slopes of the Hill of Lost Souls, which has since been abandoned to all but the spirits of the fallen.",
+      "As if great wars erupted full-blown and ceased again in an instant's time! As if the places so named has no meaning before or after their enrolment in the savage carnage and waste we call war!",
+      "So begin Rolanda Invenweigh's and Thamn Greenwinter's treatises on the regions surrounding these two famous sites. These individuals were hand-picked by Elminster himself to share everything they know about these two places, revealing tidbits of information about the land itself and its inhabitants today - information that just might save the life of an adventurer or two.",
+      "Between these covers are expansion booklets for the Elminster's Ecologies series, containing:",
+      "ecological features of The Battle of Bones region,",
+      "the Hill of Souls region, and",
+      "a complete set of encounter charts",
+      "These materials follow the same format as the original Elminster's Ecologies boxed set and mesh with it perfectly. Elminster himself has even thrown in a few personal notes. So read on, traveler, and learn all the secrets of these mysterious locales!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9490 - Elminster's Ecologies Appendix II - The High Moor & The Serpent Hills",
+    "BookShortName": "Elminster's Ecologies Appendix II - The High Moor & The Serpent Hills",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9490",
+    "BookISBN": "0-78690-171-3",
+    "BookAuthor": "Tim Beach",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Expansion",
+    "BookFormat": "Paperback",
+    "BookSeries": "Elminster’s Ecologies",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9490 - Elminster's Ecologies Appendix II - The High Moor & The Serpent Hills - Book One.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9490 - Elminster's Ecologies Appendix II - The High Moor & The Serpent Hills - Book Two.pdf",
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9490 - Elminster's Ecologies Appendix II - The High Moor & The Serpent Hills - Book Three.pdf"
+    ],
+    "BookDescription": [
+      "An excerpt from A Treatise on the Life of the High Moor by the druid Bara:",
+      "The environment includes such things as terrain, flora, fauna, weather, and natural and arcane forces. All these elements - each aspect of the environment and each organism - form a tapestry known as the ecology. And like a tapestry of cloth, this one can suffer severe damage if a single thread is removed, no matter how ugly the thread.",
+      "This appendix includes two booklets penned by friends of Elminster of Shadowdale. Collected here are:",
+      "a 32-page booklet containing the words of the inimitable Bara, feisty druid of the High Moor, describing the ecology of that region;",
+      "a 32-page booklet by the Lark of Suzail that gives her descriptions of the slithering inhabitants of the Serpent Hills; and",
+      "a brief booklet of tables to aid the Dungeon Master in determining random encounters for adventurers whose travels take them through these areas.",
+      "Those planning to explore these regions would be well advised to read the works herein to prepare themselves for the reptilian dangers of the Serpent Hills and the hazards of the High Moor - from the beasts to its protective druid herself!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9544 - Castle Spulzeer",
+    "BookShortName": "Castle Spulzeer",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9544",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Other Adventures",
+    "BookCharacterLevel": "Levels 8 - 12",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9544 - Castle Spulzeer.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9531 - Four From Cormyr",
+    "BookShortName": "Four From Cormyr",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9531",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Other Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9531 - Four From Cormyr.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9574 - For Duty & Deity",
+    "BookShortName": "For Duty & Deity",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9574",
+    "BookISBN": "0-7869-1234-0",
+    "BookAuthor": "Dale Donovan",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Other Adventures",
+    "BookCharacterLevel": "Levels 10 - 12",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9574 - For Duty & Deity.pdf"
+    ],
+    "BookDescription": [
+      "For over a decade, mystery has surrounded the fate of the lost goddess of trade and wealth, Waukeen. The Golden Lady disappeared during the Time of Troubles and has not been heard from since. Now, in Marpenoth in the Year of the Tankard (1370 DR), a young prophet suffers from disturbing, divine visions that reveal a beautiful, golden-tressed woman imprisoned on a far plane of existence by some great evil.",
+      "The leader of Waukeen's church believes that these visions mean Waukeen is alive but trapped in the deadly and dangerous Abyss. A party of adventurers is dedicated to peeling back the mystery of the Golden Lady's fate. Their route takes them to the plane-spanning Infinite Staircase and beyond, to the Abyss, the home of the demonic tanar'ri. The heroes must brave the dangers of the Abyss and rescue the lost goddess from the clutches of one of the most brilliant and dangerous of all Abyssal lords.",
+      "This stand-alone adventure was developed in concert with the Planescape adventure anthology Tales from the Infinite Staircase. They can be played separately. However, guidelines within both allow a Dungeon Master to use either product as a subplot for the other, creating new opportunities for player characters and extending the opportunity for adventure."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR11337 - The Accursed Tower",
+    "BookShortName": "The Accursed Tower",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11337",
+    "BookISBN": "0-78691-337-1",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Other Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR11337 - The Accursed Tower.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR11622 - The Dungeon of Death",
+    "BookShortName": "The Dungeon of Death",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11622",
+    "BookISBN": "0-7869-1622-2",
+    "BookAuthor": "Jason Carl",
+    "BookPublished": "2000",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Dungeon Crawl Series",
+    "BookCharacterLevel": "Levels 7 - 9",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR11622 - The Dungeon of Death.pdf"
+    ],
+    "BookDescription": [
+      "The Dungeon of Death: Who says there's no truth in advertising?",
+      "Cryptic rumours spread across the far North, sparking new interest in a shadow-haunted ruin. Although it was once a seat of ancient dwarven power, centuries of unspeakable evil have transformed this former gem mine into the demon-infested, trap-filled Dungeon of Death. Its name is well deserved - unwary visitors fall victim either to the ravenous fiends that reside within the dungeon or to the insidious Shadow Curse that pervades the place. Inside lies a gruelling challenge of skill and courage that only the bravest and most experienced heroes will survive.",
+      "A deadly dungeon crawl set in the heart of one of the most dangerous and mysterious locales in the Forgotten Realms setting, this stand-alone adventure easily fits within an existing Forgotten Realms campaign, and it can also be incorporated into any other AD&D campaign world with minor modifications. The adventure is for mid-level (5th-9th) characters, which are in high demand by loyal D&D players.",
+      "For the first time, D&D players will have access to one of the most mysterious locales from the 1st ed. Forgotten Realms campaign setting. The Dungeon of Death features an elaborate array of tricks, traps, and monsters sure to challenge any party."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9281 - FRA1 - Storm Riders",
+    "BookShortName": "FRA1 - Storm Riders",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9281",
+    "BookISBN": "0-88038-834-X",
+    "BookAuthor": "Troy Denning",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Empire Series",
+    "BookCharacterLevel": "Levels 5 - 7",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9281 - FRA1 - Storm Riders.pdf"
+    ],
+    "BookDescription": [
+      "The Horde is riding!",
+      "The mountains rumble under the thundering hoofbeats of 40,000 barbaric horsemen. When the player characters find themselves in their path they have no choice except to flee.",
+      "Their journey takes them into the forbidden Kingdom of Ra-Khati, a land of ancient mysteries and untold wealth nestled deep within the Katakoro Mountains. As honoured guests they are invited to partake of its extravagance. Wealth, power, romance - anything can be theirs for the asking. That is, anything short of their freedom!",
+      "But when invaders threaten the Hidden Kingdom, the PC's are given a chance to earn their liberty. They are charged with escorting a spoiled princess and her dowry, a ferocious black stallion, to a nearby kingdom as a bribe to stop a war. Nothing stands in their way except 40,000 bloodthirsty riders and a vengeful purple dragon.",
+      "Storm Riders is the first adventure in the Empires Adventures Trilogy, and the first adventure taking place in the new Forgotten Realms campaign world territories described in The Horde campaign set. The Empires Adventures Trilogy is also set amidst the turbulent events portrayed in the Empires Novel Trilogy. Look for the Sequels, The Black Courser and Blood Charge"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9290 - FRA2 - Black Courser",
+    "BookShortName": "FRA2 - Black Courser",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9290",
+    "BookISBN": "0-88038-858-7",
+    "BookAuthor": "Troy Denning",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Empire Series",
+    "BookCharacterLevel": "Levels 6 - 9",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9290 - FRA2 - Black Courser.pdf"
+    ],
+    "BookDescription": [
+      "The Purple Dragon is caged!",
+      "But Ra-Khati isn't out of danger. The evil Raja Ambuchar Devayam is holding the Dalai Lama to his promise. If the player-characters don't deliver Princess Bhrokiti and the Black Courser to him - and even if they do - the Raja's foul army will once again march on the Hidden Kingdom. What is it that Devayam really wants with Ra-Khati.",
+      "Only your PCs can discover the awful truth. When they do, their journey will take them to the farthest reaches of Shou Lung. Providing they can escape the diabolic assassin sent to stop them, they will find the lost city of Kuo Meilan. There they must penetrate to the lost city's wicked heart and find the Stone Sceptre of Shih. Only armed with this artifact, and the secret connecting it to Ambuchar Devayam, can they hope to save Ra-Khati - or themselves!",
+      "The Black Courser is the second adventure in the Empires Adventures Trilogy, taking place in the new Forgotten Realms campaign world territories described in The Horde campaign set. The Empires Adventures Trilogy is also set amidst the turbulent events portrayed in the Empires Novel Trilogy. This module can be played as a separate, stand-alone module or as a follow-up to Storm Riders."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9304 - FRA3 - Blood Charge",
+    "BookShortName": "FRA3 - Blood Charge",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9304",
+    "BookISBN": "0-88038-889-7",
+    "BookAuthor": "Troy Denning",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Empire Series",
+    "BookCharacterLevel": "Levels 7 - 10",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9304 - FRA3 - Blood Charge.pdf"
+    ],
+    "BookDescription": [
+      "The Stone Sceptre has been recovered! But will it be enough to stop the Raja of Solon? Ambuchar Devayam has massed 10,000 zombies on Ra-Khati's border. Only Gaumahavi, the Great Dragon of the Purple Wastes, stands between him and the Hidden Kingdom. Yet even she cannot face Ambuchar alone, for the evil raja has recovered an archaic Imaskari relic that renders him invincible",
+      "If Ra-Khati is to be saved and the player characters are to escape the raja's curse, Ambuchar Devayam must be stopped. But how? The player characters' search for a solution will embroil them in Tulgan politics, lure them to the Red Mountain Monastery's forbidden halls, and lead them into ancient Solon itself, where Ambuchar's slaves - both living and undead - toil to make him even more dangerous.",
+      "Blood Charge is the third adventure in the Empires Adventure Trilogy, taking place in The Forgotten Realms campaign world territories described in The Horde campaign set. The Empires Adventures Trilogy is set amidst the turbulent events portrayed in the Empires Novel Trilogy. This adventure is designed for four to eight player characters of levels 7-10."
     ],
     "TableOfContents": {
       "title": "Book",
