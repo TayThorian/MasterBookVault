@@ -152,8 +152,41 @@
     }
   } ,
   {
-    "BookName": "ICE1200 - Spell Law",
+    "BookName": "ICE1200 - Spell Law [1989]",
     "BookShortName": "Spell Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1200",
+    "BookISBN": "1-55806-092-8",
+    "BookAuthor": "",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1200 - Spell Law [1989].pdf"
+    ],
+    "BookDescription": [
+      "Spell Law is the highly acclaimed magic system and serves as one of the three corner stones of the Rolemaster system."
+    ],
+    "TableOfContents": {
+      "title": "Spell Law",
+      "chapters": [
+        {"page": 1, "title": ""},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1200 - Spell Law [1984]",
+    "BookShortName": "Spell Law [1984]",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE1200",
     "BookISBN": "0-915795-01-9",
@@ -166,24 +199,24 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Rolemaster",
-    "BookType": "Rules",
-    "BookFormat": "",
-    "BookSeries": "Rules",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1200 - Spell Law.pdf"
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1200 - Spell Law [1984].pdf"
     ],
     "BookDescription": [
-      "SPELL LAW is now a single mighty tome, including over 2000 spell descriptions for three realms of power, covering 15 character classes; detailed alchemy rules; individual spell attack tables; and rules for the use of magic items a campaign."
+      "No description available."
     ],
     "TableOfContents": {
-      "title": "Spell Law",
+      "title": "Book",
       "chapters": [
-        {"page": 1, "title": ""},
+        {"page": 1, "title": "TOC TO BE DONE"},
         {"page": 2, "title": ""}
         ]    
     }
-  } ,
+  },
   {
     "BookName": "ICE1110 - War Law",
     "BookShortName": "War Law",
@@ -816,6 +849,1063 @@
     "BookDescription": [
       "Created for RMFRP and Shadow World, the new Races & Cultures gives you everything you need to design unique, exciting and diverse characters for you Rolemaster and Shadow World adventures. Races & Cultures is divided into two main sections on races and cultures so you can mix and match! Included are all the core races as well as many humanoid (including centaurs), and fey races (like the Dwelf and the Pech).",
       "Also included are unusual races from Creatures & Monsters, and the monster races as well"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1100 - Arms Law & Claw Law [1984]",
+    "BookShortName": "Arms Law & Claw Law [1984]",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1100",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1100 - Arms Law & Claw Law [1984].pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1100 - Arms Law & Claw Law [1989]",
+    "BookShortName": "Arms Law & Claw Law [1989]",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1100",
+    "BookISBN": "1-55806-090-1",
+    "BookAuthor": "",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1100 - Arms Law & Claw Law [1989].pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1600 - Rolemaster Companion II",
+    "BookShortName": "Rolemaster Companion II",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1600",
+    "BookISBN": "0-915795-97-3",
+    "BookAuthor": "M. Carlyle, A. Ridley, S. Khanna",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1600 - Companion II.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1700 - Rolemaster Companion III",
+    "BookShortName": "Rolemaster Companion III",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1700",
+    "BookISBN": "1-55806-050-2",
+    "BookAuthor": "",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1700 - Companion III.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1800 - Rolemaster Companion IV",
+    "BookShortName": "Rolemaster Companion IV",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1800",
+    "BookISBN": "1-55806-127-4",
+    "BookAuthor": "",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1800 - Companion IV.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1900 - Rolemaster Companion V",
+    "BookShortName": "Rolemaster Companion V",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1900",
+    "BookISBN": "1-55806-145-2",
+    "BookAuthor": "",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1900 - Companion V.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1901 - Rolemaster Companion VI",
+    "BookShortName": "Rolemaster Companion VI",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1901",
+    "BookISBN": "1-55806-164-9",
+    "BookAuthor": "A. Anderson",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1901 - Companion VI.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1902 - Rolemaster Companion VII",
+    "BookShortName": "Rolemaster Companion VII",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1902",
+    "BookISBN": "1-55806-185-1",
+    "BookAuthor": "",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1902 - Companion VII.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1130 - Sea Law",
+    "BookShortName": "Sea Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1130",
+    "BookISBN": "1-55806-202-5",
+    "BookAuthor": "W. Van Horn",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1130 - Sea Law.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1305 - Arabian Nights",
+    "BookShortName": "Arabian Nights",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1305",
+    "BookISBN": "1-55806-209-2",
+    "BookAuthor": "James L. Cambias",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1305 - Arabian Nights.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1120 - Arms Companion",
+    "BookShortName": "Arms Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1120",
+    "BookISBN": "1-55806-180-0",
+    "BookAuthor": "S. Berenburg",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1120 - Arms Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1304 - At Rapier's Point",
+    "BookShortName": "At Rapier's Point",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1304",
+    "BookISBN": "1-55806-189-4",
+    "BookAuthor": "Kevin Scrivner",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1304 - At Rapier's Point.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1400 - Creatures & Treasures",
+    "BookShortName": "Creatures & Treasures",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1400",
+    "BookISBN": "0-915795-30-2",
+    "BookAuthor": "",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1400 - Creatures & Treasures.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1410 - Creatures & Treasures II",
+    "BookShortName": "Creatures & Treasures II",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1410",
+    "BookISBN": "1-55806-079-0",
+    "BookAuthor": "Monte Cook",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1410 - Creatures & Treasures II.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1430 - Creatures & Treasures III",
+    "BookShortName": "Creatures & Treasures III",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1430",
+    "BookISBN": "1-55806-200-9",
+    "BookAuthor": "John A. Schmidt, Susan Schmidt, Don Mappin",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1430 - Creatures & Treasures III.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1300 - Character Law & Campaign Law [1985]",
+    "BookShortName": "Character Law & Campaign Law [1985]",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1300",
+    "BookISBN": "0-915795-03-5",
+    "BookAuthor": "",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1300 - Character Law & Campaign Law [1985].pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1300 - Character Law & Campaign Law [1989]",
+    "BookShortName": "Character Law & Campaign Law [1989]",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1300",
+    "BookISBN": "1-55806-093-6",
+    "BookAuthor": "",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1300 - Character Law & Campaign Law [1989].pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1030 - Vikings",
+    "BookShortName": "Vikings",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1030",
+    "BookISBN": "1-55806-047-2",
+    "BookAuthor": "L. Gold",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1030 - Vikings.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1050 - Mythic Egypt",
+    "BookShortName": "Mythic Egypt",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1050",
+    "BookISBN": "1-55806-131-2",
+    "BookAuthor": "Earl Wajenburg",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1050 - Mythic Egypt.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1040 - Pirates",
+    "BookShortName": "Pirates",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1040",
+    "BookISBN": "1-55806-085-5",
+    "BookAuthor": "G. Palmer",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1040 - Pirates.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1301 - Dark Space",
+    "BookShortName": "Dark Space",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1301",
+    "BookISBN": "1-55806-140-1",
+    "BookAuthor": "Monte Cook",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1301 - Dark Space.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1302 - Outlaw",
+    "BookShortName": "Outlaw",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1302",
+    "BookISBN": "1-55806-147-9",
+    "BookAuthor": "M. Forbeck",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1302 - Outlaw.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1303 - Time Riders",
+    "BookShortName": "Time Riders",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1303",
+    "BookISBN": "1-55806-162-2",
+    "BookAuthor": "Earl Wajenberg",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1303 - Time Riders.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1010 - Robin Hood",
+    "BookShortName": "Robin Hood",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1010",
+    "BookISBN": "0-915795-28-0",
+    "BookAuthor": "Graham Staplehurst",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1010 - Robin Hood.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1020 - Mythic Greece",
+    "BookShortName": "Mythic Greece",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1020",
+    "BookISBN": "1-55806-002-2",
+    "BookAuthor": "",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1020 - Mythic Greece.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1420 - Heroes and Rogues",
+    "BookShortName": "Heroes and Rogues",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1420",
+    "BookISBN": "1-55806-141-X",
+    "BookAuthor": "Troy Christensen",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1420 - Heroes and Rogues.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1530 - Alchemy Companion",
+    "BookShortName": "Alchemy Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1530",
+    "BookISBN": "1-55806-161-4",
+    "BookAuthor": "T. Taylor",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1530 - Alchemy Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1520 - Spell User's Companion",
+    "BookShortName": "Spell User's Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1520",
+    "BookISBN": "1-55806-149-5",
+    "BookAuthor": "",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1520 - Spell User's Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1540 - Oriental Companion",
+    "BookShortName": "Oriental Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1540",
+    "BookISBN": "1-55806-175-4",
+    "BookAuthor": "Alex Bund",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1540 - Oriental Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1500 - Rolemaster Companion",
+    "BookShortName": "Rolemaster Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1500",
+    "BookISBN": "0-915795-12-4",
+    "BookAuthor": "M. Colborn",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1500 - Rolemaster Companion I.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1001 - Rolemaster Combat Screen",
+    "BookShortName": "Rolemaster Combat Screen",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1001",
+    "BookISBN": "0-915795-13-2",
+    "BookAuthor": "",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Play Aid",
+    "BookFormat": "Softback & Hardback",
+    "BookSeries": "Play Aids",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1001 - Rolemaster Combat Screen [1984].pdf",
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1001 - Rolemaster Combat Screen [1989].pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE1002 - Rolemaster Character Records",
+    "BookShortName": "Rolemaster Character Records",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1002",
+    "BookISBN": "1-55806-137-1",
+    "BookAuthor": "",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Rolemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Play Aid",
+    "BookFormat": "Softback",
+    "BookSeries": "Play Aids",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 2nd Edition\\ICE1002 - Rolemaster Character Records.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
     ],
     "TableOfContents": {
       "title": "Book",

@@ -38,7 +38,7 @@
     "BookShortName": "Moria - Through the Doors of Durin",
     "BookPublisher": "Free League Publishing",
     "BookCode": "",
-    "BookISBN": "",
+    "BookISBN": "978-91-89765-47-4",
     "BookAuthor": "Gareth Hanrahan",
     "BookPublished": "2024",
     "BookCover": "",
@@ -53,7 +53,7 @@
     "BookSeries": "Campaign Modules",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\Master Vault\\"
+      "D:\\Master Vault\\The One Ring\\Moria - Through the Doors of Durin.pdf"
     ],
     "BookDescription": [
       "No description available."
@@ -845,7 +845,7 @@
     "BookCover": "",
     "BookRules": "The One Ring",
     "BookEdition": "1st Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "Yes",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "The One Ring",
