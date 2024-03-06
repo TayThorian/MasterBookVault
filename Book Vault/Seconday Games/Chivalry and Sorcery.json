@@ -1,0 +1,76 @@
+[
+  {
+    "BookName": "BGD7000 - Chivalry & Sorcery",
+    "BookShortName": "Chivalry & Sorcery",
+    "BookPublisher": "Brittannia Game Designs Ltd",
+    "BookCode": "BGD7000",
+    "BookISBN": "978-1-902500-22-5",
+    "BookAuthor": "Turner, Tiffany, Staples, Speirs, Cowley, Blewitt",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Chivalry & Sorcery",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Chivalry & Sorcery",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Chivalry and Sorcery\\BGD7000 - Chivalry & Sorcery.pdf",
+      "D:\\Master Vault\\Chivalry and Sorcery\\BGD7000 - Chivalry & Sorcery - Rules Clarifications.pdf",
+      "D:\\Master Vault\\Chivalry and Sorcery\\BGD7000 - Chivalry & Sorcery - Character Generator.pdf"
+    ],
+    "BookDescription": [
+      "For those who Fight and those who Pray, For those who Toil and those who Enchant.",
+      "Chivalry & Sorcery the Medieval Role Playing Game",
+      "With all the medieval flavour that was loved of earlier editions now back, this truly is the definitive edition of Chivalry and Sorcery. Players can create well-rounded characters who really feel like they belong to their world. Knights wield secular power and command the battlefield, while other warriors strive to win their spurs in combat and rise to join their ranks. Magick is deep and mysterious, drawing on real-world historical detail, while Priests utter prayers and call upon the very miracles of their gods! You decide the level of magic and fantasy for your game. Run a medieval high fantasy game filled with magic, miracles and myth, – or one of gritty, low fantasy, or even pure historical simulation. The choice is yours! From fairy-tale romance to courtly love, from religious intrigue to brutal, bloody battle, Chivalry & Sorcery lets you play in just the Middle Ages you want.",
+      "Over 30 vocations to follow",
+      "Follow Christianity, Judaism or Islam.",
+      "Over 200 Skills, Over 300 Spells and Acts of Faith,",
+      "A 600 page full colour hard back rule book"
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "BGD5300 - Land Of The Rising Sun",
+  "BookShortName": "Land Of The Rising Sun",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "BGD5300",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Chivalry & Sorcery",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Settings",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Chivalry and Sorcery\\BGD5300 - Land Of The Rising Sun.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]
