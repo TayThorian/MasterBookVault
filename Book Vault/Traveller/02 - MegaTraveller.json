@@ -186,9 +186,9 @@
     "BookShortName": "Imperial Encyclopedia",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW0213",
-    "BookISBN": "",
+    "BookISBN": "0-943580-48-X",
     "BookAuthor": "",
-    "BookPublished": "",
+    "BookPublished": "1987",
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "MegaTraveller",
@@ -196,9 +196,9 @@
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0213 - Imperial Encyclopedia.pdf"
@@ -219,9 +219,9 @@
     "BookShortName": "Rebellion Sourcebook",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW0214",
-    "BookISBN": "",
+    "BookISBN": "0-943580-63-3",
     "BookAuthor": "",
-    "BookPublished": "",
+    "BookPublished": "1988",
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "MegaTraveller",
@@ -229,9 +229,9 @@
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0214 - Rebellion Sourcebook.pdf"
@@ -252,9 +252,9 @@
     "BookShortName": "Referee's Companion",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW0215",
-    "BookISBN": "",
+    "BookISBN": "0-943580-71-4",
     "BookAuthor": "",
-    "BookPublished": "",
+    "BookPublished": "1988",
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "MegaTraveller",
@@ -262,9 +262,9 @@
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0215 - Referee's Companion.pdf"
@@ -285,9 +285,9 @@
     "BookShortName": "COACC",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW0216",
-    "BookISBN": "",
+    "BookISBN": "0-943580-72-2",
     "BookAuthor": "",
-    "BookPublished": "",
+    "BookPublished": "1989",
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "MegaTraveller",
@@ -318,9 +318,9 @@
     "BookShortName": "Fighting Ships of the Shattered Imperium",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW0218",
-    "BookISBN": "",
+    "BookISBN": "1-55878-050-5",
     "BookAuthor": "",
-    "BookPublished": "",
+    "BookPublished": "1990",
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "MegaTraveller",
@@ -697,6 +697,303 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0204 - The MegaTraveller Journal 04.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW0221 - Hard Times",
+    "BookShortName": "Hard Times",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW0221",
+    "BookISBN": "1-55878-085-8",
+    "BookAuthor": "Charles E. Gannon",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0221 - Hard Times.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW0223 - Assignment Vigilante",
+    "BookShortName": "Assignment Vigilante",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW0223",
+    "BookISBN": "1-55878-127-7",
+    "BookAuthor": "",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0223 - Assignment Vigilante.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW0224 - Astrogators' Guide to the Diaspora Sector",
+    "BookShortName": "Astrogators' Guide to the Diaspora Sector",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW0224",
+    "BookISBN": "1-55878-138-2",
+    "BookAuthor": "",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "Sector Guide",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0224 - Astrogators' Guide to the Diaspora Sector.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW0225 - Arrival Vengeance",
+    "BookShortName": "Arrival Vengeance",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW0225",
+    "BookISBN": "1-55878-149-8",
+    "BookAuthor": "",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0225 - Arrival Vengeance.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SGS1015 - Gazelle Class Close Escort",
+    "BookShortName": "Gazelle Class Close Escort",
+    "BookPublisher": "Seeker Gaming Systems",
+    "BookCode": "SGS1015",
+    "BookISBN": "1-879487-06-3",
+    "BookAuthor": "S. R. Greene",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\SGS1015 - Gazelle Class Close Escort.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SGS1017 - Empress Marava",
+    "BookShortName": "Empress Marava",
+    "BookPublisher": "Seeker Gaming Systems",
+    "BookCode": "SGS1017",
+    "BookISBN": "",
+    "BookAuthor": "S. R. Greene",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\SGS1017 - Empress Marava.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SGS1021 - Laboratory Ship",
+    "BookShortName": "Laboratory Ship",
+    "BookPublisher": "Seeker Gaming Systems",
+    "BookCode": "SGS1021",
+    "BookISBN": "1-879487-12-8",
+    "BookAuthor": "S. R. Greene",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\SGS1021 - Laboratory Ship.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "SGS1020 - Imperial Small Craft",
+    "BookShortName": "Imperial Small Craft",
+    "BookPublisher": "Seeker Gaming Systems",
+    "BookCode": "SGS1020",
+    "BookISBN": "1-879487-12-8",
+    "BookAuthor": "S. R. Greene",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\SGS1020 - Imperial Small Craft.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW0210 - MegaTraveller Boxed Set",
+    "BookShortName": "MegaTraveller Boxed Set",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW0210",
+    "BookISBN": "0-943580-49-8",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "MegaTraveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "MegaTraveller",
+    "BookType": "Boxed Set",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Boxed Set",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
     ],
     "BookDescription": [
       "No description available."
