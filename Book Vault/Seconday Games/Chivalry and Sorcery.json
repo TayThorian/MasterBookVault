@@ -72,5 +72,203 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "BGD8015 - European Folklore Bestiary",
+  "BookShortName": "European Folklore Bestiary",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "BGD8015",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Chivalry & Sorcery",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Chivalry and Sorcery\\BGD8015 - European Folklore Bestiary.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "BGD8014 - The Welsh Connection",
+  "BookShortName": "The Welsh Connection",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "BGD8014",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Chivalry & Sorcery",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Chivalry and Sorcery\\BGD8014 - The Welsh Connection.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "BGD3300 - Goblins, Orcs & Trolls",
+  "BookShortName": "Goblins, Orcs & Trolls",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "BGD3300",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Chivalry & Sorcery",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "BGD2001 - Castles of Britain",
+  "BookShortName": "Castles of Britain",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "BGD2001",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Chivalry & Sorcery",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Chivalry and Sorcery\\BGD2001 - Castles of Britain.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "BGD5302 - Land of the Rising Sun - Folklore Bestiary",
+  "BookShortName": "Land of the Rising Sun - Folklore Bestiary",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "BGD5302",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Chivalry & Sorcery",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Chivalry and Sorcery\\BGD5302 - Land of the Rising Sun - Folklore Bestiary.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "BGD5301 - Land Of The Rising Sun - Adventure Book",
+  "BookShortName": "Land Of The Rising Sun - Adventure Book",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "BGD5301",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Chivalry & Sorcery",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Chivalry and Sorcery\\BGD5301 - Land Of The Rising Sun - Adventure Book.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]

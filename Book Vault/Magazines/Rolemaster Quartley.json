@@ -1,0 +1,41 @@
+[
+  {
+    "BookName": "Rolemaster Quarterly",
+    "BookShortName": "Rolemaster Quarterly",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Rolemaster",
+    "BookEdition": "Rolemaster",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "Issues 001 - 007",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Rolemaster Quarterly\\RMFRP Rolemaster Quarterly 1.pdf",
+      "D:\\Master Vault\\Magazines\\Rolemaster Quarterly\\RMFRP Rolemaster Quarterly 2.pdf",
+      "D:\\Master Vault\\Magazines\\Rolemaster Quarterly\\RMFRP Rolemaster Quarterly 3.pdf",
+      "D:\\Master Vault\\Magazines\\Rolemaster Quarterly\\RMFRP Rolemaster Quarterly 4.pdf",
+      "D:\\Master Vault\\Magazines\\Rolemaster Quarterly\\RMFRP Rolemaster Quarterly 5.pdf",
+      "D:\\Master Vault\\Magazines\\Rolemaster Quarterly\\RMFRP Rolemaster Quarterly 6.pdf",
+      "D:\\Master Vault\\Magazines\\Rolemaster Quarterly\\RMFRP Rolemaster Quarterly 7.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]

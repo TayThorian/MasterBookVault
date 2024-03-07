@@ -1,0 +1,103 @@
+[
+  {
+    "BookName": "CB72400 - Warhammer Fantasy Role-Play - Core Rulebook",
+    "BookShortName": "Warhammer Fantasy Role-Play - Core Rulebook",
+    "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+    "BookCode": "CB72400",
+    "BookISBN": "",
+    "BookAuthor": "Dominic McDowall,Andy Law,Dave Allen,Gary Astleford,Graeme Davis,Jude Hornborg,Lindsay Law,Andrew Leask,TS Luikart,Clive Oldfield.",
+    "BookPublished": "2018",
+    "BookCover": "",
+    "BookRules": "Warhammer Fantasy",
+    "BookEdition": "Warhammer Fantasy - 4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Warhammer Fantasy",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Warhammer\\Warhammer Fantasy\\CB72400 - Warhammer Fantasy Role-Play - Core Rulebook.pdf"
+    ],
+    "BookDescription": [
+      "Can’t put it down, can you? You know what’s in here. You’ve seen them. The twisted ones, the arrogant ones, the lost ones. Oh, you’d like to walk away and life be all cake and daisies, but you know you’re going here instead. You’ll try to convince yourself it’s because you’re greedy for the loot, or can’t resist a fight, but we all know the truth. So ready your sword, clean your pistol, and watch out for that dog – he might be small but he’s unreasonably vicious.",
+      "Warhammer Fantasy Roleplay takes you back to the Old World. Get the gang together, create your (anti)heroes, and set off to make your way through the vile corruption, scheming plotters and terrifying creatures intent on destruction. Prepare yourself for the struggle of the gutter, to fight for your survival, and to face corruption on all sides. Prepare yourself for danger, as lethal threats are everywhere, and you can’t face them alone. And, most of all, prepare yourself for the grim and perilous adventure of Warhammer Fantasy Roleplay!",
+      "The Fourth Edition Warhammer Fantasy Roleplay Rulebook contains everything you need for grim and perilous roleplaying adventures in the Old World.Drawing inspiration from the legendary early publications of the grimdark RPG, WFRP brings innovative twists to build on the beloved classic."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "CB72600 - Wrath & Glory - Core Rules",
+  "BookShortName": "Wrath & Glory - Core Rules",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72600",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Wrath & Glory",
+  "BookEdition": "Wrath & Glory - 1st Edition",
+  "BookPhysical": "",
+  "BookOwnedPDF": "",
+  "BookLibrary": "Yes",
+  "BookSetting": "Wrath & Glory",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Warhammer\\Warhammer - Wrath and Glory\\CB72600 - Wrath & Glory - Core Rules.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "CB72420 - Enemy Within Campaign - Part 5 Empire in Ruins",
+  "BookShortName": "Enemy Within Campaign - Part 5 Empire in Ruins",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72420",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer Fantasy",
+  "BookEdition": "Warhammer Fantasy - 4th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer Fantasy",
+  "BookType": "Enemy Within Campaign",
+  "BookFormat": "",
+  "BookSeries": "Enemy Within Campaign",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Warhammer\\Warhammer Fantasy\\CB72420 - Enemy Within Campaign - Part 5 Empire in Ruins.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]

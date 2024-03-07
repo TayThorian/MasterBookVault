@@ -11,7 +11,7 @@
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
   "BookPhysical": "Yes",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "",
   "BookType": "Ruleboook",
