@@ -1662,5 +1662,203 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "TSR2003 - Greyhawk",
+    "BookShortName": "Greyhawk",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2003",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Original D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR2003 - Greyhawk.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2004 - Blackmoor",
+    "BookShortName": "Blackmoor",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2004",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Original D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR2004 - Blackmoor.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2005 - Eldritch Wizardry",
+    "BookShortName": "Eldritch Wizardry",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2005",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Original D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR2005 - Eldritch Wizardry.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2006 - Gods, Demi-Gods & Heroes",
+    "BookShortName": "Gods, Demi-Gods & Heroes",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2006",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Original D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR2006 - Gods, Demi-Gods & Heroes.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2007 - Swords & Spells",
+    "BookShortName": "Swords & Spells",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2007",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Original D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR2007 - Sword & Spells.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR6002 - Chainmail",
+    "BookShortName": "Chainmail",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR6002",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Original D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR6002 - Chainmail.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

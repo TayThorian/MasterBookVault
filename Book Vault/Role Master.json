@@ -1914,5 +1914,929 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "ICE5500 - Rolemaster Standard Rules",
+    "BookShortName": "Rolemaster Standard Rules",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5500",
+    "BookISBN": "1-55806-233-5",
+    "BookAuthor": "",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback & Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5500 - Rolemaster Standard Rules.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5503 - Player Guide",
+    "BookShortName": "Player Guide",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5503",
+    "BookISBN": "1-55806-240-8",
+    "BookAuthor": "",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Play Aid",
+    "BookFormat": "Softback",
+    "BookSeries": "Play Aids",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5503 - Player Guide.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5502 - GM Screens and Game Aid",
+    "BookShortName": "GM Screens and Game Aid",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5502",
+    "BookISBN": "1-55806-238-6",
+    "BookAuthor": "",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Play Aid",
+    "BookFormat": "Softback",
+    "BookSeries": "Play Aids",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5502 - GM Screens and Game Aid.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5504 - Character Records",
+    "BookShortName": "Character Records",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5504",
+    "BookISBN": "1-55806-247-5",
+    "BookAuthor": "",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Play Aid",
+    "BookFormat": "Softback",
+    "BookSeries": "Play Aids",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5504 - Character Records.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5520 - Arms Law",
+    "BookShortName": "Arms Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5520",
+    "BookISBN": "1-55806-214-9",
+    "BookAuthor": "",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Combat System",
+    "BookFormat": "Softback & Hardback",
+    "BookSeries": "Combat Systems",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5520 - Arms Law.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5600 - Arcane Companion",
+    "BookShortName": "Arcane Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5600",
+    "BookISBN": "1-55806-239-4",
+    "BookAuthor": "T. McGovern",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5600 - Arcane Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5540 - Creatures & Monsters",
+    "BookShortName": "Creatures & Monsters",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5540",
+    "BookISBN": "1-55806-221-1",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softback & Hardback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5540 - Creatures & Monsters.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5522 - Spell Law",
+    "BookShortName": "Spell Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5522",
+    "BookISBN": "1-55806-226-2",
+    "BookAuthor": "",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softback & Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5522 - Spell Law.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5521 - Gamemaster Law",
+    "BookShortName": "Gamemaster Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5521",
+    "BookISBN": "1-55806-217-3",
+    "BookAuthor": "J. Hawkins",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softback & Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5521 - Gamemaster Law.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5523 - Talent Law",
+    "BookShortName": "Talent Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5523",
+    "BookISBN": "1-55806-252-1",
+    "BookAuthor": "E. Dewey",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Background Options",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5523 - Talent Law.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5524 - Weapon Law - Firearms",
+    "BookShortName": "Weapon Law - Firearms",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5524",
+    "BookISBN": "1-55806-289-0",
+    "BookAuthor": "J. Hedges",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Combat System",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5524 - Weapon Law - Firearms.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5541 - Races & Cultures - Underground Races",
+    "BookShortName": "Races & Cultures - Underground Races",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5541",
+    "BookISBN": "1-55806-276-9",
+    "BookAuthor": "D. Reeder",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5541 - Races & Cultures - Underground Races.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5542 - Castles & Ruins",
+    "BookShortName": "Castles & Ruins",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5542",
+    "BookISBN": "1-55806-277-7",
+    "BookAuthor": "R. Kirkland",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5542 - Castles & Ruins.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5601 - Treasure Companion",
+    "BookShortName": "Treasure Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5601",
+    "BookISBN": "1-55806-254-8",
+    "BookAuthor": "B. Mohney",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5601 - Treasure Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5702 - Shades of Darkness",
+    "BookShortName": "Shades of Darkness",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5702",
+    "BookISBN": "1-55806-338-2",
+    "BookAuthor": "J. Rose, A. Valterra",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5702 - Shades of Darkness.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5701 - Pulp Adventures",
+    "BookShortName": "Pulp Adventures",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5701",
+    "BookISBN": "1-55806-311-0",
+    "BookAuthor": "E. Dewey, T. Parker",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5701 - Pulp Adventures.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5700 - Black Ops",
+    "BookShortName": "Black Ops",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5700",
+    "BookISBN": "1-55806-293-9",
+    "BookAuthor": "M. Esget",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Genre Book",
+    "BookFormat": "Softback",
+    "BookSeries": "Genre Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5700 - Black Ops.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5603 - Essence Companion",
+    "BookShortName": "Essence Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5603",
+    "BookISBN": "1-55806-318-8",
+    "BookAuthor": "R. Kirkland, A. Moore",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5603 - Essence Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5602 - Martial Arts Companion",
+    "BookShortName": "Martial Arts Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5602",
+    "BookISBN": "1-55806-313-7",
+    "BookAuthor": "S. Danielson",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5602 - Martial Arts Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5505 - Rolemaster Annual 1996",
+    "BookShortName": "Rolemaster Annual 1996",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5505",
+    "BookISBN": "1-55806-299-8",
+    "BookAuthor": "",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Play Aid",
+    "BookFormat": "Softback",
+    "BookSeries": "Play Aids",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5505 - Rolemaster Annual 1996.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5506 - Rolemaster Annual 1997",
+    "BookShortName": "Rolemaster Annual 1997",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5506",
+    "BookISBN": "1-55806-323-4",
+    "BookAuthor": "",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Play Aid",
+    "BookFormat": "Softback",
+    "BookSeries": "Play Aids",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5506 - Rolemaster Annual 1997.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5604 - Channeling Companion",
+    "BookShortName": "Channeling Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5604",
+    "BookISBN": "1-55806-322-6",
+    "BookAuthor": "Cory Magel, E. Wilhite",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5604 - Channeling Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5605 - Mentalism Companion",
+    "BookShortName": "Mentalism Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5605",
+    "BookISBN": "1-55806-380-3",
+    "BookAuthor": "Nicholas H.M. Caldwell, E. Malloch",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Companion",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Standard System\\ICE5605 - Mentalism Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5703 - ...And A Ten Foot Pole",
+    "BookShortName": "...And A Ten Foot Pole",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5703",
+    "BookISBN": "1-55806-370-6",
+    "BookAuthor": "M. Bernhardt",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Rolemaster",
+    "BookEdition": "MISC",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\ICE5703 - ...And A Ten Foot Pole.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5704 - Nightmares of Mine",
+    "BookShortName": "Nightmares of Mine",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5704",
+    "BookISBN": "1-55806-367-6",
+    "BookAuthor": "K. Hite",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Rolemaster",
+    "BookEdition": "MISC",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\ICE5704 - Nightmares of Mine.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "ICE5705 - 10 Million Ways to Die",
+    "BookShortName": "10 Million Ways to Die",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5705",
+    "BookISBN": "1-55806-374-9",
+    "BookAuthor": "",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Rolemaster",
+    "BookEdition": "MISC",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\ICE5705 - 10 Million Ways to Die.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "",
+    "BookShortName": "",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "",
+    "BookShortName": "",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Rolemaster Standard System",
+    "BookEdition": "RMSS",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]
