@@ -204,35 +204,35 @@
 - TSR2146 - CGR3 - The Complete Sha'ir's Hhandbook
 - TSR1091 - City Of Delights
 - TSR1077 - Land Of Fate
-- TSR9275 -
-- TSR9285 -
-- TSR9294 -
-- TSR9291 -
-- TSR9394 -
-- TSR9453 -
-- TSR9395 -
-- TSR9396 -
-- TSR9314 -
-- TSR9319 -
-- TSR9327 -
-- TSR9334 -
-- TSR9243 -
-- TSR9244 -
-- TSR9245 -
-- TSR9587 -
-- TSR11372 -
-- TSR9381 -
-- TSR9382 -
-- TSR9278 -
-- TSR9344 -
-- TSR9383 -
-- TSR11329 -
-- TSR11396 -
-- TSR1074 -
-- TSR1086 -
-- TSR8446 -
-- TSR8372 -
-- TSR8447 -
+- TSR9275 - DLA1 - Dragon Dawn
+- TSR9285 - DLA2 - Dragon Knight
+- TSR9294 - DLA3 - Dragon's Rest
+- TSR9291 - DLC1 - Dragonlance Classics, Volume I
+- TSR9394 - DLC2 - Dragonlance Classics, Volume II
+- TSR9453 - DLC3 - Dragonlance Classics, Volume III
+- TSR9395 - DLT1 - New Tales The Land Reborn
+- TSR9396 - DLT2 - Dragonlance Book of Lairs
+- TSR9314 - DLS1 - New Beginnings
+- TSR9319 - DLS2 - Treelords
+- TSR9327 - DLS3 - Oak Lords
+- TSR9334 - DLS4 - Wild Elves
+- TSR9243 - DLE1 - In Search of Dragons
+- TSR9244 - DLE2 - Dragon Magic
+- TSR9245 - DLE3 - Dragon Keep
+- TSR9587 - Seeds of Chaos
+- TSR11372 - Chaos Spawn
+- TSR9381 - DLQ1 - Knight's Sword
+- TSR9382 - DLQ2 - Flint's Axe
+- TSR9278 - DLR1 - Otherlands
+- TSR9344 - DLR2 - Taladas The Minotaurs
+- TSR9383 - DLR3 - Unsung Heroes
+- TSR11329 - The Sylvan Veil
+- TSR11396 - Rise of the Titans
+- TSR1074 - Tales of the Lance
+- TSR1086 - Dwarven Kingdoms of Krynn
+- TSR8446 - Leaves From the Inn of the Last Home
+- TSR8372 - The History of Dragonlance
+- TSR8447 - The Art of the Dragonlance Saga
 - TSR11405 - The Wyrmskull Throne
 - TSR11393 - Sea of Fallen Stars
 - TSR11316 - FOR12 - Demihumans of the Realms
