@@ -1040,5 +1040,43 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "CHA23182 - Arkham",
+    "BookShortName": "Arkham",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23182",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Setting Guide",
+    "BookFormat": "",
+    "BookSeries": "Setting Guides",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23182 - Arkham\\CHA23182 - Arkham.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23182 - Arkham\\CHA23182 - Arkham - Insert - Arkham Advertiser.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23182 - Arkham\\CHA23182 - Arkham - Insert - Maps.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23182 - Arkham\\CHA23182 - Arkham - Keeper's Maps and Floorplans.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23182 - Arkham\\CHA23182 - Arkham - NPC Portraits.pdf",
+      "D:\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23182 - Arkham\\CHA23182 - Arkham - Player's Maps and Floorplans.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

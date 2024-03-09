@@ -117,5 +117,184 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "MCG316 - Path of the Planebreaker",
+  "BookShortName": "Path of the Planebreaker",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG316",
+  "BookISBN": "",
+  "BookAuthor": "Monte Cook,Bruce R. Cordell,Sean K. Reynolds",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG316 - Path of the Planebreaker.pdf"
+  ],
+  "BookDescription": [
+    "A cursed moon hurtles through the multiverse, crashing from one plane to the next, never at rest, forever fleeing a catastrophe that predates existence itself. Behold the Planebreaker!",
+    "The Planebreaker visits all planes, all demiworlds, and all dimensions. Some are known to sages and planar travelers. But in a multiverse stretching across epochs, the number of previously uncatalogued planes is vast. The Planebreaker races through all of them, in time, and the Path that trails behind it creates a route that links them all.",
+    "Path of the Planebreaker for Cypher System introduces this enigmatic interplanar object that unlocks access to the planes for characters of any tier. This book includes:",
+    "The Planebreaker and its fascinating city of Timeborne—home to refugees, planar travelers, and residents from across the planes. Base an entire campaign in Timeborne, or experience its intrigues as you pass through.",
+    "Dozens of exotic planes to explore. Venture into the Citadel of the Fate Eater, get lost in the Grove of Crows, or find despair in the Tomb of Tomorrow. They’re all connected by the Path, a sort of interplanar road that trails behind the Planebreaker.",
+    "New creatures, NPCs, cyphers, and artifacts for the GM to introduce. Plus two exciting, plane-hopping adventures that make it easy to introduce PCs to the Planebreaker and planar travel.",
+    "New playable species descriptors, foci, and abilities for players. Play a changeable Chimeran or concept-embodying Inkarnate who as stiches shadows or wields a chaos blade!"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MCG042 - Gods of the Fall",
+  "BookShortName": "Gods of the Fall",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG042",
+  "BookISBN": "978-1-939979-53-7",
+  "BookAuthor": "Bruce R. Cordell",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Gods of the Fall",
+  "BookType": "Campaign",
+  "BookFormat": "Hardback",
+  "BookSeries": "Campaigns",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\Gods of the Fall\\MCG042 - Gods of the Fall.pdf",
+    "D:\\Master Vault\\Cypher System\\Gods of the Fall\\MCG042 - Gods of the Fall - Poster Maps.pdf"
+  ],
+  "BookDescription": [
+    "There was a time when gods walked the world. Their magic pervaded the earth and the sky. From their mystical realm of Elanehtar, they brought plenty and pestilence. They judged the living and the dead. Their rule was absolute.",
+    "Then Elanehtar fell to earth like a vengeful star, sparking cataclysm and plunging the world into a dark age. The gods are gone, but their works remain—scattered and broken. The world struggles under the yoke of murder, slavery, and corruption. Dark things have squirmed free of their divine prisons, and even the afterlife has become a realm of nightmares.",
+    "But a power has awoken against the darkness. A divine spark struck in the hearts of new gods-in-the-making. You have this spark—the seed of godhood within you. Can you restore what was broken before the world vanishes forever into darkness? Can you claim a place for yourself in the heavens?",
+    "This book includes:",
+    "A complete, ready-to-play fantasy game world for the Cypher System, with a detailed history, new races, dozens of unique locations, and an array of celestial powers to choose from.",
+    "New creatures and NPCs, including the monstrous Hellmaw, guardian of the afterlife; seraphs, metallic servants of the divine; and ravers, the reanimated husks of dead gods.",
+    "Rules for growing your character from adventurer to god. Find your spark, choose your dominion, face divine challenges and labors, and fulfill prophecy to create a new pantheon.",
+    "Gods of the Fall is a complete campaign setting for the Cypher System. You need the Cypher System Rulebook to play Gods of the Fall."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MCG102 - Gods Beyond - Converting Gods of the Fall for Numenera and The Strange",
+  "BookShortName": "Gods Beyond - Converting Gods of the Fall for Numenera and The Strange",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG102",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Gods of the Fall",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\Gods of the Fall\\MCG102 - Gods Beyond - Converting Gods of the Fall for Numenera and The Strange.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MCG103 - Gods of the Fall - After the Nightfall",
+  "BookShortName": "Gods of the Fall - After the Nightfall",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG103",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Gods of the Fall",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\Gods of the Fall\\MCG103 - Gods of the Fall - After the Nightfall.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MCG134 - Gods of the Fall - Breath of God",
+  "BookShortName": "Gods of the Fall - Breath of God",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG134",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Gods of the Fall",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\Gods of the Fall\\MCG134 - Gods of the Fall - Breath of God.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]

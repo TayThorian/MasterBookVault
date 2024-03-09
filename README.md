@@ -67,9 +67,6 @@
 - PZO12001 - Pathfinder - Player Core
 - PZO12002 - Pathfinder - GM Core
 ## Iron Crown Enterprises
-- GCP-RMU-001 - Rolemaster Unified - Core Law
-- GCP-RMU-002 - Spell Law
-- GCP-RMU-003 - Treasure Law
 - ICE5800 - Rolemaster Fantasy Role Playing
 - ICE5801 - Arms Law
 - ICE5802 - Creatures & Monsters
