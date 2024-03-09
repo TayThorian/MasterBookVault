@@ -230,5 +230,71 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "MUH042206 - The Player's Guide",
+  "BookShortName": "The Player's Guide",
+  "BookPublisher": "Mindjammer Press",
+  "BookCode": "MUH042206",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Fate",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Mindjammer",
+  "BookType": "Player's Guide",
+  "BookFormat": "Softback",
+  "BookSeries": "Player's Guides",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Mindjammer\\MUH042206 - The Player's Guide.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MUH042207 - The Mindjammer Companion",
+  "BookShortName": "The Mindjammer Companion",
+  "BookPublisher": "Mindjammer Press",
+  "BookCode": "MUH042207",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Fate",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Mindjammer",
+  "BookType": "Companion",
+  "BookFormat": "Softback",
+  "BookSeries": "Companion",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Mindjammer\\MUH042207 - The Mindjammer Companion.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]
