@@ -51,7 +51,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "To Source",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Adventure",
@@ -3440,6 +3440,369 @@
       "The Stone Sceptre has been recovered! But will it be enough to stop the Raja of Solon? Ambuchar Devayam has massed 10,000 zombies on Ra-Khati's border. Only Gaumahavi, the Great Dragon of the Purple Wastes, stands between him and the Hidden Kingdom. Yet even she cannot face Ambuchar alone, for the evil raja has recovered an archaic Imaskari relic that renders him invincible",
       "If Ra-Khati is to be saved and the player characters are to escape the raja's curse, Ambuchar Devayam must be stopped. But how? The player characters' search for a solution will embroil them in Tulgan politics, lure them to the Red Mountain Monastery's forbidden halls, and lead them into ancient Solon itself, where Ambuchar's slaves - both living and undead - toil to make him even more dangerous.",
       "Blood Charge is the third adventure in the Empires Adventure Trilogy, taking place in The Forgotten Realms campaign world territories described in The Horde campaign set. The Empires Adventures Trilogy is set amidst the turbulent events portrayed in the Empires Novel Trilogy. This adventure is designed for four to eight player characters of levels 7-10."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9538 - Undermountain Stardock",
+    "BookShortName": "Undermountain Stardock",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9538",
+    "BookISBN": "0-78690-451-8",
+    "BookAuthor": "Steven E. Schend",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Dungeon Crawl Series",
+    "BookCharacterLevel": "Levels 10 - 14",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9538 - Undermountain Stardock.pdf"
+    ],
+    "BookDescription": [
+      "Had I not seen the chaos that ensued, I would never have believed the tale Shadowdale's sage wove for me that day...Who would have believed that anything had the power to rip Halaster Blackcloak bodily from his Undermountain? Who again could predict the maelstrom of dangers that a dungeon gone made would unleash upon an unsuspecting Realms? It is thanks to the brave and noble souls who dared reach into the villains'clutches to save the life of Halaster the Mad Mage that we all rise to greet another sun.",
+      "--Gamalon Idogyr, starfaring mage formerly of Llorbauth",
+      "This DUNGEON CRAWL adventure returns once more the the hallowed halls of Undermountain, but it's a different day. At dawn of Highharvestide 1369, every practitioner of magic on the Sword Coast knew there was a problem. By midmorning, the Lords of Waterdeep confirmed the ill omens: Some brave souls worthy of the title \"Hero\" must enter Undermountain on a mission to save Halaster Blackcloak! Could these heroes be your group of player characters?",
+      "This is a stand-alone module and does not require extra support materials. It can be placed into a campaign on any AD&D world, but best fits and impacts a FORGOTTEN REALMS campaign set in Undermountain or Waterdeep."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9562 - Hellgate Keep",
+    "BookShortName": "Hellgate Keep",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9562",
+    "BookISBN": "0-7869-0786-X",
+    "BookAuthor": "Steven E. Schend",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Dungeon Crawl Series",
+    "BookCharacterLevel": "Levels 9 - 12",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9562 - Hellgate Keep.pdf"
+    ],
+    "BookDescription": [
+      "Hellgate Keep-a name that once make the boldest of heroes shudder in fear-was long ago known as the fair citadel of Ascalhorn, a have for elves and humans. Then a demonic horde of baatezu and tanar'ri destroyed all remnants of real civilization and turned it into a den of malevolence. Today, the citadel lies ruined. The Mistmaster and the Harpers destroyed the keep and ended its centuries-long reign of evil in the autumn of the Year of the Gauntlet (1369 DR)?or so they believed.",
+      "With the coming of the following spring, many scavengers streamed to the Upvale to uncover treasures and artifacts long hidden by the tanar'ri of Hellgate Keep. They went forth assuming they could find easy plunder. They were wrong.",
+      "Preare to meet a new race of creatures spawned both of Faerun and the Lower Planes. Uncover the corruption of an elven house that was ancient before Myth Drannor ever rose. Find out what survived the havoc visited upon the Keep, and who or what leads the survivors to a new lair. All this and more awaits amid the depths of ruined Hellgate Keep!",
+      "This stand-alone 32-page adventure is set within the northern wilderness of the Realms. It easily fits within an existing Forgotten Realms campaign, though it can be incorporated into any other AD&D campaign world with minor modifications."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9519 - Undermountain The Lost Level",
+    "BookShortName": "Undermountain The Lost Level",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9519",
+    "BookISBN": "0-78690-399-6",
+    "BookAuthor": "Steven E. Schend",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Dungeon Crawl Series",
+    "BookCharacterLevel": "Levels 7 - 9",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9519 - Undermountain The Lost Level.pdf"
+    ],
+    "BookDescription": [
+      "Far be it from me to impugn the mettle of adventurers such as yourselves, but daring the depths of Undermountain merely for fortune's sake is more absurd than kicking a sleeping dragon in the nose for sport. Even so, you've returned for another trip to the Underhalls, so be prepared. You stand to enter the Lost Level this time: Gird yourselves for diplomacy as well as destruction. You'll find the last stronghold of an extinct dwarven clan: Do be good enough to extend the greetings of the Blackstaff to Bandaerl. There's also a dark vampiress who enjoys a good hunt, and be sure to mind the beholders: They're trained to keep you from escaping.",
+      "Enjoy, and don't say Khelben didn't warn thee.",
+      "This DUNGEON CRAWL adventure includes 32 pages of combat and roleplaying, hearkening back to classic AD&D dungeons of old. This is a stand-alone module and does not require additional support materials. It can easily be inserted into a campaign on any world, but best fits an Undermountain or Waterdeep campaign within the Realms."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9528 - Undermountain Maddgoth's Castle",
+    "BookShortName": "Undermountain Maddgoth's Castle",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9528",
+    "BookISBN": "0-78690-423-2",
+    "BookAuthor": "Steven E. Schend",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Dungeon Crawl Series",
+    "BookCharacterLevel": "Levels 7 - 10",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9528 - Undermountain Maddgoth's Castle.pdf"
+    ],
+    "BookDescription": [
+      "Ye want this ol' moneylender's advice on entering Halaster's Hall yet again? My advice is this: Don't. There's precious few treasures worth the death and agony and fear you'll face. Your problems are twofold: First, ye've walked its halls before, and Halaster pays attention to those who visit him frequently (and he's the one you don't want to have watching you!).",
+      "Second, you're looking for the lair of that lunatic wizard-murderer from Trades Ward. He's a dangerous lot, that Maddgoth, and many others met their ends by underestimating that pasty-faced little scarecrow. If you're looking to lay siege to Maddgoth's Castle, you're on your own - I've not visited it, and I'm not likely to, either. Truth be told, no adventurer I've heard of looked for Maddgoth's lair and returned to tell of it.",
+      "Not that his scares bold heroes such as ye be, right? Well, the path to fame allows fools and champions alike, though fools often listen better than heroes. Until our coins are shared again, good fortune.",
+      "-Mirt the Moneylender",
+      "This Dungeon Crawl adventure returns once again to the hallowed halls of Undermountain and into an adventure like those AD&D game archetypes of years past. This is a stand-alone module and does not require extra support materials. It can be placed easily into a campaign on any AD&D world, but best fits a Forgotten Realms campaign set in Undermountain or Waterdeep."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9247 - FRE1 - Shadowdale",
+    "BookShortName": "FRE1 - Shadowdale",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9247",
+    "BookISBN": "0-88038-720-3",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Avatar Series",
+    "BookCharacterLevel": "Levels 5 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9247 - FRE1 - Shadowdale.pdf"
+    ],
+    "BookDescription": [
+      "The Gods walk the Realms.",
+      "Cast out from their heavenly domain, the gods of the Forgotten Realms wander the land as mortals-extremely powerful mortals, to be certain, but mortal nonetheless. They seek the lost Tablets of Fate, key to their return. But as the good and evil gods for the Realms bring their fight down to earth, the people and lands are caught in between. Nature itself revolts; strange creatures stalk the countryside, and even magic becomes unpredictable.",
+      "When a band of adventurers are hired by a young apprentice to rescue her sorceress-mentor, little do they realize the size of the stakes they will soon be playing for. Caught up in a power struggle that will determine the fate of the Realms themselves, the first step is to find the only mortal who may know what's going on-the legendary sage Elminster. And that means going to Shadowdale.",
+      "Shadowdale is the first of a three-part series of modules for the Advanced Dungeons & Dragons 2nd Edition roleplaying game. Set in the popular Forgotten Realms game world, this module features the same settings and many of the same characters of the first novel of the Avatar Trilogy, Shadowdale, by Richard Awlinson. This AD&D 2nd Edition adventure is for four to six characters of levels 5-8"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2106 - Forgotten Realms Adventures",
+    "BookShortName": "Forgotten Realms Adventures",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2106",
+    "BookISBN": "0-88038-828-5",
+    "BookAuthor": "Jeff Grubb & Ed Greenwood",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Hardbacks & Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR2106 - Forgotten Realms Adventures.pdf"
+    ],
+    "BookDescription": [
+      "The coming of the Avatars and the Time of Troubles caused tremendous changes in the Forgotten Realms. Areas of dead magic and wild magic have appeared; character classes have been altered; new magical spells have been discovered; old gods have been slain and new ones arisen. All the changes and updates are incorporated into this one essential volume for Forgotten Realms players and dungeon masters alike.",
+      "Get new information on specialty priests, currency, new weapons, and treasure. Take a detailed tour of the major cities of the heartland, from the Sword Coast to the Dragon Reach, including the Moonsea, the Dalelands, Cormyr, and Sembia. The most popular and intriguing fantasy world ever published gets even better with this fantastic supplement."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1085 - Forgotten Realms Campaign Setting, Revised Edition",
+    "BookShortName": "Forgotten Realms Campaign Setting, Revised Edition",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1085",
+    "BookISBN": "1-56076-617-4",
+    "BookAuthor": "Ed Greenwood, Jeff Grubb & Don Bingle",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Hardbacks & Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1085 - Forgotten Realms Campaign Setting, Revised Edition.pdf"
+    ],
+    "BookDescription": [
+      "It is a world where the gods have walked and fantastic armies clashed. It is the home of Elminster, Alias, Azoun, Khelben, and Drizzt the dark elf. It is the most popular fantasy campaign in history. Well met, traveler, and welcome to the Forgotten Realms!",
+      "Designed for the AD&D game, the new FORGOTTEN REALMS Campaign Setting is a major expansion and complete revision of the original, best-selling boxed set. This set contains everything that a player or Dungeon Master needs to launch into a world of adventure and imagination.",
+      "The new campaign setting contains:",
+      "A Grand Tour of the Realms – a 128-page book, concentrating on the Heartlands, the land of the Dales, Cormyr, and Waterdeep, and chock full of useful information about other significant Realms locations on the continent of Faerûn.",
+      "Running the Realms – a 64-page guide to the Forgotten Realms for the Dungeon Master, showing how to create a Realms campaign, and giving details about secrets, NPCs, and deities of the Realms.",
+      "Shadowdale – a 96-page book, presenting the most important town in the Realms as the basis of an ongoing campaign, including a new introductory adventure, \"Beneath the Twisted Tower.\"",
+      "8 MONSTROUS COMPENDIUM pages covering the deadliest creatures of the Realms!",
+      "6 card sheets showing nearly 100 signs, trail glyphs, symbols, magical sigils, and religious symbols of the Realms in full color.",
+      "4 all-new four-color maps, two of eastern and western Faerûn, and two smaller-scale, detailed maps of the heartlands of the Realms.",
+      "The revised FORGOTTEN REALMS Campaign Setting is both a perfect introduction and a concise restructuring of the earlier boxed set, not to be missed by either long-time fans or newcomers to the grandest campaign setting of all!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9465 - Book of Lairs",
+    "BookShortName": "Book of Lairs",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9465",
+    "BookISBN": "1-56076-924-6",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Other Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9465 - Book of Lairs.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9474 - The Moonsea",
+    "BookShortName": "The Moonsea",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9474",
+    "BookISBN": "0-78690-092-X",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Other Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9474 - The Moonsea.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9545 - Prayers From the Faithful",
+    "BookShortName": "Prayers From the Faithful",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9545",
+    "BookISBN": "0-7869-0682-0",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Other Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9545 - Prayers From the Faithful.pdf"
+    ],
+    "BookDescription": [
+      "Ever wonder why priesthoods in the Realms continue to flourish, despite the secular power of rich merchants and the land-shattering spells of the archmages?",
+      "The answer lies in the mighty spells heretofore kept concealed by the robed clergy of the cloisters. These sacred spells are now revealed in these pages, drawn from legendary holy books presently \"lost\" on Faerun. To read Prayers From the Faithful is to know holy awe and blessed fear at last!",
+      "Learn the long-suppressed secrets of:",
+      "Which gems to place into the eye sockets of the carved faces on Gorothir's Girdle to call forth deadly magics.",
+      "The hallowed album that was used to slay six dragons-and now bears the unblinking, preserved eye of one of them.",
+      "The divine tome that is a gem that served to lure and slay thieves for over 30 years.",
+      "Why it's dangerous to hold the Chanting Chain carelessly-and what wakens to its chants.",
+      "And much more! Prayers From the Faithful is an essential guide to the magic of priests in the Forgotten Realms campaign world, and a useful aid to those portraying priests in any AD&D campaign.",
+      "Suitable for all levels of play."
     ],
     "TableOfContents": {
       "title": "Book",

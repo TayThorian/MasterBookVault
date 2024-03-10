@@ -296,5 +296,120 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "MUH042209 - Children of Orion - The Venu Sourcebook",
+  "BookShortName": "Children of Orion - The Venu Sourcebook",
+  "BookPublisher": "Mindjammer Press",
+  "BookCode": "MUH042209",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Fate",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Mindjammer",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Mindjammer\\MUH042209 - Children of Orion - The Venu Sourcebook.pdf"
+  ],
+  "BookDescription": [
+    "Welcome to the Bright Empire of Venu—the interstellar civilisation of the “bad guys” of Human Space! An ancient people of xenophobic human supremacists, survivors of an ancient war, now hellbent on cleansing the cosmos of abomination and bringing the purifying word of their undying God-Emperor to the stars.",
+    "Children of Orion—the Venu Sourcebook provides a whole new universe of adventure for your Mindjammer games—a harsh and violent interstellar empire beyond the Commonality frontier. Play rebels against the domineering rule of the God-Emperor, mutated troopers and servitors of the sinister Dark Radiance fighting against the cultural inroads of the Commonality—or Commonality agents themselves, working behind enemy lines to defeat an implacable foe which once devastated the Core Worlds! It’s a completely different vibe for your Mindjammer games—darker, more desperate, where the survival of an entire people is at stake.",
+    "Children of Orion—the Venu Sourcebook includes:",
+    "Prehistories and histories of the Empire of Venu",
+    "The strange powers of the Dark Radiance",
+    "Starmaps and world descriptions",
+    "Full details for creating Venu characters, including genotypes, occupations, and cultures",
+    "Venu tech and starships",
+    "Guidelines for playing Venu campaigns. Fight against the Venu, or play a Venu character yourself!"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MUH042210 - Enhanced Commonality Space Schematic",
+  "BookShortName": "Enhanced Commonality Space Schematic",
+  "BookPublisher": "Mindjammer Press",
+  "BookCode": "MUH042210",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Fate",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Mindjammer",
+  "BookType": "Space Schematic",
+  "BookFormat": "Softback",
+  "BookSeries": "Space Schematic",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Mindjammer\\MUH042210 - Enhanced Commonality Space Schematic.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MUH042211 - The Core Worlds",
+  "BookShortName": "The Core Worlds",
+  "BookPublisher": "Mindjammer Press",
+  "BookCode": "MUH042211",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Fate",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Mindjammer",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Mindjammer\\MUH042211 - The Core Worlds.pdf"
+  ],
+  "BookDescription": [
+    "This is where it all happens, citizen! The white-heat of hyperadvanced technology! The teeming populations of the many worlds of Manhome, the ancient solar system, cradle of humankind! The thousands of worlds of the Old Commonality, drenched in byzantine intrigue, the strange and divergent hominids, the products of millennia of change. We’re all what the past has made us. But what we will be, and where we are going… that’s what we’re fighting for!”",
+    "Welcome to the mind-blowing worlds of the Commonality Core—humankind’s most ancient and advanced civilisation. A people of deep yet divergent cultures, riven by the shock of contact with new and rediscovered worlds. The Core Worlds are where humankind began—but now, after ten thousand years or more, maybe they’re no longer human at all…",
+    "The Core Worlds Sourcebook details a vast sector of Commonality Space for your Mindjammer games. Focussing for the first time on the ancient, decadent, and sophisticated heart of the Commonality, it provides you with deep background and material to explore this fascinating region. Play Fringe Worlders experiencing the strangeness of the Core first-hand, or Core Worlders, sure of their superiority, until they leave their homes and are found wanting. Play planetary sentiences ruling whole worlds, ancient dynasties with plans crossing millennia, illegal xenomorphs fighting oppression and neglect in the forbidden substrates beneath the towering arcologies. Push the boundaries of transhuman science-fiction gaming—explore what it means to be human itself. A bright, bizarre, and thought-provoking milieu for your Mindjammer games!",
+    "The Core Worlds Sourcebook includes:",
+    "The history and background of the Core, including lavish maps, new genotypes and strange subcultures.",
+    "Deep detail on Manhome, including maps and descriptions of Old Earth, Old Mars, Green Moon, and more!",
+    "The Fargate Network and the mysterious 3-Space Instrumentality.",
+    "Descriptions, artwork, and stats for the Custodians—the secret rulers of the Core Worlds.",
+    "Guides for Core Worlds campaigns. Go beyond what it means to be human!"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]

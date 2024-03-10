@@ -99,10 +99,6 @@
 - - Cities Without Number
 - - Stars Without Number Revised Edition
 - - Worlds Without Number
-## EN Publishing
-- ENP0101 - N.E.W. - Science Fiction Roleplaying Game
-- ENP0201 - O.L.D - Fantasy Heroic Role-Playing
-- ENP0301 - N.O.W. - The Modern Action RPG
 ## BRW Games
 - - Swords of Wuxia
 - - Book of Lost Beasts
@@ -166,12 +162,9 @@
 - TSR2127 - PHBR7 - The Complete Bard's Handbook
 - TSR2131 - PHBR8 - The Complete Book of Elves
 - TSR2135 - PHBR10 - The Complete Book of Humanoids
-- TSR2136 - PHBR11 - The Complete Ranger's Handbook
 - TSR2147 - PHBR12 - The Complete Paladin's Handbook
 - TSR2155 - PHBR15 - The Complete Ninja's Handbook
-- TSR2154 - Player's Option - Skills & Powers
 - TSR2156 - Dungeon Master Option - High-Level Campaigns
-- TSR2163 - Player's Option - Spells & Magic
 - TSR11383 - Campaign Option - Council of Wyrms
 - TSR2022 - Manual of the Planes
 - TSR2020 - Wilderness Survival Guide
@@ -230,7 +223,6 @@
 - TSR8446 - Leaves From the Inn of the Last Home
 - TSR8372 - The History of Dragonlance
 - TSR8447 - The Art of the Dragonlance Saga
-- TSR11405 - The Wyrmskull Throne
 - TSR11393 - Sea of Fallen Stars
 - TSR11316 - FOR12 - Demihumans of the Realms
 - TSR9491 - FOR8 - Pages from the Mages
@@ -258,6 +250,12 @@
 - TSR9585 - Demihuman Deities
 - TSR9552 - Villains' Lorebook
 - TSR9274 - FR10 - Old Empires
+- TSR9519 - Undermountain The Lost Level
+- TSR9528 - Undermountain Maddgoth's Castle
+- TSR2106 - Forgotten Realms Adventures
+- TSR1085 - Forgotten Realms Campaign Setting, Revised Edition
+- TSR9465 - Book of Lairs
+- TSR9474 - The Moonsea
 - TSR2023 - Greyhawk Adventures
 - TSR9065 - WG4 - Forgotten Temple of Tharizdun
 - TSR9222 - WG7 - Castle Greyhawk

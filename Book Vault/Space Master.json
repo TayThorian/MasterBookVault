@@ -540,20 +540,28 @@
     "BookPublished": "1987",
     "BookCover": "",
     "BookRules": "Spacemaster - 1st Edition",
-    "BookEdition": "1st Edition",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Spacemaster",
-    "BookType": "Campaign Setting",
+    "BookType": "Adventure",
     "BookFormat": "Softcover",
-    "BookSeries": "Campaign Settings",
+    "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\Master Vault\\Spacemaster\\1st Edition\\ICE9600 - Beyond the Core.pdf"
+      "D:\\Master Vault\\Spacemaster\\2nd Edition\\ICE9600 - Beyond the Core.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "Beyond the Core: The Worlds of Frontier Zone Five is a Spacemaster 2nd Edition adventure module.",
+      "In the power hungry and paranoid world of Space Master, no region breeds as much avarice and distrust as the Frontier. Here, beyond the reaches of the Core Provinces, resources are still \"up for grabs.\" It is no surprise that the Emperor keeps a close eye on Frontier events, especially the discovery and exploration of new worlds. Imperial Observers (I.O.) nearly always accompany exploratory missions, scrutinizing development. Still, there are those clever groups which manage to evade investigations-by hook or by crook!",
+      "BEYOND THE CORE is an adventure-packed campaign module set in Frontier Zone Five, beyond the steel grip of the Empire and the Imperial Observers. Here you'll find",
+      "A history of FZ5",
+      "A description of life on the Frontier, including useful lists, from corporations to \"local\" slang",
+      "A systems listing of the inhabited worlds including a short history of each tech level, and orbital facilities",
+      "A complete list of the various cultures and races found in this turbulent region",
+      "Three complete adventures including layouts, and NPC descriptions!",
+      "Plus much more!"
     ],
     "TableOfContents": {
       "title": "Book",

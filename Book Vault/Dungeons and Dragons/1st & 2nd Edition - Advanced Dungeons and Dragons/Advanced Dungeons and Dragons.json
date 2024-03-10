@@ -1454,7 +1454,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Rule Supplements",
@@ -1471,8 +1471,20 @@
     "TableOfContents": {
       "title": "Book",
       "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
+        {"page": 4, "title": "Introduction"},
+        {"page": 7, "title": "Chapter 1 - Character Creation"},
+        {"page": 14, "title": "Chapter 2 - Ranger Abilities"},
+        {"page": 27, "title": "Chapter 3 - Followers"},
+        {"page": 45, "title": "Chapter 4 - Ranger Kits"},
+        {"page": 80, "title": "Chapter 5 - Proficiencies"},
+        {"page": 87, "title": "Chapter 6 - Magic"},
+        {"page": 94, "title": "Chapter 7 - Equipment"},
+        {"page": 101, "title": "Chapter 8 - Role-Playing"},
+        {"page": 113, "title": "Chapter 9 - Rangers and Religion"},
+        {"page": 118, "title": "Chapter 10 - Forgatherings"},
+        {"page": 122, "title": "Appendix - AD&D 1st Edition Ranger"},
+        {"page": 124, "title": "Ranger Kit Record Sheet"},
+        {"page": 125, "title": "Ranger Character Record Sheets"}
         ]    
     }
   },
@@ -1624,7 +1636,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Rule Supplements",
@@ -1742,7 +1754,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Rule Supplements",

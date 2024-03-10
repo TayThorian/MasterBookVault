@@ -11,7 +11,7 @@
     "BookRules": "WOIN",
     "BookEdition": "1st Edition",
     "BookPhysical": "No",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "WOIN",
     "BookType": "Rulebook",
@@ -44,7 +44,7 @@
     "BookRules": "WOIN",
     "BookEdition": "1st Edition",
     "BookPhysical": "No",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "WOIN",
     "BookType": "Rulebook",
@@ -79,7 +79,7 @@
     "BookRules": "WOIN",
     "BookEdition": "1st Edition",
     "BookPhysical": "No",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "WOIN",
     "BookType": "Rulebook",
@@ -116,9 +116,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "",
-    "BookType": "",
+    "BookType": "Adventure",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Adventures",
     "BookPDF": [
       "D:\\Master Vault\\WOIN\\W1 - Xenomorphs - The Fall of Somerset Landing.pdf"
     ],
@@ -152,9 +152,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "",
-    "BookType": "",
+    "BookType": "Supplement",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Supplements",
     "BookPDF": [
       "D:\\Master Vault\\WOIN\\Starship Recognition Manual.pdf"
     ],
@@ -190,9 +190,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "",
-    "BookType": "",
+    "BookType": "Supplement",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Supplements",
     "BookPDF": [
       "D:\\Master Vault\\WOIN\\ENP0102 - Galactic Sentience Catalog.pdf"
     ],
@@ -223,9 +223,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "",
-    "BookType": "",
+    "BookType": "Adventure",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Adventures",
     "BookPDF": [
       "D:\\Master Vault\\WOIN\\W3 - Santiago - A Myth of the Far Future.pdf"
     ],
