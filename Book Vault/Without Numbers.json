@@ -196,5 +196,203 @@
         {"page": 2, "title": ""}
         ]    
     }
-  } 
+  },
+  {
+    "BookName": "W1 - Polychrome",
+    "BookShortName": "W1 - Polychrome",
+    "BookPublisher": "Sine Nomine Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Stars Without Number",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Stars Without Number",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Without Numbers\\Stars\\W1 - Polychrome.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "W2 - Relics of the Lost",
+    "BookShortName": "W2 - Relics of the Lost",
+    "BookPublisher": "Sine Nomine Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Stars Without Number",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Stars Without Number",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Without Numbers\\Stars\\W2 - Relics of the Lost.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "W3 - Engines of Babylon Vehicles and Ships",
+    "BookShortName": "W3 - Engines of Babylon Vehicles and Ships",
+    "BookPublisher": "Sine Nomine Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Stars Without Number",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Stars Without Number",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Without Numbers\\Stars\\W3 - Engines of Babylon Vehicles and Ships.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "W4 - Sixteen Stars - Creating Places of Perilous Adventure",
+    "BookShortName": "W4 - Sixteen Stars - Creating Places of Perilous Adventure",
+    "BookPublisher": "Sine Nomine Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Stars Without Number",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Stars Without Number",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Without Numbers\\Stars\\W4 - Sixteen Stars - Creating Places of Perilous Adventure.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "W5 - Persons of Interest - Patrons and Nemeses",
+    "BookShortName": "W5 - Persons of Interest - Patrons and Nemeses",
+    "BookPublisher": "Sine Nomine Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Stars Without Number",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Stars Without Number",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Without Numbers\\Stars\\W5 - Persons of Interest - Patrons and Nemeses.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "W6 - Distant Lights",
+    "BookShortName": "W6 - Distant Lights",
+    "BookPublisher": "Sine Nomine Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Stars Without Number",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Stars Without Number",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Without Numbers\\Stars\\W6 - Distant Lights.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]

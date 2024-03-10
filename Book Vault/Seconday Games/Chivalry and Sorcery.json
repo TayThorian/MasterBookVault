@@ -270,5 +270,137 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "BGD8013 - Facets of Fire",
+  "BookShortName": "Facets of Fire",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "BGD8013",
+  "BookISBN": "978-1-902500-32-4",
+  "BookAuthor": "Stephen A Turner, Stephen Parsons",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Chivalry & Sorcery",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Chivalry and Sorcery\\BGD8013 - Facets of Fire.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "SCR0002 - Curse of the Casket",
+  "BookShortName": "Curse of the Casket",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "SCR0002",
+  "BookISBN": "",
+  "BookAuthor": "Stephen A Turner",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Chivalry & Sorcery",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Chivalry and Sorcery\\SCR0002 - Curse of the Casket.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "BGD7002 - Chivalry & Sorcery - 5th Edition GM Screen",
+  "BookShortName": "Chivalry & Sorcery - 5th Edition GM Screen",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "BGD7002",
+  "BookISBN": "",
+  "BookAuthor": "Stephen A Turner",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Chivalry & Sorcery",
+  "BookType": "GM Screen",
+  "BookFormat": "Hardback",
+  "BookSeries": "GM Screen",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Chivalry and Sorcery\\BGD7002 - Chivalry & Sorcery - 5th Edition GM Screen.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "BGD7000 - Chivalry & Sorcery Basic Rules",
+  "BookShortName": "Chivalry & Sorcery Basic Rules",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "BGD7000",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Chivalry & Sorcery",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Chivalry and Sorcery\\BGD7000 - Chivalry & Sorcery Basic Rules.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]

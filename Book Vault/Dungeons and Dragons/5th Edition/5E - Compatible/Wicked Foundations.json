@@ -1,0 +1,35 @@
+[
+  {
+    "BookName": "Tales of Terror - Dark Menagerie",
+    "BookShortName": "Tales of Terror - Dark Menagerie",
+    "BookPublisher": "Wicked Foundations",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "5E Compatible",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\5E - Compatible\\Wicked Foundations\\Tales of Terror - Dark Menagerie.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]
