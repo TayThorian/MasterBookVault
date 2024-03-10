@@ -1,7 +1,7 @@
 [
     {
-    "BookName": "Shadowrun - Third Edition",
-    "BookShortName": "",
+    "BookName": "FPR25000 - Shadowrun - Third Edition",
+    "BookShortName": "Shadowrun - Third Edition",
     "BookPublisher": "FanPro",
     "BookCode": "FPR25000",
     "BookISBN": "1-932564-46-2",
@@ -37,8 +37,8 @@
     }
   } ,
   {
-    "BookName": "Aztlan",
-    "BookShortName": "",
+    "BookName": "FAS7213 - Aztlan",
+    "BookShortName": "Aztlan",
     "BookPublisher": "FASA Corporation",
     "BookCode": "FAS7213",
     "BookISBN": "1-55560-257-6",
@@ -78,8 +78,8 @@
     }
   },
   {
-    "BookName": "Brainscan",
-    "BookShortName": "",
+    "BookName": "FAS7331 - Brainscan",
+    "BookShortName": "Brainscan",
     "BookPublisher": "FASA Corporation",
     "BookCode": "FAS7331",
     "BookISBN": "1-55560-410-2",
@@ -116,8 +116,8 @@
     }
   },
   {
-    "BookName": "Cannon Companion",
-    "BookShortName": "",
+    "BookName": "FPR10659 - Cannon Companion",
+    "BookShortName": "Cannon Companion",
     "BookPublisher": "FanPro",
     "BookCode": "FPR10659",
     "BookISBN": "1-932564-14-4",
@@ -151,8 +151,8 @@
     }
   },
   {
-    "BookName": "First Run",
-    "BookShortName": "",
+    "BookName": "FAS7329 - First Run",
+    "BookShortName": "First Run",
     "BookPublisher": "FASA Corporation",
     "BookCode": "FAS7329",
     "BookISBN": "1-55560-323-8",
@@ -186,8 +186,8 @@
     }
   } ,
   {
-    "BookName": "Character Dossier",
-    "BookShortName": "",
+    "BookName": "FPR10673 - Character Dossier",
+    "BookShortName": "Character Dossier",
     "BookPublisher": "FanPro",
     "BookCode": "FPR10673",
     "BookISBN": "",
@@ -220,8 +220,8 @@
     }
   } ,
   {
-    "BookName": "Matrix",
-    "BookShortName": "",
+    "BookName": "FAS7909 - Matrix",
+    "BookShortName": "Matrix",
     "BookPublisher": "FASA Corporation",
     "BookCode": "FAS7909",
     "BookISBN": "1-55560-401-3",
@@ -255,8 +255,8 @@
     }
   } ,
   {
-    "BookName": "Corporate Download",
-    "BookShortName": "",
+    "BookName": "FAS7125 - Corporate Download",
+    "BookShortName": "Corporate Download",
     "BookPublisher": "FASA Corporation",
     "BookCode": "FAS7125",
     "BookISBN": "1-55560-362-9",
@@ -289,8 +289,8 @@
     }
   } ,
   {
-    "BookName": "Corporate Punishment",
-    "BookShortName": "",
+    "BookName": "FAS7330 - Corporate Punishment",
+    "BookShortName": "Corporate Punishment",
     "BookPublisher": "FASA Corporation",
     "BookCode": "FAS7330",
     "BookISBN": "",
@@ -322,8 +322,8 @@
     }
   },
   {
-    "BookName": "Critters",
-    "BookShortName": "",
+    "BookName": "FAS7102 - Critters",
+    "BookShortName": "Critters",
     "BookPublisher": "FASA Corporation",
     "BookCode": "FAS7102",
     "BookISBN": "1-55560-369-6",
@@ -355,8 +355,8 @@
     }
   },
   {
-    "BookName": "Corporate Shadowfiles",
-    "BookShortName": "",
+    "BookName": "FAS7113 - Corporate Shadowfiles",
+    "BookShortName": "Corporate Shadowfiles",
     "BookPublisher": "FASA Corporation",
     "BookCode": "FAS7113",
     "BookISBN": "1-55560-211-8",
@@ -390,8 +390,8 @@
     }
   },
   {
-    "BookName": "Loose Alliances",
-    "BookShortName": "",
+    "BookName": "FPR25006 - Loose Alliances",
+    "BookShortName": "Loose Alliances",
     "BookPublisher": "FanPro",
     "BookCode": "FPR25006",
     "BookISBN": "1-932564-44-6",
@@ -424,8 +424,8 @@
     }
   },
   {
-    "BookName": "Magic in the Shadows",
-    "BookShortName": "",
+    "BookName": "FPR10658 - Magic in the Shadows",
+    "BookShortName": "Magic in the Shadows",
     "BookPublisher": "FanPro",
     "BookCode": "FPR10658",
     "BookISBN": "1-89064-658-1",
@@ -460,8 +460,8 @@
     }
   },
   {
-    "BookName": "Man & Machine - Cyberware",
-    "BookShortName": "",
+    "BookName": "FPR25001 - Man & Machine - Cyberware",
+    "BookShortName": "Man & Machine - Cyberware",
     "BookPublisher": "FanPro",
     "BookCode": "FPR25001",
     "BookISBN": "1-932564-07-1",
@@ -495,8 +495,8 @@
     }
   },
   {
-    "BookName": "Shadowrun Sixth World",
-    "BookShortName": "",
+    "BookName": "CAT28000 - Shadowrun Sixth World",
+    "BookShortName": "Shadowrun Sixth World",
     "BookPublisher": "Catalyst Games Lab",
     "BookCode": "CAT28000",
     "BookISBN": "978-1-941582-78-7",
@@ -532,8 +532,8 @@
   }
 },
 {
-  "BookName": "Shadowrun Sixth World - City Edition - Berlin",
-  "BookShortName": "",
+  "BookName": "CAT28000B - Shadowrun Sixth World - City Edition - Berlin",
+  "BookShortName": "Shadowrun Sixth World - City Edition - Berlin",
   "BookPublisher": "Catalyst Games Lab",
   "BookCode": "CAT28000B",
   "BookISBN": "",
@@ -568,8 +568,8 @@
   }
 },
 {
-  "BookName": "Shadowrun Sixth World - City Edition - Seattle",
-  "BookShortName": "",
+  "BookName": "CAT28000S - Shadowrun Sixth World - City Edition - Seattle",
+  "BookShortName": "Shadowrun Sixth World - City Edition - Seattle",
   "BookPublisher": "Catalyst Games Lab",
   "BookCode": "CAT28000S",
   "BookISBN": "",
@@ -601,8 +601,8 @@
   }
 },
 {
-  "BookName": "No Future",
-  "BookShortName": "",
+  "BookName": "CAT27453 - No Future",
+  "BookShortName": "No Future",
   "BookPublisher": "Catalyst Games Lab",
   "BookCode": "CAT27453",
   "BookISBN": "",
@@ -1489,6 +1489,72 @@
     "New Orleans moves from night to night—the day is just a brief break between the times when the real action happens. Once the sun goes down, jazz spills into the streets, spirits walk free, and people indulge in all manner of semi-legal and illegal activities. ",
     "It’s a prime sprawl for crime, and there’s money to be made in the shadows. But first, shadowrunners need to know the basics of the city. That’s what this book is for. You’ll find everything from geography to demographics to major players inside, leaving you fully ready to take on the Big Easy.",
     "Easy Come, Easy Go is a Shadows in Focus book for use with Shadowrun, Sixth World."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "CAT26S027 - Bullets & Bandages",
+  "BookShortName": "Bullets & Bandages",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT26S027",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Shadowrun\\5th Edition\\CAT26S027 - Bullets & Bandages.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "CAT27454 - The Neo-Anarchist Streetpedia",
+  "BookShortName": "The Neo-Anarchist Streetpedia",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT27454",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Shadowrun\\6th Edition\\CAT27454 - The Neo-Anarchist Streetpedia.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
   ],
   "TableOfContents": {
     "title": "Book",

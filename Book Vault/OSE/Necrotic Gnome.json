@@ -297,5 +297,145 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "Adventure Anthology 1",
+    "BookShortName": "Adventure Anthology 1",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "978-3-96657-072-5",
+    "BookAuthor": "Giuseppe Rotondo, Brad Kerr, Glynn Seal, D. M. Wilson and Sarah Brunt",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure Anthology",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventure Anthology",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Adventure Anthology 1.pdf"
+    ],
+    "BookDescription": [
+      "Four short adventures for Old-School Essentials, taking adventurers from disease-ridden sewers and bejeweled vaults, to sinister temples and to the deep void of space.",
+      "The Jeweler’s Sanctum (level 1–3): Delve into the abandoned workshop of a jeweler-magician.",
+      "Curse of the Maggot God (level 2–3): Brave the sewer lair of a maggot-worshiping heretic.",
+      "The Sunbathers (level 3): Uncover the dark secrets of the accursed temple of Lethe.",
+      "The Comet That Time Forgot (level 9+): Escape from a doomed comet hurtling through space."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "Adventure Anthology 2",
+    "BookShortName": "Adventure Anthology 2",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "978-3-96657-074-9",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure Anthology",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventure Anthology",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Adventure Anthology 2.pdf"
+    ],
+    "BookDescription": [
+      "Four short adventures for Old-School Essentials, taking adventurers from musty barrow mounds and gnomish shrines, to sinister cathedrals and accursed stepwells.",
+      "Barrow of the Bone Blaggards (level 1–3): Unearth the necromantic secrets of a freshly opened barrow mound.",
+      "Shrine of the Oozing Serpent (level 1–3): Delve into the slime-filled lair of a grease dragon and her amphibious minions.",
+      "Cathedral of the Crimson Death (level 4–6): Defeat an evil death cult and their plans for necrotic world domination.",
+      "The Ravener’s Ghat (level 6–8): Explore the accursed ruins of an ancient rakshasa’s temple."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "NG-0018 - Advanced Fantasy Referee's Tome",
+    "BookShortName": "Advanced Fantasy Referee's Tome",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0018",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rule Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "OSE RuleBooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0018 - Advanced Fantasy Referee's Tome.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "NG-0019 - Advanced Fantasy Reference Booklet",
+    "BookShortName": "Advanced Fantasy Reference Booklet",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0019",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rule Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "OSE RuleBooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0019 - Advanced Fantasy Reference Booklet.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

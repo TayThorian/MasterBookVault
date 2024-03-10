@@ -28,6 +28,12 @@
 ## TSR
 - TSR1071 - Rules Cyclopedia
 - TSR2173 - Monstrous Compendium Annual - Volume Four
+- TSR9549 - College of Wizardry
+- TSR11326 - The Vortex of Madness and other Planer Perils
+- TSR11361 - Warriors of Heaven
+- TSR11431 - Guide to Hell
+- TSR9293 - The Magic Encyclopedia Volume One
+- TSR9421 - The Magic Encyclopedia Volume Two
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
 - TSR9433 - ALQ4 - Secrets of the Lamp
@@ -58,9 +64,6 @@
 - WTC398890000 - Menzoberranzan - City of Intrigue
 - WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
 # PDF's Books to Source
-## Evil Hat Productions
-- EHP0034 - Adversary Toolkit
-- EHP0039 - Horror Toolkit
 ## Monte Cook Games
 - MCG361 - The Glimmering Valley
 ## Paizo
@@ -183,6 +186,8 @@
 - TSR9469 - HR7 - The Crusades Campaign Sourcebook
 - TSR9122 - H1 - Bloodstone Pass
 - TSR9168 - H2 - The Mines of Bloodstone
+- TSR11326 - The Vortex of Madness and other Planer Perils
+- TSR11361 - Warriors of Heaven
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
