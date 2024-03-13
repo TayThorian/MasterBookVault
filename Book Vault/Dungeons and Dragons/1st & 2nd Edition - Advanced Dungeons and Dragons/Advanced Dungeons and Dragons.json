@@ -3358,5 +3358,38 @@
         {"page": 19, "title": "Magical Items"}
         ]    
     }
+  },
+  {
+    "BookName": "TSR9039 - A1 - Slave Pits of the Undercity",
+    "BookShortName": "A1 - Slave Pits of the Undercity",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9039",
+    "BookISBN": "0-935696-25-3",
+    "BookAuthor": "David Cook",
+    "BookPublished": "1980",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "A Series",
+    "BookCharacterLevel": "Levels 4-7",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\A Series\\TSR9039 - A1 - Slave Pits of the Undercity.pdf"
+    ],
+    "BookDescription": [
+      "A1: Slave Pits of the Undercity: It is time to put a stop to the marauders! For years the coastal towns have been burned and looted by the forces of evil. You and your fellow adventurers have been recruited to root out and destroy the source of these raids—as hundreds of good men and women have been taken by the slavers and have never been seen or heard from again!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]
