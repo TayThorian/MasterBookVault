@@ -1,6 +1,6 @@
 [
     {
-    "BookName": "PZO12001 - Pathfinder - Player Core",
+    "BookName": "PZO12001 - Player Core",
     "BookShortName": "Pathfinder - Player Core",
     "BookPublisher": "Paizo",
     "BookCode": "PZO12001",
@@ -18,7 +18,7 @@
     "BookFormat": "Hardback",
     "BookSeries": "Rulebooks",
     "BookPDF": [
-      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO12001 - Pathfinder - Player Core.pdf"
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO12001 - Player Core.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
@@ -43,7 +43,7 @@
     }
   } ,
   {
-    "BookName": "PZO12002 - Pathfinder - GM Core",
+    "BookName": "PZO12002 - GM Core",
     "BookShortName": "Pathfinder - GM Core",
     "BookPublisher": "Paizo",
     "BookCode": "PZO12002",
@@ -61,7 +61,7 @@
     "BookFormat": "Hardback",
     "BookSeries": "Rulebooks",
     "BookPDF": [
-      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO12002 - Pathfinder - GM Core.pdf"
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO12002 - GM Core.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
@@ -73,6 +73,40 @@
       "chapters": [
         {"page": 1, "title": "TOC TO"},
         {"page": 2, "title": "BE DONE"}
+        ]    
+    }
+  },
+  {
+    "BookName": "PZO12003 - Monster Core",
+    "BookShortName": "Monster Core",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO12003",
+    "BookISBN": "978-1-64078-566-3",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition - Core",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\PZO12003 - Monster Core.pdf"
+    ],
+    "BookDescription": [
+      "Heroes are defined by their foes—from shambling skeletons to terrifying dragons, each enemy leaves a mark on their growing legend. Make your legends memorable with foes from the new Pathfinder Monster Core rulebook for Pathfinder Second Edition! This 376-page hardcover book is packed with a wide range of monsters useful to all Pathfinder campaigns, giving the Game Master plenty of threats to throw at their adventurers, at any level of experience. The lavishly illustrated tome also includes guidelines for reading monster entries and adjusting existing monsters to tailor fit your story! This is the definitive resource for Pathfinder Second Edition monsters!",
+      "Pathfinder Monster Core is the third core rulebook for the fully remastered Pathfinder Second Edition RPG! These rules are compatible with previous Pathfinder Second Edition rulebooks, incorporating comprehensive errata and rules updates and some of the best additions from later books into new, easier-to-access volumes with new presentations inspired by years of player feedback. Along with the Player Core, GM Core, and Player Core 2, these books provide a new foundation for the future of tabletop gaming!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
         ]    
     }
   },
@@ -1004,6 +1038,73 @@
     ],
     "BookDescription": [
       "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PZO9315 - Lost Omens - Firebrands",
+    "BookShortName": "Lost Omens - Firebrands",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO9315",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "Lost Omens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\Lost Omens\\PZO9315 - Lost Omens - Firebrands.pdf"
+    ],
+    "BookDescription": [
+      "The Firebrands were born in the flames of rebellion, eventually becoming some of the Inner Sea’s most well-known adventurers. Lost Omens Firebrands takes a detailed look at the characters that choose to take on oppressors or simply head out on adventures for fame and fortune. This book presents information on the Firebrands organization, from membership, to spreading the word of rebellion, to the missions to defeat tyranny, and the types of daredevil antics they perform for fun. The book also features new rules content including new equipment, magic items, spells, and support for archetypes for players who want to play a Firebrand in their campaigns!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "PZO9316 - Lost Omens - Highhelm",
+    "BookShortName": "Lost Omens - Highhelm",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO9316",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "Lost Omens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\Lost Omens\\PZO9316 - Lost Omens - Highhelm.pdf"
+    ],
+    "BookDescription": [
+      "When the first dwarves reached the surface of Golarion, they built enormous keeps as a monument to their legacy and to serve as their new home. The mightiest of these keeps was Highhelm, a Sky Citadel deep in the Five Kings Mountains. While other Sky Citadels have fallen since the Quest for Sky, Highhelm holds strong, serving as one of the major centers of dwarven culture.",
+      "Lost Omens Highhelm delves deep into the Emperor's Peak to present Highhelm in all its glory. This book details everyday life in the city, dwarven culture, and the various clans that influence the Sky Citadel. It also provides a full gazetteer of the city's layers and surroundings, each with adventuring locations and sites of intrigue suitable for a multitude of adventures. An included poster map presents Highhelm's layers in high detail and serves as an aid for campaigns centered on the dwarven city. Characters looking for new options can visit Highhelm for new equipment, ancestry feats, animal companions, and more!"
     ],
     "TableOfContents": {
       "title": "Book",

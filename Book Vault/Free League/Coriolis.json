@@ -1,7 +1,7 @@
 [
   {
-    "BookName": "Mercy of the Icons Part 1 - Emissary Lost",
-    "BookShortName": "",
+    "BookName": "MUH051597 - Mercy of the Icons Part 1 - Emissary Lost",
+    "BookShortName": "Mercy of the Icons Part 1 - Emissary Lost",
     "BookPublisher": "Free League Publishing",
     "BookCode": "MUH051597",
     "BookISBN": "978-1-912743-02-5",
@@ -40,8 +40,8 @@
   }
 },
 {
-  "BookName": "Mercy of the Icons Part 2 - The Last Cyclade",
-  "BookShortName": "",
+  "BookName": "FLFCOR002 - Mercy of the Icons Part 2 - The Last Cyclade",
+  "BookShortName": "Mercy of the Icons Part 2 - The Last Cyclade",
   "BookPublisher": "Free League Publishing",
   "BookCode": "FLFCOR002",
   "BookISBN": "978-91-89143-13-5",
@@ -84,8 +84,8 @@
   }
 },
 {
-  "BookName": "Mercy of the Icons Part 3 – Wake of the Icons",
-  "BookShortName": "",
+  "BookName": "FLFCOR004 - Mercy of the Icons Part 3 – Wake of the Icons",
+  "BookShortName": "Mercy of the Icons Part 3 – Wake of the Icons",
   "BookPublisher": "Free League Publishing",
   "BookCode": "FLFCOR004",
   "BookISBN": "978-91-89143-89-0",
@@ -125,8 +125,8 @@
   }
 },
 {
-  "BookName": "Aram's Secret",
-  "BookShortName": "",
+  "BookName": "MUH051601 - Aram's Secret",
+  "BookShortName": "Aram's Secret",
   "BookPublisher": "Free League Publishing",
   "BookCode": "MUH051601",
   "BookISBN": "978-1-912743-07-0",
@@ -162,8 +162,8 @@
   }
 },
 {
-  "BookName": "Last Voyage of the Ghazali",
-  "BookShortName": "",
+  "BookName": "MUH051600 - Last Voyage of the Ghazali",
+  "BookShortName": "Last Voyage of the Ghazali",
   "BookPublisher": "Free League Publishing",
   "BookCode": "MUH051600",
   "BookISBN": "978-1-912743-06-3",
@@ -261,6 +261,87 @@
     "Eye of the Beast puts the PCs on the forest moon of Arzachel, where they must confront their Icon beliefs or succumb to the rationality of science.",
     "Algebra of the Icons drops the PCs into a murder investigation that will lead them through the metropolis of Mehrabi.",
     "The scenario location The Mahanji Oasis introduces a desert oasis including maps, NPCs and scenario seeds."    
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MUH050559 - Coriolis - The Third Horizon",
+  "BookShortName": "Coriolis - The Third Horizon",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "MUH050559",
+  "BookISBN": "978-1-910132-72-2",
+  "BookAuthor": "Tomas Härenstam, Nils Karlén, Kosta Kostulas, Christian Granath",
+  "BookPublished": "2018",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Coriolis",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\MUH050559 - Coriolis - The Third Horizon Core book.pdf",
+    "D:\\Master Vault\\Coriolis\\MUH050559 - Coriolis - The Third Horizon Core book - Errata.pdf"
+  ],
+  "BookDescription": [
+    "Coriolis – The Third Horizon is a science fiction role-playing game from the makers of critically acclaimed Mutant: Year Zero (six-time nominee and winner of a Silver Ennie for Best Rules 2015).",
+    "Features:",
+    "Create your unique player character – including skills, talents, gear and relationships – in mere minutes.",
+    "Fight fast and furious battles, praying to the Icons to overcome your enemies.",
+    "Build and crew your own spaceship, to explore the many star systems of the Third Horizon.",
+    "Experience thrilling spaceship duels, using a game system that puts all player characters at the heart of the action.",
+    "Take part in the intrigue between powerful factions on the majestic space station Coriolis.",
+    "Uncover the mysteries of the Third Horizon, a rich tapestry of cultures that have settled the stars."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MUH050560 - Coriolis Atlas Compendium",
+  "BookShortName": "Coriolis Atlas Compendium",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "MUH050560",
+  "BookISBN": "978-1-910132-73-9",
+  "BookAuthor": "Tomas Härenstam, Nils Karlén, Kosta Kostulas, Christian Granath",
+  "BookPublished": "2017",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Coriolis",
+  "BookType": "Compendium",
+  "BookFormat": "Paperback",
+  "BookSeries": "Compendiums",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\MUH050560 - Coriolis Atlas Compendium.pdf"
+  ],
+  "BookDescription": [
+    "The Icons’ promised land, the vast cluster of star systems called the Third Horizon, is full of unsolved mysteries, ancient ruins, and deadly secrets. The mighty wonders left behind by the Portal Builders and the true nature of the mysterious Emissaries have only been myth to the common people of the Third Horizon – until now.",
+    "Some of the contents of this booklet:",
+    "Description of the most important systems of the Third Horizon.",
+    "A historical overview of the Third Horizon.",
+    "The story of the Portal Builders and descriptions of the wonders they left behind.",
+    "Tools and tables to help you create your own systems and planets.",
+    "Mission generators for quick adventure creation.",
+    "Expanded rules for space travel and unexpected encounters."
   ],
   "TableOfContents": {
     "title": "Book",

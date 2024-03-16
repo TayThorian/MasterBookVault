@@ -1,0 +1,35 @@
+[
+  {
+    "BookName": "CHA3200 - Rivers of London the Roleplaying Game",
+    "BookShortName": "Rivers of London the Roleplaying Game",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA3200",
+    "BookISBN": "978-1-56882-459-8",
+    "BookAuthor": "Ben Aaronovitch, Graeme Barber, Paul Fricker, Adam Gauntlett, Lloyd Gyan, Lynne Hardy, Gavin Inglis, Mike Mason, Keris McDonald, Lucya Szachnowski",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rivers of London",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rivers of London\\CHA3200 - Rivers of London RPG.pdf"
+    ],
+    "BookDescription": [
+      "In Rivers of London: the Roleplaying Game, players take on the roles of newly recruited members of the London Metropolitan Police Service’s special magic branch, aka “the Folly.” You will solve mysteries, catch criminals, and come to grips with the “demi-monde”—those who have been irreversibly changed by magic."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]

@@ -330,7 +330,73 @@
         {"page": 2, "title": "BE DONE"}
         ]    
     }
-  } ,
+  },
+  {
+    "BookName": "MGP40047 - Aliens of Charted Space Volume 1",
+    "BookShortName": "Aliens of Charted Space Volume 1",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40047",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Aliens of Charted Space",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40047 - Aliens of Charted Space Volume 1.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "MGP40048 - Aliens of Charted Space Volume 2",
+    "BookShortName": "Aliens of Charted Space Volume 2",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40048",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Aliens of Charted Space",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40048 - Aliens of Charted Space Volume 2.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
   {
     "BookName": "MGP40094 - Aliens of Charted Space Volume 3",
     "BookShortName": "Aliens of Charted Space Volume 3",
@@ -1280,10 +1346,10 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookSetting": "",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookSetting": "Traveller",
+    "BookType": "Sourcebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40002 - High Guard.pdf"
@@ -1313,10 +1379,10 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookSetting": "",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookSetting": "Traveller",
+    "BookType": "Sourcebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40003 - Central Supply Catalogue.pdf"
@@ -1346,16 +1412,97 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookSetting": "",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookSetting": "Traveller",
+    "BookType": "Sourcebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Books",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40004 - Vehicle Handbook.pdf"
     ],
     "BookDescription": [
       "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "MGP40040 - Deepnight Revelation",
+    "BookShortName": "Deepnight Revelation",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40040",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Campaign",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Deepnight Revelation",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40040 - Book 1 - Deepnight Legacy.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40040 - Book 2 - Campaign Guide.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40040 - Book 3 - Referee Handbook.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40040 - Book 4 - Terminus Point.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40040 - Poster - Map of the Journey.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40040 - Blank Subsector Map.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40040 - Poster - Deepnight Revelation.pdf"
+    ],
+    "BookDescription": [
+      "A grand 20 year campaign into deep space, commanding the exploration cruiser Deepnight Revelation.",
+      "The Deepnight Entity",
+      "It was alive when the stars were young. It saw the birth of galaxies, and it will see the death of the universe. It is growth and destruction; menace and saviour. It retreated into a prison of its own making, and there it waits. An exploration ship found the clues, and was destroyed. A researcher touched its mind, and was driven insane. What is it? We must know.",
+      "Deepnight Revelation",
+      "Deepnight Revelation, a former navy cruiser. Outfitted for the most stupendous mission in human history; a one-ship expedition along the Great Rift to the edge of the Spiral Arm. Deepnight Revelation will explore the uncharted systems along its path; contact unknown species and weather unpredictable dangers. At last we will stand before the gates to the Entity’s prison and demand entry. We will confront the Deepnight Entity and seek answers.",
+      "One Ship, Many Stories",
+      "There is a place for any Traveller aboard Deepnight Revelation; scientists and explorers, pilots and engineers, diplomats and rogues. There are mysteries to be unravelled, enemies to battle, and situations that require… unconventional… talents. The Travellers can take on any role they please, from humble research assistants to the mission’s commanders. The decisions they make will shape the course of the expedition – and perhaps the history of entire species.",
+      "Deepnight Revelation. A voyage beyond everything we know."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "The Order of Prometheus",
+    "BookShortName": "The Order of Prometheus",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40096 - The Order of Prometheus.pdf"
+    ],
+    "BookDescription": [
+      "In a backwater cluster of worlds deep within the Solomani Confederation, a covert society has stolen a cosmic secret. Using lost, perhaps forbidden, knowledge the Order of Prometheus will lead humanity into a new age with their custom-made creatures. Loyal warriors, indefatigable workers and resilient beasts of burden, their Golems are the answer to every manpower and labour-relations issue a user could ever imagine.",
+      "Investigating a remote installation, the Travellers stumble on evidence that someone is tampering with nature a little too much. A laboratory accident has cost the lives of the researchers, but where are the others of their team? The investigation takes the Travellers from the harsh world of Wasat, with its unusual starport, to logging camps and country estates. They will experience adventures aboard an atomic train and an awkward lunch with the notorious agents of SolSec.",
+      "Finally, the Travellers uncover the sinister motives of the Order of Prometheus, and face difficult choices in a city overrun by mindless killing machines. The wrong decision will permit an atrocity whose backlash might be felt right across Charted Space."
     ],
     "TableOfContents": {
       "title": "Book",

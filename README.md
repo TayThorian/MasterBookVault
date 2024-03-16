@@ -3,8 +3,11 @@
 ## Chaosium
 - CHA2036 - Basic Roleplaying - Universal Game Engine
 ## Monte Cook Games
+- MCG370 - Rust And Redemption
 - MCG361 - The Glimmering Valley
 - MCG311 - Path of the Planebreaker
+## Paizo
+- PZO12003 - Monster Core
 ## Iron Crown Enterprises
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Spell Law
@@ -65,10 +68,12 @@
 - WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
 # PDF's Books to Source
 ## Monte Cook Games
+- MCG370 - Rust And Redemption
 - MCG361 - The Glimmering Valley
 ## Paizo
 - PZO12001 - Pathfinder - Player Core
 - PZO12002 - Pathfinder - GM Core
+- PZO12003 - Monster Core
 ## Iron Crown Enterprises
 - ICE5800 - Rolemaster Fantasy Role Playing
 - ICE5801 - Arms Law
@@ -138,6 +143,7 @@
 - MGP40106 - Traveller Referee's Screen Update 2024
 - MGP40102 - Rim Expeditions
 - MGP40101 - Traveller Companion Update 2024
+- - The Order of Prometheus
 ## TSR
 - TSR9044 - B3 - Palace of the Silver Princess
 - TSR9049 - B4 - The Lost City
@@ -188,6 +194,11 @@
 - TSR9168 - H2 - The Mines of Bloodstone
 - TSR11326 - The Vortex of Madness and other Planer Perils
 - TSR11361 - Warriors of Heaven
+- TSR9039 - A1 - Slave Pits of the Undercity
+- TSR9040 - A2 - Secret of the Slaver Stockade
+- TSR9042 - A3 - Assault on the Aerie of the Slave Lords
+- TSR9041 - A4 - In the Dungeon of the Slave Lords
+- TSR9167 - A1-4 - Scourge of the Slave Lords
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
@@ -265,6 +276,7 @@
 - TSR9065 - WG4 - Forgotten Temple of Tharizdun
 - TSR9222 - WG7 - Castle Greyhawk
 ## Wizards of the Coast
+- WTCA4536 - A0-A4 - Against the Slave Lords
 - WTC398890000 - Menzoberranzan - City of Intrigue
 - WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
 - WTC317290000 - Neverwinter Campaign Setting

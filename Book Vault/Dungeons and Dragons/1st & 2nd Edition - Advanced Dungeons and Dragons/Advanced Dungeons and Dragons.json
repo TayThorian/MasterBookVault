@@ -3391,5 +3391,185 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "TSR9040 - A2 - Secret of the Slaver Stockade",
+    "BookShortName": "A2 - Secret of the Slaver Stockade",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9040",
+    "BookISBN": "0-935696-26-1",
+    "BookAuthor": "Harold Johnson, Tom Moldvay",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "A Series",
+    "BookCharacterLevel": "Levels 4-7",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\A Series\\TSR9040 - A2 - Secret of the Slaver Stockade.pdf"
+    ],
+    "BookDescription": [
+      "A2: Secret of the Slavers Stockade: The battle against the slavers continues! You and your fellow adventurers have defeated the slavers of Highport, but you have learned of the existence of another slaver stronghold, and you have decided to continue the attack. But beware! Only the most fearless of adventurers could challenge the slavers on their own ground, and live to tell of it!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9042 - A3 - Assault on the Aerie of the Slave Lords",
+    "BookShortName": "A3 - Assault on the Aerie of the Slave Lords",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9042",
+    "BookISBN": "0-935696-27-X",
+    "BookAuthor": "Allen Hammack",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "A Series",
+    "BookCharacterLevel": "Levels 4-7",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\A Series\\TSR9042 - A3 - Assault on the Aerie of the Slave Lords.pdf"
+    ],
+    "BookDescription": [
+      "Into the Drachensgrab Mountains! Hot on the trail of the marauding slavers, you and your fellow adventurers plunge deep into hostile hills. Spurred on by your past success, you now seek the heart of the slaver conspiracy. But hurry! Your must move quickly before the slavers recover from your previous forays and attack!",
+      "This module was originally used for the official Advanced Dungeons & Dragons Tournament at Gen Con XIII and is the third of four in a series of related tournament modules.",
+      "This module contains a challenging scenario, the tournament scoring system, plus nine pre-rolled, playtested tournament characters. Also included are large scale referee's maps, notes, and background information. A3 is a complete adventure in itself, but it is also a companion to A1 (Slave Pits of the Undercity), A2 (Secret of the Slavers' Stockade), and A4 (In the Dungeons of the Slave Lords)."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9041 - A4 - In the Dungeon of the Slave Lords",
+    "BookShortName": "A4 - In the Dungeon of the Slave Lords",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9041",
+    "BookISBN": "0-935696-28-8",
+    "BookAuthor": "Lawrence Schick",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "A Series",
+    "BookCharacterLevel": "Levels 4-7",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\A Series\\TSR9041 - A4 - In the Dungeon of the Slave Lords.pdf"
+    ],
+    "BookDescription": [
+      "Trapped in the dungeons of the Slave Lords!",
+      "The hardy adventurers must find a way out, with only their wits and courage to help them. But can they do it before everything is destroyed by the dreaded Earth Dragon?",
+      "This module was originally used for the final round of the official Advanced Dungeons & Dragons Tournament at Gen Con XIII and is the culmination of four related tournament modules.",
+      "This module contains a challenging scenario, the tournament scoring system, plus nine pre-rolled, play tested tournament characters. Also included are large scale referee's maps, notes, and background information.",
+      "A4 is a complete adventure in itself, but it is also a companion to A1 (Slave Pits of the Undercity), A2 (Secret of the Slavers' Stockade), and A3 (Assault on the Aerie of the Slave Lords). An adventure for character levels 4-7."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9167 - A1-4 - Scourge of the Slave Lords",
+    "BookShortName": "A1-4 - Scourge of the Slave Lords",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9167",
+    "BookISBN": "0-88038-275-9",
+    "BookAuthor": "David Cook, Allen Hammack, Harold Johnson, Tom Moldvay, Lawrence Schick, Edward Carmien",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "A Series",
+    "BookCharacterLevel": "Levels 7-11",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\A Series\\TSR9167 - A1-4 - Scourge of the Slave Lords.pdf"
+    ],
+    "BookDescription": [
+      "Screams echo in the night, the charred remnants of a village are mute by day. From the decaying lands of the Pormarj, slavers have struck again!",
+      "The adventure that began in the Temple of Elemental Evil now sweeps southward across the Wild Coast and into the desolate lands of the inhuman Pomarj. Slave raiders scour the countryside, leaving death and destruction in their wake. Daring adventurers strike into the heartland of the foe to harry the villains and bring retribution and justice to the land.",
+      "This product contains the completely revised Aerie of the Slavelords series of adventures. Also included are new challenges and new scenarios detailing the Wild Coast, the city of Highport, the blasted lands of the Pomarj and the Drachensgrab Mountain.",
+      "With the beginning found in the Temple of Elemental Evil, your campaign adventure can lead characters from 7th level all the way to 11th and beyond! Hours of adventure and excitement lie between these covers!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "WTCA4536 - A0-A4 - Against the Slave Lords",
+    "BookShortName": "A0-A4 - Against the Slave Lords",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCA4536",
+    "BookISBN": "978-0-7869-6462-8",
+    "BookAuthor": "David Cook, Allen Hammack, Harold Johnson, Tom Moldvay, Lawrence Schick & Skip Williams",
+    "BookPublished": "2013",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "A Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\A Series\\WTCA4536 - A0-A4 - Against the Slave Lords.pdf"
+    ],
+    "BookDescription": [
+      "Against the Slave Lords is a collection of four classic Advanced Dungeons & Dragons adventure modules that form a series -- A1: Slave Pits of the Undercity, A2: Secret of the Slavers Stockade, A3: Assault on the Aerie of the Slave Lords, and A4: In the Dungeons of the Slave Lords -- complete with original black-and-white interior art.",
+      "Added to the collection is an all-new fifth adventure -- A0: Danger at Darkshelf Quarry -- that you can use to kick off an AD&D campaign that pits a group of adventurers against the evil Slave Lords! Module A0, designed for levels 1-3, sets the stage for events that unfold throughout the remainder of the \"A\" series.",
+      "A1: Slave Pits of the Undercity: It is time to put a stop to the marauders! For years the coastal towns have been burned and looted by the forces of evil. You and your fellow adventurers have been recruited to root out and destroy the source of these raids—as hundreds of good men and women have been taken by the slavers and have never been seen or heard from again!",
+      "A2: Secret of the Slavers Stockade: The battle against the slavers continues! You and your fellow adventurers have defeated the slavers of Highport, but you have learned of the existence of another slaver stronghold, and you have decided to continue the attack. But beware! Only the most fearless of adventurers could challenge the slavers on their own ground, and live to tell of it!",
+      "A3: Assault on the Aerie of the Slave Lords: Into the Drachengrab Mountains! Hot on the trail of the marauding slavers, you and your fellow adventurers plunge deep into hostile Hills. Spurred on by your past success, you now seek the heart of the slaver conspiracy. But hurry! You must move quickly before the slavers recover from your previous forays and attack!",
+      "A4: In the Dungeons of the Slave Lords: Trapped in the dungeons of the Slave Lords! The hardy adventurers must find a way out, with only their wits and courage to help them. But can they do it before everything is destroyed by the dreaded Earth Dragon?",
+      "The book can also be run using the new D&D Next (or fifth edition) play-test rules, by encorporating the bestiary pdf in the June 7th, 2013 D&D Next Play-test document available from the Wizards of the Coast Website."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]
