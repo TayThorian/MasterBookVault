@@ -14,6 +14,62 @@
 - FLFFBL014 - Crypt of the Mellified Mage
 - MUH051557 - The Spire of Quetzel
 ## Iron Crown Enterprises
+- ICE2210 - Middle-Earth Adventure Guidebook II
+- ICE2300 - Angmar - Land of the Witch King
+- ICE2400 - Umbar - Haven of the Corsairs
+- ICE2500 - The Court of Ardor in Southern Middle-earth
+- ICE2900 - Moria The Dwarven City
+- ICE2600 - Northern Mirkwood, The Wood-Elves Realm
+- ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
+- ICE2700 - Southern Mirkwood - Haunt of the Necromancer
+- ICE3600 - Dunland and the Southern Misty Mountains
+- ICE3200 - Lorien & The Halls of the Elven Smiths
+- ICE8107 - Woses of the Black Wood
+- ICE8060 - Erech and the Paths of the Dead
+- ICE3000 - Rangers of the North, The Kingdom of Arthedain
+- ICE3110 - Mount Gundabad
+- ICE3111 - Greater Harad
+- ICE3113 - The Grey Mountains
+- ICE4010 - Mirkwood The Wilds of Rhovanion
+- ICE4020 - Empire of the Witch King
+- ICE3300 - Havens of Gondor
+- ICE3400 - Sea-Lords of Gondor
+- ICE3500 - Ents of Fangorn
+- ICE3700 - Lost Realm of Cardolan
+- ICE3800 - Far Harad The Scorched Land
+- ICE3900 - Shadow in the South
+- ICE8005 - Creatures of Middle Earth
+- ICE8006 - Treasures of Middle Earth
+- ICE8007 - Angus McBrides Characters of Middle Earth
+- ICE8010 - Bree and The Barrow Downs
+- ICE8012 - Warlords Desert
+- ICE8013 - Dark Mage of Rhudaur
+- ICE8014 - Rogues of the Borderlands
+- ICE8015 - Forest of Tears
+- ICE8016 - Ghost Warriors
+- ICE8070 - Goblin Gate and Eagles's Eyrye
+- ICE8090 - Brigands of Mirkwood
+- ICE8101 - Haunted Ruins of the Dunlendings
+- ICE8102 - Phantom Of The Northern Marches
+- ICE8103 - Trolls Of The Misty Mountains
+- ICE8104 - Pirates of Pelargir
+- ICE8105 - Gates Of Mordor
+- ICE8106 - Assassins of Dol Amroth
+- ICE8108 - Raiders of Cardolan
+- ICE8110 - Perils on the Sea of Rhun
+- ICE8111 - Denizens of the Dark Wood
+- ICE8112 - Hazard of the Harad Wood
+- ICE8113 - The Necromancer's Lieutenant
+- ICE4001 - Campaign Atlas - Northwestern Middle Eart Map Set
+- ICE4002 - Northwestern Middle-earth Gazeteer
+- ICE8001 - Combat Screen
+- ICE8114 - River Running
+- ICE8201 - Weathertop Tower of Wind
+- ICE8202 - Teeth of Mordor
+- ICE8203 - Calenhad A Beacon of Gondor
+- ICE8204 - Halls of the Elven King
+- ICE8205 - Nazguls Citadel
+- ICE8302 - Minas Ithil
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Spell Law
 - GCP-RMU-003 - Treasure Law
