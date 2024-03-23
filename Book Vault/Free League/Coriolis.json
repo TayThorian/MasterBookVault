@@ -350,5 +350,209 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "MUH051207 - The Mahanji Oasis",
+  "BookShortName": "The Mahanji Oasis",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "MUH051207",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Scenario",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\MUH051207 - The Mahanji Oasis.pdf"
+  ],
+  "BookDescription": [
+    "This 13-page PDF describes the Mahanji Oasis on the planet Lubau, a complete scenario location for the award-winning Coriolis - The Third Horizon RPG. Under the scorching sun, and in almost unbearable heat, life on Lubau continues. Nomad caravans, Zenithian explorers and ancient cultists manage to live their lives on the inhospitable planet closest to the star of Kua. They all meet at the Mahanji Oasis to escape the oppressive heat, make deals and scheme plots of intrigue."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MUH051206 - Hamurabi",
+  "BookShortName": "Hamurabi",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "MUH051206",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\MUH051206 - Hamurabi.pdf"
+  ],
+  "BookDescription": [
+    "This 12-page PDF describes the Hamurabi portal space station, and includes a complete scenario location for the award-winning Coriolis - The Third Horizon RPG.  From the outside it looks like any other portal station, a lonely chunk of dark metal and flashing lights, but inside, the rundown corridors and dim-lit halls are rife with intrigue, adventures and danger."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MUH051205 - Artifacts & Faction Tech",
+  "BookShortName": "Artifacts & Faction Tech",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "MUH051205",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Coriolis",
+  "BookType": "Supplement",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\MUH051205 - Artifacts & Faction Tech.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MUH051167 - The Dying Ship",
+  "BookShortName": "The Dying Ship",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "MUH051167",
+  "BookISBN": "978-91-87222-58-0",
+  "BookAuthor": "Tomas Härenstam, Nils Karlén, Kosta Kostulas, Christian Granath",
+  "BookPublished": "2017",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Coriolis",
+  "BookType": "Scenario",
+  "BookFormat": "Paperback",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\MUH051167 - The Dying Ship.pdf"
+  ],
+  "BookDescription": [
+    "The ice hauler Orun II has stopped responding to hails, and has changed course towards a deadly asteroid cloud. The player characters are tasked with intercepting the heavy freighter to find out what has happened onboard and bring it back to Coriolis safely.",
+    "What is hiding aboard the silent hauler and what has happened to her crew? In this full-length adventure for Coriolis - The Third Horizon RPG, the players get to explore the mystery of the dying ship, confront an ancient secret - and hopefully live to tell the tale. The contents include:",
+    "An exciting and action-packed scenario taking place on Coriolis, in space and onboard the dying ship.",
+    "Ship plans for the ice hauler Orun II.",
+    "Several player handouts.",
+    "Practical tips for the Gamemaster.",
+    "Five pre-made characters, ready to be used right away."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MUH050561 - Coriolis GM Screen",
+  "BookShortName": "Coriolis GM Screen",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "MUH050561",
+  "BookISBN": "978-1-910132-74-6",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Coriolis",
+  "BookType": "GM Screen",
+  "BookFormat": "Hardback",
+  "BookSeries": "GM Screen",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\MUH050561 - Coriolis GM Screen.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "Coriolis The Third Horizon - Quickstart",
+  "BookShortName": "Coriolis The Third Horizon - Quickstart",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Coriolis",
+  "BookType": "Quickstart",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Quickstart",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Coriolis\\Coriolis The Third Horizon - Quickstart.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]

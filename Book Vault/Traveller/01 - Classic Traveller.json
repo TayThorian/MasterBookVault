@@ -2641,5 +2641,281 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "JTAS01 - the Journal of the Travellers' Aid Society - Issue 01",
+    "BookShortName": "the Journal of the Travellers' Aid Society - Issue 01",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "JTAS01",
+    "BookISBN": "",
+    "BookAuthor": "Loren Wiseman",
+    "BookPublished": "1979",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Paperback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\JTAS\\JTAS01 - the Journal of the Travellers' Aid Society - Issue 01.pdf"
+    ],
+    "BookDescription": [
+      "Starship: Annic Nova - Marc W. Miller - 16",
+      "<b>Amber Zone</b>",
+      "Rescue on Ruie - Jeffery May - 12",
+      "<b>Features</b>",
+      "The Bestiary (Bush Runners and Tree Kraken) - 4",
+      "The Ship's Locker (TDX explosive) - 14",
+      "From the Management - 2",
+      "<b>Variant</b>",
+      "Diplomacy in Imperium - Roberto Camino - 9",
+      "<b>Traveller Module</b>",
+      "Computer Programming - Marc W. Miller - 7"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW312 - Double Adventure 1 - Shadows - Annic Nova",
+    "BookShortName": "Double Adventure 1 - Shadows - Annic Nova",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW312",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Double Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Double Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW312 - Double Adventure 1 - Shadows - Annic Nova.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW313 - Double Adventure 2 - Across the Bright Face - Mission on Mithril",
+    "BookShortName": "Double Adventure 2 - Across the Bright Face - Mission on Mithril",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW313",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Double Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Double Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW313 - Double Adventure 2 - Across the Bright Face - Mission on Mithril.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW321 - Double Adventure 3 - The Argon Gambit - Death Station",
+    "BookShortName": "Double Adventure 3 - The Argon Gambit - Death Station",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW321",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Double Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Double Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW321 - Double Adventure 3 - The Argon Gambit - Death Station.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW323 - Double Adventure 4 - Marooned - Marooned Alone",
+    "BookShortName": "Double Adventure 4 - Marooned - Marooned Alone",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW323",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Double Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Double Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW323 - Double Adventure 4 - Marooned - Marooned Alone.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW327 - Double Adventure 5 - The Chamax Plague - Horde",
+    "BookShortName": "Double Adventure 5 - The Chamax Plague - Horde",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW327",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Double Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Double Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW327 - Double Adventure 5 - The Chamax Plague - Horde.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "GDW331 - Double Adventure 6 - Divine Intervention - Night of Conquest",
+    "BookShortName": "Double Adventure 6 - Divine Intervention - Night of Conquest",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW331",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Double Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Double Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW331 - Double Adventure 6 - Divine Intervention - Night of Conquest.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "The Evening Star",
+    "BookShortName": "The Evening Star",
+    "BookPublisher": "Warfield Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "Warfield Games",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\Warfield Games\\The Evening Star [Remastered].pdf",
+      "D:\\Master Vault\\Traveller\\01 - CT\\Warfield Games\\The Evening Star Map.PDF",
+      "D:\\Master Vault\\Traveller\\01 - CT\\Warfield Games\\The Evening Star.PDF"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

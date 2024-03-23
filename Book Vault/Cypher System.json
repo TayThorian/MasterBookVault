@@ -133,9 +133,9 @@
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "",
-  "BookType": "",
+  "BookType": "Sourcebook",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Sourcebook",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Cypher System\\MCG316 - Path of the Planebreaker.pdf"
@@ -322,6 +322,45 @@
   "BookDescription": [
     "Rust and Redemption is a Cypher System setting that provides players with new options to create characters that can survive in a post-apocalyptic world. The setting offers new descriptors, foci, abilities, cyphers, artifacts, and gear to help players overcome the challenges of a world gone to ruin.",
     "The GM can also benefit from the campaign-building advice, which includes discussing the cause and historical distance of the apocalypse, themes of despair and hope, and a ready-to-use setting."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "MCG329 - Planar Bestiary",
+  "BookShortName": "Planar Bestiary",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG329",
+  "BookISBN": "",
+  "BookAuthor": "Bruce R. Cordell and Sean K. Reynolds",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG329 - Planar Bestiary.pdf"
+  ],
+  "BookDescription": [
+    "This beautifully illustrated collection is filled with over 150 wonderful, terrible, and weird creatures that add extra-planar excitement to your Cypher System campaign. Whether your PCs are exploring the planes, or these creatures find them closer to home, these monsters add an engaging and unexpected twist to your encounters.",
+    "Mystify, frighten, and challenge your PCs with creatures like the taker of bones (a crooked devil that collects the skeletons of living victims), the labyrinth stalker (an ever-hungry brute that hunts those who are lost), or the dream-invading gologoth (a nightmare dweller that feasts on minds as it fills them with panic and horror).",
+    "The Planar Bestiary gives you:",
+    "150 imaginative, unique creatures from myriad extra-dimensional planes.",
+    "Encounters for characters at every tier.",
+    "Inspiring ideas and creatures you can introduce in earthly encounters, or while exploring the planes.",
+    "Lots of material to use with the popular Path of the Planebreaker sourcebook—but you don’t need that title to use these monsters!"
   ],
   "TableOfContents": {
     "title": "Book",

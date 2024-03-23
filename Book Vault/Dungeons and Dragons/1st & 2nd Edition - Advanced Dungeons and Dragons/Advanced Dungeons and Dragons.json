@@ -3377,7 +3377,7 @@
     "BookType": "Adventure",
     "BookFormat": "Paperback",
     "BookSeries": "A Series",
-    "BookCharacterLevel": "Levels 4-7",
+    "BookCharacterLevel": "Levels 4 - 7",
     "BookPDF": [
       "D:\\Master Vault\\ADnD\\Adventures\\A Series\\TSR9039 - A1 - Slave Pits of the Undercity.pdf"
     ],
@@ -3410,7 +3410,7 @@
     "BookType": "Adventure",
     "BookFormat": "Paperback",
     "BookSeries": "A Series",
-    "BookCharacterLevel": "Levels 4-7",
+    "BookCharacterLevel": "Levels 4 - 7",
     "BookPDF": [
       "D:\\Master Vault\\ADnD\\Adventures\\A Series\\TSR9040 - A2 - Secret of the Slaver Stockade.pdf"
     ],
@@ -3443,7 +3443,7 @@
     "BookType": "Adventure",
     "BookFormat": "Paperback",
     "BookSeries": "A Series",
-    "BookCharacterLevel": "Levels 4-7",
+    "BookCharacterLevel": "Levels 4 - 7",
     "BookPDF": [
       "D:\\Master Vault\\ADnD\\Adventures\\A Series\\TSR9042 - A3 - Assault on the Aerie of the Slave Lords.pdf"
     ],
@@ -3478,7 +3478,7 @@
     "BookType": "Adventure",
     "BookFormat": "Paperback",
     "BookSeries": "A Series",
-    "BookCharacterLevel": "Levels 4-7",
+    "BookCharacterLevel": "Levels 4 - 7",
     "BookPDF": [
       "D:\\Master Vault\\ADnD\\Adventures\\A Series\\TSR9041 - A4 - In the Dungeon of the Slave Lords.pdf"
     ],
@@ -3563,6 +3563,144 @@
       "A3: Assault on the Aerie of the Slave Lords: Into the Drachengrab Mountains! Hot on the trail of the marauding slavers, you and your fellow adventurers plunge deep into hostile Hills. Spurred on by your past success, you now seek the heart of the slaver conspiracy. But hurry! You must move quickly before the slavers recover from your previous forays and attack!",
       "A4: In the Dungeons of the Slave Lords: Trapped in the dungeons of the Slave Lords! The hardy adventurers must find a way out, with only their wits and courage to help them. But can they do it before everything is destroyed by the dreaded Earth Dragon?",
       "The book can also be run using the new D&D Next (or fifth edition) play-test rules, by encorporating the bestiary pdf in the June 7th, 2013 D&D Next Play-test document available from the Wizards of the Coast Website."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9521 - Monstrous Arcana - I, Tyrant",
+    "BookShortName": "Monstrous Arcana - I, Tyrant",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9521",
+    "BookISBN": "0-7869-0404-6",
+    "BookAuthor": "Aaron Allston",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Monstrous Arcana",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Arcana\\TSR9521 - Monstrous Arcana - I, Tyrant.pdf"
+    ],
+    "BookDescription": [
+      "Death lurks in the eyes of the beholder.",
+      "Many are the stories of this creature's ferocity and unbridled power. Now, take a look inside the alien world of one of the most feared monsters in the AD&D game in this visually stunning 96-page accessory. I, Tyrant contains information on all beholders and beholder-kin including: detailed explanations of their deadly eye powers; insight into beholder psychology; an explanation of the creatures' social organizations; new magical items created specifically for beholders; and other useful game information on these deadly denizens of the planes. I, Tyrant also comes with a poster that details in full color many known beholder types.",
+      "This lavishly illustrated book is the first in a new series of accessories that focuses on some of the most popular monsters in the game. DMs and players alike will find this Monstrous Arcana accessory highly useful when playing Eye of Pain, Eye of Doom, and Eye to Eye a trilogy of adventures centered around beholders."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9522 - Monstrous Arcana - Eye of Pain",
+    "BookShortName": "Monstrous Arcana - Eye of Pain",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9522",
+    "BookISBN": "0-7869-0405-4",
+    "BookAuthor": "Thomas M. Reid",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Monstrous Arcana",
+    "BookCharacterLevel": "Levels 4 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Arcana\\TSR9522 - Monstrous Arcana - Eye of Pain.pdf"
+    ],
+    "BookDescription": [
+      "Inside the woods near Burke's Crossing lurks a very real danger. It began as a sense of unease, a feeling of being watched, but now people are disappearing. The lumberjacks who have stayed in the little village talk of ghosts and other superstitions. Or at least they did - until a mysterious statue appeared in a clearing near the logging camp.",
+      "As if matters weren't strange enough, two mages have arrived and begun hiring armed guards to escort them into these very same woods. Is there a connection, or is it just coincidence? Either way, be prepared! You never know what's out there waiting... and watching.",
+      "\"Eye of Pain\" is the first of three Monstrous Arcana adventures featuring the cunning and deadly beholder. If can be played as an individual adventure or as part of the series which continue in \"Eye of Doom\" and concludes in \"Eye to Eye.\""
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9530 - Monstrous Arcana - Eye of Doom",
+    "BookShortName": "Monstrous Arcana - Eye of Doom",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9530",
+    "BookISBN": "0-7869-0427-5",
+    "BookAuthor": "Thomas M. Reid",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Monstrous Arcana",
+    "BookCharacterLevel": "Levels 6 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Arcana\\TSR9530 - Monstrous Arcana - Eye of Doom.pdf"
+    ],
+    "BookDescription": [
+      "After hiring a group of brave adventurers to help him \"acquire\" a beholder specimen, the mage Velinax disappears! Rumors blame an insidious thieves' guild called the Unblinking Eye for this turn of events.",
+      "Why would the Unblinking Eye wish to \"take care\" of the mage? Why does the guild want to speak to anyone involved with Velinax? Finally, what dark goal does the guild truly intend to accomplish? Finding out the answers to these questions will lead doughty adventurers straight through the shadows of a crafty thieves' guild and onto the threshold of an even deeper and more dangerous darkness.",
+      "\"Eye of Doom\" is the second of three adventures featuring the nightmarish beholder. It can be played as an individual mission or as part of the series that began with \"Eye of Pain\" and concludes in \"Eye to Eye.\""
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9536 - Monstrous Arcana - Eye to Eye",
+    "BookShortName": "Monstrous Arcana - Eye to Eye",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9536",
+    "BookISBN": "0-7869-0450-X",
+    "BookAuthor": "Thomas M. Reid",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Monstrous Arcana",
+    "BookCharacterLevel": "Levels 8 - 12",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Arcana\\TSR9536 - Monstrous Arcana - Eye to Eye.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
     ],
     "TableOfContents": {
       "title": "Book",

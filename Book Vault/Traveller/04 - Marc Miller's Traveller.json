@@ -80,9 +80,9 @@
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "Marc Miller's Traveller",
-  "BookType": "",
+  "BookType": "Supplement",
   "BookFormat": "Softback",
-  "BookSeries": "",
+  "BookSeries": "Supplements",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1200 - Central Supply Catalog.pdf"
@@ -113,12 +113,111 @@
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "Marc Miller's Traveller",
-  "BookType": "",
+  "BookType": "Supplement",
   "BookFormat": "Softback",
-  "BookSeries": "",
+  "BookSeries": "Supplements",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1300 - Aliens Archive.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "IGI-1400 - Milieu 0",
+  "BookShortName": "Milieu 0",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1400",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1400 - Milieu 0.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "IGI-1410 - First Survey",
+  "BookShortName": "First Survey",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1410",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1410 - First Survey.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "IGI-1500 - Emperor's Arsenal",
+  "BookShortName": "Emperor's Arsenal",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1500",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1500 - Emperor's Arsenal.pdf"
   ],
   "BookDescription": [
     "No description available."

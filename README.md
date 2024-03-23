@@ -4,6 +4,7 @@
 - CHA2036 - Basic Roleplaying - Universal Game Engine
 ## Monte Cook Games
 - MCG370 - Rust And Redemption
+- MCG329 - Planar Bestiary
 - MCG361 - The Glimmering Valley
 - MCG311 - Path of the Planebreaker
 ## Paizo
@@ -125,6 +126,7 @@
 # PDF's Books to Source
 ## Monte Cook Games
 - MCG370 - Rust And Redemption
+- MCG329 - Planar Bestiary
 - MCG361 - The Glimmering Valley
 ## Paizo
 - PZO12001 - Pathfinder - Player Core
@@ -199,7 +201,7 @@
 - MGP40106 - Traveller Referee's Screen Update 2024
 - MGP40102 - Rim Expeditions
 - MGP40101 - Traveller Companion Update 2024
-- - The Order of Prometheus
+- MGP40096 - The Order of Prometheus
 ## TSR
 - TSR9044 - B3 - Palace of the Silver Princess
 - TSR9049 - B4 - The Lost City
