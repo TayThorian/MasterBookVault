@@ -211,7 +211,7 @@
   "BookRules": "Coriolis",
   "BookEdition": "1st Edition",
   "BookPhysical": "N/A",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Coriolis",
   "BookType": "Scenario",
