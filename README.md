@@ -173,6 +173,8 @@
 - - Swords of Cthulhu
 ## Dreamscape Design
 - DD0003 - Blueholme - Journeymanne Rules
+## Goblinoid Games
+- GBD1003 - Advanced Labyrinth Lord
 ## Digest Group Publications
 - - Manhunt
 ## Mongoose Publishing
@@ -257,6 +259,8 @@
 - TSR9042 - A3 - Assault on the Aerie of the Slave Lords
 - TSR9041 - A4 - In the Dungeon of the Slave Lords
 - TSR9167 - A1-4 - Scourge of the Slave Lords
+- TSR9571 - Monstrous Arcana - Masters of Eternal Night
+- TSR9572 - Monstrous Arcana - Dawn of the Overmind
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures

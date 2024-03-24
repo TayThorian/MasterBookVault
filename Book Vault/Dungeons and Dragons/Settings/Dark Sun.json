@@ -146,5 +146,71 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "TSR2401 - DS1 - Freedom",
+  "BookShortName": "DS1 - Freedom",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2401",
+  "BookISBN": "1-56076-105-9",
+  "BookAuthor": "David \"Zeb\" Cookd",
+  "BookPublished": "1991",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dark Sun",
+  "BookType": "Adventure",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "DS Series Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Dark Sun\\TSR2401 - DS1 - Freedom.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "TSR2406 - DSQ1 - Road to Urik",
+  "BookShortName": "DSQ1 - Road to Urik",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2406",
+  "BookISBN": "1-56076-248-9",
+  "BookAuthor": "David \"Zeb\" Cookd",
+  "BookPublished": "1992",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dark Sun",
+  "BookType": "Adventure",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "DSQ Series Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Dark Sun\\TSR2406 - DSQ1 - Road to Urik.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]

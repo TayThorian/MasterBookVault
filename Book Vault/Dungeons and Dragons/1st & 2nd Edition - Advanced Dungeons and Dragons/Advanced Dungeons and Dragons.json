@@ -3709,5 +3709,297 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "TSR9539 - Monstrous Arcana - The Sea Devils",
+    "BookShortName": "Monstrous Arcana - The Sea Devils",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9539",
+    "BookISBN": "0-7869-0643-X",
+    "BookAuthor": "Skip Williams",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Monstrous Arcana",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Arcana\\TSR9539 - Monstrous Arcana - The Sea Devils.pdf"
+    ],
+    "BookDescription": [
+      "Evil denizens of the depths: the sahuagin.",
+      "The sahuagin are known by many names. Some call them the Devil Men of the Deep; to others, they are simply the Sea Devils. This deadly race of aquatic beings has remained a mystery to surfacedwellers - until now. This fully illustrated 96-page accessory details the highly organized structure of sahuagin society, offers insight into the workings of the predatory sahuagin mind, and examines the worship of Sekolah, the dark sahuagin deity. The Sea Devils also includes a full description of a typical sahuagin village easily usable in any campaign setting, new spells that are granted to sahuagin priestesses, and a color poster detailing the sahuagin in all their variety.",
+      "This book is the second in a series of accessories that focuses on some of the most popular monsters in the AD&D game. DMs and players alike should also look for Evil Tide, Night of the Shark, and Sea of Blood, a trilogy of MONSTROUS ARCANA adventures centered around sahuagin."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9542 - Monstrous Arcana - Evil Tide",
+    "BookShortName": "Monstrous Arcana - Evil Tide",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9542",
+    "BookISBN": "0-7869-0678-2",
+    "BookAuthor": "Bruce R. Cordell",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Monstrous Arcana",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Arcana\\TSR9542 - Monstrous Arcana - Evil Tide.pdf"
+    ],
+    "BookDescription": [
+      "YOU SHOULD BE AFRAID OF THE WATER...",
+      "When the sun sinks low, the sea devils rise dripping from the dark waves. They swarm like sharks, lethal and unstoppable. Death glints like a promise in their rabid eyes, and the blood of their prey paints their claws and teeth scarlet. Night after night they come, slaying all who stand in their way. Their sudden raids have devastated the island, bringing fishing and commerce to a halt as the people cower in their homes, dreading the next sunset. Desperate, the Potentate of Angleburg has sent for help from daring adventurers willing to face the devil men of the deep. But more secrets lurk beneath the waves: this is no passing attack but part of a more sinister, secret design by the most dangerous and capable race to inhabit the dark seas.",
+      "Evil Tide is the first of an adventure trilogy (continuing with Night of the Shark and concluding in Sea of Blood) that pits brave adventurers against the evil race called Sahuagin by the air-breathing races. The sahuagin adventure trilogy can be played seperately or linked together to form a seamless epic-length adventure. The sahuagin trilogy supports Monstrous Arcana: Sea Devils, a source book providing invaluable, fascinating, and immediately applicable supplementary information."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9550 - Monstrous Arcana - Night of the Shark",
+    "BookShortName": "Monstrous Arcana - Night of the Shark",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9550",
+    "BookISBN": "0-7869-0718-5",
+    "BookAuthor": "Bruce R. Cordell",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Monstrous Arcana",
+    "BookCharacterLevel": "Levels 6 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Arcana\\TSR9550 - Monstrous Arcana - Night of the Shark.pdf"
+    ],
+    "BookDescription": [
+      "When the storm comes in with its teeth, teeth, teeth...",
+      "Black clouds build on the horizon with supernatural swiftness as the light of day drains away like a guttering candle. As the wind screams and sea spray blinds the eyes, the masts splinter and the deck heels over, a plaything of the storm. A nightmare shark hunts the murky ocean for all that succumb to the hammer of the winds. Can anyone survive the Tempest of the Deep Mother?",
+      "Night of the Shark is the second part of an adventure trilogy featuring the evil sahuagin, deadly sea devils in pursuit of an ancient relic known only as The Stone Which Abides. This adventure can be played independently, or it can be linked together as part of the adventure series that began with Evil Tide and concludes with Sea of Blood."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9560 - Monstrous Arcana - Sea of Blood",
+    "BookShortName": "Monstrous Arcana - Sea of Blood",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9560",
+    "BookISBN": "0-7869-0772-X",
+    "BookAuthor": "Bruce R. Cordell",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Monstrous Arcana",
+    "BookCharacterLevel": "Levels 7 - 9",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Arcana\\TSR9560 - Monstrous Arcana - Sea of Blood.pdf"
+    ],
+    "BookDescription": [
+      "\"Every land to drown in the avenging sea of blood\" —from the Prophecy of the Deep Mother",
+      "The deep sea holds many perils, some known, some secret, some merely hungry — and some outright evil. Those who live on dry land speak in whispers of the dreadful City of Abiding Hunger, where sea devils cavort in the court of their king, awful rites pay homage to a brutal shark god, and desperate refugees from above the waves dream of the sun they will never see again.",
+      "In Sea of Blood, adventurers attempt to overcome the mortal threats contained in the City of Abiding Hunger and the Throne of Teeth before finally coming face to face with their true enemy, the Deep Mother. It can be played as a stand-alone adventure, or it can serve as the finale of the sahuagin adventure trilogy that started with Evil Tide and continued in Night of the Shark."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9569 - Monstrous Arcana - The Illithiad",
+    "BookShortName": "Monstrous Arcana - The Illithiad",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9569",
+    "BookISBN": "0-7869-1206-5",
+    "BookAuthor": "Bruce R. Cordell",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Monstrous Arcana",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Arcana\\TSR9569 - Monstrous Arcana - The Illithiad.pdf"
+    ],
+    "BookDescription": [
+      "The Illithiad is a visually stunning tome that details important information on mind flayers, their mental powers, and their dire plans to control the multiverse. ",
+      "This \"complete book of illithids\" covers:",
+      "The anatomy and physiology of the mind flayer.",
+      "The terrible truth about the mind flayer life cycle.",
+      "Illithid-kin, undead mind flayers, and new' flayer-kin monsters.",
+      "A balanced look at illithid psionic powers.",
+      "a detailed description of a typical mind flayer community",
+      "Unique mind flayer psionic abilities and items.",
+      "The Illitiad is the third volume in the popular Monstrous Arcana game accessory series and is indispensable to DMs who want to add these terrifying creatures to their campaigns. The Illithiad supports the mind flayer adventure trilogy: A Darkness Gathering, Masters of Eternal Night, and Dawn of the Overmind"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9570 - Monstrous Arcana - A Darkness Gathering",
+    "BookShortName": "Monstrous Arcana - A Darkness Gathering",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9570",
+    "BookISBN": "0-7869-1208-1",
+    "BookAuthor": "Bruce R. Cordell",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Monstrous Arcana",
+    "BookCharacterLevel": "Levels 7 - 9",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Arcana\\TSR9570 - Monstrous Arcana - A Darkness Gathering.pdf"
+    ],
+    "BookDescription": [
+      "\"Put out the Sun; Darken the Light!\" -Illithid aphorism",
+      "I watched the early morning sun dribble above the horizon, only to have my worst fears realized. As I looked on, something vast and unseen took a monstrous bite out of the sun, leaving gaping teeth marks. The bloated red disc guttered and spit, finally plunging back below the horizon like a wounded bird in flight, dousing the plain in a stygian darkness . and I knew what I had long suspected: They had returned!",
+      "Something is very wrong in Stormport: Corruption runs rampant among city officials, more and more people turn up missing every day, dark prophesies of Change convert new believers, and rumors persist of a demonic beast with a taste for human flesh that stalks the alleyways. Worse yet, spring is overdue; winter refuses to relinquish its icy grip.",
+      "Only one vile force could cause such chaos: The illithids have risen up once again, ready to enslave the surface races. Now, as never before, the world needs great heroes, mighty adventurers who will challenge the illithids; dark agenda.",
+      "A Darkness Gathering is the first of an adventure trilogy (continuing with Masters of Eternal Night and concluding in Dawn of the Overmind) that pits brave adventurers against the brain eating mind flayers. Dungeon Masters can run each individual adventure of the trilogy separately, or they can be linked together to form a seamless, epic-length adventure.",
+      "The illithid trilogy supports The Illithiad, a MONSTROUS ARCANA supplement that provides invaluable supplementary information on mind flayers and their evil plans."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9571 - Monstrous Arcana - Masters of Eternal Night",
+    "BookShortName": "Monstrous Arcana - Masters of Eternal Night",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9571",
+    "BookISBN": "0-7869-1253-7",
+    "BookAuthor": "Bruce R. Cordell",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Monstrous Arcana",
+    "BookCharacterLevel": "Levels 7 - 9",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Arcana\\TSR9571 - Monstrous Arcana - Masters of Eternal Night.pdf"
+    ],
+    "BookDescription": [
+      "\"Rock, and dark, and time not passing.\" I walk through darkness and a land frozen in the grip of winter.",
+      "Everywhere frigid gusts of wind send icy needles at my face. I do not even flinch anymore; the pain reminds me that I yet live. I can feel them - their alien thoughts twirling about my mind. They wish me to serve, but I will not . not yet.",
+      "In Masters of Eternal Night, adventurers travel across a frozen landscape to stop the deadly mind flayers in their quest to extinguish the sun. Deep in the secret heart of a snow-covered crater, the player characters must unearth an ancient alien object. Only with its powers can the PCs hope to end the illithids' bid for ultimate domination.",
+      "This module is the second in a trilogy (origination with A Darkness Gathering and concluding with Dawn of the Overmind). DMs can run this adventure by itself or link it with A Darkness Gathering and Dawn of the Overmind to form a seamless epic-length adventure spanning all three modules. The illithid trilogy supports The Illithiad, a MONSTROUS ARCANA supplement that provides invaluable information on illithids and their vile purposes."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9572 - Monstrous Arcana - Dawn of the Overmind",
+    "BookShortName": "Monstrous Arcana - Dawn of the Overmind",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9572",
+    "BookISBN": "0-7869-1211-1",
+    "BookAuthor": "Bruce R. Cordell",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Monstrous Arcana",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Monstrous Arcana\\TSR9572 - Monstrous Arcana - Dawn of the Overmind.pdf"
+    ],
+    "BookDescription": [
+      "A new age dawns.an age of terror!",
+      "They are close. I can feel them even stronger, now. It won't be long before the Masters come again. I have waited for them, waited for their return. Once they extinguish the Light, the true Dawn can begin.",
+      "The illithids once ruled a mighty empire that stretched across many worlds. These foul creatures enslaved or destroyed whole races in their quest for ultimate power - until a rebellion spread like fire on dry plains. The mind flayer empire toppled, and the multiverse was freed from eternal servitude.",
+      "Now, a hundred suns burn toward extinction, their light stolen by the flayers to reinvent their past. If the PCs do not stop the new dawn, the Dawn of the Overmind, the illithids will rule once again! Following the clues left by their benefactor, the adventurers journey over a vast world of ancient ruins. Buried deeply within these ruins lies an artifact of ancient illithid manufacture. This item is all that stands between the illithids and their nefarious goal: complete and utter domination.",
+      "Dawn of the Overmind is the third adventure in a trilogy (originating with A Darkness Gathering and continuing in Masters of Eternal Night ). It can be played alone or linked with the other two parts of the trilogy to form an epic-length adventure. The illithid trilogy supports The Illithiad, a MONSTROUS ARCANA supplement that contains invaluable information on every facet of illithid life, psychology, technology, and ability."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

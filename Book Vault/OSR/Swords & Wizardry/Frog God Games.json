@@ -1,0 +1,68 @@
+[
+  {
+    "BookName": "The Tome of Horrors Complete",
+    "BookShortName": "The Tome of Horrors Complete",
+    "BookPublisher": "Frog God Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Swords & Wizardry",
+    "BookEdition": "Complete",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\Swords and Wizardry\\Frog God Games\\The Tome of Horrors Complete.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+},
+{
+  "BookName": "City of Brass",
+  "BookShortName": "City of Brass",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Frog God Games\\City of Brass.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
+]
