@@ -2772,5 +2772,38 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "ICE6501 - Character Law",
+    "BookShortName": "Character Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE6501",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Rolemaster",
+    "BookEdition": "RMC",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster Classic\\ICE6501 - Character Law.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]
