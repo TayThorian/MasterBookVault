@@ -74,6 +74,11 @@
 - GCP-RMU-001 - Rolemaster Unified - Core Law
 - GCP-RMU-002 - Spell Law
 - GCP-RMU-003 - Treasure Law
+- ICE6501 - Character Law
+- ICE6502 - Arms Law
+- ICE6503 - Spell Law
+- ICE6504 - Creatures & Treasures
+- ICE6505 - Combat Companion
 ## Game Designers Workshop
 - GDW252 - Tarsus
 - - Supplement 5 - Lightning Class Cruisers
@@ -157,6 +162,11 @@
 - ICE5814 - Mentalism Companion
 - ICE5815 - Construct Companion
 - ICE5816 - Races & Cultures
+- ICE6501 - Character Law
+- ICE6502 - Arms Law
+- ICE6503 - Spell Law
+- ICE6504 - Creatures & Treasures
+- ICE6505 - Combat Companion
 - GCP-SMP-4500 - Space Master Privateers
 - GCP-SMP-4511 - Robotics Manual
 - GCP-SMP-4512 - Equipment Manual
