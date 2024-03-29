@@ -4001,5 +4001,431 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "TSR1112 - Fighter's Player Pack",
+    "BookShortName": "Fighter's Player Pack",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1112",
+    "BookISBN": "0-7869-0039-3",
+    "BookAuthor": "William W. Connors",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Player Pack",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Player Packs",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player Packs\\TSR1112 - Fighter's Player Pack.pdf"
+    ],
+    "BookDescription": [
+      "You've found the ideal all-in-one playing aid for your favorite game with the AD&D Game Fighter's Player Pack. Inside your Player Pack is the information you need to play your chosen class of character-the fighter-with skill and finesse, and a gathering of playing aids selected by TSR game designers as the items both experienced and beginning gamers find most useful. With this product you get: Fighter Character Record Sheets, an eight page booklet of valuable information about role-playing fighter characters, and a fighter's screen."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1113 - Wizard's Player Pack",
+    "BookShortName": "Wizard's Player Pack",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1113",
+    "BookISBN": "0-7869-0040-7",
+    "BookAuthor": "William W. Connors",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Player Pack",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Player Packs",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player Packs\\TSR1113 - Wizard's Player Pack.pdf"
+    ],
+    "BookDescription": [
+      "You've found the ideal all-in-one playing aid for your favourite game with the AD&D Game Wizard's Player Pack. Inside your Player Pack is the information you need to play your chosen class of characters ? the wizard ? with skill and finesse, and a gathering of playing aids selected by TSR game designers as the items both experienced and beginning gamers find most useful."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1114 - Priests Player Pack",
+    "BookShortName": "Priests Player Pack",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1114",
+    "BookISBN": "0-7869-0041-5",
+    "BookAuthor": "William W. Connors",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Player Pack",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Player Packs",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player Packs\\TSR1114 - Priests Player Pack.pdf"
+    ],
+    "BookDescription": [
+      "You have found the ideal all-in-one playing aid for your favourite game with the AD&D Game Priest's Player Pack. Inside your Player Pack is the information you need to play your chosen class of character - the priest - will skill and finesse, and a gathering of playing aids selected by TSR game designers as the items both experienced and beginning gamers find most useful."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1115 - Thief's Player Pack",
+    "BookShortName": "Thief's Player Pack",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1115",
+    "BookISBN": "0-7869-0042-3",
+    "BookAuthor": "William W. Connors",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Player Pack",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Player Packs",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player Packs\\TSR1115 - Thief's Player Pack.pdf"
+    ],
+    "BookDescription": [
+      "You have found the all-in-one playing aid for your favorite game with the AD&D Game Thief's Player Pack. Inside your Player Pack is the information you need to play your chosed class of character--the thief--with skill and finesse, and a gathering of playing aids selected by TSR game designers as the items both experienced and beginning gamers find most useful."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9457 - Fighter's Screen",
+    "BookShortName": "Fighter's Screen",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9457",
+    "BookISBN": "1-56076-832-0",
+    "BookAuthor": "David \"Zeb\" Cook",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Player Screen",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player Screens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player Screens\\TSR9457 - Fighter's Screen.pdf"
+    ],
+    "BookDescription": [
+      "At last, gaming screens for players, too!",
+      "The Fighter's Screen speeds up game play by taking the most frequently used character-specific information from the AD&D game Player's Handbook and Complete Fighter's Handbook and making it instantly accessible. Now the details players need on the spot to play any warrior class - including fighters, rangers, and paladins - can be right at their fingertips. The screen folds in a neat triangle that sits on the table top in front of players for at-a-glance reference.",
+      "Also enclosed are eight additional pages of valuable reference material that can be slipped into character folders. These pages feature an extensive Player's Handbook and Tome of Magic spell and spell-statistics list for rangers and paladins, a complete Master Weapons Chart, and other handy tables and charts."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9462 - Priest's Screen",
+    "BookShortName": "Priest's Screen",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9462",
+    "BookISBN": "1-56076-816-9",
+    "BookAuthor": "David \"Zeb\" Cook",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Player Screen",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player Screens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player Screens\\TSR9462 - Priest's Screen.pdf"
+    ],
+    "BookDescription": [
+      "The Priest's Screen speeds up game play by taking the most frequently used character specific information form the AD&D game Player's Handbook and Complete Priest's Handbook and making it instantly accessible. Now the information players need on the spot to play any kind of priest? including clerics and druids?:can be right at their fingertips. The screen folds in a neat triangle that sits on the table top in front of players for at-a-glance reference.",
+      "Also enclosed are eight additional pages of valuable reference material that can be slipped into character folders. These pages feature an extensive Player's Handbook and Tome of Magic spell and spell-statistics list for clerics, a complete Turning Undead Table, and other handy tables and charts."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9463 - Thief's Screen",
+    "BookShortName": "Thief's Screen",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9463",
+    "BookISBN": "1-56076-831-2",
+    "BookAuthor": "Skip Williams",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Player Screen",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player Screens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player Screens\\TSR9463 - Thief's Screen.pdf"
+    ],
+    "BookDescription": [
+      "At last, gaming screens for players, too!",
+      "The Thief's Screen speeds up game play by taking the most frequently used character-specific information from the AD&D game Player's Handbook, Complete Thief's Handbook, and Complete Bard's Handbook and making it instantly accessible. Now the details players need on the spot to play any rogue classes?including thieves and bards?can be right at their fingertips. The screen folds in a neat triangle that sits on the table top in front of players for at-a-glance reference.",
+      "Also enclosed are four additional pages of valuable reference material that can be slipped into character folders. These pages feature an extensivePlayer's Handbook and Tome of Magic spell and spell-statistics list for bard characters, and other handy tables and charts."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9468 - Wizard's Screen",
+    "BookShortName": "Wizard's Screen",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9468",
+    "BookISBN": "1-156076-830-9",
+    "BookAuthor": "Julia Martin",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Player Screen",
+    "BookFormat": "Paperback",
+    "BookSeries": "Player Screens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Player Screens\\TSR9468 - Wizard's Screen.pdf"
+    ],
+    "BookDescription": [
+      "The Wizard's Screen speeds up game play by taking the most frequently used character specific information form the AD&D game Player's Handbook and Complete Wizard's Handbook and making it instantly accessible. Now the details players need on the spot to play any of the wizard classes? including mages, specialist wizards, wild mages, or elementalists can be right at their fingertips. The screen folds in a neat triangle that sits on the table top in front of players for at-a-glance reference.",
+      "Also enclosed are four additional pages of valuable reference material that can be slipped into character folders. These pages feature an extensive Player's Handbook and Tome of Magic spell and spell-statistics list, and other handy tables and charts."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9221 - DQ1 - The Shattered Statue",
+    "BookShortName": "DQ1 - The Shattered Statue",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9221",
+    "BookISBN": "0-88038-498-0",
+    "BookAuthor": "Paul Jaquays",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Paperback",
+    "BookSeries": "DQ Series",
+    "BookCharacterLevel": "Levels 5 - 9",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\DQ Series\\TSR9221 - DQ1 - The Shattered Statue.pdf"
+    ],
+    "BookDescription": [
+      "\"A mutual friend has praised your skills highly. If you seek rich reward and the oppurtunity to delve into mysteries ancient and lost, bring this bottle forthwith to my demesne in the village of Volkumburgh. Together we may seek to bring mankind the lost wonder of the awtawmatawn.\"",
+      "A mysterious note, a disappearing 5-foot-long religious artifact, and the ruins of two magical schools. What do these things have in common? How deeply are your party members involved in all of this?",
+      "\"The Shattered Statue\" is the first dual-game-system module of its kind. Players of both the AD&D game system and DRAGONQUEST game system can use this adventure. It is suitable for use with the FORGOTTEN REALMS campaign setting."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1145 - Tomes - The Rod of Seven Parts",
+    "BookShortName": "Tomes - The Rod of Seven Parts",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1145",
+    "BookISBN": "0-7869-0418-6",
+    "BookAuthor": "Skip Williams",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Tomes Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\Tomes Series\\TSR1145 - Tomes - The Rod of Seven Parts.pdf"
+    ],
+    "BookDescription": [
+      "Stirrings of an ageless war between Law and Chaos are drawing you into an epic adventure! A Struggle More Savage than Good vs. Evil Imagine a time before the words Good and Evil had meaning, a day when the world was young. Discover an ancient conflict that predates the stars. It was in these days that Law and Chaos forged worlds out of nothingness; their war began while the cosmos was yet unfinished. The Rod of Seven Parts defines epic role-playing.",
+      "The reappearance of the Rod has awakened the powers of Chaos, and their queen seeks to turn the whole world into a battleground. Bold heroes must undertake the enormous task of seeking out and assembling the pieces of the Rod, but even its power cannot stand alone. Ages ago, primal forces of Law stood fast against Chaos; now their champions must once more confront the Queen of Chaos and her foul spyder-fiends, lest the flame of civilization be extinguished."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1162 - Tomes - Return to the Tomb of Horrors",
+    "BookShortName": "Tomes - Return to the Tomb of Horrors",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1162",
+    "BookISBN": "0-7869-0732-0",
+    "BookAuthor": "Bruce R. Cordell",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Tomes Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\Tomes Series\\TSR1162 - Tomes - Return to the Tomb of Horrors.pdf"
+    ],
+    "BookDescription": [
+      "<b>The nightmare of Acererak's tomb once again hungers for life!</b>",
+      "Imagine a place of unspeakable evil. It was built upon hopelessness and filled with unending terror and pain. This loathsome place shattered the life of everyone who ventured near. But through tremendous sacrifice and heroism, over the course of many years, it was finally gutted and its foul creator destroyed.",
+      "Now imagine that the horror is beginning all over again.",
+      "The sinister wizard Acererak took great pains to safeguard his tomb. It took many years, and many more lives, before his evil was finally laid to rest. But though the demilich is gone, he is not forgotten. Others who would become as he was have traveled to the site of Acererak's tomb seeking the secrets of mastery over death. Slowly these pilgrims gathered, eventually building in the shadow of the tomb itself a community dedicated to the dark arts: Skull City.",
+      "But even these twisted necromancers have no inkling of the true evil that swells and crackles beneath their feet.",
+      "This boxed adventure contains:",
+      "A 160-page adventure book;",
+      "A 32-page book of illustrations to be shown to players;",
+      "Player handouts, including an adventurer's diary filled with clues;",
+      "A 16-page book of maps and monsters;",
+      "And a reprinted facsimile of the original Tomb of Horrors adventure module as first published in 1978."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR11347 - Tomes - Axe of the Dwarvish Lords",
+    "BookShortName": "Tomes - Axe of the Dwarvish Lords",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11347",
+    "BookISBN": "0-7869-1347-9",
+    "BookAuthor": "Skip Williams",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Tomes Series",
+    "BookCharacterLevel": "Levels 13 - 15",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\Tomes Series\\TSR11347 - Tomes - Axe of the Dwarvish Lords.pdf"
+    ],
+    "BookDescription": [
+      "The rediscovery of an artifact forged at the dawn of time signals an age of strife and opportunity!",
+      "The dwarven clans are in chaos, and a powerful host of goblins stands poised to sweep over the land in a wave of death and terror. Only the Axe of the Dwarvish Lords?one of the most powerful weapons ever created by the dwarven race?holds the key to ultimate victory against the massing humanoids. Can the PCs brave the labyrinth of an abandoned dwarven stronghold to find the Axe?",
+      "It's up to your characters to write a new chapter in the saga of the Axe.",
+      "This book contains the full story of the Axe's creation, loss, and reappearance.",
+      "For five to seven characters of levels 13-15."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 3, "title": "Introduction"},
+        {"page": 8, "title": "Chapter 1 - About the Axe"},
+        {"page": 18, "title": "Chapter 2 - Nonplayer Characters"},
+        {"page": 22, "title": "Chapter 3 - Just a Little Feud"},
+        {"page": 47, "title": "Chapter 4 - Radruundar"},
+        {"page": 176, "title": "Chapter 5 - Slaying the Abomination"},
+        {"page": 181, "title": "Appendix 1 - New Magical Items"},
+        {"page": 187, "title": "Appendix 2 - The Axe World to World"},
+        {"page": 189, "title": "Appendix 3 - New Monsters"}
+        ]    
+    }
   }
 ]

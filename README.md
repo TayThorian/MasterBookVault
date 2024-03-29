@@ -271,6 +271,13 @@
 - TSR9167 - A1-4 - Scourge of the Slave Lords
 - TSR9571 - Monstrous Arcana - Masters of Eternal Night
 - TSR9572 - Monstrous Arcana - Dawn of the Overmind
+- TSR9457 - Fighter's Screen
+- TSR9462 - Priest's Screen
+- TSR9468 - Wizard's Screen
+- TSR9221 - DQ1 - The Shattered Statue
+- TSR1145 - Tomes - The Rod of Seven Parts
+- TSR1162 - Tomes - Return to the Tomb of Horrors
+- TSR11347 - Tomes - Axe of the Dwarvish Lords
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
