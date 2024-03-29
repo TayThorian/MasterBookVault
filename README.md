@@ -10,8 +10,6 @@
 ## Paizo
 - PZO12003 - Monster Core
 ## Free League Publishing
-- FLFTOR012 - Tales from the Lone Lands
-- FLFALE017 - Building Better Worlds
 - FLFFBL014 - Crypt of the Mellified Mage
 - MUH051557 - The Spire of Quetzel
 ## Iron Crown Enterprises
@@ -137,9 +135,6 @@
 - PZO12001 - Pathfinder - Player Core
 - PZO12002 - Pathfinder - GM Core
 - PZO12003 - Monster Core
-## Free League Publishing
-- FLFTOR012 - Tales from the Lone Lands
-- FLFALE017 - Building Better Worlds
 ## Sine Nomine Publishing
 - - Cities Without Number
 - - Stars Without Number Revised Edition
