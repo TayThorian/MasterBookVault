@@ -1862,13 +1862,13 @@
     }
   },
   {
-    "BookName": "TSR9043 - X1 - Isle of Dead",
-    "BookShortName": "X1 - Isle of Dead",
+    "BookName": "TSR9043 - X1 - The Isle of Dread",
+    "BookShortName": "X1 - The Isle of Dread",
     "BookPublisher": "TSR",
     "BookCode": "TSR9043",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-935696-30-X",
+    "BookAuthor": "David Cook & Tom Moldvay",
+    "BookPublished": "1980",
     "BookCover": "",
     "BookRules": "Dungeons and Dragons",
     "BookEdition": "Basic D&D",
@@ -1879,13 +1879,92 @@
     "BookType": "Adventure",
     "BookFormat": "Softback",
     "BookSeries": "X Series",
-    "BookCharacterLevel": "",
+    "BookCharacterLevel": "Levels 3 to 7",
     "BookPDF": [
-      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9043 - X1 -  Isle of Dead [Orange Cover].pdf",
-      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9043 - X1 -  Isle of Dead.pdf"
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9043 - X1 -  The Isle of Dread [Orange Cover].pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9043 - X1 -  The Isle of Dread.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "Hundreds of miles from the mainland, surrounded by dangerous waters, lies an island known only as the Isle of Dread. Dark jungles and treacherous swamps await those who are brave enough to travel inland in search of the lost plateau, where the ruins of a once mighty civilization hold many treasures - and many secrets!",
+      "The Isle of Dread is the first in a series of adventures for use with the D&D Expert rules. The module is designed as an instructional aid to help novice Dungeon Masters design their own wilderness adventures. For character levels 3 to 7.",
+      "Included in the module are 13 maps of the isle, 16 new monsters, and suggestions for further adventures on the Isle of Dread. A special continent map, complete with background information, is also included.",
+      "The Isle awaits! Will you be able to find the lost plateau and discover the secrets of the Isle of Dread?"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9051 - X2 - Castle Amber",
+    "BookShortName": "X2 - Castle Amber",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9051",
+    "BookISBN": "0-935696-51-2",
+    "BookAuthor": "Tom Moldvay",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "X Series",
+    "BookCharacterLevel": "Levels 3 - 6",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9051 - X2 - Castle Amber.pdf"
+    ],
+    "BookDescription": [
+      "Trapped in the mysterious Castle Amber, you find yourselves cut off form the world you know. The castle is fraught with peril. Members of the strange Amber family, some insane, some merely deadly, lurk around every corner. Somewhere in the castle is the key to your escape, but can you survive long enough to find it?",
+      "This module contains referee notes, background information, maps, and exploration keys intended for use with the D&D Expert rules. Be sure to look for other D&D modules!",
+      "For characters levels 3 - 6."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9056 - X3 - Curse of Xanathon",
+    "BookShortName": "X3 - Curse of Xanathon",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9056",
+    "BookISBN": "0-935696-56-3",
+    "BookAuthor": "Douglas Niles",
+    "BookPublished": "1982",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "X Series",
+    "BookCharacterLevel": "Levels 5-7",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9056 - X3 - Curse of Xanathon.pdf"
+    ],
+    "BookDescription": [
+      "Something is rotten in Rhoona?",
+      "When the grotesque god Cretia casts his ugly shadow over the town, strange things start happening. First, Duke Stephen vanishes. Then bizarre proclamations begin coming out the Ducal Palace - dwarves are outlawed, taxes must be paid in beer, horses must be ridden backwards. Soon the entire town is in an uproar, and a dwarven army is marching on Rhoona. This is the situation when you and your party of valiant adventurers arrive in the suffering town.",
+      "There you find any number of oddities:",
+      "A ragged beggar who prowls the streets offering cryptic advice;",
+      "A mysterious black-garbed cleric planning treachery;",
+      "A trusted soldier plotting his master's overthrow; and",
+      "A sinister jewel casting its evil emanations over the town.",
+      "You and your party are Rhoona's only hope. Only you can unravel the dark mystery that plagues the town and save Rhoona from the Curse of Xanathon.",
+      "For character levels 5-7."
     ],
     "TableOfContents": {
       "title": "Book",

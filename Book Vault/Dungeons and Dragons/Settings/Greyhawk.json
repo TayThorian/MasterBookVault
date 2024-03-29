@@ -425,5 +425,182 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "TSR9576 - Return of the Eight",
+    "BookShortName": "Return of the Eight",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9576",
+    "BookISBN": "0-7869-1247-2",
+    "BookAuthor": "Roger Moore",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Other 2nd Edition Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR9576 - Return of the Eight.pdf"
+    ],
+    "BookDescription": [
+      "It begins the night a dragon falls on an off-duty adventurer. Fortunately, it's a small dragon. Unfortunately, it's connected to a big problem. Make that a huge problem: The survival of a well-known wizard belonging to the Circle of Five is at stake, but that's not the worst of it. Evil forces are attempting to infiltrate a secret fortress and unlock vast magical power, but that's not the worst, either.",
+      "The bad news? Some old enemies of civilization in the Flanaess have returned, and they've discovered a mutual interest in world domination. They have a plan to bring it about. And their plan is already underway when the little dragon appears. Worse, on this particular night, there's no one who can stop them - no one but any heroes who start this adventure and survive through its out-of-this-world climax. And they have no choice. If they fail, the City of Greyhawk and all the civilized lands of the Flanaess will get to meet some remarkable legendary figures.",
+      "Then Civilization will die. Screaming."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9579 - The Star Cairns",
+    "BookShortName": "The Star Cairns",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9579",
+    "BookISBN": "0-7869-1250-2",
+    "BookAuthor": "Sean Reynolds",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Other 2nd Edition Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR9579 - The Star Cairns.pdf"
+    ],
+    "BookDescription": [
+      "Derro swarm in the Abbor-Alz. The Doomgrinder windmill's blades approach their zenith. Strange sightings in Hardby and rumors of a bandit empire in the mountains have commoners and nobles concerned. The Circle of Eight hopes that the key to averting this disaster can be found in the mysteries of a group of five ancient crypts, the Star Cairns. But first someone has to find the fifth cairn . . . .",
+      "Five separate adventure sites playable individually or linked together, The Star Cairnscan provide a diversion for treasure-hungry adventurers—or can be used as the seeds for an extensive campaign. Although the adventures are designed for four to eight characters of levels 5-8, each section can be adjusted for weaker or stronger groups.",
+      "The Lost Tombs series continues with The Crypt of Lyzandred the Mad (Volume 2) and The Doomgrinder (Volume 3)."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9580 - Crypt of Lyzandred the Mad",
+    "BookShortName": "Crypt of Lyzandred the Mad",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9580",
+    "BookISBN": "0-7869-1251-0",
+    "BookAuthor": "Sean Reynolds",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Other 2nd Edition Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR9580 - Crypt of Lyzandred the Mad.pdf"
+    ],
+    "BookDescription": [
+      "The lich Lyzandred: a madman, an undead archmage, a survivor of the twin cataclysms that destroyed tow great empires. His name invokes fear in the hears of the smallest children, the bravest warriors, and the wisest sages. Like a malicious cat, the lich toys with all who stumble into his maze, tormenting them with strange puzzles and obscure riddles, monsters and demons, weird traps and dangerous magics. All who enter the crypt of Lyzandred find themselves scarred with his rune, proof of their visit -- and their folly.",
+      "But there is a method to the madness of Lyzandred, a purpose to his twisted games. If you're lucky, you might even live to learn about it.",
+      "The Lost Tombs series begins with Star Cairns and concludes with The Doomgrinder. Each adventure is playable separately, or they can be linked to form an epic-length story."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9581 - The Doomgrinder",
+    "BookShortName": "The Doomgrinder",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9581",
+    "BookISBN": "0-7869-1252-9",
+    "BookAuthor": "Steve Miller",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Other 2nd Edition Adventures",
+    "BookCharacterLevel": "Levels 4 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR9581 - The Doomgrinder.pdf"
+    ],
+    "BookDescription": [
+      "The Doomgrinder, a mysterious stone windmill many leagues east of the City of Greyhawk, has for centuries been the source of rumors, frustration and fear. The rumors say that vast treasures are stored inside—all cursed. The frustration belongs to hundreds of adventures who over the years have attempted to enter the windmill and failed. The fear is felt by those who believe the world will end when the stone sails of the Doomgrinder turn again. In the City of Greyhawk, powerful spellcasters read bad omens for the future, and the Doomgrinder is part of them. Some see no future at all good or bad.",
+      "In this Greyhawk adventure, a group of brave heroes may finally learn the truth about the Doomgrinder.",
+      "Designed for characters of level 4 through 8 but adaptable to any level, the adventure can be played on its own or as the climax of the Lost Tombs adventure series. It also offers countless opportunities for spin-off adventures, potentially providing the foundation for entirely new campaign directions, and months of exciting game sessions."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR11621 - Slavers",
+    "BookShortName": "Slavers",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11621",
+    "BookISBN": "0-7869-1621-4",
+    "BookAuthor": "Sean K. Reynolds & Chris Pramas",
+    "BookPublished": "2000",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Other 2nd Edition Adventures",
+    "BookCharacterLevel": "Levels 4 to 5",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR11621 - Slavers.pdf"
+    ],
+    "BookDescription": [
+      "It has been a decade since the feared yellow sails of the Slavelords appeared in the harbors of Wild Coast towns?ten years since friends, family, and loved ones were carried off in shackles to the inhuman lands of the Pomarj. But since then, new evil has arisen in those dark lands.",
+      "Turrosh Mak, a half-orc warlord, has unified the bickering humanoid tribes into a rapacious nation! With sword and flame, tooth and claw, he led his conquering horde north, till over half of the Wild Coast fell beneath his iron gauntlet.",
+      "Now the ships with the yellow sails have reappeared on the waters of the Woolly Bay. They have even reached the shores of the Nyr Dyv, the \"lake of unknown depths,\" striking suddenly and carrying off every able-bodied survivor. And just as suddenly they vanish without a trace. The scourge of the Slavelords has returned.",
+      "This book features a new chapter in the Slavelords saga, and includes detailed descriptions of the cities and lands of the Flanaess, from the City of Dyvers to the dark peaks of the Drachensgrab Mountains deep in the Pomarj.",
+      "For five to eight heroes of levels 4 to 5."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

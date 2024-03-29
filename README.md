@@ -278,6 +278,10 @@
 - TSR1145 - Tomes - The Rod of Seven Parts
 - TSR1162 - Tomes - Return to the Tomb of Horrors
 - TSR11347 - Tomes - Axe of the Dwarvish Lords
+- TSR9464 - City Sites
+- TSR947 - Castle Sites
+- TSR9482 - Country Sites
+- TSR1125 - Night Below - An Underdark Campaign
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures

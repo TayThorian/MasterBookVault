@@ -4359,7 +4359,7 @@
     "BookType": "Adventure",
     "BookFormat": "Boxed Set",
     "BookSeries": "Tomes Series",
-    "BookCharacterLevel": "",
+    "BookCharacterLevel": "Levels 13-16",
     "BookPDF": [
       "D:\\Master Vault\\ADnD\\Adventures\\Tomes Series\\TSR1162 - Tomes - Return to the Tomb of Horrors.pdf"
     ],
@@ -4425,6 +4425,210 @@
         {"page": 181, "title": "Appendix 1 - New Magical Items"},
         {"page": 187, "title": "Appendix 2 - The Axe World to World"},
         {"page": 189, "title": "Appendix 3 - New Monsters"}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9464 - City Sites",
+    "BookShortName": "City Sites",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9464",
+    "BookISBN": "1-56076-923-8",
+    "BookAuthor": "Skip Williams",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Sites Series Accessories",
+    "BookCharacterLevel": "All Levels",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Sites Series Accessories\\TSR9464 - City Sites.pdf"
+    ],
+    "BookDescription": [
+      "City Sites, the first in a series of AD&D game floorplans, includes extensive details on urban settings that player characters are likely to visit in any campaign.",
+      "For instance, within you'll find",
+      "a smithy run by gnomes;",
+      "a temple that's home to an orphaned dragon; and",
+      "a tavern that patrons can't enter until they give the password",
+      "This book also describes two inns, a singing fountain, a jail, and much more! Each site's entry tells the Dungeon Master what the place looks like at first glance and offers a detailed floor plan of the interior, as well as a picture of the exterior. Readers will also find fascinating notes about the characters who live and work in each site, along with one or two ideas for personalizing the spot to suit any adventure.",
+      "From now on, make a trip to the city easy - and exciting!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 2, "title": "Introduction"},
+        {"page": 4, "title": "Part 1 - Public Locations"},
+        {"page": 50, "title": "Part 2 - Businesses"}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR947 - Castle Sites",
+    "BookShortName": "Castle Sites",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR947",
+    "BookISBN": "0-7869-0145-4",
+    "BookAuthor": "Kevin Melka, Sam Witt",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Sites Series Accessories",
+    "BookCharacterLevel": "All Levels",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Sites Series Accessories\\TSR9479 - Castle Sites.pdf"
+    ],
+    "BookDescription": [
+      "One's castle is one's home!",
+      "Castle Sites offers a fascinating and detailed look into the workings of seven fantastic fortresses, including the following:",
+      "Kaurak Kholzil, a dwarven bastion built into the face of a cliff to protect a rich adamantium mine",
+      "Cloud Keep, the flying fortress of a storm giant clan",
+      "Dragon's Coffin, built to keep an ancient black dragon trapped inside its subterranean lair",
+      "Each entry includes a description of the site's appearance, history, and layout, a detailed floorplan, complete data on the NPCs who live (or died) there, and adventure hooks to draw player characters into the setting.",
+      "Castle Sites is easily adaptable to any AD&D campaign and is suitable for all levels of play. Also in this series of accessories are City Sites and Country Sites."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 2, "title": "Introduction"},
+        {"page": 4, "title": "Kaurak Kholzil"},
+        {"page": 15, "title": "Cloud Keep"},
+        {"page": 23, "title": "Sentinel's Stand"},
+        {"page": 37, "title": "Dragon's Coffin"},
+        {"page": 57, "title": "The Guardian"},
+        {"page": 74, "title": "Shadow Tor"},
+        {"page": 90, "title": "Watch Tower"}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9482 - Country Sites",
+    "BookShortName": "Country Sites",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9482",
+    "BookISBN": "0-7869-0180-2",
+    "BookAuthor": "Robin Jenkins",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Paperback",
+    "BookSeries": "Sites Series Accessories",
+    "BookCharacterLevel": "All Levels",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Sites Series Accessories\\TSR9482 - Country Sites.pdf"
+    ],
+    "BookDescription": [
+      "Get out of town and into the world!",
+      "Country Sites, the third in a series of AD&D game accessories, is a compendium of challenging and distinctive settings that will test the mettle of any group of player characters. Herein is all the information a Dungeon Master needs to build adventures within these settings and incorporate them into an existing campaign: background information, maps, location descriptions, and summary profiles of the unusual characters who populate these strange places",
+      "Take your characters into the City of the Dead. See if they can overcome the obstacles of \"Darian's Wall,\" or arrange for them to pay a visit to The Place of Broken Dreams. Every one of the 11 sites in this 96-page book will open new vistas for adventuring in (and sometimes under) the great outdoors.",
+      "Previous books in this series include City Sites and Castle Sites. Suitable for all levels of play."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 2, "title": "Introduction"},
+        {"page": 4, "title": "Larger Sites"},
+        {"page": 84, "title": "Smaller Sites"}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1125 - Night Below - An Underdark Campaign",
+    "BookShortName": "Night Below - An Underdark Campaign",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1125",
+    "BookISBN": "0-7869-0179-9",
+    "BookAuthor": "Carl Sargent",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Underdark",
+    "BookType": "Accessory",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Other Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Boxed Sets\\TSR1125 - Night Below - An Underdark Campaign.pdf"
+    ],
+    "BookDescription": [
+      "A missing mage...",
+      "A ruthless band of kidnappers...",
+      "A sinister conspiracy...",
+      "Night Below, the first epic campaign adventure for the AD&D game, is designed to take the player characters from 1st level to 10th level and beyond. The PCs start as beginning adventures on a routine courier mission who soon become drawn into combating a sinister plot that menaces the pleasant land of Haranshire.",
+      "By the end of Book I, The Evils of Haranshire, the player characters should have worked their way up to 5th level. Book II, Perils of the Underdark, shifts the scene underground as the characters search the seemingly endless realm of the underdark to discover the fate of the kidnappers' victims. By the time they reach the dark cavern of The Sunless Sea in Book III, they should each be 10th level or above, ready at last to confront the ultimate evil behind the far-reaching conspiracy.",
+      "Inside this box are",
+      "Three 64-page books compromising a single grand-scale adventure, which can be placed in any AD&D world.",
+      "16 Player Handout sheets featuring art, maps, charts, and letters.",
+      "8 two-sided DUNGEON MASTER Reference Cards providing cutouts, monster rosters, and two new evil deities.",
+      "An eight-page booklet of new MONSTROUS COMPENDIUM entries, detailing three new races and two new monsters.",
+      "6 full-color poster maps detailing all the important locations in the entire campaign setting."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR1056 - Castles - A 3-Dimensional Game Accessory",
+    "BookShortName": "Castles - A 3-Dimensional Game Accessory",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1056",
+    "BookISBN": "0-88038-883-8",
+    "BookAuthor": "Jeff Grubb, David \"Zeb\" Cook, Bruce Nesmith",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Other Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Boxed Sets\\TSR1056 - Castles - A 3 Dimensional Game Accessory.pdf"
+    ],
+    "BookDescription": [
+      "Inside you'll discover a \"King's Ransom\" in Castles and Accessories!",
+      "EXPLORE THREE SPECTACULAR CASTLES...",
+      "\"Darkhold\" in the Forgotten Realms setting: Towering stronghold of the nefarious Black Network",
+      "\"Drungar\" in the Dragonlance setting: Bastion of defense against Thenol's undead armies.",
+      "\"Hart\" in Greyhawk setting: A paladin's shining, star shaped fortress.",
+      "See each castle brought to life in its own dramatic full-color poster, a full-color map, plus a 48 page book describing the fortress and all the scheming characters who live there.",
+      "<b>FIGHT BATTLES AT THE CASTLE WALLS</b>"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
         ]    
     }
   }

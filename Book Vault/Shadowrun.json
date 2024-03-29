@@ -1563,5 +1563,40 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "CAT28880S - Lofwyr's Legions",
+  "BookShortName": "Lofwyr's Legions",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28880S",
+  "BookISBN": "",
+  "BookAuthor": "Russell Zimmerman",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Shadowrun\\6th Edition\\CAT28880S - Lofwyr's Legions.pdf"
+  ],
+  "BookDescription": [
+    "IN THE SHADOW OF DRAGONS",
+    "Shadowrunners know that the most dangerous position to have in the Sixth World is being perceived as a threat by the powerful. Drakes are the perfect example—their power is considerable, which means they almost always have someone after them. They often end up seeking protection by serving dragons and doing their bidding—which means they represent dragons’ interests in the shadows. Runners need to know about drakes, because they could mess up their lives in short order. Or, if they’re lucky, become one of the greatest friends or even teammates a runner could have.",
+    "Lofwyr’s Legions offers short fiction, NPCs, character qualities, and rules for involving drakes in your Shadowrun, Sixth World game."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]
