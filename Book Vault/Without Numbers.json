@@ -394,5 +394,46 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "The Diocesi of Montfroid",
+    "BookShortName": "The Diocesi of Montfroid",
+    "BookPublisher": "Sine Nomine Publishing",
+    "BookCode": "",
+    "BookISBN": "978-1-950965-29-8",
+    "BookAuthor": "Kevin Crawford",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Worlds Without Number",
+    "BookType": "Gazetteer",
+    "BookFormat": "Softcover",
+    "BookSeries": "Gazetteers",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Without Numbers\\Worlds\\The Diocesi of Montfroid.pdf"
+    ],
+    "BookDescription": [
+      "Gobelins creep through the chill pine forests and loup-garous cry out under the gibbous moon. Villagers shiver within the palisade, only the midnight churchbells to comfort them in the deep winter night. Cruel Fae and grim beasts and fell pagan spears press in on them from every side, but God and the tales of their mighty heroes of old shall preserve them. This is Montfroid, a cold shore on the coast of Couront, and the weak and foolish linger only in sad tales.",
+      "The Diocesi of Montfroid is a gazetteer set in the Latter Earth of the Worlds Without Number fantasy role-playing game. An isolated frontier province of a hard-pressed kingdom, Montfroid is a wild land of isolated villages and fearsome foes, with the ruins of two prior ages of settlement scattered amid forbidding pine forests and craggy hills. Its folk cling to their faith and the chansons of their heroic past, trusting in both to drive back their countless foes.",
+      "Within the pages of this gazetteer, you'll find...",
+      "A complete campaign setting for novice adventurers, with challenges and situations suitable for a band of 1st to 3rd level heroes.",
+      "Full details of a half-dozen villages and the chief town of Castelnou, each with NPCs and problems for budding adventurers to encounter.",
+      "GM helps such as a Montfroid bestiary, local name tables, premade retainers, and tips on dealing with crime, taxes, and other matters of interest to adventurers.",
+      "Milon's End, a fully-developed four-level beginner dungeon with GM tips on handling the actual running of the adventure.",
+      "While the Diocesi of Montfroid is set in the kingdom of Couront mentioned in the Atlas of the Latter Earth, it's been built to fit neatly into any conveniently remote chunk of coastline in your own fantasy world. In the same vein, Milon's End has been fashioned to suit any location where an abandoned manor might be found.",
+      "So sally forth into the wilds, benevolent reader. Whether playing Worlds Without Number or another old-school inspired game, the Diocesi of Montfroid gives you everything you need to start a fresh campaign of youthful heroism, glorious deeds, and potentially tragic endings."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

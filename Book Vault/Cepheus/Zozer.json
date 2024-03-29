@@ -477,5 +477,51 @@
       {"page": 2, "title": ""}
       ]    
   }
+},
+{
+  "BookName": "Players’ Book",
+  "BookShortName": "Players’ Book",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Paul Elliott",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "Universal Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rules",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Cepheus Universal - Players’ Book.pdf"
+  ],
+  "BookDescription": [
+    "This Player’s Book is a supplement for Cepheus Universal, which is a science fiction roleplaying game for adventuring in many different kinds of science fiction settings!",
+    "Everything you need as a player to create your character is contained within this book. It takes all of the key, player-focussed rules from Cepheus Universal and packages them into a single, useable volume. The Player’s Book also adds NEW features to the character creation process, including a term-by-term random method, familiar to players of most other Cepheus rules-sets; there is a group-creation system, quick-play gear loadouts for each career type, as well as random character name lists. Using the resources within this book, you can create a character ready for play in ten minutes, or go detailed and create a more three-dimensional and believable character in half an hour. Create your character randomly or by design – the choice is yours. Included are Cepheus Universal’s task resolution and combat rules, to aid in player familiarisation.",
+    "Term-by-term character creation",
+    "Designed character creation",
+    "Random character creation",
+    "What skill levels and characteristics really mean",
+    "Secret agendas for characters",
+    "Career load outs",
+    "Random name lists",
+    "Combat and game rules",
+    "Full equipment lists",
+    "Point buy psionics, cybernetics and retrogenics",
+    "Group creation suggestion",
+    "Gadgeteering rules"
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
 }
 ]
