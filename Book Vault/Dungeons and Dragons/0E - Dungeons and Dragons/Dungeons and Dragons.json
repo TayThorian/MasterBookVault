@@ -1973,5 +1973,376 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "TSR9254 - PC1 - Tall Tales of the Wee Folk",
+    "BookShortName": "PC1 - Tall Tales of the Wee Folk",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9254",
+    "BookISBN": "0-88038-760-2",
+    "BookAuthor": "John Nephew",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Creature Crucible Series Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9254 - Creature Crucible - PC1 - Tall Tales of the Wee Folk.pdf"
+    ],
+    "BookDescription": [
+      "The King of the Fairies rules a magical world of mischief, intrigue, danger, and adventure rivaling anything the human world can offer. From brownies, leprechauns, pixies, and sprites to pookas and even centaurs, all creatures of the enchanted woodlands reveal their secrets for the first time."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9255 - PC2 - Top Ballista",
+    "BookShortName": "PC2 - Top Ballista",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9255",
+    "BookISBN": "0-88038-774-2",
+    "BookAuthor": "Carl Sargent",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Creature Crucible Series Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9255 - Creature Crucible - PC2 - Top Ballista.pdf"
+    ],
+    "BookDescription": [
+      "Blue Fox, scramble. Red Dragon at 5 o'clock!",
+      "The Realms of the Sky belongs to Serraine, the incredible Flying City of the gnomes. They know no borders, and fear no monsters. From the far reaches of Alphatia to the mysterious lands of Arypt, their neverending quest is for the magical fuel.that will keep them flying!",
+      "Top Ballista describes the City of Serraine and its facetious inhabitants. You will learn to play gnomes, gremlins, pegataurs, nagpas, and other fantastic creatures as Player Characters. Join the famous Top Ballista flying squadron, and become an ace and a hero.",
+      "Top Ballista is the second in the Creature Crucible series that completes the Gazetteer series. It is also fully adaptable to the Advanced DUNGEONS & DRAGONS 2nd Edition game.",
+      "Top Ballista includes",
+      "A complete description of Serraine, its people, and a large, color map of the city;",
+      "Separate background and adventure booklets;",
+      "Complete rules on how to create and play skygnomes, gremlins, harpies, and others;",
+      "New rules on air combat, spellcasting, and magical items."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9277 - PC3 - The Sea People",
+    "BookShortName": "PC3 - The Sea People",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9277",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Creature Crucible Series Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9277 - Creature Crucible - PC3 - The Sea People.pdf"
+    ],
+    "BookDescription": [
+      ". . . And you thought you knew everything about the good, old D&D game world!",
+      "The Sea of Dread is home to not one, but several aquatic nations. There, underneath the surface, lie mysterious caverns, submerged cities never explored by surface folk, shipwrecked remnants of historic naval battles, and countless frightening guardians of the deep. Discover the power of the Kna, meet the kind people of Smaar, and face the ultimate threat to the fabulous Realms of Undersea.",
+      "The Sea People is the third book in the Creature Crucible series that completes the Gazetteer line. It is alos fully adaptable to the 2nd Edition AD&D game.",
+      "The Sea People includes:",
+      "A complete description of the lands under the Sea of Dread, its people and a large, Gazetteer-style map of the submerged kingdoms",
+      "Separate background and adventure booklets",
+      "Complete rules on how to create and play Sea Elves, Tritons, Mermen, and other aquatic races",
+      "New rules detailing underwater spell casting and magical items"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9368 - PC4 - Night Howlers",
+    "BookShortName": "PC4 - Night Howlers",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9368",
+    "BookISBN": "1-56076-392-2",
+    "BookAuthor": "Ann Dupuis",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Creature Crucible Series Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9368 - Creature Crucible - PC4 - Night Howlers.pdf"
+    ],
+    "BookDescription": [
+      "\"Even a man who is pure of heart, and says his prayers by night. . .\"",
+      "Night Howlers is the fourth book in the Creature Crucible series, which explores new character types for the D&D game. Whether the referee wants to add one or two were-creatures to the party line-up, base a whole series of adventures around the were-creatures' struggle for survival, or add some very special encounters for the players, this book will provide hours of unique playing experience.",
+      "Night Howlers includes:",
+      "Ten different types of lycanthropes, including werewolves, wererats, werefoxes, werebears, and others.",
+      "Two separate booklets, one with player information and one with campaign details.",
+      "A fully detailed land of werewolves, the Valley of the Wolves, located I the Known World campaign setting.",
+      "New magical items specially tailored to the needs of lycanthropes",
+      "Information about important non-player characters, a large, full-color map; and three exciting adventures.",
+      "Fully adaptable to the Advanced Dungeons & Dragons 2nd Edition Game."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9171 - IM1 - The Immortal Storm",
+    "BookShortName": "IM1 - The Immortal Storm",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9171",
+    "BookISBN": "0-88038-313-5",
+    "BookAuthor": "Frank Mentzer",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "IM Series",
+    "BookCharacterLevel": "Immortal Level Characters",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9171 - IM1 - The Immortal Storm.pdf"
+    ],
+    "BookDescription": [
+      "\"The storm-stuff is not matter as we know it, and beyond Immortal control,\" the Hierarch sighs, \"I fear we are doomed.\"",
+      "It appeared only a few weeks ago — a swirling gray mass of incalculable size. And in its center, an eye. A humanoid eye. Now the storm threatens the very era of Immortal rule.",
+      "The growing maelstrom emits a message to the Hierarchs. But what does it mean? Can it help save this realm of existence? Is there time to save this realm?",      
+      "This first Immortal adventure pits your party against the multiverse in a desperate struggle to find the essence of life. This adventure is nothing like you've ever played before."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9189 - IM2 - The Wrath of Olympus",
+    "BookShortName": "IM2 - The Wrath of Olympus",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9189",
+    "BookISBN": "0-88038-387-9",
+    "BookAuthor": "Robert J. Blake",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "IM Series",
+    "BookCharacterLevel": "Immortal Level Characters",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9189 - IM2 - The Wrath of Olympus.pdf"
+    ],
+    "BookDescription": [
+      "Immortals lie chained atop a mountain in the Broken Lands. Their bonds relentlessly drain their power while demons cavort with glee around the wispy barrier, as strong as any prison.",
+      "Have you the courage to embark on a dangerous mission for the materials necessary to craft an artifact? If you survive that task, you must then assume the Identities of legendary heroes of Darokin and face deadly Immortal foes without revealing your Immortality! The demons of Entropy stand between you and your final goal. Have you the power to rescue the imprisoned Immortals and preserve the Prime Plane? The future of the Prime Plane is in your hands!",
+      "This adventure is designed for four or five Temporals, levels one or two. There should be one from each sphere."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9207 - IM3 - The Best of Intentions",
+    "BookShortName": "IM3 - The Best of Intentions",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9207",
+    "BookISBN": "0-88038-484-0",
+    "BookAuthor": "Ken Rolston",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "IM Series",
+    "BookCharacterLevel": "Immortal Level Characters",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9207 - IM3 - The Best of Intentions.pdf"
+    ],
+    "BookDescription": [
+      "Prime Plane immortals are dying like flies: nasty, violent deaths. The Hierarchs suspect Entropy, as usual, especially with all the rumors of demons' involvement. To top it all off, one of the Hierarchs is missing?Mazikeen.",
+      "Your mission as novice Temporals, should you choose to accept it, is to find Mazikeen, uncover his kidnaper, and bring him or her to a court of Immortal Justice. This entails much more than a mere detective job?it also means taking part in the Immortal Olympics and going plane-hopping with the best (or worst?) of them.",
+      "Should you not accept this mission, the fate of all Prime Plane immortals rests on your heads. (Well, it rests there anyway, but this is meant to make you more than a little guilty about not accepting?after all, you're supposed to be duty-bound and all that kind of thing, and if you don't do this, then who will? Huh? Did you ever think about that, Bucko?)",
+      "Adventure for 4-6 immortal-level characters."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR9067 - M1 - Blizzard Pass",
+    "BookShortName": "M1 - Blizzard Pass",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9067",
+    "BookISBN": "0-88038-004-7",
+    "BookAuthor": "David Cook",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Invisible Ink Marker Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9067 - M1 - Blizzard Pass.pdf"
+    ],
+    "BookDescription": [
+      "A SOLO ADVENTURE FOR THIEVES LEVEL 1-3 or Group Play Level 1-3",
+      "The storm sweeps off the mountaintops without warning, as if conjured by some supernatural power. Within minutes, huge drifts of snow have halted the caravan, and the snow falls so hard it is impossible to see more than five feet. You huddle next to the sledge, trying to shelter your numb face from the icy winds.",
+      "A dozen half-human forms march into view out of the raging blizzard. The little man-things carry wooden spears or long, unsheathed swords in bony, gnarled hands. Their blood-red eyes quickly fall upon your sledge and the ugly creatures turn toward your hiding place.",
+      "Will you survive to uncover the secret of Blizzard Pass?",
+      "This module contains all you need to solve the riddle of Blizzard Pass, including 14 maps, an invisible ink marking pen, a complete solo adventure, a pre-rolled character, and an outline for group play!"
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "M2 - Maze of the Riddling Minotaur",
+    "BookShortName": "M2 - Maze of the Riddling Minotaur",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9060",
+    "BookISBN": "0-935696-73-3",
+    "BookAuthor": "Jeff Grubb",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Invisible Ink Marker Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9060 - M2 - Maze of the Riddling Minotaur.pdf"
+    ],
+    "BookDescription": [
+      "An expert set solitaire adventure.",
+      "For a long time you have heard legends about the Island of Vacros; when you were only a child, the stories about evil minotaurs were used to scare you into behaving. Now you are grown, and you no longer believe children's stories.",
+      "But King Trueon of Cathos is worried: his daughter Princess Lydora has been kidnapped, and he has found clues that she has been taken to the ancient and evil island of Vacros. You have heard rumors that a large and dangerous mazework lies beneath the surface of the island - a mazework that is guarded by minotaurs. Of course many rumors are false, but then again ..."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "TSR2002 - Dungeons & Dragons 3-Volume Set",
+    "BookShortName": "Dungeons & Dragons 3-Volume Set",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2002",
+    "BookISBN": "",
+    "BookAuthor": "Gary Gygax & Dave Arneson",
+    "BookPublished": "1975",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Original D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR2002 - Dungeons & Dragons 3-Volume Set Box Cover.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR2002 - Dungeons & Dragons Book I Men and Magic.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR2002 - Dungeons & Dragons Book II Monsters & Treasure.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR2002 - Dungeons & Dragons Book III The Underworld & Wilderness Adventures.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR2002 - Dungeons & Dragons Reference Sheets.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]

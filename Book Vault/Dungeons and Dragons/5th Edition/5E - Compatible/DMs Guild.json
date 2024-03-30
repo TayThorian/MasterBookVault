@@ -1,6 +1,7 @@
 [
   {
   "BookName": "Rashemen Campaign Guide",
+  "BookShortName": "Rashemen Campaign Guide",
   "BookPublisher": "DMs Guild",
   "BookCode": "N/A",
   "BookISBN": "",
@@ -48,6 +49,7 @@
 },
 {
   "BookName": "Player Primer - Amn",
+  "BookShortName": "Player Primer - Amn",
   "BookPublisher": "DMs Guild",
   "BookCode": "",
   "BookISBN": "",
@@ -80,6 +82,7 @@
 },
 {
   "BookName": "Player Primer - Icewind Dale",
+  "BookShortName": "Player Primer - Icewind Dale",
   "BookPublisher": "DMs Guild",
   "BookCode": "",
   "BookISBN": "",
@@ -112,6 +115,7 @@
 },
 {
   "BookName": "Player Primer - Moonshae Isles",
+  "BookShortName": "Player Primer - Moonshae Isles",
   "BookPublisher": "DMs Guild",
   "BookCode": "",
   "BookISBN": "",
@@ -144,6 +148,7 @@
 },
 {
   "BookName": "Player Primer - Tethyr",
+  "BookShortName": "Player Primer - Tethyr",
   "BookPublisher": "DMs Guild",
   "BookCode": "",
   "BookISBN": "",
@@ -176,6 +181,7 @@
 },
 {
   "BookName": "Player Primer - Calimshan",
+  "BookShortName": "Player Primer - Calimshan",
   "BookPublisher": "DMs Guild",
   "BookCode": "",
   "BookISBN": "",
@@ -218,6 +224,7 @@
 },
 {
   "BookName": "Thay - Land of the Red Wizards",
+  "BookShortName": "Thay - Land of the Red Wizards",
   "BookPublisher": "DMs Guild",
   "BookCode": "",
   "BookISBN": "",
@@ -253,6 +260,7 @@
 },
 {
   "BookName": "The Border Kingdoms",
+  "BookShortName": "The Border Kingdoms",
   "BookPublisher": "DMs Guild",
   "BookCode": "",
   "BookISBN": "",
@@ -294,6 +302,7 @@
 },
 {
   "BookName": "Vilhon Reach Gazetteer",
+  "BookShortName": "Vilhon Reach Gazetteer",
   "BookPublisher": "DMs Guild",
   "BookCode": "",
   "BookISBN": "",
@@ -325,7 +334,8 @@
   }
 },
 {
-  "BookName": "Shadow of the Black Rose",
+  "BookName": "DLSBR - Shadow of the Black Rose",
+  "BookShortName": "Shadow of the Black Rose",
   "BookPublisher": "DM's Guild",
   "BookCode": "DLSBR",
   "BookISBN": "",
@@ -349,9 +359,10 @@
     "<b>Confront D&D's most iconic death knight on his home ground in this epilogue to Dragonlance: Shadow of the Dragon Queen!</b>",
     "Lord Soth, the Knight of the Black Rose, is raising an armada of undead dragons in the mountains surrounding his burnt and blackened fortress of Dargaard Keep.  Ansalon will never know peace while his malign influence endures.  End his legacy of evil forever in this 50-page original adventure created by the Dragonlance Nexus."
   ]
-} ,
+},
 {
-  "BookName": "Tasslehoff's Pouches of Everything Revised - Champions of Krynn, Chapter 1",
+  "BookName": "RTPE-COK1 - Tasslehoff's Pouches of Everything Revised - Champions of Krynn, Chapter 1",
+  "BookShortName": "Tasslehoff's Pouches of Everything Revised - Champions of Krynn, Chapter 1",
   "BookPublisher": "DM's Guild",
   "BookCode": "RTPE-COK1",
   "BookISBN": "",
@@ -374,5 +385,38 @@
   "BookDescription": [
     "Tasslehoff's Pouches of Everything Revised is your one-stop shop for all things Dragonlance and Krynn for D&D 5th Edition. Uncle Tas will be your guide during our journey through the people, factions, monsters and magic of our favorite continent, Ansalon. Tas' life is easily one of the most storied of anyone from Krynn. That's why we've recruited him to give us insight about every aspect of the world we love. "
   ]
-} 
+} ,
+{
+  "BookName": "Vecna’s Book of Vile Darkness",
+  "BookShortName": "Vecna’s Book of Vile Darkness",
+  "BookPublisher": "DM's Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5e Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Vecna’s Book of Vile Darkness.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+}
 ]

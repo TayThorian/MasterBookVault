@@ -9,7 +9,7 @@
     "BookPublished": "2023",
     "BookCover": "",
     "BookRules": "Basic Roleplaying",
-    "BookEdition": "1st Edition",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "To Source",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
@@ -34,5 +34,71 @@
         {"page": 2, "title": ""}
         ]    
     }
-  } 
+  },
+  {
+    "BookName": "CHA0352 - Ashes to Ashes",
+    "BookShortName": "Ashes to Ashes",
+    "BookPublisher": "Chaosium",
+    "BookCode": "CHA0352",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Monograph",
+    "BookFormat": "",
+    "BookSeries": "Monographs",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Basic Roleplaying\\CHA0352 - Ashes to Ashes.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "CHA0357 - Berlin 61",
+    "BookShortName": "Berlin 61",
+    "BookPublisher": "Chaosium",
+    "BookCode": "CHA0357",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Monograph",
+    "BookFormat": "",
+    "BookSeries": "Monographs",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Basic Roleplaying\\CHA0357 - Berlin 61.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  }
 ]

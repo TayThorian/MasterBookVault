@@ -56,10 +56,10 @@
   }
 },
 {
-  "BookName": "Dragonbane - Bestiary",
+  "BookName": "FLFDGB010 - Dragonbane - Bestiary",
   "BookShortName": "Dragonbane - Bestiary",
   "BookPublisher": "Free League Publishing",
-  "BookCode": "",
+  "BookCode": "FLFDGB010",
   "BookISBN": "978-91-89765-31-3",
   "BookAuthor": "Magnus Seter, Mattias Johnsson Haake, Andreas Marklund, Tomas Härenstam",
   "BookPublished": "2023",
@@ -67,7 +67,7 @@
   "BookRules": "",
   "BookEdition": "1st Edition",
   "BookPhysical": "On Order",
-  "BookOwnedPDF": "On Order",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Dragonbane",
   "BookType": "Bestiary",
@@ -75,7 +75,7 @@
   "BookSeries": "Bestiary",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\Master Vault\\Dragonbane\\Dragonbane - Bestiary.pdf"
+    "D:\\Master Vault\\Dragonbane\\FLFDGB010 - Dragonbane - Bestiary.pdf"
   ],
   "BookDescription": [
     "From cat people to chimeras, fairies to frog people, hippogriffs to hydras, and much more – this Bestiary for the Dragonbane roleplaying game includes no less than 63 wondrous creatures for the player characters to encounter. Each of them is brought to life in text and art, as well as a random encounter and a seed for a complete adventure. Among these fantastic beings, there are nine new playable kin, each with their own unique ability. The full-color hardcover book is gloriously illustrated by Johan Egerkrans and David Brasgalla."

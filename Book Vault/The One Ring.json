@@ -11,7 +11,7 @@
     "BookRules": "The One Ring",
     "BookEdition": "2nd Edition",
     "BookPhysical": "On Order",
-    "BookOwnedPDF": "On Order",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "The One Ring",
     "BookType": "Adventure",
@@ -28,8 +28,14 @@
     "TableOfContents": {
       "title": "Book",
       "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 2, "title": "BE DONE"}
+        {"page": 4, "title": "Introduction"},
+        {"page": 9, "title": "A Troll-hole, if Ever There Was One"},
+        {"page": 25, "title": "Messing About in Boats"},
+        {"page": 43, "title": "Kings of Little Kingdoms"},
+        {"page": 57, "title": "Not To Strike Without Need"},
+        {"page": 73, "title": "Wonder of the Northern World"},
+        {"page": 91, "title": "The Quest of Amon Guruthos"},
+        {"page": 113, "title": "Index"}
         ]    
     }
   },
