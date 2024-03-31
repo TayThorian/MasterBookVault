@@ -69,7 +69,7 @@
 - ICE8204 - Halls of the Elven King
 - ICE8205 - Nazguls Citadel
 - ICE8302 - Minas Ithil
-- GCP-RMU-001 - Rolemaster Unified - Core Law
+- GCP-RMU-001 - Core Law
 - GCP-RMU-002 - Spell Law
 - GCP-RMU-003 - Treasure Law
 - ICE6501 - Character Law

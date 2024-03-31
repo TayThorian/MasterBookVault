@@ -5,7 +5,7 @@
     "BookPublisher": "",
     "BookCode": "",
     "BookISBN": "",
-    "BookAuthor": "",
+    "BookAuthor": "Steve Attwood, Paul Drye, Paul Elliott, Timothy Collinson, Ewan Spence, Michael Johnson, Graham Bayley, Robert Foran, PO Bergstedt",
     "BookPublished": "",
     "BookCover": "",
     "BookRules": "",
@@ -27,8 +27,17 @@
     "TableOfContents": {
     "title": "Book",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 2, "title": "From the Editors"},
+      {"page": 3, "title": "Cepheus Engine Rules & Variants"},
+      {"page": 8, "title": "Wilderness Encounter - The Rhabdomane"},
+      {"page": 10, "title": "Looking at the Skill List"},
+      {"page": 15, "title": "Which Cepheus Careers Give Which Skill?"},
+      {"page": 20, "title": "1980s British Infantry Section for Modern War"},
+      {"page": 22, "title": "Abhainn Class Free Trader"},
+      {"page": 26, "title": "Helzr's Recovery/Salvage services"},
+      {"page": 39, "title": "A Sword of Cepheus (SoC) Character"},
+      {"page": 41, "title": "Störtebeker Teaser"},
+      {"page": 43, "title": "Open Gaming License"}
       ]    
   }
 },

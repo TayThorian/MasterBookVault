@@ -580,8 +580,22 @@
     "TableOfContents": {
       "title": "Book",
       "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 2, "title": "BE DONE"}
+        {"page": 3, "title": "1.0 - An Introduction ot Minas Tirith"},
+        {"page": 4, "title": "2.0 - City of the Sun"},
+        {"page": 8, "title": "3.0 - The City Lands"},
+        {"page": 14, "title": "4.0 - Flora and Fauna"},
+        {"page": 17, "title": "5.0 - Culture and Lifestyles"},
+        {"page": 23, "title": "6.0 - Commerce"},
+        {"page": 24, "title": "7.0 - The Inhabitants"},
+        {"page": 34, "title": "8.0 - Politics and Power"},
+        {"page": 39, "title": "9.0 - City Overview"},
+        {"page": 48, "title": "10.0 - Buildings of Note"},
+        {"page": 127, "title": "11.0 - The City in Other Times"},
+        {"page": 130, "title": "12.0 - People of Note"},
+        {"page": 138, "title": "13.0 - Adventures"},
+        {"page": 148, "title": "14.0 - Adapting the Module"},
+        {"page": 149, "title": "15.0 - Tables"},
+        {"page": 157, "title": "16.0 - Appendix"}
         ]    
     }
   },
