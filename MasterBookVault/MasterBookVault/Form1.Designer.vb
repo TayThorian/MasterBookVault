@@ -74,7 +74,6 @@ Partial Class Form1
         TextBoxCharLvl = New TextBox()
         Label24 = New Label()
         Panel3 = New Panel()
-        TextBox1 = New TextBox()
         Label19 = New Label()
         Label20 = New Label()
         Panel4 = New Panel()
@@ -149,11 +148,11 @@ Partial Class Form1
         ' PanelPdfLinks
         ' 
         PanelPdfLinks.AutoScroll = True
-        PanelPdfLinks.BackColor = Color.Beige
+        PanelPdfLinks.BackColor = Color.FloralWhite
         PanelPdfLinks.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        PanelPdfLinks.Location = New Point(546, 853)
+        PanelPdfLinks.Location = New Point(13, 52)
         PanelPdfLinks.Name = "PanelPdfLinks"
-        PanelPdfLinks.Size = New Size(627, 362)
+        PanelPdfLinks.Size = New Size(397, 833)
         PanelPdfLinks.TabIndex = 6
         ' 
         ' Panel1
@@ -352,7 +351,7 @@ Partial Class Form1
         Label10.AutoSize = True
         Label10.BackColor = SystemColors.Window
         Label10.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label10.Location = New Point(546, 827)
+        Label10.Location = New Point(13, 11)
         Label10.Name = "Label10"
         Label10.Size = New Size(87, 21)
         Label10.TabIndex = 26
@@ -541,10 +540,12 @@ Partial Class Form1
         ' 
         ListBoxTOC.Font = New Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point)
         ListBoxTOC.FormattingEnabled = True
+        ListBoxTOC.HorizontalScrollbar = True
         ListBoxTOC.ItemHeight = 17
-        ListBoxTOC.Location = New Point(13, 52)
+        ListBoxTOC.Location = New Point(13, 782)
         ListBoxTOC.Name = "ListBoxTOC"
-        ListBoxTOC.Size = New Size(397, 956)
+        ListBoxTOC.ScrollAlwaysVisible = True
+        ListBoxTOC.Size = New Size(627, 344)
         ListBoxTOC.TabIndex = 44
         ' 
         ' Label4
@@ -563,7 +564,7 @@ Partial Class Form1
         ' 
         Label18.AutoSize = True
         Label18.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label18.Location = New Point(13, 6)
+        Label18.Location = New Point(13, 755)
         Label18.Name = "Label18"
         Label18.Size = New Size(143, 21)
         Label18.TabIndex = 46
@@ -573,9 +574,11 @@ Partial Class Form1
         ' 
         Panel2.BackColor = SystemColors.Window
         Panel2.BorderStyle = BorderStyle.Fixed3D
+        Panel2.Controls.Add(Label18)
         Panel2.Controls.Add(TextBoxCharLvl)
         Panel2.Controls.Add(Label24)
         Panel2.Controls.Add(Label3)
+        Panel2.Controls.Add(ListBoxTOC)
         Panel2.Controls.Add(TextBoxPublisher)
         Panel2.Controls.Add(Label16)
         Panel2.Controls.Add(Label17)
@@ -632,25 +635,14 @@ Partial Class Form1
         ' 
         Panel3.BackColor = SystemColors.Window
         Panel3.BorderStyle = BorderStyle.Fixed3D
-        Panel3.Controls.Add(Label18)
-        Panel3.Controls.Add(TextBox1)
         Panel3.Controls.Add(Label19)
-        Panel3.Controls.Add(ListBoxTOC)
         Panel3.Controls.Add(Label20)
+        Panel3.Controls.Add(PanelPdfLinks)
+        Panel3.Controls.Add(Label10)
         Panel3.Location = New Point(1720, 69)
         Panel3.Name = "Panel3"
         Panel3.Size = New Size(430, 1155)
         Panel3.TabIndex = 25
-        ' 
-        ' TextBox1
-        ' 
-        TextBox1.BackColor = SystemColors.Window
-        TextBox1.BorderStyle = BorderStyle.None
-        TextBox1.Font = New Font("Eras Bold ITC", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBox1.Location = New Point(13, 8)
-        TextBox1.Name = "TextBox1"
-        TextBox1.Size = New Size(1149, 19)
-        TextBox1.TabIndex = 3
         ' 
         ' Label19
         ' 
@@ -758,10 +750,8 @@ Partial Class Form1
         Controls.Add(ListBoxBooksOnOrder)
         Controls.Add(ListBoxBooksToSource)
         Controls.Add(DataGridViewBookDetails)
-        Controls.Add(Label10)
         Controls.Add(TextBoxISBN)
         Controls.Add(PictureBox1)
-        Controls.Add(PanelPdfLinks)
         Controls.Add(TreeView1)
         Controls.Add(Button1)
         Controls.Add(Panel1)
@@ -832,7 +822,6 @@ Partial Class Form1
     Friend WithEvents Label18 As Label
     Friend WithEvents Panel2 As Panel
     Friend WithEvents Panel3 As Panel
-    Friend WithEvents TextBox1 As TextBox
     Friend WithEvents Label19 As Label
     Friend WithEvents Label20 As Label
     Friend WithEvents Panel4 As Panel
