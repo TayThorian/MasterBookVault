@@ -91,10 +91,6 @@
 ## TSR
 - TSR1071 - Rules Cyclopedia
 - TSR2173 - Monstrous Compendium Annual - Volume Four
-- TSR9549 - College of Wizardry
-- TSR11326 - The Vortex of Madness and other Planer Perils
-- TSR11361 - Warriors of Heaven
-- TSR11431 - Guide to Hell
 - TSR9293 - The Magic Encyclopedia Volume One
 - TSR9421 - The Magic Encyclopedia Volume Two
 - TSR9431 - ALQ2 - Assassin Mountain

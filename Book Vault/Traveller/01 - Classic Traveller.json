@@ -1,7 +1,7 @@
 [
     {
-    "BookName": "The Traveller Book",
-    "BookShortName": "",
+    "BookName": "GDW201 - The Traveller Book",
+    "BookShortName": "The Traveller Book",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW201",
     "BookISBN": "",
@@ -36,8 +36,8 @@
     }
   },
   {
-    "BookName": "Book 1 - Characters and Combat",
-    "BookShortName": "",
+    "BookName": "GDW300 - Book 1 - Characters and Combat",
+    "BookShortName": "Book 1 - Characters and Combat",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW300",
     "BookISBN": "",
@@ -69,8 +69,8 @@
     }
   },
   {
-    "BookName": "Book 2 - Starships",
-    "BookShortName": "",
+    "BookName": "GDW300 - Book 2 - Starships",
+    "BookShortName": "Book 2 - Starships",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW300",
     "BookISBN": "",
@@ -102,8 +102,8 @@
     }
   },
   {
-    "BookName": "Book 3 - Worlds and Adventures",
-    "BookShortName": "",
+    "BookName": "GDW300 - Book 3 - Worlds and Adventures",
+    "BookShortName": "Book 3 - Worlds and Adventures",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW300",
     "BookISBN": "",
@@ -135,8 +135,8 @@
     }
   },
   {
-    "BookName": "Book 4 - Mercenary",
-    "BookShortName": "",
+    "BookName": "GDW304 - Book 4 - Mercenary",
+    "BookShortName": "Book 4 - Mercenary",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW304",
     "BookISBN": "",
@@ -168,8 +168,8 @@
     }
   },
   {
-    "BookName": "Book 5 - High Guard",
-    "BookShortName": "",
+    "BookName": "GDW308 - Book 5 - High Guard",
+    "BookShortName": "Book 5 - High Guard",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW308",
     "BookISBN": "",
@@ -201,8 +201,8 @@
     }
   },
   {
-    "BookName": "Book 6 - Scouts",
-    "BookShortName": "",
+    "BookName": "GDW337 - Book 6 - Scouts",
+    "BookShortName": "Book 6 - Scouts",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW337",
     "BookISBN": "",
@@ -234,8 +234,8 @@
     }
   },
   {
-    "BookName": "Book 7 - Merchant Prince",
-    "BookShortName": "",
+    "BookName": "GDW343 - Book 7 - Merchant Prince",
+    "BookShortName": "Book 7 - Merchant Prince",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW343",
     "BookISBN": "",
@@ -267,8 +267,8 @@
     }
   },
   {
-    "BookName": "Book 8 - Robots",
-    "BookShortName": "",
+    "BookName": "GDW344 - Book 8 - Robots",
+    "BookShortName": "Book 8 - Robots",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW344",
     "BookISBN": "",
@@ -300,8 +300,8 @@
     }
   },
   {
-    "BookName": "Book 0 - An Introduction to Traveller",
-    "BookShortName": "",
+    "BookName": "GDW322 - Book 0 - An Introduction to Traveller",
+    "BookShortName": "Book 0 - An Introduction to Traveller",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW322",
     "BookISBN": "",
@@ -333,8 +333,8 @@
     }
   },
   {
-    "BookName": "Scouts and Assassins",
-    "BookShortName": "",
+    "BookName": "PP1001 - Scouts and Assassins",
+    "BookShortName": "Scouts and Assassins",
     "BookPublisher": "Paranoia Press",
     "BookCode": "PP1001",
     "BookISBN": "",
@@ -366,8 +366,8 @@
     }
   },
   {
-    "BookName": "Merchants & Merchandise",
-    "BookShortName": "",
+    "BookName": "PP1002 - Merchants & Merchandise",
+    "BookShortName": "Merchants & Merchandise",
     "BookPublisher": "Paranoia Press",
     "BookCode": "PP1002",
     "BookISBN": "",
@@ -399,8 +399,8 @@
     }
   },
   {
-    "BookName": "Vanguard Reaches",
-    "BookShortName": "",
+    "BookName": "PP1003 - Vanguard Reaches",
+    "BookShortName": "Vanguard Reaches",
     "BookPublisher": "Paranoia Press",
     "BookCode": "PP1003",
     "BookISBN": "",
@@ -433,8 +433,8 @@
     }
   },
   {
-    "BookName": "Beyond",
-    "BookShortName": "",
+    "BookName": "PP1004 - Beyond",
+    "BookShortName": "Beyond",
     "BookPublisher": "Paranoia Press",
     "BookCode": "PP1004",
     "BookISBN": "",
@@ -466,8 +466,8 @@
     }
   },
   {
-    "BookName": " SORAG - Handbook of Organization and Equipment",
-    "BookShortName": "",
+    "BookName": "PP1005 - SORAG - Handbook of Organization and Equipment",
+    "BookShortName": "SORAG - Handbook of Organization and Equipment",
     "BookPublisher": "Paranoia Press",
     "BookCode": "PP1005",
     "BookISBN": "",
@@ -499,8 +499,8 @@
     }
   },
   {
-    "BookName": "System Data Sheet",
-    "BookShortName": "",
+    "BookName": "PP2101 - System Data Sheet",
+    "BookShortName": "System Data Sheet",
     "BookPublisher": "Paranoia Press",
     "BookCode": "PP2101",
     "BookISBN": "",
@@ -509,10 +509,10 @@
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "Classic Traveller",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Traveller",
     "BookType": "",
     "BookFormat": "Softback",
     "BookSeries": "Paranoia Press",
@@ -532,8 +532,8 @@
     }
   },
   {
-    "BookName": "Planetary Data Sheet",
-    "BookShortName": "",
+    "BookName": "PP2102 - Planetary Data Sheet",
+    "BookShortName": "Planetary Data Sheet",
     "BookPublisher": "Paranoia Press",
     "BookCode": "PP2102",
     "BookISBN": "",
@@ -542,10 +542,10 @@
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "Classic Traveller",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Traveller",
     "BookType": "",
     "BookFormat": "Softback",
     "BookSeries": "Paranoia Press",
@@ -565,8 +565,8 @@
     }
   },
   {
-    "BookName": "Ship's Papers",
-    "BookShortName": "",
+    "BookName": "PP2201 - Ship's Papers",
+    "BookShortName": "Ship's Papers",
     "BookPublisher": "Paranoia Press",
     "BookCode": "PP2201",
     "BookISBN": "",
@@ -575,10 +575,10 @@
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "Classic Traveller",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Traveller",
     "BookType": "",
     "BookFormat": "Softback",
     "BookSeries": "Paranoia Press",
@@ -611,7 +611,7 @@
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Traveller",
     "BookType": "",
     "BookFormat": "Softback",
     "BookSeries": "Reilly Associates",
@@ -631,8 +631,8 @@
     }
   },
   {
-    "BookName": "IISS Ship Files",
-    "BookShortName": "",
+    "BookName": "GW 2405 - IISS Ship Files",
+    "BookShortName": "IISS Ship Files",
     "BookPublisher": "Games Workshop",
     "BookCode": "GW 2405",
     "BookISBN": "",
@@ -642,9 +642,9 @@
     "BookRules": "Traveller",
     "BookEdition": "Classic Traveller",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Traveller",
     "BookType": "",
     "BookFormat": "Softback",
     "BookSeries": "Games Workshop",
@@ -664,8 +664,8 @@
     }
   },
   {
-    "BookName": "Alien Module 1 - Aslan",
-    "BookShortName": "",
+    "BookName": "GDW254 - Alien Module 1 - Aslan",
+    "BookShortName": "Alien Module 1 - Aslan",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW254",
     "BookISBN": "",
@@ -697,8 +697,8 @@
     }
   },
   {
-    "BookName": "Alien Module 2 - k'Kree",
-    "BookShortName": "",
+    "BookName": "GDW255 - Alien Module 2 - k'Kree",
+    "BookShortName": "Alien Module 2 - k'Kree",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW255",
     "BookISBN": "",
@@ -730,8 +730,8 @@
     }
   },
   {
-    "BookName": "Alien Module 3 - Vargr",
-    "BookShortName": "",
+    "BookName": "GDW257 - Alien Module 3 - Vargr",
+    "BookShortName": "Alien Module 3 - Vargr",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW257",
     "BookISBN": "",
@@ -763,8 +763,8 @@
     }
   },
   {
-    "BookName": "Alien Module 4 - Zhodani",
-    "BookShortName": "",
+    "BookName": "GDW258 - Alien Module 4 - Zhodani",
+    "BookShortName": "Alien Module 4 - Zhodani",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW258",
     "BookISBN": "",
@@ -796,8 +796,8 @@
     }
   },
   {
-    "BookName": "Alien Module 5 - Droyne",
-    "BookShortName": "",
+    "BookName": "GDW259 - Alien Module 5 - Droyne",
+    "BookShortName": "Alien Module 5 - Droyne",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW259",
     "BookISBN": "",
@@ -829,8 +829,8 @@
     }
   },
   {
-    "BookName": "Alien Module 6 - Solomani",
-    "BookShortName": "",
+    "BookName": "GDW260 - Alien Module 6 - Solomani",
+    "BookShortName": "Alien Module 6 - Solomani",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW260",
     "BookISBN": "0-943580-07-2",
@@ -862,8 +862,8 @@
     }
   },
   {
-    "BookName": "Alien Module 7 - Hivers",
-    "BookShortName": "",
+    "BookName": "GDW263 - Alien Module 7 - Hivers",
+    "BookShortName": "Alien Module 7 - Hivers",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW263",
     "BookISBN": "0-943580-11-0",
@@ -895,8 +895,8 @@
     }
   },
   {
-    "BookName": "Alien Module 8 - Darrians",
-    "BookShortName": "",
+    "BookName": "GDW264 - Alien Module 8 - Darrians",
+    "BookShortName": "Alien Module 8 - Darrians",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW264",
     "BookISBN": "0-943580-40-4",
@@ -928,8 +928,8 @@
     }
   },
   {
-    "BookName": "101 Robots - An Illustrated Catalog",
-    "BookShortName": "",
+    "BookName": "DGP0861 - 101 Robots - An Illustrated Catalog",
+    "BookShortName": "101 Robots - An Illustrated Catalog",
     "BookPublisher": "Digest Group Publications",
     "BookCode": "DGP0861",
     "BookISBN": "",
@@ -982,8 +982,8 @@
     }
   },
   {
-    "BookName": "Grand Survey",
-    "BookShortName": "",
+    "BookName": "DGP0862 - Grand Survey",
+    "BookShortName": "Grand Survey",
     "BookPublisher": "Digest Group Publications",
     "BookCode": "DGP0862",
     "BookISBN": "",
@@ -1019,8 +1019,8 @@
     }
   },
   {
-    "BookName": "Grand Census",
-    "BookShortName": "",
+    "BookName": "DGP0863 - Grand Census",
+    "BookShortName": "Grand Census",
     "BookPublisher": "Digest Group Publications",
     "BookCode": "DGP0863",
     "BookISBN": "",
@@ -1057,8 +1057,8 @@
     }
   },
   {
-    "BookName": "Adventure 1 - The Kinunir",
-    "BookShortName": "",
+    "BookName": "GDW306 - Adventure 1 - The Kinunir",
+    "BookShortName": "Adventure 1 - The Kinunir",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW306",
     "BookISBN": "",
@@ -1090,8 +1090,8 @@
     }
   },
   {
-    "BookName": "Adventure 2 - Research Station Gamma",
-    "BookShortName": "",
+    "BookName": "GDW311 - Adventure 2 - Research Station Gamma",
+    "BookShortName": "Adventure 2 - Research Station Gamma",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW311",
     "BookISBN": "",
@@ -1122,8 +1122,8 @@
     }
   },
   {
-    "BookName": "Adventure 3 - Twilight's Peak",
-    "BookShortName": "",
+    "BookName": "GDW314 - Adventure 3 - Twilight's Peak",
+    "BookShortName": "Adventure 3 - Twilight's Peak",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW314",
     "BookISBN": "",
@@ -1155,8 +1155,8 @@
     }
   },
   {
-    "BookName": "Adventure 4 - Leviathan",
-    "BookShortName": "",
+    "BookName": "GDW316 - Adventure 4 - Leviathan",
+    "BookShortName": "Adventure 4 - Leviathan",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW316",
     "BookISBN": "",
@@ -1188,8 +1188,8 @@
     }
   },
   {
-    "BookName": "Adventure 5 - Trillion Credit Squadron",
-    "BookShortName": "",
+    "BookName": "GDW319 - Adventure 5 - Trillion Credit Squadron",
+    "BookShortName": "Adventure 5 - Trillion Credit Squadron",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW319",
     "BookISBN": "",
@@ -1221,8 +1221,8 @@
     }
   },
   {
-    "BookName": "Adventure 6 - Expedition to Zhodane",
-    "BookShortName": "",
+    "BookName": "GDW325 - Adventure 6 - Expedition to Zhodane",
+    "BookShortName": "Adventure 6 - Expedition to Zhodane",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW325",
     "BookISBN": "",
@@ -1254,8 +1254,8 @@
     }
   },
   {
-    "BookName": "Adventure 7 - Broadsword",
-    "BookShortName": "",
+    "BookName": "GDW326 - Adventure 7 - Broadsword",
+    "BookShortName": "Adventure 7 - Broadsword",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW326",
     "BookISBN": "",
@@ -1287,8 +1287,8 @@
     }
   },
   {
-    "BookName": "Adventure 8 - Prison Planet",
-    "BookShortName": "",
+    "BookName": "GDW330 - Adventure 8 - Prison Planet",
+    "BookShortName": "Adventure 8 - Prison Planet",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW330",
     "BookISBN": "",
@@ -1320,8 +1320,8 @@
     }
   },
   {
-    "BookName": "Adventure 9 - Nomads of the World Ocean",
-    "BookShortName": "",
+    "BookName": "GDW333 - Adventure 9 - Nomads of the World Ocean",
+    "BookShortName": "Adventure 9 - Nomads of the World Ocean",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW333",
     "BookISBN": "",
@@ -1353,8 +1353,8 @@
     }
   },
   {
-    "BookName": "Adventure 10 - Safari Ship",
-    "BookShortName": "",
+    "BookName": "GDW338 - Adventure 10 - Safari Ship",
+    "BookShortName": "Adventure 10 - Safari Ship",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW338",
     "BookISBN": "",
@@ -1386,8 +1386,8 @@
     }
   },
   {
-    "BookName": "Adventure 11 - Murder on Arcturus Station",
-    "BookShortName": "",
+    "BookName": "GDW339 - Adventure 11 - Murder on Arcturus Station",
+    "BookShortName": "Adventure 11 - Murder on Arcturus Station",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW339",
     "BookISBN": "",
@@ -1419,8 +1419,8 @@
     }
   },
   {
-    "BookName": "Adventure 12 - Secret of the Ancients",
-    "BookShortName": "",
+    "BookName": "GDW340 - Adventure 12 - Secret of the Ancients",
+    "BookShortName": "Adventure 12 - Secret of the Ancients",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW340",
     "BookISBN": "",
@@ -1452,8 +1452,8 @@
     }
   },
   {
-    "BookName": "Adventure 13 - Signal GK",
-    "BookShortName": "",
+    "BookName": "GDW341 - Adventure 13 - Signal GK",
+    "BookShortName": "Adventure 13 - Signal GK",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW341",
     "BookISBN": "",
@@ -1485,8 +1485,8 @@
     }
   },
   {
-    "BookName": "The Traveller Adventure",
-    "BookShortName": "",
+    "BookName": "GDW202 - The Traveller Adventure",
+    "BookShortName": "The Traveller Adventure",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW202",
     "BookISBN": "",
@@ -1551,8 +1551,8 @@
     }
   },
   {
-    "BookName": "Beltstrike",
-    "BookShortName": "",
+    "BookName": "GDW253 - Beltstrike",
+    "BookShortName": "Beltstrike",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW253",
     "BookISBN": "",
@@ -1584,8 +1584,8 @@
     }
   },
   {
-    "BookName": "The Spinward Marches Campaign - Adventures in a War-Ravaged Sector",
-    "BookShortName": "",
+    "BookName": "GDW261 - The Spinward Marches Campaign - Adventures in a War-Ravaged Sector",
+    "BookShortName": "The Spinward Marches Campaign - Adventures in a War-Ravaged Sector",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW261",
     "BookISBN": "0-943580-08-0",
@@ -1617,10 +1617,10 @@
     }
   },
   {
-    "BookName": "Aliens Realms",
-    "BookShortName": "",
+    "BookName": "GDW262 - Aliens Realms",
+    "BookShortName": "Aliens Realms",
     "BookPublisher": "Game Designers Workshop",
-    "BookCode": "DW262",
+    "BookCode": "GDW262",
     "BookISBN": "",
     "BookAuthor": "",
     "BookPublished": "",
@@ -1651,7 +1651,7 @@
   },
   {
     "BookName": "Atlas of the Imperium",
-    "BookShortName": "",
+    "BookShortName": "Atlas of the Imperium",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "",
     "BookISBN": "",
@@ -1684,7 +1684,7 @@
   },
   {
     "BookName": "Special Supplement 1 - Merchant Prince",
-    "BookShortName": "",
+    "BookShortName": "Special Supplement 1 - Merchant Prince",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "",
     "BookISBN": "",
@@ -1717,7 +1717,7 @@
   },
   {
     "BookName": "Special Supplement 2 - Exotic Atmospheres",
-    "BookShortName": "",
+    "BookShortName": "Special Supplement 2 - Exotic Atmospheres",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "",
     "BookISBN": "",
@@ -1750,7 +1750,7 @@
   },
   {
     "BookName": "Special Supplement 3 - Missiles in Traveller",
-    "BookShortName": "",
+    "BookShortName": "Special Supplement 3 - Missiles in Traveller",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "",
     "BookISBN": "",
@@ -1784,7 +1784,7 @@
   },
   {
     "BookName": "Special Supplement 4 - The Lost Rules",
-    "BookShortName": "",
+    "BookShortName": "Special Supplement 4 - The Lost Rules",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "",
     "BookISBN": "",
@@ -1796,7 +1796,7 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Traveller",
     "BookType": "Special Supplement",
     "BookFormat": "Softback",
     "BookSeries": "Special Supplements",
@@ -1816,8 +1816,8 @@
     }
   },
   {
-    "BookName": "Traveller Starter Edition",
-    "BookShortName": "",
+    "BookName": "GDW251 - Traveller Starter Edition",
+    "BookShortName": "Traveller Starter Edition",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW251",
     "BookISBN": "",
@@ -1829,7 +1829,7 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Traveller",
     "BookType": "Starter Set",
     "BookFormat": "Boxed Set",
     "BookSeries": "Starter Sets",
@@ -1851,8 +1851,8 @@
     }
   },
   {
-    "BookName": "Supplement 1 - 1001 Characters",
-    "BookShortName": "",
+    "BookName": "GDW303 - Supplement 1 - 1001 Characters",
+    "BookShortName": "Supplement 1 - 1001 Characters",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW303",
     "BookISBN": "",
@@ -1884,8 +1884,8 @@
     }
   },
   {
-    "BookName": "Supplement 2 - Animal Encounters",
-    "BookShortName": "",
+    "BookName": "GDW305 - Supplement 2 - Animal Encounters",
+    "BookShortName": "Supplement 2 - Animal Encounters",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW305",
     "BookISBN": "",
@@ -1917,8 +1917,8 @@
     }
   },
   {
-    "BookName": "Supplement 3 - The Spinward Marches",
-    "BookShortName": "",
+    "BookName": "GDW309 - Supplement 3 - The Spinward Marches",
+    "BookShortName": "Supplement 3 - The Spinward Marches",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW309",
     "BookISBN": "",
@@ -1950,8 +1950,8 @@
     }
   },
   {
-    "BookName": "Supplement 4 - Citizens of the Imperium",
-    "BookShortName": "",
+    "BookName": "GDW310 - Supplement 4 - Citizens of the Imperium",
+    "BookShortName": "Supplement 4 - Citizens of the Imperium",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW310",
     "BookISBN": "",
@@ -1983,8 +1983,8 @@
     }
   },
   {
-    "BookName": "Supplement 6 - 76 Patrons",
-    "BookShortName": "",
+    "BookName": "GDW315 - Supplement 6 - 76 Patrons",
+    "BookShortName": "Supplement 6 - 76 Patrons",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW315",
     "BookISBN": "",
@@ -2016,8 +2016,8 @@
     }
   },
   {
-    "BookName": "Supplement 7 - Traders and Gunboats",
-    "BookShortName": "",
+    "BookName": "GDW318 - Supplement 7 - Traders and Gunboats",
+    "BookShortName": "Supplement 7 - Traders and Gunboats",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW318",
     "BookISBN": "",
@@ -2049,8 +2049,8 @@
     }
   },
   {
-    "BookName": "Supplement 8 - Library Data (A-M)",
-    "BookShortName": "",
+    "BookName": "GDW320 - Supplement 8 - Library Data (A-M)",
+    "BookShortName": "Supplement 8 - Library Data (A-M)",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW320",
     "BookISBN": "",
@@ -2082,8 +2082,8 @@
     }
   },
   {
-    "BookName": "Supplement 9 - Fighting Ships",
-    "BookShortName": "",
+    "BookName": "GDW324 - Supplement 9 - Fighting Ships",
+    "BookShortName": "Supplement 9 - Fighting Ships",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW324",
     "BookISBN": "",
@@ -2115,8 +2115,8 @@
     }
   },
   {
-    "BookName": "Supplement 10 - The Solomani Rim",
-    "BookShortName": "",
+    "BookName": "GDW329 - Supplement 10 - The Solomani Rim",
+    "BookShortName": "Supplement 10 - The Solomani Rim",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW329",
     "BookISBN": "",
@@ -2148,8 +2148,8 @@
     }
   },
   {
-    "BookName": "Supplement 11 - Library Data (N-Z)",
-    "BookShortName": "",
+    "BookName": "GDW332 - Supplement 11 - Library Data (N-Z)",
+    "BookShortName": "Supplement 11 - Library Data (N-Z)",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW332",
     "BookISBN": "",
@@ -2181,8 +2181,8 @@
     }
   },
   {
-    "BookName": "Supplement 12 - Forms and Charts",
-    "BookShortName": "",
+    "BookName": "GDW334 - Supplement 12 - Forms and Charts",
+    "BookShortName": "Supplement 12 - Forms and Charts",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW334",
     "BookISBN": "",
@@ -2214,8 +2214,8 @@
     }
   },
   {
-    "BookName": "Supplement 13 - Veterans",
-    "BookShortName": "",
+    "BookName": "GDW336 - Supplement 13 - Veterans",
+    "BookShortName": "Supplement 13 - Veterans",
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW336",
     "BookISBN": "",

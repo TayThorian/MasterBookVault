@@ -286,7 +286,7 @@
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW0216",
     "BookISBN": "0-943580-72-2",
-    "BookAuthor": "",
+    "BookAuthor": "Terry McInnes",
     "BookPublished": "1989",
     "BookCover": "",
     "BookRules": "Traveller",
@@ -295,9 +295,9 @@
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Supplement",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0216 - COACC.pdf"
@@ -319,7 +319,7 @@
     "BookPublisher": "Game Designers Workshop",
     "BookCode": "GDW0218",
     "BookISBN": "1-55878-050-5",
-    "BookAuthor": "",
+    "BookAuthor": "Marc W. Miller",
     "BookPublished": "1990",
     "BookCover": "",
     "BookRules": "Traveller",
@@ -328,9 +328,9 @@
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Ship Supplement",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\GDW0218 - Fighting Ships of the Shattered Imperium.pdf"
@@ -396,7 +396,7 @@
     "BookSetting": "MegaTraveller",
     "BookType": "Starship Operator's Manual",
     "BookFormat": "Softcover",
-    "BookSeries": "Starship Operator's Manual",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0872 - Starship Operator's Manual, Volume 1.pdf"
@@ -429,13 +429,23 @@
     "BookSetting": "MegaTraveller",
     "BookType": "World Builder's Handbook",
     "BookFormat": "Softcover",
-    "BookSeries": "World Builder's Handbook",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\DGP0875 - World Builder's Handbook.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "Learn how the Imperial Scouts survey and explore new worlds ...",
+      "And learn how to build exciting and interesting new worlds of your own with these extensive rules!",
+      "<b>Contents include -</b>",
+      "<b>Survey Procedures:</b> Procedures used by the Scouts to survey and explore worlds.",
+      "<b>Survey Equipment:</b> Thirty pages of detailed equipment sheets for players to use on survey and exploration missions. Includes sensors, personal-assist hardware, clothing and protective gear, vehicles, and complete plans of the Donosev Survey Starship used by the Scouts.",
+      "<b>Sensor Readout Panel:</b> Comprehensive sensor readout panel for use with all manner of sensory equipment, from lowly handheld sensors all the way to powerful starship sensor arrays.",
+      "<b>Extensive World Building Section:</b> Detail your worlds to a level of detail you never thought possible. Create new environments with exotic alien cultures. Includes rules for detailing not only Terran-like worlds, but also more unusual locations such as:",
+      "Asteroid Worlds",
+      "Gas Giants",
+      "Tidally-locked Worlds",
+      "<b>Mapping a World:</b> Guidelines on how to properly map the world you have built."
     ],
     "TableOfContents": {
       "title": "Book",
@@ -856,9 +866,9 @@
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "MegaTraveller",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Deck Plans",
+    "BookFormat": "Softcover",
+    "BookSeries": "Deck Plans",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\SGS1015 - Gazelle Class Close Escort.pdf"
@@ -889,9 +899,9 @@
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "MegaTraveller",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Deck Plans",
+    "BookFormat": "Softcover",
+    "BookSeries": "Deck Plans",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\SGS1017 - Empress Marava.pdf"
@@ -922,9 +932,9 @@
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "MegaTraveller",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Deck Plans",
+    "BookFormat": "Softcover",
+    "BookSeries": "Deck Plans",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\SGS1021 - Laboratory Ship.pdf"
@@ -955,9 +965,9 @@
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "MegaTraveller",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Deck Plans",
+    "BookFormat": "Softcover",
+    "BookSeries": "Deck Plans",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\02 - Mega Traveller\\SGS1020 - Imperial Small Craft.pdf"

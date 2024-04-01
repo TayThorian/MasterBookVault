@@ -1511,5 +1511,242 @@
         {"page": 2, "title": ""}
         ]    
     }
+  },
+  {
+    "BookName": "MGP40001 - Marches Adventure 1 - High and Dry",
+    "BookShortName": "Marches Adventure 1 - High and Dry",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40001",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Marches Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40001 - Marches Adventure 1 - High and Dry.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "MGP40017 - Marches Adventure 2 - Mission to Mithril",
+    "BookShortName": "Marches Adventure 2 - Mission to Mithril",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40017",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "t",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Marches Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40017 - Marches Adventure 2 - Mission to Mithril.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "MGP40005 - Traveller Referee's Screen",
+    "BookShortName": "Traveller Referee's Screen",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40005",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Referee's Screen",
+    "BookFormat": "Referee's Screen",
+    "BookSeries": "Referee's Screen",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40005 - Traveller Referee's Screen.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "MGP40007 - Traveller Companion",
+    "BookShortName": "Traveller Companion",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40007",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40007 - Traveller Companion.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "MGP40025 - Behind the Claw",
+    "BookShortName": "Behind the Claw",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40025",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Sector Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40025 - Behind the Claw.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "MGP40038 - Sword Worlds",
+    "BookShortName": "Sword Worlds",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40038",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Sector Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40038 - Sword Worlds.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
+  },
+  {
+    "BookName": "MGP40064 - Mercenary",
+    "BookShortName": "Mercenary",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40064",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Supplement",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40064 - Mercenary Book 1 - Mercenaries in the Far Future.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40064 - Mercenary Book 2 - Running a Mercenary Force.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40064 - Mercenary Book 3 - In the Field.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40064 - Mercenary Adventure 0 - Trial by fire.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40064 - Mercenary Force Roster.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40064 - Premium Weapons Guide.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40064 - Vehicle Recognition Cards.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": {
+      "title": "Book",
+      "chapters": [
+        {"page": 1, "title": "TOC TO BE DONE"},
+        {"page": 2, "title": ""}
+        ]    
+    }
   }
 ]
