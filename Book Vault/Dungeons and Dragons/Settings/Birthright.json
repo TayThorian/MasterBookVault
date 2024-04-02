@@ -24,13 +24,15 @@
     "BookDescription": [
       "A king stands in the hight turret of his castle, squinting at the distant hills. He can just make out the figures of his troops engaging the enemy in battle. As a damp breeze whips at his cloak, he contemplates the war. He has culled the best generals, captains, and troops from his land. His court wizard wields powers that unnerve even the most seasonal warriors. Can the forces he commands hold the enemy at bay? Or will the king awake at dawn to the pounding of battering rams and showers of deadly arrows?"
     ],
-    "TableOfContents": {
+    "TableOfContents": [
+      {
     "title": "Book",
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
       ]    
   }
+]
 },
 {
   "BookName": "TSR3101 - Blood Enemies - Abominations of Cerilia",
@@ -59,12 +61,14 @@
     "This book, designed for the Dungeon Master, is a guided to the most dangerous creatures on the face of Cerilia: the awnsheghlien. Soveriegn rulers of their own realms, these dark creatures wield their power with iron fists, and many seek to tear more power from weaker leaders.",
     "These pages of monstrous dictators and wandering nightmares will strike fear into the hearts of all blooded rulers from the Sea of Storms to the Isle of the Serpent!"
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

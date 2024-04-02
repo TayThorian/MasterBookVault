@@ -24,13 +24,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
+    "TableOfContents": [
+      {
     "title": "Book",
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
       ]    
   }
+]
 },
 {
   "BookName": "Level Up - Adventures in ZEITGEIST",
@@ -57,13 +59,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Level Up - Dungeon Delvers Guide",
@@ -90,13 +94,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Level Up - Memories of Holdenshire",
@@ -123,13 +129,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Level Up - Monstrous Menagerie",
@@ -156,13 +164,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Level Up - Mythological Figures & Maleficent Monsters",
@@ -189,13 +199,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Level Up - Trials and Treasures",
@@ -222,12 +234,14 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

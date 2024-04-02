@@ -25,13 +25,15 @@
       "At last, the complete Krynn source book that contains all the information necessary for limitless campaigning in the world of the DragonLance saga!",
       "Provides all-new information on the character classes, races, artifacts, and powers that are unique to the fascinating world of Krynn."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR1050 - Time of the Dragon",
@@ -60,13 +62,15 @@
       "Centuries later, the cultures and societies which rise out of the ruins are uniquely shaped by this savage environment. The minotaurs with their eloquent diplomats, elite legions, and gladiatorial contests, are spreading their influence throughout the hemisphere. Wild elves fight territorial wars with humans, kender, and gnomes. Fearsome fire minions rampage around the coasts of the lava ocean while the Followers of Hith seek to dominate the land.",
       "Time of the Dragon includes two information-packed books totaling 160 pages, four full-color maps, and 24 individual color plates showing maps, NPCs, and major races."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2143 - PG1 - Player's Guide to the Dragonlance Campaign",
@@ -94,13 +98,15 @@
       "If you have been intrigued by the Dragonlance setting, but have felt intimidated by the sheer amount of information it comprises, this is the book for you.",
       "This book will not baffle you with \"game jargon.\" It presents the world of Krynn in a manner you are sure to find entertaining and informative. Through a combination of original fiction and long-established fact, you will discover the continent of Ansalon—home to the Heroes of the Lance. You will find information about the races of the world, its major cities and regions, its deities, and its monsters. You will read The River of Time, the chronological history of Krynn. Open this book, and open the world!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2105 - MC4 - Monstrous Compendium - Dragonlance Appendix",
@@ -127,13 +133,15 @@
     "BookDescription": [
       "This volume of the exciting Monstrous Compendium series brings you the unique creatures of Krynn: astral dragons, Krynn minotaurs, the various races and tribes of dwarves and elves, knights of Solamnia, kender, and dozens of other creatures and monsters from both Ansalon and the new continent of Taladas."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11350 - Dragonlance Classics - 15th Anniversary Edition",
@@ -165,13 +173,15 @@
       "To celebrate the 15th anniversary of the publication of the first DRAGONLANCE adventure TSR proudly presents a retelling of the greatest fantasy roleplaying epic ever. Players can assume the roles of Raistlin, Tasslehoff, Tanis, and other Heroes of the Lance, or create original heroes.",
       "The DRAGONLANCE Classics 15th Anniversary Edition features many all-new scenes, including meetings with Dalamar, Ariakan, and other more recent additions to the Saga. It is fully compatible with both the AD&D and SAGA(r) game rules." 
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR8448 - Atlas of the Dragonlance World",
@@ -199,13 +209,15 @@
       "Krynn... Enter the spell-binding world of the Dragonlance Saga with this volume of beautifully rendered maps.",
       "Accompany the Heroes of the Lance on their epic travels across Krynn in this magnificently illustrated volume. Behold the beauty of the King Priest's Hall of Audience in the Temple of Istar. Smell Raistlin's herbs as you wander the hallways of the Tower of High Sorcery at Palanthas. Become hopelessly lost in the thirty-five levels of Mount Nevermind."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9130 - DL1 - Dragons of Despair",
@@ -234,13 +246,15 @@
       "For the world of Krynn is not the same: refugees stream out of the northernmost human lands, telling horrible tales. An invading army has burned their villages and put their families and friends to the sword. Among these stories you hear even darker rumors-that older evils, the dragons themselves, have returned to the world, for new and more terrible purposes.",
       "\"Dragon of Despair\" is the first in TSR's series of Dragonlance adventures for use with the AD&D game system. Your players will adventure in the world of Krynn, visit strange places such as Haven or ruined Xak Tsaroth, and encounter the bizarre draconians and spectral minions. They can play the modules as a set of separate adventures or as a great quest that spans the entire Dragonlance story."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9132 - DL2 - Dragons of Flame",
@@ -267,13 +281,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9131 - DL3 - Dragons of Hope",
@@ -303,13 +319,15 @@
       "Through the snow-covered Kharolis Mountains, across the Dergoth Plain, haunted by the ghosts of ancient armies, and to the incredible mountain known as Skullcap, you search for the answer that will save the refugees of Pax Tharkas—and yourself!",
       "\"Dragons of Hope\" is the exciting third part of the First Book of Dragonlance, an epic quest through the world of Krynn, threatened by the domination of the inhuman draconians. This adventure can be played as part of a separate adventure, or as part of the great quest that spans the entire Dragonlance story."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9139 - DL4 - Dragons of Desolation",
@@ -336,13 +354,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9135 - DL5 - Dragons of Mystery",
@@ -369,13 +389,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9140 - DL6 - Dragons of Ice",
@@ -402,13 +424,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9136 - DL7 - Dragons of Light",
@@ -435,13 +459,15 @@
     "BookDescription": [
       "D:\\Master Vault\\Dragonlance\\ADnD\\TSR9136 - DL7 - Dragons of Light.pdf"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9141 - DL8 - Dragons of War",
@@ -469,13 +495,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9137 - DL9 - Dragons of Deceit",
@@ -502,13 +530,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9142 - DL10 - Dragons of Dreams",
@@ -535,13 +565,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }  ,
   {
     "BookName": "TSR9144 - DL11 - Dragons of Glory",
@@ -568,13 +600,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9133 - DL12 - Dragons of Faith",
@@ -601,13 +635,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9176 - DL13 - Dragons of Truth",
@@ -635,13 +671,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9180 - DL14 - Dragons of Triumph",
@@ -670,13 +708,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9231 - DL15 - Mists of Krynn",
@@ -703,13 +743,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9237 - DL16 - World of Krynn",
@@ -736,13 +778,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9275 - DLA1 - Dragon Dawn",
@@ -772,13 +816,15 @@
       "Your heroes must set on a dangerous trek in pursuit of dragon killers, through the lands of hostile holderfolk and to the mysterious Pillars of the Moon. Along the way they encounter Dragon Knights (warriors with a magic touch!) ancient guardians, and other surprises in the transformed realm of Taladas.",
       "This AD&D® adventure, set in the world of the DRAGONLANCE® saga, is the first of an epic trilogy beginning in the previously unknown continent of Taladas and ranging out to the Astral plane. Players must track down the dragon killers and warn the conclave of the Othlorx, but those are only the first steps in thwarting a dreadful conspiracy aimed at all of Krynn!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9285 - DLA2 - Dragon Knight",
@@ -807,13 +853,15 @@
       "This quest will take the heroes from the alleys of rundown Gridmire through the entire Southern Steamwall region of Taladas and eventually to the Astral plane. The poisonous vapors of the Indanalis Sea have wreaked havoc with the inhabitants of this region so be prepared to meet anything!",
       "This AD&D adventure, set in the world of the Dragonlance saga, is the second of an epic trilogy that begins in the previously unknown continent of Taladas and ranges out to the Astral plane. The players assume the roles of dragon hunters to discover the identity of the \"master\" behind the plan to wipe out the Othlorx dragons of Taladas."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9294 - DLA3 - Dragon's Rest",
@@ -843,13 +891,15 @@
       "This AD&D game adventure, set in the vast world of the Dragonlance saga, is the conclusion to an epic adventure that began with Dragon Dawn and continued with Dragon Knight. On the previously unknown continent of Taladas, the heroes must strive to thwart the extraplanar invasion plans of Erestem, Queen of Evil, also known as Takhisis. Failure means doom for all of Krynn!",
       "You need the Time of the Dragon set in order to play this adventure. You need not have played either of the previous modules in this series; alternate beginnings are provided for player who have not done so."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9291 - DLC1 - Dragonlance Classics, Volume I",
@@ -876,13 +926,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9394 - DLC2 - Dragonlance Classics, Volume II",
@@ -909,13 +961,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9453 - DLC3 - Dragonlance Classics, Volume III",
@@ -942,13 +996,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9395 - DLT1 - New Tales The Land Reborn",
@@ -975,13 +1031,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+  "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9396 - DLT2 - Dragonlance Book of Lairs",
@@ -1008,13 +1066,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9314 - DLS1 - New Beginnings",
@@ -1041,13 +1101,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9319 - DLS2 - Treelords",
@@ -1074,13 +1136,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9327 - DLS3 - Oak Lords",
@@ -1107,13 +1171,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9334 - DLS4 - Wild Elves",
@@ -1140,13 +1206,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9243 - DLE1 - In Search of Dragons",
@@ -1173,13 +1241,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9244 - DLE2 - Dragon Magic",
@@ -1206,13 +1276,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9245 - DLE3 - Dragon Keep",
@@ -1239,13 +1311,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9587 - Seeds of Chaos",
@@ -1272,13 +1346,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11372 - Chaos Spawn",
@@ -1305,13 +1381,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9381 - DLQ1 - Knight's Sword",
@@ -1338,13 +1416,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9382 - DLQ2 - Flint's Axe",
@@ -1371,13 +1451,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9278 - DLR1 - Otherlands",
@@ -1404,13 +1486,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9344 - DLR2 - Taladas The Minotaurs",
@@ -1437,13 +1521,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9383 - DLR3 - Unsung Heroes",
@@ -1470,13 +1556,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11329 - The Sylvan Veil",
@@ -1503,13 +1591,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11396 - Rise of the Titans",
@@ -1536,13 +1626,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1074 - Tales of the Lance",
@@ -1569,13 +1661,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1086 - Dwarven Kingdoms of Krynn",
@@ -1602,13 +1696,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR8446 - Leaves From the Inn of the Last Home",
@@ -1635,13 +1731,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR8372 - The History of Dragonlance",
@@ -1668,13 +1766,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR8447 - The Art of the Dragonlance Saga",
@@ -1701,13 +1801,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC869900000 - Dragonlance - Campaign setting",
@@ -1735,13 +1837,15 @@
       "Sagas from the lands of Krynn are filled with valiant heroes destined to discover ancient secrets and vanquish terrible evils. Like those great champions, you will band together with brave companions to set forth on daring adventures. The tales of those bold deeds will become the newest legends in the world of Dragonlance.",
       "From Solamnic Knights and Dragon Riders to kender, tinker gnomes, and draconians, the rich tapestry of the Dragonlance world comes alive in this campaign setting for the Dungeons & Dragons roleplaying game. With historical content covering eras from the War of the Lance to the War of Souls, along with expanded rules for aerial combat, the Dragonlance Campaign Setting provides the character races, prestige classes, feats, spells, monsters, and maps you need to fully explore the world of Dragonlance."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4001 - Age of Mortals",
@@ -1768,13 +1872,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4002 - War of the Lance",
@@ -1801,13 +1907,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4003 - Legends of the Twins",
@@ -1834,13 +1942,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4401 - Towers of High Sorcery",
@@ -1867,13 +1977,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4402 - Holy Orders of the Stars",
@@ -1900,13 +2012,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4403 - Knightly Orders of Ansalon",
@@ -1933,13 +2047,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4404 - Races of Ansalon",
@@ -1966,13 +2082,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4405 - Bestiary of Krynn Revised",
@@ -1999,13 +2117,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4406 - Dragons of Krynn",
@@ -2032,13 +2152,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4801 - Bestiary of Krynn",
@@ -2065,13 +2187,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4407 - Lost Leaves From the Inn of the Last Home",
@@ -2098,13 +2222,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4901 - Dungeon Master's Screen",
@@ -2131,13 +2257,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4902 - Tasslehoff's Map Pouch - The Age of Mortals",
@@ -2164,13 +2292,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4903 - Tasslehoff's Map Pouch - The War of the Lance",
@@ -2197,13 +2327,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4904 - Tasslehoff's Map Pouch - Legends",
@@ -2230,13 +2362,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4201 - Key Of Destiny",
@@ -2263,13 +2397,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4202 - Spectre of Sorrows",
@@ -2296,13 +2432,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4203 - Price of Courage",
@@ -2329,13 +2467,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4204 - Dragons of Autumn",
@@ -2362,13 +2502,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4205 - Dragons of Winter War of the Lance Chronicles, Volume II",
@@ -2395,13 +2537,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "SVP-4206 - Dragons of Spring War of the Lance Chronicles, Volume III",
@@ -2428,13 +2572,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9400 - The World Of Krynn Trail Map",
@@ -2461,13 +2607,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9517 - Dragonlance 5th Age Heroes of Defiance",
@@ -2494,12 +2642,14 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }
 ]

@@ -24,12 +24,14 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
+    "TableOfContents": [
+      {
     "title": "Book",
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
       ]    
   }
+]
 }
 ]

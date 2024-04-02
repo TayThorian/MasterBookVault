@@ -24,13 +24,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
+    "TableOfContents": [
+      {
     "title": "Book",
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
       ]    
   }
+]
 },
 {
   "BookName": "CB72301 - The Loremaster's Guide",
@@ -59,13 +61,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "CB72302 - Wilderland Adventures",
@@ -92,13 +96,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "CB72303 - Rhovanion Region Guide",
@@ -125,13 +131,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "CB72304 - Mirkwood Campaign",
@@ -158,13 +166,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "CB72305 - The Road Goes Ever On",
@@ -192,13 +202,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "CB72306 - The Elves of Mirkwood & Loremaster's Screen",
@@ -228,13 +240,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "CB72307 - Rivendell Region Guide",
@@ -262,13 +276,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "CB72308 - Eriador Adventures",
@@ -296,13 +312,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "CB72309 - Rohan Region Guide",
@@ -329,13 +347,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "CB72310 - Bree-land Region Guide",
@@ -363,13 +383,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "CB72311 - Lonely Mountain Region Guide",
@@ -397,13 +419,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "CB72312 - Erebor Adventures",
@@ -430,12 +454,14 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

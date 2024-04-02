@@ -26,13 +26,15 @@
       "Your journey begins when you create an adventurer and start performing the dungeon training missions. Once they have been successfully completed your adventurer will be ready to face some greater challenges and begin questing in an endeavour to gain notoriety and wealth, rivalling that of royalty and who knows one day their greatest exploits might even become stories and songs performed by bards in every tavern throughout the kingdom.",
       "This version of the D100 Dungeon game is known as D100 Dungeon V3; it supersedes the earlier versions known as V1 and V2.  You will need version 3 D100 Dungeon in order to use and play any of the books, pdfs and accessories here on DriveThruRPG. Older versions (V1 and V2) will not translate well into this edition."
     ],
-    "TableOfContents": {
+    "TableOfContents": [
+      {
     "title": "Book",
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
       ]    
   }
+]
 },
 {
   "BookName": "Book 2 - The Adventurer's Companion",
@@ -70,13 +72,15 @@
     "A 20 quest campaign with an interlocking story and narrative.",
     "25 additional quests to play."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Book 3 - The Dragon Armour",
@@ -104,13 +108,15 @@
     "The Dragon Armour - Adventure Book One (Book 3) introduce a different way of playing D100 Dungeon, and will give you choices much like a traditional adventure game book. It use all of the D100 Dungeon game rules from the main rule book with a few modifications.",
     "Also included are some additional rules that can be used in any of your D100 Dungeon games; whether playing a quest, campaign or an adventure. They include rules to destroy doors that are blocking your way (either with spells or by smashing through them with a hand weapon), and rules for multi-slot armour (that protect more than one location slot). The new adventure game also requires a new type of dungeon sheet and if you own the mapping game included are some new tokens needed to play the adventure game, which are included to cut out (or can be downloaded)."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Book 4 - The Lost Tome of Extraordinary Rules",
@@ -137,13 +143,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Book 5 - The Dragons Return",
@@ -171,13 +179,15 @@
     "D100 Dungeon The Dragons Return (Book 5) contains campaign quest 2 which is set in the continent of Westpoint. It is the second campaign book released for D100 Dungeon and follows on from the campaign named “The Goblin and the Goblet”, which features in the Adventurers Companion book.",
     "Also included is Martial Artistry that combines new advanced weaponry and unarmed combat, and a new Encounter table EB with 36 new monsters and a new Monster Ability."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Book 6 - World Builder",
@@ -204,13 +214,15 @@
   "BookDescription": [
     "Book 6: World Builder adds to the D100 Dungeon game a way to create and explore new and fascinating worlds. Your adventurer will travel the lands and interact with towns and cities, and explore a vast wilderness in search of adventure. They will find quests and side quests and may have events sprung on them as they explore. You have explored below, now its time to explore the above."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Book 7 - The Rune Forge",
@@ -237,13 +249,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Book 1 - D100 Space",
@@ -273,12 +287,14 @@
     "D100 Space has been designed with a similar game system as D100 Dungeon and uses many of the same mechanics. However, D100 Space is a lot more that a simple reskin of the popular dungeon delving game. It has a galaxy to fly a starship across, with ports to trade with and find missions. There are asteroids, gas formations, dead planets, moons and worlds to interact with.",
     "D100 Space has two core phases. The \"Before Your Next Quest\" phase from D100 Dungeon no longer exists, but is instead replaced by a galaxy of star systems to explore; and interact with. Whilst the traditional quest phase of D100 Dungeon has been replaced by away missions; where your captain will go it alone on a complex, facility or enemy starship and fight or explore their way to complete specific goals."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

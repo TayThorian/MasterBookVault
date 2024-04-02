@@ -22,13 +22,15 @@
     "BookDescription":[
       "Whether you're a novice DM getting ready to referee your first AD&D game or an old pro who's running an established campaign, there's something for you in the Campaign Sourcebook and Catacomb Guide. We've included dozens of helpful tips to help you better organize your games, design adventures, and make your NPCs come to life. In short, there's something for everybody in this exciting addition to the AD&D game system."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR2114 - DMGR2 - Castle Guide",
@@ -54,13 +56,15 @@
       "Imagine a world of knights in shining armor, mighty castles, and high chivalry. In this book, you'll find a wealth of information desgined to allow any DM to create a campaign world based on feudal Europe. Sections address life in a feudal culture, new Battlesystem rules for the resolution of sieges, a quick resolution system for massive military campaigns, and an assortment of generic castles to spark your imagination.",
       "The Castle Guide is a must for any player or DM who's ever wanted to fight for a seat at the round table."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR2151 - DMGR7 - The Complete Book of Necromancers",
@@ -85,13 +89,15 @@
     "BookDescription":[
       "Necromancers like Kazerabet and their priestly counterparts have mastered many dark, forbidden secrets. This tome reveals these mysteries to the Dungeon Master, who will find new NPC kits and volumes of necromancer's minions, familiars, secret societies, poisons, magical items, enchanted tomes, and dozens of new wizard and priest spells, plus the deadly Isle of the Necromancers, a portable setting which can be placed into any existing campaign."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2141 - Encyclopedia Magica - Volume One",
@@ -118,13 +124,15 @@
     "BookDescription":[
       "The Encyclopedia Magica is a four-volume series that describes every magical item for the AD&D game. These items have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975. This essential reference tool puts the power of more than 20 years of AD&D history at your fingertips!"
     ],
-    "TableOfContents": {
-      "title": "Encyclopedia Magica - Volume One",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2152 - Encyclopedia Magica - Volume Two",
@@ -151,13 +159,15 @@
     "BookDescription": [
       "The Encyclopedia Magica is a four-volume series that describes every magical item for the AD&D game. These items have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975. This essential reference tool puts the power of more than 20 years of AD&D history at your fingertips!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 2, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2157 - Encyclopedia Magica - Volume Three",
@@ -184,13 +194,15 @@
     "BookDescription": [
       "The Encyclopedia Magica is a four-volume series that describes every magical item for the AD&D game. These items have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975. This essential reference tool puts the power of more than 20 years of AD&D history at your fingertips!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 2, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2161 - Encyclopedia Magica - Volume Four",
@@ -217,13 +229,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 2, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9506 - Chronomancer",
@@ -253,13 +267,15 @@
       "These few wizards are Chronomancers, and this 96-page AD&D game accessory reveals the secrets of their lives. New spells, new powers, and new realms—as well as terrifying monsters—are brought to light in this stunning work.",
       "Take time to study the mysteries of chronomancy.. before someone else takes that time from you."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9507 - Shaman",
@@ -288,13 +304,15 @@
       "There is a world unseen by mortals, a world filled with invisible beings that whisper words unheard by all—all but the shaman. The shaman alone knows how to listen for the spirits, and the shaman alone knows their secrets.",
       "This 96-page AD&D game accessory introduces three new priest classes with unique powers and exciting potential. More subtle and versatile than clerics and wizards, shamans tap the energies of the mysterious spirit world, using their extraordinary abilities to further their personal goals, as well as the agendas of their unseen spirit patrons. Shaman offers complete information on these new classes, tips for incorporating them into established campaigns, new skills, new spells, and a detailed look at the unseen world of spirits."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2145 - Monstrous Compendium Annual - Volume One",
@@ -324,13 +342,15 @@
       "Creatures within these pages have appeared in the Forgotten Realms campaign setting, the Al-Qadim world of adventure, the Ravenloft world of horror, the Dark Sun game world, and even the Outer and Inner Planes, but they've been reorganized, updated, and edited so they can be used in any campaign. An introduction explaining how to breathe life into random encounters is included too. Every illustration is brand new and presented in full colour, so these monsters are more lifelike than ever before!",
       "This is a must-have item for all serious Dungeon Masters."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2158 - Monstrous Compendium Annual - Volume Two",
@@ -359,13 +379,15 @@
       "More than 100 denizens of the land, sky, sea, and... other places... are collected inside. Most of these creatures originally appeared in a specific AD&D campaign setting, but they've been updated and edited so they can be used in any campaign. This year's collection also features the return of the long out-of-print dinosaurs and pleistocene creatures, and includes general encounter tables for the MONSTROUS COMPENDIUM books.",
       "This richly illustrated book is an essential addition to every Dungeon Master's library."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2166 - Monstrous Compendium Annual - Volume Three",
@@ -394,13 +416,15 @@
       "More than 100 denizens of the land, sky, sea, and Outer Planes are ready to sneak, storm, or wheedle their way out of these pages and into the nearest adventure. These creatures, many of them from the Forgotten Realms, Birthright, Ravenloft, Dark Sun, Al-Qadim, and Greyhawk settings, are looking for new worlds to conquer.",
       "This collection features a full combined index to the Monstrous Manual tome and all three annuals."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2173 - Monstrous Compendium Annual - Volume Four",
@@ -429,13 +453,15 @@
       "Over 100 creatures are presented, from the Prismatic Dragon and the Clockwork Horrors to the Shades from the Demiplane of Shadow. Creatures in this book have come from the FORGOTTEN REALMS, BIRTHRIGHT, DRAGONLANCE, RAVENLOFT, DARK SUN, RED STEEL, and GREY HAWK settings (and a few have just sprung from the fertile minds of their creators).",
       "This collection, which is fully indexed, features new monsters from the Far Realm, and includes many creatures suitable for nautical and undersea adventures."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9179 - GDQ1-7 - Queen of the Spiders",
@@ -464,13 +490,15 @@
       "<b>The Queen of Spiders! </b>",
       "The story of the Queen of the Spiders is one of plots within plots, wheels within wheels. Each level of the conspiracy has its own masters (or mistresses) and hidden reasons for their actions. All the parties involved wield their own dread powers and are forces to be reckoned with. It is recommended that at the start of the adventure no characters be of less than 8th level, with loth level the norm as the characters leave the surface world and journey into the sunless realms of the depths beneath the earth. Characters of less than 8th level will quickly find themselves overwhelmed by the creatures they must face, and it is recommended that those of much lower levels begin play with Temple Of Elemental Evil or Scourge of the Slave Lords, which provide the groundwork for this adventure. Just as characters of too low a level will have difficulty dealing with the encounters within, those of supremely high level (18 + at the start of the adventure) will undoubtedly find the challenges within unsatisfying, and surely one such as Lolth would not wish to let into her web any opponent she feels could give her a fair fight! Such characters are best left running their own baronies and kingdoms, provided what support they may for lesser adventurers. "
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9062 - U1 - The Sinister Secret of Saltmarsh",
@@ -498,13 +526,15 @@
       "Desolate and abandoned, the evil alchemist's mansion stands alone on the cliff, looking out towards the sea. Mysterious lights and ghostly hauntings have kept away the people of Saltmarsh, despite rumors of a fabulous forgotten treasure. What is it's sinister secret?",
       "The Sinister Secret of Saltmarsh is the first installment in a series of three modules designed and developed in the United Kingdom, for beginning adventures with the AD&D rules. The adventure can be played by 5-10 characters of levels 1-3. This module contains large-scale maps, full background information, and detailed encounter descriptions for the players and DM."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9064 - U2 - Danger at Dunwater",
@@ -532,13 +562,15 @@
       "The little fishing town of Saltmarsh is threatened! Why are lizard men gathering force nearby and why have they been buying large quantities of weapons? A party of bold adventurers must answer these questions or the people of Saltmarsh will never live in peace!",
       "\"Danger at Dunwater\" is the second part in a series of three modules designed and developed in the United Kingdom for beginning adventurers with the AD&D rules. Its plot follows direct from that of the first part (U1: \"The Sinister Secret of Saltmarsh\"). This adventure can be played by 6-10 characters of levels 1-4. This module contains large-scale maps, full background information, and detailed encounter descriptions for the players and DM."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9076 - U3 - The Final Enemy",
@@ -566,13 +598,15 @@
       "At last! An opportunity to avert the threat to the little town of Saltmarsh! The real enemies have been identified - evil, cruel creatures, massed in force and viciously organized. Can the brave adventurers thwart this evil and ensure the safety of Saltmarsh?",
       "\"The Final Enemy\" is the final part in a series of three modules designed and developed in the United Kingdom for beginning adventurers with the AD&D rules. Its plot follows directly from those of the first two parts (U1: \"The Sinister Secret of Saltmarsh\" and U2: \"Danger at Dunwater\"). This adventure can be played by 8-12 characters of experience levels 3 to 5. This module contains large-scale maps, full background information and detailed encounter descriptions for the players and DM."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR2123 - DMGR3 - Arms and Equipment Guide",
@@ -600,13 +634,15 @@
       "At one time or another, every Dungeon Master faces questions like \"What's the difference between banded mail and splint mail?\" and \"What do all these pole arms look like?\"",
       "DMs and players alike will be thrilled to find answers to these and other equipment questions all in this book, the Arms and Equipment Guide. Lavishly illustrated, this book provides valuable descriptions and diagrams for a variety of armors, weapons, and barding, as well as important items of clothing and equipment. This is the essential volume for the well-equipped character!"
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR2128 - DMGR4 - Monster Mythology",
@@ -634,13 +670,15 @@
       "Maglubiyet... Blibdoolpoolp... Diinkarazan... Panzuriel.... Such names are whispered in the dark on the far side of midnight, or muttered fearfully around jugs of wine when old, scarred adventurers tell their tales. They are the unseen, unknown things worshipped by monsters and monstrosities.",
       "Learn all about the avatars and shamans of giants, goblins, the Underdark - even illithids and beholders - in this expansion of the popular Legends & Lore."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR2133 - DMGR5 - Creative Campaigning",
@@ -671,7 +709,8 @@
       "Put your gaming back on track for outstanding heroic adventure!",
       ""
     ],
-    "TableOfContents": {
+    "TableOfContents": [
+      {
       "title": "DMGR5 - Creative Campaigning",
       "chapters": [
         {"page": 3,   "title": "Chapter 1 - Alternate Campaigns"},
@@ -682,7 +721,8 @@
         {"page": 101, "title": "Chapter 6 - The Grand Tour"},
         {"page": 112, "title": "Chapter 7 - Test The Medieval Mindset"}
         ]    
-    }
+    }]
+
   } ,
   {
     "BookName": "TSR2144 - DMGR6 - The Complete Book of Villains",
@@ -710,13 +750,15 @@
       "A paranoid warlord, a bitter drow priestess, a power-mad archmage, a sly dwarven assassin - not all the characters in the AD&D game went the way of the heroes.",
       "Villains (beings dedicated to committing evil) are the most dangerous of all foes, and thus the most useful of tools a Dungeon Master has to create a memorable campaign. This book presents the most complete guidelines ever offered on creating villains for role-playing games. Miss this advice at your own peril!"
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR2164 - DMGR8 - Sages and Specialists",
@@ -745,13 +787,15 @@
       "Inside Sages & Specialists you'll find ten new NPC specialist classes--from apothecary to seer, from engineer to scribe--each with his own special talents and insights.",
       "In addition, this book contains a host of new rules that directly affect the lives of PCs everywhere. Add depth to your campaign with these unique and three-dimensional NPCs."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR2170 - DMGR9 - of Ships and the Sea",
@@ -780,13 +824,15 @@
       "Of Ships and the Sea is packed with information on the ships of the AD&D game, rules for sailing them to exotic lands, and two system for conducting naval combat. The action extends below the waves, too, as this book also reveals the secrets of underwater adventuring and exploration-rules for travelling, fighting, and casting spells underwater, new spells, new magical items, and a new character kit, the fathomer.",
       "Dive into a whole new dimension of gaming."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2009 - Monster Manual - 1st Edition",
@@ -815,13 +861,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR2010 - Player's Handbook - 1st Edition",
@@ -850,13 +898,15 @@
     "BookDescription": [
       "It's the perfect player's game-playing aid and the best companion to the referee's Dungeon Masters Guide. As a player, this handbook will help you determine your character's abilities such as strength, wisdom and charisma. Character races including elves, halflings, dwarves, gnomes and others are explained in detail to make adventure fast, fun and exciting. You'll learn the rules for progressing in character levels and the most advantageous mapping and combat procedures. And they're all in this easy to use book."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2011 - Dungeon Masters Guide - 1st Edition",
@@ -885,13 +935,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "DMGR5 - Creative Campaigning",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 1, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9532 - World Builders Guidebook",
@@ -925,13 +977,15 @@
       "A pad of 32 copyable forms, mapping paper, and hex sheets?an indispensable set of tools for your world-building efforts!",
       "You're the master architect of an entire world. What are you going to build?"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 2, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9556 - Dungeon Builder's Guidebook",
@@ -958,13 +1012,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 2, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9515 - Den of Thieves",
@@ -993,8 +1049,9 @@
       "Who stalks the fog-shrouded alleys of the night? Who rules where the City Watch fears to tread? Enter the secret organized underground of thieves, pickpockets, cat burglars, upright men, and kingpins.",
       "This 96-page book includes eye-opening details about thieves' guilds, a complete underworld organization, new adventures, and magical items. Also included is a full-colour map showing an elaborate thieves' hideout in great detail."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Den of Thieves",
       "chapters": [
         {"page": 3, "title": "Introduction"},
         {"page": 5, "title": "A Typical Guild"},
@@ -1007,6 +1064,7 @@
         {"page": 88, "title": "Appendices"}
         ]    
     }
+  ]
   } ,
   {
     "BookName": "TSR9147 - T1-4 - The Temple of Elemental Evil",
@@ -1036,13 +1094,15 @@
       "This product includes the village of Hommlet, the filthy shire of Nulb, and reveals the ruins of the Temple of Elemental Evil and the labyrinths that lie beneath, a warren of darkness. And beyond these ruins, even more is revealed.",
       "For the first time, this product provides a complete campaign adventure, which will take beginning characters from 1st all the way to 8th level and possibly beyond! Hours of adventuring await you!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 2, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }  ,
   {
     "BookName": "TSR9026 - T1 - The Village of Hommlet",
@@ -1070,13 +1130,15 @@
     "BookDescription": [
       "The Village of Hommlet has grown up around a crossroads in a woodland. Once far from any important activity, it became embroiled in the struggle between gods and demons when the Temple of Elemental Evil arose but a few leagues away. Luckily of its inhabitants, the Temple and its evil hordes were destroyed a decade ago, but Hommlet still suffers from incursions of bandits and strange monsters."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 2, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2110 - PHBR1 - The Complete Fighter's Handbook",
@@ -1104,8 +1166,9 @@
       "Who says fighters are the poor cousins of the AD&D game? No one will say it aloud after reading the Complete Fighter's Handbook: 128 pages of mind-expanding advice on how to make your fighter the leanest, meanest threshing machine for leagues around.",
       "New weapons, new proficiencies, new fighting styles, and fighter \"kits\" make this optional AD&D accessory a useful item for players and DMs."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "PHBR1 - The Complete Fighter's Handbook",
       "chapters": [
         {"page": 1, "title": "Introduction"},
         {"page": 4, "title": "Character Creation"},
@@ -1117,6 +1180,7 @@
         {"page": 120, "title": "Forms"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR2111 - PHBR2 - The Complete Thief's Handbook",
@@ -1144,8 +1208,9 @@
       "Hide in shadows, move silently, find traps, open locks - if you thought that was all a thief was good for, think again. The masters of skulking and skullduggery are a force to be reckoned with. Is anyone or anything safe from a person who might be anywhere, anytime?",
       "Learn the thief's most closely guarded secrets in this devious accessory for the AD&D game."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "PHBR2 - The Complete Thief's Handbook",
       "chapters": [
         {"page": 4, "title": "Introduction"},
         {"page": 7, "title": "Chapter 1 - Role-Playing Thieves"},
@@ -1158,6 +1223,7 @@
         {"page": 116, "title": "Chapter 8 - The Thief Campaign"}        
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR2113 - PHBR3 - The Complete Priest's Handbook",
@@ -1184,13 +1250,15 @@
     "BookDescription": [
       "Clerics have long been among players' favourites, but now there are new priest characters for your gaming enjoyment! Within these pages are new rules for mythos-specific priests, guidelines for creating mythoi of your own, how-to's for making new priesthoods. Also here are new priest \"kits,\" so you can play a fighting monk, an amazon priestess, a savage priest, or even a peasant priest (among many others)."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2115 - PHBR4 - The Complete Wizard's Handbook",
@@ -1218,8 +1286,9 @@
       "If you thought all wizards were alike, think again! The masters of magic now have a new guide to creating more interesting and imaginative mages, just when you thought you had them figured out. The Complete Wizard's Handbook will put a whole new twist on wizards, from personality and dress codes to schools of magic to building that dream laboratory.",
       "Look out, world - you'll never look at a mage the same way again!"
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "PHBR4 - The Complete Wizard's Handbook",
       "chapters": [
         {"page": 3, "title": "Introduction"},
         {"page": 6, "title": "Chapter 1 - Schools of Magic"},
@@ -1233,6 +1302,7 @@
         {"page": 108, "title": "Chapter 9 - Wizardly Lists"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR2117 - PHBR5 - The Complete Psionics Handbook",
@@ -1260,13 +1330,15 @@
       "Are you ready for the mind-blowing potential of the psyche? This handbook describes over 150 paranormal powers: telepathy, ESP, clairvoyance, psychokinesis, biofeedback, out-of-body travel, plus many amazing talents never before revealed. The psionicist is a completely new character class for AD&D games, both for player characters and NPCs.",
       "Explore inner space! Now you can really put mind over matter with The Complete Psionics Handbook."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2124 - PHBR6 - The Complete Book of Dwarves",
@@ -1295,13 +1367,15 @@
       "If that was your view of dwarves, you need The Complete Book of Dwarves. Discover 24 new character kits, new weapons, and new possibilities, including six dwarf subraces, new proficiencies, strongholds, origin myths, and a look at dwarven personalities.",
       "After reading the The Complete Book of Dwarves, you may still look down on these short folk... but only to see them more clearly!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2127 - PHBR7 - The Complete Bard's Handbook",
@@ -1329,13 +1403,15 @@
       "Thief, musician, clown, actor, acrobat - just a partial list of the many twists on the bard class to be found in this book!",
       "Seventeen bard kits, multitudes of abilities and powers, new magical items, new proficiencies, rules for gaining patrons and followers, over 100 bardic instruments, and much more await you within. The Complete Bard's Handbook gives you everything you need to create a bard the world will never forget"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2131 - PHBR8 - The Complete Book of Elves",
@@ -1364,13 +1440,15 @@
       "Detailed in this tome are their societies, rituals, and myths - and their physiology and psychology. Descriptions of every kind of elf abound. Rounding out this information are 11 new kits; new optional rules and suggestions for running elven campaigns; and special elven equipment, spells, and magical items.",
       "Forget what you thought you knew about elves - The Complete Book of Elves sheds new light on this mysterious race!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2134 - PHBR9 - The Complete Book of Gnomes & Halflings",
@@ -1399,13 +1477,15 @@
       "Now The Complete Book of Gnomes and Halflings reveals the secrets of these two popular races - their culture, beliefs, and subraces (including two new subraces), as well as 28 new character kits, from the gnome Goblinsticker to the halfling Forestwalker.",
       "If you enjoy playing gnome or halfling characters, or if you're a DM interested in creating an all-gnome or all-halfling campaign, this is the book for you!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2135 - PHBR10 - The Complete Book of Humanoids",
@@ -1434,13 +1514,15 @@
       "This handbook describes in detail over 20 humanoid races that can be run as player characters - from mischevious pixies to stubborn minotaurs, from the lizardlike saurial to the savage half-ogre - and many more in between. In addition to many new character types, this handbook contains new proficiencies, humanoid kits, unusual equipment, and a few new surprises that will open worlds of adventure within any ongoing campaign.",
       "Move over, common adventurers, The Complete Book of Humanoids is here!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2136 - PHBR11 - The Complete Ranger's Handbook",
@@ -1468,8 +1550,9 @@
       "Forest guardian, border runner, bounty hunter, and more - the full potential of the ranger class has never been plumbed. Until now.",
       "Come learn the inner most secrets of one of the most popular AD&D character classes. Details on every part of the ranger's life, from allied forest brethren to unusual outdoor equipment. With 15 new and exciting character kits, this book is an information-packed accessory for the AD&D Game. A special appendix give the rules for the original AD&D ranger class."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "PHBR11 - The Complete Ranger's Handbook",
       "chapters": [
         {"page": 4, "title": "Introduction"},
         {"page": 7, "title": "Chapter 1 - Character Creation"},
@@ -1487,6 +1570,7 @@
         {"page": 125, "title": "Ranger Character Record Sheets"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR2147 - PHBR12 - The Complete Paladin's Handbook",
@@ -1514,13 +1598,15 @@
       "In the fight against evil, the paladin stands as Good's supreme, undaunted champion. This 128-page accessory helps you play the noblest warriors of the AD&D game. Create or enhance your paladin with new proficiencies and equipment, new rules for bonded mounts, and paladin kits like the divinate, envoy, ghosthunter, skyrider, and the indomitable wyrmslayer.",
       "The Complete Paladin's Handbook attends the world's finest heroes as they achieve their lofty ideals."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2150 - PHBR13 - The Complete Druid's Handbook",
@@ -1548,13 +1634,15 @@
       "Druids love forests, true - but they love the arctic tundra, tropical rain forests, broad savannas, and fungi caverns of the Underdark, too. This 128-page accessory expands the living world of the druid in the AD&D 2nd Edition game, bringing new homes, character kits, personalities, spells, magical items, herbal lore, and a hundred details on druidic society, sacred groves, and high-level aspirations.",
       "This book has it all - don't leave the woods without it!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2148 - PHBR14 - The Complete Barbarian's Handbook",
@@ -1581,13 +1669,15 @@
     "BookDescription": [
       "In savage wastes that would kill a civilized adventurer, the barbarian thrives. Marvel at the barbarian's mystic talismans, rough equipment, and uncanny survival proficiencies. Choose from new character kits like the forest lord, mage killer, dreamwalker, ravager, and the ever-popular brute. Is barbarism the natural state of humankind? The Complete Barbarian's Handbook can help you find out."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2155 - PHBR15 - The Complete Ninja's Handbook",
@@ -1616,13 +1706,15 @@
       "This 128-page accessory gives you all the information you need to role-play exotic ninja, lone wolf operatives, and other character types - new character kits, special rules, and description of the ninja's unique weapons and equipment.",
       "The Complete Ninja's Handbook brings life to these shadowy figures of myth and legend."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2154 - Player's Option - Skills & Powers",
@@ -1651,13 +1743,15 @@
       "PLAYER'S OPTION Rulebooks present an alternative approach to AD&D characters. Custom-craft your next PC, selecting the profession, skills, and abilities you want! Characters can even have additional ability scores such as Stamina, Muscle, Balance, and others. New proficiencies, talents and updated psionics round out the PLAYER'S OPTION character.",
       "Be ready for anything with Skills & Powers!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2149 - Player's Option - Combat & Tactics",
@@ -1686,8 +1780,9 @@
       "This exciting expansion to the AD&D game contains rules and systems that will make your battles more vibrant and realistic. There are new rules covering critical hits, tactical options, and combat maneuvers such as shield walls, disarms, and more! Complete weapons tables for all eras of play include lots of new weapons and revised characteristics for old ones.",
       "The Combat & Tactics system has been carefully designed to present sets of rules in easy-to-use modules that you pick and choose from and incorporate into your campaign. Regardless of which ones you do use, you'll find everything works with everything else."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Player's Option - Combat & Tactics",
       "chapters": [
         {"page": 6, "title": "Chapter One - PLAYER'S OPTION™ Combat System"},
         {"page": 38, "title": "Chapter Two - Combat Options"},
@@ -1701,6 +1796,7 @@
         {"page": 189, "title": "Index"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR2156 - Dungeon Master Option - High-Level Campaigns",
@@ -1727,8 +1823,9 @@
     "BookDescription": [
       "What's a DM to do when the player characters in his campaign become so powerful that nothing in the 'world is a challenge for them anymore? Just what are the essential ingredients in an adventure geared toward high-level play? Here is a trove of advice and new rules for every AD&D game Dungeon Master who wishes to create adventures for truly legendary heroes. Find everything you need to create encounters that confound the craftiest wizard and chill the most valiant warrior's heart. Discover the power of True Dweomers, the mightiest spells ever. Build new realities for your heroes to explore. Learn how to conduct magical duels and oversee the creation of magical items. Expand the horizons of your Wing experience with High-Level Campaigns!"
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Dungeon Master Option - High-Level Campaigns",
       "chapters": [
         {"page": 6, "title": "Chapter 1 - The Seven Maxims"},
         {"page": 30, "title": "Chapter 2 - Adventures"},
@@ -1741,6 +1838,7 @@
         {"page": 189, "title": "Index"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR2163 - Player's Option - Spells & Magic",
@@ -1769,8 +1867,9 @@
       "Within these pages you will find new spells and proficiencies for wizards and priests, plus further rules on spell research and magical item creation, new options for designing spellcasters, an alternate system of gaining and using spells, and much more.",
       "Use this book to bring out the full power and potential of any spellcasting character."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Player's Option - Spells & Magic",
       "chapters": [
         {"page": 6, "title": "Introduction"},
         {"page": 12, "title": "Chapter 1 - Wizards"},
@@ -1788,6 +1887,7 @@
         {"page": 189, "title": "Index"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR11383 - Campaign Option - Council of Wyrms",
@@ -1816,13 +1916,15 @@
       "For the first time, everything a player needs to create dragon player characters for the AD&D game, and everything a Dungeon Master needs to set up a dragon-based campaign.",
       "Includes rules for creating and playing dragons, new character types like kindred, half-dragons, and dragon slayers, campaign background material, and a series of adventures designed to challenge even the greatest of dragons!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2022 - Manual of the Planes",
@@ -1850,8 +1952,9 @@
       "\"...from Arcadia to Pandemonium, from the plane of elemental Fire to the Astral plane, vast new worlds of adventure are now open to players.\"",
       "A vital source book for players and DMs of all levels of experience, the Manual of the Planes details the manifold worlds of the known planes of existence. This book describes the inhabitants, rulers, and environments of these worlds, as well as rules for movement, survival, combat, and spell use in these alien surroundings. A different style of AD&D adventures awaits!"
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Manual of the Planes",
       "chapters": [
         {"page": 5, "title": "An Introduction to the Planes"},
         {"page": 8, "title": "Spell Summary"},
@@ -1875,6 +1978,7 @@
         {"page": 127, "title": "Indices"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR2020 - Wilderness Survival Guide",
@@ -1901,13 +2005,15 @@
     "BookDescription": [
       "This book, for new players and Dungeon Masters as well as more experienced campaigners, presents rules for adventuring in the outdoors. Opportunities and challenges await characters brave enough and hardy enough to take on the biggest \"monster\" of all - the wilderness!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2019 - Dungeoneer's Survival Guide",
@@ -1934,8 +2040,9 @@
     "BookDescription": [
       "For beginners, advanced players, and DMs alike, this book opens up grand new vistas in the realms of the Underdark, that little-known region of dungeons and caverns far beneath the sunlit world of everyday existence. The worlds of subterranean adventure await!"
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Dungeoneer's Survival Guide",
       "chapters": [
         {"page": 6, "title": "Dungeoneer's Survival Guide: What is it"},
         {"page": 7, "title": "Overview of the Underdark"},
@@ -1949,6 +2056,7 @@
         {"page": 128, "title": "Index"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR2018 - Oriental Adventures",
@@ -1976,13 +2084,15 @@
       "Dungeon Masters and players: prepare yourselves to enter a whole new world-the world of Oriental Adventures!",
       "The material in this book will enable you to play the AD&D game as you've never played it before. In the lands of Oriental Adventures, characters are not judged solely on their prowess with sword and spell. Oriental characters' social skills and personal honour are just as important as their combat abilities. When was the last time politeness and proper manners really mattered in your campaign? How can characters associate with nobility if they know nothing of courts or court etiquette? How many AD&D characters worry about how their actions reflect upon their families and comrades? These and many other intricacies of social interactions and responsibilities are brought to light in this volume. Don't get the idea that Oriental Adventures characters don't fight. Pages and pages of Oriental weapons and armour are described and illustrated here. From the favoured weapons of the ninja to thin pieces of cloth that actually stop arrows, the arms and defenses of the Orient are yours in the lands of Kara-Tur. Have a favourite monster from Japanese films? Find it under Gargantua in the Monsters section! Want to learn a martial arts style or create a new style? You can do it in the new worlds opened up to you in Oriental Adventures!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2017 - Unearthed Arcana",
@@ -2010,13 +2120,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2016 - Monster Manual II",
@@ -2043,8 +2155,9 @@
     "BookDescription": [
       "An alphabetical listing of monsters found in ADVANCED DUNGEONS & DRAGONS adventures, including attacks, damage, special abilities, descriptions, and random encounter tables. A must for the serious AD&D game player. This manual contains all the new members, from Abishai to Zygom, including new creatures like the Deadly Pudding, Devas, and Valley Elves. And you'll also have the advantage of the expanded lists of lycanthropes, giants, and other beasts."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Monster Manual II",
       "chapters": [
         {"page": 4, "title": "Preface"},
         {"page": 4, "title": "Acknowledgements"},
@@ -2054,6 +2167,7 @@
         {"page": 156, "title": "Index"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR2013 - Legends & Lore",
@@ -2080,13 +2194,15 @@
     "BookDescription": [
       "\"Here are the legends and lore needed to recreate the heroic quests in the ADVANCED DUNGEONS & DRAGONS world of fantasy\" Now you can add the grandeur of epic quests to your game. This book provides the Dungeon Master with details of heroes, gods, and monsters from myth, fiction, and legend for use in creating an AD&D fantasy world."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2013 - Deities & Demigods",
@@ -2114,13 +2230,15 @@
     "BookDescription": [
       "Provides the Dungeon Master with Gods, Heroes and monsters from myth, fiction and legends for use in rounding out and Advanced D&D campaign. Within this book are seventeen pantheons of divinities, each profusely illustrated. Also included are new material on Clerics' conduct and their relationships with their deities, information on character mortality and immortality, and more!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2012 - Fiend Folio",
@@ -2148,13 +2266,15 @@
       "A Guidebook of Creatures Malevolent and Benign",
       "This tome contains alphabetical listings of monsters designed for use with the Advanced Dungeons & Dragons game system. Each creature is describes and most are illustrated for easy identification. Using the new encounter tables contained herein, this work is sure to add new excitement to any AD&D game."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2108 - Legends & Lore",
@@ -2183,13 +2303,15 @@
       "Legends & Lore has now been revised for use with the AD&D 2nd Edition rules and expanded to 192 pages. It describes dozens of deities, heroes, and monsters from 11 different cultures. Special attention has been paid to the priests who worship the deities represented in this book. Each entry outlines the spells and powers granted to followers of a specific faith. In addition, you'll learn about the cultures that worship the deities within and be provided with new spells, magic items, and character classes.",
       "The revised Legends & Lore is a vital reference work for every serious AD&D player!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2138 - Book of Artifacts",
@@ -2217,13 +2339,15 @@
       "Incredible magic for all campaigns! The Book of Artifacts will help every adventure reach new plateaus of mystery, danger, and epic excitement. Within these pages is the most complete collection of legendary and obscure artifacts ever assembled for the AD&D 2nd Edition game. Each enigmatic token or powerful relic has a detailed history, special powers that truly fit the theme of the item, and even tips on how to introduce - or remove - the artifact from a campaign.",
       "New and valuable information is also included for characters who want to create magical items or recharge existing ones. Making that special magical sword or finding ingredients for that powerful potion can be the basis for whole adventures! Whether the characters find the Machine of Lum the Mad or the Jacinth of Inestimable Beauty, the Book of Artifacts packs enough adventure between its covers to be an invaluable addition to every AD&D game!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2121 - Tome of Magic",
@@ -2252,13 +2376,15 @@
       "In these pages are new forms of wizard magic including elementalists, metamagic, and wild magic, plus expansions of existing schools. For priests, whole new spheres have been discovered - chaos, law, numbers, thought, time, war, and wards - and powerful new quest spells lie waiting to be tapped.",
       "All characters will experience the thrill of discovering new magical items such as the claw of magic stealing, dimensional mine, crystal parrot, ring of randomness, and staff of the elements. Tome of Magic is an invaluable expansion for all the spellcasting classes!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2140 - Monstrous Manual",
@@ -2287,13 +2413,15 @@
       "Need a monster? Look inside, where more than 300 new pieces of full colour art show what the monsters really look like!",
       "This book contains more than 600 monsters including all the creatures from the MONSTROUS COMPENDIUM Volumes 1 and 2! In addition, there are monsters from the other MONSTROUS COMPENDIUM Volumes, and some creatures never seen in the second edition AD&D Game before."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2160 - Dungeon Master Guide",
@@ -2321,13 +2449,15 @@
     "BookDescription": [
       "Here is the essential manual for the AD&D game Dungeon Master. All the information you need to create and run thrilling, swords-and-sorcery adventures is clearly laid out in the DUNGEON MASTER Guide. Learn all there is to know about magical spells, hundreds of magical devices and treasures, battles, travel, experience awards, and more. This fresh, new format is your guidebook to the challenging world of the AD&D Dungeon Master!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2159 - Player's Handbook",
@@ -2355,13 +2485,15 @@
     "BookDescription": [
       "Here is the indispensable encyclopaedia of fantasy role-playing. Everything the player needs is here: how to create a mighty hero or crafty wizard; unique aspects of the elves, dwarves, halflings, and other fantasy races; all the weapons, armour, magical spells, and rules for thrilling battles against supernatural monsters. This fresh, new format for the Player's Handbook is your complete and illustrated guide to the world of heroic adventure!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2101 - Player's Handbook",
@@ -2388,13 +2520,15 @@
     "BookDescription": [
       "Here is the indispensable encyclopaedia of fantasy role-playing. Everything the player needs is here: how to create a mighty hero or crafty wizard; unique aspects of the elves, dwarves, halflings, and other fantasy races; all the weapons, armour, magical spells, and rules for thrilling battles against supernatural monsters. This fresh, new format for the Player's Handbook is your complete and illustrated guide to the world of heroic adventure!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2100 - Dungeon Master Guide",
@@ -2421,13 +2555,15 @@
     "BookDescription": [
       "Here is the essential manual for the AD&D game Dungeon Master. All the information you need to create and run thrilling, swords-and-sorcery adventures is clearly laid out in the DUNGEON MASTER Guide. Learn all there is to know about magical spells, hundreds of magical devices and treasures, battles, travel, experience awards, and more. This fresh, new format is your guidebook to the challenging world of the AD&D Dungeon Master!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9322 - HR1 - Vikings Campaign Sourcebook",
@@ -2454,13 +2590,15 @@
     "BookDescription": [
       "Now you can take your campaign and player characters into the realms of the Northmen. This is no mere fantasy world - this sourcebook is set in the historical world of Viking legend. Included in this sourcebook are new character classes, new magic, new spells, new monsters, new treasures, and the necessary background information on the life and times of the Vikings. Numerous floorplans and full-colour map of the Viking world give you a complete roleplaying package."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9323 - HR2 - Charlemagne's Paladins Campaign Sourcebook",
@@ -2488,13 +2626,15 @@
       "Charlemagne. Conqueror, statesman, lawmaker, the greatest medieval king of Europe. His reign lasted forty-four years, but his influence was felt for a thousand. From the chaos of the dark ages, he forged a kingdom that rivaled Roman Byzantium in its power and prestige. Join the noblest heroes of the age - mighty Roland, Bradamant the warrior maiden, arch-bishop Turpin, and Malagigi the wizard - on royal quests and wars against the Lombards, Moors, Saxons, and Vikings.",
       "Find adventure at the dawn of chivalry."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9376 - HR3 - Celts Campaign Sourcebook",
@@ -2522,13 +2662,15 @@
       "Celts - from those powerful barbarians who ruled Europe for centuries and challenged the might of Rome came the Druids, bards, and even the original legend of King Arthur. They ranged from Scotland to Greece and from Spain to Asia Minor, trading, raiding, and establishing a culture that is still alive today. Join mighty heroes like the legendary Cu Chulainn or the woman-warrior Boudicca in wars against the Romans or the giant Fomorians, compete in feats of skill like chariot-jumping and spear-catching, or wander the half-world of the elflike sidhe.",
       "The battle frenzy is strong and the call to war rings clear!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9370 - HR4 - A Mighty Fortress Campaign Sourcebook",
@@ -2557,13 +2699,15 @@
       "From 1550 to 1650, Europe was torn apart by constant warfare. Social order collapsed under countless religious and civil wars. This was the age of Elizabeth, Francis Drake, Cromwell, Richelieu, D'artagnan, and Captain Blood. Bold mercenaries carved kingdoms out of the chaos; inquisitions and witch hunts raged; brazen pirates plundered the Spanish Main.",
       "A Mighty Fortress blends the AD&D game with this swashbuckling era. Flourish a rapier, shoulder a musket, and step into the golden age of adventure!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9425 - HR5 - The Glory of Rome Campaign Sourcebook",
@@ -2593,13 +2737,15 @@
       "The Glory of Rome describes Roman character kits, magic, equipment, culture, and settings for exciting roleplaying in Earth's past, or in a Roman-style realm in any gaming world.",
       "Experience the grandeur that was Rome!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9408 - HR6 - Age of Heroes Campaign Sourcebook",
@@ -2627,13 +2773,15 @@
       "Their names were Achilles, Odysseus, Jason, Heracles, and Alexander. Their deeds pitted them against monsters, men, and the known world. They were Greeks, and theirs was the age of heroes. This supplement, Age of Heroes, transforms this epic time of myth and history into an exciting AD&D setting, with details on spells, magical items, new character kits, maps, pictures of ancient Greek life, and a starting adventure.",
       "The challenge has gone out - let only the heroes heed the call."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9469 - HR7 - The Crusades Campaign Sourcebook",
@@ -2662,13 +2810,15 @@
       "The Crusades supplement presents the land of Outremer as a powerful AD&D setting, with historical background and maps; new character kits; details on strange magic and fantastic beasts; and adventures. It is a violent and dangerous world, but one of promise and hope as well.",
       "Only the brave need come."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9024 - REF1 - Dungeon Master Screen",
@@ -2695,13 +2845,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9031 - The Rogues Gallery",
@@ -2730,13 +2882,15 @@
       "This valuable booklet contains hundreds of pre-rolled non-player characters of all classes and types, complete with alignments, sex, personalities and much more.",
       "The Rogues Gallery is specially designed to be compatible with Advanced Dungeons & Dragons. It will save you time in creating your non-player characters, thus allowing you to pursue the other interesting aspects of your campaign."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9036 - Dungeon Master's Adventure Log",
@@ -2763,13 +2917,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9234 - Dungeon Master's Design Kit",
@@ -2799,13 +2955,15 @@
       "The Dungeon Master's Design Kit includes a 32-page book of forms, designed to keep important information together and at your fingertips. A number of difficult refereeing situations are covered, including the chase scene, one of the toughest AD&D game situations to judge. Another 32-page book contains the \"DM's Cookbook,\" full of ready-to-go ingredients that you can combine in a flash to spice up your campaign. The last book puts the package all together, including loads of practical advice on becoming a better DM.",
       "So pick up the Dungeon Master's Design Kit, harried DM - and watch your AD&D campaign take off!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2102 - MC1 - Monstrous Compendium - Volume One",
@@ -2835,13 +2993,15 @@
       "At the heart of any good AD&D adventure, you'll find great monsters -- dragons, giants, trolls, killer oozes, shadows, and who knows what else!",
       "This first Monstrous Compendium gives DMs and players 144 pages of new and improved monsters, with all-new illustrations, expanded descriptions, and complete statistical data, all in an easy-to-read, easy to reference format. Players can organize the monsters in this pack, alphabetically, according to when they show up in an adventure, according to monster type, or any other way they see fit."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2103 - MC2 - Monstrous Compendium - Volume Two",
@@ -2869,13 +3029,15 @@
     "BookDescription": [
       "Monstrous Compendium - Volume Two"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2118 - MC8 - Monstrous Compendium - Outer Planes Appendix",
@@ -2904,13 +3066,15 @@
       "These denizens of the planes can be powerful allies or terrible enemies.",
       "From aasimon to zoveri, and everything between, this supplement is a must have for any DM planning to run an adventure in the outer planes.a"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2132 - MC14 - Monstrous Compendium - Fiend Folio Appendix",
@@ -2937,13 +3101,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9122 - H1 - Bloodstone Pass",
@@ -2970,13 +3136,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9168 - H2 - The Mines of Bloodstone",
@@ -3003,13 +3171,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9200 - H3 - The Bloodstone Wars",
@@ -3039,8 +3209,9 @@
       "Now, your tiny barony ias the pivotal point in a war that threatens to engulf the entire Forgotten Realms. Take command, and defend yourself against the encroachment of the evil, demonic forces of the nightmare realm of Vaasa.",
       "Come learn why high-level AD&D game play can be much more than just monster bashing. The army of Bloodstone Pass wants you!"
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "H3 - The Bloodstone Wars",
       "chapters": [
         {"page": 2, "title": "Introduction"},
         {"page": 5, "title": "Prologue"},
@@ -3053,6 +3224,7 @@
         {"page": 30, "title": "Appendix - Pregenerated Player Characters"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR9228 - H4 - The Throne of Bloodstone",
@@ -3083,13 +3255,15 @@
       "As the rulers of Bloodstone Pass, it is up to you to find and destroy the source of Vaasa's power. All you have to do is journey to the Abyss, confront the mightiest demon of all, steal the Wand of Orcus, and take it to the Seven Heavens to be destroyed.",
       "The Throne of Bloodstone is the fourth and final instalment in a series of modules specially designed for high-level characters. While it is not necessary to have played any of the three previous modules, The Throne of Bloodstone is the climax of an epic struggle for a kingdom against the forces of darkest evil. Recommended for characters of levels 18-100, The Throne of Bloodstone is the highest-level adventure ever published by TSR!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9504 - Dungeon Master Screen & Master Index",
@@ -3116,13 +3290,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9549 - College of Wizardry",
@@ -3159,13 +3335,15 @@
       "Four mini-adventures for characters who range from apprentice to 11th level.",
       "Companion accessory to Den of Thieves."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11326 - The Vortex of Madness and other Planer Perils",
@@ -3200,13 +3378,15 @@
       "The Vortex of Madness presents five intriguing places on the Inner and Outer Planes. Designed for high-level campaigns, each site is a gateway to adventure. Whether for a single visit or a continuing tour, The vortex of Madness has all you need to take your game beyond the Prime. The book also includes an optional storyline linking all five planar locales.",
       "These adventure sites can be used with the PLANESCAPE setting or any other ADVANCED D&D Game"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11361 - Warriors of Heaven",
@@ -3238,13 +3418,15 @@
       "Celestial Magic. New spells and magical items for celestial characters.",
       "Celestial Campaign Tips. Techniques for running campaigns with celestial characters on the Upper Planes and the Prime Material Plane."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11431 - Guide to Hell",
@@ -3279,13 +3461,15 @@
       "The secret history of Hell and the Dark Lord of Nessus, Asmodeus",
       "Statistics for all major devil types, plus a new devil created especially for this book"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9293 - The Magic Encyclopedia Volume One",
@@ -3313,15 +3497,15 @@
       "To an adventurer, the most prized treasure of all is magic. Open this book and you will find a concise listing of every enchanted item ever invented for the D&D fantasy role playing game. Volume One runs from Abacus to Goblet. The listing includes an experience point value and a gold piece sale value for each item. At last, you'll know exactly what every bauble in any hoard is really worth. No need to keep guessing. The listing also identifies the product where the item is described and the page number where you can find it. A complete list of those products (current through December, 1992) is also provided.",
       "Ever wonder what a phylactery is? Do you know what a diadem looks like or how a chaplet is worn? Don't wonder anymore! This book also contains an illustrated description of each kind of item."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 6, "title": "Introduction"},
-        {"page": 8, "title": "Chemcheaux"},
-        {"page": 14, "title": "Product List"},
-        {"page": 19, "title": "Magical Items"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9421 - The Magic Encyclopedia Volume Two",
@@ -3349,8 +3533,9 @@
       "Did you ever wonder what a phylactery is? Do you know what the difference between a cloak and a robe is? The Magic Encyclopedia answers these questions with succinct definitions of every type of item found in a magical treasure hoard, and every definition has an illustration.",
       "The list of definitions in Volume Two runs from Goggle to Zwieback, and completes the list begun in Volume One. The listing includes an experience point value and a gold piece sale value for each item. At last, you'll know exactly what every bauble in any hoard is really worth. The listing also identifies the product where the item is described and the page number where you can find it. A complete list of those products (current through December, 1991) is also provided."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "The Magic Encyclopedia Volume Two",
       "chapters": [
         {"page": 6, "title": "Introduction"},
         {"page": 8, "title": "Chemcheaux"},
@@ -3358,6 +3543,7 @@
         {"page": 19, "title": "Magical Items"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR9039 - A1 - Slave Pits of the Undercity",
@@ -3384,13 +3570,15 @@
     "BookDescription": [
       "A1: Slave Pits of the Undercity: It is time to put a stop to the marauders! For years the coastal towns have been burned and looted by the forces of evil. You and your fellow adventurers have been recruited to root out and destroy the source of these raids—as hundreds of good men and women have been taken by the slavers and have never been seen or heard from again!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9040 - A2 - Secret of the Slaver Stockade",
@@ -3417,13 +3605,15 @@
     "BookDescription": [
       "A2: Secret of the Slavers Stockade: The battle against the slavers continues! You and your fellow adventurers have defeated the slavers of Highport, but you have learned of the existence of another slaver stronghold, and you have decided to continue the attack. But beware! Only the most fearless of adventurers could challenge the slavers on their own ground, and live to tell of it!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9042 - A3 - Assault on the Aerie of the Slave Lords",
@@ -3452,13 +3642,15 @@
       "This module was originally used for the official Advanced Dungeons & Dragons Tournament at Gen Con XIII and is the third of four in a series of related tournament modules.",
       "This module contains a challenging scenario, the tournament scoring system, plus nine pre-rolled, playtested tournament characters. Also included are large scale referee's maps, notes, and background information. A3 is a complete adventure in itself, but it is also a companion to A1 (Slave Pits of the Undercity), A2 (Secret of the Slavers' Stockade), and A4 (In the Dungeons of the Slave Lords)."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9041 - A4 - In the Dungeon of the Slave Lords",
@@ -3489,13 +3681,15 @@
       "This module contains a challenging scenario, the tournament scoring system, plus nine pre-rolled, play tested tournament characters. Also included are large scale referee's maps, notes, and background information.",
       "A4 is a complete adventure in itself, but it is also a companion to A1 (Slave Pits of the Undercity), A2 (Secret of the Slavers' Stockade), and A3 (Assault on the Aerie of the Slave Lords). An adventure for character levels 4-7."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9167 - A1-4 - Scourge of the Slave Lords",
@@ -3525,13 +3719,15 @@
       "This product contains the completely revised Aerie of the Slavelords series of adventures. Also included are new challenges and new scenarios detailing the Wild Coast, the city of Highport, the blasted lands of the Pomarj and the Drachensgrab Mountain.",
       "With the beginning found in the Temple of Elemental Evil, your campaign adventure can lead characters from 7th level all the way to 11th and beyond! Hours of adventure and excitement lie between these covers!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTCA4536 - A0-A4 - Against the Slave Lords",
@@ -3564,13 +3760,15 @@
       "A4: In the Dungeons of the Slave Lords: Trapped in the dungeons of the Slave Lords! The hardy adventurers must find a way out, with only their wits and courage to help them. But can they do it before everything is destroyed by the dreaded Earth Dragon?",
       "The book can also be run using the new D&D Next (or fifth edition) play-test rules, by encorporating the bestiary pdf in the June 7th, 2013 D&D Next Play-test document available from the Wizards of the Coast Website."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9521 - Monstrous Arcana - I, Tyrant",
@@ -3599,13 +3797,15 @@
       "Many are the stories of this creature's ferocity and unbridled power. Now, take a look inside the alien world of one of the most feared monsters in the AD&D game in this visually stunning 96-page accessory. I, Tyrant contains information on all beholders and beholder-kin including: detailed explanations of their deadly eye powers; insight into beholder psychology; an explanation of the creatures' social organizations; new magical items created specifically for beholders; and other useful game information on these deadly denizens of the planes. I, Tyrant also comes with a poster that details in full color many known beholder types.",
       "This lavishly illustrated book is the first in a new series of accessories that focuses on some of the most popular monsters in the game. DMs and players alike will find this Monstrous Arcana accessory highly useful when playing Eye of Pain, Eye of Doom, and Eye to Eye a trilogy of adventures centered around beholders."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9522 - Monstrous Arcana - Eye of Pain",
@@ -3634,13 +3834,15 @@
       "As if matters weren't strange enough, two mages have arrived and begun hiring armed guards to escort them into these very same woods. Is there a connection, or is it just coincidence? Either way, be prepared! You never know what's out there waiting... and watching.",
       "\"Eye of Pain\" is the first of three Monstrous Arcana adventures featuring the cunning and deadly beholder. If can be played as an individual adventure or as part of the series which continue in \"Eye of Doom\" and concludes in \"Eye to Eye.\""
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9530 - Monstrous Arcana - Eye of Doom",
@@ -3669,13 +3871,15 @@
       "Why would the Unblinking Eye wish to \"take care\" of the mage? Why does the guild want to speak to anyone involved with Velinax? Finally, what dark goal does the guild truly intend to accomplish? Finding out the answers to these questions will lead doughty adventurers straight through the shadows of a crafty thieves' guild and onto the threshold of an even deeper and more dangerous darkness.",
       "\"Eye of Doom\" is the second of three adventures featuring the nightmarish beholder. It can be played as an individual mission or as part of the series that began with \"Eye of Pain\" and concludes in \"Eye to Eye.\""
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9536 - Monstrous Arcana - Eye to Eye",
@@ -3702,13 +3906,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9539 - Monstrous Arcana - The Sea Devils",
@@ -3737,13 +3943,15 @@
       "The sahuagin are known by many names. Some call them the Devil Men of the Deep; to others, they are simply the Sea Devils. This deadly race of aquatic beings has remained a mystery to surfacedwellers - until now. This fully illustrated 96-page accessory details the highly organized structure of sahuagin society, offers insight into the workings of the predatory sahuagin mind, and examines the worship of Sekolah, the dark sahuagin deity. The Sea Devils also includes a full description of a typical sahuagin village easily usable in any campaign setting, new spells that are granted to sahuagin priestesses, and a color poster detailing the sahuagin in all their variety.",
       "This book is the second in a series of accessories that focuses on some of the most popular monsters in the AD&D game. DMs and players alike should also look for Evil Tide, Night of the Shark, and Sea of Blood, a trilogy of MONSTROUS ARCANA adventures centered around sahuagin."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9542 - Monstrous Arcana - Evil Tide",
@@ -3772,13 +3980,15 @@
       "When the sun sinks low, the sea devils rise dripping from the dark waves. They swarm like sharks, lethal and unstoppable. Death glints like a promise in their rabid eyes, and the blood of their prey paints their claws and teeth scarlet. Night after night they come, slaying all who stand in their way. Their sudden raids have devastated the island, bringing fishing and commerce to a halt as the people cower in their homes, dreading the next sunset. Desperate, the Potentate of Angleburg has sent for help from daring adventurers willing to face the devil men of the deep. But more secrets lurk beneath the waves: this is no passing attack but part of a more sinister, secret design by the most dangerous and capable race to inhabit the dark seas.",
       "Evil Tide is the first of an adventure trilogy (continuing with Night of the Shark and concluding in Sea of Blood) that pits brave adventurers against the evil race called Sahuagin by the air-breathing races. The sahuagin adventure trilogy can be played seperately or linked together to form a seamless epic-length adventure. The sahuagin trilogy supports Monstrous Arcana: Sea Devils, a source book providing invaluable, fascinating, and immediately applicable supplementary information."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9550 - Monstrous Arcana - Night of the Shark",
@@ -3807,13 +4017,15 @@
       "Black clouds build on the horizon with supernatural swiftness as the light of day drains away like a guttering candle. As the wind screams and sea spray blinds the eyes, the masts splinter and the deck heels over, a plaything of the storm. A nightmare shark hunts the murky ocean for all that succumb to the hammer of the winds. Can anyone survive the Tempest of the Deep Mother?",
       "Night of the Shark is the second part of an adventure trilogy featuring the evil sahuagin, deadly sea devils in pursuit of an ancient relic known only as The Stone Which Abides. This adventure can be played independently, or it can be linked together as part of the adventure series that began with Evil Tide and concludes with Sea of Blood."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9560 - Monstrous Arcana - Sea of Blood",
@@ -3842,13 +4054,15 @@
       "The deep sea holds many perils, some known, some secret, some merely hungry — and some outright evil. Those who live on dry land speak in whispers of the dreadful City of Abiding Hunger, where sea devils cavort in the court of their king, awful rites pay homage to a brutal shark god, and desperate refugees from above the waves dream of the sun they will never see again.",
       "In Sea of Blood, adventurers attempt to overcome the mortal threats contained in the City of Abiding Hunger and the Throne of Teeth before finally coming face to face with their true enemy, the Deep Mother. It can be played as a stand-alone adventure, or it can serve as the finale of the sahuagin adventure trilogy that started with Evil Tide and continued in Night of the Shark."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9569 - Monstrous Arcana - The Illithiad",
@@ -3883,13 +4097,15 @@
       "Unique mind flayer psionic abilities and items.",
       "The Illitiad is the third volume in the popular Monstrous Arcana game accessory series and is indispensable to DMs who want to add these terrifying creatures to their campaigns. The Illithiad supports the mind flayer adventure trilogy: A Darkness Gathering, Masters of Eternal Night, and Dawn of the Overmind"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9570 - Monstrous Arcana - A Darkness Gathering",
@@ -3921,13 +4137,15 @@
       "A Darkness Gathering is the first of an adventure trilogy (continuing with Masters of Eternal Night and concluding in Dawn of the Overmind) that pits brave adventurers against the brain eating mind flayers. Dungeon Masters can run each individual adventure of the trilogy separately, or they can be linked together to form a seamless, epic-length adventure.",
       "The illithid trilogy supports The Illithiad, a MONSTROUS ARCANA supplement that provides invaluable supplementary information on mind flayers and their evil plans."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9571 - Monstrous Arcana - Masters of Eternal Night",
@@ -3957,13 +4175,15 @@
       "In Masters of Eternal Night, adventurers travel across a frozen landscape to stop the deadly mind flayers in their quest to extinguish the sun. Deep in the secret heart of a snow-covered crater, the player characters must unearth an ancient alien object. Only with its powers can the PCs hope to end the illithids' bid for ultimate domination.",
       "This module is the second in a trilogy (origination with A Darkness Gathering and concluding with Dawn of the Overmind). DMs can run this adventure by itself or link it with A Darkness Gathering and Dawn of the Overmind to form a seamless epic-length adventure spanning all three modules. The illithid trilogy supports The Illithiad, a MONSTROUS ARCANA supplement that provides invaluable information on illithids and their vile purposes."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9572 - Monstrous Arcana - Dawn of the Overmind",
@@ -3994,13 +4214,15 @@
       "Now, a hundred suns burn toward extinction, their light stolen by the flayers to reinvent their past. If the PCs do not stop the new dawn, the Dawn of the Overmind, the illithids will rule once again! Following the clues left by their benefactor, the adventurers journey over a vast world of ancient ruins. Buried deeply within these ruins lies an artifact of ancient illithid manufacture. This item is all that stands between the illithids and their nefarious goal: complete and utter domination.",
       "Dawn of the Overmind is the third adventure in a trilogy (originating with A Darkness Gathering and continuing in Masters of Eternal Night ). It can be played alone or linked with the other two parts of the trilogy to form an epic-length adventure. The illithid trilogy supports The Illithiad, a MONSTROUS ARCANA supplement that contains invaluable information on every facet of illithid life, psychology, technology, and ability."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1112 - Fighter's Player Pack",
@@ -4027,13 +4249,15 @@
     "BookDescription": [
       "You've found the ideal all-in-one playing aid for your favorite game with the AD&D Game Fighter's Player Pack. Inside your Player Pack is the information you need to play your chosen class of character-the fighter-with skill and finesse, and a gathering of playing aids selected by TSR game designers as the items both experienced and beginning gamers find most useful. With this product you get: Fighter Character Record Sheets, an eight page booklet of valuable information about role-playing fighter characters, and a fighter's screen."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1113 - Wizard's Player Pack",
@@ -4060,13 +4284,15 @@
     "BookDescription": [
       "You've found the ideal all-in-one playing aid for your favourite game with the AD&D Game Wizard's Player Pack. Inside your Player Pack is the information you need to play your chosen class of characters ? the wizard ? with skill and finesse, and a gathering of playing aids selected by TSR game designers as the items both experienced and beginning gamers find most useful."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1114 - Priests Player Pack",
@@ -4093,13 +4319,15 @@
     "BookDescription": [
       "You have found the ideal all-in-one playing aid for your favourite game with the AD&D Game Priest's Player Pack. Inside your Player Pack is the information you need to play your chosen class of character - the priest - will skill and finesse, and a gathering of playing aids selected by TSR game designers as the items both experienced and beginning gamers find most useful."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1115 - Thief's Player Pack",
@@ -4126,13 +4354,15 @@
     "BookDescription": [
       "You have found the all-in-one playing aid for your favorite game with the AD&D Game Thief's Player Pack. Inside your Player Pack is the information you need to play your chosed class of character--the thief--with skill and finesse, and a gathering of playing aids selected by TSR game designers as the items both experienced and beginning gamers find most useful."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9457 - Fighter's Screen",
@@ -4161,13 +4391,15 @@
       "The Fighter's Screen speeds up game play by taking the most frequently used character-specific information from the AD&D game Player's Handbook and Complete Fighter's Handbook and making it instantly accessible. Now the details players need on the spot to play any warrior class - including fighters, rangers, and paladins - can be right at their fingertips. The screen folds in a neat triangle that sits on the table top in front of players for at-a-glance reference.",
       "Also enclosed are eight additional pages of valuable reference material that can be slipped into character folders. These pages feature an extensive Player's Handbook and Tome of Magic spell and spell-statistics list for rangers and paladins, a complete Master Weapons Chart, and other handy tables and charts."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9462 - Priest's Screen",
@@ -4195,13 +4427,15 @@
       "The Priest's Screen speeds up game play by taking the most frequently used character specific information form the AD&D game Player's Handbook and Complete Priest's Handbook and making it instantly accessible. Now the information players need on the spot to play any kind of priest? including clerics and druids?:can be right at their fingertips. The screen folds in a neat triangle that sits on the table top in front of players for at-a-glance reference.",
       "Also enclosed are eight additional pages of valuable reference material that can be slipped into character folders. These pages feature an extensive Player's Handbook and Tome of Magic spell and spell-statistics list for clerics, a complete Turning Undead Table, and other handy tables and charts."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9463 - Thief's Screen",
@@ -4230,13 +4464,15 @@
       "The Thief's Screen speeds up game play by taking the most frequently used character-specific information from the AD&D game Player's Handbook, Complete Thief's Handbook, and Complete Bard's Handbook and making it instantly accessible. Now the details players need on the spot to play any rogue classes?including thieves and bards?can be right at their fingertips. The screen folds in a neat triangle that sits on the table top in front of players for at-a-glance reference.",
       "Also enclosed are four additional pages of valuable reference material that can be slipped into character folders. These pages feature an extensivePlayer's Handbook and Tome of Magic spell and spell-statistics list for bard characters, and other handy tables and charts."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9468 - Wizard's Screen",
@@ -4264,13 +4500,15 @@
       "The Wizard's Screen speeds up game play by taking the most frequently used character specific information form the AD&D game Player's Handbook and Complete Wizard's Handbook and making it instantly accessible. Now the details players need on the spot to play any of the wizard classes? including mages, specialist wizards, wild mages, or elementalists can be right at their fingertips. The screen folds in a neat triangle that sits on the table top in front of players for at-a-glance reference.",
       "Also enclosed are four additional pages of valuable reference material that can be slipped into character folders. These pages feature an extensive Player's Handbook and Tome of Magic spell and spell-statistics list, and other handy tables and charts."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9221 - DQ1 - The Shattered Statue",
@@ -4299,13 +4537,15 @@
       "A mysterious note, a disappearing 5-foot-long religious artifact, and the ruins of two magical schools. What do these things have in common? How deeply are your party members involved in all of this?",
       "\"The Shattered Statue\" is the first dual-game-system module of its kind. Players of both the AD&D game system and DRAGONQUEST game system can use this adventure. It is suitable for use with the FORGOTTEN REALMS campaign setting."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1145 - Tomes - The Rod of Seven Parts",
@@ -4333,13 +4573,15 @@
       "Stirrings of an ageless war between Law and Chaos are drawing you into an epic adventure! A Struggle More Savage than Good vs. Evil Imagine a time before the words Good and Evil had meaning, a day when the world was young. Discover an ancient conflict that predates the stars. It was in these days that Law and Chaos forged worlds out of nothingness; their war began while the cosmos was yet unfinished. The Rod of Seven Parts defines epic role-playing.",
       "The reappearance of the Rod has awakened the powers of Chaos, and their queen seeks to turn the whole world into a battleground. Bold heroes must undertake the enormous task of seeking out and assembling the pieces of the Rod, but even its power cannot stand alone. Ages ago, primal forces of Law stood fast against Chaos; now their champions must once more confront the Queen of Chaos and her foul spyder-fiends, lest the flame of civilization be extinguished."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1162 - Tomes - Return to the Tomb of Horrors",
@@ -4376,13 +4618,15 @@
       "A 16-page book of maps and monsters;",
       "And a reprinted facsimile of the original Tomb of Horrors adventure module as first published in 1978."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11347 - Tomes - Axe of the Dwarvish Lords",
@@ -4413,8 +4657,9 @@
       "This book contains the full story of the Axe's creation, loss, and reappearance.",
       "For five to seven characters of levels 13-15."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Tomes - Axe of the Dwarvish Lords",
       "chapters": [
         {"page": 3, "title": "Introduction"},
         {"page": 8, "title": "Chapter 1 - About the Axe"},
@@ -4427,6 +4672,7 @@
         {"page": 189, "title": "Appendix 3 - New Monsters"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR9464 - City Sites",
@@ -4459,14 +4705,16 @@
       "This book also describes two inns, a singing fountain, a jail, and much more! Each site's entry tells the Dungeon Master what the place looks like at first glance and offers a detailed floor plan of the interior, as well as a picture of the exterior. Readers will also find fascinating notes about the characters who live and work in each site, along with one or two ideas for personalizing the spot to suit any adventure.",
       "From now on, make a trip to the city easy - and exciting!"
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "City Sites",
       "chapters": [
         {"page": 2, "title": "Introduction"},
         {"page": 4, "title": "Part 1 - Public Locations"},
         {"page": 50, "title": "Part 2 - Businesses"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR947 - Castle Sites",
@@ -4499,8 +4747,9 @@
       "Each entry includes a description of the site's appearance, history, and layout, a detailed floorplan, complete data on the NPCs who live (or died) there, and adventure hooks to draw player characters into the setting.",
       "Castle Sites is easily adaptable to any AD&D campaign and is suitable for all levels of play. Also in this series of accessories are City Sites and Country Sites."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Castle Sites",
       "chapters": [
         {"page": 2, "title": "Introduction"},
         {"page": 4, "title": "Kaurak Kholzil"},
@@ -4512,6 +4761,7 @@
         {"page": 90, "title": "Watch Tower"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR9482 - Country Sites",
@@ -4541,14 +4791,16 @@
       "Take your characters into the City of the Dead. See if they can overcome the obstacles of \"Darian's Wall,\" or arrange for them to pay a visit to The Place of Broken Dreams. Every one of the 11 sites in this 96-page book will open new vistas for adventuring in (and sometimes under) the great outdoors.",
       "Previous books in this series include City Sites and Castle Sites. Suitable for all levels of play."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Country Sites",
       "chapters": [
         {"page": 2, "title": "Introduction"},
         {"page": 4, "title": "Larger Sites"},
         {"page": 84, "title": "Smaller Sites"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR1125 - Night Below - An Underdark Campaign",
@@ -4585,13 +4837,15 @@
       "An eight-page booklet of new MONSTROUS COMPENDIUM entries, detailing three new races and two new monsters.",
       "6 full-color poster maps detailing all the important locations in the entire campaign setting."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1056 - Castles - A 3-Dimensional Game Accessory",
@@ -4624,12 +4878,14 @@
       "See each castle brought to life in its own dramatic full-color poster, a full-color map, plus a 48 page book describing the fortress and all the scheming characters who live there.",
       "<b>FIGHT BATTLES AT THE CASTLE WALLS</b>"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }
 ]

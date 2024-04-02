@@ -25,13 +25,15 @@
       "Enter this world and discover excitement far beyond your wildest dreams. Greyhawk is the place where adventure begins and ends?.",
       "This book is for experienced roleplayers looking from something exciting and original to use in their fantasy gaming. Its pages are filled with bold new gaming experiences. With this book, you join the ranks of the best role players in the world. Your search for glory and fame awaits the turning of a single page!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9065 - WG4 - Forgotten Temple of Tharizdun",
@@ -60,13 +62,15 @@
       "While it is designed to interface with \"The Lost Caverns of Tsojcanth,\" this adventure is capable of standing alone. Likewise, while it is placed within the Greyhawk Campaign, it can easily be adapted for play in any individual campaign that employs the Advanced Dungeons & Dragons game system."
 
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9222 - WG7 - Castle Greyhawk",
@@ -94,13 +98,15 @@
       "Deep beneath the keep of Castle Greyhawk, a really nasty device is creating mutated, unpleasant monsters that are running wild throughout the castle and the twelve-level dungeon beneath. The call has gone out for heroic, fearless, and perhaps foolish adventures to out-hack, out-slash, and sometimes even out-think hordes of doughmen, headless mice, manic bee queens, really bad dead things, burgermen, crazed chefs, and movie moguls. If they survive these and much odder obstacles, the characters still have to find the nasty monster creator and put it out of business.",
       "Castle Greyhawk contains 13 detailed levels for adventuring and exploration. Each is a separate adventure written by different author and each has its own unique brand of baffling weirdness. Some levels involve solving puzzles and some require good old hacking and slashing. The adventure can be played separately or all together as a grand quest to free Castle Greyhawk from the evil, rotten hordes that are plaguing it. The common theme of this dungeon is that no joke is so old, no pun so bad, and no schtick so obvious that it can't be used to confuse and trip up PCs!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1015 - World of Greyhawk",
@@ -136,13 +142,15 @@
       "Fantasy Game Setting for a panoramic view of this fantastic place.",
       "More than a collection of maps and names, it is an active world filled with decaying empires and dark forests. Game elements include the gods of Greyhawk, the clash of political factions, and encounters in this wild land."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1043 - The City of Greyhawk",
@@ -173,13 +181,15 @@
       "You get four full-size, full-color maps, each depicting a different aspect of the Greyhawk campaign. Two 96-page books give you a detailed overview of the city and a closer look at its more influential citizens - and its more notoriouus criminals.",
       "Many detailed, colorful adventure cards provide players with short adventures in the city and throughout the surrounding realms of Greyhawk."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9578 - Greyhawk Player's Guide",
@@ -207,13 +217,15 @@
       "Return to the roots of fantasy roleplaying with the Player's Guide for the Greyhawk campaign setting - the original AD&D game world! For newcomers as well as old-time fans, this book is the doorway to high adventure.",
       "Enter the Flanaess, a crowded cluster of kingdoms and states, great and petty, struggling for survival and supremacy against one another and countless foes both internal and external. Learn about the nations and cities of the world Greyhawk; the leaders and rebels that affect this war-torn land; that races that inhabit it and the creatures that threaten it. Use this book in conjunction with other Greyhawk game accessories, or to begin your own campaign in the land that helped shape the AD&D game, the world that even now defines excitement and intrigue."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2107 - MC5 - Monstrous Compendium Greyhawk Adventures Appendix",
@@ -240,13 +252,15 @@
     "BookDescription": [
       "Prepare yourselves and your characters?. Here come more monsters, this time from the Greyhawk Campaign Setting! These 64 pages are filled with beasties and creatures, from aspis to zygon-and everything in-between! Crystalmist dragons (yes, there are more-four more, to be precise), and plenty of deadly plants await entry into your campaign. As always, these monster descriptions are organized on separate pages, ready to be incorporated into your Monstrous Compendium binder. And, you get four full-colour dividers with identification tabs! Snap them in, and set them free!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1064 - From the Ashes",
@@ -273,13 +287,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1068 - Greyhawk Wars",
@@ -306,13 +322,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9025 - World of Greyhawk Folio",
@@ -339,13 +357,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9577 - The Adventure Begins",
@@ -380,8 +400,9 @@
       "This book will give your adventuring parties experiences they'll never forget. The World of Greyhawk is back - and it's better than ever!",
       "For players of all levels."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "The Adventure Begins",
       "chapters": [
         {"page": 2, "title": "The Greyhawk Campaign"},
         {"page": 5, "title": "The Gem of the Flanaess"},
@@ -392,6 +413,7 @@
         {"page": 54, "title": "The Domain and City of Greyhawk"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR11374 - The Scarlet Brotherhood",
@@ -418,13 +440,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9576 - Return of the Eight",
@@ -453,13 +477,15 @@
       "The bad news? Some old enemies of civilization in the Flanaess have returned, and they've discovered a mutual interest in world domination. They have a plan to bring it about. And their plan is already underway when the little dragon appears. Worse, on this particular night, there's no one who can stop them - no one but any heroes who start this adventure and survive through its out-of-this-world climax. And they have no choice. If they fail, the City of Greyhawk and all the civilized lands of the Flanaess will get to meet some remarkable legendary figures.",
       "Then Civilization will die. Screaming."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9579 - The Star Cairns",
@@ -488,13 +514,15 @@
       "Five separate adventure sites playable individually or linked together, The Star Cairnscan provide a diversion for treasure-hungry adventurers—or can be used as the seeds for an extensive campaign. Although the adventures are designed for four to eight characters of levels 5-8, each section can be adjusted for weaker or stronger groups.",
       "The Lost Tombs series continues with The Crypt of Lyzandred the Mad (Volume 2) and The Doomgrinder (Volume 3)."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9580 - Crypt of Lyzandred the Mad",
@@ -523,13 +551,15 @@
       "But there is a method to the madness of Lyzandred, a purpose to his twisted games. If you're lucky, you might even live to learn about it.",
       "The Lost Tombs series begins with Star Cairns and concludes with The Doomgrinder. Each adventure is playable separately, or they can be linked to form an epic-length story."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9581 - The Doomgrinder",
@@ -558,13 +588,15 @@
       "In this Greyhawk adventure, a group of brave heroes may finally learn the truth about the Doomgrinder.",
       "Designed for characters of level 4 through 8 but adaptable to any level, the adventure can be played on its own or as the climax of the Lost Tombs adventure series. It also offers countless opportunities for spin-off adventures, potentially providing the foundation for entirely new campaign directions, and months of exciting game sessions."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11621 - Slavers",
@@ -595,12 +627,14 @@
       "This book features a new chapter in the Slavelords saga, and includes detailed descriptions of the cities and lands of the Flanaess, from the City of Dyvers to the dark peaks of the Drachensgrab Mountains deep in the Pomarj.",
       "For five to eight heroes of levels 4 to 5."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }
 ]

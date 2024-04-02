@@ -24,13 +24,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
+    "TableOfContents": [
+      {
     "title": "Book",
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
       ]    
   }
+]
 },
 {
   "BookName": "WTC253880000 - Dark Sun Creature Catalog",
@@ -57,13 +59,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "WTC253890000 - Marauders of the Dune Sea",
@@ -90,13 +94,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "TSR2400 - Dark Sun Campaign Setting",
@@ -139,13 +145,15 @@
     "All PC's have one or more psionic powers!",
     "The new character tree allows players to advance many characters at once!"
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "TSR2401 - DS1 - Freedom",
@@ -172,13 +180,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "TSR2406 - DSQ1 - Road to Urik",
@@ -208,12 +218,14 @@
     "New forces threaten the newly-born independence of Tyr, as outside forces march upon the city. King Tithian is determined to resist, but there are others on the Council of Advisors less eager to risk their wealth and lives for the cause of independence. It falls upon you to help mobilize and lead the citizen-army of Tyr on the road to Urik.",
     "Designed for four to six characters of 4th to 7th level, Road to Urik is set in and around Tyr, the campaign base for your Dark Sun game. A stand-alone adventure, Road to Urik can also be played as the sequel to Freedom."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

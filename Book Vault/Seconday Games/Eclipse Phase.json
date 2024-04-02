@@ -23,13 +23,15 @@
     "BookDescription": [
       "Eclipse Phase Second Edition is the post-apocalyptic game of transhuman horror. Humanity is enhanced and improved, but also battered and bitterly divided. Technology allows the re-shaping of bodies and minds, but also creates opportunities for oppression and puts the capability for mass destruction in the hands of everyone. And other threats lurk in the devastated habitats of the Fall, dangers both familiar and alien. In this harsh setting, the players participate in a cross-faction conspiracy called Firewall that seeks to protect transhumanity from threats both internal and external."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 2, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "Character Options",
@@ -55,12 +57,14 @@
     "BookDescription": [
       "Eclipse Phase Character Options updates and combines two popular first edition resources — lifepath character creation and the morph recognition guide — into a fully-updated hardcover book with additional material for players and characters such as new traits, new ware, and more!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO"},
-        {"page": 2, "title": "BE DONE"}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }
 ]

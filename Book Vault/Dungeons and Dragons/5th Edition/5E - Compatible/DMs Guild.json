@@ -39,13 +39,15 @@
     "17 new monsters to challenge players, including the Ice Dragon of Lake Tirulag",
     "A collection of adventure ideas to create your own campaigns in Rashemen"
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO"},
-      {"page": 2, "title": "BE DONE"}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Player Primer - Amn",
@@ -72,13 +74,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO"},
-      {"page": 2, "title": "BE DONE"}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Player Primer - Icewind Dale",
@@ -105,13 +109,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO"},
-      {"page": 2, "title": "BE DONE"}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Player Primer - Moonshae Isles",
@@ -138,13 +144,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO"},
-      {"page": 2, "title": "BE DONE"}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Player Primer - Tethyr",
@@ -171,13 +179,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO"},
-      {"page": 2, "title": "BE DONE"}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Player Primer - Calimshan",
@@ -214,13 +224,15 @@
     "A dark \"dusk\" version, a light \"dawn\" version, and a printer-friendly version of the document",
     "Our Character Chronicle, adapted from the Heroic Chronicle created in Explorer’s Guide to Wildemount, is a system of character creation that helps players create characters with strong ties to Amn. This includes goals, secrets, and even favorite foods! Useful for any player, this system can also be used to create more fully-realized villains for your campaign."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO"},
-      {"page": 2, "title": "BE DONE"}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Thay - Land of the Red Wizards",
@@ -250,13 +262,15 @@
     "And Thay is that, but it is also so much more. A truly magical land (thanks to a secret that even the goddess Mystra helps to keep) of rich culture, a rising middle class, ambitious nobles and Red Wizards who fear Szass Tam more than they hate him, but may soon be forced to defy him, and wealth beyond the imaginings of even wealthy and proud realms elsewhere.",
     "This tome is your guide to the Thay of right now, a valuable resource for Dungeon Masters and players alike. It sets forth the people and places of the Land of Red Wizards, what life is like, and seeds, hints, and secrets sufficient to spur adventures for years of enjoyment at your gaming table"
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO"},
-      {"page": 2, "title": "BE DONE"}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "The Border Kingdoms",
@@ -292,13 +306,15 @@
     "Dozens of brand new illustrations",
     "Brand new campaign hooks"
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO"},
-      {"page": 2, "title": "BE DONE"}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "Vilhon Reach Gazetteer",
@@ -325,13 +341,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "DLSBR - Shadow of the Black Rose",
@@ -358,7 +376,16 @@
   "BookDescription": [
     "<b>Confront D&D's most iconic death knight on his home ground in this epilogue to Dragonlance: Shadow of the Dragon Queen!</b>",
     "Lord Soth, the Knight of the Black Rose, is raising an armada of undead dragons in the mountains surrounding his burnt and blackened fortress of Dargaard Keep.  Ansalon will never know peace while his malign influence endures.  End his legacy of evil forever in this 50-page original adventure created by the Dragonlance Nexus."
-  ]
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "RTPE-COK1 - Tasslehoff's Pouches of Everything Revised - Champions of Krynn, Chapter 1",
@@ -384,7 +411,16 @@
   "BookCharacterLevel": "",
   "BookDescription": [
     "Tasslehoff's Pouches of Everything Revised is your one-stop shop for all things Dragonlance and Krynn for D&D 5th Edition. Uncle Tas will be your guide during our journey through the people, factions, monsters and magic of our favorite continent, Ansalon. Tas' life is easily one of the most storied of anyone from Krynn. That's why we've recruited him to give us insight about every aspect of the world we love. "
-  ]
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 } ,
 {
   "BookName": "Vecna’s Book of Vile Darkness",
@@ -411,12 +447,14 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

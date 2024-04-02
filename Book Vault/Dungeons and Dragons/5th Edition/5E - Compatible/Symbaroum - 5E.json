@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Ruins of Symbaroum - Player's Guide",
+    "BookName": "FLFSYM018 - Ruins of Symbaroum - Player's Guide",
+    "BookShortName": "Ruins of Symbaroum - Player's Guide",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFSYM018",
     "BookISBN": "978-91-89143-25-8",
@@ -31,8 +32,9 @@
       "New equipment in the form of weapons, armor, alchemical elixirs, mystical artifacts, and more.",
       " Spell lists for the mystical traditions sorcerer, theurg, troll singer, witch and wizard, including 24 new spells."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Ruins of Symbaroum - Player's Guide",
       "chapters": [
         {"page": 8, "title": "The Setting"},
         {"page": 32, "title": "New Rules"},
@@ -41,9 +43,11 @@
         {"page": 160, "title": "Resources"}
         ]    
     }
+  ]
   } ,
   {
-    "BookName": "Ruins of Symbaroum - Gamemaster's Guide",
+    "BookName": "FLFSYM019 - Ruins of Symbaroum - Gamemaster's Guide",
+    "BookShortName": "Ruins of Symbaroum - Gamemaster's Guide",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFSYM019",
     "BookISBN": "978-91-89143-26-5",
@@ -75,16 +79,19 @@
       "A long list of optional rules, regarding advanced traps, troupe play, ceremonial magic, managing domains, pitched battles, pact making, social challenges, and more.",
       "The one-shot adventure Blight Night, set at the edge of Davokar Forest, as an example of how adventure landscapes in Symbaroum can be built."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
-    "BookName": "Ruins of Symbaroum - Bestiary",
+    "BookName": "FLFSYM020 - Ruins of Symbaroum - Bestiary",
+    "BookShortName": "Ruins of Symbaroum - Bestiary",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFSYM020",
     "BookISBN": "978-91-89143-27-2",
@@ -114,16 +121,19 @@
       "Approximately 200 features, traits, reactions, lair actions and more, to be used when you design unique monstrosities to challenge your players.",
       "Guidelines and rules for terrain features, covering Cities and Towns, Farmlands, Forests, Swamps, and more."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
-    "BookName": "Ruins of Symbaroum - Gamemasters Screen",
+    "BookName": "FLFSYM023 - Ruins of Symbaroum - Gamemasters Screen",
+    "BookShortName": "Ruins of Symbaroum - Gamemasters Screen",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFSYM023",
     "BookISBN": "",
@@ -150,16 +160,19 @@
       "The Ruins of Symbaroum Gamemaster’s Screen provides easy access to important tables and information from the Player’s Guide, Gamemaster’s Guide and the 5th Edition OGL ruleset, including Marks of Corruption, Enemies in Davokar and a listing of various Conditions.",
       "The screen comes with a 28 page digital PDF featuring the two adventures Where Darkness Dwells and The Gathering Storm, suitable for player characters of levels 2 to 4."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
-    "BookName": "Adventure Compendium",
+    "BookName": "FLFSYM025 - Adventure Compendium",
+    "BookShortName": "Adventure Compendium",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFSYM025",
     "BookISBN": "978-91-89143-32-6",
@@ -190,16 +203,19 @@
       "An introduction to the pantheon of the Young Gods",
       "Note that this book requires access to the Ruins of Symbaroum Core Setting Books – the Player’s Guide, Gamemaster’s Guide and Bestiary"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
-    "BookName": "Call of the Dark",
+    "BookName": "FLFSYM030 - Call of the Dark",
+    "BookShortName": "Call of the Dark",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFSYM030",
     "BookISBN": "978-91-89143-90-6",
@@ -231,12 +247,14 @@
       "Four artifacts and new or alternative rules for Forced rides and the Dangers of the Darkened Land",
       "Note that this book requires access to the Ruins of Symbaroum Core Setting Books – the Player’s Guide, Gamemaster’s Guide and Bestiary"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } 
 ]

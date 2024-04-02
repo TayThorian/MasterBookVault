@@ -24,12 +24,14 @@
     "BookDescription": [
       "In Rivers of London: the Roleplaying Game, players take on the roles of newly recruited members of the London Metropolitan Police Service’s special magic branch, aka “the Folly.” You will solve mysteries, catch criminals, and come to grips with the “demi-monde”—those who have been irreversibly changed by magic."
     ],
-    "TableOfContents": {
+    "TableOfContents": [
+      {
     "title": "Book",
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
       ]    
   }
+]
 }
 ]

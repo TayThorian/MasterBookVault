@@ -32,13 +32,15 @@
       "The Hills of Crooked Sleep, a hefty adventure you can insert into your campaign right now to introduce ancient civilizations, weird technology, and new strange creatures. Plus additional full-length adventures!",
       "An introduction by Jim Davis and Jonathan Pruitt of Web DM."
     ],
-    "TableOfContents": {
+    "TableOfContents": [
+      {
     "title": "Book",
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
       ]    
   }
+]
 },
 {
   "BookName": "MCG247 - Beasts Of Flesh & Steel",
@@ -73,13 +75,15 @@
     "Stunning artwork that shows off each of these weird and wondrous creatures, and a convenient layout that makes this book uniquely easy to use in prep and at the game table.",
     "A complete bestiary with everything you need to bring these monsters to your game table. These creatures complement Arcana of the Ancients, but you don’t need that book to use this one. Add these creatures to any 5e game!"
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "MCG248 - Beneath The Monolith",
@@ -110,13 +114,15 @@
     "Beneath the Monolith brings the wondrous Ninth World your Fifth Edition game.",
     "Arcana of the Ancients will help you get the most of this book. It contains loads of cyphers, artifacts, creatures, and additional content that brings a Ninth World campaign to life, along with great advice and information on running weird science-fantasy games in 5e."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "MCG249 - Where the Machines Wait",
@@ -143,13 +149,15 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "MCG311 - Path of the Planebreaker",
@@ -182,13 +190,15 @@
     "New creatures, NPCs, magic items, and spells for the DM to introduce. Plus two exciting, plane-hopping adventures that make it easy to introduce PCs to the Planebreaker and planar travel.",
     "New playable species, feats, subclasses, and spells for players. Play a changeable chimeran, a Shadow-Stitched rogue, or a cleric of the Multiverse domain!"
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "MCG327 - Planebreaker Planar Bestiary",
@@ -215,12 +225,14 @@
   "BookDescription": [
     "No description available."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

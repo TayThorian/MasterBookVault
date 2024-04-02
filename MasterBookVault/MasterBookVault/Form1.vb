@@ -591,14 +591,44 @@ Public Class Form1
         Next
     End Sub
 
+    'Private Sub DisplayTableOfContents(selectedBook As Book)
+    'If selectedBook.TableOfContents IsNot Nothing AndAlso selectedBook.TableOfContents.Chapters IsNot Nothing Then
+    '       ListBoxTOC.Items.Clear()
+    'For Each chapter As Chapter In selectedBook.TableOfContents.Chapters
+    '           ListBoxTOC.Items.Add("Page " & chapter.Page.ToString() & ": " & chapter.Title)
+    'Next
+    'End If
+    'End Sub
+
     Private Sub DisplayTableOfContents(selectedBook As Book)
-        If selectedBook.TableOfContents IsNot Nothing AndAlso selectedBook.TableOfContents.Chapters IsNot Nothing Then
+        If selectedBook.TableOfContents IsNot Nothing AndAlso selectedBook.TableOfContents.Count > 0 Then
             ListBoxTOC.Items.Clear()
-            For Each chapter As Chapter In selectedBook.TableOfContents.Chapters
-                ListBoxTOC.Items.Add("Page " & chapter.Page.ToString() & ": " & chapter.Title)
+
+            Dim isFirstSection As Boolean = True
+            For Each tocSection In selectedBook.TableOfContents
+                ' Insert a blank line before each section except the first
+                If Not isFirstSection Then
+                    ListBoxTOC.Items.Add(String.Empty) ' Blank line for spacing
+                Else
+                    isFirstSection = False
+                End If
+
+                ' Tag the section title for special formatting and add it to the ListBox
+                ListBoxTOC.Items.Add("[Section]" & tocSection.Title)
+
+                For Each chapter In tocSection.Chapters
+                    ListBoxTOC.Items.Add("Page " & chapter.Page.ToString() & ": " & chapter.Title)
+                Next
+
+                ' Optional: Insert a blank line after each section's chapters if needed
+                ListBoxTOC.Items.Add(String.Empty)
             Next
         End If
     End Sub
+
+
+
+
 
     Private Sub ListBoxTOC_DrawItem(sender As Object, e As DrawItemEventArgs) Handles ListBoxTOC.DrawItem
         If e.Index = -1 Then Return
@@ -606,27 +636,27 @@ Public Class Form1
         e.DrawBackground()
 
         Dim item As String = ListBoxTOC.Items(e.Index).ToString()
-        Dim parts As String() = item.Split(New String() {": "}, StringSplitOptions.None)
 
-        If parts.Length > 1 Then
-            Dim pagePart As String = parts(0) & ": "
-            Dim titlePart As String = parts(1)
+        ' Determine if the item is a section heading
+        Dim isSectionHeading As Boolean = item.StartsWith("[Section]")
 
-            Dim boldFont As New Font(e.Font, FontStyle.Bold)
-            Dim regularFont As New Font(e.Font, FontStyle.Regular)
+        ' Remove the tag from the section heading for display
+        If isSectionHeading Then item = item.Replace("[Section]", "")
 
-            ' Measure the width of the "Page" part
-            Dim pagePartWidth As Integer = CInt(e.Graphics.MeasureString(pagePart, boldFont).Width)
-
-            ' Draw the "Page" part in bold
-            e.Graphics.DrawString(pagePart, boldFont, New SolidBrush(e.ForeColor), e.Bounds.Left, e.Bounds.Top)
-
-            ' Draw the "Title" part in regular font
-            e.Graphics.DrawString(titlePart, regularFont, New SolidBrush(e.ForeColor), e.Bounds.Left + pagePartWidth, e.Bounds.Top)
+        ' Set fonts
+        Dim font As Font
+        If isSectionHeading Then
+            font = New Font(e.Font.FontFamily, e.Font.Size + 2, FontStyle.Bold) ' Larger and bold for section headings
+        Else
+            font = e.Font ' Regular for other items
         End If
+
+        ' Draw the text
+        e.Graphics.DrawString(item, font, New SolidBrush(e.ForeColor), e.Bounds)
 
         e.DrawFocusRectangle()
     End Sub
+
 
     Private Sub ButtonRunEditor_Click(sender As Object, e As EventArgs) Handles ButtonRunEditor.Click
         ' Ensure the path exists

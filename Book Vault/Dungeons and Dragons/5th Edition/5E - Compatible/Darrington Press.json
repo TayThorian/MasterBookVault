@@ -33,12 +33,14 @@
       "A gorgeous 18”x24” foldout map of the Tal’Dorei continent by cartographer Andy Law",
       "The PDF contains alt text for illustrations and is screen reader friendly"
     ],
-    "TableOfContents": {
+    "TableOfContents": [
+      {
     "title": "Book",
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
       ]    
   }
+]
 }
 ]

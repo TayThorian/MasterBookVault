@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Dishonored - The Roleplaying Game Core Rulebook",
+    "BookName": "MUH051700 - Dishonored - The Roleplaying Game Core Rulebook",
+    "BookShortName": "Dishonored - The Roleplaying Game Core Rulebook",
     "BookPublisher": "Modiphius Entertainment",
     "BookCode": "MUH051700",
     "BookISBN": "978-1-912743-21-6",
@@ -22,6 +23,15 @@
     "BookCharacterLevel": "",
     "BookDescription": [
       "In Dishonored: The Roleplaying Game, players delve into the turbulent Empire of the Isles, to tell stories of occult lore, intrigue and drama. The Dishonored Corebook contains all the rules and background information you need to kickstart your adventure. It features a streamlined version of the 2d20 System that excels at narrative play while focusing on the core themes of Dishonored with mechanics for Chaos and unique ways to track stealth, intrigues and faction reputation."
-    ]
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } 
 ]

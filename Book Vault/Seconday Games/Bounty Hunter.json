@@ -1,31 +1,32 @@
 [
   {
-    "BookName": "Deep Magic Vol. 1",
-    "BookPublisher": "Kobold Press",
-    "BookCode": "KOB9542",
-    "BookISBN": "978-1-950789-54-2",
+    "BookName": "Bounty Hunter - Rule Book",
+    "BookShortName": "Bounty Hunter - Rule Book",
+    "BookPublisher": "Geekstable",
+    "BookCode": "",
+    "BookISBN": "",
     "BookAuthor": "",
     "BookPublished": "",
     "BookCover": "",
-    "BookRules": "5E Compatible",
-    "BookEdition": "5th Edition",
+    "BookRules": "",
+    "BookEdition": "",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "",
-    "BookType": "Magic Book",
+    "BookType": "Rule Book",
     "BookFormat": "",
-    "BookSeries": "Magic Books",
+    "BookSeries": "Rule Books",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\Master Vault\\5E - Compatible\\Kobold Press\\KOB9542 - Deep Magic Vol. 1.pdf"
+      "D:\\Master Vault\\Bounty Hunter\\Bounty Hunter - Rule Book.pdf"
     ],
     "BookDescription": [
       "No description available."
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "Bounty Hunter - Rule Book",
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
@@ -34,32 +35,33 @@
 ]
 },
 {
-  "BookName": "Tome of Beasts 1",
-  "BookPublisher": "Kobold Press",
-  "BookCode": "KOB9566",
+  "BookName": "Bounty Hunter Omnibus",
+  "BookShortName": "Bounty Hunter Omnibus",
+  "BookPublisher": "Geekstable",
+  "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "5E Compatible",
-  "BookEdition": "5th Edition",
+  "BookRules": "",
+  "BookEdition": "",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "",
-  "BookType": "Bestiary",
+  "BookType": "",
   "BookFormat": "",
-  "BookSeries": "Bestiary",
+  "BookSeries": "",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\Master Vault\\5E - Compatible\\Kobold Press\\KOB9566 - Tome of Beasts 1.pdf"
+    "D:\\Master Vault\\Bounty Hunter\\Bounty Hunter Omnibus.pdf"
   ],
   "BookDescription": [
     "No description available."
   ],
   "TableOfContents": [
     {
-  "title": "Book",
+  "title": "Bounty Hunter - Rule Book",
   "chapters": [
     {"page": 1, "title": "TOC TO BE DONE"},
     {"page": 2, "title": ""}
@@ -68,32 +70,33 @@
 ]
 },
 {
-  "BookName": "Tome of Beasts II",
-  "BookPublisher": "Kobold Press",
-  "BookCode": "KOBTOB2",
+  "BookName": "Halcord Midmo",
+  "BookShortName": "Halcord Midmo",
+  "BookPublisher": "Geekstable",
+  "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "5E Compatible",
-  "BookEdition": "5th Edition",
+  "BookRules": "",
+  "BookEdition": "",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "",
-  "BookType": "Bestiary",
+  "BookType": "",
   "BookFormat": "",
-  "BookSeries": "Bestiary",
+  "BookSeries": "",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\Master Vault\\5E - Compatible\\Kobold Press\\KOBTOB2 - Tome of Beasts II.pdf"
+    "D:\\Master Vault\\Bounty Hunter\\Halcord Midmo.pdf"
   ],
   "BookDescription": [
     "No description available."
   ],
   "TableOfContents": [
     {
-  "title": "Book",
+  "title": "Bounty Hunter - Rule Book",
   "chapters": [
     {"page": 1, "title": "TOC TO BE DONE"},
     {"page": 2, "title": ""}
@@ -102,32 +105,33 @@
 ]
 },
 {
-  "BookName": "Tome of Beasts III",
-  "BookPublisher": "Kobold Press",
-  "BookCode": "KOBTOB",
+  "BookName": "Huntari Region",
+  "BookShortName": "Huntari Region",
+  "BookPublisher": "Geekstable",
+  "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "5E Compatible",
-  "BookEdition": "5th Edition",
+  "BookRules": "",
+  "BookEdition": "",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "",
-  "BookType": "Bestiary",
+  "BookType": "",
   "BookFormat": "",
-  "BookSeries": "Bestiary",
+  "BookSeries": "",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\Master Vault\\5E - Compatible\\Kobold Press\\KOBTOB3 - Tome of Beasts III.pdf"
+    "D:\\Master Vault\\Bounty Hunter\\Huntari Region.pdf"
   ],
   "BookDescription": [
     "No description available."
   ],
   "TableOfContents": [
     {
-  "title": "Book",
+  "title": "Bounty Hunter - Rule Book",
   "chapters": [
     {"page": 1, "title": "TOC TO BE DONE"},
     {"page": 2, "title": ""}

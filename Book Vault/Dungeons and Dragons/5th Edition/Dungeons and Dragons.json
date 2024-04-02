@@ -26,13 +26,15 @@
       "The Dungeon Master’s Guide provides the inspiration and the guidance you need to spark your imagination and create worlds of adventure for your players to explore and enjoy.",
       "Inside you’ll find world-building tools, tips and tricks for creating memorable dungeons and adventures, optional game rules, hundreds of classic D&D magic items, and much more!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "WTCA92180000 - Monster Manual",
@@ -60,13 +62,15 @@
       "The Monster Manual presents a horde of classic Dungeons & Dragons creatures, including dragons, giants, mind flayers, and beholders—a monstrous feast for Dungeon Masters ready to challenge their players and populate their adventures.",
       "The monsters contained herein are culled from the D&D game’s illustrious history, with easy-to-use game statistics and thrilling stories to feed your imagination."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "WTCA92170000 - Player's Handbook",
@@ -95,8 +99,9 @@
       "Dungeons & Dragons immerses you in a world of adventure. Explore ancient ruins and deadly dungeons. Battle monsters while searching for legendary treasures. Gain experience and power as you trek across uncharted lands with your companions.",
       "The world needs heroes. Will you answer the call?"
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Player's Handbook",
       "chapters": [
         {"page": 4, "title": "Preface"},
         {"page": 5, "title": "Introduction"},
@@ -123,6 +128,7 @@
         {"page": 317, "title": "Character Sheet"}
         ]    
     }
+  ]
   },
   {
     "BookName": "WTCA96060000 - Hoard of the Dragon Queen",
@@ -150,13 +156,15 @@
       "Fight the War Against Draconic Oppression in this Adventure for the World's Greatest Roleplaying Game",
       "In an audacious bid for power the Cult of the Dragon, along with its dragon allies and the Red Wizards of Thay, seek to bring Tiamat from her prison in the Nine Hells to Faerun. To this end, they are sweeping from town to town, laying waste to all those who oppose them and gathering a hoard of riches for their dread queen. The threat of annihilation has become so dire that groups as disparate as the Harpers and Zhentarim are banding together in the fight against the cult. Never before has the need for heroes been so desperate."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTCA96070000 - The Rise of Tiamat",
@@ -183,13 +191,15 @@
     "BookDescription": [
       "Avert the Cataclysmic Return of Tiamat in this Adventure for the World’s Greatest Roleplaying Game. The Cult of the Dragon leads the charge in an unholy crusade to bring Tiamat back to the Realms, and the situation grows more perilous for good people with each passing moment. The battle becomes increasingly political as opportunities to gather allies and gain advantage present themselves. From Waterdeep to the Sea of Moving Ice to Thay, it is a race against Evil. Succeed or succumb to the oppression of draconic tyranny. Win or lose, things will never be the same again."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTCB24360000 - Princes of the Apocalypse",
@@ -216,13 +226,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTCB24380000 - Sword Coast Adventurer's Guide",
@@ -251,13 +263,15 @@
       "A region of the Forgotten Realms®, the Sword Coast comprises shining paragons of civilization, perilous locales fraught with evil, and, encompassing them all, a wilderness that offers an explorer both vast opportunity and great danger.",
       "The Sword Coast Adventurer's Guide™ is a valuable resource for Dungeon Masters and players alike. In addition to describing the peoples and places of the Sword Coast, the book contains a plethora of new character options to intrigue and inspire every adventuring party."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTCC46580000 - Waterdeep - Dragon Heist",
@@ -284,13 +298,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTCB24390000 - Out of the Abyss",
@@ -317,13 +333,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTCB86690000 - Storm King`s Thunder",
@@ -350,12 +368,14 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }
 ]

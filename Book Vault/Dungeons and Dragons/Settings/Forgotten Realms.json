@@ -31,13 +31,15 @@
       "descriptions of notable NPCs and power groups of Skullport.",
       "Although no other Forgotten Realms setting products are required to use Skullport, this accessory can be used to provide supplemental information for the Ruins of Undermountain campaign expansion. Dungeon Masters can also use Skullport as a basis for an Underdark city in their own campaigns."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR11405 - The Wyrmskull Throne",
@@ -65,13 +67,15 @@
       "The Wyrmskull Throne - the ruling seat of the great dwarven nation of Shanatar - has been lost for five millennia. Now, rumours have surfaced that it has been found, and there are sinister parties that will stop at nothing to claim it. But the path to finding the throne is long and twisted, leading from a small village in the remotest regions of Tethyr to the bottom of the ocean! Those who follow it had best be prepared for the strange and wondrous - as well as enemies on every side - for it is no journey for the faint of heart.",
       "The Wyrmskull Throne is a companion adventure for the Forgotten Realms accessory Sea of Fallen Stars. It can be played as a stand-alone adventure or with the material presented in that volume."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11393 - Sea of Fallen Stars",
@@ -103,13 +107,15 @@
       "Myth Nantar, City of Destinies: Wrapped in a magical mythal, the elven city of Myth Nantar is the perfect place to make the transition to the world under the waves or to begin a complete aquatic campaign.",
       "Sea of fallen Stars is the first fully developed underwater setting for AD&D campaign play. It provides a focus for the use of the rules supplements Of Ships and the Sea and Sea Devils, but neither of these products is needed to use this book. Contained in these pages is everything you need to adventure in this exciting world. Bring your game beneath the waves with rules and magic that make it easy and fun to do, or create sea elf, merman, triton, locathah, or shalarin PCs using the character-creation rules herein. Either way, get ready to explore Netherese ruins, sunken ships, and abyssal trenches in the Sea of Fallen Stars!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11316 - FOR12 - Demihumans of the Realms",
@@ -138,13 +144,15 @@
       "Perhaps, yet that doesn't really say much, does it? One might just as easily say there's now difference between a Calishite and a Thayan because they're both humans! No one is just a demihuman in the Realms—there are acrobats, barbarians, giant killers, manhunters, pestkillers, prospectors, and even tunnelrats, but they're all demihumans and they all walk the face of Faerûn.",
       "Within these pages are dozens of kits designed to help layers in a Forgotten Realms campaign enrich their characters and make them truly native to the Realms. Special benefits and disadvantages for each kit enhance the roleplaying experience while allowing characters to reflect their social roots and racial heritages. This companion to Wizards and Rogues of the Realms and Warriors and Priests of the Realms completes the series of kit-based sourcebooks for the Forgotten Realms campaign."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11430 - FOR13 - Secrets of the Magister",
@@ -174,13 +182,15 @@
       "This book holds the history of the office, new powers, spells, magic items, a roster of select magisters from the past, and guidelines on how to incorporate the Magister into your campaign.",
       "One magister became a god; many others have hoped to."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9491 - FOR8 - Pages from the Mages",
@@ -213,13 +223,15 @@
       "And just for fun, Elminster's very own traveling spellbook!",
       "All this could have been avoided, of course. If the handful of heedful folk in the worlds would listen to me but a few moments more, much trouble could be averted—and, I suppose, much high adventure. Hmmm. Perhaps 'tis the doom of humans to always rush in heedless of the costs—and to open and read every old, crumbling book they find."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9379 - Volo's Guide to Waterdeep",
@@ -246,13 +258,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9393 - Volo's Guide to the North",
@@ -279,13 +293,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9460 - Volo's Guide to the Sword Coast",
@@ -312,13 +328,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9486 - Volo's Guide to Cormyr",
@@ -345,13 +363,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9524 - Volo's Guide to the Dalelands",
@@ -378,13 +398,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9535 - Volo's Guide to All Things Magical",
@@ -411,13 +433,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR11626 - Volo's Guide to Baldur's Gate II",
@@ -453,13 +477,15 @@
       "Suitable for all levels of play.",
       "<b>Special note:</b> This edition of Volo's Guide to Baldur's Gate II: Shadows of Amn, intended for travelers from beyond the borders of Faerûn, contains notes and commentary by the famous archmage and sage, Elminster."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1031 - Forgotten Realms Campaign Set",
@@ -493,13 +519,15 @@
       "33\" x 21\" map of Cormyr, Sembia, and the Dalelands, from Priapurl and Tsurlagol to Anauroch and Vaasa",
       "33\" x 21\" map of the Western Heartlands, from Easting and the Lonely Moor to Beregost, Daggerford, and Mintarn"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }  ,
   {
     "BookName": "TSR11509 - Drizzt Do'Urden's Guide to the Underdark",
@@ -528,13 +556,15 @@
       "This 128-page book, compiled by the Underdark's most famous son, Drizzt Do'Urden, lays bare the bizarre societies that lurk in the Realms Below. It includes an overview of the major races of the Underdark, an Underdark survival guide, and details and maps of the more than a dozen cities. Discover a drow city construdted entirely of calcified spider silk, a nigh-immortal dwarven king trapped in stone form, and a storehouse of knowledge that rivals Candlekeep. Learn the particulars of the alliance between Manshoon and the beholders of the Anaurian Hive, the ambitions of the true master of Firedrake Bay, and an explanation of the enduring strength of the beholder cults along the Lake of Steam.",
       "With Drizzt Do'Urden as your guide, a whole new world opens up beneath your feet."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9590 - Kidnapped",
@@ -563,13 +593,15 @@
       "Can you see it safely past all the greedy bandits trying to intercept you and take the treasure for themselves? And if you do, can you trust the kidnappers to return the stolen child? A tale of trust, betrayal, and revenge.",
       "This classic tournament has been revised for use with the new City of Ravens Bluff sourcebook. It is adaptable for use in any low-level, mid-level, or high-level campaign."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9389 - FRM1 - The Jungles of Chult",
@@ -601,8 +633,9 @@
       "Also within these pages are new monsters and new character kits: Mage hunters, specialty priests of Ubtao, and spiritlords.",
       "This adventure is designed for 6 to 8 characters of levels 5 to 8."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "FRM1 - The Jungles of Chult",
       "chapters": [
         {"page": 2, "title": "Introduction"},
         {"page": 3, "title": "Part 1 - CAMPAIGN RESOURCES"},
@@ -618,6 +651,7 @@
         {"page": 64, "title": "New Monster - Pteraman"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR921 - FR1 - Waterdeep & The North",
@@ -646,13 +680,15 @@
       "Waterdeep...crossroads of the world, City of Splendors. Here are wealth and goods from every corner of the Realms, intrigue and feuds and important personages of rank and influence. From the many-spired towers of Piergeiron's Palace to the littered alleys of \"the Docks,\" this book introduces you to the living, ever-changing city of Waterdeep, and suggest many adventures therein.",
       "Partake of the sights, the bustle and the intrigue-rub shoulders with the powerful and famous-feast your eyes on fabled treasures. Hear tales in the taverns such as can be heard nowhere else in all the world-but keep your weapons ready and your wits sharp. Oh, and above all...enjoy your stay."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9217 - FR2 - Moonshae",
@@ -680,13 +716,15 @@
       "The Moonshae Isles are alive with AD&D game campaigns opportunities.",
       "Characters of virtually all the standard classes and levels can find adventure and challenge in some part of the islands."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }  ,
   {
     "BookName": "TSR9224 - FR3 - Empires of the Sands",
@@ -715,13 +753,15 @@
       "The Empires of the Sands are now fully detailed for your role-playing campaign. The cultures, personalities, economies, cities, towns, and wilderness are described for an AD&D campaign of any size or level. Amn, land of merchants, where everything has a price; Tethyr, where evil grows and petty tyrants vie for a vacant throne; and Calimshan, a dry land where great magic is commonplace. All are waiting for you.",
       "This sourcebook includes all the information you need to establish an exciting campaign."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }  ,
   {
     "BookName": "TSR9229 - FR4 - The Magister",
@@ -750,13 +790,15 @@
       "Ed Greenwood, originator of the FORGOTTEN REALMS game world, and famous game designer Steve Perrin have spent many long days with Elminster of Shadowdale, perhaps the finest sage in the long history of Abeir-Toril. The result of all this work is in your hands; The Magister is a compilation of new spells and items for your FORGOTTEN REALMS campaign.",
       "Some of the new magics described in The Magister were first published in numerous \"Elminster\" articles in Dragon magazine. The best of these, along with many new fabulous spells and items, appear in this volume."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }  ,
   {
     "BookName": "TSR9233 - FR5 - The Savage Frontier",
@@ -784,13 +826,15 @@
       "North of Waterdeep, the land is cold, vast, and forbidding. The Trackless Sea stretches northward for what seems like forever, interrupted only by the occasional island and, eventually, the ice. On land, towns and villages flourish right up to the Spine of the World Mountains. It takes a special kind of person to live up here, a determined person used to hardship, a survivor—one with a great love for life and a great respect for the forces, both natural and unnatural, that can end it.",
       "The Savage Frontier is now fully detailed for your roleplaying campaign. The cultures, personalities, economies, cities, towns, and wilderness are described for an AD&D campaign of any size or level. From the barbarian tribes of the far north to the Luskan pirates of the Trackless Sea, the Savage Frontier is an exciting land where adventure can be found anywhere. And, of course, its all part of the best-selling Forgotten Realms Campaign Setting, home of many other AD&D modules, sourcebooks, and even novels!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9235 - FR6 - Dreams of the Red Wizards",
@@ -818,13 +862,15 @@
       "The Red Wizards of Thay, as cruel and horrible as they are powerful, they have ruled their eastern realm for as long as any sage can remember. They can be powerful allies, or deadly enemies. The Red Wizards know the darkest secrets of the strongest magic, and will sell their skills to the highest bidder. Thay is a land of slavers and tyrants, of intrigue and murder, of danger and opportunity.",
       "In this book, the government, personalities, economy, cities, people, and wilderness of Thay are described for an AD&D campaign of any size or level. Dreams of the Red Wizards, plus a map of Thay that can be added to the previously published maps of the Forgotten Realms."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9252 - FR7 - Hall of Heroes",
@@ -855,13 +901,15 @@
       "But the Hall of Heroes is more that a listing of game statistics: It's also a sourcebook describing (among other things) artificial and magical lifeforms of the Realms, as well as the lives of the world's elves, dwarves, lizardmen, and exotic creatures.",
       "Whatever your interest in the Forgotten Realms campaign setting, you'll find much to entertain and intrigue you in this volume."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9262 - FR8 - Cities of Mystery",
@@ -890,13 +938,15 @@
       "A city is much more than a rest stop, a watering hole, or a placee to but equipment. Any community, from the smallest hamlet ot the most crowded medievial metropolis, offers adventuring possibilities that can't be found in any other environment. Cities of Mystery describes for the Dungeon Master how to create realistic, exciting, and vibrant communities-and gives him the tools to make his creations com alive.",
       "Inside this folder are 12 different street layout patterns that can be combined in a multitude of ways, plus 33 buildings of various shapes and sizes that can be cut out and assembled. The components, scaled for use with 25mm miniature figures, allow you to create three-dimensional city scenes for characters to explore. Also included is a 64-page book that takes you step by step through the process of defining and designing the villages, towns, and cities of your campaign world. The book contains five adventure scenarios that make use of the street layouts and fold-up buildings-ideas designed to get you started on the way to making your cities come alive."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1165 - Cormanthyr Empire of Elves",
@@ -926,8 +976,9 @@
       "This 160-page book contains exhaustive details on the history, culture, military, society, and citizens of the forest nation of Cormanthyr. Features include a timeline of elven history on Toril, a rundown of Cormanthyr's ruler and important individuals, plus more information on the city of Myth Drannor at its height as well as on the communities of Semberholme and the Tangled Vale. In addition, a new specialty wizard, the elven dualist, is introduced and detailed.",
       "Also included is a large section that gives the reader knowledge of the elves' magical rites, rituals, and unique magical weapons and items. Features include new and expanded rules on the elves' potent High Magic, moonblades, and the multitude of magics that helped make Myth Drannor the glittering gem of Faerun that it was. Finally, a two-sided, full-colour map of the nation of Cormanthyr and an aerial view of Myth Drannor completes this exciting package - the largest collection of elven lore ever."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Cormanthyr Empire of Elves",
       "chapters": [
         {"page": 3, "title": "Campaign Introduction"},
         {"page": 14, "title": "The Elven Mindset"},
@@ -944,6 +995,7 @@
         {"page": 157, "title": "Appendix: Secrets of Windsong Tower"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR9540 - How the Mighty Are Fallen",
@@ -974,8 +1026,9 @@
       "Reunite lost lovers after they have been separated by death. Nopheus's wife was killed in a magical explosion, and now he's finally saved enough money for her to be resurrected. Certainly a dead body couldn't pose a threat to a band of stalwart heroes?!",
       "Follow the winds of Fate to wherever Tyche delivers them. Numerous side adventures allow players to take their characters to a variety of different locations. Some heroes might want to follow the trail of the missing nether scrolls, while others might want to join the resistance and fight Karsus and the other archwizards. But only the bravest hearts can take the first step...."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "How the Mighty Are Fallen",
       "chapters": [
         {"page": 3, "title": "The Time has Come"},
         {"page": 5, "title": "The Grand Welcome"},
@@ -986,6 +1039,7 @@
         {"page": 61, "title": "Rumours and Hooks"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR9558 - The Fall of Myth Drannor",
@@ -1013,8 +1067,9 @@
       "The Fall of Myth Drannor is an accessory detailing those horrible years encompassing the Weeping War, for use with Cormanthyr: Empire of the Elves book. Herein you will find the causes of the fall of the most lyrical of elf cities; highlights of the twelve campaigns and their most significant battles; copious adventure hooks for involving player characters in behind-the-scenes activities; and new (or should we say ancient?) magical items and spells, most of which have been lost in time.",
       "From the passing of Coronal Eltargrim to the shattering of the Khov'Anilessa's invisible prison to the stand at Honorsgate, the painful history of the Fall lies within these pages. Now comes the opportunity for heroes to be made—or become part of the history in their attempts."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "The Fall of Myth Drannor",
       "chapters": [
         {"page": 2, "title": "Introduction"},
         {"page": 3, "title": "Last Days of Myth Drannor"},
@@ -1025,6 +1080,7 @@
         {"page": 63, "title": "Glossaries"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR9392 - FRS1 - The Dalelands",
@@ -1054,13 +1110,15 @@
       "The Dalelands are a place where adventurers are welcomed, and heroes rewarded with gold, honour, and power. Enemies, old and new, move against the Dales constantly, and the call goes out for brave and true heroes to defend the land!",
       "The Dalelands are the oldest campaign setting of the Forgotten Realms, finally described in detail. New and exciting information about each of these independent lands I contained in this accessory. Of course, the dark and sinister enemies who plot against the Dales are described as well! Prepare to meet the challenges of the Dalelands!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC882360000 - Forgotten Realms Campaign Setting",
@@ -1093,13 +1151,15 @@
       "Highly detailed regions, new monsters, mysterious sites, and two short adventures to begin your campaign.",
       "The Forgotten Realms Campaign Setting is fully updated and redesigned for the new edition of the D&D game. To make full use of this book, you also need the Player's Handbook, the Dungeon Master's Guide, and the Monster Manual."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC176650000 - Unapproachable East",
@@ -1131,13 +1191,15 @@
       "19 new monsters",
       "To use this accessory, you also need the Forgotten Realms Campaign Setting, the Player's Handbook, the Dungeon Master's Guide, and the Monster Manual."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR8908 - LC1 - Gateway to Raven's Bluff",
@@ -1168,13 +1230,15 @@
       "This product, created by RPGA Network members, features several businesses and officials, a complete city adventure, a Ravens Bluff encounter chart, and more. A large, full color map of Ravens Bluff is included.",
       "Enter the gates of Ravens Bluff, a city that is ever-changing and growing, a city you can be a part of in the Forgotten Realms."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9282 - LC2 - Inside Raven's Bluff, The Living City",
@@ -1201,13 +1265,15 @@
     "BookDescription": [
       "Continue your tour of the Ravens Bluff campaign setting, the brightest spot on the Dragon Reach. Meet Jack Mooney, proprietor, manager, and ringmaster of the Realms' largest circus. Lucky visitors receive invitations to ourParty on Embassy Row, where intrigue and high society collide. Visit Lord Mayor Charles Oliver O'Kane's study for a quick peek at Elminster's notes on Ravens Bluff and environs. Discover more new businesses, personalities, and officials --including the Vulture, the city's infamous tax collector. All stops on your tour will add adventure to your travels in the Forgotten Realms campaign setting."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9316 - LC3 - Night Watch in the Living City",
@@ -1236,13 +1302,15 @@
       "The veil turns the city's vigorous docks into a gloomy den where only the brave, the stubborn, or the foolish go abroad. When the veil drops, neophyte adventurers join the Nightwatch, a special police force that sees to it that the fearless citizens who prowl through the Veil restrict themselves to licit business. A successful tour in the Nightwatch means wealth and recognition (those who fail quietly join the uncounted dead).",
       "This module is specially designed to introduce novice characters to the rigors of adventuring."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9315 - LC4 - Port of Raven's Bluff",
@@ -1271,13 +1339,15 @@
       "Cast off for adventure with the members of the RPGA Network. Get to know one of the busiest ports of the Sea of Fallen Stars, where adventure awaits on land, at sea, and below the waves. Pirates, honest sailors, smugglers, fishermen, and water creatures rub shoulders with stalwart adventurers bent on exploring the ships in the harbor, businesses on the waterfront, and a few mysteries less audacious locals prefer to ignore.",
       "This product contains new buildings and personalities for the Forgotten Realms Living City campaign setting, and your own 3-D fold-up ship."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9575 - The City of Ravens Bluff",
@@ -1309,13 +1379,15 @@
       "New monsters and new magics, hidden cults and secret societies, and a description of the entire Vast surrounding the city are all included within these pages.",
       "As if this were not enough, this sourcebook also includes the most detailed map of the city ever published and an extensive Walking Tour visiting hundreds of locations throughout Ravens Bluff."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC398890000 - Menzoberranzan - City of Intrigue",
@@ -1344,13 +1416,15 @@
       "It contains all of the information a Dungeon Master needs to run adventures or an entire campaign based in this treacherous city, including descriptions of city locations, drow houses, key organizations, and the precarious political landscape.",
       "It also gives players the information they need to create characters who are members of drow houses or organizations within Menzoberranzan, as well as explains the benefits and rivalries that come with choosing a particular allegiance."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm",
@@ -1378,13 +1452,15 @@
       "The Forgotten Realms is the most successful and widely known Dungeons & Dragons campaign setting ever created, and it owes its existence to creator Ed Greenwood.",
       "This 160-page book describes the campaign setting as it lives and breathes in the imagination of its creator. Through the alter ego of Elminster, Archmage of Shadowdale, Ed Greenwood presents the Realms as a setting where companies of crazed adventurers are born and have rich lives, and where they get to call the shots. In this book, Ed presents a world where friendships are forged, endless intrigues unfold, and heroes wage war against the monstrous inhabitants of famous dungeons and untamed wildernesses."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC317290000 - Neverwinter Campaign Setting",
@@ -1414,13 +1490,15 @@
       "Left a desolate ruin after a terrible cataclysm, the city of Neverwinter now rises from the ashes to reclaim its title as the Jewel of the North. Yet even as its citizens return and rebuild, hidden forces pursue their own goals and vendettas - any one of which could tear the city apart. If Neverwinter is to survive, it's up to heroes to face down secret cults, sinister necromancers, would-be kings, and the terrible monsters stirring beneath the city.",
       "This supplement for the DUNGEONS & DRAGONS roleplaying game explores the Neverwinter region, providing details for both players and Dungeon Masters to experience everything the setting has to offer. Players can use this book to enhance their adventurers with exciting options that tie into the setting. They can choose from new character themes, cleric domains and powers, a new type of wizard called the bladesinger, and variants for classic races such as dwarves and elves. For Dungeon Masters, this supplement is a sandbox of adventure and plot options. It gives a Dungeon Master all the tools to build a thrilling campaign that spans the Neverwinter region."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC218287200 - Forgotten Realms Campaign Guide",
@@ -1449,13 +1527,15 @@
       "Welcome to Faerûn, a land of amazing magic, terrifying monsters, ancient ruins, and hidden wonders. The world has changed since the Spellplague, and from this arcane crucible have emerged shining kingdoms, tyrannical empires, mighty heroes, and monster-infested dungeons. The Forgotten Realms Campaign Guide presents a world of untold adventure, a land of a thousand stories shaped by the deeds of adventurers the likes of which Faerûn has never seen before.",
       "This product includes everything a Dungeon Master needs to run a D&D campaign in the Forgotten Realms setting, as well as elements that DMs can incorporate into their own D&D campaigns. The book provides background information on the lands of Faerûn, a fully detailed town in which to start a campaign, adventure seeds, new monsters, ready-to-play nonplayer characters, and a full-colour poster map of Faerûn."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC218587200 - Forgotten Realms Player's Guide",
@@ -1484,13 +1564,15 @@
       "Welcome to Faerûn, a land of amazing magic, terrifying monsters, ancient ruins, and hidden wonders. The world has changed since the Spellplague, and from this arcane crucible have emerged shining kingdoms, tyrannical empires, mighty heroes, and monster-infested dungeons.",
       "The Forgotten Realms Player’s Guide presents this changed world from the point of view of the adventurers exploring it. This product includes everything a player needs to create his character for a D&D campaign in the Forgotten Realms setting, including new feats, new character powers, new paragon paths and epic destinies, and even a brand-new character class never before seen in D&D: the swordmage!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC21764740 - FR1 - Scepter Tower of Spellgard",
@@ -1519,13 +1601,15 @@
       "A mysterious presence has taken up residence in one of the towers of Spellgard, and now its dark minions plague the Gray Vale!",
       "Scepter Tower of Spellgard is the first full-length Forgotten Realms adventure published for 4th Edition D&D. When paired with the adventure that appears in the Forgotten Realms Campaign Guide, this adventure provides the Dungeon Master with all he needs to get his campaign started. This stand-alone adventure is designed to take characters from 2nd level to 5th level."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9484 - The Sword of the Dales",
@@ -1555,13 +1639,15 @@
       "But Elminster is gone, off plane-hopping while the fate of Daggerdale hangs in the balance. Hence, it is up to Lhaeo, scribe to the old mage, to find a group of heroes who have mettle enough to face down the menace which claimed Randal Morn and his hearty followers...",
       "This is the first of three adventures that grant player characters the opportunity to determine the fate of Daggerdale. The saga continues with \"The Secret of Spiderhaunt\" and concludes with \"The Return of Randal Morn.\""
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9485 - The Secret of Spiderhaunt",
@@ -1592,13 +1678,15 @@
       "Only a note signed by his hand held any clue as to his fate. \"Seek me in Spiderhaunt,\" it proclaimed. \"The fate of Daggerdale is in your hands.\"",
       "This is the second part of a trilogy of modules that began with \"The Sword of the Dales.\" The saga concludes with \"The Return of Randal Morn.\""
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9488 - The Return of Randal Morn",
@@ -1627,13 +1715,15 @@
       "In this final episode, the heroes must follow the kidnapper's trail and rescue Randal Morn again before the Zhentarim finish interrogating him and the axe falls upon his neck. Armed with the Sword of the Dales and aided by a powerful spirit that lives within the weapon, the heroes must march into the heart of Zhent-occupied Dagger Falls, free Randal Morn, and save the city from utter destruction. The job is dangerous - perhaps more than the heroes can handle - yet those who would live in songs and legends cannot concern themselves with living to a ripe old age!",
       "This is the final part of a trilogy of modules that began with \"The Sword of the Dales\" and \"The Secret of Spiderhaunt.\""
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9240 - REF5 - Lords of Darkness",
@@ -1663,8 +1753,9 @@
       "Some of gaming's best designers have contributed adventures to this collection, which feature undead of all types and descriptions in all sorts of situations-from skeletons to vampires and worse, from graveyards to haunted houses, and even a few places you may never have expected to find the undead.",
       "These adventures can be used one at a time, inserted into an existing campaign as a change of pace, or they can be a basis for an entirely new campaign. Either way, Lords of Darkness will be sure to give AD&D game players plenty of chills and excitement."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "REF5 - Lords of Darkness",
       "chapters": [
         {"page": 2, "title": "Introduction"},
         {"page": 4, "title": "Tales from Beyond the Grave"},
@@ -1682,6 +1773,7 @@
         {"page": 92, "title": "The Lords of Darkness"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR2142 - PG2 - Player's Guide to the Forgotten Realms",
@@ -1712,13 +1804,15 @@
       "This volume, brimming with the newly rediscovered facts and original fiction, introduces you to the best-selling world of Faer?n, where elves are mysteriously disappearing, and magic is an art gifted by a goddess. No difficult game jargon obscures the wonders before you. Come and explore.",
       "Open this book and discover a forgotten world!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9238 - FRC1 - Ruins of Adventure",
@@ -1746,13 +1840,15 @@
       "A great evil force descended on the town of Phlan years ago. The townspeople were all either killed or driven away, and Phlan became (literally) a ghost town. Fifty years later, the survivors are ready to reclaim their town. But they need a band of strong and brave adventurers to lead the fight-they need you.",
       "Ruins of Adventure is a set of connected short adventures written by James Ward, David \"Zeb\" Cook, Steve Winter and Mike Breault-four names familiar to all AD&D game fans. It uses the same setting, locations and characters as the classic computer game Pool of Radiance by Strategic Simulations, Inc. In fact, many of the scenarios here in Ruins of Adventure will provide important clues to the successful completion of Pool of Radiance."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9239 - FRC2 - Curse of the Azure Bonds",
@@ -1781,13 +1877,15 @@
       "And there is more to these marks than a drunken prank. As you try to find out the source and meaning of your new adornment, you are drawn further and further into danger and mystery. Will you become a pawn in somebody else's power game, or will you fight for your freedom and individuality? ",
       "Curse of the Azure Bonds is an adventure set in the Forgotten Realms game word for the AD&D 2nd Edition game. It is based on the best-selling novel, Azure Bonds, by Jeff Grubb and Kate Novak."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC880990000 - Monsters of Faerun",
@@ -1817,13 +1915,15 @@
       "Monster Compendium: Monsters of Faerûn contains scores of new monsters for use in Dungeons & Dragons adventures. From the aarakocra to the Tyrantfog zombie, these monsters present a whole new range of challenges.",
       "Although usable in any campaign, these monsters are especially suited for the Forgotten Realms setting -- a world of great magic, terrible villains, and high adventure."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC882410000 - Magic of Faerun",
@@ -1850,13 +1950,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1055 - The Horde",
@@ -1884,13 +1986,15 @@
       "Between East and West, between Earth and Sky, lies the Endless Waste. Barren and desolate, this windswept land forms the barrier between the feuding kingdoms of Faerun and the ancient empires of Kara-Tur. The eternal steppe is home only to the hardy, nomadic horsemen who travel its secret paths.",
       "This region, long ignored by its neighbors, is about to erupt in the bloodiest conflict ever to sweep across the Forgotten Realms. Yamun Khahan, Emperor of the Tuigan, has united the barbarian tribes into an unstoppable horde. Already he rules the steppes, from the Cave of a Thousand Gods to the Valley of the Dog-Men. Driven to conquer, Yamun Khahan looks both east and west, and sees a world ripe for the harvest."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9516 - Faiths & Avatars",
@@ -1924,13 +2028,15 @@
       "Color illustrations of priests from every faith in ceremonial dress.",
       "Four additional general priest classes now official to the Forgotten Realms campaign setting: crusaders, monks, mystics, and shamans."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9563 - Powers & Pantheons",
@@ -1958,13 +2064,15 @@
       "The second volume of the series detailing the gods and their avatars of the Realms continues where Faiths & Avatars left off.",
       "It contains information on gods, their followers' religious orders, temple floor plans, and much more. This is essential gaming material for the campaign setting."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9585 - Demihuman Deities",
@@ -2001,13 +2109,15 @@
       "Religion-specific spells for all faiths with priesthoods.",
       "Color illustrations of priests from nearly every faith in ceremonial dress."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9525 - Heroes' Lorebook",
@@ -2037,13 +2147,15 @@
       "Inside you'll find updated game statistics ad descriptions for Elminster, Drizzt Do'Urden, Alias, and many other characters who appeared in the Hall of Heroes collection published in 1989, as well as a host of brand-new biographies for heroes such as Brianna and Tavis Burdun, Alicia Kendrick, Cadderly, and Danica, who have never been featured in a game product until now.",
       "No collection of Forgotten Realms gaming literature is complete without this \"Who's Who\" of the people -- and creatures -- who have prevented the forces of evil form having their way."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9552 - Villains' Lorebook",
@@ -2078,13 +2190,15 @@
       "Halaster Blackcloak, the mad master of Undermountain.",
       "This \"Who's Who\" of the evildoers of the Realms is a valuable addition to any campaign."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC885670000 - Silver Marches",
@@ -2111,13 +2225,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC885740000 - City of the Spider Queen",
@@ -2144,13 +2260,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC885780000 - Races of Faerun",
@@ -2177,13 +2295,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC885810000 - Underdark",
@@ -2210,13 +2330,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC886430000 - Faiths and Pantheons",
@@ -2243,13 +2365,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC886700000 - Lords of Darkness",
@@ -2276,13 +2400,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC886860000 - Forgotten Realms Dungeon Master Screen",
@@ -2309,13 +2435,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC953660000 - Power of Faerun",
@@ -2342,13 +2470,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1170 - Pool of Radiance - Attack on Myth Drannor",
@@ -2378,8 +2508,9 @@
       "Drawn by the dream of limitless magical power, the Cult of the Dragon has carved out a secret stronghold in the heart of the ruins. Using the power of a corrupted pool of radiance, the Cultists stand poised to attain their goal of subjugating all of Faerûn... unless a group of brave heroes can stop them first.",
       "This adventure can be played as a stand-alone or as a tie-in with Pool of Radiance: Ruins of Myth Drannor computer game."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Pool of Radiance - Attack on Myth Drannor",
       "chapters": [
         {"page": 3, "title": "Chapter 1 -  Cultists in Action"},
         {"page": 12, "title": "Chapter 2 - Outer Myth Drannor"},
@@ -2394,6 +2525,7 @@
         {"page": 86, "title": "Appendix 5 - Creature Statistics"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR11634 - Into the Dragon's Lair",
@@ -2420,13 +2552,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC177380000 - Lost Empires of Faerun",
@@ -2457,13 +2591,15 @@
       "16 new feats",
       "29 new monsters"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "WTC178720000 - Champions of Ruin",
@@ -2490,13 +2626,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9267 - FR9 - The Bloodstone Lands",
@@ -2525,13 +2663,15 @@
       "In this sourcebook, the author of the Icewind Dales trilogy explores this frozen region. Presented for players and DMs alike are people, places, and events that shaped the Bloodstone Lands-the political movers and shakers who carved their own brand of civilization from the rocks and ice. In addition to this insider information, there are 10 new adventure scenario suggestions for all levels of play, from beginner to advanced, allowing campaigning in the Bloodstone Lands to continue long after exploring the mines themselves and conquering Orcus.",
       "Prepare then to enter the barbaric kingdoms of Vaasa and Damara-the Bloodstone Lands."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9274 - FR10 - Old Empires",
@@ -2559,13 +2699,15 @@
       "This booklet presents the Old Empires for DMs and players alike. Descriptions of all the major cities and towns, maps of the most important ones, information of the people, places, economics, geography, and cultures of these countries, are within these pages.",
       "Prepare, then, to enter the realms of god-kings and pharaohs, of strange magic unknown even to the likes of the Red Wizards of Thay. These are the Old Empires."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9300 - FR11 - Dwarves Deep",
@@ -2599,13 +2741,15 @@
       "New monsters and notes on dwarven half-breeds and special powers wielded by dwarven High Old Ones,",
       "Special metals and alloys used by the dwarves to hone the blades that slay their enemies, Dwarven beards?and much, much more!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9324 - FR12 - Horde Campaign",
@@ -2634,13 +2778,15 @@
       "BattleSystem rules statistics allow for the complete recreation of each battle fought in this massive campaign. Ten interior maps delineate the terrain and forces involved in each major confrontation.",
       "With this book you, too, can fight from the edges of far eastern Kara-Tur across the steppes into the heartlands of Faerun. Whether you wish to replay the wars in precise detail, or try your own strategies, this is the book that will help you achieve your goal."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9320 - FR13 - Anauroch",
@@ -2670,13 +2816,15 @@
       "So, too, do worse things: fell monsters, famous in adventurers' tales (and listeners' nightmares) across the Realms. Evil crawling magic whose counterspells have been long forgotten, whose death slumbers lightly, ever-ready to awaken and strike down the unwary intruder.",
       "In the pages of this sourcebook, Anauroch comes to life. Its dark, innermost secrets are revealed, and the colorful cultures of the Bedine-and beings far worse-are explored. This guide to the most important \"forgotten\" land of the Forgotten Realms present new rules galore: new spells, new adventures, new monsters-and much, much more."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9351 - FR14 - The Great Glacier",
@@ -2706,13 +2854,15 @@
       "Make sure your characters dress warmly-it gets nippy at night on the Great Glacier.",
       "This accessory is suitable for use by all levels of play."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9373 - FR15 - Gold & Glory",
@@ -2741,13 +2891,15 @@
       "Gold & Glory describes the mercenary companies of the Forgotten Realms Campaign Setting. The famous and the infamous are detailed within: the Flaming Fist, possibly the most powerful private army on Toril; The Mindulgulph Mercenary Company, certainly the most bizarre; the honourable Bushido, the sly Masquerade, the snobbish Order of the Blue Boar, the hard-fighting She-Wolves, and many more. Many of the companies are brought to life in the full-page full colour portraits in this sourcebook.",
       "Gaming information, including statistics for BATTLESYSTEM(tm) Game scenarios, is offered as well. Player characters can adventure with these mercenary corps, earning gold and glory for themselves!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9388 - FR16 - The Shining South",
@@ -2777,13 +2929,15 @@
       "This sourcebook contains the necessary gaming information for a Forgotten Realms campaign to expand into the countries collectively know as the Shining South.",
       "This accessory is suitable for use by all levels of play."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9333 - FMA1 - Fires of Zatal",
@@ -2814,13 +2968,15 @@
       "Fires of Zatal spans the great continent of Maztica from the new colony of Helmsport to the Valley of Nexal, at the foot of Mt. Zatal itself. It is the first adventure for the new Maztica campaign setting in the Realms; DMs wishing to run this need the Maztica Campaign Boxed Set. This module serves as an introduction to this new world of adventure, a land of wise and savage empires and growing, monstrous threats.",
       "Welcome to Maztica. This is not the Realms you're familiar with!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9340 - FMA2 - Endless Armies",
@@ -2851,13 +3007,15 @@
       "A cleric of the church of Helm has disappeared. A piece of a map to the lost city of Ixtul has been found. Great armies of ants perform deadly assassinations. And in the jungle, a new leader has appeared, promising power to those who follow her into the forbidden vale.",
       "Now the heroes must follow as well, to uncloak the mystery and prevent the unleashing of a deadly force on the surface world of Maztica, a force that threatens both people of Payit and the newcomers' civilization in Helmsport. Should the heroes fail to defeat the endless armies of their foe, all in Maztica will perish!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9349 - FMQ1 - City of Gold",
@@ -2887,13 +3045,15 @@
       "The adventure itself leads your party from the known areas of the True World into the northlands, through the lands of the desert dwarves, the Poscadar elves, the Dog People, and others. Your characters will deal with desert hardships they have never endured before. They will also confront spirits they've never heard of; the spirits that have caused the downfall of Michaca, the City of Gold.",
       "And do not forget the words of a poet of another place, and another time: \"Nor all that tempts your wand'ring eyes / And heedless hearts, is lawful prize; / Nor all, that glisters, gold.\""
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9444 - Marco Volo Departure",
@@ -2925,13 +3085,15 @@
       "A series of adventures ensues that takes the adventurers from Waterdeep to the Way Inn, by which time they will doubtless suspect there is more to Marco Volo than meets the eye. Amid the brawls and mistaken identities, the wild rides and the glowering villains, the characters never have a chance to slow down or catch their collective breath. What results is a light-hearted, picaresque adventure in the manner ofDumas and Sabatini, and a good time is had by all!",
       "(Except the bad guys, of course. They're never happy with how things are turning out...)"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9450 - Marco Volo Journey",
@@ -2963,13 +3125,15 @@
       "The adventure ends with Shadowdale in sight not to be reached, however, without a final confrontation with the notorious mage-assassin Felibarr Blacklance.",
       "This volume of the Marco Volo trilogy offers DMs the opportunity to run unusual encounters, and it calls for considerable role playing from all. Player characters cannot easily rely on their swords and spells to get them out of the brawls and misunderstandings that arise. What results is a dramatic but picaresque enterprise as the adventure continues!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9455 - Marco Volo Arrival",
@@ -2998,13 +3162,15 @@
       "Now the party approaches the Spiderhaunts, and Marcus insists on diverting the group to retrive the Eye. But strangethings have been happening there. There are rumors of an oddly constructed keep of bone (or is it crystal?): of a warlord out for conquest (or is it a lich?); of goblin tribes strangely clad, an extra-planar beings banding with the giant spiders of the aptly named Spiderhaunt Woods. Something evil has denned at the heart of the forest. It has a mind of its own...and it has plans for Faerun.",
       "The last volume of the Marco Volo trilogy gives a DM tools to run this free-wheeling, fast-paced adventure, and the secrets of the powers at work behind the scenes. The player characters must face - and deal with - the mad wizard Sabbar, the annoyed Volothamp Geddarm (who wants to have \"a little chat\" with Marcus!), and ultimately the Dragonking's Eye itself. Even the gods themselves step in to have their say. In a dramatic denouement, this epic adventure draws to a close, but the memory of what transpired will live on!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9410 - Cormyr",
@@ -3031,13 +3197,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1111 - Elminster's Ecologies",
@@ -3080,13 +3248,15 @@
       "Provides color-coded encounter tables for the eight other booklets along with instructions for their use.",
       "Would-be travelers are advised to read well the information presented by the Sage of Shadowdale and his eight compatriots, and to memorize the Rules of the Rabbit. There are only three: A rabbit isn't always a rabbit. A rabbit doesn't want to be rich. A rabbit doesn't always stay put. An explanation? You'll find it in the Explorer's Manual. Read on, thou hearty adventurer!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9489 - Elminster's Ecologies Appendix I - The Battle of Bones and Hill of Lost Souls",
@@ -3122,13 +3292,15 @@
       "a complete set of encounter charts",
       "These materials follow the same format as the original Elminster's Ecologies boxed set and mesh with it perfectly. Elminster himself has even thrown in a few personal notes. So read on, traveler, and learn all the secrets of these mysterious locales!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9490 - Elminster's Ecologies Appendix II - The High Moor & The Serpent Hills",
@@ -3163,13 +3335,15 @@
       "a brief booklet of tables to aid the Dungeon Master in determining random encounters for adventurers whose travels take them through these areas.",
       "Those planning to explore these regions would be well advised to read the works herein to prepare themselves for the reptilian dangers of the Serpent Hills and the hazards of the High Moor - from the beasts to its protective druid herself!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9544 - Castle Spulzeer",
@@ -3196,13 +3370,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9531 - Four From Cormyr",
@@ -3229,13 +3405,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9574 - For Duty & Deity",
@@ -3264,13 +3442,15 @@
       "The leader of Waukeen's church believes that these visions mean Waukeen is alive but trapped in the deadly and dangerous Abyss. A party of adventurers is dedicated to peeling back the mystery of the Golden Lady's fate. Their route takes them to the plane-spanning Infinite Staircase and beyond, to the Abyss, the home of the demonic tanar'ri. The heroes must brave the dangers of the Abyss and rescue the lost goddess from the clutches of one of the most brilliant and dangerous of all Abyssal lords.",
       "This stand-alone adventure was developed in concert with the Planescape adventure anthology Tales from the Infinite Staircase. They can be played separately. However, guidelines within both allow a Dungeon Master to use either product as a subplot for the other, creating new opportunities for player characters and extending the opportunity for adventure."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11337 - The Accursed Tower",
@@ -3297,13 +3477,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR11622 - The Dungeon of Death",
@@ -3333,13 +3515,15 @@
       "A deadly dungeon crawl set in the heart of one of the most dangerous and mysterious locales in the Forgotten Realms setting, this stand-alone adventure easily fits within an existing Forgotten Realms campaign, and it can also be incorporated into any other AD&D campaign world with minor modifications. The adventure is for mid-level (5th-9th) characters, which are in high demand by loyal D&D players.",
       "For the first time, D&D players will have access to one of the most mysterious locales from the 1st ed. Forgotten Realms campaign setting. The Dungeon of Death features an elaborate array of tricks, traps, and monsters sure to challenge any party."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9281 - FRA1 - Storm Riders",
@@ -3370,13 +3554,15 @@
       "But when invaders threaten the Hidden Kingdom, the PC's are given a chance to earn their liberty. They are charged with escorting a spoiled princess and her dowry, a ferocious black stallion, to a nearby kingdom as a bribe to stop a war. Nothing stands in their way except 40,000 bloodthirsty riders and a vengeful purple dragon.",
       "Storm Riders is the first adventure in the Empires Adventures Trilogy, and the first adventure taking place in the new Forgotten Realms campaign world territories described in The Horde campaign set. The Empires Adventures Trilogy is also set amidst the turbulent events portrayed in the Empires Novel Trilogy. Look for the Sequels, The Black Courser and Blood Charge"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9290 - FRA2 - Black Courser",
@@ -3406,13 +3592,15 @@
       "Only your PCs can discover the awful truth. When they do, their journey will take them to the farthest reaches of Shou Lung. Providing they can escape the diabolic assassin sent to stop them, they will find the lost city of Kuo Meilan. There they must penetrate to the lost city's wicked heart and find the Stone Sceptre of Shih. Only armed with this artifact, and the secret connecting it to Ambuchar Devayam, can they hope to save Ra-Khati - or themselves!",
       "The Black Courser is the second adventure in the Empires Adventures Trilogy, taking place in the new Forgotten Realms campaign world territories described in The Horde campaign set. The Empires Adventures Trilogy is also set amidst the turbulent events portrayed in the Empires Novel Trilogy. This module can be played as a separate, stand-alone module or as a follow-up to Storm Riders."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9304 - FRA3 - Blood Charge",
@@ -3441,13 +3629,15 @@
       "If Ra-Khati is to be saved and the player characters are to escape the raja's curse, Ambuchar Devayam must be stopped. But how? The player characters' search for a solution will embroil them in Tulgan politics, lure them to the Red Mountain Monastery's forbidden halls, and lead them into ancient Solon itself, where Ambuchar's slaves - both living and undead - toil to make him even more dangerous.",
       "Blood Charge is the third adventure in the Empires Adventure Trilogy, taking place in The Forgotten Realms campaign world territories described in The Horde campaign set. The Empires Adventures Trilogy is set amidst the turbulent events portrayed in the Empires Novel Trilogy. This adventure is designed for four to eight player characters of levels 7-10."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9538 - Undermountain Stardock",
@@ -3477,13 +3667,15 @@
       "This DUNGEON CRAWL adventure returns once more the the hallowed halls of Undermountain, but it's a different day. At dawn of Highharvestide 1369, every practitioner of magic on the Sword Coast knew there was a problem. By midmorning, the Lords of Waterdeep confirmed the ill omens: Some brave souls worthy of the title \"Hero\" must enter Undermountain on a mission to save Halaster Blackcloak! Could these heroes be your group of player characters?",
       "This is a stand-alone module and does not require extra support materials. It can be placed into a campaign on any AD&D world, but best fits and impacts a FORGOTTEN REALMS campaign set in Undermountain or Waterdeep."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9562 - Hellgate Keep",
@@ -3513,13 +3705,15 @@
       "Preare to meet a new race of creatures spawned both of Faerun and the Lower Planes. Uncover the corruption of an elven house that was ancient before Myth Drannor ever rose. Find out what survived the havoc visited upon the Keep, and who or what leads the survivors to a new lair. All this and more awaits amid the depths of ruined Hellgate Keep!",
       "This stand-alone 32-page adventure is set within the northern wilderness of the Realms. It easily fits within an existing Forgotten Realms campaign, though it can be incorporated into any other AD&D campaign world with minor modifications."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9519 - Undermountain The Lost Level",
@@ -3548,13 +3742,15 @@
       "Enjoy, and don't say Khelben didn't warn thee.",
       "This DUNGEON CRAWL adventure includes 32 pages of combat and roleplaying, hearkening back to classic AD&D dungeons of old. This is a stand-alone module and does not require additional support materials. It can easily be inserted into a campaign on any world, but best fits an Undermountain or Waterdeep campaign within the Realms."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9528 - Undermountain Maddgoth's Castle",
@@ -3585,13 +3781,15 @@
       "-Mirt the Moneylender",
       "This Dungeon Crawl adventure returns once again to the hallowed halls of Undermountain and into an adventure like those AD&D game archetypes of years past. This is a stand-alone module and does not require extra support materials. It can be placed easily into a campaign on any AD&D world, but best fits a Forgotten Realms campaign set in Undermountain or Waterdeep."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9247 - FRE1 - Shadowdale",
@@ -3621,13 +3819,112 @@
       "When a band of adventurers are hired by a young apprentice to rescue her sorceress-mentor, little do they realize the size of the stakes they will soon be playing for. Caught up in a power struggle that will determine the fate of the Realms themselves, the first step is to find the only mortal who may know what's going on-the legendary sage Elminster. And that means going to Shadowdale.",
       "Shadowdale is the first of a three-part series of modules for the Advanced Dungeons & Dragons 2nd Edition roleplaying game. Set in the popular Forgotten Realms game world, this module features the same settings and many of the same characters of the first novel of the Avatar Trilogy, Shadowdale, by Richard Awlinson. This AD&D 2nd Edition adventure is for four to six characters of levels 5-8"
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "TSR9248 - FRE2 - Tantras",
+    "BookShortName": "FRE2 - Tantras",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9248",
+    "BookISBN": "0-88038-739-4",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Avatar Series",
+    "BookCharacterLevel": "Levels 6 - 9",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9248 - FRE2 - Tantras.pdf"
+    ],
+    "BookDescription": [
+      "<b>Elminster has been murdered.</b>",
+      "And to make matters worse, the player characters who helped to save Shadowdale from the armies of Zhentil Keep in Shadowdale have been sentenced to death for killing the old sage. They're innocent, of course, but in this time of troubles in the Realms, truth and justice are not always served. Imprisoned in the Tower of Ashaba, the heroes must escape if they are to survive.",
+      "Later, when the heroes start their quest for the first of the mysterious Tablets of Fate—mighty artifacts stolen from the overlord of the gods himself—they come up against an even greater peril: Bane, the God of Strife, and his ally, the God of Death, have set in motion a plot to capture the heroes and their companions. They must face deadly assassins, nightmarish monsters, and violent storms on their way across the Dalelands. And the worst threat of all is an unexpected one; the man who helped the heroes earlier has now joined the side of Bane and the forces of Zhentil Keep.",
+      "\"Tantras\" is the second of a three-part series of adventures for the Advanced Dungeons & Dragons 2nd Edition roleplaying game, but it can also stand alone. Set in the popular Forgotten Realms game world, this adventure is loosely based on Richard Awlinsons's Tantras, the second novel in the Avatar Trilogy.",
+      "This adventure is designed for four to six player characters of levels 6-9."
+    ],
+    "TableOfContents": [
+      {
+      "title": "FRE2 - Tantras",
       "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
+        {"page": 2, "title": "Prologue"},
+        {"page": 4, "title": "Chapter 1 - Trial and Flight"},
+        {"page": 8, "title": "Chapter 2 - Haste, Blood, and Moonlight"},
+        {"page": 14, "title": "Chapter 3 - The Hand of Bane"},
+        {"page": 19, "title": "Chapter 4 - A Stormy Time in Scardale"},
+        {"page": 25, "title": "Chapter 5 - Gods and Assassins"},
+        {"page": 33, "title": "Chapter 6 - To Be Heroes"},
+        {"page": 40, "title": "Non-Player Characters"},
+        {"page": 42, "title": "Avatars of the Gods"},
+        {"page": 45, "title": "New Magical Items"},
+        {"page": 47, "title": "New Monster"},
+        {"page": 48, "title": "Map of Shadowdale"}
         ]    
     }
+  ]
+  },
+  {
+    "BookName": "TSR9249 - FRE3 - Waterdeep",
+    "BookShortName": "FRE3 - Waterdeep",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9249",
+    "BookISBN": "0-88038-757-2",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Avatar Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9249 - FRE3 - Waterdeep.pdf"
+    ],
+    "BookDescription": [
+      "<b>Who will be the new gods?</b>",
+      "The God of Strife is dead, destroyed in his attack on Tantras, and Midnight and the player characters have recovered the first Tablet of Fate-one of a pair of mysterious artifacts that will return the gods to their former glory and save the Realms from the fallen deities' wrath.",
+      "But the quest isn't over! To find the other Tablet of Fate, your heroes must travel across Faerun to Waterdeep, the City of Splendors. But both Midnight's former ally, Cyric, and Myrkul, the Lord of the Dead, want the tablets for their own dark ends, and they will stop at nothing to capture Midnight-even if it means the destruction of the Realms!",
+      "Waterdeep is the third of a three-part series of adventures for the Advanced Dungeons & Dragons 2nd Edition roleplaying game, but it can also stand alone. Set in the popular Forgotten Realms game world, this adventure is loosely based on Richard Awlinson's Waterdeep, the third novel in the Avatar Trilogy. This adventure is designed for four to six player characters of levels 6-9."
+    ],
+    "TableOfContents": [
+      {
+      "title": "FRE3 - Waterdeep",
+      "chapters": [
+        {"page": 2, "title": "Prologue"},
+        {"page": 5, "title": "Chapter 1 - Cold Welcome in Cormyr"},
+        {"page": 14, "title": "Chapter 2 - Danger, Danger Everywhere"},
+        {"page": 20, "title": "Chapter 3 - Magic And Murder"},
+        {"page": 27, "title": "Chapter 4 - Darkness and Death"},
+        {"page": 31, "title": "Chapter 5 - Interesting Times"},
+        {"page": 36, "title": "Chapter 6 - To Save the Realms!"},
+        {"page": 42, "title": "Non-Player Characters"},
+        {"page": 43, "title": "Avatars of the Gods"},
+        {"page": 46, "title": "New Magical Items"},
+        {"page": 47, "title": "New Monster - Denizen"},
+        {"page": 48, "title": "New Monster - Night Rider"}
+        ]    
+    }
+  ]
   },
   {
     "BookName": "TSR2106 - Forgotten Realms Adventures",
@@ -3655,13 +3952,15 @@
       "The coming of the Avatars and the Time of Troubles caused tremendous changes in the Forgotten Realms. Areas of dead magic and wild magic have appeared; character classes have been altered; new magical spells have been discovered; old gods have been slain and new ones arisen. All the changes and updates are incorporated into this one essential volume for Forgotten Realms players and dungeon masters alike.",
       "Get new information on specialty priests, currency, new weapons, and treasure. Take a detailed tour of the major cities of the heartland, from the Sword Coast to the Dragon Reach, including the Moonsea, the Dalelands, Cormyr, and Sembia. The most popular and intriguing fantasy world ever published gets even better with this fantastic supplement."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1085 - Forgotten Realms Campaign Setting, Revised Edition",
@@ -3697,13 +3996,15 @@
       "4 all-new four-color maps, two of eastern and western Faerûn, and two smaller-scale, detailed maps of the heartlands of the Realms.",
       "The revised FORGOTTEN REALMS Campaign Setting is both a perfect introduction and a concise restructuring of the earlier boxed set, not to be missed by either long-time fans or newcomers to the grandest campaign setting of all!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9465 - Book of Lairs",
@@ -3730,13 +4031,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9474 - The Moonsea",
@@ -3763,13 +4066,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9545 - Prayers From the Faithful",
@@ -3804,12 +4109,14 @@
       "And much more! Prayers From the Faithful is an essential guide to the magic of priests in the Forgotten Realms campaign world, and a useful aid to those portraying priests in any AD&D campaign.",
       "Suitable for all levels of play."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }
 ]

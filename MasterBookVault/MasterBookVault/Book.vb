@@ -21,17 +21,16 @@
     Public Property BookPDF As List(Of String)
     Public Property BookDescription As String()
 
-    Public Property TableOfContents As TableOfContents
-
-    ' Add any additional properties as necessary
+    Public Property TableOfContents As List(Of TOCSection)
 End Class
 
+Public Class TOCSection
+    Public Property Title As String
+    Public Property Chapters As List(Of Chapter)
+End Class
+
+' Chapter class remains the same
 Public Class Chapter
     Public Property Page As Integer
     Public Property Title As String
-End Class
-
-Public Class TableOfContents
-    Public Property Title As String
-    Public Property Chapters As List(Of Chapter)
 End Class

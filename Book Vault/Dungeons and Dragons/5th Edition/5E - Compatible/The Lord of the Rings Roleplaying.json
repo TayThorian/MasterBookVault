@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "The Lord of the Rings Roleplaying - Core Rulebook",
+    "BookName": "FLFLTR001 - The Lord of the Rings Roleplaying - Core Rulebook",
+    "BookShortName": "The Lord of the Rings Roleplaying - Core Rulebook",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFLTR001",
     "BookISBN": "978-91-89143-77-7",
@@ -16,23 +17,26 @@
     "BookType": "RuleBook",
     "BookFormat": "Hardback",
     "BookSeries": "Corebooks",
+    "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\5E - Compatible\\The Lord of the Rings Roleplaying\\FLFLTR001 - The Lord of the Rings Roleplaying - Core Rulebook.pdf"
     ],
     "BookDescription": [
       "Return to Middle-earth with The Lord of the Rings™ Roleplaying, a brand new adaptation of the works of J.R.R. Tolkien using the rules for 5E. Based on the second edition of The One Ring™ roleplaying game by Francesco Nepitello, The Lord of the Rings™ Roleplaying contains everything you need to create exciting adventures set in the world’s most popular fantasy setting - six original heroic cultures from the land of Eriador, six new classes, a host of terrifying adversaries, and comprehensive rules for journeys, councils, wondrous artefacts, and the subtle magic of Middle-earth."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    },
-    "BookCharacterLevel": ""
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
-    "BookName": "The Lord of the Rings Roleplaying - Shire Adventure",
+    "BookName": "FLFLTR002 - The Lord of the Rings Roleplaying - Shire Adventure",
+    "BookShortName": "The Lord of the Rings Roleplaying - Shire Adventure",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFLTR002",
     "BookISBN": "978-91-89143-78-4",
@@ -48,6 +52,7 @@
     "BookType": "Supplement",
     "BookFormat": "Hardback",
     "BookSeries": "Corebooks",
+    "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\5E - Compatible\\The Lord of the Rings Roleplaying\\FLFLTR002 - The Lord of the Rings Roleplaying - Shire Adventures.pdf"
     ],
@@ -55,17 +60,19 @@
       "A strange invitation from Bilbo Baggins, mentioning that he’s in need of help. Most odd! But then again, a great many things about that particular Hobbit have been odd ever since that business with the Dragon. Nothing wrong with taking a stroll and helping old Bilbo out I suppose. After all, it's not like there's any real dangers to worry about here in the Shire...",
       "Shire™ Adventures is a 104-page volume for The Lord of the Rings™ Roleplaying that describes the Shire in great detail, as well as five short adventures and seven pre-generated characters, including famous Bagginses, Tooks, and Brandybucks! The contents of Shire™ Adventures are adapted from the Starter Set for The One Ring™ RPG."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    },
-    "BookCharacterLevel": ""
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
-    "BookName": "Tales From Eriador",
+    "BookName": "FLFLTR005 - Tales From Eriador",
+    "BookShortName": "Tales From Eriador",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFLTR005",
     "BookISBN": "978-91-89765-17-7",
@@ -81,6 +88,7 @@
     "BookType": "Supplement",
     "BookFormat": "Hardback",
     "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\5E - Compatible\\The Lord of the Rings Roleplaying\\FLFLTR005 - Tales From Eriador.pdf"
     ],
@@ -93,17 +101,19 @@
       "Finally, The Quest of Amon Guruthos challenges the heroes to battle an ancient evil.",
       "All adventures assume that the time frame is the same as the one in The One Ring™ — the years around 2965."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    },
-    "BookCharacterLevel": ""
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }  ,
   {
-    "BookName": "Ruins of Eriador",
+    "BookName": "FLFLTR004 - Ruins of Eriador",
+    "BookShortName": "Ruins of Eriador",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFLTR004",
     "BookISBN": "978-91-89765-16-0",
@@ -119,6 +129,7 @@
     "BookType": "Supplement",
     "BookFormat": "Hardback",
     "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\5E - Compatible\\The Lord of the Rings Roleplaying\\FLFLTR004 - Ruins of Eriador.pdf"
     ],
@@ -129,13 +140,14 @@
       "Chapter 2: A Gathering Storm provides the Loremaster with a set of narrative elements aimed at building a possible future for the land of Eriador as a whole, including the description of many looming threats, Loremaster characters and their agendas.",
       "Chapter 3: Landmarks adds twelve sites of interest in the style of the one presented in the core volume. These locations depict both ‘historical’ sites mentioned in The Lord of the Rings™ or The Hobbit™, and others that have been created specifically for the game."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    },
-    "BookCharacterLevel": ""
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } 
 ]

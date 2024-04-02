@@ -24,13 +24,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR1011 - Basic Set",
@@ -57,8 +59,9 @@
     "BookDescription": [
       "This is the 1981 edition of the D&D Basic Rulebook, which was sold as part of the boxed D&D Basic Set and also on its own. It was the first true standalone edition of what became \"Basic D&D\" as previous editions had instead been based on OD&D play."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Basic Set",
       "chapters": [
         {"page": 3, "title": "Part 1 - Introduction"},
         {"page": 5, "title": "Part 2 - Player Character Information"},
@@ -71,6 +74,7 @@
         {"page": 63, "title": "Glossary"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR1012 - Expert Set",
@@ -97,8 +101,9 @@
     "BookDescription": [
       "This is the 1981 edition of the D&D Expert Rulebook by Dave Cook, which was sold as a counterpart to the Moldvay D&D Basic Set."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Expert Set",
       "chapters": [
         {"page": 2, "title": "Part 1 - Introduction"},
         {"page": 5, "title": "Part 2 - Player Character Information"},
@@ -111,7 +116,8 @@
         {"page": 63, "title": "Part9 - Special Adventures"}
         ]    
     }
-  } ,
+  ]
+  },
   {
     "BookName": "TSR1011 - Set 1 - Basic Rules",
     "BookShortName": "Set 1 - Basic Rules",
@@ -138,13 +144,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR1012 - Set 2 - Expert Rules",
@@ -171,13 +179,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR1013 - Set 3 - Companion Rules",
@@ -209,13 +219,15 @@
       "Your adventures will be different than ever before. Lower level characters must keep busy surviving and learning; but when you find the challenges lacking, or treasure too easily found, you may start to wonder? \"Is there anything more?\"",
       "There certainly is! Games for higher level characters are often different? as new as when the characters first braved the unknown wilderness."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR1021 - Set 4 - Master Set",
@@ -243,13 +255,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR1017 - Set 5 - Immortals Rules",
@@ -277,13 +291,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR1071 - Rules Cyclopedia",
@@ -316,8 +332,9 @@
       "An overview of the Known World and the HOLLOW WORLD game setting, the official D&D campaign world; and Rules to convert D&D games and characters into AD&D 2nd edition game statistics and back again",
       "Fully compatible with the new DUNGEONS & DRAGONS Boxed Set, this volume allows players the full scope of fantasy role-playing from dungeons to the Outer Planes. Now, more than ever, the DUNGEON & DRAGONS game is ready and waiting for you."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "Rules Cyclopedia",
       "chapters": [
         {"page": 5, "title": "Introduction"},
         {"page": 6, "title": "Chapter 1 - Steps in Character Creation"},
@@ -345,6 +362,7 @@
         {"page": 300, "title": "Appendix 4 - Indices"}
         ]    
     }
+  ]
   } ,
   {
     "BookName": "TSR9438 - DMR2 - Creature Catalog",
@@ -376,13 +394,15 @@
       "contains an updated D&D creature index; and",
       "features new wilderness encounter tables."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9437 - DMR1 - Dungeon Master’s Screen",
@@ -409,13 +429,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9023 - B1 - In Search of the Unknown",
@@ -444,13 +466,15 @@
       "Module B1: \"In Search of the Unknown,\" forms a complete adventure for use with Dungeons & Dragons Basic Set. It is especially designed as an instructional aid for beginning Dungeon Masters and players, specifically created to enable new Dungeon Masters to initiate play with a minimum of preparation.",
       "In addition to descriptive and situational material, this module also includes special informational sections giving background history and legends; listings of possible monsters and treasures, and how to place them; a list of adventuring characters; tips on various aspects of play for the Dungeon Master; and helpful advice for starting players."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9034 - B2 - Keep on the Borderlands",
@@ -478,13 +502,15 @@
       "This module includes a cover folder with maps and a complete description booklet to form a ready-made scenario for DUNGEONS & DRAGONS® Basic Set. It has been specially designed for use by beginning Dungeon Masters so that they may begin play with a minimum of preparations.",
       "Within are many features to aid novice players and Dungeon Masters: legends, history and background information, a list of adventuring characters, tips on how to be an effective Dungeon Master, plus an interesting area for characters to base themselves in (the Keep) before setting out to explore the Caves of Chaos!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9044 - B3 - Palace of the Silver Princess",
@@ -513,13 +539,15 @@
       "Not long ago, the valley was green and animals ran free through golden fields of grain. The Princess Argenta ruled over this peaceful land and the people were secure and happy. Then one day, a warrior riding a white dragon appeared in the skies over the castle, and almost overnight the tiny kingdom fell into ruin. Now only ruins and rumors remain, and what legends there are tell of a fabulous treasure still buried somewhere within the Palace of the Silver Princess.",
       "This module is for use with the D&D Basic Set and is specifically designed for beginning players and DMs. Contained within are maps of the palace and its dungeons, background information, new monsters and a special preliminary adventure for novice DMs and players alike."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9049 - B4 - The Lost City",
@@ -547,13 +575,15 @@
       "Lost in the desert! The only hope for survival lies in a ruined city rising out of the sands. Food, water, and wealth await heroic adventures inside and ancient pyramid ruled by a strange race of masked beings.",
       "This module includes a cover folder with maps, and a descriptive booklet with a ready-made adventure for the Dungeons & Dragons Basic game. It also includes enough information to continue the adventure beyond level 3, using the Dungeons & Dragons Expert game rules."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9078 - B5 - Horror on the Hill",
@@ -583,13 +613,15 @@
       "This adventure is designed for use with the D&D Basic Rules. A trip through the wilderness begins a unique challenge for the novice player and Dungeon Master.",
       "Included in the module are 11 maps, 3 new monsters, and a complete set of pre-rolled characters."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9086 - B6 - The Veiled Society",
@@ -621,13 +653,15 @@
       "Who is the woman? Why will her death trigger riots and unrest in the city of Specularum? And the assassins: Are they Torenescu, Radu, or Vorloi? Or, curse of curses, the Veiled Society?",
       "This special game adventure provides a section of buildings and figures to cut out and use, giving you three dimensions to your game play!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }  ,
   {
     "BookName": "TSR9115 - B7 - Rahasia",
@@ -657,13 +691,15 @@
       "A scowl crosses the Rahib's face. \"I must have Rahasia! Attack again tonight.\" As the servant scurries away, a deep growl rises from the giant cat.",
       "Gripping the panther's leash, the Rahib paces again, speaking out loud. \"We must dispose of these strangers quickly; the secret beneath the temple will not wait much longer.\""
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9106 - B8 - Journey to the Rock",
@@ -691,13 +727,15 @@
       "To a wizard, knowledge is power, and the wizard Lirdrium Arkayz wants to know the mysterious secret of The Rock. Many have tried to discover it?but The Rock keeps its secret well. The wizard offers a rich reward to anyone bold enough to solve this dark mystery.",
       "But the road to The Rock leads to danger and hidden peril? dangers that have claimed the lives of many brave adventurers. Rashness and folly will lead to quick death, but riches await the clever and the brave. Have you the wits, courage, and skill to survive the Journey to The Rock?"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9143 - B9 - Castle Caldwell and Beyond",
@@ -729,13 +767,15 @@
       "The Great Escape--Imprisoned in an enemy fortress, without armor or weapons, your situation seems hopeless. Yet there may be a way to freedom . . .",
       "The Sanctuary of Elwyn the Ardent--A mystical chime of great power has been stolen?but by whom? In the wrong hands, the chime can cause untold harm! But can you find and defeat this mysterious and powerful creature?"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9149 - B10 - Night's Dark Terror",
@@ -765,13 +805,15 @@
       "This campaign adventure is for characters just beginning Expert play (levels 2-4) and hurls them into the exciting outdoor world which awaits in the Expert rulebook.",
       "With a 64-page booklet, 2 double-panel covers, and complete scans of the original double-sided mapsheet, this super-module provides all you need for epic wilderness and dungeon adventuring. Journey across the Grand Duchy of Karameikos in a desperate race against time and the forces of evil."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9260 - B11 - King's Festival",
@@ -799,13 +841,15 @@
       "Someone has \"borrowed\" a cleric, and without him, the fabled King's Festival cannot go on. Unfortunately, it looks like the orcs have him, and your characters must rescue him.",
       "A great learning adventure, King's Festival provides players and DMs with a valuable introduction to fantasy role-playing in the land of Karameikos. Full of helpful hints for the players and the DM, this module also provides a full dose of excitement! Orcs, carrion crawlers, and villains challenge the characters' fighting skills, and a host of traps and puzzles confound their wits!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9261 - B12 - Queen's Harvest",
@@ -833,13 +877,15 @@
       "The wizard Kavorquian is dead. But certain items belonging to his adopted son were in the wizard's keeping at the time of his demise. Now someone must venture into the silent vaults of Karvorquian's stronghold and recover the missing property.",
       "\"Queen's Harvest\" picks up its story where B11: \"King's Festival,\" left off. It can be played as a sequel to that adventure or as a complete adventure in itself. It is tailored for beginning Dungeon Masters and players and contains helpful hints on adventuring and the land of Karameikos. The story develops simply, but ultimately leads the player characters into the nether reaches of Penhaligon's politics to confront Ilyana Penhaligon, mad pretender to the throne!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   }  ,
   {
     "BookName": "TSR9190 - B1-9 - In Search of Adventure",
@@ -867,13 +913,15 @@
       "Threshold. The northernmost town in the Duchy? and your last stop before your adventures begin. Threshold, the gateway to mysterious castles, lost temples, deadly caves and caverns. You have heard the stories and legends now you wish to see for yourself.",
       "This product provides a complete campaign adventure that will take beginning characters from 1st all the way to 3rd level and possibly beyond, drawn from the first nine modules of the B-series adventures."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   } ,
   {
     "BookName": "TSR9097 - BSOLO - Ghost of Lion Castle",
@@ -904,13 +952,15 @@
       "\"Magical riches await those who enter!\" \"Beware of man-beasts!\" Voices flood your head again. Will you brave the haunted castle? Can you afford not to? It is all up to you in the D&D Solo Adventure.",
       "Ghost of Lions Castle is for one player only, but that one player makes all of the choices and enjoys all of the rewards. An entire castle and courtyard await your exploration. The adventure also includes a complete solo combat system."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": ""},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9100 - AC1 - The Shady Dragon Inn",
@@ -939,8 +989,9 @@
       "Each character has a brief biography that will help you to create backgrounds for PCs or NPCs as needed. Also included is a rough physical description, and a list of items owned by each character.",
       "The Shady Dragon Inn also contains the D&D statistics for those special characters who are presented by figures in the D&D and AD&D toy line, and provides a tavern setting from which players may start adventures or gather party members."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "AC1 - The Shady Dragon Inn",
       "chapters": [
         {"page": 2, "title": "How to Use this Player's Aid"},
         {"page": 3, "title": "Fighters"},
@@ -954,6 +1005,7 @@
         {"page": 29, "title": "Shady Dragon Inn - Parties"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR9099 - AC2 - Combat Shield and Mini-adventure",
@@ -980,13 +1032,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9211 - AC10 - Bestiary of Dragons and Giants",
@@ -1013,13 +1067,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9220 - AC11 - The Book of Wondrous Inventions",
@@ -1048,13 +1104,15 @@
       "The Book of Wondrous Inventions is useable with both the D&D and the AD&D game systems. Each invention is clearly outlined, including function, form, and hazards of use. Statistics and spell details are presented in a manner compatible with both game systems. Adventure scenario suggestions are given, as well as design instructions for characters who wish to build a duplicate device.",
       "As an added bonus, a section is included which details a system for creating spells and magical items. This will prove especially useful to players and DMs who use the D&D game system; the detailed information is also of help to AD&D game players."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9050 - O1 - The Gem and the Staff",
@@ -1081,13 +1139,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9108 - O2 - Blade of Vengeance",
@@ -1114,13 +1174,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9117 - CM1 - Test of the Warlords",
@@ -1147,13 +1209,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9118 - CM2 - Death's Ride",
@@ -1180,13 +1244,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9119 - CM3 - Sabre River",
@@ -1213,13 +1279,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9128 - CM4 - Earthshaker",
@@ -1246,13 +1314,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9154 - CM5 - Mystery of the Snow Pearls",
@@ -1279,13 +1349,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9158 - CM6 - Where Chaos Reigns",
@@ -1312,13 +1384,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9166 - CM7 - The Tree of Life",
@@ -1345,13 +1419,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9192 - CM8 - The Endless Stair",
@@ -1378,13 +1454,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9210 - CM9 - Legacy of Blood",
@@ -1411,13 +1489,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "GAZ13 - The Shadow Elves",
@@ -1444,13 +1524,15 @@
     "BookDescription": [
       "Dark is the underworld. Darker are the lands of the Shadow Elves. Far underneath the rugged broken lands, even deeper than the deepest caverns of the trolls, live these pale faced warriors. Their law is that of their Immortal Rafiel, and their mystical strength that of their Soul Crystals. Together, they will guide the people of the shadows to the lands under the sun."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9173 - AC9 - Creature Catalogue",
@@ -1479,8 +1561,9 @@
       "The Creature Catalogue is the first major expansion to the range of D&D game monsters. Within its covers have been collected all the curious creatures first presented in the official D&D adventure modules, plus many more new nasties, designed to challenge and perplex the heartiest heroes. Also included is a comprehensive index of all D&D monsters found in the Basic, Expert, Companion, and Master rule sets.",
       "Whether your players' characters are 1st, 21st, or 31st level, this tome contains many fantastic creatures with which to test their mettle. Armed with the Creature Catalogue, you will be able to find the right fearsome foe to confront even the most foolhardy fellow."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+      "title": "AC9 - Creature Catalogue",
       "chapters": [
         {"page": 3, "title": "Introduction"},
         {"page": 8, "title": "Main (Creature Name) Index"},
@@ -1494,6 +1577,7 @@
         {"page": 92, "title": "Habitat Index"}
         ]    
     }
+  ]
   },
   {
     "BookName": "TSR9159 - M1 - Into the Maelstrom",
@@ -1523,13 +1607,15 @@
       "The matter is grave, so much that lords of the spheres have now to show their might. For them, it is time for mortals to intervene. Man defends his cause for him to earn divine favor.",
       "A great armada has been raised and able commanders must be found. Prove your worth, and the eternal portals of the spheres may open for you."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9148 - M2 - Vengeance of Alphaks",
@@ -1556,13 +1642,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9174 - M3 - Twilight Calling",
@@ -1589,13 +1677,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9204 - M4 - Five Coins For A Kingdom",
@@ -1622,13 +1712,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9214 - M5 - Talons of Night",
@@ -1655,13 +1747,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2003 - Greyhawk",
@@ -1688,13 +1782,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2004 - Blackmoor",
@@ -1721,13 +1817,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2005 - Eldritch Wizardry",
@@ -1754,13 +1852,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2006 - Gods, Demi-Gods & Heroes",
@@ -1787,13 +1887,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2007 - Swords & Spells",
@@ -1820,13 +1922,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR6002 - Chainmail",
@@ -1853,13 +1957,15 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9043 - X1 - The Isle of Dread",
@@ -1890,13 +1996,15 @@
       "Included in the module are 13 maps of the isle, 16 new monsters, and suggestions for further adventures on the Isle of Dread. A special continent map, complete with background information, is also included.",
       "The Isle awaits! Will you be able to find the lost plateau and discover the secrets of the Isle of Dread?"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9051 - X2 - Castle Amber",
@@ -1925,13 +2033,15 @@
       "This module contains referee notes, background information, maps, and exploration keys intended for use with the D&D Expert rules. Be sure to look for other D&D modules!",
       "For characters levels 3 - 6."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9056 - X3 - Curse of Xanathon",
@@ -1966,13 +2076,15 @@
       "You and your party are Rhoona's only hope. Only you can unravel the dark mystery that plagues the town and save Rhoona from the Curse of Xanathon.",
       "For character levels 5-7."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9254 - PC1 - Tall Tales of the Wee Folk",
@@ -1999,13 +2111,15 @@
     "BookDescription": [
       "The King of the Fairies rules a magical world of mischief, intrigue, danger, and adventure rivaling anything the human world can offer. From brownies, leprechauns, pixies, and sprites to pookas and even centaurs, all creatures of the enchanted woodlands reveal their secrets for the first time."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9255 - PC2 - Top Ballista",
@@ -2040,13 +2154,15 @@
       "Complete rules on how to create and play skygnomes, gremlins, harpies, and others;",
       "New rules on air combat, spellcasting, and magical items."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9277 - PC3 - The Sea People",
@@ -2080,13 +2196,15 @@
       "Complete rules on how to create and play Sea Elves, Tritons, Mermen, and other aquatic races",
       "New rules detailing underwater spell casting and magical items"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9368 - PC4 - Night Howlers",
@@ -2121,13 +2239,15 @@
       "Information about important non-player characters, a large, full-color map; and three exciting adventures.",
       "Fully adaptable to the Advanced Dungeons & Dragons 2nd Edition Game."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9171 - IM1 - The Immortal Storm",
@@ -2157,13 +2277,15 @@
       "The growing maelstrom emits a message to the Hierarchs. But what does it mean? Can it help save this realm of existence? Is there time to save this realm?",      
       "This first Immortal adventure pits your party against the multiverse in a desperate struggle to find the essence of life. This adventure is nothing like you've ever played before."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9189 - IM2 - The Wrath of Olympus",
@@ -2192,13 +2314,15 @@
       "Have you the courage to embark on a dangerous mission for the materials necessary to craft an artifact? If you survive that task, you must then assume the Identities of legendary heroes of Darokin and face deadly Immortal foes without revealing your Immortality! The demons of Entropy stand between you and your final goal. Have you the power to rescue the imprisoned Immortals and preserve the Prime Plane? The future of the Prime Plane is in your hands!",
       "This adventure is designed for four or five Temporals, levels one or two. There should be one from each sphere."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9207 - IM3 - The Best of Intentions",
@@ -2228,13 +2352,15 @@
       "Should you not accept this mission, the fate of all Prime Plane immortals rests on your heads. (Well, it rests there anyway, but this is meant to make you more than a little guilty about not accepting?after all, you're supposed to be duty-bound and all that kind of thing, and if you don't do this, then who will? Huh? Did you ever think about that, Bucko?)",
       "Adventure for 4-6 immortal-level characters."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR9067 - M1 - Blizzard Pass",
@@ -2265,13 +2391,15 @@
       "Will you survive to uncover the secret of Blizzard Pass?",
       "This module contains all you need to solve the riddle of Blizzard Pass, including 14 maps, an invisible ink marking pen, a complete solo adventure, a pre-rolled character, and an outline for group play!"
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "M2 - Maze of the Riddling Minotaur",
@@ -2300,13 +2428,15 @@
       "For a long time you have heard legends about the Island of Vacros; when you were only a child, the stories about evil minotaurs were used to scare you into behaving. Now you are grown, and you no longer believe children's stories.",
       "But King Trueon of Cathos is worried: his daughter Princess Lydora has been kidnapped, and he has found clues that she has been taken to the ancient and evil island of Vacros. You have heard rumors that a large and dangerous mazework lies beneath the surface of the island - a mazework that is guarded by minotaurs. Of course many rumors are false, but then again ..."
     ],
-    "TableOfContents": {
-      "title": "Book",
-      "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
-    }
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
   },
   {
     "BookName": "TSR2002 - Dungeons & Dragons 3-Volume Set",
@@ -2337,12 +2467,76 @@
     "BookDescription": [
       "No description available."
     ],
-    "TableOfContents": {
-      "title": "Book",
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "TSR1037 - GAZ00 - Dawn of the Emperors - Thyatis and Alphatia",
+    "BookShortName": "GAZ00 - Dawn of the Emperors - Thyatis and Alphatia",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1037",
+    "BookISBN": "0-88038-736-X",
+    "BookAuthor": "Aaron Allston",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Gazetteer",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Gazetteer",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR1037 - GAZ00 - Dawn of the Emperors boxed set.pdf"
+    ],
+    "BookDescription": [
+      "Thyatis. An empire run with military precision. An empire wherein fighting prowess is the most highly prized talent of all, and gladiatorial skill can lead to governmental status.",
+      "Alphatia. An empire not so much run as allowed to exist by its aristocracy. An empire wherein magic use is the only talent that counts for anything, and lack of it can lead to a life of slavery.",
+      "In this box you will find:",
+      "A 128-page DM's guide, covering both empires in their entirety.",
+      "Two 32-page Player's Guides, one for each Empire.",
+      "New rules for aerial combat!",
+      "New spells for building flying creations: castles, ships, islands...",
+      "Two full-size map sheets, containing complete maps of both empires.",
+      "Complete adventures for both Thyatian and Alphatian settings, and suggestions for mini-adventures also set in both empires.",
+      "Ways and means to convert this material to ADVANCED DUNGEONS & DRAGONS 2nd Edition games"
+    ],
+    "TableOfContents": [
+      {
+      "title": "Book One - The Dungeon Master's Sourcebook",
       "chapters": [
-        {"page": 1, "title": "TOC TO BE DONE"},
-        {"page": 2, "title": ""}
-        ]    
+        {"page": 2, "title": "Introduction"},
+        {"page": 4, "title": "Thyatis"},
+        {"page": 39, "title": "Alphatia"},
+        {"page": 61, "title": "Other Territories"},
+        {"page": 83, "title": "Campaigning"},
+        {"page": 93, "title": "Adventures"},
+        {"page": 108, "title": "Appendices"},
+        {"page": 118, "title": "Record Sheets"},
+        {"page": 128, "title": "Diagram of the Shark"}
+        ]
+      },
+      {
+      "title": "Book Ttwo - Book Two - Player's Guide to Thyatis",
+      "chapters": [
+        {"page": 2, "title": "Introduction"},
+        {"page": 3, "title": "History of Thyatis"},
+        {"page": 6, "title": "Overview of Thyatis"},
+        {"page": 9, "title": "Thyatian Society and Politics"},
+        {"page": 18, "title": "Character Creation"},
+        {"page": 25, "title": "The Fighters of Thyatis"}
+      ]    
     }
+    ]
   }
 ]

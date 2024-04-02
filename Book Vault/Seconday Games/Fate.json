@@ -27,13 +27,15 @@
       "Fate Core is a tabletop roleplaying game about proactive, capable people who lead dramatic lives. Create your characters and develop instant group dynamics with our unique phased char gen system. Use those characters as a springboard to storytelling in our GM worldbuilding chapters.",
       "For the Fate-familiar, take advantage of the new and improved approaches to character actions, aspects, compels, and more. With Fate Core, your story is up to you. But whatever you choose, you can expect a fun storytelling experience full of twists…of fate."
     ],
-    "TableOfContents": {
+    "TableOfContents": [
+      {
     "title": "Book",
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
       ]    
   }
+]
 },
 {
   "BookName": "EHP0034 - Adversary Toolkit",
@@ -66,13 +68,15 @@
     "Ideas on how to use environments to create conflict and make the most of battlefield zones.",
     "A Rogue’s Gallery, full of sample adversaries separated by genre, with ideas on how to use the characters and settings provided to create plot."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 },
 {
   "BookName": "EHP0039 - Horror Toolkit",
@@ -106,12 +110,14 @@
     "A variety of new aspect types such as legacy and intensity aspects to help develop thematic horror elements and define boundaries",
     "A campaign framework for running horror stories based on teamwork—particularly good for younger audiences."
   ],
-  "TableOfContents": {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
-  }
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
