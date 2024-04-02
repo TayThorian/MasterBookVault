@@ -1,0 +1,926 @@
+[
+    {
+    "BookName": "FLFTOR012 - Tales from the Lone Lands",
+    "BookShortName": "Tales from the Lone Lands",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFTOR012",
+    "BookISBN": "978-91-89765-13-9",
+    "BookAuthor": "Gareth Hanrahan",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\FLFTOR012 - Tales from the Lone Lands.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Tales from the Lone-lands contains six adventures for The One Ring™, the official tabletop roleplaying game based on the works of J.R.R. Tolkien. All set in the lone-lands of north-western Middle-earth around the year 1965 of the Third Age, the adventures can be played individually, or as part of a larger tale.",
+      "Ancient evils wake as the Dark Lord stretches forth his hand. Over the course of these adventures, the heroes may thwart the spies and stratagems of the Enemy, explore long-lost wonders of the north, and travel far from hearth and home. Preserve the spark of hope, and one day these empty, wounded lands shall be healed! Fail, and all will be destroyed..."
+    ],
+    "TableOfContents": [
+      {
+      "title": "Tales from the Lone Lands",
+      "chapters": [
+        {"page": 4, "title": "Introduction"},
+        {"page": 9, "title": "A Troll-hole, if Ever There Was One"},
+        {"page": 25, "title": "Messing About in Boats"},
+        {"page": 43, "title": "Kings of Little Kingdoms"},
+        {"page": 57, "title": "Not To Strike Without Need"},
+        {"page": 73, "title": "Wonder of the Northern World"},
+        {"page": 91, "title": "The Quest of Amon Guruthos"},
+        {"page": 113, "title": "Index"}
+        ]    
+    }
+  ]
+  },
+  {
+    "BookName": "Moria - Through the Doors of Durin",
+    "BookShortName": "Moria - Through the Doors of Durin",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "",
+    "BookISBN": "978-91-89765-47-4",
+    "BookAuthor": "Gareth Hanrahan",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "On Order",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Campaign Module",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Modules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\Moria - Through the Doors of Durin.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "FLFTOR005 - Ruins of the Lost Realm",
+    "BookShortName": "Ruins of the Lost Realm",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFTOR005",
+    "BookISBN": "978-89143-49-4",
+    "BookAuthor": "Gareth Hanrahan",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\FLFTOR005 - Ruins of the Lost Realm.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "In the Westlands of Eriador, between the Misty Mountains and the Mountains of Lune, the Hobbits found both Men and Elves. Indeed, a remnant still dwelt there of the Dunedain, the kings of Men that came over the Sea out of Westernesse; but they were dwindling fast and the lands of their North Kingdom were falling far and wide into waste.",
+      "Eriador, the lone-lands described in The Lord of the Rings, comes alive as never before in Ruins of the Lost Realm, a supplement for The One Ring, the official tabletop roleplaying game based on the works of J.R.R. Tolkien. A region often described as deserted becomes a crucible for adventure, offering many hours of gameplay.",
+      "Chapter 1: Fog Over Eriador offers a description of the regions that once were part of the kingdom of Arnor, with a focus on the city of Tharbad.",
+      "Chapter 2: A Gathering Storm provides the Loremaster with a set of narrative elements aimed at building a possible future for the land of Eriador as a whole, including the description of many looming threats, Loremaster characters and their agendas.",
+      "Chapter 3: Landmarks adds twelve sites of interest in the style of the one presented in the core volume. These locations depict both 'historical' sites mentioned in The Lord of the Rings or The Hobbit, and others that have been created specifically for the game."
+    ],
+    "TableOfContents": [
+      {
+      "title": "Ruins of the Lost Realm",
+      "chapters": [
+        {"page": 5, "title": "1 - Fog over Eriador"},
+        {"page": 31, "title": "2 - A Gathering Storm"},
+        {"page": 51, "title": "3 - Landmarks"},
+        {"page": 118, "title": "A - Appendix"}
+        ]    
+    }
+  ]
+  },
+  {
+    "BookName": "FLFTOR001 - The One Ring Core Rules",
+    "BookShortName": "The One Ring Core Rules",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFTOR001",
+    "BookISBN": "978-91-89143-45-6",
+    "BookAuthor": "Francesco Nepitello",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\FLFTOR001 - The One Ring Core Rules.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR001 - The One Ring Core Rules - Player Map of Eriador.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR001 - The One Ring Core Rules - Loremaster Map of Eriador.pdf"
+    ],
+    "BookDescription": [
+      "Enter the world of Middle-earth with The One Ring™, the official tabletop roleplaying game based on the works of J.R.R. Tolkien. Designed specifically to evoke the atmosphere of The Hobbit™ and The Lord of the Rings™, the game contains rules for creating heroes and sending them off on adventures in a land threatened by the growing Shadow.",
+      "This beautifully illustrated, full-colour hardcover manual presents Middle-earth as it was twenty years after Bilbo Baggins’ remarkable disappearance and unexpected return. The great events narrated in The Lord of the Rings™ are still fifty years away, leaving plenty of room to narrate stories worthy of an epic.",
+      "Now in its second edition, The One Ring™ comes with updated and revised rules, a new visual style, and a focus on the land of Eriador — the lone-lands west of the Misty Mountains. Among its key features are:",
+      "Rules for travelling across the land (Journey), facing frightening foes (Combat), and meeting the personalities of Middle-earth (Council).",
+      "Thorough advice for the Loremaster on how to bring Middle-earth to life, including rules for magical treasure, the Shadow, and the Eye of Mordor.",
+      "In-depth information on six Patrons — individuals sponsoring the adventures of the Player-heroes — including Bilbo Baggins and Gandalf the Grey.",
+      "A bestiary containing a spread of adversaries, from lowly Orc Soldiers and Highway-robbers, to monstrous Cave-Trolls and Barrow-Wights.",
+      "Rules to create your very own Nameless Things — unknowable beings from the dark corners of the world.",
+      "A complete Landmark adventure, The Star of the Mist, with extra support for new Loremasters, in the form of tutorial advice throughout."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "Strider Mode",
+    "BookShortName": "Strider Mode",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "N/A",
+    "BookISBN": "N/A",
+    "BookAuthor": "Shawn Tomkin, Matt Click",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Strider Mode",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Strider Mode",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\The One Ring - Strider Mode.pdf"
+    ],
+    "BookDescription": [
+      "Strider™ Mode presents additional and modified rules to facilitate solo play in The One Ring™, as well as guidelines and tips for solo players and a selection of random tables to help incite and inspire your lone wanderings across Middle-earth. A copy of The One Ring™ core rules is required to use this supplement."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "FLFTOR004 - The One Ring Starter Set",
+    "BookShortName": "The One Ring Starter Set",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFTOR004",
+    "BookISBN": "978-91-89143-48-7",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Boxed Set",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Starter Set",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\FLFTOR004 - The One Ring Starter Set\\FLFTOR004 - Starter Set - The Rules.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR004 - The One Ring Starter Set\\FLFTOR004 - Starter Set - War Gear Cards.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR004 - The One Ring Starter Set\\FLFTOR004 - Starter Set - Map of Eriador.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR004 - The One Ring Starter Set\\FLFTOR004 - Starter Set - Map of the Shire.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR004 - The One Ring Starter Set\\FLFTOR004 - Starter Set - Pre-generated Characters.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR004 - The One Ring Starter Set\\FLFTOR004 - Starter Set - Stance and Journey Card.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR004 - The One Ring Starter Set\\FLFTOR004 - Starter Set - The Adventures.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR004 - The One Ring Starter Set\\FLFTOR004 - Starter Set - The Shire.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR004 - The One Ring Starter Set\\The One Ring - Peoples of Wilderland.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR004 - The One Ring Starter Set\\The One Ring - Art Book.pdf",
+      "D:\\Master Vault\\The One Ring\\FLFTOR004 - The One Ring Starter Set\\The One Ring - Character Lifepaths.pdf"
+    ],
+    "BookDescription": [
+      "A strange invitation from Bilbo Baggins, mentioning that he’s in need of help. Most odd! But then again, a great many things about that particular Hobbit have been odd ever since that business with the Dragon. Nothing wrong with taking a stroll and helping old Bilbo out I suppose. After all, it's not like there's any real dangers to worry about here in the Shire...",
+      "The One Ring™ Starter Set contains all you need to take your first step into Middle-earth and experience the adventures Hobbits get up to. With streamlined rules and ready made characters, it is easy to quickly sit down and actually play the game. The One Ring is set between the time Bilbo went on his journey and the events in The Lord of the Rings™, allowing you to explore the Shire by taking on the roles of those same Hobbits whose children will go on to do extraordinary things, such as Drogo Baggins, Rory Brandybuck and Esmeralda Took. Besides the Rules and The Adventures, there’s a full compendium covering the four Farthings of the Shire, all the way from Greenholm and the White Downs in the west to Buckland and the Old Forest in the east. This boxed set contains:",
+      "A 24-page volume of Rules.",
+      "A 52-page volume describing The Shire.",
+      "A 31-page volume containing The Adventures.",
+      "Eight double-sided pre-generated character sheets.",
+      "Two large maps showing the Shire and Eriador.",
+      "30 Wargear Cards that can also be used with The One Ring core rules.",
+      "Six double-sided Journey Role and Combat Stance Cards that can also be used with The One Ring core rules.",
+      "Two D12 Feat Dice.",
+      "Six D6 Success Dice."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "FLFTOR003 - Loremaster's Screen & Rivendell Compendium",
+    "BookShortName": "Loremaster's Screen & Rivendell Compendium",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFTOR003",
+    "BookISBN": "978-91-89143-47-0",
+    "BookAuthor": "",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Referees Screen",
+    "BookFormat": "Referees Screen",
+    "BookSeries": "Referees Screens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\Loremasters Screen.pdf",
+      "D:\\Master Vault\\The One Ring\\Rivendell.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71000 - The One Ring - Adventures over the Edge of the Wild",
+    "BookShortName": "The One Ring - Adventures over the Edge of the Wild",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71000",
+    "BookISBN": "978-1-907204-14-2",
+    "BookAuthor": "Amado Angulo, Marco Maggi, Dominic McDowall-Thomas, Francesco Nepitello",
+    "BookPublished": "2011",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Rulebook",
+    "BookFormat": "Slipcase",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71000 - The One Ring - Adventures over the Edge of the Wild - Loremaster's Book.pdf",
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71000 - The One Ring - Adventures over the Edge of the Wild - Adventurer's Book.pdf"
+    ],
+    "BookDescription": [
+      "The One Ring: Adventures over the Edge of the Wild is the new roleplaying game based on The Lord of the Rings—the most influential property in fantasy. It's set after the events of The Hobbit; the initial game is set the region of northern Mirkwood and environs, with future releases expanding the scope of the setting to encompass more of Middle-earth as the era moves closer to the looming War of the Ring.",
+      "Chock full of incredible artwork by leading Tolkien artists, including John Howe, along with rich and detailed background information, The One Ring's game engine focuses on the themes and character types that give Middle-earth its unique place in the annals of fantasy. There has never been a Lord of the Rings game that's more evocative of Tolkien's unique vision.",
+      "The One Ring: Adventures over the Edge of the Wild releases in August, 2011. The core release consists of two core books in a premium slipcover: Loremaster’s Book for GMs and Adventurer’s Book for players."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71005 - The Darkening of Mirkwood",
+    "BookShortName": "The Darkening of Mirkwood",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71005",
+    "BookISBN": "978-0-85744-134-8",
+    "BookAuthor": "Francesco Nepitello, Gareth Ryder-Hanrahan",
+    "BookPublished": "2014",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71005 - The Darkening of Mirkwood.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71006 - Rivendell",
+    "BookShortName": "Rivendell",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71006",
+    "BookISBN": "978-0-85744-135-5",
+    "BookAuthor": "James M. Spahn, Shane Ivey, Andrew Kenrick, Thomas Morwinsky, Francesco Nepitello",
+    "BookPublished": "2014",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Background Setting",
+    "BookFormat": "Hardback",
+    "BookSeries": "Background Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71006 - Rivendell.pdf"
+    ],
+    "BookDescription": [
+      "Rivendell! This setting supplement will take your One Ring adventures West across the Misty Mountains to the Last Homely House, expanding play into eastern Eriador, covering not only Rivendell itself, but Angmar, Fornost, Mount Gram, Tharbad and everywhere in between.",
+      "There are also rules for creating your own Magical Treasure; playing Rangers of the North and High Elves of Rivendell; turning the baleful Eye of Mordor on your company; and facing more powerful adversaries than ever before.",
+      "This 144-page, full-colour supplement includes:",
+      "Background for the Last Homely House, the sanctuary of Rivendell itself.",
+      "Write-ups of the characters that might be encountered in Imladris, from Elrond and Arwen to Glorfindel and the White Council.",
+      "New Fellowship undertakings, including rules for composing your own songs.",
+      "A history of Arnor, Angmar and the Dúnedain.",
+      "A region guide to Eastern Eriador, including the Barrow-downs, the Trollshaws and Angmar.",
+      "New adversaries to face, including Ettins, Hill-men of Rhudaur and the toughest Troll of them all, the Queen of Castle Hill.",
+      "A bestiary of different types of undead creatures, from Bog Soldiers and Barrow-wights to the Lord of the Nazgûl himself, the Witch-king of Angmar.",
+      "Rules for powerful adversaries, allowing you to customise any monster to provide a challenge for even the most heroic of adventurers.",
+      "A set of optional rules, the Eye of Mordor, to track how much attention the Enemy reserves for the company.",
+      "Rules for adding Magical Treasure to your campaign, including dozens of ready-made artefacts, some famous, others less so.",
+      "*Two new playable Heroic Cultures: the Rangers of the North and the High Elves of Rivendell."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71004 - Loremaster's Screen and Lake-town Guide",
+    "BookShortName": "Loremaster's Screen and Lake-town Guide",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71004",
+    "BookISBN": "978-0-85744-133-1",
+    "BookAuthor": "Jon Hodgson, Francesco Nepitello",
+    "BookPublished": "2012",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Loremaster's Screen",
+    "BookFormat": "Hardback",
+    "BookSeries": "Loremaster's Screen",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71004 - Loremaster's Screen and Lake-town Guide - Laketown.pdf",
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71004 - Loremaster's Screen and Lake-town Guide - Loremasters Screen.pdf"      
+    ],
+    "BookDescription": [
+      "Lake-town was refounded and was more prosperous than ever, and much wealth went up and down the Running River; and there was friendship in those parts between elves and dwarves and men.",
+      "The 32 page Lake-town Sourcebook presents this fascinating setting in detail, including:",
+      "A guide to Lake-town, its inhabitants and culture",
+      "More information on the Long Marshes and the creatures dwelling within",
+      "New Fellowship Phase activities",
+      "A new playable culture – Men of the Lake",
+      "Also included in this product is the heavy-duty card Loremaster’s Screen, which presents useful information for easy reference during a game and features stunning art from The One Ring artist Jon Hodgson."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71007 - The Heart of the Wild",
+    "BookShortName": "The Heart of the Wild",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71007",
+    "BookISBN": "978-0-85744-143-0",
+    "BookAuthor": "Gareth Hanrahan, Francesco Nepitello",
+    "BookPublished": "2013",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Background Setting",
+    "BookFormat": "Hardback",
+    "BookSeries": "Background Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71007 - The Heart of the Wild.pdf"
+    ],
+    "BookDescription": [
+      "The Heart of the Wild is a resource for The One Ring: Adventures Over the Edge of the Wild describing the lands of the River and the Forest – the Vales of Anduin along the banks of the Great River, and the trackless forest of Mirkwood to the east. It expands on the descriptions given in the Loremaster’s Guide, offering new sanctuaries and new perils for the players to discover. Each region is described in detail, listing potential friends and foes, sites of interest and potential adventures.",
+      "An expanded bestiary contains a host of strange creatures and servants of the Enemy, from the beasts of the forest to the fabled Great Spiders. Variant Cultural Backgrounds like River Hobbits or Wayward Elves offer new options for adventurers, while new Fellowship Phase actions bring the wild to life in your games."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71008 - Words of the Wise",
+    "BookShortName": "Words of the Wise",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71008",
+    "BookISBN": "",
+    "BookAuthor": "Dominic McDowall-Thomas, Francesco Nepitello",
+    "BookPublished": "2012",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Adventure",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71008 - Words of the Wise.pdf"
+    ],
+    "BookDescription": [
+      "Words for the Wise is a free introductory adventure for The One Ring: Adventures over the Edge of the Wild. The PCs are sent on a quest to help the Woodman, whose lands are threatened."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71010 - Ruins of the North",
+    "BookShortName": "Ruins of the North",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71010",
+    "BookISBN": "978-0-85744-249-9",
+    "BookAuthor": "James Brown, Adam Dials, Richard Harrison, Andrew Kenrick, T. S. Luikart, Francesco Nepitello, Marco Rafalá, James M. Spahn",
+    "BookPublished": "2015",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71010 - Ruins of the North.pdf"
+    ],
+    "BookDescription": [
+      "Children kidnapped in the night, unusually cunning Trolls, a mysterious caravan, the fate of a company of Hobbits, the legacy of the Dúnedain and an evil awakening beneath the barrows – six new stories set in the ancient land of Eriador. Six adventures that need a company of heroes to undertake them.",
+      "Ruins of the North contains six ready-to-play adventures, complete scenarios that can be played separately or as an epic series spanning a number of years. All adventurers are set in the years prior to 2977, and take place in the lands surrounding Rivendell.",
+      "Delve into the ruins of overgrown Fornost, walk amidst the cairns of the Barrow-downs and venture to the lair of the Witch-king of Angmar himself, the ancient city of Carn Dûm — if you have the courage!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71011 - Adventurer's Companion",
+    "BookShortName": "Adventurer's Companion",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71011",
+    "BookISBN": "978-0-85744-272-7",
+    "BookAuthor": "Adam Dials, Jon Hodgson, Andrew Kenrick, TS Luikart, Francesco Nepitello, Marco Rafalá, Gareth Ryder-Hanrahan, James Spahn",
+    "BookPublished": "2016",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Companion",
+    "BookFormat": "Hardback",
+    "BookSeries": "Companion",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71011 - Adventurer's Companion.pdf"
+    ],
+    "BookDescription": [
+      "The Adventurer’s Companion is packed with advice to make your player-hero truly feel a part of Middle-earth, along with new character options and exciting new rules including:",
+      "New playable cultures, along with a comprehensive collection of cultures from The One Ring supplements, brought together for the first time: Dunlendings, Dwarves of the Blue Mountains, Dwarves of the Grey Mountain, Dwarves of the Iron Hills, Elves of Lorien, Men of Bree, Men of the Lake, Men of Minas Tirith, Riders of Rohan, Wayward Elves, Wild Hobbits, High Elves of Rivendell, Rangers of the North.",
+      "A new Calling: The Leader, and new rules for Taking Courage.",
+      "New combat options including: Two weapon fighting, new Combat Tasks, new rules for Combat Roles and expanded Called Shots.",
+      "New rules for character development – Expanded Masteries, Training Masteries, and Mastery Dice.",
+      "Rules Summaries present easy to use reference guides to Character Creation, Combat, Encounters and Travel.",
+      "A catalogue of Fellowship Phase Undertakings from across The One Ring supplements, guidance on choosing a Patron, Famous Companies to join, new rules for yearly events and generational play with the Heirs of Heroes.",
+      "Optional rules for further detailing your character’s Traits, your travelling gear, musical instruments and even what you’ve got in your pocketses, you tricksy Bagginses!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71012 - Horse-Lords of Rohan",
+    "BookShortName": "Horse-Lords of Rohan",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71012",
+    "BookISBN": "978-0-85744-254-3",
+    "BookAuthor": "Shane Ivey, Andrew Kenrick, T. S. Luikart, Francesco Nepitello, James M. Spahn",
+    "BookPublished": "2016",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Background Setting",
+    "BookFormat": "Hardback",
+    "BookSeries": "Background Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71012 - Horse-lords of Rohan.pdf"
+    ],
+    "BookDescription": [
+      "Horse-lords of Rohan details the Rohirrim, describing their history and their lands, as well as introducing rules for two new cultures, the Riders of Rohan and the Dunlendings. Also included are rules for handling horses, riding in combat and horse-breeding. As well as the lands of Rohan, this supplement also details the ancient Forest of Fangorn, shedding light on its mysterious inhabitants, the Ents and terrible Huorns; the folk of the Dunland Fells; and the Tower of Isengard and the machinations of the White Wizard, Saruman. It is an indispensable resource for Loremasters looking to take their game into a whole new region."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71013 - Journeys and Maps",
+    "BookShortName": "Journeys and Maps",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71013",
+    "BookISBN": "978-0-85744-255-0",
+    "BookAuthor": "Andrew Kenrick, TS Luikart, Francesco Nepitello, Marco Rafalá",
+    "BookPublished": "2016",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Maps",
+    "BookFormat": "Paperback",
+    "BookSeries": "Maps",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71013 - Journeys and Maps.pdf"
+    ],
+    "BookDescription": [
+      "Journeys and Maps is a set of four, double sided, large format maps covering the greater part of known Middle-earth: Eriador, Wilderland, Rohan and Gondor/Mordor. With Player maps and hexed Lore Master maps, these provide an invaluable play aid for planning your One Ring journeys.",
+      "Also included is a 32-page softcover supplement, with rules for water travel by sea and river, an index to all locations covered in The One Ring Roleplaying Game supplements to date, a system for detailing ruins found along the road, a useful collection of terrain-specific hazards, and a section detailing natural wonders, lodgings, and fellow travellers your Company might find along the way."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71014 - Oaths of the Riddermark",
+    "BookShortName": "Oaths of the Riddermark",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71014",
+    "BookISBN": "978-0-85744-266-6",
+    "BookAuthor": "Gary Astleford, Jon Hodgson, Shane Ivey, TS Luikart, Francesco Nepitello, Ken Spencer",
+    "BookPublished": "2017",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71014 - Oaths of the Riddermark.pdf"
+    ],
+    "BookDescription": [
+      "Oaths of Riddermark contains six ready-to-play adventures set after the year 2955, and taking place in the lands of Rohan. The scenarios can be played separately, or as chapters of an epic campaign spanning a number of years.",
+      "This volume complements the rules and background material contained in Horse-lords of Rohan, the supplement for The One Ring Roleplaying Game dedicated to the Mark of the Riders, as presented by J.R.R. Tolkien in The Lord of the Rings."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71015 - Erebor - The Lonely Mountain",
+    "BookShortName": "Erebor - The Lonely Mountain",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71015",
+    "BookISBN": "978-0-85744-279-6",
+    "BookAuthor": "Gabriel Garcia, Andrew Kenrick, Mark A. Latham, T. S. Luikart, Francesco Nepitello, James M. Spahn, Kenneth Spencer",
+    "BookPublished": "2016",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Background Setting",
+    "BookFormat": "Hardback",
+    "BookSeries": "Background Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71015 - Erebor - The Lonely Mountain.pdf"
+    ],
+    "BookDescription": [
+      "Erebor the Lonely Mountain is a supplement for the award-winning The One Ring Roleplaying Game describing iconic Middle-earth location – The Lonely Mountain, object of Bilbo's quest and home to the dwarves of Wilderland.",
+      "Offering a detailed description of new regions to explore, characters to meet and activities to undertake, Erebor also describes Dale, City of Bells, recently rebuild by King Bard and home to the Bardings."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71017 - Tales From Wilderland",
+    "BookShortName": "Tales From Wilderland",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71017",
+    "BookISBN": "978-0-85744-282-6",
+    "BookAuthor": "Gareth Hanrahan, Francesco Nepitello",
+    "BookPublished": "2012",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71017 - Tales From Wilderland.pdf"
+    ],
+    "BookDescription": [
+      "Wilderland awakens! With the threat of Smaug removed and the Misty Mountain Orcs driven back into their foul mountain holds, the Free Peoples are seizing the opportunity to reclaim the region. Kings extend their realms’ boundaries, merchants open up trade routes to long-sundered markets and previously strained relations blossom into true alliances.",
+      "At the forefront of this resurgence are adventurers. Whether they are rediscovering isolated communities, battling the remnants of the Shadow or exploring the land and opening it up for others to follow, groups of Heroes are proving instrumental in the taming of the Wild.",
+      "Tales from Wilderland contains 7 adventure scenarios for The One Ring: Adventures Over the Edge of the Wild, the fantasy roleplaying game set in the world of The Hobbit and The Lord of the Rings. The scenarios can be played individually or as part of a linked campaign."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71018 - The Laughter of Dragons",
+    "BookShortName": "The Laughter of Dragons",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71018",
+    "BookISBN": "978-0-85744-288-8",
+    "BookAuthor": "John Arcadian, Paul Batler, Gareth Hanrahan, Jon Hodgson, Andrew Kenrick, T. S. Luikart, Paul Mitchener, Francesco Nepitello, Jacob Rodgers, James Semple, John Semple, Graham Spearing",
+    "BookPublished": "2019",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71018 - The Laughter of Dragons.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71019 - Bree",
+    "BookShortName": "Bree",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71019",
+    "BookISBN": "978-0-85744-318-2",
+    "BookAuthor": "Gareth Ryder Hanrahan, Jon Hodgson, Francesco Nepitello",
+    "BookPublished": "2017",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Background Setting",
+    "BookFormat": "Hardback",
+    "BookSeries": "Background Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71019 - Bree.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB72101 - Hobbit Tales from the Green Dragon Inn",
+    "BookShortName": "Hobbit Tales from the Green Dragon Inn",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB72101",
+    "BookISBN": "97-0-85744-183-6",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Card Game",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Card Game",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB72101 - Hobbit Tales from the Green Dragon Inn.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "CB71009 - The One Ring - Revised Edition",
+    "BookShortName": "The One Ring - Revised Edition",
+    "BookPublisher": "Cubicle 7",
+    "BookCode": "CB71009",
+    "BookISBN": "978-0-85744-244-4",
+    "BookAuthor": "Amado Angulo, Marco Maggi, Dominic McDowall-Thomas, Francesco Nepitello",
+    "BookPublished": "2014",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\The One Ring\\1st Edition\\CB71009 - The One Ring - Revised Edition.pdf"
+    ],
+    "BookDescription": [
+      "The One Ring: Adventures over the Edge of the Wild is the new roleplaying game based on The Lord of the Rings—the most influential property in fantasy. It's set after the events of The Hobbit; the initial game is set the region of northern Mirkwood and environs, with future releases expanding the scope of the setting to encompass more of Middle-earth as the era moves closer to the looming War of the Ring.",
+      "Chock full of incredible artwork by leading Tolkien artists, including John Howe, along with rich and detailed background information, The One Ring's game engine focuses on the themes and character types that give Middle-earth its unique place in the annals of fantasy. There has never been a Lord of the Rings game that's more evocative of Tolkien's unique vision.",
+      "The One Ring: Adventures over the Edge of the Wild releases in August, 2011. The core release consists of two core books in a premium slipcover: Loremaster’s Book for GMs and Adventurer’s Book for players."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  }
+]

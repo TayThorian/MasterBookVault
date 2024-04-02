@@ -1,0 +1,115 @@
+[
+  {
+  "BookName": "MTP404 - Cepheus Engine - Core Rules",
+  "BookShortName": "Cepheus Engine - Core Rules",
+  "BookPublisher": "Moon Toad Publishing",
+  "BookCode": "MTP404",
+  "BookISBN": "",
+  "BookAuthor": "Jason Kemp",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus Engine",
+  "BookEdition": "",
+  "BookPhysical": "",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Cepheus Engine",
+  "BookType": "Rulebook",
+  "BookFormat": "Softcover",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Moon Toad Publishing\\MTP404 - Cepheus Engine - Core Rules.pdf"
+  ],
+  "BookDescription": [
+    "The Cepheus Engine RPG  comprises the core rules for a Classic Era Science Fiction 2D6-Based Open Gaming System. Inspired by the original three books of the oldest 2D6-based science fiction roleplaying game, the Cepheus Engine system incorporates elements of Open Game Content from previous releases of that game of intergalactic drifters and wanderers to create a basic system that will allow players and Referees alike to create their own science fiction universes or play in the ones they are already familiar with.",
+    "You'll find the core essence of your favorite sci-fi game here. You can explore interstellar space, make a ton of Credits on speculative trade, find yourself halfway across the sector after a serious misjump, or blow people up with your mind, if you can find training. You can even die during character creation. This stand-alone manuscript provides all the rules you need to play the game. The Cepheus Engine rules were intentionally designed to integrate well with other 2D6-based science fiction gaming systems, especially your favorite Classic Era modules and supplements. All of the material in the Cepheus Engine rules is considered Open Game Content.",
+    ""
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MTP405 - Spacecraft Design Guide",
+  "BookShortName": "Spacecraft Design Guide",
+  "BookPublisher": "Moon Toad Publishing",
+  "BookCode": "MTP405",
+  "BookISBN": "",
+  "BookAuthor": "Michael Johnson",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Cepheus Engine",
+  "BookType": "Design Guide",
+  "BookFormat": "",
+  "BookSeries": "Design Guides",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Moon Toad Publishing\\MTP405 - Spacecraft Design Guide.pdf"
+  ],
+  "BookDescription": [
+    "From one man work pods working around orbitals to kilometer long armoured warships displacing a megaton, the space ships of known space are as varied as the crews that operate them.",
+    "Expanding on the basic starship design rules from the Cepheus Engine System Reference Document, the Spacecraft Design Guide provides the tools for a naval architect to design small craft, traders, light naval vessels or massive capital ships. They can install the latest technology to allow the ship to jump interstellar distances, use inertialess drives that bend gravity to the will of the ship, move by falling towards microscopic black holes or “ride fire“ on a ship that uses a fusion plasma drive and spin gravity to provide for crew comfort. They can also design low technology missile armed warships or capital ships bristling with high energy weapons and capital ship killing torpedoes.",
+    "New advanced rules allow for naval capital ship combat where massed barrages rather than the fire from a single turret hit decide who the victor will be.",
+    "This a companion to the Cepheus Engine RPG, it does not necessarily require that book to use. Any similiar 2d6 based system will work with this."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MTP406 - Vehicle Design Guide",
+  "BookShortName": "Vehicle Design Guide",
+  "BookPublisher": "Moon Toad Publishing",
+  "BookCode": "MTP406",
+  "BookISBN": "",
+  "BookAuthor": "Michael Johnson,Ian Stead,Paul Elliott",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Cepheus Engine",
+  "BookType": "Design Guide",
+  "BookFormat": "",
+  "BookSeries": "Design Guides",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Moon Toad Publishing\\MTP406 - Vehicle Design Guide.pdf"
+  ],
+  "BookDescription": [
+    "So you need a vehicle and cannot find the right one? Does the vehicle you have lack for speed or a big gun?",
+    "With the Vehicle Design Guide you can simply design your own with your specifications to suit your setting and campaign",
+    "The VDG allows you to design pretty much any vehicle type for any role you can think of. From massive sea going battleships to fast grav vehicles perfect for fast jaunts around the new world your player’s battered trader has arrived to explore.",
+    "Included in the VDG are multiple chassis types, weapon types, armour rules and all manner of internal and external options for any design. Further, a new streamlined vehicle combat system is provided. Finally there are over fifty completed vehicles to use in any adventure and for any setting."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

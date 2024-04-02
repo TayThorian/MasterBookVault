@@ -30,6 +30,8 @@ Public Class Form1
         AddHandler ListBoxPDFToSource.DrawItem, AddressOf ListBoxBooks_DrawItem
         AddHandler ListBoxBooksOnOrder.DrawItem, AddressOf ListBoxBooks_DrawItem
 
+        ' Other initialization code...
+        DisplayTotalObjectCount()
 
         ' Ensure WebView2 is initialized
         Await WebView2Description.EnsureCoreWebView2Async(Nothing)
@@ -94,6 +96,8 @@ Public Class Form1
 
         ' Update the Book Count List Box
         UpdateBookCountListBox()
+
+        DisplayTotalObjectCount()
 
     End Sub
 
@@ -698,5 +702,30 @@ Public Class Form1
         End If
     End Sub
 
+    Private Function CountTotalObjects() As Integer
+        Dim totalObjects As Integer = 0
+        Dim allFiles() As String = System.IO.Directory.GetFiles(rootFolderPath, "*.json", SearchOption.AllDirectories)
+
+        For Each file In allFiles
+            Try
+                ' Correct usage of ReadAllText
+                Dim jsonData As String = System.IO.File.ReadAllText(file)
+                Dim books As List(Of Book) = Newtonsoft.Json.JsonConvert.DeserializeObject(Of List(Of Book))(jsonData)
+                If books IsNot Nothing Then
+                    totalObjects += books.Count
+                End If
+            Catch ex As Exception
+                MessageBox.Show($"Error reading or parsing file: {file}{vbCrLf}{ex.ToString()}")
+            End Try
+        Next
+
+        Return totalObjects
+    End Function
+
+
+    Private Sub DisplayTotalObjectCount()
+        Dim totalCount As Integer = CountTotalObjects()
+        TextBoxObjectCount.Text = totalCount.ToString()
+    End Sub
 
 End Class

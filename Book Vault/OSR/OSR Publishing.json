@@ -1,0 +1,41 @@
+[
+  {
+    "BookName": "Dragonslayer Role-Playing Game",
+    "BookShortName": "Dragonslayer Role-Playing Game",
+    "BookPublisher": "OSR Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Greg Gillespie",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dragonslayer",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\OSR Publishing\\Dragonslayer Role-Playing Game.pdf"
+    ],
+    "BookDescription": [
+      "Harken back to the Golden Age of Role-playing Games!",
+      "Journey into a realm of myth and magic, where ancient legends and terrifying monsters come to life, and adventure awaits...",
+      "Inspired by the timeles role-playing tradition of the 1980s, this ruleset seamlessly integrates the simplicity of B/X with the chrome of First Edition. The book includes everything you need: races, classes spell, monsters, and treasure, combined in a single volume. ",
+      "The book includes cover art by Jeff Easley and interior art by Darlene, Diesel, Kennon James, Peter Pagano, and many others.",
+      "Welcome to Dragonslayer!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+}
+]

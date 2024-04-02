@@ -1,0 +1,38 @@
+[
+  {
+    "BookName": "Gods of the Forbidden North Volume 1",
+    "BookShortName": "Gods of the Forbidden North Volume 1",
+    "BookPublisher": "Pulp Hummock Press",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Gods of the Forbidden North",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "Gods of the Forbidden North",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\OSE - Adventures & Settings\\Gods of the Forbidden North Volume 1.pdf",
+      "D:\\Master Vault\\OSE\\OSE - Adventures & Settings\\Gods of the Forbidden -  Character Sheet.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+}
+]

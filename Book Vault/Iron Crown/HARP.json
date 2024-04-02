@@ -1,0 +1,435 @@
+[
+  {
+    "BookName": "GCP-HARP-1000 - HARP",
+    "BookShortName": "HARP",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-HARP-1000",
+    "BookISBN": "",
+    "BookAuthor": "Nicholas H.M. Caldwell",
+    "BookPublished": "2012",
+    "BookCover": "",
+    "BookRules": "HARP",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "HARP",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\HARP\\GCP-HARP-1000 - Core Rulebook.pdf"
+    ],
+    "BookDescription": [
+      "Heroes Wanted, No Previous Experience Required. On the Job Training Provided. Flexible Hours. Travel Opportunities. Profit Sharing. Health Plan. You Kill it, you Loot it.",
+      "Are you ready for action, excitement and adventure? Then you're ready for High Adventure Role Playing: Fantasy.",
+      "HARP Fantasy brings you all the flexibility, simplicity, and drama you crave. HARP Fantasy has everything you love about fantasy role-playing: flexible character creation, exciting combat, critical hits, potent magic and challenging foes.",
+      "Drawing upon years of actual play from the fan base, HARP Fantasy is an enhanced version of the original HARP game published in 2003 and 2004, with many improvements to the rules without compromising fast and fun gameplay.",
+      "FEATURES",
+      "Fast, Exciting Character Creation – choose from nine professions, six races, and seven cultures, and dozens of skills and talents",
+      "Combat that leaves you breathless with one roll combat resolution",
+      "Truly flexible and dynamic scalable spell system",
+      "A bestiary of diverse monsters to challenge any adventurer",
+      "A veritable treasure hoard of magic items, mystical herbs and deadly poisons",
+      "Rules for fantasy adventuring and guidance on customising the rules to suit your needs",
+      "Compatible with HARP SF",
+      "Everything you need to play in one book",
+      "Your journey into high adventure begins now as HARP is reborn with new sourcebooks, fantastic settings, thrilling adventures and great computer software support. Take your first step into a new world of gaming with HARP Fantasy!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "GCP-HARP-1001 - HARP SF",
+  "BookShortName": "HARP SF",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "GCP-HARP-1001",
+  "BookISBN": "",
+  "BookAuthor": "Nicholas H.M. Caldwell",
+  "BookPublished": "2011",
+  "BookCover": "",
+  "BookRules": "HARP",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "HARP SF",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\HARP\\GCP-HARP-1001 - HARP SF.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GCP-HARP-1002 - HARP SF Xtreme",
+  "BookShortName": "HARP SF Xtreme",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "GCP-HARP-1002",
+  "BookISBN": "",
+  "BookAuthor": "Nicholas H.M. Caldwell",
+  "BookPublished": "2011",
+  "BookCover": "",
+  "BookRules": "HARP",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "HARP SF",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\HARP\\GCP-HARP-1002 - HARP SF Xtreme.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GCP-HARP-1003 - Martial Law",
+  "BookShortName": "Martial Law",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "GCP-HARP-1003",
+  "BookISBN": "1-55806-605-5",
+  "BookAuthor": "Tim Duggar, Heike Kubasch, Chris Adams",
+  "BookPublished": "2013",
+  "BookCover": "",
+  "BookRules": "HARP",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "HARP",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\HARP\\GCP-HARP-1003 - Martial Law.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GCP-HARP-1004 - College of Magics",
+  "BookShortName": "College of Magics",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "GCP-HARP-1004",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "HARP",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "HARP",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\HARP\\GCP-HARP-1004 - College of Magics.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GCP-HARP-1005 - Loot",
+  "BookShortName": "Loot",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "GCP-HARP-1005",
+  "BookISBN": "",
+  "BookAuthor": "Jonathan Cassie",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "HARP",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "HARP",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\HARP\\GCP-HARP-1005 - Loot.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GCP-HARP-1006 - Folkways",
+  "BookShortName": "Folkways",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "GCP-HARP-1006",
+  "BookISBN": "",
+  "BookAuthor": "Jonathan Cassie",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "HARP",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "HARP",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\HARP\\GCP-HARP-1006 - Folkways.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GCP-HARP-1007 - A Wedding in Axebridge",
+  "BookShortName": "A Wedding in Axebridge",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "GCP-HARP-1007",
+  "BookISBN": "",
+  "BookAuthor": "Chris Seal",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "HARP",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "HARP",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\HARP\\GCP-HARP-1007 - A Wedding in Axebridge.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GCP-HARP-1008 - Bestiary",
+  "BookShortName": "Bestiar",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "GCP-HARP-1008",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "HARP",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "HARP",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\HARP\\GCP-HARP-1008 - Bestiary.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GCP-HARP-1009 - Garden of Rain",
+  "BookShortName": "Garden of Rain",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "GCP-HARP-1009",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "HARP",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "HARP",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\HARP\\GCP-HARP-1009 - Garden of Rain.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GCP-HARP-1010 - Beyond the Veil",
+  "BookShortName": "Beyond the Veil",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "GCP-HARP-1010",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "HARP",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "HARP",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\HARP\\GCP-HARP-1010 - Beyond the Veil.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GCP-HARP-1011 - Subterfuge",
+  "BookShortName": "Subterfuge",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "GCP-HARP-1011",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "HARP",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "HARP",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\HARP\\GCP-HARP-1011 - Subterfuge.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

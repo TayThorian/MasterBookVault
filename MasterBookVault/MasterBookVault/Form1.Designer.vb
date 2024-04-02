@@ -83,6 +83,8 @@ Partial Class Form1
         Label23 = New Label()
         ButtonRunEditor = New Button()
         ContextMenuStrip1 = New ContextMenuStrip(components)
+        TextBoxObjectCount = New TextBox()
+        Label25 = New Label()
         Panel1.SuspendLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(WebView2Description, ComponentModel.ISupportInitialize).BeginInit()
@@ -740,11 +742,34 @@ Partial Class Form1
         ContextMenuStrip1.Name = "ContextMenuStrip1"
         ContextMenuStrip1.Size = New Size(61, 4)
         ' 
+        ' TextBoxObjectCount
+        ' 
+        TextBoxObjectCount.BackColor = SystemColors.Menu
+        TextBoxObjectCount.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        TextBoxObjectCount.Location = New Point(747, 14)
+        TextBoxObjectCount.Name = "TextBoxObjectCount"
+        TextBoxObjectCount.Size = New Size(132, 29)
+        TextBoxObjectCount.TabIndex = 49
+        ' 
+        ' Label25
+        ' 
+        Label25.AutoSize = True
+        Label25.BackColor = SystemColors.Menu
+        Label25.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
+        Label25.Location = New Point(639, 17)
+        Label25.Name = "Label25"
+        Label25.Size = New Size(102, 21)
+        Label25.TabIndex = 49
+        Label25.Text = "Total Books:"
+        Label25.TextAlign = ContentAlignment.MiddleCenter
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(3325, 1263)
+        Controls.Add(Label25)
+        Controls.Add(TextBoxObjectCount)
         Controls.Add(ButtonRunEditor)
         Controls.Add(btnGenerateMD)
         Controls.Add(ListBoxBooksOnOrder)
@@ -833,4 +858,6 @@ Partial Class Form1
     Friend WithEvents BookCountListBox As ListBox
     Friend WithEvents Label24 As Label
     Friend WithEvents TextBoxCharLvl As TextBox
+    Friend WithEvents TextBoxObjectCount As TextBox
+    Friend WithEvents Label25 As Label
 End Class

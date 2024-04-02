@@ -1,0 +1,111 @@
+[
+  {
+    "BookName": "The Tome of Horrors Complete",
+    "BookShortName": "The Tome of Horrors Complete",
+    "BookPublisher": "Frog God Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Swords & Wizardry",
+    "BookEdition": "Complete",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\Swords and Wizardry\\Frog God Games\\The Tome of Horrors Complete.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "City of Brass",
+  "BookShortName": "City of Brass",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Frog God Games\\City of Brass.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Monstrosities",
+  "BookShortName": "Monstrosities",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Frog God Games\\Monstrosities.pdf"
+  ],
+  "BookDescription": [
+    "Monstrosities thundered onto the OSR landscape when it debuted in 2013. Ten years after its first appearance, Monstrosities is back and better than ever with over 500(!) monsters.",
+    "Are you tired of seeing the same old boring monsters in your campaigns? Fear not, for the ultimate monster compendium is here again! And it's a monster of a book, pun intended.",
+    "You can never have too many monsters! No matter what kind of campaign, there are foes galore to stock its wildernesses and dungeons, even the unknown depths of its mysterious oceans. This is a compendium that contains the monsters from the rulebook and many monsters from the First Edition of the original roleplaying game, but there are hundreds and hundreds of completely new beasts. This book has everything you could possibly need to spice up your game.",
+    "So, what are you waiting for? Get your hands on this book and start unleashing an army of monsters on your unsuspecting players. Who knows, they might just thank you for giving them a challenge they'll never forget. Or they might curse your name as they run for their lives. Either way, it's sure to be a wild ride.",
+    "This is a 2023 revised printing of the original Swords & Wizardry monster book, updated with errata, hundreds of illustrations, and twenty more monsters for your OSR game."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "BookName": "Deluxe Tunnels & Trolls",
+    "BookPublisher": "Flying Buffalo",
+    "BookCode": "FBI-9104",
+    "BookISBN": "0-940244-91-8",
+    "BookAuthor": "Ken St Andre",
+    "BookPublished": "2015",
+    "BookCover": "",
+    "BookRules": "Tunnels and Trolls",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Tunnels and Trolls",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\Tunnels and Trolls\\FBI-9104 - Deluxe Tunnels & Trolls.pdf"
+    ],
+    "BookDescription": [
+      "This is it! The new and improved, Deluxe Tunnels & Trolls. T&T is the second ever fantasy role playing game, and the easiest to use. This book contains everything you need to play the game solo (with the many solo adventures) or with a group of friends. Includes a lot of extra material and descriptions of the worlds played in by the designer and his friends back in the late 1970's.",
+      "The first 166 pages are the core rules, followed by the Elaborations section which has optional rules and systems you can pick and choose from to add to your T&T games. There is also a 16 page full color section which includes color maps of Trollworld, Khazan, Khosht and Knor along with other paintings and maps.   There is a 50 page Trollworld section that includes descriptions of locations on every major continent and three cities, plus a detailed Trollworld timeline.  The book also includes a solo adventure that gives you the chance to bring dead characters back to life and a GM adventure on the continent of Zorr, plus a detailed weapons glossary and much much more - over 380 pages of material."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+}
+]
