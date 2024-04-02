@@ -1,0 +1,338 @@
+[
+  {
+    "BookName": "MGP40500 - 2300AD",
+    "BookShortName": "2300AD",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40500",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "Mongoose Traveller - 2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "2300AD",
+    "BookType": "Boxed Set",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Rules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP40500 - 2300AD Book 1 - Characters & Equipment.pdf",
+      "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP40500 - 2300AD Book 2 - The Worlds Of 2300AD.pdf",
+      "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP40500 - 2300AD Book 3 - Vehicles & Spacecraft.pdf",
+      "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP40500 - 2300AD - Explored Space Poster.pdf"
+    ],
+    "BookDescription": [
+      "Three hundred years from now, humanity is claiming worlds far from Earth. Despite nearly destroying itself in the Twilight War, despite all the wars since, humanity has held on and kept its dream alive. 2300AD is the story of that dream, as humanity reaches for the stars.",
+      "This is a richly-developed hard science fiction universe, with ships spinning against the night as they are propelled by the stutterwarp drive, a true violation of physics as we know now it. Airships, helicopters and hovercraft are common sights on worlds of the frontier, while spaceplanes and rockets carry explorers and traders to orbit, and from there starships take them across the gulf of space to the colonies.",
+      "Campaigns in 2300AD range from interstellar exploration and war on the far frontier, building new colonies on hostile worlds, discovering and understanding alien species, and engaging in espionage and crime in the gritty mega-cities of the Core worlds.",
+      "The 2300AD box set contains:",
+      "Book 1 Characters & Equipment: Everything you need to create explorers, company agents, military personnel, merchants and other inhabitants of 2300AD. This book also contains a comprehensive equipment guide, personal augmentations, and a selection of robots and drones commonly used in space and on colony worlds.",
+      "Book 2 The Worlds of 2300AD: An exploration of the universe of 2300AD, from the Core worlds to the furthest colonies. You will learn about the aliens and animals that inhabit them, how humanity has adapted to living on their surfaces, and the most hostile of environmental threats to be found beyond the Earth.",
+      "Book 3 Vehicles & Spacecraft: A full guide to operating and fighting in spacecraft and vehicles, from humble dirt bikes to powerful spacegoing frigates. There is also a glimpse at the alien spacecraft that have been encountered thus far by humanity.",
+      "Starchart of Known Space: A massive poster map depicting every star system known to humanity and the routes starships take to each."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "MGP20021 - Aerospace Engineers' Handbook",
+  "BookShortName": "Aerospace Engineers' Handbook",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP20021",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "Mongoose Traveller - 2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "2300AD",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20021 - Aerospace Engineers' Handbook.pdf"
+  ],
+  "BookDescription": [
+    "Aerospace engineering is the art and science of designing spacecraft and starships. This practice encompasses a range of craft from sleek surface-to-orbit craft to lumbering bulk carriers, and the aerospace engineer is key to their design.",
+    "Spacecraft and starships are the lifeblood of exploration and commerce. They are also vital in the defence and acquisition of colony worlds and the economies that rely on them. The stutterwarp drive provides the key to interstellar travel. Rather than taking decades or even centuries to reach the stars, stutterwarp reduces that time to days. The most difficult part remains escaping a planetary gravity well; once in orbit, you are halfway to anywhere.",
+    "The Aerospace Engineers’ Handbook provides everything you need to design not just the ships of human space, but also the vessels of the alien Kaefers, Pentapods, and Sung. It also covers the design of drones, space stations, and alternative means of achieving orbit.",
+    "Alongside this, there is further information on those living in space, the outsiders who abandoned planets for the stars, along with the major space powers and their fleets. The Aerospace Engineers’ Handbook also contains a selection of drones and ships, for Travellers to command, fight, or run away from, with advanced rules for spacecraft combat."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP20022 - 2300AD Referee's Screen",
+  "BookShortName": "2300AD Referee's Screen",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "Mongoose Traveller - 2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "2300AD",
+  "BookType": "Referee's Screen",
+  "BookFormat": "Hardback",
+  "BookSeries": "Referee's Screen",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20022 - 2300AD Referee's Screen.pdf"
+  ],
+  "BookDescription": [
+    "With a stunning panoramic view of a new colony facing the players, and every vital table for the referee, the 2300AD Referee’s Screen is the perfect complement to a well-run campaign far out on the frontier.",
+    "Fully compliant with the latest edition and with all the important tables and charts, the new 2300AD Referee’s Screen is constructed from quality heavy-weight cardstock that will stand the ravages of many years’ gaming."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP20023 - Ships of the Frontier",
+  "BookShortName": "Ships of the Frontier",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP20023",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "Mongoose Traveller - 2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "2300AD",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20023 - Ships of the Frontier.pdf"
+  ],
+  "BookDescription": [
+    "The 33 colony worlds and countless outposts of human space are scattered across a 100 light-year diameter volume of space, along three intricate and complex Arms of stars and anchorages that allow starships to hop from star to star, 7.7 light-years at a time.",
+    "In order to connect all those worlds with the systems of the Core, starships are required. Interface craft are required to connect the great ships with the worlds below, other ships are need to find raw materials, and to find new worlds. And still other are required to protect all those other ships and the worlds they serve.",
+    "This book contains many drones, fighters, freighters, landers and warships from across human space, along with a selection of ships used by the three space-faring alien species at the edge of human space: the Pteranodon-like Sung; the odd little biotech masters, the Pentapods; and the hulking, vaguely-insectoid Kaefers, unrelentingly-hostile and bent on conquest.",
+    "The 81 ships, drones, modules and stations in this volume build on the ships presented in 2300AD, and add new opportunities for trade, diplomacy, exploration, and combat."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP20024 - Tools for Frontier Living",
+  "BookShortName": "Tools for Frontier Living",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP20024",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "Mongoose Traveller - 2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "2300AD",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20024 - Tools for Frontier Living.pdf"
+  ],
+  "BookDescription": [
+    "The Frontier Beckons.",
+    "The Core is advanced, comfortable, and safe. Too safe for some, for whom the wilds of the Frontier promise adventure, riches, and freedom.",
+    "The worlds of the Frontier are hostile. Even if they support life, that life is no friend to humanity. Every single world outside the Core is trying, in its own unique way, to kill the human interlopers. Native life, climate, geography, even the air and water can be dangerous. To survive, to live and prosper, humanity must use all the tools at its disposal to tame these hostile worlds.",
+    "Or die trying.",
+    "Humans are tool-using animals, and in the pages of Tools for Frontier Living are a selection of equipment needed for survival on alien worlds. There are five sections, covering a range of goods and services from deep space suits to the famous Foot-Long Egg, and including robots and drones, exploration and survival gear, medical equipment, along with weapons and surplus armour, all ideally suited for adventurers and those who brave the Frontier.",
+    "Inside you will find:",
+    "Space Technology",
+    "Exploration and Survival Gear",
+    "Industrial Equipment",
+    "Consumer Goods and Services",
+    "Medical Technology",
+    "Security and Police Equipment"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP20026 - Vehicles of the Frontier",
+  "BookShortName": "Vehicles of the Frontier",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP20026",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "Mongoose Traveller - 2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "2300AD",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20026 - Vehicles of the Frontier.pdf"
+  ],
+  "BookDescription": [
+    "Vehicles are more than just transportation for people living on the far flung worlds of the Frontier, and in these pages there are over 100 unique new designs. With everything from bicycles to main battle tanks, from bulldozers to combat walkers, Vehicles of the Frontier has a wide scope. Aliens make an appearance too, with a variety of vehicles from the Kaefers, Pentapods, Sung, and Ebers.",
+    "There are also more options for designing and customising vehicles, including catamaran hulls, cyclo-cranes, low-altitude vehicles, and articulated hulls for big tanks. More options for walkers are presented, along with a variety of new vehicular weapons.",
+    "Vehicles of the Frontier supports the upcoming Invasion campaign, providing many vehicles involved on all sides of the looming war with the Kaefers."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP20025 - Project Bayern",
+  "BookShortName": "Project Bayern",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP20025",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "Mongoose Traveller - 2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "2300AD",
+  "BookType": "Adventure",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20025 - Project Bayern - Book 1 - Mission Profile.pdf",
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20025 - Project Bayern - Book 2 - Technical Reference Manual.pdf",
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20025 - Project Bayern - Book 3 - Mission Objectives.pdf",
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20025 - Project Bayern - Book 4 - Secondary Objectives.pdf",
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20025 - Project Bayern - Deckplans.pdf",
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20025 - Project Bayern - Pleiades Star Chart.pdf"
+  ],
+  "BookDescription": [
+    "The Pleiades have long been a source of wonder and inspiration to humans who observed them in the fall and winter skies of Earth.",
+    "Project Bayern provides an immense amount of source material for the 2300AD Referee, detailing the historic flight of the starship Bayern as it leaves human space to cross more than 450 light-years of unexplored territory before reaching the Pleiades star cluster in the constellation of Taurus.",
+    "This set contains all the data needed to run an ongoing campaign of adventures based around the monumental voyage of the Bayern. Details on the ship and its auxiliary vessels are included to give both Travellers and Referees a full understanding of their limitations and capabilities. Background information on the Astronomischen Rechen-lnstitut will allow the Travellers to identify with the goals of the mission and understand more completely this unique Foundation. Biographical information on the flight crew and heads of the scientific team provides ready-made Travellers or fully developed characters. Furthermore, a section on the Pleiades provides astrophysical information on the star cluster.",
+    "The Project Bayern box set contains:",
+    "Book 1: Mission Profile",
+    "Book 2: Technical Reference Manual",
+    "Book 3: Primary Mission Objectives",
+    "Book 4: Secondary Mission Objectives",
+    "A giant poster map showing the many decks of the Bayern on one side and a star chart of the Pleiades on the other"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1000 - 2300AD - Man's Battle for the Stars",
+  "BookShortName": "2300AD - Man's Battle for the Stars",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1000",
+  "BookISBN": "0-943580-62-5",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300AD",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "2300AD",
+  "BookType": "Boxed Set",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "2300AD",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\GDW1000 - 2300AD - Man's Battle for the Stars.pdf"
+  ],
+  "BookDescription": [
+    "Man has made it to the stars. Now he must fight to stay there, Human soldiers fight the implacable alien Kafers, Police fight smugglers, pirates and terrorists on rich human colonies. Explorers fight uncharted systems on the Frontier. Colonists fight hostile environments on strange worlds. And nations fight each other for political power to determine who will lead the human race in the struggle to tame the universe. You can be part of this new gae in 2300 AD - the state-of-the-art in science-fiction role playing.",
+    "2300 AD plays against a background of Earth and its colonies 300 years after the cataclysm of the World War III, The Twilight War. Set in a world where nations still clash, civilization has crawled back to its pre-war levels, and then beyond. The world is dominated by the Third French Empire, which maintains a shaky peace among its jealous rivals.. Earth's hundred nations have colonies among the stars. First contact happened long ago, and commerce with aliens in now commonplace.",
+    "Civilization has flowered to a point undreamed of earlier, but worms are at the blossoms core. One alien race, the Kafers, is bent on eradicating humanity. Anarchists labor to bring Earth's rule crashing down. Smugglers transport alien products to other worlds, thoughtless of ecological effects. Pirates prey on merchant and colonization vessels.",
+    "Much work remains to be donw if humanity is to establish itself among the stars and explore the deeper into the galaxy.",
+    "The Near Star Catalog",
+    "The 2300 ADuniverse deals with star systems within 50 light years of Earth. Extensive research and analysis has produced the most accurate star map ever made. More than 700 stars in over 500 systems, on a 22\" x 25\" color map. Location, special type, size and magnitude are documented in a separate star catalog.",
+    "Game Systems",
+    "Playable realism. Many games which are realistic cannot be played; most playable systems aren't terribly realistic. 2300 AD is both at once, balancing detail with simple, accurate game systems.",
+    "The heart of 2300 AD is its task resolution system. Rules covers all aspects of conflict resolution, from creating new scientific equipment to flying starships to running group combat. Clean but detailed rules also cover player character generation and experience, starship operations and combat, star system and world generation, and non-player character skills and motivations (including six different alien races), making 2300 AD the state-of-the-art in science-fiction role playing.",
+    "Game Components",
+    "Adventurer's Guide - 96 pages of player information",
+    "Director's Guide - 112 pages of referee information",
+    "Near Star Map - full-color, poster-size map of the stars",
+    "Play Aids - 32 page book of aids, including: 16 pages of forms, 8-page solitaire adventure, and a 9-page catalog of star data."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

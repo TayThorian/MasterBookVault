@@ -1,0 +1,212 @@
+[
+  {
+    "BookName": "Xboat No 1",
+    "BookShortName": "Xboat No 1",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "Xboat",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Magazine",
+    "BookFormat": "A5 Paperback",
+    "BookSeries": "Xboat Issues 1 - 5",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Magazines\\Xboat\\Xboat No 1.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Xboat No 2",
+  "BookShortName": "Xboat No 2",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Xboat",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Magazine",
+  "BookFormat": "A5 Paperback",
+  "BookSeries": "Xboat Issues 1 - 5",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Magazines\\Xboat\\Xboat No 2.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Xboat No 3",
+  "BookShortName": "Xboat No 3",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Xboat",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Magazine",
+  "BookFormat": "A5 Paperback",
+  "BookSeries": "Xboat Issues 1 - 5",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Magazines\\Xboat\\Xboat No 3.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Xboat No 4",
+  "BookShortName": "Xboat No 4",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Xboat",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Magazine",
+  "BookFormat": "A5 Paperback",
+  "BookSeries": "Xboat Issues 1 - 5",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Magazines\\Xboat\\Xboat No 4.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Xboat No 5",
+  "BookShortName": "Xboat No 1",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Xboat",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Magazine",
+  "BookFormat": "A5 Paperback",
+  "BookSeries": "Xboat Issues 1 - 5",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Magazines\\Xboat\\Xboat No 5.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Xboat Special Supplement 1",
+  "BookShortName": "Xboat Special Supplement 1",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Xboat",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Magazine",
+  "BookFormat": "A5 Paperback",
+  "BookSeries": "Special Supplement Issues 1 - 1",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Magazines\\Xboat\\Xboat Special Supplement 1.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]
