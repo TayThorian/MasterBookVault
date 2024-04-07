@@ -1,14 +1,14 @@
 [
   {
-    "BookName": "Swords and Wizardry - Complete Revised",
-    "BookShortName": "Swords and Wizardry - Complete Revised",
+    "BookName": "Swords & Wizardry - Complete Revised",
+    "BookShortName": "Swords & Wizardry - Complete Revised",
     "BookPublisher": "Mythmere Games",
     "BookCode": "",
     "BookISBN": "979-8-88584-002-6",
     "BookAuthor": "Matt Finch",
     "BookPublished": "2023",
     "BookCover": "",
-    "BookRules": "Swords and Wizardry",
+    "BookRules": "Swords & Wizardry",
     "BookEdition": "Complete Revised",
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
@@ -53,7 +53,7 @@
   "BookAuthor": "Matt Finch",
   "BookPublished": "2024",
   "BookCover": "",
-  "BookRules": "Swords and Wizardry",
+  "BookRules": "Swords & Wizardry",
   "BookEdition": "Complete Revised",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
@@ -70,6 +70,450 @@
     "Running a freewheeling city adventure can be hard work, but this book gives you a powerful resource for handling interactions with non-player characters — their names, objectives, abilities, and quirky activities! City Encounters provides 200 daytime encounters and 200 night-time encounters for your characters to run into while exploring the city. Plus, each of the encounters has several alternative possibilities involved, so you can adapt the encounter to your players or use the same encounter more than once with a different alternative. Encounters that can lead to adventures are cross-referenced to let you find the other NPCs who might be involved in an ongoing situation, and there are several possible “recurring” villains, heroes, and weirdos to battle, assist, and befriend.",
     "Enter a city filled with anarchists, arsonists, sorcery, skullduggery, factional conflict, and necromancy!",
     "This is the OSR version of City Encounters, written for Swords & Wizardry but easily usable with systems including OD&D, AD&D (1E), B/X, OSE and others!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Swords & Wizardry - Complete Rulebook",
+  "BookShortName": "Swords & Wizardry - Complete Rulebook",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "978-1-62283-958-2",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "2020",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Rulebook",
+  "BookFormat": "Softcover",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords & Wizardry - Complete Rulebook (3rd print).pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords & Wizardry - Complete Rulebook.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Swords & Wizardry - Core Rules",
+  "BookShortName": "Swords & Wizardry - Core Rules",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Core Rules",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Rulebook",
+  "BookFormat": "Softcover",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Core Rules - Fourth Print.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Core Rules - Third Print.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Core Rules - Second Print.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Core Rules - First Print.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Swords & Wizardry Complete Box Set",
+  "BookShortName": "Swords & Wizardry Complete Box Set",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "2020",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Rulebook",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Player Book.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Referee Book.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Monsters.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Spells & Magic.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Equipment Kits.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Spellbooks\\SW Box Cleric Spellbook.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Spellbooks\\SW Box Druid Spellbook.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Spellbooks\\SW Box Magic User Spellbook.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Spell Cards\\SW Box Cleric Spell Cards.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Spell Cards\\SW Box Druid Spell Cards.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Spell Cards\\SW Box Magic User Spell Cards.pdf"
+  ],
+  "BookDescription": [
+    "Swords & Wizardry Complete Box Set is more than a re-statement of the original rules that gave rise to 5e. It is fast-playing, easy to start, and easy to learn by anyone. Swords & Wizardry is a snapshot of the rules as they existed in 1978 right before “first edition” was released. The fifth edition game currently played, watched, and beloved by millions is great fun, but the structure of the rules has changed over the course of editions, and there’s a unique feel to the earlier versions of the game which you may not have encountered before.",
+    "This box set presents the full expansion of the Swords & Wizardry Rules, covering all of the early-phase supplements from the 1970s. It creates a four-book resource, allowing players and game masters alike to create and run adventures and campaigns that will last for an entire lifetime. The game is supported by a vast array of adventures and other resources that are produced by Frog God Games. The box set includes:",
+    "Player Book",
+    "Spells & Magic book",
+    "Monsters book",
+    "Referee Book",
+    "Character Sheets",
+    "Dice(!)",
+    "Bookmark",
+    "This is the game as it was played 40 years ago. It is true to the original style and philosophy that made the game great. No “Spot Checks” here — just simple, flexible rules that allow players and game masters alike to roll play and roleplay. This stand-alone box set provides all the rules you need to play the game. It is easily transferable as a rules set for other retro-clone games, as well as those old dusty modules you may still have in the attic. The rulebooks within the box are presented in digest form, just like the original booklets they commemorate."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Supplement 1 - MOAR Monsters",
+  "BookShortName": "Supplement 1 - MOAR Monsters",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "978-1-6656-0107-8",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "2020",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Monster Book",
+  "BookFormat": "Softcover",
+  "BookSeries": "Monster Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Supplement 1 - MOAR Monsters.pdf"
+  ],
+  "BookDescription": [
+    "MOAR monsters contains a deadly and devious offering of monsters to supplement the ones in the Swords & Wizardry Monster Book. Many of these have previously been published, but there are some that have never before been seen, such as the moon-dwelling lunormians and the deceptive exclosures. Every Referee always needs more monsters, and here they are ... MOAR Monsters!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Legacy of Blackscale Lagoon",
+  "BookShortName": "Legacy of Blackscale Lagoon",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "979-8-88584-007-1",
+  "BookAuthor": "James M. Spahn",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete Revised",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Adventure",
+  "BookFormat": "Softcover",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Legacy of Blackscale Lagoon.pdf"
+  ],
+  "BookDescription": [
+    "Legacy of Blackscale Lagoon is an introductory-level adventure (levels 1-3) for Swords & Wizardry, written by award-winning author James Spahn. The adventure takes place in the swamps of Blackscale Valley, and is structured roughly along the same lines as Keep on the Borderlands, with a home base, sandbox wilderness region, one major adventuring location and several smaller lairs to discover while exploring.",
+    "What starts out as an ordinary venture into the backwater (and very watery) swamps of Blackscale Valley turns into a complex mystery about the events that took place in the Valley about a hundred years ago. Not everything is what it appears to be, and peril awaits the characters at every turn!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "The Doom of Malakar",
+  "BookShortName": "The Doom of Malakar",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "979-8-88584-009-5",
+  "BookAuthor": "Ben Barsh",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete Revised",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Adventure",
+  "BookFormat": "Softcover",
+  "BookSeries": "Solo Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\Doom of Malakar.pdf"
+  ],
+  "BookDescription": [
+    "The Doom of Malakar is a solo adventure for Swords & Wizardry written by Ben Barsh, which takes your Swords & Wizardry character into a deadly quest to discover what happened to a rogue magic-user by the name of Malakar. You’ll need the Swords & Wizardry rules to play through the adventure, but what you won’t need is another player. All you need is yourself, to delve into the mysterious events surrounding the ill-fated town of Squall’s End, a sinister plot put into motion by the demon Zulggroz, and the Inn of the Shrouded Stag!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "ONS1 - Jungle Ruins of Madaro Shanti",
+  "BookShortName": "ONS1 - Jungle Ruins of Madaro Shanti",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\ONS1 - Jungle Ruins of Madaro Shanti.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "ONS2 - Death in the Painted Canyons",
+  "BookShortName": "ONS2 - Death in the Painted Canyons",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\ONS2 - Death in the Painted Canyons.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "ONS3 - Spire of Iron Crystal",
+  "BookShortName": "ONS3 - Spire of Iron Crystal",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\ONS3 - Spire of Iron Crystal.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "ONS4 - Dread Saecaroth",
+  "BookShortName": "ONS4 - Dread Saecaroth",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\ONS4 - Dread Saecaroth.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "ONS5 - Scorned",
+  "BookShortName": "ONS5 - Scorned",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\ONS5 - Scorned.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "ONS6 - Curse of Shadowhold",
+  "BookShortName": "ONS6 - Curse of Shadowhold",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\ONS6 - Curse of Shadowhold.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
   ],
   "TableOfContents": [
     {

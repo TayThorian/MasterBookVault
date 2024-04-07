@@ -1,0 +1,37 @@
+[
+  {
+    "BookName": "The Book of Taverns - Volume One",
+    "BookShortName": "The Book of Taverns - Volume One",
+    "BookPublisher": "Frog God Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "System Neutral",
+    "BookEdition": "System Neutral",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "System Neutral",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "Necromancer Games",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSR\\System Neutral\\The Book of Taverns - Volume One.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+}
+]

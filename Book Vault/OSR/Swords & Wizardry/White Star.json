@@ -1,6 +1,7 @@
 [
   {
     "BookName": "White Star - White Box Science Fiction Roleplaying",
+    "BookShortName": "White Star - White Box Science Fiction Roleplaying",
     "BookPublisher": "Gallant Knight Games",
     "BookCode": "",
     "BookISBN": "",
@@ -38,6 +39,7 @@
 },
 {
   "BookName": "White Star Companion",
+  "BookShortName": "White Star Companion",
   "BookPublisher": "Gallant Knight Games",
   "BookCode": "",
   "BookISBN": "",
@@ -72,6 +74,7 @@
 },
 {
   "BookName": "White Star Galaxy Edition",
+  "BookShortName": "White Star Galaxy Edition",
   "BookPublisher": "Gallant Knight Games",
   "BookCode": "",
   "BookISBN": "",

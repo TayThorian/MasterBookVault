@@ -1,0 +1,179 @@
+[
+  {
+    "BookName": "The Wildsea - Core Rules",
+    "BookShortName": "The Wildsea - Core Rules",
+    "BookPublisher": "MythWorks",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "The Wildsea",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "The Wildsea",
+    "BookType": "Core Rules",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Wildsea\\The Wildsea - Core Rules.pdf",
+      "D:\\Master Vault\\Wildsea\\The Wildsea - Quick Reference.pdf",
+      "D:\\Master Vault\\Wildsea\\The Wildsea - Forms.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Ship-Gardens",
+  "BookShortName": "Ship-Gardens",
+  "BookPublisher": "MythWorks",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "The Wildsea",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Wildsea",
+  "BookType": "Expansion",
+  "BookFormat": "",
+  "BookSeries": "Expansions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Wildsea\\The Wildsea - Expansion - Ship-Gardens.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "One-Armed Scissor",
+  "BookShortName": "One-Armed Scissor",
+  "BookPublisher": "MythWorks",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "The Wildsea",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Wildsea",
+  "BookType": "Scenario",
+  "BookFormat": "",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Wildsea\\The Wildsea - Scenario - One-Armed Scissor.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Red Right Hand",
+  "BookShortName": "Red Right Hand",
+  "BookPublisher": "MythWorks",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "The Wildsea",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Wildsea",
+  "BookType": "Scenario",
+  "BookFormat": "",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Wildsea\\The Wildsea - Scenario - Red Right Hand.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Storm And Root",
+  "BookShortName": "Storm And Root",
+  "BookPublisher": "MythWorks",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "The Wildsea",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Wildsea",
+  "BookType": "Expansion",
+  "BookFormat": "",
+  "BookSeries": "Expansions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Wildsea\\The Wildsea - Expansion - Storm And Root.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

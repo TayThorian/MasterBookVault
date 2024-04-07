@@ -4887,5 +4887,553 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "TSR9177 - REF3 - The Book of Lairs",
+    "BookShortName": "REF3 - The Book of Lairs",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9177",
+    "BookISBN": "0-88038-319-4",
+    "BookAuthor": "James M. Ward, Mike Breault",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Reference Series Optional",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Reference Series Optional\\TSR9177 - REF3 - The Book of Lairs.pdf"
+    ],
+    "BookDescription": [
+      "DM's how many times have you told your players, \" Well, you walked for five days, saw some trees and a few animals, and now you are at the dungeon\"? You would like to create more challenging encounters, but who has the time to develop all those mini-adventures that make journeys so exciting?",
+      "The Book of Lairs is the first in a series of ground breaking AD&D accessories. This book contains over 60 fully developed adventures that can be easily inserted into any DM's campaign. These intriguing and innovative encounters are ready to play and will challenge player characters of all levels. No longer do you have to spend endless hours devising clever lairs and traps for monsters to spring on your PCs. Why make your player wait while you thumb through books and roll dice trying to scare up a random encounter? Here are ready-made adventures available instantly for almost any terrain and party level.",
+      "These adventures can be inserted into your campaign at any time and are adaptable to almost any situation. Rather than introduce new monsters, The Book of Lairs presents a number of familiar monsters in unique settings to provide your players with many unexpected dangers and thrills. Unusual beings are also spotlighted to bring variety and mystery back to your campaign. DMs are sure to find The Book of Lairs convenient, innovative and ultimately invaluable!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9198 - REF4 - The Book of Lairs II",
+    "BookShortName": "REF4 - The Book of Lairs II",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9198",
+    "BookISBN": "0-88038-396-8",
+    "BookAuthor": "",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Reference Series Optional",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Reference Series Optional\\TSR9198 - REF4 - The Book of Lairs II.pdf"
+    ],
+    "BookDescription": [
+      "This is the second in a series of ground-breaking AD&D accessories. Within these pages are nearly 70 fully developed adventures that can be inserted into any campaign. They are ready-to-play challenges for all levels of characters. DMs need not spend long hours creating diversions for their players?we've done it for you.",
+      "If you have The Book of Lairs, you already know what you'll find herein. These mini-adventures are arranged by terrain type (city, desert, hills, mountains, forest, etc.), with monsters in alphabetical order for easy access. At the back of the book is a combined monsters statistics table, showing all the necessary figures at a glance.",
+      "These are familiar monsters (like the gnome, brownie, and ettin) and not-so-familiar ones (like the bakemono and tengu), form both original AD&D sources and the Oriental Adventures book. Some of these mini-adventures are mere diversions; others can turn into minor campaigns! In any case, DMs and players alike are sure to be pleased with The Book of Lairs II."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9028 - REF2 - Player Character Record Sheets",
+    "BookShortName": "REF2 - Player Character Record Sheets",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9028",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Reference Series Optional",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Reference Series Optional\\TSR9028 - REF2 - Player Character Record Sheets.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9146 - REF1 - Dungeon Master Screen",
+    "BookShortName": "REF1 - Dungeon Master Screen",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9146",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Reference Series Optional",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Reference Series Optional\\TSR9146 - REF1 - Dungeon Master Screen.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9263 - REF1 - Dungeon Master Screen - Terrible Trouble at Tragidore",
+    "BookShortName": "REF1 - Dungeon Master Screen - Terrible Trouble at Tragidore",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9263",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Reference Series Optional",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Reference Series Optional\\TSR9263 - REF1 - Dungeon Master Screen - Terrible Trouble at Tragidore.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9380 - REF6 - Rogues' Gallery",
+    "BookShortName": "REF6 - Rogues' Gallery",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9380",
+    "BookISBN": "1-56076-377-9",
+    "BookAuthor": "1992",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Reference Series Optional",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Reference Series Optional\\TSR9380 - REF6 - Rogues' Gallery.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR2165 - Wizard's Spell Compendium - Volume One",
+    "BookShortName": "Wizard's Spell Compendium - Volume One",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2165",
+    "BookISBN": "0-7869-0436-4",
+    "BookAuthor": "",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Spell Compendium Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Spell Compendium Series\\TSR2165 - Wizard's Spell Compendium - Volume One.pdf"
+    ],
+    "BookDescription": [
+      "The Ultimate Collection!",
+      "The Wizard's Spell Compendium is a four-volume series describing every wizard spell for the AD&D game. Spells have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975.",
+      "Early entries have been updated to be immediately usable, making this the player's and DM's definitive source for wizard spells.",
+      "A Summons One Dares Note Deny to Dweomerdoom, Khelben's"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 4, "title": "Introduction"},
+      {"page": 4, "title": "How to Use this Book"},
+      {"page": 7, "title": "Spell Frequency"},
+      {"page": 8, "title": "Starting Spellbooks"},
+      {"page": 15, "title": "How New Spells are Acquired"},
+      {"page": 19, "title": "A Guide to Spell Icons"},
+      {"page": 20, "title": "A"},
+      {"page": 66, "title": "B"},
+      {"page": 114, "title": "C"},
+      {"page": 204, "title": "D"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR2168 - Wizard's Spell Compendium - Volume Two",
+    "BookShortName": "Wizard's Spell Compendium - Volume Two",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2168",
+    "BookISBN": "0-7869-0664-2",
+    "BookAuthor": "",
+    "BookPublished": "1997",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Spell Compendium Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Spell Compendium Series\\TSR2168 - Wizard's Spell Compendium - Volume Two.pdf"
+    ],
+    "BookDescription": [
+      "The Ultimate Collection!",
+      "The Wizard's Spell Compendium is a four-volume series describing every wizard spell for the AD&D game. Spells have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975.",
+      "Early entries have been updated to be immediately usable, making this the player's and DM's definitive source for wizard spells.",
+      "Eagle Form to Mnemonic Enhancer, Rary's"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 290, "title": "Introduction"},
+      {"page": 291, "title": "How to Use this Book"},
+      {"page": 293, "title": "Spell Frequency"},
+      {"page": 295, "title": "Icons"},
+      {"page": 297, "title": "E"},
+      {"page": 337, "title": "F"},
+      {"page": 393, "title": "G"},
+      {"page": 421, "title": "H"},
+      {"page": 443, "title": "I"},
+      {"page": 473, "title": "J"},
+      {"page": 479, "title": "K"},
+      {"page": 491, "title": "L"},
+      {"page": 529, "title": "M to Mn"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR2175 - Wizard's Spell Compendium - Volume Three",
+    "BookShortName": "Wizard's Spell Compendium - Volume Three",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2175",
+    "BookISBN": "0-7869-0791-6",
+    "BookAuthor": "",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Spell Compendium Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Spell Compendium Series\\TSR2175 - Wizard's Spell Compendium - Volume Three.pdf"
+    ],
+    "BookDescription": [
+      "The Ultimate Collection!",
+      "The Wizard's Spell Compendium is a four-volume series describing every wizard spell for the AD&D game. Spells have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975.",
+      "Early entries have been updated to be immediately usable, making this the player's and DM's definitive source for wizard spells."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 579, "title": "Introduction"},
+      {"page": 579, "title": "How to Use this Book"},
+      {"page": 582, "title": "Spell Frequency"},
+      {"page": 583, "title": "Icons"},
+      {"page": 585, "title": "Mo"},
+      {"page": 610, "title": "N"},
+      {"page": 630, "title": "O"},
+      {"page": 651, "title": "P"},
+      {"page": 720, "title": "Q"},
+      {"page": 723, "title": "R"},
+      {"page": 760, "title": "S to Sp"},
+      {"page": 862, "title": "Most Common Spell List"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR2177 - Wizard's Spell Compendium - Volume Four",
+    "BookShortName": "Wizard's Spell Compendium - Volume Four",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR2177",
+    "BookISBN": "0-7869-1209-X",
+    "BookAuthor": "",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Spell Compendium Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Spell Compendium Series\\TSR2177 - Wizard's Spell Compendium - Volume Four.pdf"
+    ],
+    "BookDescription": [
+      "The Ultimate Collection!",
+      "The Wizard's Spell Compendium is a four-volume series describing every wizard spell for the AD&D game. Spells have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975.",
+      "Early entries have been updated to be immediately usable, making this the player's and DM's definitive source for wizard spells."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 867, "title": "Introduction"},
+      {"page": 867, "title": "How to Use this Book"},
+      {"page": 870, "title": "Spell Frequency"},
+      {"page": 871, "title": "Icons"},
+      {"page": 873, "title": "Sq"},
+      {"page": 917, "title": "T"},
+      {"page": 963, "title": "U"},
+      {"page": 973, "title": "V"},
+      {"page": 985, "title": "W"},
+      {"page": 1039, "title": "X"},
+      {"page": 1041, "title": "Y"},
+      {"page": 1043, "title": "Z"},
+      {"page": 1048, "title": "Appendices"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR11359 - Priest's Spell Compendium - Volume One",
+    "BookShortName": "Priest's Spell Compendium - Volume One",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11359",
+    "BookISBN": "0-7869-1359-2",
+    "BookAuthor": "",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Spell Compendium Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Spell Compendium Series\\TSR11359 - Priest's Spell Compendium - Volume One.pdf"
+    ],
+    "BookDescription": [
+      "The Priest's Spell Compendium is a three-volume series describing every wizard spell for the AD&D game.",
+      "Spells have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975. Early entries have been updated to be immediately usable, making this the player's and DM's definitive source for priest spells.",
+      "This volume contains spells from A to F starting with A Day in the Life to Frost Whip."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 2, "title": "Foreward"},
+      {"page": 3, "title": "Introduction"},
+      {"page": 3, "title": "How to Use this Book"},
+      {"page": 7, "title": "Spell Frequency"},
+      {"page": 9, "title": "Icons"},
+      {"page": 10, "title": "A"},
+      {"page": 52, "title": "B"},
+      {"page": 88, "title": "C"},
+      {"page": 176, "title": "D"},
+      {"page": 228, "title": "E"},
+      {"page": 257, "title": "F"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR11421 - Priest's Spell Compendium - Volume Two",
+    "BookShortName": "Priest's Spell Compendium - Volume Two",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11421",
+    "BookISBN": "0-7869-1421-1",
+    "BookAuthor": "",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Spell Compendium Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Spell Compendium Series\\TSR11421 - Priest's Spell Compendium - Volume Two.pdf"
+    ],
+    "BookDescription": [
+      "The Priest's Spell Compendium is a three-volume series describing every wizard spell for the AD&D game.",
+      "Spells have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975. Early entries have been updated to be immediately usable, making this the player's and DM's definitive source for priest spells.",
+      "This volume contains spells from G to S starting with Garments of Elvenkind to Spiderform."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 290, "title": "Introduction"},
+      {"page": 290, "title": "How to Use this Book"},
+      {"page": 294, "title": "Spell Frequency"},
+      {"page": 296, "title": "A Guide to Spell Icons"},
+      {"page": 297, "title": "G"},
+      {"page": 316, "title": "H"},
+      {"page": 343, "title": "I"},
+      {"page": 361, "title": "J"},
+      {"page": 363, "title": "K"},
+      {"page": 370, "title": "L"},
+      {"page": 386, "title": "M"},
+      {"page": 431, "title": "N"},
+      {"page": 435, "title": "O"},
+      {"page": 442, "title": "P"},
+      {"page": 477, "title": "Q"},
+      {"page": 479, "title": "R"},
+      {"page": 518, "title": "S to Sp"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR11611 - Priest's Spell Compendium - Volume Three",
+    "BookShortName": "Priest's Spell Compendium - Volume Three",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11611",
+    "BookISBN": "0-7869-611-7",
+    "BookAuthor": "",
+    "BookPublished": "2000",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "Spell Compendium Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Spell Compendium Series\\TSR11611 - Priest's Spell Compendium - Volume Three.pdf"
+    ],
+    "BookDescription": [
+      "The Priest's Spell Compendium is a three-volume series describing every priest spell for the AD&D game.",
+      "Spells have been collected from rule books, campaign settings, supplements, adventures, and magazines dating back to 1975. Early entries have been updated to be immediately usable, making this the player's and DMs definitive source for priest spells.",
+      "This volume contains priest spells of all levels, SP through Z. The first spell is Spike Growth, the last Zone of Truth."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 578, "title": "Introduction"},
+      {"page": 578, "title": "How to Use this Book"},
+      {"page": 582, "title": "Spell Frequency"},
+      {"page": 584, "title": "A Guide to Spell Icons"},
+      {"page": 585, "title": "Sp"},
+      {"page": 635, "title": "T"},
+      {"page": 667, "title": "U"},
+      {"page": 677, "title": "V"},
+      {"page": 682, "title": "W"},
+      {"page": 725, "title": "XYZ"},
+      {"page": 727, "title": "Appendices Table of Contents"}
+      ]    
+  }
+  ]
   }
 ]

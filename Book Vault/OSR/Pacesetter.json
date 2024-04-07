@@ -265,5 +265,40 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "3030 - V5 - Palace of the Vampire Queen Castle Blood",
+  "BookShortName": "V5 - Palace of the Vampire Queen Castle Blood",
+  "BookPublisher": "Pacesetter Games & Simulations",
+  "BookCode": "3030",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "BX Game System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "V Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Pacesetter Games & Simulations\\3030 - V5 - Palace of the Vampire Queen Castle Blood.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

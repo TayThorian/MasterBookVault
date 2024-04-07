@@ -540,14 +540,14 @@ Partial Class Form1
         ' 
         ' ListBoxTOC
         ' 
+        ListBoxTOC.BorderStyle = BorderStyle.None
         ListBoxTOC.Font = New Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point)
         ListBoxTOC.FormattingEnabled = True
         ListBoxTOC.HorizontalScrollbar = True
         ListBoxTOC.ItemHeight = 17
         ListBoxTOC.Location = New Point(13, 782)
         ListBoxTOC.Name = "ListBoxTOC"
-        ListBoxTOC.ScrollAlwaysVisible = True
-        ListBoxTOC.Size = New Size(627, 344)
+        ListBoxTOC.Size = New Size(627, 340)
         ListBoxTOC.TabIndex = 44
         ' 
         ' Label4

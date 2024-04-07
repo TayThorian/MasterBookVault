@@ -422,7 +422,7 @@
     "BookRules": "Year Zero Engine",
     "BookEdition": "1st Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "y",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Forbidden Lands",
     "BookType": "Map & Cards Pack",
@@ -450,5 +450,180 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "Forbidden Hero - Solo Roleplaying in the Forbbiden Lands",
+    "BookShortName": "Forbidden Hero - Solo Roleplaying in the Forbbiden Lands",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forbidden Lands",
+    "BookType": "Sole Rules",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Free League Workshop",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forbidden Lands\\Free League Workshop\\Forbidden Hero - Solo Roleplaying in the Forbbiden Lands.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "The Chapel of Blood",
+    "BookShortName": "The Chapel of Blood",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forbidden Lands",
+    "BookType": "Adventure",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Free League Workshop",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forbidden Lands\\Free League Workshop\\The Chapel of Blood.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "Mists of Moorshire",
+    "BookShortName": "Mists of Moorshire",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forbidden Lands",
+    "BookType": "Adventure",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Free League Workshop",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forbidden Lands\\Free League Workshop\\Mists of Moorshire.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "Tales of High Adventure - Sword & Sorcery in the Forbidden Lands",
+    "BookShortName": "Tales of High Adventure - Sword & Sorcery in the Forbidden Lands",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forbidden Lands",
+    "BookType": "Adventure",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Free League Workshop",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forbidden Lands\\Free League Workshop\\Tales of High Adventure - Sword & Sorcery in the Forbidden Lands.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "FLFFBL002 - Forbidden Lands - Quickstart",
+    "BookShortName": "Forbidden Lands - Quickstart",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFFBL002",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forbidden Lands",
+    "BookType": "Quickstart",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Quickstart",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forbidden Lands\\FLFFBL002 - Forbidden Lands - Quickstart.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

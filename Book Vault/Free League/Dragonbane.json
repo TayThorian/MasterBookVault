@@ -66,9 +66,9 @@
   "BookAuthor": "Magnus Seter, Mattias Johnsson Haake, Andreas Marklund, Tomas Härenstam",
   "BookPublished": "2023",
   "BookCover": "",
-  "BookRules": "",
+  "BookRules": "Dragonbane",
   "BookEdition": "1st Edition",
-  "BookPhysical": "On Order",
+  "BookPhysical": "Yes",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Dragonbane",
@@ -86,8 +86,15 @@
     {
   "title": "Book",
   "chapters": [
-    {"page": 1, "title": "TOC TO BE DONE"},
-    {"page": 2, "title": ""}
+    {"page": 5, "title": "Chapter 1 - Nightkin"},
+    {"page": 15, "title": "Chapter 2 - Rare Kin"},
+    {"page": 43, "title": "Chapter 3 - Insectoids"},
+    {"page": 51, "title": "Chapter 4 - Trolls"},
+    {"page": 59, "title": "Chapter 5 - Giants"},
+    {"page": 69, "title": "Chapter 6 - Beasts"},
+    {"page": 105, "title": "Chapter 7 - Undead"},
+    {"page": 123, "title": "Chapter 8 - Dragons"},
+    {"page": 135, "title": "Chapter 9 - Demons"}
     ]    
 }
 ]
@@ -101,7 +108,7 @@
   "BookAuthor": "Tomas Härenstam",
   "BookPublished": "2023",
   "BookCover": "",
-  "BookRules": "",
+  "BookRules": "Dragonbane",
   "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "Yes",
@@ -117,6 +124,41 @@
   "BookDescription": [
     "Dragonbane is a classic fantasy tabletop roleplaying game full of magic, mystery, and adventure. It is designed from the ground up to facilitate fast and furious play, with very little prep time and adventures that are a breeze to run. Dragonbane is a game with room for laughs at the table, while still offering brutal challenges for the adventurers.",
     "This FREE Quickstart PDF includes the complete introductory adventure Riddermound, and five pre-generated characters to play! Shortly after purchase (at zero cost), you will get a download link from DrivethruRPG. Just download the PDF and play!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Dragonbane",
+  "BookShortName": "Dragonbane",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dragonbane",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dragonbane",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Dragonbane\\Dragonbane - Rulebook.pdf"
+  ],
+  "BookDescription": [
+    "Dragonbane is a classic fantasy tabletop roleplaying game full of magic, mystery, and adventure. It is designed from the ground up to facilitate fast and furious play, with very little prep time and adventures that are a breeze to run. This book includes fast and effective D20-based game rules for character creation, skills, combat, magic, and travel, and the introductory adventure The Castle of the Robber Knight."
   ],
   "TableOfContents": [
     {

@@ -218,6 +218,7 @@
 - TSR9261 - B12 - Queen's Harvest
 - TSR9190 - B1-9 - In Search of Adventure
 - TSR9287 - GAZ13 - The Shadow Elves
+- TSR1037 - GAZ00 - Dawn of the Emperors - Thyatis and Alphatia
 - TSR2112 - DMGR1 - Campaign Sourcebook and Catacomb Guide
 - TSR2114 - DMGR2 - Castle Guide
 - TSR2158 - Monstrous Compendium Annual - Volume Two
