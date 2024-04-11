@@ -209,10 +209,17 @@
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "Isengard and Northern Gondor",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 2, "title": "1.0 - Notes on the Features of and use of the Middle-Earth Series"},
+      {"page": 12, "title": "2.0 - Calenardhon - The Strategic Gateway"},
+      {"page": 13, "title": "3.0 - The Green Land of Calenardhon"},
+      {"page": 14, "title": "4.0 - The Plants and Animals of Calenardhon"},
+      {"page": 16, "title": "5.0 - Calenardhon Under Gondor"},
+      {"page": 22, "title": "6.0 - The Fortresses of Calenardhon"},
+      {"page": 37, "title": "7.0 - Powers and Politics"},
+      {"page": 41, "title": "8.0 - Adventuring in Calenardhon"},
+      {"page": 47, "title": "9.0 - Calenardhon at Other Times"}
       ]    
   }
 ]

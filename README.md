@@ -72,11 +72,6 @@
 - GCP-RMU-001 - Core Law
 - GCP-RMU-002 - Spell Law
 - GCP-RMU-003 - Treasure Law
-- ICE6501 - Character Law
-- ICE6502 - Arms Law
-- ICE6503 - Spell Law
-- ICE6504 - Creatures & Treasures
-- ICE6505 - Combat Companion
 ## Game Designers Workshop
 - GDW252 - Tarsus
 - - Supplement 5 - Lightning Class Cruisers

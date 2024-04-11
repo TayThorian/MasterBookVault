@@ -631,35 +631,40 @@ Public Class Form1
     End Sub
 
 
-
-
-
     Private Sub ListBoxTOC_DrawItem(sender As Object, e As DrawItemEventArgs) Handles ListBoxTOC.DrawItem
+        ' Exit the sub if the index is invalid
         If e.Index = -1 Then Return
 
+        ' Drawing the background for the item
         e.DrawBackground()
 
+        ' Fetching the item from the ListBox
         Dim item As String = ListBoxTOC.Items(e.Index).ToString()
+        Dim isSection As Boolean = item.StartsWith("[Section]")
+        Dim isEmptyLine As Boolean = String.IsNullOrEmpty(item)
 
-        ' Determine if the item is a section heading
-        Dim isSectionHeading As Boolean = item.StartsWith("[Section]")
+        ' Removing the "[Section]" tag for display purposes
+        If isSection Then item = item.Replace("[Section]", "").Trim()
 
-        ' Remove the tag from the section heading for display
-        If isSectionHeading Then item = item.Replace("[Section]", "")
-
-        ' Set fonts
+        ' Setting up the font based on whether the item is a section
         Dim font As Font
-        If isSectionHeading Then
-            font = New Font(e.Font.FontFamily, e.Font.Size + 2, FontStyle.Bold) ' Larger and bold for section headings
+        If isSection Then
+            font = New Font(e.Font.FontFamily, e.Font.Size + 2, FontStyle.Bold) ' Larger, bold font for sections
+        ElseIf Not isEmptyLine Then
+            font = New Font(e.Font.FontFamily, e.Font.Size, FontStyle.Regular) ' Regular font for chapters
+            item = "   " & item ' Indenting chapter titles for visual hierarchy
         Else
-            font = e.Font ' Regular for other items
+            font = e.Font ' Default font for blank lines
         End If
 
-        ' Draw the text
-        e.Graphics.DrawString(item, font, New SolidBrush(e.ForeColor), e.Bounds)
+        ' Drawing the item text
+        Dim brush As New SolidBrush(e.ForeColor)
+        e.Graphics.DrawString(item, font, brush, e.Bounds)
 
+        ' Drawing the focus rectangle if the item has focus
         e.DrawFocusRectangle()
     End Sub
+
 
 
     Private Sub ButtonRunEditor_Click(sender As Object, e As EventArgs) Handles ButtonRunEditor.Click
