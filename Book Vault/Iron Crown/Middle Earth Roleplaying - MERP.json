@@ -913,14 +913,23 @@
       "D:\\Master Vault\\MERP\\1E\\ICE8060 - Erech and the Paths of the Dead.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "This package details the south central vales of the White Mountains where the ghosts of the Oath-breakers haunt the land. Discover the secret of the mysterious Black Stone of Erech and explore the underground paths of the Dead.",
+      "A great grassy hill rises from the empty rolling fields three miles from Erech. Atop this Hill is the half-buried Stone of Erech. By this Stone, the Daen Coentis swore allegiance to Gondor, and it is here that the Army of the Dead shall gather when summoned to right their Oath-breaking. For now, however, Ghosts come to the hill every night, guarding its spiral path and the secret of the Erech Stone."
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "Erech and the Paths of the Dead",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 2, "title": "1.0 - Guidelines"},
+      {"page": 4, "title": "2.0 - Introduction"},
+      {"page": 6, "title": "3.0 - The Land around Erech"},
+      {"page": 9, "title": "4.0 - The Inhabitants"},
+      {"page": 12, "title": "5.0 - Politics"},
+      {"page": 13, "title": "6.0 - Sites of Interest"},
+      {"page": 14, "title": "7.0 - Adventure Guidelines"},
+      {"page": 15, "title": "8.0 - Adventures in the Vale of Erech"},
+      {"page": 30, "title": "9.0 - Adventures in the Paths of the Dead"},
+      {"page": 35, "title": "10.0 - Tables"}
       ]    
   }
 ]

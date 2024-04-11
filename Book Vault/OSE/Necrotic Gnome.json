@@ -120,6 +120,41 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "The Fungus That Came to Blackeswell",
+    "BookShortName": "The Fungus That Came to Blackeswell",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Yves Geens",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\The Fungus That Came to Blackeswell.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   } ,
   {
     "BookName": "NG-0024 - Classic Game Set",

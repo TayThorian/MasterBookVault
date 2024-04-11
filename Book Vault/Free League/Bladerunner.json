@@ -1,6 +1,7 @@
 [
     {
-    "BookName": "Blade Runner - The Roleplaying Game - Core Rulebook",
+    "BookName": "FLFBLR001 - Blade Runner - The Roleplaying Game - Core Rulebook",
+    "BookShortName": "Blade Runner - The Roleplaying Game - Core Rulebook",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFBLR001",
     "BookISBN": "978-91-89143-73-9",
@@ -42,7 +43,8 @@
 ]
   } ,
   {
-    "BookName": "Blade Runner - The Roleplaying Game - Core Rulebook Deluxe Edition",
+    "BookName": "FLFBLR002 - Blade Runner - The Roleplaying Game - Core Rulebook Deluxe Edition",
+    "BookShortName": "Blade Runner - The Roleplaying Game - Core Rulebook Deluxe Edition",
     "BookPublisher": "Free League Publishing",
     "BookCode": "FLFBLR002",
     "BookISBN": "978-91-89143-74-6",
@@ -84,7 +86,8 @@
 ]
   } ,
 {
-  "BookName": "Blade Runner RPG Starter Set",
+  "BookName": "FLFBLR003 - Blade Runner RPG Starter Set",
+  "BookShortName": "Blade Runner RPG Starter Set",
   "BookPublisher": "Free League Publishing",
   "BookCode": "FLFBLR003",
   "BookISBN": "978-91-89143-75-3",
@@ -131,5 +134,43 @@
     ]    
 }
 ]
-} 
+},
+{
+  "BookName": "Fiery Angels",
+  "BookShortName": "Fiery Angels",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "",
+  "BookISBN": "978-91-89765-35-1",
+  "BookAuthor": "Tomas Härenstam, Joe LeFavi",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "Zero Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Bladerunner",
+  "BookType": "Case File",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Case Files",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Bladerunner\\Fiery Angels\\Fiery Angels - Book.pdf",
+    "D:\\Master Vault\\Bladerunner\\Fiery Angels\\Fiery Angels - Handout Maps.pdf",
+    "D:\\Master Vault\\Bladerunner\\Fiery Angels\\Fiery Angels - Handouts.pdf",
+    "D:\\Master Vault\\Bladerunner\\Fiery Angels\\Fiery Angels - Mugshots.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
 ]
