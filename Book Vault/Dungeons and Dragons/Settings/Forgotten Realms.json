@@ -4118,5 +4118,124 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "TSR1032 - Kara-Tur The Eastern Realms",
+    "BookShortName": "Kara-Tur The Eastern Realms",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1032",
+    "BookISBN": "0-88038-608-8",
+    "BookAuthor": "Mike Pondsmith, Jay Batista, Rick Swan, John Nephew & Deborah Christian",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1032 - Kara-Tur The Eastern Realms.pdf"
+    ],
+    "BookDescription": [
+      "This box contains everything AD&D game players and DMs need to establish an exciting Oriental Adventures campaign! Kara-Tur, world of Eastern mystery, is on the far side of the planet from the FORGOTTEN REALMS Campaign Setting, but the two cultures only interact if you want them to! This is the \"official\" campaign setting for the Oriental Adventures rulebook. Kara-Tur has everything you need: Two 96-page books describe the places, culture, politics, monsters, magic, people, religions, and more, plus advice on running a long-term Oriental Adventures campaign, bringing characters from other worlds into Kara-Tur, and dimensional travel from Kara-Tur to other worlds. And there are four full-colour, two-sided maps of this land of mighty warriors and powerful enchantments.",
+      "The boxed set contains two 96-page books, four large colour maps, and two plastic overlays."
+    ],
+    "TableOfContents": [
+      {
+      "title": "Kara-Tur - Volume 1",
+      "chapters": [
+        {"page": 3, "title": "Shou Lung"},
+        {"page": 43, "title": "T'u Lung"},
+        {"page": 69, "title": "Tabot"},
+        {"page": 79, "title": "The Plain of Horses"},
+        {"page": 89, "title": "The Northern Wastes"}
+        ]
+      },
+      {
+      "title": "Kara-Tur - Volume 2",
+      "chapters": [
+        {"page": 99, "title": "The Jungle Lands"},
+        {"page": 109, "title": "The Island Kingdoms"},
+        {"page": 117, "title": "Koryo"},
+        {"page": 157, "title": "Wa"},
+        {"page": 188, "title": "Appendix: Using the Forgotten Realms campaign setting"}
+      ]    
+    }
+    ]
+  },
+  {
+    "BookName": "WTC957327200 - Expedition to Undermountain",
+    "BookShortName": "Expedition to Undermountain",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC957327200",
+    "BookISBN": "978-0-7869-4157-5",
+    "BookAuthor": "Eric L. Boyd, Ed Greenwood, Christopher Lindsay & Sean K. Reynolds",
+    "BookPublished": "2007",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Expedition Series",
+    "BookCharacterLevel": "Levels 1 - 10",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC957327200 - Expedition to Undermountain.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "WTC978078694 - Grand History of the Realms",
+    "BookShortName": "Grand History of the Realms",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC978078694",
+    "BookISBN": "978-0-7869-4731-7",
+    "BookAuthor": "Brian R. James, Ed Greenwood",
+    "BookPublished": "2007",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Sourcebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC978078694 - Grand History of the Realms.pdf"
+    ],
+    "BookDescription": [
+      "All of Toril, and especially Faerûn, is rich in history. As the eons have passed, empires have risen and fallen all around the world. This chronology presents the history of the FORGOTTEN REALMS setting in all its glory. We’ve brought together information from dozens of sources to provide the definitive chronicle."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

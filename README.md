@@ -88,6 +88,7 @@
 - TSR2173 - Monstrous Compendium Annual - Volume Four
 - TSR9293 - The Magic Encyclopedia Volume One
 - TSR9421 - The Magic Encyclopedia Volume Two
+- TSR1089 - Dragon Mountain
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
 - TSR9433 - ALQ4 - Secrets of the Lamp
@@ -117,6 +118,7 @@
 ## Wizards of the Coast
 - WTC398890000 - Menzoberranzan - City of Intrigue
 - WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
+- WTC957327200 - Expedition to Undermountain
 # PDF's Books to Source
 ## Monte Cook Games
 - MCG370 - Rust And Redemption
@@ -249,7 +251,6 @@
 - TSR9469 - HR7 - The Crusades Campaign Sourcebook
 - TSR9122 - H1 - Bloodstone Pass
 - TSR9168 - H2 - The Mines of Bloodstone
-- TSR11326 - The Vortex of Madness and other Planer Perils
 - TSR11361 - Warriors of Heaven
 - TSR9039 - A1 - Slave Pits of the Undercity
 - TSR9040 - A2 - Secret of the Slaver Stockade
@@ -269,6 +270,7 @@
 - TSR947 - Castle Sites
 - TSR9482 - Country Sites
 - TSR1125 - Night Below - An Underdark Campaign
+- TSR1089 - Dragon Mountain
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
@@ -365,3 +367,5 @@
 - TSR11634 - Into the Dragon's Lair
 - WTC177380000 - Lost Empires of Faerun
 - WTC178720000 - Champions of Ruin
+- WTC957327200 - Expedition to Undermountain
+- WTC978078694 - Grand History of the Realms

@@ -46,7 +46,7 @@
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "1st Edition",
-    "BookPhysical": "Yes",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Greyhawk",
@@ -636,5 +636,110 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "TSR11327 - Return to the Keep on the Borderlands",
+    "BookShortName": "Return to the Keep on the Borderlands",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11327",
+    "BookISBN": "0-7869-1327-4",
+    "BookAuthor": "John D. Rateliff",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Silver Anniversary Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR11327 - Return to the Keep on the Borderlands.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR11413 - Against the Giants The Liberation of Geoff",
+    "BookShortName": "Against the Giants The Liberation of Geoff",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11413",
+    "BookISBN": "0-7869-1413-0",
+    "BookAuthor": "Sean K. Reynolds",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Silver Anniversary Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR11413 - Against the Giants The Liberation of Geoff.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR11434 - Return to White Plume Mountain",
+    "BookShortName": "Return to White Plume Mountain",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11434",
+    "BookISBN": "0-7869-1434-3",
+    "BookAuthor": "Bruce R. Cordell",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Silver Anniversary Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR11434 - Return to White Plume Mountain.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

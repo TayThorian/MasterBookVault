@@ -1500,7 +1500,7 @@
 ]
   },
   {
-    "BookName": "GAZ13 - The Shadow Elves",
+    "BookName": "TSR9287 - GAZ13 - The Shadow Elves",
     "BookShortName": "GAZ13 - The Shadow Elves",
     "BookPublisher": "TSR",
     "BookCode": "TSR9287",
@@ -2536,7 +2536,59 @@
         {"page": 18, "title": "Character Creation"},
         {"page": 25, "title": "The Fighters of Thyatis"}
       ]    
-    }
+    },
+    {
+    "title": "Book Three - Player's Guide to Alphatia",
+    "chapters": [
+      {"page": 2, "title": "Introduction"},
+      {"page": 4, "title": "History of Alphatia"},
+      {"page": 9, "title": "Overview of Alphatia"},
+      {"page": 13, "title": "Alphatian Society and Politics"},
+      {"page": 21, "title": "Character Creation"},
+      {"page": 27, "title": "Magic-uses of Alphatia"}
+    ]    
+  }
     ]
+  },
+  {
+    "BookName": "TSR9306 - GAZ14 - The Atruaghin Clans",
+    "BookShortName": "GAZ14 - The Atruaghin Clans",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9306",
+    "BookISBN": "0-88038-891-9",
+    "BookAuthor": "William W. Connors",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Gazetteer",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Gazetteer",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9306 - GAZ14 - The Atruaghin Clans.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9306 - GAZ14 - The Atruaghin Clans\\TSR9306 - GAZ14 - The Atruaghin Clans - Map.pdf"
+    ],
+    "BookDescription": [
+      "From the ashes of an ancient culture of proud warriors rises a race of people unlike any other in the Known World.",
+      "Long ago, the power of Blackmoor all but destroyed the mighty Azcans. Some of them, the bravest of the brave, sought refuge under the shadow of a great plateau. For decades, they struggled to preserve their lives and their culture. Now, centuries later, their secrets are revealed. From the buffalo hunting Horse Clans and the whaling Turtle Clans to the pueblo dwelling Children of the Bear and the evil Children of the Viper, five distinct Atruaghin Clan cultures are laid out in detail.",
+      "The Atruaghin Clans is the fourteenth book in the best-selling Gazetteer series. It provides a complete description of the culture, history, and goals of the noble Children of Atruaghin. Included in this product are:",
+      "A 64-page Player's Book that provides rules for Atruaghin character creation and introduces the Shamani, a new character class.",
+      "A 32-page DM's Guide that details the history of the Atruaghin Clans, the unique Immortals that they worship, and several sample characters.",
+      "A large, full-color map that details the geography of the Atruaghin Plateau and the lands around it."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

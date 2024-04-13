@@ -377,5 +377,117 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "WTCD24310000 - Bigby Presents Glory of the Giants",
+    "BookShortName": "Bigby Presents Glory of the Giants",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCD24310000",
+    "BookISBN": "",
+    "BookAuthor": "James Wyatt",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\5E\\WTCD24310000 - Bigby Presents Glory of the Giants.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "WTCD24290000 - Keys from the Golden Vault",
+    "BookShortName": "Keys from the Golden Vault",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCD24290000",
+    "BookISBN": "978-0-7869-6896-1",
+    "BookAuthor": "Amanda Hamon, Christopher Perkins",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\5E\\WTCD24290000 - Keys from the Golden Vault.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "WTCD09960000 - Journeys Through the Radiant Citadel",
+    "BookShortName": "Journeys Through the Radiant Citadel",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCD09960000",
+    "BookISBN": "978-0-7869-6805-3",
+    "BookAuthor": "Ajit A. George, F. Wesley Schneider",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\5E\\WTCD09960000 - Journeys Through the Radiant Citadel.pdf"
+    ],
+    "BookDescription": [
+      "An anthology of thirteen stand-alone adventures set in wondrous lands for the world’s greatest roleplaying game.",
+      "Through the mists of the Ethereal Plane shines the Radiant Citadel. Travelers from across the multiverse flock to this mysterious bastion to share their traditions, stories, and calls for heroes. A crossroads of wonders and adventures, the Radiant Citadel is the first step on the path to legend. Where will your journeys take you?",
+      "Journeys through the Radiant Citadel is a collection of thirteen short, stand-alone D&D adventures featuring challenges for character levels 1–14. Each adventure has ties to the Radiant Citadel, a magical city with connections to lands rich with excitement and danger, and each can be run by itself or as part of an ongoing campaign. Explore this rich and varied collection of adventures in magical lands.",
+      "Thirteen new stand-alone adventures spanning levels 1 to 14, each with its own set of maps",
+      "Introduces the Radiant Citadel, a new location on the Ethereal Plane that connects adventurers to richly detailed and distinct corners of the D&D multiverse",
+      "Each adventure can be set in any existing D&D campaign setting or on worlds of your own design",
+      "Introduces eleven new D&D monsters",
+      "There’s a story for every adventuring party, from whimsical and light to dark and foreboding and everything in between"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

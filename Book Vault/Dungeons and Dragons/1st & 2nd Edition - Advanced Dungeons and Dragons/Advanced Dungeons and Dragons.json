@@ -3357,7 +3357,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "No",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Accessory",
@@ -5432,6 +5432,83 @@
       {"page": 682, "title": "W"},
       {"page": 725, "title": "XYZ"},
       {"page": 727, "title": "Appendices Table of Contents"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9183 - RS1 - Red Sonja Unconquered",
+    "BookShortName": "RS1 - Red Sonja Unconquered",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9183",
+    "BookISBN": "0-88038-324-0",
+    "BookAuthor": "Anne Gray McCready",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "RS Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\RS Series\\TSR9183 - RS1 - Red Sonja Unconquered.pdf"
+    ],
+    "BookDescription": [
+      "Steel met steel as Sonja slashed wildly before her. Sparks flew into the air; the mercenary's sword flew to the ground. Her arms vibrated with the contact and her hands grew numb as she tightened her grip on the mighty sword. Still they came - only four in all, but with deadly intent shining deep within their hungry eyes. What do these men seek? Why would they rather die than run?"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR1089 - Dragon Mountain",
+    "BookShortName": "Dragon Mountain",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1089",
+    "BookISBN": "1-56076-598-4",
+    "BookAuthor": "Colin McComb & Paul Lidberg",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Accessory",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Other Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Boxed Sets\\TSR1089 - Dragon Mountain.pdf"
+    ],
+    "BookDescription": [
+      "The rubble-strewn passageway twists and turns, winding ever deeper into the mountain, lower and lower into the bowels of the ancient, forbidding halls of long-dead dwarves. The torchlight flickers, threatening to succumb to the oppressive darkness. Creeping along one striated granite wall, Arikus the warrior moves cautiously toward the great cavern ahead, its sides and walls disappearing into the gloomy distance. Cocking his head to one side to listen, he holds his hand up for a moment, demanding unconditional quiet from from his companions. Then , his arm relaxing in relief, he waves everyone forward and moves into the open. Before him, scattered to the far walls of the enormous cavern, are piles upon piles of glittering treasure - coins from countless kingdoms, sparkling gems, exquisite jewelry, and items of wondrous power - enough for twenty kings' ransoms. Arikus laughs gleefully, thrusting both hands into the nearest cache of coins to let them runs through his fingers. At that moment, a monstrous shadow looms threateningly over him. Looking up, Arikus blanches and stumbles back in horror before the terrible visage of a Great Red Wyrm. The fearsome dragon opens its razor-filled maw and spews forth a gout of white-hot flame, engulfing the hapless warrior...",
+      "The ultimate DUNGEON MASTER fantasy! This is the most deluxe dungeon, designed to appeal to discriminating and demanding role-players. Adventurers, beware. This is more than just a dragon hunt. Within the lair of this beast lie cruel and and deadly traps, befuddling conundrums and puzzles, and cunning minions that will be the end of overconfident or carelesss adventurers. Inside this box there are:",
+      "Three 64-page books, comprising two adventures that link into one super-campaign",
+      "12 full-colour reference cards",
+      "16 special player handouts",
+      "Eight Monstrous Compendium sheets",
+      "A sheet of cardstock standups with 24 plastic bases",
+      "Six full-colour poster maps, two of which link together to make a giant tactical playing surface for use with miniatures or the included cardstock figures."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
       ]    
   }
   ]

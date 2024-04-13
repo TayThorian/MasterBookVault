@@ -296,5 +296,40 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Book 2 - Galaxy Builder",
+  "BookShortName": "Book 2 - Galaxy Builder",
+  "BookPublisher": "Martin Knight",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "D100",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "D100 Space",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\D100 Series\\Book 2 - Galaxy Builder.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
