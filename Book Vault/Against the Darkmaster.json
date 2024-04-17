@@ -33,11 +33,43 @@
   ],
   "TableOfContents": [
     {
-  "title": "Book",
+  "title": "Book One - A Fellowship Gathers",
   "chapters": [
-    {"page": 1, "title": "TOC TO BE DONE"},
-    {"page": 2, "title": ""}
+    {"page": 2, "title": "Chapter 1 - The Basics"},
+    {"page": 4, "title": "Chapter 2 - Creating a Character"},
+    {"page": 8, "title": "Chapter 3 - Kins"},
+    {"page": 34, "title": "Chapter 4 - Cultures"},
+    {"page": 50, "title": "Chapter 5 - Vocations"},
+    {"page": 58, "title": "Chapter 6 - Skills"},
+    {"page": 74, "title": "Chapter 7 - Backgrounds"},
+    {"page": 86, "title": "Chapter 8 - Finishing Touches"},
+    {"page": 88, "title": "Chapter 9 - Passion and Drive"},
+    {"page": 94, "title": "Chapter 10 - Character Advancement"}
     ]    
+},
+{
+"title": "Book Two - Trails of Adventure",
+"chapters": [
+  {"page": 108, "title": "Chapter 11 - Resolving Actions"},
+  {"page": 114, "title": "Chapter 12 - Magic"},
+  {"page": 126, "title": "Chapter 13 - Movement and Travelling"},
+  {"page": 136, "title": "Chapter 14 - Equipment and Wealth"},
+  {"page": 158, "title": "Chapter 15 - Combat"},
+  {"page": 176, "title": "Chapter 16 - Health and Healing"}
+]    
+},
+{
+"title": "Book Three - Grimoire",
+"chapters": [
+  {"page": 186, "title": "Grimoire"}
+]    
+},
+{
+"title": "Appendix - Game Tables",
+"chapters": [
+  {"page": 261, "title": "Attack Tables"},
+  {"page": 265, "title": "Critical Tables"}
+]    
 }
 ]
 },

@@ -4237,5 +4237,253 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "TSR9301 - FA1 - Halls of the High King",
+    "BookShortName": "FA1 - Halls of the High King",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9301",
+    "BookISBN": "0-88038-881-1",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "FA Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9301 - FA1 - Halls of the High King.pdf"
+    ],
+    "BookDescription": [
+      "Someone in the misty, wooded Moonshae isles needs hundreds of brand new swords taken under guard from Sword Coast smiths to a certain place on the Isles. The swords are needed so badly, and their safe arrival is considered so unlikely, that someone is willing to pay adventurers a lot of gold - someone fairly important.",
+      "Adventures foolish enough to take assignments too good to be true (or merely desperate for coins) will soon find themselves embroiled in a dark and mysterious struggle against evil that will take them into sacred groves, crumbling castles, and through ancient magical gates to the halls of the High King - and beyond",
+      "This sourcebook contains background lore on the Moonshaes, a DM's delight of new monsters, magic items, and spells usable in any AD&D campaign and enough adventure ideas to keep the most energetic player characters seeking their fortunes in the Moonshaes for years to come!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 2, "title": "Introduction"},
+      {"page": 3, "title": "Chapter 1 - The Adventure Begins"},
+      {"page": 10, "title": "Chapter 2 - Danger In Aithe"},
+      {"page": 19, "title": "Chapter 3 - Against The Dark Druid"},
+      {"page": 25, "title": "Chapter 4 - The Halls Of The High King"},
+      {"page": 27, "title": "Chapter 5 - The House Of The Black Hand"},
+      {"page": 37, "title": "Appendix 1 - Harping By Firelight"},
+      {"page": 38, "title": "Appendix 2 - The Risen Cult of Bane"},
+      {"page": 41, "title": "Appendix 3 - Monsters of the Moonshaes"},
+      {"page": 48, "title": "Appendix 4 - New Magic Items"},
+      {"page": 51, "title": "Appendix 5 - New Spells"},
+      {"page": 55, "title": "Appendix 6 - Campaign Adventuring In The Moonshaes"},
+      {"page": 57, "title": "Appendix 7 - Sacred Groves & Moonwells"},
+      {"page": 62, "title": "Appendix 8 - Current Moonshae Rumours"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9341 - FA2 - Nightmare Keep",
+    "BookShortName": "FA2 - Nightmare Keep",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9341",
+    "BookISBN": "1-56076-147-4",
+    "BookAuthor": "Rick Swan",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "FA Series",
+    "BookCharacterLevel": "Levels 18 - 20",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9341 - FA2 - Nightmare Keep.pdf"
+    ],
+    "BookDescription": [
+      "What your players say a the start of Nightmare Keep: \"Oh, look, an underground labyrinth filled with treasure. No one who's gone in ever came out alive. Gosh, we've never seen that before, oh no.\" (Stifled yawn.)",
+      "What they say early on in Nightmare Keep: \"Hold it! What's going on? Oh, yacccch! We're getting out! This way, this way! What's that? Oh, no!\"",
+      "Halfway through Nightmare Keep: \"Okay. If we stick close and look sharp and don't act stupid, I think we might get out of this alive.\"",
+      "At the climax of Nightmare Keep: \"Oh no. Oh no.\" A would-be conqueror is raising hordes of undead insects beneath Wolover's Keep in the Veilstone Peaks. This evil being was once a lich, a powerful undead wizard -- but that was not enough. Now something strange exists beneath the Keep, something repellent-and strong beyond measure.",
+      "Nightmare Keep: for the AD&D game adventurer with courage, a strong stomach, and superior firepower. This adventure is set near northwestern Cormyr in the Forgotten Realms, but it fits easily into any ongoing high-level campaign."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "Introduction"},
+      {"page": 6, "title": "Prologue - Flies and Lizards"},
+      {"page": 9, "title": "Chapter 1 - Squirrels and Wasps"},
+      {"page": 22, "title": "Chapter 2 - Goldfish and Turtles"},
+      {"page": 26, "title": "Chapter 3 - Leeches and Butterflies"},
+      {"page": 55, "title": "Chapter 4 - Spiders and Worms"},
+      {"page": 62, "title": "New Magic - Rod of Immobile Insects"},
+      {"page": 63, "title": "New Monster - Lichling"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9297 - FOR1 - Draconomicon",
+    "BookShortName": "FOR1 - Draconomicon",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9297",
+    "BookISBN": "0-88038-876-5",
+    "BookAuthor": "Nigel Findley",
+    "BookPublished": "1999",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FOR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9297 - FOR1 - Draconomicon.pdf"
+    ],
+    "BookDescription": [
+      "The creatures of lore and legend-of myth and mystery - only the dragons know the answers to the secrets and ciphers that surround them. But brave adventuring souls who have gone before have left behind clues and epistles with valuable information for anyone in pursuit of dragons. This tome is a compilation of the lifetime efforts of numerous dragon-hunting adventurers, presented to those who crave hints and leads for dragon-questing."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 2, "title": "Chapter 1 - Reference"},
+      {"page": 34, "title": "Chapter 2 - Geography"},
+      {"page": 39, "title": "Chapter 3 - Dragon Psychology"},
+      {"page": 46, "title": "Chapter 4 - Role-Playing Dragons"},
+      {"page": 56, "title": "Chapter 5 - Dragon Hall of Fame"},
+      {"page": 64, "title": "Chapter 6 - New Dragon Species"},
+      {"page": 73, "title": "Chapter 7 - Magic"},
+      {"page": 80, "title": "Chapter 8 - Hunter's Guide"},
+      {"page": 84, "title": "Chapter 9 - Miscellaneous Information"},
+      {"page": 90, "title": "The Millennium Dragon"},
+      {"page": 100, "title": "Invitation to a Robbery"},
+      {"page": 109, "title": "The Servants of the Verdant Cloud"},
+      {"page": 120, "title": "Draco Holy Wars"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9326 - FOR2 - Drow of the Underdark",
+    "BookShortName": "FOR2 - Drow of the Underdark",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9326",
+    "BookISBN": "1-56076-132-6",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FOR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9326 - FOR2 - Drow of the Underdark.pdf"
+    ],
+    "BookDescription": [
+      "They are the favourite foes of many a party of adventurers. In these pages, the drow come to life, their culture and powers detailed fully for the first time. This guide presents new rules galore; new spells, new magical items, insight into the mysteries of Lolth, Monstrous Compendium entries for related monsters of the Underdark-and much, much more.",
+      "Learn all about the drow herein, from the words of the ancient elven sage Erlathan Greycloak (\"Proud, graceful evil. Cruelty personified; talent wasted, beauty lost in darkness\" ) to the lore of the great sage Elminster (\"Did I ever tell thee how close I came to having a drow wife? No? Well, then\")."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 3, "title": "Introduction - Drow In The Realms"},
+      {"page": 5, "title": "The Nature of Dark Elves"},
+      {"page": 13, "title": "Dark Elven Society"},
+      {"page": 20, "title": "Drow Religion"},
+      {"page": 21, "title": "Eilistraee"},
+      {"page": 27, "title": "Ghaunadaur (The Elder Elemental God)"},
+      {"page": 35, "title": "Lolth"},
+      {"page": 43, "title": "Vhaeraun"},
+      {"page": 46, "title": "The High History of the Drow"},
+      {"page": 49, "title": "Drow Spells"},
+      {"page": 69, "title": "Drow Magical Items"},
+      {"page": 87, "title": "Drow Craftwork"},
+      {"page": 95, "title": "Drow Language"},
+      {"page": 96, "title": "Drow Nomenclature"},
+      {"page": 100, "title": "A Selected Glossary of Deep Drow"},
+      {"page": 103, "title": "Dark Elven Runes"},
+      {"page": 109, "title": "The Spider And The Axe: War In The Depths"},
+      {"page": 111, "title": "The Underdark"},
+      {"page": 112, "title": "Monsters of the Underdark"},
+      {"page": 113, "title": "Bat, Deep"},
+      {"page": 115, "title": "Dragon, Deep"},
+      {"page": 117, "title": "Myrlochar"},
+      {"page": 118, "title": "Pedipalp"},
+      {"page": 120, "title": "Rothe"},
+      {"page": 122, "title": "Solifugid"},
+      {"page": 123, "title": "Spider, Subterranean"},
+      {"page": 125, "title": "Spitting Crawler"},
+      {"page": 126, "title": "Yochlol"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9346 - FOR3 - Pirates of the Fallen Stars",
+    "BookShortName": "FOR3 - Pirates of the Fallen Stars",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9346",
+    "BookISBN": "1-56076-320-5",
+    "BookAuthor": "Curtis Scott",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FOR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9346 - FOR3 - Pirates of the Fallen Stars.pdf"
+    ],
+    "BookDescription": [
+      "\"Aye, fightin' ship to ship is a grand thing. Makes ya feel like a real pirate, aimin' ballistas and catapults and such at the enemy, blastin' great holes in her hull, watchin' 'em flee like rats.\" Jomo Shanbaeren's eyes glaze over with memories, and for a moment he looks like a young man again as he relives his glory days.",
+      "\"And boardin'! That's the thrill - leapin' from yer own gunwales onto the enemy's deck, cutlass flashin', givin' 'em the ol' hook-and-eye\" - the retired pirate slashes at an invisible opponent with the iron hook that takes the place of his right hand - \"...drivin' 'em back to the rails!",
+      "\"Let me tell yer about the time we took on Teldar and the Kissing Maiden?\"",
+      "Pirates of the Fallen Stars reveals for the first time the details about the Pirate Isles, in the center of the Inner Sea. Here are the facts about their societies, their interactions with the Inner Sea nations, their pirate kings, their ships, their style of combat; in fact, here is everything any DM or player needs to know to enjoy a campaign in the Sea of Fallen Stars and its environs."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 3, "title": "Introduction - A Pirate's Life for Me"},
+      {"page": 4, "title": "Chapter 1 - To Be A Pirate"},
+      {"page": 18, "title": "Chapter 2 - Generating Pirate Characters"},
+      {"page": 34, "title": "Chapter 3 - Nations of the Inner Sea"},
+      {"page": 50, "title": "Chapter 4 - The Pirate Isles"},
+      {"page": 69, "title": "Chapter 5 - The Rogues' Gallery"},
+      {"page": 80, "title": "Chapter 6 - Ships of the Inner Sea"},
+      {"page": 96, "title": "Chapter 7 - Movement and Combat"},
+      {"page": 111, "title": "Chapter 8 - Raid on Teziir"},
+      {"page": 126, "title": "Pirate-Speak"}
+      ]    
+  }
+  ]
   }
 ]

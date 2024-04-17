@@ -12,6 +12,8 @@
 ## Free League Publishing
 - FLFFBL014 - Crypt of the Mellified Mage
 - MUH051557 - The Spire of Quetzel
+- - The World of Symbaroum
+- - The Throne of Thorns I
 ## Iron Crown Enterprises
 - ICE2210 - Middle-Earth Adventure Guidebook II
 - ICE2300 - Angmar - Land of the Witch King
@@ -369,3 +371,6 @@
 - WTC178720000 - Champions of Ruin
 - WTC957327200 - Expedition to Undermountain
 - WTC978078694 - Grand History of the Realms
+## Free League Publishing
+- - The World of Symbaroum
+- - The Throne of Thorns I

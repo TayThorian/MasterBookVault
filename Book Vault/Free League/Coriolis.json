@@ -620,5 +620,75 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Coriolis - The Great Dark",
+  "BookShortName": "Coriolis - The Great Dark",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "The Great Dark",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "On Order",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Great Dark",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "The Flowers of Algorab",
+  "BookShortName": "The Flowers of Algorab",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Coriolis",
+  "BookEdition": "The Great Dark",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "On Order",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Great Dark",
+  "BookType": "Campaign",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Campaigns",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

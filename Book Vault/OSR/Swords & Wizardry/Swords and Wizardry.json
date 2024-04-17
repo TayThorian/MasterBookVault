@@ -56,7 +56,7 @@
   "BookRules": "Swords & Wizardry",
   "BookEdition": "Complete Revised",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "On Order",
   "BookLibrary": "Yes",
   "BookSetting": "",
   "BookType": "Supplement",
@@ -511,6 +511,146 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\OSR\\Swords and Wizardry\\ONS6 - Curse of Shadowhold.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Book of Options",
+  "BookShortName": "Book of Options",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete Revised",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "On Order",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Fiends and Foes",
+  "BookShortName": "Fiends and Foes",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete Revised",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "On Order",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Tomb of the Iron God",
+  "BookShortName": "Tomb of the Iron God",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete Revised",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "On Order",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "The Domain of Heryngard",
+  "BookShortName": "The Domain of Heryngard",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete Revised",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "On Order",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
   ],
   "BookDescription": [
     "No description available."
