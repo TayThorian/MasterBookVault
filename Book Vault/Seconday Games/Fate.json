@@ -9,7 +9,7 @@
     "BookPublished": "203",
     "BookCover": "",
     "BookRules": "FATE",
-    "BookEdition": "",
+    "BookEdition": "Fate Core",
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
@@ -47,7 +47,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "FATE",
-  "BookEdition": "",
+  "BookEdition": "Fate Core",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -88,7 +88,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "FATE",
-  "BookEdition": "",
+  "BookEdition": "Fate Core",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -109,6 +109,353 @@
     "Modified and thematic compels designed to help up the suspense and visceral horror elements in your games",
     "A variety of new aspect types such as legacy and intensity aspects to help develop thematic horror elements and define boundaries",
     "A campaign framework for running horror stories based on teamwork—particularly good for younger audiences."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "EHP0002 - Fate Accelerated",
+  "BookShortName": "Fate Accelerated",
+  "BookPublisher": "Evil Hat Productions",
+  "BookCode": "EHP0002",
+  "BookISBN": "978-1-61317-047-2",
+  "BookAuthor": "Clark Valentine",
+  "BookPublished": "2013",
+  "BookCover": "",
+  "BookRules": "FATE",
+  "BookEdition": "Fate Accelerated",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "FATE",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\FATE\\EHP0002 - Fate Accelerated.pdf"
+  ],
+  "BookDescription": [
+    "Let’s face it: most roleplaying games aren’t grab-and-go. Giant books and prep work out the ying-yang can be fun if you’ve got the time, but what if you don’t? What if you’re looking for a last minute game? What if you’re new to the RPG world and want a no hassle way to try one out? What if you’re introducing your kids to RPGs and want something easily accessible for them that won’t bore you to tears? We’ve got a solution: Fate Accelerated Edition.",
+    "Fate Accelerated, or FAE, is a condensed version of the popular Fate Core system that brings all the flexibility and power of Fate in an easily digestible—and quickly read—package. With FAE, you and your friends can step into the world of your favorite books, movies, and TV or you can create a world of your own. And set up is simple—you can be playing in minutes. Whether you’re new to RPGs or an expert gamer, FAEbrings something special to the table.",
+    "Fate Accelerated Edition. Your story—full speed ahead."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 5, "title": "Get Started!"},
+    {"page": 6, "title": "Telling Stories Together"},
+    {"page": 8, "title": "Who Do You Want To Be?"},
+    {"page": 12, "title": "How To Do Stuff: Outcomes, Actions, and Approaches"},
+    {"page": 19, "title": "Challenges, Contests, and Conflicts"},
+    {"page": 22, "title": "Ouch! Damage, Stress, and Consequences"},
+    {"page": 25, "title": "Aspects and Fate Points"},
+    {"page": 31, "title": "Stunts"},
+    {"page": 33, "title": "Getting Better at Doing Stuff: Character Advancement"},
+    {"page": 35, "title": "Being the GM"},
+    {"page": 40, "title": "Example Characters"},
+    {"page": 44, "title": "Quick Reference"}
+    ]    
+}
+]
+},
+{
+  "BookName": "EHP0003 - Fate Worlds Volume One - Worlds on Fire",
+  "BookShortName": "Fate Worlds Volume One - Worlds on Fire",
+  "BookPublisher": "Evil Hat Productions",
+  "BookCode": "EHP0003",
+  "BookISBN": "978-1-61317-048-9",
+  "BookAuthor": "Brennan Taylor, Clark Valentine, Filamena Young, Sarah J. Newton, Jason Morningstar, Brian Engard",
+  "BookPublished": "2013",
+  "BookCover": "",
+  "BookRules": "FATE",
+  "BookEdition": "Fate Core",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "FATE",
+  "BookType": "Fate Worlds",
+  "BookFormat": "PDF",
+  "BookSeries": "Fate Worlds",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\FATE\\EHP0003 - Fate Worlds Volume One - Worlds on Fire.pdf"
+  ],
+  "BookDescription": [
+    "Flexible RPG systems like Fate Core are terrific if you have the time and energy to put into building a world. But we also realize that sometimes extensive prep just isn’t feasible. The good news? You can still experience the Fate awesomeness with the help of the Fate Worlds expansion.",
+    "Fate Worlds Volume One: Worlds on Fire is the first in a two-volume set. In Worlds on Fire, you get six rich story settings. Each setting includes custom mechanics, NPCs, and story elements—all ready to go using the system provided in Fate Core. We’ve got you covered regardless of your flavor of RPG choice. Divest an evil cult of a powerful idol in Tower of the Serpents, or experience the small town supernatural in White Picket Witches. Explore the lives, loves, and losses of fire fighters in Fight Fire, or take on a horde of WWI mechanical monstrosities in Kriegszeppelin Valkyrie. Whether you stick with one world or go on a grand tour, Fate Worlds will provide everything you need to develop your Fate Core adventure except the snacks.",
+    "Fate Worlds. All the worlds. Your stage.",
+    "Fate Worlds: Worlds on Fire is a supplement for the Fate Core system.",
+    "WORLDS ON FIRE INCLUDES:",
+    "Tower of the Serpents by Brennan Taylor",
+    "White Picket Witches by Filamena Young",
+    "Fight Fire by Jason Morningstar",
+    "Kriegszeppelin Valkyrie by Clark Valentine",
+    "Burn Shift by Sarah J. Newton",
+    "Wild Blue by Brian Engard"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "EHP0004 - Fate Worlds Volume Two - Worlds in Shadow",
+  "BookShortName": "Fate Worlds Volume Two - Worlds in Shadow",
+  "BookPublisher": "Evil Hat Productions",
+  "BookCode": "EHP0004",
+  "BookISBN": "978-1-61317-049-6",
+  "BookAuthor": "",
+  "BookPublished": "2013",
+  "BookCover": "John Rogers, Shoshana Kessock, Mark Diaz Truman, J.R. Blackwell, Lisa J. Steele, Rob Wieland",
+  "BookRules": "FATE",
+  "BookEdition": "Fate Core",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "FATE",
+  "BookType": "Fate Worlds",
+  "BookFormat": "PDF",
+  "BookSeries": "Fate Worlds",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\FATE\\EHP0004 - Fate Worlds Volume Two - Worlds in Shadow.pdf"
+  ],
+  "BookDescription": [
+    "Flexible RPG systems like Fate Core are terrific if you have the time and energy to put into building a world. But we also realize that sometimes extensive prep just isn’t feasible. The good news? You can still experience the Fate awesomeness with the help of the Fate Worlds expansion.",
+    "Fate Worlds Volume Two: Worlds in Shadow is the second in a two-volume set. In Worlds in Shadow, you get six rich story settings. Each setting includes custom mechanics, NPCs, and story elements—all ready to go using the system provided in Fate Core. We’ve got you covered regardless of your flavor of RPG choice. Be a knight in a giant robot suit in Camelot Trigger, or get on the grift with CrimeWorld. Fight off alien invaders in the court of Louis XV in Court/Ship, or indulge your time travel fantasies in Timeworks. Whether you stick with one world or go on a grand tour, Fate Worlds will provide everything you need to develop your Fate Core adventure except the snacks.",
+    "Fate Worlds. All the worlds. Your stage.",
+    "Fate Worlds: Worlds in Shadow is an expansion for the Fate Core System.",
+    "WORLDS IN SHADOW INCLUDES:",
+    "CrimeWorld by John Rogers",
+    "Timeworks by Mark Diaz Truman",
+    "The Ellis Affair by Lisa Steele",
+    "No Exit by Shoshana Kessock",
+    "Court/Ship by J.R. Blackwell",
+    "Camelot Trigger by Robert Wieland"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "EHP0005 - Fate System Toolkit",
+  "BookShortName": "Fate System Toolkit",
+  "BookPublisher": "Evil Hat Productions",
+  "BookCode": "EHP0005",
+  "BookISBN": "978-1-61317-050-2",
+  "BookAuthor": "Robert Donoghue",
+  "BookPublished": "2013",
+  "BookCover": "",
+  "BookRules": "FATE",
+  "BookEdition": "Fate Core",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "FATE",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Toolkits",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\FATE\\EHP0005 - Fate System Toolkit.pdf"
+  ],
+  "BookDescription": [
+    "Rules, glorious rules! The Fate Core system is flexible, hackable, and adaptable to any world you can dream up. This Fate System Toolkit is packed with system ideas to bring those dreams to life.",
+    "Learn how to hack the skill system to better suit your terraforming campaign. Get ideas on how to create races and societies for your woodland elves, subterranean aliens, or afterlife police force. Customize our magic starters to create your own system, and use our gadget starters to bring your gear to life (only not literally).",
+    "Whatever genre you’re gaming, you’ll find a wide array of customizable concepts and optional rules in the Fate System Toolkit to take your campaign to the next level.",
+    "Fate System Toolkit.",
+    "Raise your game!",
+    "Fate System Toolkit is an expansion for the Fate Core System."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "EHP0006 - Atomic Robo - The Roleplaying Game",
+  "BookShortName": "Atomic Robo - The Roleplaying Game",
+  "BookPublisher": "Evil Hat Productions",
+  "BookCode": "EHP0006",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "FATE",
+  "BookEdition": "Fate Core",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Atomic Robo",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Atomic Robo",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\FATE\\EHP0006 - Atomic Robo - The Roleplaying Game.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "EHP0027 - Kaiju Incorporated",
+  "BookShortName": "Kaiju Incorporated",
+  "BookPublisher": "Evil Hat Productions",
+  "BookCode": "EHP0027",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "FATE",
+  "BookEdition": "Fate Core",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Kaiju",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Kaiju",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\FATE\\EHP0027 - Kaiju Incorporated.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "EHP0053 - Fate Space Toolkit",
+  "BookShortName": "Fate Space Toolkit",
+  "BookPublisher": "Evil Hat Productions",
+  "BookCode": "EHP0053",
+  "BookISBN": "978-1-61317-174-5",
+  "BookAuthor": "Bill White, C.W. Marshall, Joshua A.C. Newman, Mikki Kendall",
+  "BookPublished": "2020",
+  "BookCover": "",
+  "BookRules": "FATE",
+  "BookEdition": "Fate Core",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "FATE",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Toolkits",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\FATE\\EHP0053 - Fate Space Toolkit.pdf"
+  ],
+  "BookDescription": [
+    "Take your game into the great unknown!",
+    "When you’re heading into the depths of outer space inside a tin can with a rocket strapped to one end, it’s critical to have the right instruction manual at your side. The Fate Space Toolkit is that manual, with advice and toolsets for Fate Core that run the gamut from hard science fiction to space opera and beyond. ",
+    "The Fate Space Toolkit requires Fate Core to play. Inside you'll find:",
+    "Guidelines for creating a space-faring game without breaking your table's sense of what's plausible.",
+    "Multiple options for deciding how space-travel works in your setting, from star charts to rocket ships.",
+    "A variety of tools for making your space fights exciting and consistent with your setting.",
+    "Guidance on creating aliens and alien worlds.",
+    "Five ready-to-go campaign-starter settings showcasing all of the toolkit's tools in action.",
+    "Fate Toolkits.",
+    "All the tools to build your stage."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 4, "title": "The Fate Toolkit Series"},
+    {"page": 5, "title": "Introduction"},
+    {"page": 11, "title": "Creating a Fate Space Game"},
+    {"page": 23, "title": "Character Creation"},
+    {"page": 48, "title": "Spacecraft and Space Travel"},
+    {"page": 75, "title": "Space Combat"},
+    {"page": 96, "title": "Aliens and Alien Worlds"},
+    {"page": 111, "title": "The Gods Know Future Things"},
+    {"page": 120, "title": "The High Frontiersmen"},
+    {"page": 133, "title": "Mass Drivers"},
+    {"page": 149, "title": "Millennials"},
+    {"page": 160, "title": "Pax Galactica"},
+    {"page": 174, "title": "Appendix: Inspiration, Information, and Reference"},
+    {"page": 176, "title": "About the Authors"}
+    ]    
+}
+]
+},
+{
+  "BookName": "Nitrate City",
+  "BookShortName": "Nitrate City",
+  "BookPublisher": "Evil Hat Productions",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Doselle Young, Bill White",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "FATE",
+  "BookEdition": "Fate Core",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Nitrate City",
+  "BookType": "Adventure",
+  "BookFormat": "PDF",
+  "BookSeries": "A World of Adventure for Fate Core",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookDescription": [
+    "Nitrate City is a place where elements of Film Noir and classic movie monsters combine with explosive results. It’s a place populated by slick vampire private eyes, clever werewolf gamblers, cigarette smoking mummy fatales and deadly hit men from beneath the darkest waters.",
+    "You might be a member of ‘The Night Squad,’ a unique off-the-books crime-fighting task force, or perhaps you work best on your own. Regardless of your allegiance, your work will be opposed at every move by a secret society of criminals called ‘The Consortium,’ led by notorious criminal Victor Stitch, aka Frankenstein’s Mobster.",
+    "Walk the mean streets of this action-packed, celluloid landscape in this Fate World of Adventure by Doselle Young and Bill White",
+    "Nitrate City requires Fate Core or Fate Accelerated to play. This 51-page supplement includes:",
+    "A random character concept system that blends classic movie monsters and noir archetypes",
+    "A cinematic take on Fate Accelerated character approaches: Action, Comedy, Drama, and Horror",
+    "Celluloid inspired systems like the Flicker Effect to bring maximum noir to your campaigns",
+    "Simple rules to generate noir cases for use in Fate games",
+    "A complete starter adventure: The Blood Dahlia",
+    "When you walk the flickering streets of Nitrate City, always watch your back."
   ],
   "TableOfContents": [
     {

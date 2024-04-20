@@ -302,7 +302,7 @@
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "2300AD",
-  "BookType": "Boxed Set",
+  "BookType": "Rulebook",
   "BookFormat": "Boxed Set",
   "BookSeries": "2300AD",
   "BookCharacterLevel": "",
@@ -324,6 +324,111 @@
     "Director's Guide - 112 pages of referee information",
     "Near Star Map - full-color, poster-size map of the stars",
     "Play Aids - 32 page book of aids, including: 16 pages of forms, 8-page solitaire adventure, and a 9-page catalog of star data."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP20000 - 2300AD - Core Rulebook",
+  "BookShortName": "2300AD - Core Rulebook",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP20000",
+  "BookISBN": "978-1-907702-73-0",
+  "BookAuthor": "Colin Dunn",
+  "BookPublished": "2012",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "Mongoose Traveller - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "2300AD",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20000 - 2300AD - Core Rulebook.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP20002 - Tools for Frontier Living",
+  "BookShortName": "Tools for Frontier Living",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP20002",
+  "BookISBN": "978-1-907702-86-0",
+  "BookAuthor": "Colin Dunn",
+  "BookPublished": "2012",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "Mongoose Traveller - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "2300AD",
+  "BookType": "Supplement",
+  "BookFormat": "Softcover",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20002 - Tools for Frontier Living.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP20003 - French Arm Adventures",
+  "BookShortName": "French Arm Adventures",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP20003",
+  "BookISBN": "978-1-907702-93-8",
+  "BookAuthor": "Colin Dunn",
+  "BookPublished": "2012",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "Mongoose Traveller - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "2300AD",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\21 - 2300AD\\MGP20003 - French Arm Adventures.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
   ],
   "TableOfContents": [
     {

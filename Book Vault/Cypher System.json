@@ -138,7 +138,7 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookSetting": "",
+  "BookSetting": "Planebreaker",
   "BookType": "Sourcebook",
   "BookFormat": "",
   "BookSeries": "Sourcebook",
@@ -516,6 +516,159 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Cypher System\\MCG072 - Cypher System Rulebook.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG372 - Cypher System Bestiary",
+  "BookShortName": "Cypher System Bestiary",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG372",
+  "BookISBN": "",
+  "BookAuthor": "Bruce R. Cordell",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "Core",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG372 - Cypher System Bestiary.pdf"
+  ],
+  "BookDescription": [
+    "Scores of awe-inspiring creatures in an amazing presentation",
+    "Mystify, frighten, and challenge your PCs with this stunningly illustrated collection that gives you an almost infinite array of encounters. Dozens and dozens of inspiring creatures familiar and new are detailed within these pages, along with oodles of variants and customization options.",
+    "It’s never been easier! A streamlined stat block helps you quickly reference everything you need to run the creature at the table. But delve deeper, and the creature entry is chock full of lore, fascinating details and supporting information, and options. Find a myriad of ways to customize the creature, with different names, alternate special abilities and traits, interesting looks, distinct motivations, companions or pets, lair designs, unique mechanics, and more.",
+    "Many of the creatures are presented in special three-page spreads, giving them a unique showcase and putting loads of info at your fingertips. The PDF of the Cypher System Bestiary is paginated in 2-page spreads, to keep the viewing experience consistent as you scroll through the book. But the special spreads are also included at the end of the file in their three-page format.",
+    "Within this bestiary you’ll find:",
+    "Over 125 distinct creatures, plus dozens of variants—and the tools to create hundreds of interesting alternate versions. Every creature in this book is compatible with every Cypher System campaign.",
+    "Detailed creature listings with loads of ancillary information that helps you breathe life and color into any encounter. Find names, pets and companions, lairs, alternate traits and abilities, and other inspiring elements.",
+    "Extended sections for key creatures and topics that put loads of information at your fingertips.",
+    "A new stat bloc format that makes running Cypher System creatures even easier than ever!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG328 - Planar Character Options",
+  "BookShortName": "Planar Character Options",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG328",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planebreaker",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG328 - Planar Character Options.pdf"
+  ],
+  "BookDescription": [
+    "Planar natives, multiverse explorers, and those touched by mysterious forces leaking through from the planes: these characters are shaped by backgrounds and experiences unlike those found in more conventional environs. From a Warrior who Strikes With an Amethyst Fist, channelling power through a psionically resonant prosthetic, to a traveller character with a mysterious cosmic map imprinted on their skin, to a character with the Limbo Touched ability, who can change objects at will—characters with ties to the planes are just a bit different.",
+    "This book is brimming with new material and new choices to create and advance characters shaped by contact from beyond, including:",
+    "Over two dozen new species descriptors, planar descriptors, and foci. Play a Cosmic Rambler, Crossplane Refugee, or Reformed Fiend, who Aspires to Angelic Perfection, Is Pledged to Annihilation, or Wields a Chaos Blade.",
+    "Scores of new character abilities that can be integrated into any Cypher System game. Build or modify your own types, descriptors, and foci to bring a touch of the transdimensional to any campaign!",
+    "Dozens of cyphers and artifacts from, or affected by, the planes. Wield a soul net, reality tuner, or crow’s eye.",
+    "This is an inspiring companion to Path of the Planebreaker, but you don’t need that book to enjoy everything this tome offers. This book duplicates some material from Path of the Planebreaker (so players can find all character-related content in a single place), but most of this book’s content is new and not duplicated from that title."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG300 - The Origin",
+  "BookShortName": "The Origin",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG300",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG300 - The Origin.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG290 - First Responders",
+  "BookShortName": "First Responders",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG290",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG290 - First Responders.pdf"
   ],
   "BookDescription": [
     "No description available."

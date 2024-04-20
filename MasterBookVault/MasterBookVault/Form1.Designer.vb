@@ -71,6 +71,7 @@ Partial Class Form1
         Label4 = New Label()
         Label18 = New Label()
         Panel2 = New Panel()
+        Label19 = New Label()
         TextBoxCharLvl = New TextBox()
         Label24 = New Label()
         Panel3 = New Panel()
@@ -83,7 +84,6 @@ Partial Class Form1
         ContextMenuStrip1 = New ContextMenuStrip(components)
         TextBoxObjectCount = New TextBox()
         Label25 = New Label()
-        Label19 = New Label()
         Panel1.SuspendLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(WebView2Description, ComponentModel.ISupportInitialize).BeginInit()
@@ -615,6 +615,16 @@ Partial Class Form1
         Panel2.Size = New Size(1619, 1155)
         Panel2.TabIndex = 8
         ' 
+        ' Label19
+        ' 
+        Label19.AutoSize = True
+        Label19.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
+        Label19.Location = New Point(650, 656)
+        Label19.Name = "Label19"
+        Label19.Size = New Size(63, 21)
+        Label19.TabIndex = 50
+        Label19.Text = "Details"
+        ' 
         ' TextBoxCharLvl
         ' 
         TextBoxCharLvl.BackColor = SystemColors.Window
@@ -739,16 +749,6 @@ Partial Class Form1
         Label25.Text = "Total Books:"
         Label25.TextAlign = ContentAlignment.MiddleCenter
         ' 
-        ' Label19
-        ' 
-        Label19.AutoSize = True
-        Label19.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label19.Location = New Point(650, 656)
-        Label19.Name = "Label19"
-        Label19.Size = New Size(63, 21)
-        Label19.TabIndex = 50
-        Label19.Text = "Details"
-        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -767,7 +767,7 @@ Partial Class Form1
         Controls.Add(Panel2)
         Controls.Add(Panel4)
         Name = "Form1"
-        Text = "Mast Book Vault"
+        Text = "Master Book Vault"
         Panel1.ResumeLayout(False)
         CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()
         CType(WebView2Description, ComponentModel.ISupportInitialize).EndInit()

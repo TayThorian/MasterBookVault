@@ -2590,5 +2590,66 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "TSR9193 - GAZ01 - The Grand Duchy of Karameikos",
+    "BookShortName": "GAZ01 - The Grand Duchy of Karameikos",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9193",
+    "BookISBN": "0-88038-391-7",
+    "BookAuthor": "Aaron Allston",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Gazetteer",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Gazetteer",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9193 - GAZ01 - The Grand Duchy of Karameikos.pdf"
+    ],
+    "BookDescription": [
+      "This is the first in a series - a completely new concept in gaming aids for the Dungeons & Dragons game system. Within these covers is a complete historical, economical, geographical, and sociological overview of the Grand Duchy of Karameikos. Entries on (and maps of) the major cities and towns, as well as biographical entries on the important figures in the Duchy, will aid the DM in preparing his own adventures as well as enrich the playing of published adventures.",
+      "In addition, there is a full-size, four-color map showing not only Karameikos itself, but also the capital city of Specularum, the city of Kelvin, and the town of Threshold. This map will be full compatible with those to follow in the series, so the DMs and players can put them side by side for comparison and/or play.",
+      "Beginning with the Grand Duchy of Karameikos, this series provides a rich tapestry of background material for player and DM alike, sure to benefit the gamer immeasurably."
+    ],
+    "TableOfContents": [
+      {
+      "title": "GAZ01 - The Grand Duchy of Karameikos",
+      "chapters": [
+        {"page": 2, "title": "Introduction"}
+        ]
+      },
+      {
+      "title": "Part One - Gazetteer Section",
+      "chapters": [
+        {"page": 3, "title": "Players' Background"},
+        {"page": 12, "title": "The History of Karameikos"},
+        {"page": 16, "title": "Politics of Karameikos"},
+        {"page": 19, "title": "Karameikos Society"},
+        {"page": 34, "title": "The Karameikos Economy"},
+        {"page": 35, "title": "The Lay of the Land"},
+        {"page": 36, "title": "The Communities of Karameikos"},
+        {"page": 42, "title": "Characters"},
+        {"page": 60, "title": "Monsters"}
+      ]    
+    },
+    {
+    "title": "Part Two - Adventure Section",
+    "chapters": [
+      {"page": 61, "title": "Adventure Themes"},
+      {"page": 62, "title": "Basic Adventures"},
+      {"page": 63, "title": "Expert Adventures"},
+      {"page": 64, "title": "Companion Adventures"},
+      {"page": 64, "title": "Masters Adventures"},
+      {"page": 64, "title": "Adventures in Print"}
+    ]    
+  }
+    ]
   }
 ]

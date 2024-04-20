@@ -4485,5 +4485,434 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "WTC179290000 - Shining South",
+    "BookShortName": "Shining South",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC179290000",
+    "BookISBN": "0-7869-3492-1",
+    "BookAuthor": "Thomas M. Reid",
+    "BookPublished": "2004",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Hardbacks & Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC179290000 - Shining South.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9547 - FOR11 - Cult of the Dragon",
+    "BookShortName": "FOR11 - Cult of the Dragon",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9547",
+    "BookISBN": "0-7869-0709-6",
+    "BookAuthor": "Dale Donovan",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FOR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9547 - FOR11 - Cult of the Dragon.pdf"
+    ],
+    "BookDescription": [
+      "No longer can the members of one of the most infamous clandestine organizations in all the Realms lurk in their confortable shadows. No more can these men, women, dragons, dracoliches, and... others... scheme to subjugate all that is good and true while the rest of Faerun waits unaware. For centuries has the evil secret society founded by the mad mage and Chosen of Mystra, Sammaster, labored secretly-well, no more!",
+      "This 128-page book lays bare the secrets of Sammaster and the secret society he created over 400 years ago. Herein is written the story of Sammaster's life, his triumphs, and his ultimate fall from grace, along with the history of the Cult of the Dragon, beginning with its foundation based on an obscure line in a tome of ancient prophecy. Learn of the Cult's most powerful current cells, their leaders, the dragons and dracoliches that work with them (or for them), and their goals. Discover the many foes the Cult has earned in over four centuries of treachery and industrious malevolent dealings. Also included are the details of some of the spells and magical items of the Cult and its dragons and dracoliches, including the one item that no Cult member will ever admit the existence of, much less claim to possess.",
+      "Read about the many magical variant and hybrid creatures that the Cult uses to exercise its will across the face of Faerun. And finally, decide the best way to incorporate the Cult into a Forgotten Realms campaign by browsing the numerous adventure hooks for just the right scenario to tempt and terrify players of any gaming style."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9509 - FOR10 - Warriors and Priests of the Realms",
+    "BookShortName": "FOR10 - Warriors and Priests of the Realms",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9509",
+    "BookISBN": "0-78690-368-6",
+    "BookAuthor": "John Terra",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "FOR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9509 - FOR10 - Warriors and Priests of the Realms.pdf"
+    ],
+    "BookDescription": [
+      "Fighters and clerics have long been mainstays in AD&D game campaigns. Now, discover the dozens of kits created to adapt these basic classes to the unique and popular lands of Faerûn. Learn what a difference your homeland makes when you choose a warrior's kit, or discover benefits as will as disadvantages of worshipping certain gods of the Realms.",
+      "Some differences among people are subtle, while others can be quite glaring. This tome reveals ways to identify whether a mercenary hails from Chondath or Waterdeep. Not all black-clad priests are evil followers of Cyric, and even priests of the demipowers have skills to respect.",
+      "In addition to priests and warrior kits, unique PC subclasses are revealed herein: the Harper, roving guardian of nature and justice, and the Crusader, a militant priest able to defend the faith with steel if necessary.",
+      "As sure as Elminster's pipe glows green, the true warriors and priests of the Realms stand revealed at last!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9354 - FRQ1 - Haunted Halls of Eveningstar",
+    "BookShortName": "FRQ1 - Haunted Halls of Eveningstar",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9354",
+    "BookISBN": "1-56076-325-6",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "FRQ Series",
+    "BookCharacterLevel": "Levels 1 - 5",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9354 - FRQ1 - Haunted Halls of Eveningstar.pdf"
+    ],
+    "BookDescription": [
+      "Welcome to the picturesque village of Eveningstar, nestled at the foot of the Stonelands where the River Starwater winds down a gorge and snakes into the King's Forest. Here, the Knights of Myth Drannor began their famous adventures. Here, the Ladies of the Brazen Blade, The Company of the Singing Sword, The Steel Shield Band, and many other came, clutching royal charters from King Azoun with the ink scarcely dry on the parchment. Some fell, some went on to greatness-but they all came here first; to the Haunted Halls.",
+      "Despite numerous infiltrations, the Halls have not yet yielded all their secrets or treasures. Many dangers lurk as deadly as ever in dark chambers herein, awaiting new companies of eager-eyed adventurers.",
+      "Is it your turn to dare The Haunted Halls? Many come, but few survive to again see Eveningstar's beauty.",
+      "Welcome, then. Enter in, and find in these pages:",
+      "A challenging introductory level dungeon.",
+      "A detailed countryside setting, including important local personages, local color, and guidelines for play. Suggested campaign plots and adventures.",
+      "New spells.",
+      "New magical items.",
+      "New monsters.",
+      "A splendid campaign can begin here. Adventurers in an ongoing campaign can stop by for a memorable visit. Those looking for an underground stronghold may even find a home in the Haunted Halls of Eveningstar."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9369 - FRQ2 - Hordes of Dragonspear",
+    "BookShortName": "FRQ2 - Hordes of Dragonspear",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9369",
+    "BookISBN": "1-56076-333-7",
+    "BookAuthor": "William W. Connors",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "FRQ Series",
+    "BookCharacterLevel": "Levels  10 - 12",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9369 - FRQ2 - Hordes of Dragonspear.pdf"
+    ],
+    "BookDescription": [
+      "Dragonspear Castle. All who live within several hundred miles have heard the name and know its import. Once home to the proud and the brave, it stands now a ruin, cloaked behind a history of murder and diabolic plots. Few go there, for the only reward to be found is death.",
+      "Rumors abound that Dragonspear holds a portal to the sinister planes, but until now those have been unfounded. Following a great battle against orcs and trolls from the High Moor who had taken possession of the castle, a temple to ward against further evil was established. However, by the Time of Troubles, that temple and its clergy had disappeared. Now, a horde of fiends and monsters has amassed at Dragonspear Castle, and it terrorizing the surrounding countryside.",
+      "The portal is active, that is for certain. The army of Daggerford needs reinforcements! Is you party made of the stuff of heroes?",
+      "Hordes of Dragonspear can be played using either the Battlesystem miniatures rules, or the quick combat resolution system found in DMGR2, The Castle Guide. Alternatively, a few simple changes render the entire module playable without any special rules."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9391 - FRQ3 - Doom of Daggerdale",
+    "BookShortName": "FRQ3 - Doom of Daggerdale",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9391",
+    "BookISBN": "1-56076-654-9",
+    "BookAuthor": "Wolfgang Baur",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "FRQ Series",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9391 - FRQ3 - Doom of Daggerdale.pdf"
+    ],
+    "BookDescription": [
+      "Randal Morn certainly has his hands full! The temple of Lathander, which burned to the ground eight years ago, seems to be the source of a curse affecting the entire town. People are taking ill, animals are dying overnight, crops are failing. All this seems to have started after Eragyn, priestess of Cyric, disappeared from Daggerdale. Shortly before that, a forgotten mage-lord's crypt was discovered and opened, and things just haven't been the same since.",
+      "Constable Tren is displeased with the situation, what with suspicion being cast in the Zhentarim's direction as well as toward Cyric's priesthood. He's undoubtedly making the Dalesfolk's lives more difficult than usual because of this upheaval. Randal has sent out the call for aid to all who are interested and able to help; his freedom riders have their hands full already.",
+      "A missing evil priestess, a mage-lord's crypt-curse, a plague, and possible Zhentarim involvement: all the elements of a rousing adventure in one place! Where do your characters sign up? Step right this way, won't you?",
+      "This is the first module created for use with the revised Forgotten Realms Campaign Setting. However, it is not necessary to have that edition in order to play this adventure."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR1040 - City System",
+    "BookShortName": "City System",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1040",
+    "BookISBN": "0-88038-600-2",
+    "BookAuthor": "Jeff Grubb, Ed Greenwood",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1040 - City System.pdf"
+    ],
+    "BookDescription": [
+      "It is called the City of Splendors: Waterdeep, most populous of the cities of North. It is a city of wealth, adventure, and danger. More men have died in its taprooms and bars than in all the sieges of Dragonspear Castle. Success and death lurk in its shadowed entranceways and dimly -lit streets. Come explore the greatest city of the Realms in this incredible product dealing with urban fantasy adventures. Waterdeep is detailed in no less than 10 expanded maps, embellished with typical building interiors suitable for use in any campaign setting.",
+      "In addition to all these maps, a 32-page City System booklet provides encounters and street scenes, special features and details of Waterdeep, and methods for creating types of buildings in moments and filling the pockets of those unfortunate enough to get in a player character's way. Designed for use with Waterdeep, these features are suitable for use anywhere in the Forgotten Realms!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR1044 - The Great Khan Game",
+    "BookShortName": "The Great Khan Game",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1044",
+    "BookISBN": "0-88038-721-1",
+    "BookAuthor": "Tom Wham, Richard Hamblen",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1044 - The Great Khan Game.pdf"
+    ],
+    "BookDescription": [
+      "The Great Khan Game is a brilliantly whimsical card game from the fertile minds of Tom Wham and Richard Hamblen. Use the armies and political leaders under your control to attack and conquer your neighbors. Or stage a coup and place your own puppet on the throne. Connive, manipulate, and coerce your way to empire!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR1060 - The Ruins of Undermountain",
+    "BookShortName": "The Ruins of Undermountain",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1060",
+    "BookISBN": "1-56076-061-3",
+    "BookAuthor": "Ed Greenwood",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1060 - The Ruins of Undermountain.pdf"
+    ],
+    "BookDescription": [
+      "BRAVE THE RUINS",
+      "UNDERMOUNTAIN awaits you: the fabled and feared battleground of the Realms - \"The Deepest Dungeon of them all\"",
+      "DARE YOU FACE? miles upon miles of deadly traps, glittering treasures, strange and cryptic rooms, and slithering, skulking, lurking monsters? They await you underneath Waterdeep!",
+      "UNDERMOUNTAIN is a dungeon setting for AD&D 2nd Edition campaign play: the oldest, largest, and deadliest dungeon-crawl in the Forgotten Realms campaign setting. It is the place where intrepid adventurers endeavour to become veterans, to win a place among the rich and famous - if they survive its depths. Enter an endless maze where waiting death bears a thousand faces and treasures lie hidden in a thousand places.",
+      "It's just the setting for long running, memorable, great AD&D game play, the perfect locale you'll never forget. So please, come in. Mind your step among the skulls. Oh, yes - good luck - you'll be needing it.",
+      "The Ruins of Undermountain campaign set includes:",
+      "A 128-page book describing Undermountain, its history, its horrors, and details of the first three levels of the dungeon;",
+      "a 32-page adventure book for use exclusively with Undermountain and Waterdeep;",
+      "Four full-colour maps of the vast and dangerous dungeon and;",
+      "Eight new monsters."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR1066 - Maztica",
+    "BookShortName": "Maztica",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1066",
+    "BookISBN": "1-56076-084-2",
+    "BookAuthor": "Douglas Niles",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1066 - Maztica.pdf"
+    ],
+    "BookDescription": [
+      "Enter the True World. Marvel at the jungle's lush greenery, the desert's shimmering sands, the birds' jewel-toned plumage, the people's gentle demeanor. Beware, though, the dark side of this beauty: the gods of this place are very much alive, and their troubles are the people's troubles. Set in the countries first described in the Maztica trilogy of novels, this campaign set provides players and DMs with all the information necessary to recreate the storyline of Ironhelm, Viperhand, and Feathered Dragon, or to build a campaign of their own. Four new character classes, Eagle Knights, Jaguar Knights, plumaweavers, and hishnashapers, add to the mystique of Maztica. New magical spells and items, new deities, new proficiencies all add to the flavor of this setting loosely based on the Aztecs and Mayans of Central America.",
+      "<b>This boxed campaign set includes:</b>",
+      "A Journey to the True World, a 96-page player's book;",
+      "Maztica Alive!, a 64-page DM's book;",
+      "Gods and Battles, a 32-page book containing BATTLESYSTEM rules statistics for the Golden Legion and various Maztican armies, and profiles of the Maztican pantheon;",
+      "Four poster-size maps showing the True World and Cordell's voyage from the Sword Coast to Maztica's shores, as chronicled in Ironhelm."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR1083 - Menzoberranzan",
+    "BookShortName": "Menzoberranzan",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1083",
+    "BookISBN": "1-56076-460-0",
+    "BookAuthor": "Ed Greenwood, Douglas Niles & R.A. Salvatore",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR1083 - Menzoberranzan.pdf"
+    ],
+    "BookDescription": [
+      "Home of Drizzt Do'Urden and famed city of the drow of the Underdark…",
+      "Ruled by the feared and respected Houses and their Matron Mothers, Menzoberranzan is a place of great nobility and great treachery. The priestesses of Lloth, the Spider Queen, demand (and receive) complete respect from the citizens of this mighty city. But what of the common folk—the drow of non-noble birth, the humans, and others? What is their lot in life, in this magnificent den of intrigue?",
+      "Three books in this boxed set explain the ways of Menzoberranzan in detail. Book One: The City gives the reader a tour of the streets and districts, a wealth of information on various practices and customs, and an overview of daily life for each class of citizen (and non-citizen). Book Two: The Houses presents all eighteen major and minor Houses of the city, including the Matron Mothers and their immediate families, as well as any important advisers and associates. Book Three: The Adventure gives players a chance to take their characters into the web of deceit and intrigue woven by the denizens of this famed city.",
+      "Additionally, this boxed set includes:",
+      "four connecting poster-size maps of the city proper;",
+      "one poster map of the House Baenre compound;",
+      "a poster showing the rivalries and alliances among all eighteen major and minor houses;",
+      "a 16-page House Do'Urden retrospective and the collected essays of Drizzt;",
+      "twelve cardsheets containing in-depth statistics on main characters from Houses Nurbonnis and Millithor, and small maps for use in the adventure; and",
+      "a full-color poster of the stunning box cover art by Jeff Easley."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

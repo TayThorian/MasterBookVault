@@ -51,9 +51,9 @@ C:\Applications\GitHubs\MasterBookVault\MasterBookVault\MasterBookVault\obj\Rele
 C:\Applications\GitHubs\MasterBookVault\MasterBookVault\MasterBookVault\obj\Release\net7.0-windows\MasterBookVault.AssemblyInfo.vb
 C:\Applications\GitHubs\MasterBookVault\MasterBookVault\MasterBookVault\obj\Release\net7.0-windows\MasterBookVault.vbproj.CoreCompileInputs.cache
 C:\Applications\GitHubs\MasterBookVault\MasterBookVault\MasterBookVault\obj\Release\net7.0-windows\MasterBookVault.sourcelink.json
-C:\Applications\GitHubs\MasterBookVault\MasterBookVault\MasterBookVault\obj\Release\net7.0-windows\MasterBookVault.vbproj.CopyComplete
 C:\Applications\GitHubs\MasterBookVault\MasterBookVault\MasterBookVault\obj\Release\net7.0-windows\MasterBookVault.dll
 C:\Applications\GitHubs\MasterBookVault\MasterBookVault\MasterBookVault\obj\Release\net7.0-windows\refint\MasterBookVault.dll
 C:\Applications\GitHubs\MasterBookVault\MasterBookVault\MasterBookVault\obj\Release\net7.0-windows\MasterBookVault.pdb
 C:\Applications\GitHubs\MasterBookVault\MasterBookVault\MasterBookVault\obj\Release\net7.0-windows\MasterBookVault.genruntimeconfig.cache
 C:\Applications\GitHubs\MasterBookVault\MasterBookVault\MasterBookVault\obj\Release\net7.0-windows\ref\MasterBookVault.dll
+C:\Applications\GitHubs\MasterBookVault\MasterBookVault\MasterBookVault\obj\Release\net7.0-windows\MasterBo.7753B2A1.Up2Date

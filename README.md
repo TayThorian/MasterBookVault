@@ -5,6 +5,7 @@
 ## Monte Cook Games
 - MCG370 - Rust And Redemption
 - MCG329 - Planar Bestiary
+- MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
 - MCG311 - Path of the Planebreaker
 ## Paizo
@@ -125,6 +126,7 @@
 ## Monte Cook Games
 - MCG370 - Rust And Redemption
 - MCG329 - Planar Bestiary
+- MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
 ## Paizo
 - PZO12001 - Pathfinder - Player Core

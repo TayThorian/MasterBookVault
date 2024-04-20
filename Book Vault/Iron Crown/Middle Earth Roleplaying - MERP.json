@@ -1080,12 +1080,47 @@
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "Part One",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 3, "title": "1.0 - Guidelines"}
       ]    
-  }
+  },
+  {
+  "title": "Part Two",
+  "chapters": [
+    {"page": 7, "title": "2.0 - Introduction"},
+    {"page": 9, "title": "3.0 - The Land"},
+    {"page": 13, "title": "4.0 - The Ecology"},
+    {"page": 19, "title": "5.0 - Peoples and Cultures"},
+    {"page": 22, "title": "6.0 - Politics and Power"},
+    {"page": 29, "title": "7.0 - People of Note"},
+    {"page": 58, "title": "8.0 - Mount Doom"},
+    {"page": 66, "title": "9.0 - Carach Angren"},
+    {"page": 75, "title": "10.0 - Barad-wath"},
+    {"page": 83, "title": "11.0 - Ostigurth"},
+    {"page": 94, "title": "12.0 - Minas Durlith"},
+    {"page": 96, "title": "13.0 - Other Sites of Note"},
+    {"page": 100, "title": "14.0 - Gorgoroth at Other Times"},
+    {"page": 101, "title": "15.0  -Suggested Adventures"}
+  ]    
+},
+{
+"title": "Part Three",
+"chapters": [
+  {"page": 104, "title": "16.0 - The Northern Ered Lithui"},
+  {"page": 109, "title": "17.0 - Death at the Manor"},
+  {"page": 116, "title": "18.0  -Murder of a Merchant"},
+  {"page": 121, "title": "19.0 - The Escape"},
+  {"page": 123, "title": "20.0 - Expedition to Carvarad"}
+]    
+},
+{
+"title": "Part Four",
+"chapters": [
+  {"page": 127, "title": "21.0 - Campaign Aids"},
+  {"page": 131, "title": "22.0 - Tables"}
+]    
+}
 ]
   },
   {
