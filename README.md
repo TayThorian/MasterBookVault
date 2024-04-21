@@ -179,6 +179,10 @@
 - GBD1003 - Advanced Labyrinth Lord
 ## Digest Group Publications
 - - Manhunt
+## Steve Jackson Games
+- SJG6602 - Traveller
+- SJG6603 - Alien Races 1 - Zhodani, Vargr, and Other Races of the Spinward Marches
+- SJG01-2401 - Interstellar Wars
 ## Mongoose Publishing
 - MGP40111 - Reach Adventure 8 - Makergod
 - MGP40061 - Core Adventure 1 - Invasive Species
@@ -348,6 +352,10 @@
 - TSR1085 - Forgotten Realms Campaign Setting, Revised Edition
 - TSR9465 - Book of Lairs
 - TSR9474 - The Moonsea
+- TSR9509 - FOR10 - Warriors and Priests of the Realms
+- TSR1060 - The Ruins of Undermountain
+- TSR1066 - Maztica
+- TSR1083 - Menzoberranzan
 - TSR2023 - Greyhawk Adventures
 - TSR9065 - WG4 - Forgotten Temple of Tharizdun
 - TSR9222 - WG7 - Castle Greyhawk
@@ -373,6 +381,7 @@
 - WTC178720000 - Champions of Ruin
 - WTC957327200 - Expedition to Undermountain
 - WTC978078694 - Grand History of the Realms
+- WTC179290000 - Shining South
 ## Free League Publishing
 - - The World of Symbaroum
 - - The Throne of Thorns I

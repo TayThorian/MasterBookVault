@@ -877,7 +877,7 @@
     "BookPublisher": "TSR",
     "BookCode": "TSR2010",
     "BookISBN": "0-935696-01-6",
-    "BookAuthor": "Gary Gyax",
+    "BookAuthor": "Gary Gygax",
     "BookPublished": "1978 - 2012",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
@@ -914,7 +914,7 @@
     "BookPublisher": "TSR",
     "BookCode": "TSR2011",
     "BookISBN": "0-88038-051-9",
-    "BookAuthor": "Gary Gyax",
+    "BookAuthor": "Gary Gygax",
     "BookPublished": "1979 - 2012",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
@@ -5502,6 +5502,155 @@
       "Eight Monstrous Compendium sheets",
       "A sheet of cardstock standups with 24 plastic bases",
       "Six full-colour poster maps, two of which link together to make a giant tactical playing surface for use with miniatures or the included cardstock figures."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9019 - D1 - Descent Into the Depths of the Earth",
+    "BookShortName": "D1 - Descent Into the Depths of the Earth",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9019",
+    "BookISBN": "0-935696-05-9",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1978",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "D Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\D Series\\TSR9019 - D1 - Descent Into the Depths of the Earth.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9020 - D2 - Shrine of the Kuo-Toa",
+    "BookShortName": "D2 - Shrine of the Kuo-Toa",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9020",
+    "BookISBN": "",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1979",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "D Series",
+    "BookCharacterLevel": "Levels 8 - 10",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\D Series\\TSR9020 - D2 - Shrine of the Kuo-Toa.pdf"
+    ],
+    "BookDescription": [
+      "Having put down a rising of giants, it was discovered that the motivating force behind their depredations was that of long-forgotten evil: the Dark Elves. Determined to seek out these creatures, a body of doughty adventurers mounted an expedition to learn the strength of the Drow and bring retribution to them.",
+      "This module contains background information, a large-scale referee's map with a matching partial map for players, referee's notes, special exploration and encounter pieces, a large map detailing a temple complex area, encounter and map matrix keys, and an additional section pertaining to a pair of unique new creatures for use with this adventure and the game as a whole.",
+      "A complete setting for playing Advanced Dungeons & Dragons is contained herein. This adventure can be played",
+      "as a standalone module;",
+      "as the second part of a series of three modules with D1 \"Descent into the Depths of the Earth\" and D3 \"Vault of the Drow\"; or",
+      "as the fifth part of a continuing scenario containing G1 \"The Steading of the Hill Giant Chief,\" G2 \"The Glacial Rift of the Frost Giant Jarl,\" G3 \"The Hall of the Fire Giant King,\" D1 \"Descent into the Depths of the Earth,\" D2 \"Shrine of the Kuo-Toa,\" D3 \"Vault of the Drow,\" and Q1 \"Queen of the Demonweb Pits.\""
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9021 - D3 - Vault of the Drow",
+    "BookShortName": "D3 - Vault of the Drow",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9021",
+    "BookISBN": "0-935696-07-5",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1978",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "D Series",
+    "BookCharacterLevel": "Levels 10 - 14",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\D Series\\TSR9021 - D3 - Vault of the Drow.pdf",
+      "D:\\Master Vault\\ADnD\\Adventures\\D Series\\TSR9021 - D3 - Vault of the Drow (Mono Cover).pdf"
+    ],
+    "BookDescription": [
+      "As a member of a bold party of adventurers, you and your associates have trekked far into what seems to be a whole underworld of subterranean tunnels -- arteries connecting endless caves and caverns which honeycomb the foundations of the lands beneath the sun. Your expedition has dogged the heels of the Dark Elves who caused great woe and then fled underground.",
+      "This adventure provides a complete setting for play using the Advanced Dungeons & Dragons rules. Contained herein is background information, a large-scale referee's map with a matching partial map for players, referee's notes, special exploration and encounter pieces, a hex map detailing an enormous cavern area, a special temple map, encounter and map matrix keys, and additional sections pertaining to unique new creatures for use with this module and with the game as a whole.",
+      "This module can be played alone, as the conclusion to module D1 & D2: \"Descent into the Depths of the Earth,\" or as the third module in a series that forms a special extended adventure (G1-G3: \"Against the Giants\"; D1-D2: \"Descent into the Depths\"; and Q1: \"Queen of the Demonweb Pits\")."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9059 - D1-2 - Descent Into the Depths",
+    "BookShortName": "D1-2 - Descent Into the Depths",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9059",
+    "BookISBN": "0-835696-60-1",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "D Series",
+    "BookCharacterLevel": "Levels 9 - 14",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\D Series\\TSR9059 - D1-2 - Descent Into the Depths of the Earth.pdf"
+    ],
+    "BookDescription": [
+      "The final confrontation with the giant, King Snurre, and the entry of mighty adventurers into the cavers under his stronghold discovered that Dark Elves, the Drow, had instigated the giant alliance and its warfare upon mankind and its allied races.",
+      "This material was originally published as two separate adventures, D1: \"Descent into the Depths of the Earth\" and D2: \"Shrine of the Kuo-Toa.\" Contained herein are referee notes, background information, maps, and exploration keys intended for use with the Advanced Dungeons & Dragons rules. The adventure can be used alone or as part of an extended adventure that begins with G1-3: \"Against the Giants\" and continues with D3: \"The Vault of the Drow\" and Q1: \"Queen of the Demonweb Pits.\""
     ],
     "TableOfContents": [
       {

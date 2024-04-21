@@ -306,5 +306,110 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "GDW0309 - Path of Tears - The Star Viking Sourcebook",
+  "BookShortName": "Path of Tears - The Star Viking Sourcebook",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW0309",
+  "BookISBN": "1-55878-162-5",
+  "BookAuthor": "Frank Chadwick, Dave Nilsen, Loren K. Wiseman",
+  "BookPublished": "1994",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Traveller - The New Era",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0309 - Path of Tears - The Star Viking Sourcebook.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW0310 - Reformation Coalition Equipment Guide",
+  "BookShortName": "Reformation Coalition Equipment Guide",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW0310",
+  "BookISBN": "1-55878-166-8",
+  "BookAuthor": "David Nilsen",
+  "BookPublished": "1994",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Traveller - The New Era",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Equipment Guide",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0310 - Reformation Coalition Equipment Guide.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+    "title": "Book One ",
+    "chapters": [
+      {"page": 2, "title": "TOC TO BE DONE"},
+      {"page": 4, "title": ""}
+      ]
+    }
+  ]
+},
+{
+  "BookName": "GDW0311 - World Tamer's Handbook",
+  "BookShortName": "World Tamer's Handbook",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW0311",
+  "BookISBN": "1-55878-168-4",
+  "BookAuthor": "Terry McInnes, David Nilsen",
+  "BookPublished": "1994",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Traveller - The New Era",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0311 - World Tamer's Handbook.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

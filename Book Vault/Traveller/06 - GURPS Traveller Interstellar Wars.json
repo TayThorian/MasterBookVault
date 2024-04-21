@@ -1,0 +1,72 @@
+[
+  {
+    "BookName": "SJG01-2401 - Interstellar Wars",
+    "BookShortName": "Interstellar Wars",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-2401",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "GURPS Traveller 4th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\06 - GURPS Traveller Interstellar Wars\\SJG01-2401 - Interstellar Wars.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "SJG82-0181 - Traveller - Psionics Institutes",
+  "BookShortName": "Traveller - Psionics Institutes",
+  "BookPublisher": "SJG82-0181",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 4th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\06 - GURPS Traveller Interstellar Wars\\SJG82-0181 - Traveller - Psionics Institutes.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

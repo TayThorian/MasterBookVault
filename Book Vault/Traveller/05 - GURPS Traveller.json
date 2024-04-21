@@ -1,0 +1,162 @@
+[
+  {
+    "BookName": "SJG6602 - Traveller",
+    "BookShortName": "Traveller",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6602",
+    "BookISBN": "1-55634-696-4",
+    "BookAuthor": "Loren Wiseman",
+    "BookPublished": "1998",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "GURPS Traveller 3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6602 - Traveller.pdf"
+    ],
+    "BookDescription": [
+      "Marc Miller's Traveller is one of the most fully realized game backgrounds ever created . . . a vast empire of more than 11,000 systems, with a turbulent history dating back thousands of years. Locales can range from a crowded spaceport to a lonely frontier outpost, from the teeming cities of the Core to the unexplored worlds on the edge of the Great Rift. Characters can be merchant princes, diplomats, soldiers, politicians, nobles, criminals . . . or all of them at once. Political intrigues, trading schemes, mind-wrenching alien enigmas, mercenary raids, wars . . . almost anything is possible.",
+      "GURPS Traveller melds this exciting universe with GURPS, including rules for creating new characters and for converting old ones from other Traveller rules systems. It also contains a modular starship-construction system (fully compatible with GURPS Vehicles) and a space-combat system for ship-to-ship encounters.",
+      "Most of all, GURPS Traveller brings you the official alternate universe for Traveller, in which Emperor Strephon, and the Third Imperium, have survived to face new challenges."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 4, "title": "Introduction"},
+      {"page": 5, "title": "1. - The Universe of the Third Imperium"},
+      {"page": 13, "title": "2. - Details of the Universe"},
+      {"page": 82, "title": "3. - Characters"},
+      {"page": 107, "title": "4. - Equipment and Supplies"},
+      {"page": 119, "title": "5. - Travel, Trade and Commerce"},
+      {"page": 124, "title": "6. - Character Conversions"},
+      {"page": 130, "title": "Appendix A - Starships"},
+      {"page": 149, "title": "Appendix B - Modular Starship Design"},
+      {"page": 163, "title": "Appendix C - Space Combat"},
+      {"page": 175, "title": "Index"}
+      ]    
+  }
+]
+},
+{
+  "BookName": "SJG6601 - Behind the Claw",
+  "BookShortName": "Behind the Claw",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6601",
+  "BookISBN": "1-55634-353-1",
+  "BookAuthor": "Martin Dougherty, Neil Frier",
+  "BookPublished": "1998",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6601 - Behind the Claw.pdf"
+  ],
+  "BookDescription": [
+    "Behind The Claw: Slang phrase referring to those regions of the Third Imperium lying beyond the Great Rift. Almost a year from the Capital by Xboat, the Spinward Marches is a frontier region, scene of five Frontier Wars and innumerable skirmishes. The Marches are one of the most troubled regions of the entire Imperium.",
+    "Behind The Claw details the Spinward Marches, a complete sector of space. Over four hundred star systems are described in detail, along with essays on the Imperial Nobility and system of government, a detailed history of the region, referee's information, current events and a wealth of adventure material. The setting is rich and diverse, with unlimited scope for adventuring.",
+    "The Spinward Marches was the first sector to be covered in the original Traveller background, and it is where the vast majority of campaigns are set. In many ways, it is Traveller's \"home.\""
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SJG6605 - First In",
+  "BookShortName": "First In",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6605",
+  "BookISBN": "1-55634-368-X",
+  "BookAuthor": "Jon F. Zeigle",
+  "BookPublished": "1999",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6605 - First In.pdf"
+  ],
+  "BookDescription": [
+    "Exploration and Contact Among the Stars",
+    "Beyond the borders of the Third Imperium, the Interstellar Scout Service seeks out strange new worlds! A Scout has to be ready for anything . . . or die. This book describes the Scouts' organization, equipment, starships (with deck plans including the Express Boat, Donosev-class Survey Scout, Khadumir-class Fast Courier, and Purcell-class Express Boat Tender) and typical missions. To make running a Scouts campaign easy, it also details the whole process of exploration, from the initial sighting of a new star system to the integration of a world into the Imperium.",
+    "First In includes a world-building sequence based on the most recent scientific discoveries. Game Masters can now design realistic star systems, worlds and civilizations. The system can be used for GURPS Traveller, or easily adapted to any other science-fiction RPG."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SJG6603 - Alien Races 1 - Zhodani, Vargr, and Other Races of the Spinward Marches",
+  "BookShortName": "Alien Races 1 - Zhodani, Vargr, and Other Races of the Spinward Marches",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6603",
+  "BookISBN": "1-55634-361-2",
+  "BookAuthor": "David L. Pulver",
+  "BookPublished": "1998",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Alien Races",
+  "BookFormat": "Softback",
+  "BookSeries": "Alien Races",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6603 - Alien Races 1.pdf"
+  ],
+  "BookDescription": [
+    "Two Major Races . . .",
+    "In contrast to the Imperium, the human-descended Zhodani have long embraced psi powers. Within their vast interstellar empire, crime is almost unknown, workers are uniformly happy in their jobs, and mental illness is as easy to cure as a paper cut, thanks to advanced powers of the mind . . . and periodic visits from the Thought Police.",
+    "The Vargr are a race of aliens descended from transplanted Terran canines. Removed from Earth hundreds of millennia ago, the Vargr have continued to develop on worlds millions of miles away from their planet of origin, and now control hundreds of worlds, under almost as many separate governments.",
+    "Both are formidable rivals to the Third Imperium. Alien Races 1 for GURPS Traveller has everything you need to set a campaign in the Zhodani Consulate of Vargr Extents. It includes starship deck plans and vehicle designs, weaponry, rules and templates for creating player characters and NPCs, up-to-date history and cultural information, and much more.",
+    "Three Minor Races . . .",
+    "Presented here for the first time are three significant \"minor Races\" from Zhodani and Vargr territory: the tyrannosaurian Drakarans, the arachnoid Clotho and the newly discovered, enigmatic Sheol. Almost unknown in Imperial territory, these races are growing powers in the Zhodani Consulate and the Vargr Extents."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

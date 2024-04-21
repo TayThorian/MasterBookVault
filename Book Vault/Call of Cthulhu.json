@@ -1228,5 +1228,43 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "CHA23103 - Secrets of New York",
+    "BookShortName": "Secrets of New York",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23103",
+    "BookISBN": "1-56882-180-8",
+    "BookAuthor": "William Jones",
+    "BookPublished": "2005",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "6th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Background Setting",
+    "BookFormat": "",
+    "BookSeries": "Secrets of",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Call of Cthulhu\\6th Edition\\CHA23103 - Secrets of New York.pdf"
+    ],
+    "BookDescription": [
+      "The City that Never Sleeps",
+      "During the day ships, barges, tugs, and pleasure boats ply New York’s bay and rivers, dashing beneath bridges and disgorging thousands of people upon the city's shores. Each brings hope and dreams of a new life. At night the city blazes with myriad lights, diamonds dazzling in buildings that scrape the sky. Music, food, dance, dark rituals, and clandestine cults flourish beneath the mantle of New York City.",
+      "Since that first landing of Henry Hudson's ship Half Moon to the Declaration of Independence, dark things have suckled on New York’s underbelly; the city’s boroughs have always hidden secrets countless, sinister, and horrifying. From the savage massacre at Throg's Neck to the things beneath the earth on Barren Island, New York City has always been protective of its mysteries — now all come to light in one book.",
+      "SECRETS OF NEW YORK is a compendium of one of the oldest and most popular cities in the new world, and is a supplement for the Call of Cthulhu roleplaying game. This volume explores the strange events above and below the streets and avenues that crisscross the world's financial capital during the 1920’s. With a plethora of characters to bring the city to life, and a detailed history to build scenarios upon, Secrets of New York is an indispensable tool for keepers and players setting adventures in the Big Apple. Included are maps and historical documents and photographs of 1920’s New York City, as well as several scenarios that explore the most popular and less savory locales of this grand metropolis."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
