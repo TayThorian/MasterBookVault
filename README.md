@@ -166,15 +166,12 @@
 - GCP-SMP-4514 - Blaster Law
 - GCP-SMP-4515 - Future Law
 - GCP-SMP-4600 - Races & Cultures
-- ICE9000 - Space Master - Boxed Set
 ## BRW Games
 - - Swords of Wuxia
 - - Book of Lost Beasts
 - - Book of Lost Lore
 - - Book of Lost Tables
 - - Swords of Cthulhu
-## Dreamscape Design
-- DD0003 - Blueholme - Journeymanne Rules
 ## Goblinoid Games
 - GBD1003 - Advanced Labyrinth Lord
 ## Digest Group Publications
@@ -228,7 +225,6 @@
 - TSR2114 - DMGR2 - Castle Guide
 - TSR2158 - Monstrous Compendium Annual - Volume Two
 - TSR2123 - DMGR3 - Arms and Equipment Guide
-- TSR2133 - DMGR5 - Creative Campaigning
 - TSR2110 - PHBR1 - The Complete Fighter's Handbook
 - TSR2111 - PHBR2 - The Complete Thief's Handbook
 - TSR2113 - PHBR3 - The Complete Priest's Handbook
