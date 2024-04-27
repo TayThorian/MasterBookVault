@@ -1247,5 +1247,41 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "PZO13001 - Lost Omens - Tian Xia World Guide",
+    "BookShortName": "Lost Omens - Tian Xia World Guide",
+    "BookPublisher": "Paizo",
+    "BookCode": "PZO13001",
+    "BookISBN": "978-1-64078-576-2",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Pathfinder",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Pathfinder",
+    "BookType": "World Guide",
+    "BookFormat": "Hardback",
+    "BookSeries": "Lost Omens",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Pathfinder\\2nd Edition\\Lost Omens\\PZO13001 - Lost Omens - Tian Xia World Guide.pdf"
+    ],
+    "BookDescription": [
+      "Dragons once served as the stewards of this land, commanded by Heavenly decree. Can you live up to their lofty expectations, or will you flounder and fail like countless kingdoms before you? Prophecy is dead and history hangs on a feather; even the slightest breath might change the course of peoples and nations. Strike out and seize your destiny in an uncertain future!",
+      "This massive 304-page gazetteer features a look at the history, cultures, and peoples of Tian Xia, with summaries of over 20 distinct nations and kingdoms on, above, and under the continent. It’s accompanied by a giant poster map displaying this region of the Pathfinder setting in beautiful detail."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

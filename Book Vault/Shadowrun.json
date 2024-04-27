@@ -1527,9 +1527,9 @@
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "Shadowrun",
-  "BookType": "",
+  "BookType": "Critter Book",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Critter Books",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Shadowrun\\6th Edition\\CAT28008 - Wild Life.pdf"
@@ -1564,9 +1564,9 @@
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "Shadowrun",
-  "BookType": "",
+  "BookType": "Shadows in Focus book",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Shadows in Focus books",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Shadowrun\\6th Edition\\CAT28802 - Easy Come, Easy Go.pdf"
@@ -1636,9 +1636,9 @@
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "Shadowrun",
-  "BookType": "",
+  "BookType": "Sourcebook",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Sourcebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Shadowrun\\6th Edition\\CAT27454 - The Neo-Anarchist Streetpedia.pdf"

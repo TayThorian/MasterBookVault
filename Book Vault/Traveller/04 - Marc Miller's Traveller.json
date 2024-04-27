@@ -313,5 +313,75 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "IGI-1710 - Psionic Institutes",
+  "BookShortName": "Psionic Institutes",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1710",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1710 - Psionic Institutes.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1720 - Fire, Fusion and Steel",
+  "BookShortName": "Fire, Fusion and Steel",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1720",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1720 - Fire, Fusion and Steel.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

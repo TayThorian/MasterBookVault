@@ -184,7 +184,7 @@
   "BookSetting": "Traveller",
   "BookType": "Adventure",
   "BookFormat": "Softback",
-  "BookSeries": "Adventures",
+  "BookSeries": "Reformation Coalition Manual",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0305 - Smash & Grab.pdf"
@@ -324,7 +324,7 @@
   "BookSetting": "Traveller",
   "BookType": "Sourcebook",
   "BookFormat": "Softback",
-  "BookSeries": "Sourcebooks",
+  "BookSeries": "Reformation Coalition Manual",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0309 - Path of Tears - The Star Viking Sourcebook.pdf"
@@ -359,7 +359,7 @@
   "BookSetting": "Traveller",
   "BookType": "Equipment Guide",
   "BookFormat": "Softback",
-  "BookSeries": "Sourcebooks",
+  "BookSeries": "Reformation Coalition Manual",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0310 - Reformation Coalition Equipment Guide.pdf"
@@ -398,6 +398,251 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0311 - World Tamer's Handbook.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW0312 - Vampire Fleets",
+  "BookShortName": "Vampire Fleets",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW0312",
+  "BookISBN": "1-55878-170-6",
+  "BookAuthor": "Frank Chadwick",
+  "BookPublished": "1995",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Traveller - The New Era",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0312 - Vampire Fleets.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW0313 - Striker II",
+  "BookShortName": "Striker II",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW0313",
+  "BookISBN": "1-55878-173-0",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Traveller - The New Era",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0313 - Striker II.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW0314 - The Regency Sourcebook - Keepers of the Flame",
+  "BookShortName": "The Regency Sourcebook - Keepers of the Flame",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW0314",
+  "BookISBN": "1-55878-189-7",
+  "BookAuthor": "David Nilsen",
+  "BookPublished": "1995",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Traveller - The New Era",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Regency Manual",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0314 - Regency Sourcebook.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW0315 - Star Vikings",
+  "BookShortName": "Star Vikings",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW0315",
+  "BookISBN": "1-55878-174-9",
+  "BookAuthor": "Frank Chadwick",
+  "BookPublished": "1994",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Traveller - The New Era",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Reformation Coalition Manual",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0315 - Star Vikings.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW0318 - Aliens of the Rim - Volume I - Hivers and Ithklur",
+  "BookShortName": "Aliens of the Rim - Volume I - Hivers and Ithklur",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW0318",
+  "BookISBN": "1-55878-182-X",
+  "BookAuthor": "David Nilsen, Loren K. Wiseman",
+  "BookPublished": "1995",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Traveller - The New Era",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Alien Volume",
+  "BookFormat": "Softback",
+  "BookSeries": "Alien Volumes",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0318 - Aliens Of The Rim.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW0320 -Regency Combat Vehicle Guide",
+  "BookShortName": "Regency Combat Vehicle Guide",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW0320",
+  "BookISBN": "1-55878-197-8",
+  "BookAuthor": "David Nilsen",
+  "BookPublished": "1995",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Traveller - The New Era",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Vehicle Guide",
+  "BookFormat": "Softback",
+  "BookSeries": "Regency Manual",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0320 - Regency Combat Vehicle Guide.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW0330 -The Guilded Lilly",
+  "BookShortName": "The Guilded Lilly",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW0330",
+  "BookISBN": "1-55878-195-1",
+  "BookAuthor": "Frank Chadwick",
+  "BookPublished": "1995",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Traveller - The New Era",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Campaign",
+  "BookFormat": "Softback",
+  "BookSeries": "Campaigns",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\03 - Traveller New Era\\GDW0330 - The Guilded Lilly.pdf"
   ],
   "BookDescription": [
     "No description available."

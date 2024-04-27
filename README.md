@@ -279,6 +279,10 @@
 - TSR9482 - Country Sites
 - TSR1125 - Night Below - An Underdark Campaign
 - TSR1089 - Dragon Mountain
+- TSR9019 - D1 - Descent Into the Depths of the Earth
+- TSR9020 - D2 - Shrine of the Kuo-Toa
+- TSR9021 - D3 - Vault of the Drow
+- TSR9059 - D1-2 - Descent Into the Depths
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
@@ -356,6 +360,15 @@
 - TSR1060 - The Ruins of Undermountain
 - TSR1066 - Maztica
 - TSR1083 - Menzoberranzan
+- TSR1084 - The Ruins of Myth Drannor
+- TSR1109 - City of Splendors
+- TSR1121 - Spellbound
+- TSR1142 - The North - Guide to the Savage Frontier
+- TSR1147 - Netheril - Empire of Magic
+- TSR1159 - Lands of Intrigue
+- TSR9561 - Empires of the Shining Sea
+- TSR1104 - The Ruins of Undermountain II- The Deep Levels
+- TSR1120 - Ruins of Zhentil Keep
 - TSR2023 - Greyhawk Adventures
 - TSR9065 - WG4 - Forgotten Temple of Tharizdun
 - TSR9222 - WG7 - Castle Greyhawk
