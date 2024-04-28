@@ -117,6 +117,9 @@
 - TSR8908 - LC1 - Gateway to Raven's Bluff
 - TSR9282 - LC2 - Inside Raven's Bluff, The Living City
 - TSR9315 - LC4 - Port of Raven's Bluff
+- TSR2104 - MC3 - Monstrous Compendium - Volume Three - Forgotten Realms Appendix
+- TSR2116 - MC6 - Kara-Tur Appendix
+- TSR2125 - MC11 - Forgotten Realms Appendix II
 - TSR2107 - MC5 - Monstrous Compendium Greyhawk Adventures Appendix
 ## Wizards of the Coast
 - WTC398890000 - Menzoberranzan - City of Intrigue
@@ -221,6 +224,8 @@
 - TSR9190 - B1-9 - In Search of Adventure
 - TSR9287 - GAZ13 - The Shadow Elves
 - TSR1037 - GAZ00 - Dawn of the Emperors - Thyatis and Alphatia
+- TSR9241 - GAZ10 - The Orcs of Thar
+- TSR9246 - GAZ12 - The Golden Khan of Ethengar
 - TSR2112 - DMGR1 - Campaign Sourcebook and Catacomb Guide
 - TSR2114 - DMGR2 - Castle Guide
 - TSR2158 - Monstrous Compendium Annual - Volume Two

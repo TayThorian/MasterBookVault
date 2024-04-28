@@ -2651,5 +2651,194 @@
     ]    
   }
     ]
+  },
+  {
+    "BookName": "TSR9194 - GAZ02 - The Emirates of Ylaruam",
+    "BookShortName": "GAZ02 - The Emirates of Ylaruam",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9194",
+    "BookISBN": "0-88038-392-5",
+    "BookAuthor": "Ken Rolston",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Gazetteer",
+    "BookFormat": "Softback",
+    "BookSeries": "Gazetteer",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9194 - GAZ02 - The Emirates of Ylaruam.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9194 - GAZ02 - The Emirates of Ylaruam\\GAZ2-9194-The Emirates of Ylaruam-1.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9194 - GAZ02 - The Emirates of Ylaruam\\GAZ2-9194-The Emirates of Ylaruam-2.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9194 - GAZ02 - The Emirates of Ylaruam\\GAZ2-9194-The Emirates of Ylaruam-3.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9194 - GAZ02 - The Emirates of Ylaruam\\GAZ2-9194-The Emirates of Ylaruam-4.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9194 - GAZ02 - The Emirates of Ylaruam\\GAZ2-9194-The Emirates of Ylaruam-5.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9194 - GAZ02 - The Emirates of Ylaruam\\GAZ2-9194-The Emirates of Ylaruam-6.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9194 - GAZ02 - The Emirates of Ylaruam\\GAZ2-9194-The Emirates of Ylaruam-7.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9194 - GAZ02 - The Emirates of Ylaruam\\GAZ2-9194-The Emirates of Ylaruam-8.jpg"
+    ],
+    "BookDescription": [
+      "This is the second in a series - a completely new concept in gaming aids for the DUNGEON & DRAGONS Game System. Within these covers is a complete historical, economical, geographical, and sociological overview of the Emirates of Ylaruam. The village of Kirkuk is presented in great detail (with both descriptions and a map of the area) as a typical village in the Emirates. An extended section on campaigning in the Emirates will also aid the DM in preparing his own adventures as well as enrich the playing of published adventures.",
+      "In addition, there is a full-size, color map of the Emirates, the cities of Surra-Man-Raa and Tameronikas, a typical Emirates Village, and a caravan village. This map is fully compatible with all Gazetteers in this series, so that DMs and players can put them side by side for comparison and/or play.",
+      "This series of Gazetteers provides a rich tapestry of background material for player and DM alike and is sure to benefit the gamer immeasurably."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9241 - GAZ10 - The Orcs of Thar",
+    "BookShortName": "GAZ10 - The Orcs of Thar",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9241",
+    "BookISBN": "0-88038-623-1",
+    "BookAuthor": "Bruce Heard",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Gazetteer",
+    "BookFormat": "Softback",
+    "BookSeries": "Gazetteer",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9241 - GAZ10 - The Orcs of Thar.pdf"
+    ],
+    "BookDescription": [
+      "Orcs? A Gazetteer about Orcs?",
+      "Absolutely. And hobgoblins, kobolds, bugbears, gnolls, trolls, goblins, and more! If you think the only good orc is a dead orc, you're in for a surprise. Orcs (and the other humanoids) are more than just anonymous hordes to be slaughtered for easy experience points - they are creatures with personality, culture, likes and dislikes, and a point of view. Find out all about them in The Orcs of Thar.",
+      "The Orcs of Thar is the tenth in a series of Gazetteers for the DUNGEONS & DRAGONS game system. It gives you a comprehensive, in-depth look at the orcs and their world, including:",
+      "Orcs and other humanoids as player characters",
+      "A large full-color map of Thar, home of the orcs",
+      "Complete rules for humanoid spell-casters",
+      "The King of the Orcs, and why you don't want to run into him",
+      "Seperate DM and Player's Booklets",
+      "- ORCWARS! , a complete boardgame, also included!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9246 - GAZ12 - The Golden Khan of Ethengar",
+    "BookShortName": "GAZ12 - The Golden Khan of Ethengar",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9246",
+    "BookISBN": "0-88038-724-6",
+    "BookAuthor": "Jim Bambra",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Gazetteer",
+    "BookFormat": "Softback",
+    "BookSeries": "Gazetteer",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9246 - GAZ12 - The Golden Khan of Ethengar.pdf"
+    ],
+    "BookDescription": [
+      "Ethengar is a vast grassy plain, offering little protection from either the bitter winds of winter or the blistering sun of summer. This rough land tests the people who live on it every day, and those who survive that test grow strong and hardy. It is a land of warrior horsemen, as fierce and deadly as they are skilled.",
+      "Once a multitude of warring tribes, the people of Ethengar have united under the banner of a single leader, the Golden Khan. Learn more about him and his land in The Golden Khan of Ethengar, the twelfth in a series of Gazetteers for the Dungeons & Dragons game system. It gives you a comprehensive, in-depth look at his hand, including:",
+      "The geography of the Ethengar Plain, and life under the Golden Khan",
+      "A large, full-color map of the region",
+      "Separate DM and Player's Books",
+      "A four-page pull-out section of Ethengar warfare",
+      "Rules for creating Ethengar characters",
+      "And a new character class, the shaman, complete with unique spell abilities!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9250 - GAZ11 - The Republic of Darokin",
+    "BookShortName": "GAZ11 - The Republic of Darokin",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9250",
+    "BookISBN": "0-88038-713-0",
+    "BookAuthor": "Scott Haring",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Gazetteer",
+    "BookFormat": "Softback",
+    "BookSeries": "Gazetteer",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin - Book 1.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin - Book 2.pdf",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin1.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin2.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin3.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin4.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin5.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin6.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin7.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin8.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin9.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin10.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin11.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin12.jpg",
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9250 - GAZ11 - The Republic of Darokin\\GAZ11-9250-The Republic of Darokin-III.pdf"
+
+    ],
+    "BookDescription": [
+      "\"He who has the gold makes the rules.\" --An old Darokinian saying.",
+      "In Darokin, wealth is power. There is no place in this land for the unthinking brute who solves every problem with force. Darokin has survived by cleverness, by negotiation, and by guile, despite being surrounded by mighty barbarous nations.",
+      "In fact, the Darokinians have thrived over the years, establishing themselves as the undisputed masters of overland commerce. And since dead neighbors make poor trading partners, they've become equally adept at diplomacy.",
+      "The Republic of Darokin, the latest Gazetteer for the Dungeons & Dragons game system, gives you're an in-depth look at this prosperous land, including:",
+      "A new Merchant character class",
+      "A complete, detailed history of Darokin",
+      "The geography, government, peoples, society, and cities of this huge land, plus a guide to Darokinian culture and characters.",
+      "A large, full-color map of the Republic of Darokin",
+      "Two full-color sheets of cardboard fold-ups?build your own merchant caravans in 3-D",
+      "Compatible with the AD&D and 2nd Edition AD&D game systems, and includes adventures."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
