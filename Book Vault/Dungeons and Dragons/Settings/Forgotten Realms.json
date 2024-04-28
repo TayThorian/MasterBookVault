@@ -5991,5 +5991,285 @@
 ]    
 }
   ]
+  },
+  {
+    "BookName": "TSR9164 - OA1 - Swords of the Daimyo",
+    "BookShortName": "OA1 - Swords of the Daimyo",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9164",
+    "BookISBN": "0-88038-273-2",
+    "BookAuthor": "David \"Zeb\" Cook",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Oriental Adventures - Kara-Tur Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9164 - OA1 - Swords of the Daimyo.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9186 - OA2 - Night of the Seven Swords",
+    "BookShortName": "OA2 - Night of the Seven Swords",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9186",
+    "BookISBN": "0-88038-327-5",
+    "BookAuthor": "Pickens, Cook, Johnson, Swan, Carmien & Ritchie",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Oriental Adventures - Kara-Tur Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9186 - OA2 - Night of the Seven Swords.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9195 - OA3 - Ochimo The Spirit Warrior",
+    "BookShortName": "OA3 - Ochimo The Spirit Warrior",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9195",
+    "BookISBN": "0-88038-393-3",
+    "BookAuthor": "Jeff Grubb",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Oriental Adventures - Kara-Tur Series",
+    "BookCharacterLevel": "Levels 5 - 7",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9195 - OA3 - Ochimo The Spirit Warrior.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9203 - OA4 - Blood of the Yakuza",
+    "BookShortName": "OA4 - Blood of the Yakuza",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9203",
+    "BookISBN": "0-88038-401-8",
+    "BookAuthor": "David \"Zeb\" Cook",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Oriental Adventures - Kara-Tur Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9203 - OA4 - Blood of the Yakuza.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9242 - OA5 - Mad Monkey vs. the Dragon Claw",
+    "BookShortName": "OA5 - Mad Monkey vs. the Dragon Claw",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9242",
+    "BookISBN": "0-88038-624-X",
+    "BookAuthor": "Jeff Grubb",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Oriental Adventures - Kara-Tur Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9242 - OA5 - Mad Monkey vs. the Dragon Claw.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9257 - OA6 - Ronin Challenge",
+    "BookShortName": "OA6 - Ronin Challenge",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9257",
+    "BookISBN": "",
+    "BookAuthor": "Curtis Smith & Rick Swan",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Oriental Adventures - Kara-Tur Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9257 - OA6 - Ronin Challenge.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9258 - OA7 - Test of the Samurai",
+    "BookShortName": "OA7 - Test of the Samurai",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9258",
+    "BookISBN": "0-88038-775-0",
+    "BookAuthor": "Rick Swan",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Oriental Adventures - Kara-Tur Series",
+    "BookCharacterLevel": "Levels 6 - 9",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9258 - OA7 - Test of the Samurai.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9307 - FROA1 - Ninja Wars",
+    "BookShortName": "FROA1 - Ninja Wars",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9307",
+    "BookISBN": "0-88038-895-1",
+    "BookAuthor": "Nigel Findley",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Oriental Adventures - Kara-Tur Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\ADnD\\TSR9307 - FROA1 Ninja Wars.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

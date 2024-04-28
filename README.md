@@ -121,6 +121,14 @@
 - TSR2116 - MC6 - Kara-Tur Appendix
 - TSR2125 - MC11 - Forgotten Realms Appendix II
 - TSR9401 - TM4 - Waterdeep Trailmap
+- TSR9164 - OA1 - Swords of the Daimyo
+- TSR9186 - OA2 - Night of the Seven Swords
+- TSR9195 - OA3 - Ochimo The Spirit Warrior
+- TSR9203 - OA4 - Blood of the Yakuza
+- TSR9242 - OA5 - Mad Monkey vs. the Dragon Claw
+- TSR9257 - OA6 - Ronin Challenge
+- TSR9258 - OA7 - Test of the Samurai
+- TSR9307 - FROA1 - Ninja Wars
 - TSR2107 - MC5 - Monstrous Compendium Greyhawk Adventures Appendix
 ## Wizards of the Coast
 - WTC398890000 - Menzoberranzan - City of Intrigue
@@ -140,6 +148,9 @@
 - - Cities Without Number
 - - Stars Without Number Revised Edition
 - - Worlds Without Number
+## Zozer Games
+- - Tau Ceti
+- - Orbital Platforms
 ## Iron Crown Enterprises
 - ICE5800 - Rolemaster Fantasy Role Playing
 - ICE5801 - Arms Law
@@ -211,6 +222,8 @@
 - MGP40102 - Rim Expeditions
 - MGP40101 - Traveller Companion Update 2024
 - MGP40096 - The Order of Prometheus
+- MGP40074 - Traveller - Explorer's Edition
+- MGP40076 - Sector Construction Guide
 ## TSR
 - TSR9044 - B3 - Palace of the Silver Princess
 - TSR9049 - B4 - The Lost City
@@ -378,9 +391,26 @@
 - TSR9401 - TM4 - Waterdeep Trailmap
 - TSR9402 - TM5 - Kara-Tur Trailmap
 - TSR9492 - FOR9 - Wizards and Rogues of the Realms
+- TSR9164 - OA1 - Swords of the Daimyo
+- TSR9186 - OA2 - Night of the Seven Swords
+- TSR9195 - OA3 - Ochimo The Spirit Warrior
+- TSR9203 - OA4 - Blood of the Yakuza
+- TSR9242 - OA5 - Mad Monkey vs. the Dragon Claw
+- TSR9257 - OA6 - Ronin Challenge
+- TSR9258 - OA7 - Test of the Samurai
+- TSR9307 - FROA1 - Ninja Wars
 - TSR2023 - Greyhawk Adventures
 - TSR9065 - WG4 - Forgotten Temple of Tharizdun
 - TSR9222 - WG7 - Castle Greyhawk
+- TSR9406 - WGM1 - Border Watch
+- TSR9385 - WGQ1 - Patriots of Ulek
+- TSR9112 - WG5 - Mordenkainen's Fantastic Adventure
+- TSR9153 - WG6 - Isle of the Ape
+- TSR9251 - WG9 - Gargoyle
+- TSR9253 - WG8 - Fate of Istus
+- TSR9265 - WG10 - Child's Play
+- TSR9269 - WG11 - Puppets
+- TSR9270 - WG12 - Vale of the Mage
 ## Wizards of the Coast
 - WTCA4536 - A0-A4 - Against the Slave Lords
 - WTC398890000 - Menzoberranzan - City of Intrigue

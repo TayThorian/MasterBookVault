@@ -2374,5 +2374,84 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "MGP40074 - Traveller - Explorer's Edition",
+    "BookShortName": "Traveller - Explorer's Edition",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40074",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40074 - Traveller - Explorer's Edition.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40076 - Sector Construction Guide",
+    "BookShortName": "Sector Construction Guide",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40076",
+    "BookISBN": "",
+    "BookAuthor": "Geir Lanesskog",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Expansion",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40076 - Sector Construction Guide\\MGP40076 - Sector Construction Guide.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40076 - Sector Construction Guide\\Blank World Map.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40076 - Sector Construction Guide\\Charts and Forms Booklet.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40076 - Sector Construction Guide\\Sector Map - Blank.pdf",
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40076 - Sector Construction Guide\\Sector Map - Foreven.pdf"
+    ],
+    "BookDescription": [
+      "The Sector Construction Guide jumpstarts creativity to develop sectors of the referee’s own making, with a focus on the Foreven sector, an area adjacent to the Spinward Marches. The guidelines in this set provide tools to develop a detailed sector, whether in Charted Space or in an entirely different universe, covering overall setting creation, mainworlds, polities, and alien sophonts, with suggestions for variants to system creation rules to fit a referee’s unique ideas.",
+      "Included in the Sector Construction Guide:",
+      "The Sector Construction Guide, a book that takes you through the process of creating a sector from scratch",
+      "Two-sided poster map with both Foreven sector and a blank sector for the referee to start from scratch",
+      "Forms and Charts booklet",
+      "Pad of blank world maps"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

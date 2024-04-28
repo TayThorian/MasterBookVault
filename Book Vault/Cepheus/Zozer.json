@@ -553,5 +553,81 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Tau Ceti",
+  "BookShortName": "Tau Ceti",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Paul Elliott",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Tau Ceti.pdf"
+  ],
+  "BookDescription": [
+    "\"War is hell. The super-jungle is hell. Put those two together and you just know there's zero chance of finishing your tour alive...\"  - Corporal Mike Simms, 3rd Marine Division",
+    "A supplement for the Hostile RPG and Cepheus Engine.",
+    "Tau Ceti is a tortured world, fought over by the US-led Community of American States and by Chinese colonists backed by the People’s Republic of Guandong, on Earth. Tau Ceti is an unashamed stand-in for the Vietnam War, an interstellar conflict fought on a jungle world that kills almost as many Americans as the TLA do. ",
+    "Huge herbivores make life dangerous for the colonists, and the dinosaur-sized predators that hunt them are even more dangerous. Add highly poisonous or aggressive plantlife and a sulfur-tainted atmosphere and you have a very unpleasant world. Now add a decade-long jungle conflict fought by the dispirited forces of the American nations, and a foe that hides in the jungle, vanishes when attacked and launches devastating ambushes and counter attacks, and Tau Ceti becomes a place no-one wants to end up. ",
+    "But here you are, with the rest of your battalion, coming out of hypersleep in orbit above this glittering emeraled ball. Have you written your will?"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Orbital Platforms",
+  "BookShortName": "Orbital Platforms",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Paul Elliott",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cepheus\\Zozer\\Orbital Platforms.pdf"
+  ],
+  "BookDescription": [
+    "Orbital Platforms provides easy-to-use construction rules for the Hostile RPG and the Hostile setting. These rules follow a similar format to those found in Hostile’s starship construction rules. ",
+    "It includes a round up of platforms already found in Hostile, and adds a number of widespread protocols and operating procedures for these orbital stations.",
+    "Finally, three example stations are included: a 30,000-ton high port, a 2,000-ton orbital defence station and a 2,000-ton research station."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
