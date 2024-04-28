@@ -120,6 +120,7 @@
 - TSR2104 - MC3 - Monstrous Compendium - Volume Three - Forgotten Realms Appendix
 - TSR2116 - MC6 - Kara-Tur Appendix
 - TSR2125 - MC11 - Forgotten Realms Appendix II
+- TSR9401 - TM4 - Waterdeep Trailmap
 - TSR2107 - MC5 - Monstrous Compendium Greyhawk Adventures Appendix
 ## Wizards of the Coast
 - WTC398890000 - Menzoberranzan - City of Intrigue
@@ -370,6 +371,13 @@
 - TSR9561 - Empires of the Shining Sea
 - TSR1104 - The Ruins of Undermountain II- The Deep Levels
 - TSR1120 - Ruins of Zhentil Keep
+- TSR8442 - The Forgotten Realms Atlas
+- TSR9520 - The Vilhon Reach
+- TSR11627 - Cloak & Dagger
+- TSR9358 - Aurora's Whole Realms Catalogue
+- TSR9401 - TM4 - Waterdeep Trailmap
+- TSR9402 - TM5 - Kara-Tur Trailmap
+- TSR9492 - FOR9 - Wizards and Rogues of the Realms
 - TSR2023 - Greyhawk Adventures
 - TSR9065 - WG4 - Forgotten Temple of Tharizdun
 - TSR9222 - WG7 - Castle Greyhawk
