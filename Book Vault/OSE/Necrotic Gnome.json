@@ -97,7 +97,8 @@
     "BookFormat": "Hardback",
     "BookSeries": "Dolmenwood Core",
     "BookPDF": [
-      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Players Book.pdf"
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Players Book.pdf",
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Character Sheet.pdf"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
@@ -587,6 +588,76 @@
       {"page": 7, "title": "Treasure in the Dungeon"},
       {"page": 8, "title": "Area Descriptions"},
       {"page": 40, "title": "Expanding the Dungeon"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "Dolmenwood Maps Book",
+    "BookShortName": "Dolmenwood Maps Book",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Maps Book",
+    "BookFormat": "",
+    "BookSeries": "Maps Book",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Maps Book.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "The Ruined Abbey of St Clewyd",
+    "BookShortName": "The Ruined Abbey of St Clewyd",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\The Ruined Abbey of St Clewyd.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
       ]    
   }
   ]

@@ -3138,5 +3138,110 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "ICE1700 - Character Law",
+    "BookShortName": "Character Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1700",
+    "BookISBN": "0-915795-02-7",
+    "BookAuthor": "",
+    "BookPublished": "1982",
+    "BookCover": "",
+    "BookRules": "Rolemaster",
+    "BookEdition": "1 - Rolemaster - 1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 1st Edition\\ICE1700 - Character Law.pdf"
+    ],
+    "BookDescription": [
+      "A masterful set of guidelines for fantasy role playing character development. Adaptable to most fantasy role playing games."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "ICE1100 - Arms Law",
+    "BookShortName": "Arms Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1100",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1980",
+    "BookCover": "",
+    "BookRules": "Rolemaster",
+    "BookEdition": "1 - Rolemaster - 1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 1st Edition\\ICE1100 - Arms Law.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "ICE1000 - Rolemaster Boxed Set",
+    "BookShortName": "Rolemaster Boxed Set",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1982",
+    "BookCover": "",
+    "BookRules": "Rolemaster",
+    "BookEdition": "1 - Rolemaster - 1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Rules",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Rules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Rolemaster\\Rolemaster - 1st Edition\\ICE1000 - Rolemaster Boxed Set.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
