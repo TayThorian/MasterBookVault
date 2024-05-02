@@ -2,13 +2,13 @@
   {
   "BookName": "Rashemen Campaign Guide",
   "BookShortName": "Rashemen Campaign Guide",
-  "BookPublisher": "DMs Guild",
+  "BookPublisher": "DM's Guild",
   "BookCode": "N/A",
   "BookISBN": "",
   "BookAuthor": "Joe Raso, Andrew Bishkinskyi, Blaise Wigglesworth, Bryan Holmes, Ed Greenwood, Emily Harmon, Florian Emmerich, Jean Lorber, Karl Resch, Lydia Van Hoy, Steve Fidler, V.J. Harris",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookRules": "Dungeons and Dragons",
   "BookEdition": "5th Edition - Forgotten Realms",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
@@ -52,13 +52,13 @@
 {
   "BookName": "Player Primer - Amn",
   "BookShortName": "Player Primer - Amn",
-  "BookPublisher": "DMs Guild",
+  "BookPublisher": "DM's Guild",
   "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookRules": "Dungeons and Dragons",
   "BookEdition": "5th Edition - Forgotten Realms",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
@@ -87,13 +87,13 @@
 {
   "BookName": "Player Primer - Icewind Dale",
   "BookShortName": "Player Primer - Icewind Dale",
-  "BookPublisher": "DMs Guild",
+  "BookPublisher": "DM's Guild",
   "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookRules": "Dungeons and Dragons",
   "BookEdition": "5th Edition - Forgotten Realms",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
@@ -122,13 +122,13 @@
 {
   "BookName": "Player Primer - Moonshae Isles",
   "BookShortName": "Player Primer - Moonshae Isles",
-  "BookPublisher": "DMs Guild",
+  "BookPublisher": "DM's Guild",
   "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookRules": "Dungeons and Dragons",
   "BookEdition": "5th Edition - Forgotten Realms",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
@@ -157,13 +157,13 @@
 {
   "BookName": "Player Primer - Tethyr",
   "BookShortName": "Player Primer - Tethyr",
-  "BookPublisher": "DMs Guild",
+  "BookPublisher": "DM's Guild",
   "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookRules": "Dungeons and Dragons",
   "BookEdition": "5th Edition - Forgotten Realms",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
@@ -192,13 +192,13 @@
 {
   "BookName": "Player Primer - Calimshan",
   "BookShortName": "Player Primer - Calimshan",
-  "BookPublisher": "DMs Guild",
+  "BookPublisher": "DM's Guild",
   "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookRules": "Dungeons and Dragons",
   "BookEdition": "5th Edition - Forgotten Realms",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
@@ -237,13 +237,13 @@
 {
   "BookName": "Thay - Land of the Red Wizards",
   "BookShortName": "Thay - Land of the Red Wizards",
-  "BookPublisher": "DMs Guild",
+  "BookPublisher": "DM's Guild",
   "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "Ed Greenwood, Alex Kammer, Alan Patrick",
   "BookPublished": "2022",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookRules": "Dungeons and Dragons",
   "BookEdition": "5th Edition - Forgotten Realms",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
@@ -275,13 +275,13 @@
 {
   "BookName": "The Border Kingdoms",
   "BookShortName": "The Border Kingdoms",
-  "BookPublisher": "DMs Guild",
+  "BookPublisher": "DM's Guild",
   "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "Ed Greenwood, Alex Kammer",
   "BookPublished": "2020",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookRules": "Dungeons and Dragons",
   "BookEdition": "5th Edition - Forgotten Realms",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
@@ -319,13 +319,13 @@
 {
   "BookName": "Vilhon Reach Gazetteer",
   "BookShortName": "Vilhon Reach Gazetteer",
-  "BookPublisher": "DMs Guild",
+  "BookPublisher": "DM's Guild",
   "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons - 5e Compatible",
+  "BookRules": "Dungeons and Dragons",
   "BookEdition": "5th Edition - Forgotten Realms",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
@@ -432,17 +432,248 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Dungeons and Dragons",
-  "BookEdition": "5e Edition",
+  "BookEdition": "5th Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "",
   "BookType": "",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "DM's Guild",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Vecna’s Book of Vile Darkness.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Cormyr - Land of the Purple Dragon",
+  "BookShortName": "Cormyr - Land of the Purple Dragon",
+  "BookPublisher": "DM's Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Matthew Lee Myers",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5th Edition - Forgotten Realms",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Cormyr - Land of the Purple Dragon.pdf"
+  ],
+  "BookDescription": [
+    "Cormyr: Land of the Purple Dragon is a complete sourcebook to the kingdom of Cormyr, located in the heartlands of the Forgotten Realms. A nation ruled by a longstanding royal family, aided by the loyal Purple Dragons and vigilant War Wizards, Cormyr has been home to many great adventuring companies in ages past, including the Society of Stalwart Adventurers and the Knights of Myth Drannor. Now is your chance to join the ranks of those fabled adventurers and begin your exploration of the many dark and mysterious corners of Cormyr.",
+    "This sourcebook includes:",
+    "A comprehensive atlas of important locations in Cormyr",
+    "Updated rules for overland travel",
+    "An all new ruleset for tense negotiations and royal audiences",
+    "Rules for running and managing your own noble house or faction",
+    "12 new subclasses (one for each class in the Player's Handbook)",
+    "Dozens of new creatures and NPCs, as well as nearly 50 random encounters for you to use them",
+    "17 new magic items, including the 6 Cormyrean swords of state",
+    "Adventure seeds galore, including plots against the crown and dangerous crypts, tombs, and dungeons"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Calimshan Adventurer's Guide",
+  "BookShortName": "Calimshan Adventurer's Guide",
+  "BookPublisher": "DM's Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "M.T. Black",
+  "BookPublished": "2020",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5th Edition - Forgotten Realms",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Calimshan Adventurer's Guide.pdf"
+  ],
+  "BookDescription": [
+    "Explore Calimshan in this campaign sourcebook for the world's greatest roleplaying game",
+    "Calimshan! Land of intrigue, empire of the sands, and home to a million marvels and mysteries. It is a place where greatness and glory can be achieved by merchant, adventurer, and scholar alike. Before the first stone was laid in Waterdeep, Calimshan was already ancient. A land of genies, primordial forests, sunken cities, and a magical desert, it is unlike any other place in Faerûn.",
+    "The Calimshan Adventurer's Guide provides everything you need to create exciting adventures in this setting. Inside, you will find:",
+    "A guide to character creation, including new subclass options",
+    "An introduction to the history, geography, and culture of the land",
+    "An overview of the major cities and towns including Calimport, City of Glory",
+    "A collection of adventure seeds which can be sewn together into a level 1-20 campaign called \"The Tale of the Twisted Rune\"",
+    "New magic items, monsters, and NPCs",
+    "A beautiful, full-colour map of Calimshan",
+    "And much, much, more!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Minsc & Boo's Journal Of Villainy",
+  "BookShortName": "Minsc & Boo's Journal Of Villainy",
+  "BookPublisher": "DM's Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "James Ohlen",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5th Edition - Forgotten Realms",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Minsc & Boo's Journal Of Villainy.pdf"
+  ],
+  "BookDescription": [
+    "From the Journal of the Legendary Ranger and his Pet Hamster",
+    "A century has passed since the Bhaalspawn fought over the legacy of their father — Bhaal, the Lord of Murder. Two heroes witnessed the epic struggle firsthand — the ranger Minsc and his faithful companion, Boo.",    
+    "Minsc and Boo were able to track down old friends and hated enemies and find out what they’ve been up to over the past century. They’ve compiled everything into this journal, edited by the traveler extraordinaire, Volo Geddarm.",    
+    "Included in this journal are four cities, including Athkatla and Baldur’s Gate; ten group patrons led by some of Minsc and Boo’s old friends; a dozen new monsters; six arch villains and eleven dastardly henchmen."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Darkhold - Secrets of the Zhentarim",
+  "BookShortName": "Darkhold - Secrets of the Zhentarim",
+  "BookPublisher": "DM's Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5th Edition - Forgotten Realms",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Darkhold - Secrets of the Zhentarim.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Volos Vetted Vendors",
+  "BookShortName": "Volos Vetted Vendors",
+  "BookPublisher": "DM's Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5th Edition - Forgotten Realms",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Volos Vetted Vendors.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Jarlaxles Guide To Traps",
+  "BookShortName": "Jarlaxles Guide To Traps",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5th Edition - Forgotten Realms",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Forgotten Realms",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\5E - Compatible\\DMs Guild\\Jarlaxles Guide To Traps.pdf"
   ],
   "BookDescription": [
     "No description available."

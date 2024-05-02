@@ -2390,9 +2390,9 @@
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "",
-    "BookType": "",
+    "BookType": "Supplement",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40074 - Traveller - Explorer's Edition.pdf"
@@ -2443,6 +2443,960 @@
       "Two-sided poster map with both Foreven sector and a blank sector for the referee to start from scratch",
       "Forms and Charts booklet",
       "Pad of blank world maps"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40119 - This Is Free Trader Beowulf - A System History Of Traveller",
+    "BookShortName": "This Is Free Trader Beowulf - A System History Of Traveller",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40119",
+    "BookISBN": "978-916675-21-6",
+    "BookAuthor": "Shannon Appelcline",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "A System History Of Traveller",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40119 - This Is Free Trader Beowulf - A System History Of Traveller.pdf"
+    ],
+    "BookDescription": [
+      "This is Free Trader Beowulf, calling anyone … Mayday, Mayday. A box emblazoned with those words went on sale for the first time on July 22, 1977, at the Origins III Game Fair, heralding the advent of the Traveller roleplaying game from GDW. It wasn’t the first science-fiction roleplaying game, but through its innovative design and through the development of its evocative universe of Charted Space, it would become the longest running SFRPG in the industry.",
+      "However, its path would not be simple. After Traveller reached its early apogee just four years in, it would face decades of increasing problems, raising many questions. Why did GDW decided to shatter their Imperium? What led them to seek outside help to produce the second edition of the game? Why did they abandon the Traveller game system with their next revision? How could such a popular publisher face bankruptcy just two decades on? Similarly, what happened to Imperium Games, QuikLink Interactive, and others who followed in GDW’s footsteps as the inheritors of the Traveller legacy? And finally, how did Mongoose Publishing reach into the past and bring Traveller back to its position as the industry’s best-loved SFRPG?",
+      "This volume answers those questions and more. It tracks Traveller from its inspirations in the early ’70s, though its initial publication, and across seven distinct editions of its original 2d6 gaming system. It reveals the stories of Traveller’s three major publishers; GDW, Imperium Games, and Mongoose, as well many licensees. Most importantly, it tells how Traveller fell into increasing darkness before descending into a Long Night, and how it rose again as a phoenix.",
+      "From the author of Designers & Dragons, which told the story of the entire roleplaying industry, comes the intimate history of a single roleplaying game, culled from hundreds of primary sources and interviews."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40053 - Solomani Adventure 1 - Mysteries on Arcturus Station",
+    "BookShortName": "Solomani Adventure 1 - Mysteries on Arcturus Station",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40053",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Solomani Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40056 - Solomani Adventure 2 - The Bell of Rocamadour.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40056 - Solomani Adventure 2 - The Bell of Rocamadour",
+    "BookShortName": "Solomani Adventure 2 - The Bell of Rocamadour",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40056",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Solomani Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40053 - Solomani Adventure 1 - Mysteries on Arcturus Station.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40997 - Spinward Marches 1 - The Bowman Arm",
+    "BookShortName": "Spinward Marches 1 - The Bowman Arm",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40997",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Spinward Marches Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40997 - Spinward Marches 1 - The Bowman Arm.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40090 - Spinward Marches 2 - The Lunion Shield Worlds",
+    "BookShortName": "Spinward Marches 2 - The Lunion Shield Worlds",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40090",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Spinward Marches Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40090 - Spinward Marches 2 - The Lunion Shield Worlds.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40041 - Deepnight Revelation Expansion 1 - Riftsedge Transit",
+    "BookShortName": "Deepnight Revelation Expansion 1 - Riftsedge Transit",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40041",
+    "BookISBN": "978-1-913076-20-7",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Campaign",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Deepnight Revelation",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40041 - Deepnight Revelation Expansion 1 - Riftsedge Transit.pdf"
+    ],
+    "BookDescription": [
+      "The first expansion of the epic Deepnight Revelation campaign.",
+      "The expedition begins with a transit along the edge of the Great Rift, taking the Travellers beyond Charted Space. This is the last chance to turn back, the final shakedown before the years of travel begin to unfold. Problems with the ship or her crew could scrub the whole mission, and problems certainly exist! How the Travellers deal with these issues will have repercussions throughout the voyage.",
+      "<b>Wonders and Terrors</b>",
+      "Rampant life on a garden world. The blaze of energy from a coalescing star. Space-dwelling creatures sporting in the rings of a gas giant. There are wonders to be witnessed, and dangers too. The Travellers will delve into the wreckage of a dead civilisation, and find the legacy of another mission with the same goal.",
+      "<b>The Alikaia</b>",
+      "The Alikaia are a spacefaring race completely unknown in Charted Space. The Travellers have a chance to rescue survivors from one of their vessels – under highly unusual circumstances. They must then negotiate a complex first-contact situation where nothing is quite what it seems.",
+      "The Riftsedge Transit. Wonders and terrors on the fringe of the Great Rift"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40042 - Deepnight Revelation Expansion 2 - The Near Side of Yonder",
+    "BookShortName": "Deepnight Revelation Expansion 2 - The Near Side of Yonder",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40042",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Campaign",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Deepnight Revelation",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40042 - Deepnight Revelation Expansion 2 - The Near Side of Yonder.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40043 - Deepnight Revelation Expansion 3 - The Crossing",
+    "BookShortName": "Deepnight Revelation Expansion 3 - The Crossing",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40043",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Campaign",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Deepnight Revelation",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40043 - Deepnight Revelation Expansion 3 - The Crossing.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40044 - Deepnight Revelation Expansion 4 - The Far Side of Nowhere",
+    "BookShortName": "Deepnight Revelation Expansion 4 - The Far Side of Nowhere",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40044",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Campaign",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Deepnight Revelation",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40044 - Deepnight Revelation Expansion 4 - The Far Side of Nowhere.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40045 - Deepnight Revelation Expansion 5 - Voidshare",
+    "BookShortName": "Deepnight Revelation Expansion 5 - Voidshare",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40045",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Campaign",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Deepnight Revelation",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40045 - Deepnight Revelation Expansion 5 - Voidshare.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40046 - Deepnight Revelation Expansion 6 - Expeditions",
+    "BookShortName": "Deepnight Revelation Expansion 6 - Expeditions",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40046",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Campaign",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Deepnight Revelation",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40046 - Deepnight Revelation Expansion 6 - Expeditions.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40065 - Specialist Forces",
+    "BookShortName": "Specialist Forces",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40065",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Mercenary",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40065 - Specialist Forces.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40066 - Mercenaries of Charted Space",
+    "BookShortName": "Mercenaries of Charted Space",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40066",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Mercenary",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40066 - Mercenaries of Charted Space.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40067 - Field Catalogue",
+    "BookShortName": "Field Catalogue",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40067",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Mercenary",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40067 - Field Catalogue.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40006 - Reach Adventure 1 - Marooned on Marduk",
+    "BookShortName": "Reach Adventure 1 - Marooned on Marduk",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40006",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Reach Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40006 - Reach Adventure 1 - Marooned on Marduk.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40010 - Reach Adventure 2 - Theories of Everything",
+    "BookShortName": "Reach Adventure 2 - Theories of Everything",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40010",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Reach Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40010 - Reach Adventure 2 - Theories of Everything.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40011 - Reach Adventure 3 - The Calixcuel Incident",
+    "BookShortName": "Reach Adventure 3 - The Calixcuel Incident",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40011",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Reach Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40011 - Reach Adventure 3 - The Calixcuel Incident.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40012 - Reach Adventure 4 - Last Flight of the Amuar",
+    "BookShortName": "Reach Adventure 4 - Last Flight of the Amuar",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40012",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Reach Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40012 - Reach Adventure 4 - Last Flight of the Amuar.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40018 - Reach Adventure 5 - Borderland Run",
+    "BookShortName": "Reach Adventure 5 - Borderland Run",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40018",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Reach Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40018 - Reach Adventure 5 - Borderland Run.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40022 - Reach Adventure 6 - Exodus",
+    "BookShortName": "Reach Adventure 6 - Exodus",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40022",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Reach Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40022 - Reach Adventure 6 - Exodus.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40035 - Reach Adventure 7 - The Last Train Out of Rakken-Goll",
+    "BookShortName": "Reach Adventure 7 - The Last Train Out of Rakken-Goll",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40035",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Reach Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40035 - Reach Adventure 7 - The Last Train Out of Rakken-Goll.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40999 - Referee's Briefing 1 - Companies & Corporations",
+    "BookShortName": "Referee's Briefing 1 - Companies & Corporations",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40999",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "N/A",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Referee's Briefing",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Referee's Briefings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40999 - Referee's Briefing 1 - Companies & Corporations.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40998 - Referee's Briefing 2 - Anomalies and Wonders",
+    "BookShortName": "Referee's Briefing 2 - Anomalies and Wonders",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40998",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "N/A",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Referee's Briefing",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Referee's Briefings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40998 - Referee's Briefing 2 - Anomalies and Wonders.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40996 - Referee's Briefing 3 - Going Portside",
+    "BookShortName": "Referee's Briefing 3 - Going Portside",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40996",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "N/A",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Referee's Briefing",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Referee's Briefings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40996 - Referee's Briefing 3 - Going Portside.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40994 - Referee's Briefing 4 - Mercenary Forces",
+    "BookShortName": "Referee's Briefing 4 - Mercenary Forces",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40994",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "N/A",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Referee's Briefing",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Referee's Briefings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40994 - Referee's Briefing 4 - Mercenary Forces.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40990 - Referee's Briefing 5 - Incidents and Encounters",
+    "BookShortName": "Referee's Briefing 5 - Incidents and Encounters",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40990",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "N/A",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Referee's Briefing",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Referee's Briefings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40990 - Referee's Briefing 5 - Incidents and Encounters.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40989 - Referee's Briefing 6 - Garden Worlds",
+    "BookShortName": "Referee's Briefing 6 - Garden Worlds",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40989",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "N/A",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Referee's Briefing",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Referee's Briefings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40989 - Referee's Briefing 6 - Garden Worlds.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
     ],
     "TableOfContents": [
       {

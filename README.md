@@ -298,6 +298,12 @@
 - TSR9020 - D2 - Shrine of the Kuo-Toa
 - TSR9021 - D3 - Vault of the Drow
 - TSR9059 - D1-2 - Descent Into the Depths
+- TSR9032 - C1 - The Hidden Shrine of Tamoachan
+- TSR9038 - C2 - The Ghost Tower of Inverness
+- TSR9110 - C3 - The Lost Island of Castanamir
+- TSR9107 - C4 - To Find a King
+- TSR9109 - C5 - The Bane of Llewellyn
+- TSR9206 - C6 - Official RPGA Tournament Book
 - TSR9366 - ALQ1 - Golden Voyages
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures

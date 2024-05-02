@@ -5661,5 +5661,216 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "TSR9032 - C1 - The Hidden Shrine of Tamoachan",
+    "BookShortName": "C1 - The Hidden Shrine of Tamoachan",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9032",
+    "BookISBN": "0-935696-15-6",
+    "BookAuthor": "Harold Johnson & Jeff R. Leason",
+    "BookPublished": "1980/1982",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "C Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\C Series\\TSR9032 - C1 - The Hidden Shrine of Tamoachan (Brown Cover).pdf",
+      "D:\\Master Vault\\ADnD\\Adventures\\C Series\\TSR9032 - C1 - The Hidden Shrine of Tamoachan.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9038 - C2 - The Ghost Tower of Inverness",
+    "BookShortName": "C2 - The Ghost Tower of Inverness",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9038",
+    "BookISBN": "0-935696-24-5",
+    "BookAuthor": "Allen Hammack",
+    "BookPublished": "1980",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "C Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\C Series\\TSR9038 - C2 - The Ghost Tower of Inverness.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9110 - C3 - The Lost Island of Castanamir",
+    "BookShortName": "C3 - The Lost Island of Castanamir",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9110",
+    "BookISBN": "0-88038-189-2",
+    "BookAuthor": "Ken Rolston",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "C Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\C Series\\TSR9110 - C3 - The Lost Island of Castanamir.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9107 - C4 - To Find a King",
+    "BookShortName": "C4 - To Find a King",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9107",
+    "BookISBN": "0-88038-159-0",
+    "BookAuthor": "Bob Blake",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "C Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\C Series\\TSR9107 - C4 - To Find a King.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9109 - C5 - The Bane of Llewellyn",
+    "BookShortName": "C5 - The Bane of Llewellyn",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9109",
+    "BookISBN": "0-88038-194-9",
+    "BookAuthor": "Bob Blake",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "C Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\C Series\\TSR9109 - C5 - The Bane of Llewellyn.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9206 - C6 - Official RPGA Tournament Book",
+    "BookShortName": "C6 - Official RPGA Tournament Book",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9206",
+    "BookISBN": "0-88038-466-2",
+    "BookAuthor": "Daniel Kramarsky and Jean & Bruce Rabe",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "C Series",
+    "BookCharacterLevel": "Levels 4 - 8",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\C Series\\TSR9206 - C6 - Official RPGA Tournament Book.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
