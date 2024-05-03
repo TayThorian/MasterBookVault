@@ -5872,5 +5872,180 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "TSR9353 - GR1 - Strongholds",
+    "BookShortName": "GR1 - Strongholds",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9353",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "General Reference (GR) Series Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\General Reference (GR) Series Accessories\\TSR9353 - GR1 - Strongholds.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9365 - GR2 - Dungeons of Mystery",
+    "BookShortName": "GR2 - Dungeons of Mystery",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9365",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "General Reference (GR) Series Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\General Reference (GR) Series Accessories\\TSR9365 - GR2 - Dungeons of Mystery.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9377 - GR3 - Treasure Maps",
+    "BookShortName": "GR3 - Treasure Maps",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9377",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "General Reference (GR) Series Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\General Reference (GR) Series Accessories\\TSR9377 - GR3 - Treasure Maps.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9426 - GR4 - Treasure Chest",
+    "BookShortName": "GR4 - Treasure Chest",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9426",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "General Reference (GR) Series Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\General Reference (GR) Series Accessories\\TSR9426 - GR4 - Treasure Chest.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9518 - GR5 - Treasure Tales",
+    "BookShortName": "GR5 - Treasure Tales",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9518",
+    "BookISBN": "0-7869-0389-9",
+    "BookAuthor": "Loren Coleman",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "General Reference (GR) Series Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\General Reference (GR) Series Accessories\\TSR9518 - GR5 - Treasure Tales.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
