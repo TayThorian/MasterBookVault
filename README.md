@@ -20,7 +20,6 @@
 - ICE2300 - Angmar - Land of the Witch King
 - ICE2400 - Umbar - Haven of the Corsairs
 - ICE2500 - The Court of Ardor in Southern Middle-earth
-- ICE2900 - Moria The Dwarven City
 - ICE2600 - Northern Mirkwood, The Wood-Elves Realm
 - ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
 - ICE2700 - Southern Mirkwood - Haunt of the Necromancer
@@ -28,7 +27,6 @@
 - ICE3200 - Lorien & The Halls of the Elven Smiths
 - ICE8107 - Woses of the Black Wood
 - ICE8060 - Erech and the Paths of the Dead
-- ICE3000 - Rangers of the North, The Kingdom of Arthedain
 - ICE3110 - Mount Gundabad
 - ICE3111 - Greater Harad
 - ICE3113 - The Grey Mountains

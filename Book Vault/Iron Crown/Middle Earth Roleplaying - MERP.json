@@ -3502,5 +3502,40 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "GAW010164 - Middle-earth Roleplaying",
+    "BookShortName": "Middle-earth Roleplaying",
+    "BookPublisher": "Games Workshop",
+    "BookCode": "GAW01016",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "MERP - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\MERP\\1E\\GAW010164 - Middle-earth Roleplaying.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
