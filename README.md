@@ -84,7 +84,6 @@
 - - The Travellers' Digest - 08
 - - The Travellers' Digest - 09
 - - The Travellers' Digest - 10
-- - The Travellers' Digest - 14
 - - Manhunt
 ## Game Designers Workshop
 - GDW252 - Tarsus
