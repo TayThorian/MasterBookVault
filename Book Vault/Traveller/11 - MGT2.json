@@ -3407,5 +3407,59 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "MGP40120 - Starship Operator's Manual",
+    "BookShortName": "Starship Operator's Manual",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40120",
+    "BookISBN": "978-1-916675-23-0",
+    "BookAuthor": "Adrian Tymes, Sabrina Tymes, Gabriel G. A. B. Fonseca, Robert Eaglestone",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40120 - Starship Operator's Manual.pdf"
+    ],
+    "BookDescription": [
+      "Travelling is about the journey, not the destination, and few things shape a voyage across Charted Space as much as a starship. However, a starship is more than a mere means of transportation; it is also a home and a companion. To captain a starship is to be the master of one’s destiny – for riches, glory, or an untimely end…",
+      "There are many books that examine about how to build and fly custom starships, but few on what it is like to work and live on one. That is where the Starship Operator’s Manual comes in.",
+      "The Starship Operator’s Manual covers all aspects of life aboard the starships of Charted Space. Learn the workings of manoeuvre and jump drives, find out how to operate advanced sensors, and discover exactly what your role on a starship entails.",
+      "Includes a complete walkthrough of the Scout/Courier, Far Trader and Safari Ship."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Starship Operator's Manual",
+    "chapters": [
+      {"page": 3, "title": "Introduction"},
+      {"page": 8, "title": "Hull"},
+      {"page": 17, "title": "Power Systems"},
+      {"page": 25, "title": "Life Support"},
+      {"page": 42, "title": "Cargo and Docking Systems"},
+      {"page": 53, "title": "The Computer"},
+      {"page": 66, "title": "Sensors and Communication"},
+      {"page": 74, "title": "Gravitics"},
+      {"page": 82, "title": "Jump Drives"},
+      {"page": 94, "title": "Reaction Drives"},
+      {"page": 99, "title": "Weapons and Defences"},
+      {"page": 110, "title": "Amenities"},
+      {"page": 116, "title": "Crew Roles"},
+      {"page": 124, "title": "Maintenance and Repair"},
+      {"page": 131, "title": "Ship Walkthrough"},
+      {"page": 132, "title": "Animal Safari Ship"},
+      {"page": 135, "title": "Suleiman Scout / Courier"},
+      {"page": 137, "title": "Empress Marava Far Trader"}
+      ]    
+  }
+  ]
   }
 ]
