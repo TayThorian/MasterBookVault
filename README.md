@@ -73,17 +73,29 @@
 - GCP-RMU-001 - Core Law
 - GCP-RMU-002 - Spell Law
 - GCP-RMU-003 - Treasure Law
+## Digest Group Publications
+- - The Travellers' Digest - 01
+- - The Travellers' Digest - 02
+- - The Travellers' Digest - 03
+- - The Travellers' Digest - 04
+- - The Travellers' Digest - 05
+- - The Travellers' Digest - 06
+- - The Travellers' Digest - 07
+- - The Travellers' Digest - 08
+- - The Travellers' Digest - 09
+- - The Travellers' Digest - 10
+- - The Travellers' Digest - 14
+- - Manhunt
 ## Game Designers Workshop
 - GDW252 - Tarsus
 - - Supplement 5 - Lightning Class Cruisers
-## Digest Group Publications
-- - Manhunt
 ## Mongoose Publishing
 - MGP40095 - Central Supply Catalogue -Update 2023
 - MGP40085 - Robot Handbook
 - MGP40087 - High Guard Update 2022
 - MGP40100 - World Builder’s Handbook
 - MGP40101 - Traveller Companion Update 2024
+- MGP40120 - Starship Operator's Manual
 ## TSR
 - TSR1071 - Rules Cyclopedia
 - TSR2173 - Monstrous Compendium Annual - Volume Four
@@ -222,6 +234,7 @@
 - MGP40096 - The Order of Prometheus
 - MGP40074 - Traveller - Explorer's Edition
 - MGP40076 - Sector Construction Guide
+- MGP40120 - Starship Operator's Manual
 ## TSR
 - TSR9044 - B3 - Palace of the Silver Princess
 - TSR9049 - B4 - The Lost City
