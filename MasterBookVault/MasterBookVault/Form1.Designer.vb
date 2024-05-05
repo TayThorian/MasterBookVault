@@ -84,6 +84,8 @@ Partial Class Form1
         ContextMenuStrip1 = New ContextMenuStrip(components)
         TextBoxObjectCount = New TextBox()
         Label25 = New Label()
+        PanelMDLInks = New Panel()
+        Label20 = New Label()
         Panel1.SuspendLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(WebView2Description, ComponentModel.ISupportInitialize).BeginInit()
@@ -153,7 +155,7 @@ Partial Class Form1
         PanelPdfLinks.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
         PanelPdfLinks.Location = New Point(1115, 680)
         PanelPdfLinks.Name = "PanelPdfLinks"
-        PanelPdfLinks.Size = New Size(477, 463)
+        PanelPdfLinks.Size = New Size(477, 207)
         PanelPdfLinks.TabIndex = 6
         ' 
         ' Panel1
@@ -573,6 +575,8 @@ Partial Class Form1
         ' 
         Panel2.BackColor = SystemColors.Window
         Panel2.BorderStyle = BorderStyle.Fixed3D
+        Panel2.Controls.Add(Label20)
+        Panel2.Controls.Add(PanelMDLInks)
         Panel2.Controls.Add(Label19)
         Panel2.Controls.Add(Label18)
         Panel2.Controls.Add(TextBoxCharLvl)
@@ -749,6 +753,28 @@ Partial Class Form1
         Label25.Text = "Total Books:"
         Label25.TextAlign = ContentAlignment.MiddleCenter
         ' 
+        ' PanelMDLInks
+        ' 
+        PanelMDLInks.AutoScroll = True
+        PanelMDLInks.BackColor = Color.FloralWhite
+        PanelMDLInks.BorderStyle = BorderStyle.Fixed3D
+        PanelMDLInks.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        PanelMDLInks.Location = New Point(1115, 923)
+        PanelMDLInks.Name = "PanelMDLInks"
+        PanelMDLInks.Size = New Size(477, 220)
+        PanelMDLInks.TabIndex = 51
+        ' 
+        ' Label20
+        ' 
+        Label20.AutoSize = True
+        Label20.BackColor = SystemColors.Window
+        Label20.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
+        Label20.Location = New Point(1115, 899)
+        Label20.Name = "Label20"
+        Label20.Size = New Size(96, 21)
+        Label20.TabIndex = 52
+        Label20.Text = "Extra Links:"
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -840,4 +866,6 @@ Partial Class Form1
     Friend WithEvents Label25 As Label
     Friend WithEvents Panel3 As Panel
     Friend WithEvents Label19 As Label
+    Friend WithEvents Label20 As Label
+    Friend WithEvents PanelMDLInks As Panel
 End Class

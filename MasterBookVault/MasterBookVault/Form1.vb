@@ -264,6 +264,25 @@ Public Class Form1
                 Next
                 PanelPdfLinks.AutoScroll = True ' Enable scrolling if needed
             End If
+
+            ' Update PanelMDLinks with MD Files
+            PanelMDLInks.Controls.Clear()
+            If selectedBook.BookMD IsNot Nothing AndAlso selectedBook.BookMD.Any() Then
+                Dim yOffset As Integer = 0
+                For Each pdfPath In selectedBook.BookMD
+                    Dim link As New LinkLabel()
+                    link.Text = Path.GetFileNameWithoutExtension(pdfPath)
+                    link.Tag = pdfPath
+                    link.AutoSize = True
+                    link.Location = New Point(0, yOffset) ' Set Y position for each link
+                    yOffset += link.Height + 5 ' Increment Y offset for the next link
+                    AddHandler link.Click, AddressOf PdfLink_Click
+                    PanelMDLInks.Controls.Add(link)
+                Next
+                PanelMDLInks.AutoScroll = True ' Enable scrolling if needed
+            End If
+
+
         End If
     End Sub
 

@@ -21,6 +21,9 @@
     "BookPDF": [
       "D:\\Master Vault\\"
     ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
     "BookDescription": [
       "No description available."
     ],
@@ -62,6 +65,9 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
   ],
   "BookDescription": [
     "No description available."

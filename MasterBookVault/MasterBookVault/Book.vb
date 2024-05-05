@@ -19,6 +19,8 @@
     Public Property BookSeries As String
     Public Property BookCharacterLevel As String
     Public Property BookPDF As List(Of String)
+
+    Public Property BookMD As List(Of String)
     Public Property BookDescription As String()
 
     Public Property TableOfContents As List(Of TOCSection)
