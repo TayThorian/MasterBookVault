@@ -6271,5 +6271,424 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "WTC953947400 - The Twilight Tomb",
+    "BookShortName": "The Twilight Tomb",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC953947400",
+    "BookISBN": "978-0-7869-3947-3",
+    "BookAuthor": "Greg A. Vaughan",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "Level 3",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC953947400 - The Twilight Tomb.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "WTC881620000 - City of Splendors - Waterdeep",
+    "BookShortName": "City of Splendors - Waterdeep",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC881620000",
+    "BookISBN": "0-7869-3693-2",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC881620000 - City of Splendors - Waterdeep.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "WTC882927200 - Champions of Valor",
+    "BookShortName": "Champions of Valor",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC882927200",
+    "BookISBN": "0-7869-3697-5",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC882927200 - Champions of Valor.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "WTC884467400 - Sons of Gruumsh",
+    "BookShortName": "Sons of Gruumsh",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC884467400",
+    "BookISBN": "0-7869-3698-3",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "Level 4",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC884467400 - Sons of Gruumsh.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "WTC886470000 - Player's Guide to Faerun",
+    "BookShortName": "Player's Guide to Faerun",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC886470000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC886470000 - Player's Guide to Faerun.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "WTC953717200 - Mysteries of the Moonsea",
+    "BookShortName": "Mysteries of the Moonsea",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC953717200",
+    "BookISBN": "0-7869-3915-X",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaign Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC953717200 - Mysteries of the Moonsea.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "WTC953797200 - Dragons of Faerun",
+    "BookShortName": "Dragons of Faerun",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC953797200",
+    "BookISBN": "978-0-7869-3923-7",
+    "BookAuthor": "Eric L. Boyd, Eytan Bernstein",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC953797200 - Dragons of Faerun.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Dragons of Faerûn features an in-depth look at the dragons of the Forgotten Realms. Dungeon Masters are given information on adventuring in the Year of Rogue Dragons, on specific dragons and dracoliches of Faerûn, and on how those beasts might interact with player characters. DMs are given information on organizations that PCs can belong to or work against, such as the evil Cult of the Dragon. Also included is information on how to run a campaign that features the Year of Rogue Dragons—the one time, every 1,000 years, when the dragons of Faerûn rampage across the continent.",
+      "In addition, this book includes ready-to-play adventures; new traps and treasures to be found within dragons’ lairs; new dragon spells; and new monsters."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "Shadowdale - The Scouring of the Land",
+    "BookShortName": "Shadowdale - The Scouring of the Land",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC955697200",
+    "BookISBN": "978-0-7869-4039-4",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Accessory",
+    "BookFormat": "",
+    "BookSeries": "Campaign Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC955697200 - Shadowdale - The Scouring of the Land.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "WTC956857200 - Cormyr - The Tearing of the Weave",
+    "BookShortName": "Cormyr - The Tearing of the Weave",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC956857200",
+    "BookISBN": "978-0-7869-4119-3",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Accessory",
+    "BookFormat": "",
+    "BookSeries": "Campaign Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC956857200 - Cormyr - The Tearing of the Weave.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "Serpent Kingdoms",
+    "BookShortName": "Serpent Kingdoms",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC965660000",
+    "BookISBN": "0-7869-3277-5",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Accessory",
+    "BookFormat": "",
+    "BookSeries": "Campaign Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC965660000 - Serpent Kingdoms.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "WTC978078694 - Anauroch - The Sundering of the World",
+    "BookShortName": "Anauroch - The Sundering of the World",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTC978078694",
+    "BookISBN": "978-0-7869-4362-3",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "3.5 Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Campaign Accessory",
+    "BookFormat": "",
+    "BookSeries": "Campaign Accessories",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Forgotten Realms\\3.5 Edition\\WTC978078694 - Anauroch - The Sundering of the World.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

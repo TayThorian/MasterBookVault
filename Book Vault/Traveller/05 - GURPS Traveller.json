@@ -158,5 +158,101 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "SJG6604 - Star Mercs",
+  "BookShortName": "Star Mercs",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6604",
+  "BookISBN": "1-55634-364-7",
+  "BookAuthor": "Martin Dougherty, Neil Frier",
+  "BookPublished": "1998",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6604 - Star Mercs.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Prepare for War . . .",
+    ". . . with Star Mercs. Everything you need for a star-spanning, military-oriented campaign in the Traveller universe is here!",
+    "Experience combat (and a soldier's life) in the 57th century.",
+    "Learn how to recruit, organize, and equip a mercenary unit.",
+    "Familiarize yourself with the Imperial rules of war.",
+    "Get the edge with discourses on strategy and tactics.",
+    "Arm your troops from a comprehensive list of weapons and other tools of the soldier's trade.",
+    "Star Mercs also includes deck plans for the 800-ton Broadsword-class mercenary cruiser, templates for military and mercenary soldier characters, sample missions, and a variety of units and NPC personalities your mercenary group might encounter, including the famed and feared Imperial Marines. Face front, soldier!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SJG6606 - Far Trader",
+  "BookShortName": "Far Trader",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6606",
+  "BookISBN": "1-55634-373-6",
+  "BookAuthor": "Steve Daniels, Jim McLean, Christopher Thrash",
+  "BookPublished": "1999",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6606 - Far Trader.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Regina Departure, this is S.S. Freeman, passing the 100D limit, jumping outsystem to Jenghe at this time, no estimated time of return.",
+    "Freeman, I show you departing Regina System at 16:05-115-1120. Jump approved; squawk 0000. Come back and see us sometime.",
+    "Regina Departure, this is S.S. Freeman, squawking all zeroes; will do, thanks and out.",
+    "The Universe Is Your Market",
+    "There's a fortune to be made among the stars – for the intrepid merchant with business savvy, a suspicious mind, and more than a little luck.",
+    "Be prepared to meet some of the worst characters in the universe – just pray they're not your business partners! And remember, \"cutthroat competition\" isn't just a colorful catch phrase . . .",
+    "The \"independent trader\" campaign is one of the most popular among Traveller players. Far Trader is the complete support volume for a mercantile campaign. You can:",
+    "Develop sector-wide trade routes, following the tides of commerce on an interplanetary scale.",
+    "Start your own character-run business, raise capital, and finance your money-making ventures.",
+    "Make contacts, find niche markets, and exploit opportunities the big corporations miss.",
+    "Learn what it takes to run a successful commercial starship.",
+    "Expand your campaign with 15 new character templates.",
+    "Run entire mercantile campaigns, including Free Traders, smugglers, and pirates.",
+    "So stock your starship, grab your gun, and take to the stars . . . fortunes don't come easy!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

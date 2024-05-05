@@ -143,6 +143,7 @@
 - WTC398890000 - Menzoberranzan - City of Intrigue
 - WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
 - WTC957327200 - Expedition to Undermountain
+- WTC953947400 - The Twilight Tomb
 # PDF's Books to Source
 ## Monte Cook Games
 - MCG370 - Rust And Redemption
@@ -203,6 +204,8 @@
 ## Steve Jackson Games
 - SJG6602 - Traveller
 - SJG6603 - Alien Races 1 - Zhodani, Vargr, and Other Races of the Spinward Marches
+- SJG6604 - Star Mercs
+- SJG6606 - Far Trader
 - SJG01-2401 - Interstellar Wars
 ## Mongoose Publishing
 - MGP40111 - Reach Adventure 8 - Makergod
@@ -427,6 +430,10 @@
 - TSR9265 - WG10 - Child's Play
 - TSR9269 - WG11 - Puppets
 - TSR9270 - WG12 - Vale of the Mage
+- TSR2600 - Planescape Campaign Setting
+- TSR2602 - Monstrous Compendium - Appendix I
+- TSR2613 - Monstrous Compendium - Appendix II
+- TSR2635 - Monstrous Compendium - Appendix III
 ## Wizards of the Coast
 - WTCA4536 - A0-A4 - Against the Slave Lords
 - WTC398890000 - Menzoberranzan - City of Intrigue
@@ -450,6 +457,17 @@
 - WTC957327200 - Expedition to Undermountain
 - WTC978078694 - Grand History of the Realms
 - WTC179290000 - Shining South
+- WTC953947400 - The Twilight Tomb
+- WTC881620000 - City of Splendors - Waterdeep
+- WTC882927200 - Champions of Valor
+- WTC884467400 - Sons of Gruumsh
+- WTC886470000 - Player's Guide to Faerun
+- WTC953717200 - Mysteries of the Moonsea
+- WTC953797200 - Dragons of Faerun
+- WTC955697200 - Shadowdale - The Scouring of the Land
+- WTC956857200 - Cormyr - The Tearing of the Weave
+- WTC965660000 - Serpent Kingdoms
+- WTC978078694 - Anauroch - The Sundering of the World
 ## Free League Publishing
 - - The World of Symbaroum
 - - The Throne of Thorns I
