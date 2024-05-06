@@ -6099,18 +6099,18 @@
     "BookShortName": "Odyssey - Tale of the Comet",
     "BookPublisher": "TSR",
     "BookCode": "TSR1143",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-7869-0653-7",
+    "BookAuthor": "Thomas M. Reid",
+    "BookPublished": "1997",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Odyssey",
-    "BookType": "",
-    "BookFormat": "",
+    "BookType": "Accessory",
+    "BookFormat": "Boxed Set",
     "BookSeries": "Odyssey",
     "BookCharacterLevel": "",
     "BookPDF": [
@@ -6138,16 +6138,16 @@
     "BookPublisher": "TSR",
     "BookCode": "TSR2521",
     "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookAuthor": "Tim Beach & Bruce Heard",
+    "BookPublished": "1996",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Odyssey",
-    "BookType": "",
+    "BookType": "Accessory",
     "BookFormat": "",
     "BookSeries": "Odyssey",
     "BookCharacterLevel": "",
@@ -6176,16 +6176,16 @@
     "BookPublisher": "TSR",
     "BookCode": "TSR2522",
     "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookAuthor": "Nicky Rea",
+    "BookPublished": "1996",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Odyssey",
-    "BookType": "",
+    "BookType": "Accessory",
     "BookFormat": "",
     "BookSeries": "Odyssey",
     "BookCharacterLevel": "",
@@ -6215,15 +6215,15 @@
     "BookCode": "TSR2524",
     "BookISBN": "",
     "BookAuthor": "",
-    "BookPublished": "",
+    "BookPublished": "1996",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Odyssey",
-    "BookType": "",
+    "BookType": "Accessory",
     "BookFormat": "",
     "BookSeries": "Odyssey",
     "BookCharacterLevel": "",
@@ -6252,17 +6252,17 @@
     "BookPublisher": "TSR",
     "BookCode": "TSR9472",
     "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookAuthor": "Dale Donovan",
+    "BookPublished": "1998",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Odyssey",
-    "BookType": "",
-    "BookFormat": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
     "BookSeries": "Odyssey",
     "BookCharacterLevel": "",
     "BookPDF": [
@@ -6290,17 +6290,17 @@
     "BookPublisher": "TSR",
     "BookCode": "TSR9511",
     "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookAuthor": "Kirk Botula",
+    "BookPublished": "1997",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Odyssey",
-    "BookType": "",
-    "BookFormat": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
     "BookSeries": "Odyssey",
     "BookCharacterLevel": "",
     "BookPDF": [
@@ -6328,17 +6328,17 @@
     "BookPublisher": "TSR",
     "BookCode": "TSR9512",
     "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookAuthor": "Kirk Botula, Dale Donovan & Kim Mohan",
+    "BookPublished": "1998",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Odyssey",
-    "BookType": "",
-    "BookFormat": "",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
     "BookSeries": "Odyssey",
     "BookCharacterLevel": "",
     "BookPDF": [
@@ -6356,6 +6356,220 @@
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9063 - N1 - Against the Cult of the Reptile God",
+    "BookShortName": "N1 - Against the Cult of the Reptile God",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9063",
+    "BookISBN": "0-88038-000-4",
+    "BookAuthor": "Douglas Niles",
+    "BookPublished": "1982",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "N Series",
+    "BookCharacterLevel": "Levels 1-3",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\N Series\\TSR9063 - N1 - Against the Cult of the Reptile God.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Terror by night! The village of Orlane is dying. Once a small and thriving community, Orlane has become a maze of locked doors and frightened faces. Strangers are shunned, trade has withered. Rumors flourish, growing wilder with each retelling. Terrified peasants flee their homes, abandoning their farms with no explanation. Others simply disappear. . .",
+      "No one seems to know the cause of the decay -- why are there no clues? Who skulks through the twisted shadows of the night? Who or what is behind the doom that has overtaken the village? It will take a brave and skillful band of adventurers to solve the dark riddle of Orlane!",      
+      "This adventure is designed for 4 to 7 characters of 1st through 3rd levels. It includes a map of the village and a description of its buildings and occupants, an overland journey to a challenging underground adventure for especially brave (or foolhardy. . .) characters, and a list of pre-rolled 1st-level characters."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9084 - N2 - The Forest Oracle",
+    "BookShortName": "N2 - The Forest Oracle",
+    "BookPublisher": "TSR9084",
+    "BookCode": "TSR9084",
+    "BookISBN": "0-88038-103-5",
+    "BookAuthor": "Carl Smith",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "N Series",
+    "BookCharacterLevel": "Levels 2 - 4",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\N Series\\TSR9084 - N2 - The Forest Oracle.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "The land lies under a curse. Fruit drops to the ground, its pulp black and rotten. Leaves curl and wither on the branches. Animals flee the parched vale, or starve.",
+      "Long ago, the Downs prospered under the care of Druids, but the priests of nature have retreated deep into the woods and rarely show themselves. One old man claims that the Druids have the power to save the valley, if only someone could find their Oracle to seek help. Will you reach the Forest Oracle of the Druids in time? And if you do, can they really lift the curse?",      
+      "Or does the answer lie elsewhere?",      
+      "Only the most daring and cunning adventurers will save the Downs.",      
+      "For characters level 2-4"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9163 - N3 - The Destiny of Kings",
+    "BookShortName": "N3 - The Destiny of Kings",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9163",
+    "BookISBN": "0-88038-274-0",
+    "BookAuthor": "Stephen Bourne",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "N Series",
+    "BookCharacterLevel": "Levels 1 - 4",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\N Series\\TSR9163 - N3 - The Destiny of Kings.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "When Treason Walks the Land...",
+      "Trouble stirs in Dunador! The King lies dead of a wound received during a hunting expedition. His brother, Lord Edrin, challenges the rightful Crown Prince, a half-trained young man named Edmund, for possession of the throne while Edmund travels on a pilgrimage to the holy shrine of Nevron. Forces throughout the kingdom vie for control of the realm. Can the player characters find the Crown Prince and protect him from the treacherous forces at large in Dunador?",      
+      "Destiny of Kings is a classic 1st Edition AD&D game adventure."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9185 - N4 - Treasure Hunt",
+    "BookShortName": "N4 - Treasure Hunt",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9185",
+    "BookISBN": "0-88038-326-7",
+    "BookAuthor": "Aaron Allston",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "N Series",
+    "BookCharacterLevel": "Levels 0 - 1",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\N Series\\TSR9185 - N4 - Treasure Hunt.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Marooned on a barren isle?",
+      "The Island of Viledel, the mighty Sea King, was sacked by a pirate army 60 years ago. It's destruction was so complete that even the location of the island was lost and forgotten. Despite rumours of immense treasures still hidden in the ruined stronghold, no one ever found the Sea King's island again",      
+      "Until now. Through a cruel twist of fate, a small band of unwilling adventurers are washed ashore on a small, barren island, and discovers what remains of Viledel's settlement. But they aren't alone; marauding orcs and goblins have found the island too, and are frantically searching for the lost hoard. In this desperate treasure hunt, the real payoff may be survival.",
+      "\"Treasure Hunt\" is different from other AD&D adventures: The player characters begin the game at 0 level, without choosing a class, and must work their way up to 1st level. It is perfect for a group of beginning players or experienced players looking for a new and different challenge."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9212 - N5 - Under Illefarn",
+    "BookShortName": "N5 - Under Illefarn",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9212",
+    "BookISBN": "0-88038-489-1",
+    "BookAuthor": "Steve Perrin",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Forgotten Realms",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "N Series",
+    "BookCharacterLevel": "Levels 0 - 3",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\N Series\\TSR9212 - N5 - Under Illefarn.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "A Curse Is on the Land",
+      "Daggerford is fairly quiet for a frontier town. Sure, lizard men raid the local baron's holding now and then, orcs sneak out of the Misty Forest to raid caravans on the Trade Way, and Lady Bronwyn has a few suitors who are a touch too passionate, but there's nothing going on that a member of the renowned Daggerford militia can't handle.",      
+      "Except that the Shining River has turned green, and cattle are dying. Except that the Elf King of Laughing Hollow, a place where no human dares go without fearing for his life, is asking the militia for help. Except that strange substances are oozing from the fissures caused by a recent earthquake. Except that the earthquake also has opened an entrance in the cliffs around the Laughing Hollow that might lead to the fabled dwarf mines of Illefarn.",      
+      "Suddenly, being a militiaman isn't quite as easy as it used to be.",      
+      "\"Under Illefarn\" is the first module produced for use with the Forgotten Realms Campaign Set."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 2, "title": "Players' Introduction"},
+      {"page": 5, "title": "DM's Introduction"},
+      {"page": 7, "title": "Daggerford"},
+      {"page": 14, "title": "Regions"},
+      {"page": 15, "title": "Personalities of Daggerford"},
+      {"page": 21, "title": "Adventures"},
+      {"page": 24, "title": "Lizard Raid"},
+      {"page": 27, "title": "Caravan Duty"},
+      {"page": 29, "title": "The Rescue Mission"},
+      {"page": 33, "title": "Under Illefarn"},
+      {"page": 48, "title": "Pregenerated Characters"}
       ]    
   }
   ]
