@@ -354,17 +354,17 @@
 ]
   },
   {
-    "BookName": "Adventure Anthology 1",
+    "BookName": "NG-0029 - Adventure Anthology 1",
     "BookShortName": "Adventure Anthology 1",
     "BookPublisher": "Necrotic Gnome",
-    "BookCode": "",
+    "BookCode": "NG-0029",
     "BookISBN": "978-3-96657-072-5",
     "BookAuthor": "Giuseppe Rotondo, Brad Kerr, Glynn Seal, D. M. Wilson and Sarah Brunt",
     "BookPublished": "2023",
     "BookCover": "",
     "BookRules": "OSE",
     "BookEdition": "1st Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "On Order",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "",
@@ -373,7 +373,7 @@
     "BookSeries": "Adventure Anthology",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Adventure Anthology 1.pdf"
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0029 - Adventure Anthology 1.pdf"
     ],
     "BookDescription": [
       "Four short adventures for Old-School Essentials, taking adventurers from disease-ridden sewers and bejeweled vaults, to sinister temples and to the deep void of space.",
@@ -393,17 +393,17 @@
 ]
   },
   {
-    "BookName": "Adventure Anthology 2",
+    "BookName": "NG-0030 - Adventure Anthology 2",
     "BookShortName": "Adventure Anthology 2",
     "BookPublisher": "Necrotic Gnome",
-    "BookCode": "",
+    "BookCode": "NG-0030",
     "BookISBN": "978-3-96657-074-9",
     "BookAuthor": "",
     "BookPublished": "",
     "BookCover": "",
     "BookRules": "OSE",
     "BookEdition": "1st Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "On Order",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "",
@@ -412,7 +412,7 @@
     "BookSeries": "Adventure Anthology",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Adventure Anthology 2.pdf"
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0030 - Adventure Anthology 2.pdf"
     ],
     "BookDescription": [
       "Four short adventures for Old-School Essentials, taking adventurers from musty barrow mounds and gnomish shrines, to sinister cathedrals and accursed stepwells.",

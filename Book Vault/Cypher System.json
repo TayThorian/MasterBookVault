@@ -682,5 +682,121 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Diamond Throne - Corebook 1 - Unearthed",
+  "BookShortName": "Diamond Throne - Corebook 1 - Unearthed",
+  "BookPublisher": "Here be Dragons",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Massimo Cranchi",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Diamond Throne",
+  "BookType": "Corebook",
+  "BookFormat": "h",
+  "BookSeries": "Diamond Throne",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\Diamond Throne\\Diamond Throne - Unearthed - Corebook 1.pdf",
+    "D:\\Master Vault\\Cypher System\\Diamond Throne\\Diamond Throne - Notebook.pdf",    
+    "D:\\Master Vault\\Cypher System\\Diamond Throne\\Diamond Throne - World Map.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Diamond Throne - Corebook 2 - Evolved",
+  "BookShortName": "Diamond Throne - Corebook 2 - Evolved",
+  "BookPublisher": "Here be Dragons",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Diamond Throne",
+  "BookType": "Corebook",
+  "BookFormat": "h",
+  "BookSeries": "Diamond Throne",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\Diamond Throne\\Diamond Throne - Evolved - Corebook 2.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Diamond Throne - GM Screen",
+  "BookShortName": "Diamond Throne - GM Screen",
+  "BookPublisher": "Here be Dragons",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Diamond Throne",
+  "BookType": "Corebook",
+  "BookFormat": "h",
+  "BookSeries": "Diamond Throne",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\Diamond Throne\\Diamond Throne - GM Screen.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
