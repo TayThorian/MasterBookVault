@@ -8,8 +8,8 @@
 - MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
 - MCG311 - Path of the Planebreaker
-## Paizo
-- PZO12003 - Monster Core
+## Fantasy Flight Ganmes
+- SWA42 - Forged in Battle
 ## Free League Publishing
 - FLFFBL014 - Crypt of the Mellified Mage
 - MUH051557 - The Spire of Quetzel
