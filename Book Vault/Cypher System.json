@@ -704,7 +704,9 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Cypher System\\Diamond Throne\\Diamond Throne - Unearthed - Corebook 1.pdf",
-    "D:\\Master Vault\\Cypher System\\Diamond Throne\\Diamond Throne - Notebook.pdf",    
+    "D:\\Master Vault\\Cypher System\\Diamond Throne\\Diamond Throne - Notebook.pdf",
+    "D:\\Master Vault\\Cypher System\\Diamond Throne\\Player Notebook 2.pdf",
+    "D:\\Master Vault\\Cypher System\\Diamond Throne\\Player Notebook 4.pdf",
     "D:\\Master Vault\\Cypher System\\Diamond Throne\\Diamond Throne - World Map.pdf"
   ],
   "BookMD": [
@@ -777,11 +779,49 @@
   "BookLibrary": "Yes",
   "BookSetting": "Diamond Throne",
   "BookType": "Corebook",
-  "BookFormat": "h",
+  "BookFormat": "Hardback",
   "BookSeries": "Diamond Throne",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Cypher System\\Diamond Throne\\Diamond Throne - GM Screen.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Return to the Bitter Peaks",
+  "BookShortName": "Return to the Bitter Peaks",
+  "BookPublisher": "Here be Dragons",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Diamond Throne",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Diamond Throne",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\Diamond Throne\\Return to the Bitter Peaks.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

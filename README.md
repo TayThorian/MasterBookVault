@@ -85,9 +85,6 @@
 - - The Travellers' Digest - 09
 - - The Travellers' Digest - 10
 - - Manhunt
-## Game Designers Workshop
-- GDW252 - Tarsus
-- - Supplement 5 - Lightning Class Cruisers
 ## Mongoose Publishing
 - MGP40095 - Central Supply Catalogue -Update 2023
 - MGP40085 - Robot Handbook
