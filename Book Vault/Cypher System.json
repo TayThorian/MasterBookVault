@@ -52,7 +52,7 @@
   "BookRules": "Cypher System",
   "BookEdition": "",
   "BookPhysical": "Yes",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "",
   "BookType": "Campaign Expansion",
@@ -60,7 +60,7 @@
   "BookSeries": "The Stars Are Fire",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\Master Vault\\Cypher System\\MCG209 - The Stars Are Fire .pdf"
+    "D:\\Master Vault\\Cypher System\\MCG209 - The Stars Are Fire.pdf"
   ],
   "BookDescription": [
     "<b>Galaxy-spanning space opera. Near-future hard sci-fi. And everything in between.</b>",
@@ -135,8 +135,8 @@
   "BookCover": "",
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
-  "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Planebreaker",
   "BookType": "Sourcebook",
@@ -177,7 +177,7 @@
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
   "BookPhysical": "Yes",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Gods of the Fall",
   "BookType": "Campaign",
@@ -255,12 +255,12 @@
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Gods of the Fall",
   "BookType": "",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Gods of the Fall",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Cypher System\\Gods of the Fall\\MCG103 - Gods of the Fall - After the Nightfall.pdf"
@@ -325,7 +325,7 @@
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
   "BookPhysical": "To Source",
-  "BookOwnedPDF": "To Source",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Rust And Redemption",
   "BookType": "Setting",
@@ -361,7 +361,7 @@
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
   "BookPhysical": "To Source",
-  "BookOwnedPDF": "To Source",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "",
   "BookType": "Sourcebook",
@@ -437,7 +437,7 @@
   "BookRules": "Cypher System",
   "BookEdition": "",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "",
   "BookType": "Supplement",
@@ -585,7 +585,7 @@
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Planebreaker",
   "BookType": "Supplement",
@@ -625,7 +625,7 @@
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "",
   "BookType": "",
@@ -660,7 +660,7 @@
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "",
   "BookType": "",
@@ -822,6 +822,731 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Cypher System\\Diamond Throne\\Return to the Bitter Peaks.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG104 - Predation",
+  "BookShortName": "Predation",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG104",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Predation",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Predation",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\Predation\\MCG104 - Predation.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Cypher System\\Predation\\Predation Poster Map.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG146 - The Age of Crest and Bone",
+  "BookShortName": "The Age of Crest and Bone",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG146",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Predation",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Predation",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\Predation\\MCG146 - The Age of Crest and Bone.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG153 - The Cawdor Complex",
+  "BookShortName": "The Cawdor Complex",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG153",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Predation",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Predation",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\Predation\\MCG153 - The Cawdor Complex.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG289 - Claim The Sky",
+  "BookShortName": "Claim The Sky",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG289",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Claim The Sky",
+  "BookType": "Companion Book",
+  "BookFormat": "",
+  "BookSeries": "Companion Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG289 - Claim The Sky.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Cypher System\\MCG289 - Claim The Sky Poster Map.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG211 - Godforsaken",
+  "BookShortName": "Godforsaken",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG211",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG211 - Godforsaken.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG210 - Stay Alive!",
+  "BookShortName": "Stay Alive!",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG210",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG210 - Stay Alive!.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG285 - Heist on Miracle IV",
+  "BookShortName": "Heist on Miracle IV",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG285",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG285 - Heist on Miracle IV.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG111 - Creature Deck",
+  "BookShortName": "Creature Deck",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG111",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG111 - Creature Deck.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG212 - We Are All Mad Here",
+  "BookShortName": "We Are All Mad Here",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG212",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG212 - We Are All Mad Here.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Cypher System\\MCG212 - We Are All Mad Here - End Sheets.pdf",
+    "D:\\Master Vault\\Cypher System\\MCG212 - We Are All Mad Here - Poster Map.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG105 - Unmasked",
+  "BookShortName": "Unmasked",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG105",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Unmasked",
+  "BookType": "Setting",
+  "BookFormat": "",
+  "BookSeries": "Unmasked",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG105 - Unmasked.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG182 - The Infinity Shift",
+  "BookShortName": "The Infinity Shift",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG182",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG182 - The Infinity Shift.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG107 - Unmasked - In the City",
+  "BookShortName": "Unmasked - In the City",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG107",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Unmasked",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Unmasked",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG353 - The Weird",
+  "BookShortName": "The Weird",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG353",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "The Weird",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG353 - The Weird.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG213 - GM Notebook",
+  "BookShortName": "GM Notebook",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG213",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG213 - GM Notebook for printing.pdf",
+    "D:\\Master Vault\\Cypher System\\MCG213 - GM Notebook form-fillable.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG214 - Player Notebook",
+  "BookShortName": "Player Notebook",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG214",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG214 - Player Notebook for printing.pdf",
+    "D:\\Master Vault\\Cypher System\\MCG214 - Player Notebook form-fillable.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG252 - Consent in Gaming",
+  "BookShortName": "Consent in Gaming",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG252",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG252 - Consent in Gaming.pdf",
+    "D:\\Master Vault\\Cypher System\\MCG252 - Consent in Gaming - Form Fillable Checklist.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG347 - The Takings",
+  "BookShortName": "The Takings",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG347",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG347 - The Takings.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG254 - Castaway",
+  "BookShortName": "Castaway",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG254",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG254 - Castaway.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG190 - Dread Expectations",
+  "BookShortName": "Dread Expectations",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG190",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\MCG190 - Dread Expectations.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

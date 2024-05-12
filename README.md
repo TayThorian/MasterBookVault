@@ -3,11 +3,11 @@
 ## Chaosium
 - CHA2036 - Basic Roleplaying - Universal Game Engine
 ## Monte Cook Games
+- MCG316 - Path of the Planebreaker
 - MCG370 - Rust And Redemption
 - MCG329 - Planar Bestiary
 - MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
-- MCG311 - Path of the Planebreaker
 ## Fantasy Flight Ganmes
 - SWA42 - Forged in Battle
 ## Free League Publishing
@@ -143,8 +143,6 @@
 - WTC953947400 - The Twilight Tomb
 # PDF's Books to Source
 ## Monte Cook Games
-- MCG370 - Rust And Redemption
-- MCG329 - Planar Bestiary
 - MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
 ## Paizo

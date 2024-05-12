@@ -491,7 +491,7 @@
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
-    "BookPhysical": "On Order",
+    "BookPhysical": "Yes",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
@@ -952,7 +952,7 @@
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
-    "BookPhysical": "On Order",
+    "BookPhysical": "Yes",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
@@ -964,7 +964,16 @@
       "D:\\Master Vault\\MERP\\1E\\ICE3000 - Rangers of the North, The Kingdom of Arthedain.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "The Kingdom of Arthedain",
+      "This package details all of the Northern Kingdom of the Dunedain and includes:",
+      "9 layouts including villages & the Evil Seer’s stronghold",
+      "4 full-color maps depicting Fornost, Annuminas, the Shire and the Northern Frontier",
+      "a complete description of the Palantiri",
+      "complete stats for Aragorn the Ranger, Gandalf the Wizard, and many important Hobbits",
+      "adventure near the Witch-King’s western border",
+      "search for the lost Palantiri in the frozen waste of Forochel",
+      "Cradled between the mighty Misty Mountains and the Blue, Arthedain is home to the faithful of fallen Numenor, once inhabited by the highest of men. Renowned seers gather at the Royal Court in Fornost to contemplate the obscure visions of the Palantir. To the east the Witch-King of Angmar is poised like a hungry wolf, anxious to devour the last remaining Dunedain Kingdom.",
+      "Against this threat stand a few whose noble heritage is obscured by the course clothing of the frontier. A secretive, wandering people are these Rangers; woodwise as Elves. Tutored by the Wizard Gandalf, and using birds and beasts as their agents, they guard and protect the eastern borders against the forces of Darkness."
     ],
     "TableOfContents": [
       {
@@ -3514,7 +3523,7 @@
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
     "BookEdition": "1st Edition",
-    "BookPhysical": "On Order",
+    "BookPhysical": "Yes",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Middle Earth",
