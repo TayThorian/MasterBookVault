@@ -254,5 +254,47 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "SJG6610 - Starports",
+  "BookShortName": "Starports",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6610",
+  "BookISBN": "1-55634-401-5",
+  "BookAuthor": "John M. Ford, James D Maliszwsk",
+  "BookPublished": "2000",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6610 - Starports.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Anchors of the Imperium",
+    "Patrol, trade, and Xboat routes are the lifelines of the Imperium, and starports are the anchors to which they are tethered. Serving as trade centers, customs offices, and outposts of civilization, starports play a central role in the lives of starfarers, and are a crucial source of goods, wealth, and information for even the most planetbound of souls. At the same time, they are havens for smugglers, fugitives, and black marketeers.",
+    "Starports classifies standard starports and describes their facilities, organization, and functions. It includes plans of typical spaceports from the Spinward Marches (including Mora, Graniff Field on Raydrad, Rech, Dhian, and Alell) and guidelines for starport adventures and encounters. There are also character templates for starport denizens, descriptions and floor plans of key locations, and deck plans for customs, liaison, emergency spacecraft, and some common starport ground vehicles.",
+    "Starports is designed to complement the Far Trader and Starships supplements, and offers a rich, detailed setting for a wide variety of adventures and campaigns in the GURPS Traveller universe."
+
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

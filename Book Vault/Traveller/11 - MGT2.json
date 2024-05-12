@@ -1601,7 +1601,7 @@
     "BookShortName": "Marches Adventure 1 - High and Dry",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40001",
-    "BookISBN": "",
+    "BookISBN": "978-1-908460-53-0",
     "BookAuthor": "",
     "BookPublished": "",
     "BookCover": "",
@@ -1636,7 +1636,7 @@
     "BookShortName": "Marches Adventure 2 - Mission to Mithril",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40017",
-    "BookISBN": "",
+    "BookISBN": "978-1-908460-77-6",
     "BookAuthor": "",
     "BookPublished": "",
     "BookCover": "",
@@ -1886,7 +1886,7 @@
     "BookName": "MGP40068 - Mercenary Adventure 1 - Verloren Hoop",
     "BookShortName": "Mercenary Adventure 1 - Verloren Hoop",
     "BookPublisher": "Mongoose Publishing",
-    "BookCode": "",
+    "BookCode": "MGP40068",
     "BookISBN": "",
     "BookAuthor": "",
     "BookPublished": "",
@@ -2958,7 +2958,7 @@
     "BookShortName": "Reach Adventure 1 - Marooned on Marduk",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40006",
-    "BookISBN": "",
+    "BookISBN": "978-1-908460-58-5",
     "BookAuthor": "",
     "BookPublished": "",
     "BookCover": "",
@@ -2993,7 +2993,7 @@
     "BookShortName": "Reach Adventure 2 - Theories of Everything",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40010",
-    "BookISBN": "",
+    "BookISBN": "978-1-908460-62-2",
     "BookAuthor": "",
     "BookPublished": "",
     "BookCover": "",
@@ -3028,7 +3028,7 @@
     "BookShortName": "Reach Adventure 3 - The Calixcuel Incident",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40011",
-    "BookISBN": "",
+    "BookISBN": "978-1-908460-63-9",
     "BookAuthor": "",
     "BookPublished": "",
     "BookCover": "",
@@ -3063,7 +3063,7 @@
     "BookShortName": "Reach Adventure 4 - Last Flight of the Amuar",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40012",
-    "BookISBN": "",
+    "BookISBN": "978-1-908460-70-7",
     "BookAuthor": "",
     "BookPublished": "",
     "BookCover": "",
@@ -3098,7 +3098,7 @@
     "BookShortName": "Reach Adventure 5 - Borderland Run",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40018",
-    "BookISBN": "",
+    "BookISBN": "978-1-908460-78-3",
     "BookAuthor": "",
     "BookPublished": "",
     "BookCover": "",
@@ -3133,9 +3133,9 @@
     "BookShortName": "Reach Adventure 6 - Exodus",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40022",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "978-1-908460-89-9",
+    "BookAuthor": "Christopher Griffen",
+    "BookPublished": "2019",
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
@@ -3458,6 +3458,462 @@
       {"page": 132, "title": "Animal Safari Ship"},
       {"page": 135, "title": "Suleiman Scout / Courier"},
       {"page": 137, "title": "Empress Marava Far Trader"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40027 - The Journal of the Travellers Aid Society - Vol 1",
+    "BookShortName": "The Journal of the Travellers Aid Society - Vol 1",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40027",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Softback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40027 - The Journal of the Travellers Aid Society - Vol 1.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40028 - The Journal of the Travellers Aid Society - Vol 2",
+    "BookShortName": "The Journal of the Travellers Aid Society - Vol 2",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40028",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Softback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40028 - The Journal of the Travellers Aid Society - Vol 2.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40029 - The Journal of the Travellers Aid Society - Vol 3",
+    "BookShortName": "The Journal of the Travellers Aid Society - Vol 3",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40029",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Softback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40029 - The Journal of the Travellers Aid Society - Vol 3.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40030 - The Journal of the Travellers Aid Society - Vol 4",
+    "BookShortName": "The Journal of the Travellers Aid Society - Vol 4",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40030",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Softback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40030 - The Journal of the Travellers Aid Society - Vol 4.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40031 - The Journal of the Travellers Aid Society - Vol 5",
+    "BookShortName": "The Journal of the Travellers Aid Society - Vol 5",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40031",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Softback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40031 - The Journal of the Travellers Aid Society - Vol 5.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40032 - The Journal of the Travellers Aid Society - Vol 6",
+    "BookShortName": "The Journal of the Travellers Aid Society - Vol 6",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40032",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Softback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40032 - The Journal of the Travellers Aid Society - Vol 6.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40078 - The Journal of the Travellers Aid Society - Vol 7",
+    "BookShortName": "The Journal of the Travellers Aid Society - Vol 7",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40078",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Softback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40078 - The Journal of the Travellers Aid Society - Vol 7.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40079 - The Journal of the Travellers Aid Society - Vol 8",
+    "BookShortName": "The Journal of the Travellers Aid Society - Vol 8",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40079",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Softback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40079 - The Journal of the Travellers Aid Society - Vol 8.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40080 - The Journal of the Travellers Aid Society - Vol 9",
+    "BookShortName": "The Journal of the Travellers Aid Society - Vol 9",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40080",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Softback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40080 - The Journal of the Travellers Aid Society - Vol 9.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40081 - The Journal of the Travellers Aid Society - Vol 10",
+    "BookShortName": "The Journal of the Travellers Aid Society - Vol 10",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40081",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Softback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40081 - The Journal of the Travellers Aid Society - Vol 10.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40082 - The Journal of the Travellers Aid Society - Vol 11",
+    "BookShortName": "The Journal of the Travellers Aid Society - Vol 11",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40082",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Softback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40082 - The Journal of the Travellers Aid Society - Vol 11.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40082 - The Journal of the Travellers Aid Society - Vol 11 - Handout.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40083 - The Journal of the Travellers Aid Society - Vol 12",
+    "BookShortName": "The Journal of the Travellers Aid Society - Vol 12",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40083",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Softback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\11 - MGT2\\MGP40083 - The Journal of the Travellers Aid Society - Vol 12.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
       ]    
   }
   ]

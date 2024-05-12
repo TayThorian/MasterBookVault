@@ -826,11 +826,11 @@
     "BookPublished": "",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "1st Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Greyhawk",
     "BookType": "",
     "BookFormat": "",
     "BookSeries": "WG Series Adventure Modules",
@@ -861,11 +861,11 @@
     "BookPublished": "",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "1st Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Greyhawk",
     "BookType": "",
     "BookFormat": "",
     "BookSeries": "WG Series Adventure Modules",
@@ -896,11 +896,11 @@
     "BookPublished": "",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Greyhawk",
     "BookType": "",
     "BookFormat": "",
     "BookSeries": "WG Series Adventure Modules",
@@ -931,11 +931,11 @@
     "BookPublished": "",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Greyhawk",
     "BookType": "",
     "BookFormat": "",
     "BookSeries": "WG Series Adventure Modules",
@@ -966,17 +966,17 @@
     "BookPublished": "",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Greyhawk",
     "BookType": "",
     "BookFormat": "",
     "BookSeries": "WG Series Adventure Modules",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\Master Vault\\Greyhawk\\TSR9270 - WG12 - Vale of the Mage.pdf"
+      "D:\\Master Vault\\Greyhawk\\TSR9265 - WG10 - Child's Play.pdf"
     ],
     "BookDescription": [
       "No description available."
@@ -1001,11 +1001,11 @@
     "BookPublished": "",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Greyhawk",
     "BookType": "",
     "BookFormat": "",
     "BookSeries": "WG Series Adventure Modules",
@@ -1036,17 +1036,93 @@
     "BookPublished": "",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "BookSetting": "Greyhawk",
     "BookType": "",
     "BookFormat": "",
     "BookSeries": "WG Series Adventure Modules",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\Master Vault\\Greyhawk\\TSR9270 - WG12 - Vale of the Mage.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9317 - WGS1 - Five Shall be One",
+    "BookShortName": "WGS1 - Five Shall be One",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9317",
+    "BookISBN": "1-56076-070-2",
+    "BookAuthor": "Carl Sargent",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "WGS Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR9317 - WGS1 - Five Shall be One.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9337 - WGS2 - Howl From the North",
+    "BookShortName": "WGS2 - Howl From the North",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9337",
+    "BookISBN": "1-56076-143-1",
+    "BookAuthor": "Dale \"Slade\" Henson",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "WGS Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Greyhawk\\TSR9337 - WGS2 - Howl From the North.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
     ],
     "BookDescription": [
       "No description available."

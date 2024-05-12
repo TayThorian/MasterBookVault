@@ -664,5 +664,57 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "NG-0020 - The Incandescent Grottoes",
+    "BookShortName": "The Incandescent Grottoes",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0020",
+    "BookISBN": "978-3-96657-051-0",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2021",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "Levels 1 - 2",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0020 - The Incandescent Grottoes\\NG-0020 - The Incandescent Grottoes.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0020 - The Incandescent Grottoes\\The_Incandescent_Grottoes_v1-0_VTT_Map_Level_2_Gridless.png",
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0020 - The Incandescent Grottoes\\The_Incandescent_Grottoes_v1-0_VTT_Map_Level_1.jpg",
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0020 - The Incandescent Grottoes\\The_Incandescent_Grottoes_v1-0_VTT_Map_Level_1_Gridless.png",
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\NG-0020 - The Incandescent Grottoes\\The_Incandescent_Grottoes_v1-0_VTT_Map_Level_2.jpg"
+    ],
+    "BookDescription": [
+      "A bubbling stream cascades into a hole in the earth, leading to a series of underground watercourses and scintillating grottoes. Adventurers who delve within may discover odd mosses and fungi, a ruined temple complex, and the lair of a crystal-eating dream dragon.",
+      "A classic expedition into the Mythic Underworld for characters of 1st to 2nd level.",
+      "57 keyed areas, rumour table, loot summary, dungeon background info, suggestions for expanding the dungeon.",
+      "Keyed in a quick-reference, bullet point format.",
+      "Unlabelled map included for VTT use.",
+      "The Incandescent Grottoes can be linked with The Hole in the Oak to form a large, 3 level dungeon with over 115 keyed encounter areas!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "The Incandescent Grottoes",
+    "chapters": [
+      {"page": 3, "title": "Introduction"},
+      {"page": 4, "title": "Adventure Overview"},
+      {"page": 6, "title": "Rumours"},
+      {"page": 7, "title": "Treasure in the Dungeon"},
+      {"page": 8, "title": "Random Happenings"},
+      {"page": 10, "title": "Area Descriptions: Level 1"},
+      {"page": 34, "title": "Area Descriptions: Level 2"},
+      {"page": 48, "title": "Expanding the Dungeon"}
+      ]    
+  }
+  ]
   }
 ]

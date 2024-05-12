@@ -191,5 +191,43 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Path of Glory",
+  "BookShortName": "Path of Glory",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Dragonbane",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dragonbane",
+  "BookType": "Adventure Campaign",
+  "BookFormat": "Hardback",
+  "BookSeries": "Adventure Campaign",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Coming to the legendary Dead Forest in search of treasure, glory and a solution to the ancient curse laying waste to the forest, the adventurers soon find themselves embroiled in an epic conflict reaching back to the very foundations of the world. The quest will take the adventurers through the depths of the forest, under the mountain, and into a strange new land where the fate of the world will be determined."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

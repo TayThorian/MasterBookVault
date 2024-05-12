@@ -2087,6 +2087,82 @@
 ]
   },
   {
+    "BookName": "TSR9068 - X4 - Master of the Desert Nomads",
+    "BookShortName": "X4 - Master of the Desert Nomads",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9068",
+    "BookISBN": "0-88038-016-0",
+    "BookAuthor": "David Cook",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "X Series",
+    "BookCharacterLevel": "Levels 6 - 9",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9068 - X4 - Master of the Desert Nomads.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9069 - X5 - Temple of Death",
+    "BookShortName": "X5 - Temple of Death",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9069",
+    "BookISBN": "0-88038-017-9",
+    "BookAuthor": "David Cook",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "X Series",
+    "BookCharacterLevel": "Levels 6 - 10",
+    "BookPDF": [
+      "D:\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9069 - X5 - Temple of Death.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
     "BookName": "TSR9254 - PC1 - Tall Tales of the Wee Folk",
     "BookShortName": "PC1 - Tall Tales of the Wee Folk",
     "BookPublisher": "TSR",

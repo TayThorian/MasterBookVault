@@ -426,5 +426,43 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "BGD2000 - Knights Companion",
+  "BookShortName": "Knights Companion",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "BGD2000",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Chivalry & Sorcery",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Chivalry and Sorcery\\BGD2000 - Knights Companion.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Inside these pages is all the information you might need to be a Knight. From the Dark Ages to the Renaissance, the role of a Knight is detailed for your enjoyment. The contents include detailed information on the following: the Tourney and Joust, the Hunt, Courtly Politics and for those who wish to win the favour of their lady - Courtly Love."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

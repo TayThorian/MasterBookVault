@@ -6403,7 +6403,7 @@
   {
     "BookName": "TSR9084 - N2 - The Forest Oracle",
     "BookShortName": "N2 - The Forest Oracle",
-    "BookPublisher": "TSR9084",
+    "BookPublisher": "TSR",
     "BookCode": "TSR9084",
     "BookISBN": "0-88038-103-5",
     "BookAuthor": "Carl Smith",
@@ -6570,6 +6570,82 @@
       {"page": 29, "title": "The Rescue Mission"},
       {"page": 33, "title": "Under Illefarn"},
       {"page": 48, "title": "Pregenerated Characters"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9123 - CB1 - Conan Unchained",
+    "BookShortName": "CB1 - Conan Unchained",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9123",
+    "BookISBN": "0-88038-152-3",
+    "BookAuthor": "David Cook",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Conan",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "CB Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\CB Series\\TSR9123 - CB1 - Conan Unchained.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9124 - CB2 - Conan Against Darkness",
+    "BookShortName": "CB2 - Conan Against Darkness",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9124",
+    "BookISBN": "0-88038-153-1",
+    "BookAuthor": "Ken Rolston",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Conan",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "CB Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\CB Series\\TSR9124 - CB2 - Conan Against Darkness.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
       ]    
   }
   ]
