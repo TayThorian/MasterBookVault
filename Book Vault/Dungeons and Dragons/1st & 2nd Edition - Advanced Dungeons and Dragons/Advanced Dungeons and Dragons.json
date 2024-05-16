@@ -6649,5 +6649,199 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "TSR9072 - EX1 - Dungeonland",
+    "BookShortName": "EX1 - Dungeonland",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9072",
+    "BookISBN": "0-935969-50-4",
+    "BookAuthor": "E. Gary Gygax",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "EX Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\EX Series\\TSR9072 - EX1 - Dungeonland.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "As adventurers, you may think you have seen everything: certainly your skills have brought you through unimaginable dangers. But now you suddenly find yourself in a place unlike any through which you have traveled: astounding, dangerous, and even amusing things confront you as you journey, both indoors and outdoors, through unique and wondrous realm of Dungeonland.", 
+      "This adventure was first conceived by E. Gary Gygax as part of the Greyhawk Castle dungeon complex and has been the source of challenge and fun for many skilled players of the Advanced Dungeons & Dragons game. It is finally available to all players and can be added to your existing campaign with ease.",
+      "\"Dungeonland\" is also designed so that it may be used along with its companion scenario, EX2: \"The Land Beyond the Magic Mirror.\" Still, \"Dungeonland\" may easily be played on its own, and should offer hours of excitement in its strange landscape!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9073 - EX2 - The Land Beyond the Magic Mirror",
+    "BookShortName": "EX2 - The Land Beyond the Magic Mirror",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9073",
+    "BookISBN": "0-88038-025-X",
+    "BookAuthor": "E. Gary Gygax",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "EX Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Adventures\\EX Series\\TSR9073 - EX2 - The Land Beyond the Magic Mirror.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Your adventures have taken you to strange places before, but in the eyes of your experienced party, few of these places are as unusual as the bizarre Land Beyond the Magic Mirror. Here the delightful and the light-hearted often hide great challenges and dangers; here you will journey through a landscape unique among fantasy role-playing scenarios.",
+      "This adventure was first conceived by E. Gary Gygax as part of the Greyhawk Castle dungeon complex and has been the source of challenge and fun for many skilled players of the Advanced Dungeons & Dragons game. It is finally available to all players and can be added to your existing campaign with ease.",
+      "\"The Land Beyond the Magic Mirror\" is designed so that it may be used with its companion scenario, EX1: \"Dungeonland.\" Still, \"Land Beyond the Magic Mirror\" may easily be played on its own, and should offer hours of excitement in its strange landscape!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR1105 - First Quest",
+    "BookShortName": "First Quest",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1105",
+    "BookISBN": "1-56076-844-4",
+    "BookAuthor": "L. Richard Baker III, David \"Zeb\" Cook, Kevin Melka & Bruce Nesmith",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Audio CD Game",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Other Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Boxed Sets\\TSR1105 - First Quest.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR1107 - Council of Wyrms",
+    "BookShortName": "Council of Wyrms",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1107",
+    "BookISBN": "1-56076-857-6",
+    "BookAuthor": "Bill Slavicsek",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Other Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Boxed Sets\\TSR1107 - Council of Wyrms.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR1167 - Complete Starter Set",
+    "BookShortName": "Complete Starter Set",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1167",
+    "BookISBN": "0-7869-0640-5",
+    "BookAuthor": "L. Richard Baker III, David \"Zeb\" Cook, Kevin Melka & Bruce Nesmith",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Starter Set",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Other Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\ADnD\\Other Boxed Sets\\TSR1167 - Complete Starter Set.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

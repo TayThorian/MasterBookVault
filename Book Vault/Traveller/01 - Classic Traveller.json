@@ -2861,6 +2861,68 @@
 ]
   },
   {
+    "BookName": "JTAS02 - the Journal of the Travellers' Aid Society - Issue 02",
+    "BookShortName": "the Journal of the Travellers' Aid Society - Issue 02",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "JTAS02",
+    "BookISBN": "",
+    "BookAuthor": "Loren Wiseman",
+    "BookPublished": "1979",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Journal",
+    "BookFormat": "Paperback",
+    "BookSeries": "Journal of the Travellers Aid Society",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\Traveller\\01 - CT\\JTAS\\JTAS02 - the Journal of the Travellers' Aid Society - Issue 02.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+      "title": "Cover Articles",
+      "chapters": [
+        {"page": 14, "title": "Victoria-- General Data - by Marc W. Mille"},
+        {"page": 16, "title": "Victoria- Surface Map"}
+        ]
+      },
+      {
+      "title": "Amber Zone",
+      "chapters": [
+        {"page": 12, "title": "The Ship in the Lake - by Loren Wiseman"}
+      ]    
+    },
+    {
+    "title": "Features",
+    "chapters": [
+      {"page": 2, "title": "From the Management"},
+      {"page": 4, "title": "Pass in Review"},
+      {"page": 5, "title": "Traveller News Service"},
+      {"page": 6, "title": "Theship's Locker"},
+      {"page": 10, "title": "Ref'sNotes"},
+      {"page": 26, "title": "TheBestiary"},
+      {"page": 31, "title": "Traveller Dice"}
+    ]    
+  },
+  {
+  "title": "Deck Plans",
+  "chapters": [
+    {"page": 8, "title": "Serpent Class Scout Ships"}
+  ]    
+}
+    ]
+  },
+  {
     "BookName": "GDW312 - Double Adventure 1 - Shadows - Annic Nova",
     "BookShortName": "Double Adventure 1 - Shadows - Annic Nova",
     "BookPublisher": "Game Designers Workshop",

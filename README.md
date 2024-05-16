@@ -11,10 +11,11 @@
 ## Fantasy Flight Ganmes
 - SWA42 - Forged in Battle
 ## Free League Publishing
+- - Path of Glory
 - FLFFBL014 - Crypt of the Mellified Mage
 - MUH051557 - The Spire of Quetzel
-- - The World of Symbaroum
-- - The Throne of Thorns I
+- FLFSYM034 - The World of Symbaroum
+- FLFSYM035 - The Throne of Thorns I
 ## Iron Crown Enterprises
 - ICE2210 - Middle-Earth Adventure Guidebook II
 - ICE2300 - Angmar - Land of the Witch King
@@ -156,6 +157,10 @@
 ## Zozer Games
 - - Tau Ceti
 - - Orbital Platforms
+## Free League Publishing
+- - Path of Glory
+- FLFSYM034 - The World of Symbaroum
+- FLFSYM035 - The Throne of Thorns I
 ## Iron Crown Enterprises
 - ICE5800 - Rolemaster Fantasy Role Playing
 - ICE5801 - Arms Law
@@ -201,6 +206,7 @@
 - SJG6603 - Alien Races 1 - Zhodani, Vargr, and Other Races of the Spinward Marches
 - SJG6604 - Star Mercs
 - SJG6606 - Far Trader
+- SJG6610 - Starports
 - SJG01-2401 - Interstellar Wars
 ## Mongoose Publishing
 - MGP40111 - Reach Adventure 8 - Makergod
@@ -227,7 +233,6 @@
 - MGP40097 - The Marches Adventures 1-5
 - MGP40106 - Traveller Referee's Screen Update 2024
 - MGP40102 - Rim Expeditions
-- MGP40101 - Traveller Companion Update 2024
 - MGP40096 - The Order of Prometheus
 - MGP40074 - Traveller - Explorer's Edition
 - MGP40076 - Sector Construction Guide
@@ -463,6 +468,3 @@
 - WTC956857200 - Cormyr - The Tearing of the Weave
 - WTC965660000 - Serpent Kingdoms
 - WTC978078694 - Anauroch - The Sundering of the World
-## Free League Publishing
-- - The World of Symbaroum
-- - The Throne of Thorns I

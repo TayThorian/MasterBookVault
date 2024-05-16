@@ -1381,7 +1381,7 @@
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
     "BookPhysical": "To Source",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Traveller",
     "BookType": "Sourcebook",
