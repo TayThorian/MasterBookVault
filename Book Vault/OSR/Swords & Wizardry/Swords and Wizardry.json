@@ -664,5 +664,45 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Swords and Wizardry Whitebox Rules",
+  "BookShortName": "Swords and Wizardry Whitebox Rules",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Whitebox Rules",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Whitebox Rules",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\Whitebox - 3rd Print.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\Whitebox - 2nd Print.pdf",
+    "D:\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\Whitebox - 1st Print.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
