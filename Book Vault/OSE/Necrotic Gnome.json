@@ -666,6 +666,44 @@
   ]
   },
   {
+    "BookName": "Emelda's Song",
+    "BookShortName": "Emelda's Song",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Emelda's Song.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
     "BookName": "NG-0020 - The Incandescent Grottoes",
     "BookShortName": "The Incandescent Grottoes",
     "BookPublisher": "Necrotic Gnome",
