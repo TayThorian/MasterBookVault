@@ -13,6 +13,9 @@
     Public Property BookPhysical As String
     Public Property BookOwnedPDF As String
     Public Property BookLibrary As String
+    Public Property BookWiki As String
+    Public Property WikiPage As String
+
     Public Property BookSetting As String
     Public Property BookType As String
     Public Property BookFormat As String
