@@ -115,8 +115,20 @@
       {
     "title": "Book",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 5, "title": "Introduction"},
+      {"page": 8, "title": "Chapter 1 - Necromancers"},
+      {"page": 25, "title": "Chapter 2 - Dark Gifts"},
+      {"page": 39, "title": "Chapter 3 - The Price"},
+      {"page": 45, "title": "Chapter 4 - The Dark Art"},
+      {"page": 65, "title": "Chapter 5 - Death Priests"},
+      {"page": 77, "title": "Chapter 6 - The Priest Sphere"},
+      {"page": 87, "title": "Chapter 7 - Allies"},
+      {"page": 97, "title": "Chapter 8 - Tools of the Trade"},
+      {"page": 107, "title": "Chapter 9 - The Campaign"},
+      {"page": 124, "title": "Appendix 1 - Common Spells for Necromancers"},
+      {"page": 126, "title": "Appendix 2 - Wizard Spells in the School of Necromancy"},
+      {"page": 126, "title": "Appendix 3 - Priest Spells in the Necromantic Sphere"},
+      {"page": 127, "title": "Appendix 4 - Master Index of Necromantic Priest and Wizard Spells"}
       ]    
   }
 ]
@@ -2400,10 +2412,32 @@
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "Tome of Magic",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 3, "title": "Chapter 1 - How to Use Tome of Magic"},
+      {"page": 16, "title": "Chapter 2 -  Wizard Spells"},
+      {"page": 17, "title": "First-Level Spells"},
+      {"page": 21, "title": "Second-Level Spells"},
+      {"page": 24, "title": "Third-Level Spells"},
+      {"page": 28, "title": "Fourth-Level Spells"},
+      {"page": 34, "title": "Fifth-Level Spells"},
+      {"page": 37, "title": "Sixth-Level Spells"},
+      {"page": 40, "title": "Seventh-Level Spells"},
+      {"page": 43, "title": "Eighth-Level Spells"},
+      {"page": 45, "title": "Ninth-Level Spells"},
+      {"page": 49, "title": "Chapter 3 - Priest Spells"},
+      {"page": 51, "title": "First-Level Spells"},
+      {"page": 56, "title": "Second-Level Spells"},
+      {"page": 63, "title": "Third-Level Spells"},
+      {"page": 74, "title": "Fourth-Level Spells"},
+      {"page": 87, "title": "Fifth-Level Spells"},
+      {"page": 98, "title": "Sixth-Level Spells"},
+      {"page": 105, "title": "Seventh-Level Spells"},
+      {"page": 112, "title": "Quest Spells"},
+      {"page": 123, "title": "Chapter 4 - Magical Items"},
+      {"page": 149, "title": "Appendix 1 - Wizard Spells by School"},
+      {"page": 152, "title": "Appendix 2 - Priest Spells by Sphere"},
+      {"page": 155, "title": "Appendix 3 - Alphabetical Index of Spells"}
       ]    
   }
 ]
