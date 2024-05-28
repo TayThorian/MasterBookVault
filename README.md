@@ -18,7 +18,6 @@
 - FLFSYM035 - The Throne of Thorns I
 ## Iron Crown Enterprises
 - ICE2210 - Middle-Earth Adventure Guidebook II
-- ICE2300 - Angmar - Land of the Witch King
 - ICE2400 - Umbar - Haven of the Corsairs
 - ICE2500 - The Court of Ardor in Southern Middle-earth
 - ICE2600 - Northern Mirkwood, The Wood-Elves Realm
@@ -27,17 +26,13 @@
 - ICE3600 - Dunland and the Southern Misty Mountains
 - ICE3200 - Lorien & The Halls of the Elven Smiths
 - ICE8107 - Woses of the Black Wood
-- ICE8060 - Erech and the Paths of the Dead
-- ICE3110 - Mount Gundabad
 - ICE3111 - Greater Harad
 - ICE3113 - The Grey Mountains
 - ICE4010 - Mirkwood The Wilds of Rhovanion
 - ICE4020 - Empire of the Witch King
 - ICE3300 - Havens of Gondor
-- ICE3400 - Sea-Lords of Gondor
 - ICE3500 - Ents of Fangorn
 - ICE3700 - Lost Realm of Cardolan
-- ICE3800 - Far Harad The Scorched Land
 - ICE3900 - Shadow in the South
 - ICE8005 - Creatures of Middle Earth
 - ICE8006 - Treasures of Middle Earth
@@ -47,7 +42,6 @@
 - ICE8013 - Dark Mage of Rhudaur
 - ICE8014 - Rogues of the Borderlands
 - ICE8015 - Forest of Tears
-- ICE8016 - Ghost Warriors
 - ICE8070 - Goblin Gate and Eagles's Eyrye
 - ICE8090 - Brigands of Mirkwood
 - ICE8101 - Haunted Ruins of the Dunlendings
