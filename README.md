@@ -68,6 +68,11 @@
 - GCP-RMU-001 - Core Law
 - GCP-RMU-002 - Spell Law
 - GCP-RMU-003 - Treasure Law
+- ICE1510 - Elemental Companion
+- ICE1700 - Rolemaster Companion III
+- ICE1800 - Rolemaster Companion IV
+- ICE1901 - Rolemaster Companion VI
+- ICE1902 - Rolemaster Companion VII
 ## Digest Group Publications
 - - The Travellers' Digest - 01
 - - The Travellers' Digest - 02
