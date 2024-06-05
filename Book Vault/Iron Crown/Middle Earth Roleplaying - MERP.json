@@ -1215,7 +1215,7 @@
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8004",
     "BookISBN": "1-55806-052-9",
-    "BookAuthor": "",
+    "BookAuthor": "R. Mark Colburn, Peter C. Fenlon, John D. Ruemmler, Terry K. Amthor, Jessica M. Ney",
     "BookPublished": "1989",
     "BookCover": "",
     "BookRules": "MERP - 1st Edition",
@@ -1315,7 +1315,7 @@
 ]
   },
   {
-    "BookName": "ICE3300- Havens of Gondor",
+    "BookName": "ICE3300 - Havens of Gondor",
     "BookShortName": "Havens of Gondor",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE3300",
