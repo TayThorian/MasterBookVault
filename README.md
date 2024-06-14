@@ -8,6 +8,10 @@
 - MCG329 - Planar Bestiary
 - MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
+## Chaosium Inc.
+- CHA2731 - Pendragon Core Rulebook
+- CHA2732 - The Grey Knight - A Pendragon Campaign
+- CHA2729 - Pendragon Starter Set
 ## Fantasy Flight Ganmes
 - SWA42 - Forged in Battle
 ## Free League Publishing
@@ -149,6 +153,10 @@
 - PZO12001 - Pathfinder - Player Core
 - PZO12002 - Pathfinder - GM Core
 - PZO12003 - Monster Core
+## Chaosium Inc.
+- CHA2731 - Pendragon Core Rulebook
+- CHA2732 - The Grey Knight - A Pendragon Campaign
+- CHA2729 - Pendragon Starter Set
 ## Sine Nomine Publishing
 - - Cities Without Number
 - - Stars Without Number Revised Edition
