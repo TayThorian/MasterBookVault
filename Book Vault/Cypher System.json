@@ -699,7 +699,7 @@
   "BookLibrary": "Yes",
   "BookSetting": "Diamond Throne",
   "BookType": "Corebook",
-  "BookFormat": "h",
+  "BookFormat": "Hardback",
   "BookSeries": "Diamond Throne",
   "BookCharacterLevel": "",
   "BookPDF": [
@@ -741,7 +741,7 @@
   "BookLibrary": "Yes",
   "BookSetting": "Diamond Throne",
   "BookType": "Corebook",
-  "BookFormat": "h",
+  "BookFormat": "Hardback",
   "BookSeries": "Diamond Throne",
   "BookCharacterLevel": "",
   "BookPDF": [
@@ -1547,6 +1547,44 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\Master Vault\\Cypher System\\MCG190 - Dread Expectations.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG336 - Old Gods of Appalachia Roleplaying Game",
+  "BookShortName": "Old Gods of Appalachia Roleplaying Game",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG336",
+  "BookISBN": "",
+  "BookAuthor": "Shanna Germain, Cam Collins, Dominique Dickey, Sean K. Reynolds, Steve Shell, Tammie Webb Ryan",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Old Gods of Appalachia",
+  "BookType": "Ruleboook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Ruleboooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\Cypher System\\Old Gods of Appalachia Roleplaying Game\\MCG336 - Old Gods of Appalachia Roleplaying Game.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
