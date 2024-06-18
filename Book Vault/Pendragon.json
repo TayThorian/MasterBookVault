@@ -11,7 +11,7 @@
     "BookRules": "Pendragon",
     "BookEdition": "6th Edition",
     "BookPhysical": "On Order",
-    "BookOwnedPDF": "On Order",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Pendragon",
     "BookType": "Rulebook",
@@ -22,7 +22,9 @@
       "D:\\Master Vault\\Pendragon\\CHA2731 - Pendragon Core Rulebook.pdf"
     ],
     "BookMD": [
-      "D:\\Master Vault\\Extra Book Data\\"
+      "D:\\Master Vault\\Pendragon\\CHA2731 - Pendragon Core Rulebook - Extras\\pendragon_-_character_sheet_-_autocalc.pdf",
+      "D:\\Master Vault\\Pendragon\\CHA2731 - Pendragon Core Rulebook - Extras\\pendragon_-_character_sheet_-_blank.pdf",
+      "D:\\Master Vault\\Pendragon\\CHA2731 - Pendragon Core Rulebook - Extras\\pendragon_-_character_sheet_-_fillable.pdf"
     ],
     "BookDescription": [
       "Pendragon is set amidst the glory and grandeur of King Arthur’s Britain. Its innovative mechanics drive the emotional impact of play as your characters pursue Glory, overcome life-and-death struggles, cross blades with ruthless enemies, and fight for love and justice in a world of brutal medieval realism.",
@@ -53,7 +55,7 @@
   "BookRules": "Pendragon",
   "BookEdition": "6th Edition",
   "BookPhysical": "On Order",
-  "BookOwnedPDF": "On Order",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Pendragon",
   "BookType": "Campaign",
@@ -96,7 +98,7 @@
   "BookRules": "Pendragon",
   "BookEdition": "6th Edition",
   "BookPhysical": "On Order",
-  "BookOwnedPDF": "On Order",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Pendragon",
   "BookType": "Starter Set",
