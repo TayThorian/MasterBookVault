@@ -149,7 +149,6 @@
 - MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
 ## Paizo
-- PZO12001 - Pathfinder - Player Core
 - PZO12002 - Pathfinder - GM Core
 - PZO12003 - Monster Core
 ## Sine Nomine Publishing
