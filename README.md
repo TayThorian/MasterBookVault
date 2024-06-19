@@ -6,12 +6,8 @@
 - MCG329 - Planar Bestiary
 - MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
-## Fantasy Flight Ganmes
-- SWA42 - Forged in Battle
 ## Free League Publishing
 - - Path of Glory
-- FLFFBL014 - Crypt of the Mellified Mage
-- MUH051557 - The Spire of Quetzel
 - FLFSYM034 - The World of Symbaroum
 - FLFSYM035 - The Throne of Thorns I
 ## Iron Crown Enterprises
@@ -71,6 +67,15 @@
 - ICE1800 - Rolemaster Companion IV
 - ICE1901 - Rolemaster Companion VI
 - ICE1902 - Rolemaster Companion VII
+- ICE1130 - Sea Law
+- ICE1120 - Arms Companion
+- ICE1400 - Creatures & Treasures
+- ICE1410 - Creatures & Treasures II
+- ICE1430 - Creatures & Treasures III
+- ICE1420 - Heroes and Rogues
+- ICE1530 - Alchemy Companion
+- ICE1520 - Spell User's Companion
+- ICE1540 - Oriental Companion
 ## Digest Group Publications
 - - The Travellers' Digest - 01
 - - The Travellers' Digest - 02
