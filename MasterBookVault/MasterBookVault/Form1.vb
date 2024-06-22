@@ -44,6 +44,16 @@ Public Class Form1
             .Columns.Add("BookISBN", "ISBN")
             .Columns.Add("BookPhysical", "Physical")
             .Columns.Add("BookOwnedPDF", "Owned PDF")
+            .Columns.Add("BookWiki", "On Wiki")
+
+            ' Add a DataGridViewLinkColumn for the WikiPage column
+            Dim linkColumn As New DataGridViewLinkColumn()
+            linkColumn.Name = "WikiPage"
+            linkColumn.HeaderText = "Wiki Page"
+            linkColumn.DataPropertyName = "WikiPage" ' Make sure this matches the property in your data source
+            linkColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill
+            .Columns.Add(linkColumn)
+
             .AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill
 
             ' Set the SortMode for the BookCode column
@@ -60,6 +70,16 @@ Public Class Form1
         TreeView1.ContextMenuStrip = treeViewContextMenu
 
     End Sub
+
+    Private Sub DataGridViewBookDetails_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridViewBookDetails.CellContentClick
+        If e.ColumnIndex = DataGridViewBookDetails.Columns("WikiPage").Index AndAlso e.RowIndex >= 0 Then
+            Dim url As String = DataGridViewBookDetails.Rows(e.RowIndex).Cells("WikiPage").Value.ToString()
+            If Not String.IsNullOrWhiteSpace(url) Then
+                Process.Start(New ProcessStartInfo("cmd", $"/c start {url}") With {.CreateNoWindow = True})
+            End If
+        End If
+    End Sub
+
 
     Private Sub ClearAllData()
         ' Clear TreeViews
@@ -188,6 +208,7 @@ Public Class Form1
         End If
     End Sub
 
+
     Private Sub TreeView2_AfterSelect(sender As Object, e As TreeViewEventArgs) Handles TreeView2.AfterSelect
         ClearBookDetails()
         DataGridViewBookDetails.Rows.Clear()
@@ -209,16 +230,12 @@ Public Class Form1
                 For Each seriesNode As TreeNode In editionNode.Nodes
                     AddBookToDataGridView(seriesNode.Text)
                 Next
-
-                ' Sort by BookCode
-                DataGridViewBookDetails.Sort(DataGridViewBookDetails.Columns("BookCode"), System.ComponentModel.ListSortDirection.Ascending)
-
             Next
+
+            ' Sort by BookCode
+            DataGridViewBookDetails.Sort(DataGridViewBookDetails.Columns("BookCode"), System.ComponentModel.ListSortDirection.Ascending)
         End If
     End Sub
-
-
-
 
 
     Private Sub DisplayBookDetails(bookName As String)
@@ -420,7 +437,9 @@ Public Class Form1
                     selectedBook.BookShortName,
                     selectedBook.BookISBN,
                     selectedBook.BookPhysical,
-                    selectedBook.BookOwnedPDF
+                    selectedBook.BookOwnedPDF,
+                    selectedBook.BookWiki,
+                    selectedBook.WikiPage
                 }
                 .Rows.Add(row)
             End With
@@ -463,6 +482,8 @@ Public Class Form1
         TextBoxPhysical.Text = selectedBook.BookPhysical
         TextBoxOwnedPDF.Text = selectedBook.BookOwnedPDF
         TextBoxCharLvl.Text = selectedBook.BookCharacterLevel
+        TextBoxWikiEntry.Text = selectedBook.BookWiki
+        TextBoxWikiPage.Text = selectedBook.WikiPage
     End Sub
 
     Private Function CountFields() As Dictionary(Of String, Integer)

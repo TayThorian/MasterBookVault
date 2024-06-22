@@ -10,8 +10,8 @@
     "BookCover": "",
     "BookRules": "Shadow of the Demon Lord",
     "BookEdition": "1st Edition",
-    "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Shadow of the Weird Wizard",
     "BookType": "Rulebook",
@@ -37,6 +37,56 @@
       {"page": 2, "title": ""}
       ]    
   }
+]
+},
+{
+  "BookName": "SWW2402 - Secrets of the Weird Wizard",
+  "BookShortName": "Secrets of the Weird Wizard",
+  "BookPublisher": "Schwalb Entertainment",
+  "BookCode": "SWW2402",
+  "BookISBN": "",
+  "BookAuthor": "Robert J Schwalb",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Shadow of the Demon Lord",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadow of the Weird Wizard",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\OSR\\Schwalb Entertainment\\SWW2402 - Secrets of the Weird Wizard.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "The Ultimate Guide for running Shadow of the Weird Wizard Games!",
+    "The companion volume to Shadow of the Weird Wizard, this supplement includes everything you need to create and play through quests in the shadow of this strange and otherworldly wizard. To help you carry out this vital role, this book contains a staggering amount of information, covering rules and guidance for running the game, a dynamic setting ripe for exploration, and an in-depth bestiary that includes many old fantasy favorites and plenty of new and reimagined terrors. Some of the cool things you’ll find include:",
+    "Origin stories for characters along with rules for playing starting characters and going beyond level 10.",
+"Advice and guidelines for running quests and creating ones from your own imagination.",
+"Downtime rules to cover the stuff that happens between quests.",
+"Dozens of tricks and traps",
+"Guidelines for creating supporting characters",
+"Oddities, magical items you can create using fun tables.",
+"Details on the gods, factions, societies, and more found in the borderlands, a place between the old country that burns, and the weirdness of the new lands abandoned by the Weird Wizard.",
+"Basic rules for playing ancestries other than human.",
+"A comprehensive bestiary that presents everything from enemy adventures to zombies. Need a dragon, a powerful demon, maybe a leshy, or a selection of faeries, undead, monsters? This book has it all.",
+"Secrets of the Weird Wizard complete the game that began in Shadow of the Weird Wizard. Armed with both supplements, you stand ready to make the world your own and tell countless stories with your friends. The secrets are here for the taking. Are you ready?",
+"A brilliant team of human artists helped make this book amazing. They include Jack Kaiser, Luka Arh, Juan Barea, Yeysson Bellaiza, Auri Cavendish, Andrew Clark, Biagio d’alessandro, Çağdaş Demiralp, Kim Van Deun, Nim Dewhirst—Kasgovs Maps, Ivan Dixon, Yugin Maffioli, Britt Martin, Maria Rosaria Monticelli, Victor Moreno, Mitch Mueller, Matthew Myslinski, Eduardo Nunes, Mirco Paganessi, Svetoslav Petrov, Claudio Pozas, Julio Rocha, Erica Rossi, Phill Simpson, Kim Van Deun, Sergio Villa-Isaza, and Cardin Yanis."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
 ]
 }
 ]

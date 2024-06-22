@@ -71,11 +71,14 @@ Partial Class Form1
         Label4 = New Label()
         Label18 = New Label()
         Panel2 = New Panel()
+        TextBoxCharLvl = New TextBox()
+        Label26 = New Label()
+        TextBoxWikiPage = New TextBox()
         Label20 = New Label()
+        TextBoxWikiEntry = New TextBox()
+        Label24 = New Label()
         PanelMDLInks = New Panel()
         Label19 = New Label()
-        TextBoxCharLvl = New TextBox()
-        Label24 = New Label()
         Panel3 = New Panel()
         Panel4 = New Panel()
         BookCountListBox = New ListBox()
@@ -91,6 +94,7 @@ Partial Class Form1
         CType(WebView2Description, ComponentModel.ISupportInitialize).BeginInit()
         CType(DataGridViewBookDetails, ComponentModel.ISupportInitialize).BeginInit()
         Panel2.SuspendLayout()
+        Panel3.SuspendLayout()
         Panel4.SuspendLayout()
         SuspendLayout()
         ' 
@@ -575,13 +579,15 @@ Partial Class Form1
         ' 
         Panel2.BackColor = SystemColors.Window
         Panel2.BorderStyle = BorderStyle.Fixed3D
+        Panel2.Controls.Add(TextBoxCharLvl)
+        Panel2.Controls.Add(Label26)
         Panel2.Controls.Add(Label20)
+        Panel2.Controls.Add(TextBoxWikiEntry)
+        Panel2.Controls.Add(Label24)
         Panel2.Controls.Add(PanelMDLInks)
         Panel2.Controls.Add(Label19)
         Panel2.Controls.Add(Label18)
-        Panel2.Controls.Add(TextBoxCharLvl)
         Panel2.Controls.Add(PanelPdfLinks)
-        Panel2.Controls.Add(Label24)
         Panel2.Controls.Add(Label10)
         Panel2.Controls.Add(Label3)
         Panel2.Controls.Add(ListBoxTOC)
@@ -619,6 +625,37 @@ Partial Class Form1
         Panel2.Size = New Size(1619, 1155)
         Panel2.TabIndex = 8
         ' 
+        ' TextBoxCharLvl
+        ' 
+        TextBoxCharLvl.BackColor = SystemColors.Window
+        TextBoxCharLvl.BorderStyle = BorderStyle.None
+        TextBoxCharLvl.Font = New Font("Segoe UI", 12.0F, FontStyle.Regular, GraphicsUnit.Point)
+        TextBoxCharLvl.Location = New Point(775, 1106)
+        TextBoxCharLvl.Name = "TextBoxCharLvl"
+        TextBoxCharLvl.Size = New Size(315, 22)
+        TextBoxCharLvl.TabIndex = 48
+        ' 
+        ' Label26
+        ' 
+        Label26.AutoSize = True
+        Label26.BackColor = SystemColors.Window
+        Label26.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+        Label26.Location = New Point(675, 1107)
+        Label26.Name = "Label26"
+        Label26.Size = New Size(54, 21)
+        Label26.TabIndex = 53
+        Label26.Text = "Level:"
+        ' 
+        ' TextBoxWikiPage
+        ' 
+        TextBoxWikiPage.BackColor = SystemColors.Window
+        TextBoxWikiPage.BorderStyle = BorderStyle.None
+        TextBoxWikiPage.Font = New Font("Segoe UI", 12.0F, FontStyle.Regular, GraphicsUnit.Point)
+        TextBoxWikiPage.Location = New Point(175, 396)
+        TextBoxWikiPage.Name = "TextBoxWikiPage"
+        TextBoxWikiPage.Size = New Size(257, 22)
+        TextBoxWikiPage.TabIndex = 54
+        ' 
         ' Label20
         ' 
         Label20.AutoSize = True
@@ -629,6 +666,27 @@ Partial Class Form1
         Label20.Size = New Size(96, 21)
         Label20.TabIndex = 52
         Label20.Text = "Extra Links:"
+        ' 
+        ' TextBoxWikiEntry
+        ' 
+        TextBoxWikiEntry.BackColor = SystemColors.Window
+        TextBoxWikiEntry.BorderStyle = BorderStyle.None
+        TextBoxWikiEntry.Font = New Font("Segoe UI", 12.0F, FontStyle.Regular, GraphicsUnit.Point)
+        TextBoxWikiEntry.Location = New Point(775, 1078)
+        TextBoxWikiEntry.Name = "TextBoxWikiEntry"
+        TextBoxWikiEntry.Size = New Size(52, 22)
+        TextBoxWikiEntry.TabIndex = 53
+        ' 
+        ' Label24
+        ' 
+        Label24.AutoSize = True
+        Label24.BackColor = SystemColors.Window
+        Label24.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+        Label24.Location = New Point(675, 1079)
+        Label24.Name = "Label24"
+        Label24.Size = New Size(49, 21)
+        Label24.TabIndex = 46
+        Label24.Text = "Wiki:"
         ' 
         ' PanelMDLInks
         ' 
@@ -651,31 +709,11 @@ Partial Class Form1
         Label19.TabIndex = 50
         Label19.Text = "Details"
         ' 
-        ' TextBoxCharLvl
-        ' 
-        TextBoxCharLvl.BackColor = SystemColors.Window
-        TextBoxCharLvl.BorderStyle = BorderStyle.None
-        TextBoxCharLvl.Font = New Font("Segoe UI", 12.0F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxCharLvl.Location = New Point(775, 1081)
-        TextBoxCharLvl.Name = "TextBoxCharLvl"
-        TextBoxCharLvl.Size = New Size(315, 22)
-        TextBoxCharLvl.TabIndex = 48
-        ' 
-        ' Label24
-        ' 
-        Label24.AutoSize = True
-        Label24.BackColor = SystemColors.Window
-        Label24.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
-        Label24.Location = New Point(674, 1081)
-        Label24.Name = "Label24"
-        Label24.Size = New Size(54, 21)
-        Label24.TabIndex = 46
-        Label24.Text = "Level:"
-        ' 
         ' Panel3
         ' 
         Panel3.BorderStyle = BorderStyle.Fixed3D
-        Panel3.Location = New Point(650, 680)
+        Panel3.Controls.Add(TextBoxWikiPage)
+        Panel3.Location = New Point(656, 680)
         Panel3.Name = "Panel3"
         Panel3.Size = New Size(453, 463)
         Panel3.TabIndex = 49
@@ -800,6 +838,8 @@ Partial Class Form1
         CType(DataGridViewBookDetails, ComponentModel.ISupportInitialize).EndInit()
         Panel2.ResumeLayout(False)
         Panel2.PerformLayout()
+        Panel3.ResumeLayout(False)
+        Panel3.PerformLayout()
         Panel4.ResumeLayout(False)
         Panel4.PerformLayout()
         ResumeLayout(False)
@@ -868,4 +908,7 @@ Partial Class Form1
     Friend WithEvents Label19 As Label
     Friend WithEvents Label20 As Label
     Friend WithEvents PanelMDLInks As Panel
+    Friend WithEvents TextBoxWikiEntry As TextBox
+    Friend WithEvents Label26 As Label
+    Friend WithEvents TextBoxWikiPage As TextBox
 End Class

@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("MasterBookVault"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6924f7af347da4efe59244edaf6245eaf5e3055"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ff1048e43ec36b9ec231954841e8cfba2e8295b"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("MasterBookVault"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("MasterBookVault"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
