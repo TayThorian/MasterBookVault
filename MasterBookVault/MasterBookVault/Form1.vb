@@ -843,7 +843,7 @@ Public Class Form1
         sb.AppendLine($"| BookFormat = {book.BookFormat}")
         sb.AppendLine($"| BookSeries = {book.BookSeries}")
         sb.AppendLine($"| BookCharacterLevel = {book.BookCharacterLevel}")
-        sb.AppendLine($"| VaultSML = {book.BookRules}")
+        sb.AppendLine($"| VaultSML = {book.VaultSML}")
         sb.AppendLine("}}")
         sb.AppendLine($"== {book.BookShortName} ==")
 
