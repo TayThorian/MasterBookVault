@@ -8,8 +8,6 @@
 - MCG361 - The Glimmering Valley
 ## Free League Publishing
 - - Path of Glory
-- FLFSYM034 - The World of Symbaroum
-- FLFSYM035 - The Throne of Thorns I
 ## Iron Crown Enterprises
 - ICE2210 - Middle-Earth Adventure Guidebook II
 - ICE2400 - Umbar - Haven of the Corsairs
@@ -88,6 +86,9 @@
 - - The Travellers' Digest - 09
 - - The Travellers' Digest - 10
 - - Manhunt
+## Schwalb Entertainment
+- SWW2401 - Shadow of the Weird Wizard
+- SWW2402 - Secrets of the Weird Wizard
 ## Mongoose Publishing
 - MGP40095 - Central Supply Catalogue -Update 2023
 - MGP40085 - Robot Handbook
@@ -160,8 +161,6 @@
 - - Orbital Platforms
 ## Free League Publishing
 - - Path of Glory
-- FLFSYM034 - The World of Symbaroum
-- FLFSYM035 - The Throne of Thorns I
 ## Iron Crown Enterprises
 - ICE5800 - Rolemaster Fantasy Role Playing
 - ICE5801 - Arms Law
@@ -197,6 +196,9 @@
 - - Swords of Cthulhu
 ## Goblinoid Games
 - GBD1003 - Advanced Labyrinth Lord
+## Schwalb Entertainment
+- SWW2401 - Shadow of the Weird Wizard
+- SWW2402 - Secrets of the Weird Wizard
 ## Digest Group Publications
 - - Manhunt
 ## Steve Jackson Games
