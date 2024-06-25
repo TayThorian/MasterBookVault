@@ -2565,7 +2565,7 @@
     "BookRules": "Dungeons and Dragons",
     "BookEdition": "Basic D&D",
     "BookPhysical": "No",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Mystara",
     "BookType": "Gazetteer",
@@ -2573,6 +2573,11 @@
     "BookSeries": "Gazetteer",
     "BookCharacterLevel": "",
     "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR1037 - GAZ00 - Dawn of the Emperors - Thyatis and Alphatias - DM Sourcebook.pdf",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR1037 - GAZ00 - Dawn of the Emperors - Thyatis and Alphatia - Players Guide Alphatia.pdf",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR1037 - GAZ00 - Dawn of the Emperors - Thyatis and Alphatia - Players Guide Thyatis.pdf"
+      ],
+    "BookMD": [
       "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR1037 - GAZ00 - Dawn of the Emperors boxed set.pdf"
     ],
     "BookDescription": [
