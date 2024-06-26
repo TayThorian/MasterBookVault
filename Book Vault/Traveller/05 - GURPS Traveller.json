@@ -296,5 +296,55 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "SJG6613 - Starships",
+  "BookShortName": "Starships",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6613",
+  "BookISBN": "1-55634-475-9",
+  "BookAuthor": "Thomas L. Bont, Robert Prior, Christopher Thrash",
+  "BookPublished": "2003",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "BookSetting": "Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6613 - Starships.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "When ships to sail the void between the stars have been invented, there will also be men who come forward to sail those ships.",
+    "— Johannes Kepler, Somnium, –2887 (1634 A.D.)",
+    "From launches to liners, from system defense boats to dreadnoughts, a starfaring campaign requires ships . . . and GURPS Traveller: Starships gives them to you! In addition to rules for designing and rating your own spaceships (at both TL9 and TL10), this book contains over 35 pre-designed craft, ranging from 10-ton fighters to 500,000-ton dreadnoughts, described in detail and ready for use in a campaign.",
+    "Deck plans are included for the:",
+    "Vayu-Class Type T Patrol Cruiser.",
+    "Leaping Snowcat-Class Safari Ship.",
+    "Kugashin-Class Lab Ship.",
+    "And a schematic diagram of the Tigress-class 500,000-ton dreadnought, the first time the internal view of this Imperial behemoth has seen print!",
+    "GURPS Traveller: Starships also details the \"View from the Deck\"; the experience of being aboard a starship. Passengers and pursers, bridge crews and black gang, owners and deckhands; they're all here.",
+    "Whether your campaign involves a single surplus scout ship or a fleet of dozens of warships, GURPS Traveller: Starships has everything you need!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

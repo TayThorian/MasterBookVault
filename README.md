@@ -207,6 +207,7 @@
 - SJG6604 - Star Mercs
 - SJG6606 - Far Trader
 - SJG6610 - Starports
+- SJG6613 - Starships
 - SJG01-2401 - Interstellar Wars
 ## Mongoose Publishing
 - MGP40111 - Reach Adventure 8 - Makergod
