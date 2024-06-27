@@ -526,26 +526,29 @@
 ]
 },
 {
-  "BookName": "Book of Options",
-  "BookShortName": "Book of Options",
+  "BookName": "Swords & Wizardry - Book of Options",
+  "BookShortName": "Swords & Wizardry - Book of Options",
   "BookPublisher": "Mythmere Games",
   "BookCode": "",
-  "BookISBN": "",
-  "BookAuthor": "",
-  "BookPublished": "",
+  "BookISBN": "979-8-88584-014-9",
+  "BookAuthor": "Matt Finch and James M. Spahn",
+  "BookPublished": "2024",
   "BookCover": "",
   "BookRules": "Swords & Wizardry",
   "BookEdition": "Complete Revised",
   "BookPhysical": "On Order",
-  "BookOwnedPDF": "On Order",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
   "BookSetting": "Swords & Wizardry",
   "BookType": "Supplement",
-  "BookFormat": "",
+  "BookFormat": "Hardback",
   "BookSeries": "Supplements",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\"
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords & Wizardry - Book of Options.pdf"
   ],
   "BookDescription": [
     "No description available."

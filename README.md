@@ -43,7 +43,6 @@
 - ICE8105 - Gates Of Mordor
 - ICE8106 - Assassins of Dol Amroth
 - ICE8108 - Raiders of Cardolan
-- ICE8110 - Perils on the Sea of Rhun
 - ICE8111 - Denizens of the Dark Wood
 - ICE8112 - Hazard of the Harad Wood
 - ICE8113 - The Necromancer's Lieutenant
