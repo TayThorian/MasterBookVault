@@ -199,5 +199,46 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "MUH0142308 - The Federation-Klingon War - Tactical Campaign",
+  "BookShortName": "The Federation-Klingon War - Tactical Campaign",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH0142308",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Campaign",
+  "BookFormat": "",
+  "BookSeries": "Campaigns",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH0142308 - The Federation-Klingon War - Tactical Campaign.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH0142308 - The Federation-Klingon War - Tactical Campaign Reference Sheets.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

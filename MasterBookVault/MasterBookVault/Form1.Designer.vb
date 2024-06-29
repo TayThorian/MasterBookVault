@@ -90,6 +90,7 @@ Partial Class Form1
         TextBoxObjectCount = New TextBox()
         Label25 = New Label()
         btnCopyToWiki = New Button()
+        TextBoxWikiPageTitle = New TextBox()
         Panel1.SuspendLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(WebView2Description, ComponentModel.ISupportInitialize).BeginInit()
@@ -825,11 +826,19 @@ Partial Class Form1
         btnCopyToWiki.Text = "Copy to Wiki"
         btnCopyToWiki.UseVisualStyleBackColor = False
         ' 
+        ' TextBoxWikiPageTitle
+        ' 
+        TextBoxWikiPageTitle.Location = New Point(1093, 20)
+        TextBoxWikiPageTitle.Name = "TextBoxWikiPageTitle"
+        TextBoxWikiPageTitle.Size = New Size(423, 23)
+        TextBoxWikiPageTitle.TabIndex = 51
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(3325, 1263)
+        Controls.Add(TextBoxWikiPageTitle)
         Controls.Add(btnCopyToWiki)
         Controls.Add(Label25)
         Controls.Add(TextBoxObjectCount)
@@ -925,4 +934,5 @@ Partial Class Form1
     Friend WithEvents Label26 As Label
     Friend WithEvents TextBoxWikiPage As TextBox
     Friend WithEvents btnCopyToWiki As Button
+    Friend WithEvents TextBoxWikiPageTitle As TextBox
 End Class

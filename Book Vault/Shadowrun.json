@@ -1692,5 +1692,92 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "CAT28304 - The Needle’s Eye",
+  "BookShortName": "The Needle’s Eye",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28304",
+  "BookISBN": "",
+  "BookAuthor": "Lars Blumenstein, Kevin Czarnecki, Lindsay Czarnecki, Aaron Dykstra, Jim Greene, Jason M. Hardy, J. Keith Henry, Erika Hoffman, Clifton Lambert, Nicholas Morris, Romain “Belaran” Pelisse, Louis Ray, Grant Robinson, Andre Roy, Jonathan Sakuma, RJ Thomas",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "BookSetting": "Shadowrun",
+  "BookType": "Plot Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Plot Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28304 - The Needle’s Eye.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "FLY TO THE SUN",
+    "Can you negotiate a multi-million-nuyen deal while calmly sipping a martini? Do you know how to make money on the stock market with just about any insider info you hear? Most importantly, can you maintain your poise while the most powerful people in the Sixth World stare you down?",
+    "You’re about the find out. The Grand Tour is underway, and Mr. Johnson is holding a spot on it for you. You’ll eat lots of good food and stay in many wonderful hotels, but you’ll be surrounded by people who could send dozens of assassins after you with one snap of their fingers. Walk carefully, find the paydata, and discover the secrets that people on the Tour would prefer to keep hidden. And don’t get caught.",
+    "The Needle’s Eye is a plot book advancing the story of Shadowrun, Sixth World. "
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28803S - That Old Voodoo",
+  "BookShortName": "That Old Voodoo",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28803S",
+  "BookISBN": "",
+  "BookAuthor": "Aaron Dykstra",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "BookSetting": "Shadowrun",
+  "BookType": "Shadows in Focus book",
+  "BookFormat": "",
+  "BookSeries": "Shadows in Focus books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28803S - That Old Voodoo.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Seeing the Invisible",
+    "You’ve heard of Voodoo—but do you really know what it is? That Old Voodoo brings this tradition fully into the Sixth World, providing information about how this set of beliefs finds a place in the ever-changing post-Awakening world. With background on this tradition, enchantments, rituals, critter stats, quality paths, and more, this book provides a grounding to help you use Voodoo in your Shadowrun game",
+    "That Old Voodoo is for use with Shadowrun, Sixth World"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

@@ -551,7 +551,20 @@
     "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords & Wizardry - Book of Options.pdf"
   ],
   "BookDescription": [
-    "No description available."
+    "The Book of Options is a supplement for the Swords & Wizardry Complete Rulebook. It offers 11 new character classes, two new ancestries (Gnomes and Stygians), new spells, new magic items, a revised copy of the Quick Primer for Old School Gaming, encounter tables that include the monsters from Fiends and Foes, and much more!",
+    "New character classes include:",
+    "The Barbarian, a non-rage-based fighter with wilderness skills and keen senses",
+    "• The Bard, loosely based on the Celtic bard",
+    "• The Chivalric knight, basically a cavalier for those familiar with older versions of D&D",
+    "• The Demon Hunter, a spell-caster with unusual abilities",
+    "• The Dwarven Priest, a dwarven cleric-like class",
+    "• The Elfblade, essentially a fighter/magic-user",
+    "• The Illusionist, casting spells that affect the eye and mind",
+    "• The Necromancer, casting spells of death and control",
+    "• The Troubadour, an illusionist-thief archetype",
+    "• The Warlock, whose spells stem from non-divine powers",
+    "• The Wrath-Chanter, a rage-based barbarian class",
+    "Everything in this book is optional, but it is a phenomenal resource for Referees and Players who want to expand the horizons of a Swords & Wizardry game!"
   ],
   "TableOfContents": [
     {
@@ -564,29 +577,32 @@
 ]
 },
 {
-  "BookName": "Fiends and Foes",
-  "BookShortName": "Fiends and Foes",
+  "BookName": "Swords & Wizardry - Fiends and Foes",
+  "BookShortName": "Swords & Wizardry - Fiends and Foes",
   "BookPublisher": "Mythmere Games",
   "BookCode": "",
-  "BookISBN": "",
-  "BookAuthor": "",
-  "BookPublished": "",
+  "BookISBN": "979-8-88584-017-0",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "2024",
   "BookCover": "",
   "BookRules": "Swords & Wizardry",
   "BookEdition": "Complete Revised",
   "BookPhysical": "On Order",
-  "BookOwnedPDF": "On Order",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
   "BookSetting": "Swords & Wizardry",
   "BookType": "Supplement",
-  "BookFormat": "",
+  "BookFormat": "Hardback",
   "BookSeries": "Supplements",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\"
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords & Wizardry - Fiends and Foes.pdf"
   ],
   "BookDescription": [
-    "No description available."
+    "Fiends and Foes adds over 300 monsters to the ones in the Swords & Wizardry rulebook, over 40 of which are brand-new, written for this book. Others include monsters that were originally in Monstrosities, but are now updated with morale numbers and corrected XP values to bring them in line with Swords & Wizardry Revised. Encounter the bizarre plant-animal Ultharians on their plane-shifting flamingoes, the giant, foul-mouthed fey cats known as Bulgrimalkins, along with many old favorites from Monstrosities such as the Artificers of Yothri!"
   ],
   "TableOfContents": [
     {

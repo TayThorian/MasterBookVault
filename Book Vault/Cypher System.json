@@ -138,6 +138,9 @@
   "BookPhysical": "To Source",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
+  "BookWiki": "Yes",
+  "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Path_of_the_Planebreaker_(MCG316)",
+  "VaultSML": "Cypher System",
   "BookSetting": "Planebreaker",
   "BookType": "Sourcebook",
   "BookFormat": "",
@@ -1594,6 +1597,56 @@
   ],
   "BookDescription": [
     "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG373 - It's Only Magic",
+  "BookShortName": "It's Only Magic",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG373",
+  "BookISBN": "",
+  "BookAuthor": "Dominique Dickey, Sean K. Reynolds, Shanna Germain",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "BookSetting": "c",
+  "BookType": "It's Only Magic",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cypher System\\MCG373 - It's Only Magic.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Cypher System\\MCG373 - It's Only Magic - Poster Maps.pdf"
+  ],
+  "BookDescription": [
+    "Imagine a world of spells, glamours, ghosts, and demons—a world like ours, with today’s society, technology, and culture. Perhaps a cozy witchcore setting, or a frantic campaign where dark supernatural forces threaten existence itself. Whatever your vision, It’s Only Magic brings a touch—or a truckload—of magic to the modern world.",
+    "Find tools and advice for integrating magic and the supernatural into any modern game, along with adventures and inspiration; rules, creatures, and character options; and a richly detailed setting you can use for a cozy standalone campaign or drop into a larger magic-touched world. ",
+    "Inside this book you’ll find:",
+    "Great adventure and worldbuilding advice for creating fun, compelling modern magic campaigns.",
+    "New foci, descriptors, and other character options. Create a magical hacker who makes cyphers on their phone, a fast and furious driver who imbues their car with magic, or a gun wizard who shoots spells.",
+    "Optional rules for magic cozy or grand. Craft magic items, find your familiar, or load up on cantrips.",
+    "Loads of magical creatures. Discover bargainer demons, gargoyles, haunted cars, Bloody Mary—even a centaur barista. Plus species descriptors for player characters!",
+    "A cozy, coffee-shop-magic campaign setting: The Axial. Set your whole game here, or drop this richly detailed neighborhood (or any of its many detailed sites) into any city in your current campaign.",
+    "Plus a second, bonus campaign setting: New Grimsby by Eric Campbell and Jody Houser of The Streampunks!",
+    "Three complete adventures you can use in any game of modern magic."
   ],
   "TableOfContents": [
     {

@@ -484,6 +484,11 @@ Public Class Form1
         TextBoxCharLvl.Text = selectedBook.BookCharacterLevel
         TextBoxWikiEntry.Text = selectedBook.BookWiki
         TextBoxWikiPage.Text = selectedBook.WikiPage
+
+        ' Combine BookShortName and BookCode with formatting
+        Dim wikiPageTitle As String = selectedBook.BookShortName & " (" & selectedBook.BookCode & ")"
+        TextBoxWikiPageTitle.Text = wikiPageTitle
+
     End Sub
 
     Private Function CountFields() As Dictionary(Of String, Integer)
