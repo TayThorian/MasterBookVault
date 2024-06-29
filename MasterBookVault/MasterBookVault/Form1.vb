@@ -485,8 +485,14 @@ Public Class Form1
         TextBoxWikiEntry.Text = selectedBook.BookWiki
         TextBoxWikiPage.Text = selectedBook.WikiPage
 
-        ' Combine BookShortName and BookCode with formatting
-        Dim wikiPageTitle As String = selectedBook.BookShortName & " (" & selectedBook.BookCode & ")"
+        ' Logic to construct WikiPageTitle
+        Dim wikiPageTitle As String
+        If String.IsNullOrWhiteSpace(selectedBook.BookCode) Then
+            wikiPageTitle = selectedBook.BookShortName
+        Else
+            wikiPageTitle = selectedBook.BookShortName & " (" & selectedBook.BookCode & ")"
+        End If
+
         TextBoxWikiPageTitle.Text = wikiPageTitle
 
     End Sub
