@@ -568,6 +568,9 @@
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/GDQ1-7_-_Queen_of_the_Spiders_(TSR9179)",
+    "VaultSML": "Advanced Dungeons and Dragons",
     "BookSetting": "Greyhawk",
     "BookType": "Adventure",
     "BookFormat": "Paperback and Map book",
@@ -645,7 +648,7 @@
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/U1_-_The_Sinister_Secret_of_Saltmarsh_(TSR9062)",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/U2_-_Danger_at_Dunwater_(TSR9064)",
     "VaultSML": "Advanced Dungeons and Dragons",
     "BookSetting": "Greyhawk",
     "BookType": "Adventure",
@@ -7064,6 +7067,175 @@
     ],
     "BookDescription": [
       "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9016 - G1 - Steading of the Hill Giant Chief",
+    "BookShortName": "G1 - Steading of the Hill Giant Chief",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9016",
+    "BookISBN": "0-935696-08-3",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1979",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/G1_-_Steading_of_the_Hill_Giant_Chief_(TSR9016)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "G Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\G Series\\TSR9016 - G1 - Steading of the Hill Giant Chief.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Giants have been raiding the lands of men!",
+      "Players must now raid the steading of the hill giants in order to end this maurading."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9017 - G2 - The Glacial Rift of the Frost Giant Jarl",
+    "BookShortName": "G2 - The Glacial Rift of the Frost Giant Jarl",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9017",
+    "BookISBN": "0-835696-09-1",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1979",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/G2_-_The_Glacial_Rift_of_the_Frost_Giant_Jarl_(TSR9017)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "G Series",
+    "BookCharacterLevel": "Levels 9 - 10",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\G Series\\TSR9017 - G2 - The Glacial Rift of the Frost Giant Jarl.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Giants have been raiding the lands of men in large bands, with giants of different sorts in these marauding groups. Death and destruction have been laid heavily upon every place these monsters have visited. A party of the bravest and most powerful adventurers has been assembled and given the charge to punish the miscreant giants.",
+      "This is the original adventure G2: \"The Glacial Rift of the Frost Giant Jarl.\" Contained herein are referee notes, background information, maps, and exploration keys for the complete adventure using the Advanced Dungeons & Dragons rules. This adventure can be used alone or as the second in a series of adventures that includes G1: \"Steading of the Hill Giant Chief\" and G3: \"Hall of the Fire Giant King.\""
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9018 - G3 - Hall of the Fire Giant King",
+    "BookShortName": "G3 - Hall of the Fire Giant King",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9018",
+    "BookISBN": "0-935696-10-5",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1979",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/G3_-_Hall_of_the_Fire_Giant_King_(TSR9018)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "G Series",
+    "BookCharacterLevel": "Levels 10 - 12",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\G Series\\TSR9018 - G3 - Hall of the Fire Giant King.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Giants have been raiding the lands of men in large bands, with giants of different sorts in these marauding groups. Death and destruction have been laid heavily upon every place these monsters have visited. A party of the bravest and most powerful adventurers has been assembled and given the charge to punish the miscreant giants.",
+      "This is the original adventures: G3: \"Hall of the Fire Giant King.\" Contained herein are referee notes, background information, maps, and exploration keys for the complete adventure using the Advanced Dungeons & Dragons rules. This adventure can be used alone or as the last in a series of adventures that includes G1 \"Steading of the Hill Giant Chief\" and G2 \"The Glacial Rift of the Frost Giant Jarl.\""
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9058 - G1-2-3 - Against the Giants",
+    "BookShortName": "G1-2-3 - Against the Giants",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9058",
+    "BookISBN": "0-935696-59-8",
+    "BookAuthor": "Gary Gygax",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/G1-2-3_-_Against_the_Giants_(TSR9058)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "G Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\G Series\\TSR9058 - G1-3 - Against the Giants.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Giants have been raiding the lands of men in large bands, with giants of different sorts in these marauding groups. Death and destruction have been laid heavily upon every place these monsters have visited. A party of the bravest and most powerful adventurers has been assembled and given the charge to punish the miscreant giants.",
+      "This material was originally published as three separate adventures: G1: \"Steading of the Giant Chief\"; G2: \"The Glacial Rift of the Frost Giant Jarl\"; and G3: \"Hall of the Fire Giant King.\" Contained herein are referee notes, background information, maps, and exploration keys for three complete adventures using the Advanced Dungeons & Dragons rules.",
+      "This adventure can be used alone or as the first in a series of adventures that includes D1: \"Descent into the Depths of the Earth,\" D2: \"Shrine of the Kuo-Toa,\" D3: \"Vault of the Drow,\" and Q1: \"Queen of the Demonweb Pits.\""
     ],
     "TableOfContents": [
       {

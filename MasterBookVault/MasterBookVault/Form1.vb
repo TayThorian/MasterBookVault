@@ -947,5 +947,34 @@ Public Class Form1
         Return sb.ToString()
     End Function
 
+    Private Sub btnOpenWikiPage_Click(sender As Object, e As EventArgs) Handles btnOpenWikiPage.Click
+        ' Base URL parts
+        Dim baseUrl As String = "http://ttrpgvault.co.uk/wiki/index.php?title="
+        Dim afterUrl As String = "&action=edit&redlink=1"
+
+        ' Get the wiki page title from TextBoxWikiPageTitle
+        Dim wikiPageTitle As String = TextBoxWikiPageTitle.Text.Trim()
+
+        ' Construct the full URL
+        Dim fullUrl As String = baseUrl & Uri.EscapeDataString(wikiPageTitle.Replace(" ", "_")) & afterUrl
+
+        ' Path to Chrome executable (adjust the path as per your installation)
+        Dim chromePath As String = "C:\Program Files\Google\Chrome\Application\chrome.exe"
+
+        ' Check if Chrome is installed
+        If File.Exists(chromePath) Then
+            ' Open the URL in Chrome
+            Try
+                Process.Start(chromePath, fullUrl)
+            Catch ex As Exception
+                MessageBox.Show("Failed to open URL in Chrome: " & ex.Message)
+            End Try
+        Else
+            ' Chrome is not installed or path is incorrect
+            MessageBox.Show("Chrome is not installed or path is incorrect.")
+        End If
+    End Sub
+
+
 
 End Class

@@ -91,6 +91,7 @@ Partial Class Form1
         Label25 = New Label()
         btnCopyToWiki = New Button()
         TextBoxWikiPageTitle = New TextBox()
+        btnOpenWikiPage = New Button()
         Panel1.SuspendLayout()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         CType(WebView2Description, ComponentModel.ISupportInitialize).BeginInit()
@@ -833,11 +834,24 @@ Partial Class Form1
         TextBoxWikiPageTitle.Size = New Size(423, 23)
         TextBoxWikiPageTitle.TabIndex = 51
         ' 
+        ' btnOpenWikiPage
+        ' 
+        btnOpenWikiPage.BackColor = SystemColors.HotTrack
+        btnOpenWikiPage.Font = New Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point)
+        btnOpenWikiPage.ForeColor = SystemColors.ButtonFace
+        btnOpenWikiPage.Location = New Point(1522, 17)
+        btnOpenWikiPage.Name = "btnOpenWikiPage"
+        btnOpenWikiPage.Size = New Size(121, 26)
+        btnOpenWikiPage.TabIndex = 52
+        btnOpenWikiPage.Text = "Create New"
+        btnOpenWikiPage.UseVisualStyleBackColor = False
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(3325, 1263)
+        Controls.Add(btnOpenWikiPage)
         Controls.Add(TextBoxWikiPageTitle)
         Controls.Add(btnCopyToWiki)
         Controls.Add(Label25)
@@ -935,4 +949,5 @@ Partial Class Form1
     Friend WithEvents TextBoxWikiPage As TextBox
     Friend WithEvents btnCopyToWiki As Button
     Friend WithEvents TextBoxWikiPageTitle As TextBox
+    Friend WithEvents btnOpenWikiPage As Button
 End Class
