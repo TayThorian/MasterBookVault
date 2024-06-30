@@ -296,7 +296,7 @@
 - TSR1162 - Tomes - Return to the Tomb of Horrors
 - TSR11347 - Tomes - Axe of the Dwarvish Lords
 - TSR9464 - City Sites
-- TSR947 - Castle Sites
+- TSR9479 - Castle Sites
 - TSR9482 - Country Sites
 - TSR1125 - Night Below - An Underdark Campaign
 - TSR1089 - Dragon Mountain
