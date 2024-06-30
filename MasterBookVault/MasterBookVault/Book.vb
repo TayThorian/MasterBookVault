@@ -16,6 +16,8 @@
     Public Property BookWiki As String
     Public Property VaultSML As String
     Public Property WikiPage As String
+
+    Public Property UseTOC As String
     Public Property BookSetting As String
     Public Property BookType As String
     Public Property BookFormat As String

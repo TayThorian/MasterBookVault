@@ -2,6 +2,7 @@
 Imports System.Text
 Imports System.IO
 Imports System.Web
+Imports System.Formats.Tar
 
 Public Class Form1
     Private rootFolderPath As String = "C:\Applications\GitHubs\MasterBookVault\Book Vault"
@@ -870,7 +871,7 @@ Public Class Form1
         End If
 
         ' Add Table of Contents if it exists and BookRules is "Advanced Dungeons and Dragons"
-        If book.BookRules = "Advanced Dungeons and Dragons" AndAlso book.TableOfContents IsNot Nothing AndAlso book.TableOfContents.Any() Then
+        If book.UseTOC = "Yes" AndAlso book.TableOfContents IsNot Nothing AndAlso book.TableOfContents.Any() Then
             sb.AppendLine("=== Table of Contents ===")
             sb.AppendLine("{| class=""wikitable""")
             sb.AppendLine("! ")
@@ -899,6 +900,7 @@ Public Class Form1
             sb.AppendLine("|}")
             sb.AppendLine()
         End If
+
 
 
         ' Conditionally include the spell and monster sections based on BookRules
