@@ -2200,7 +2200,7 @@
     "BookPhysical": "To Source",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
+    "BookWiki": "Yes",
     "WikiPage": "",
     "VaultSML": "Iron Crown",
     "UseTOC": "No",
@@ -2213,7 +2213,13 @@
       "D:\\OneDrive\\Master Vault\\MERP\\1E\\ICE8090 - Brigands of Mirkwood.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "This supplement is set in the most remarkable town of southern Rhovanion. Hazard the gullies and ravines that form the streets of Strayhold, a few miles south and east of Mirkwood. Called by many names, few of which are complimentary, it is home to scores of merchants and travellers who ply the Road to Rhûn. It also harbors an unsavory lot of highwaymen, petty thieves, and beggars. Brigands features three complete adventures. All are self-contained, and can easily be used in other locales.",
+      "The settlement of Strayhold, with its rag-tag collection of buildings, has the air of a dark carnival. For first time acquaintances, its corduroy streets form an intimidating labyrinth filled with hawkers and revellers. Strayhold’s shops cater to vagabonds and rogues out to spend their ill-gotten gains and to travellers looking for excitement or rare goods. All manner of goods are available within the tangled streets; the sellers vary from friendly and helpful to dangerous and deadly. Unfortunately, most of the inhabitants lean toward the latter.",
+      "BRIGANDS OF MIRKWOOD includes:",
+      "* 2 FULL-COLOR PAGES: featuring a beautifully detailed city map, and an area map of southern Mirkwood",
+      "* MAJOR LAYOUTS: detailing an evil magician’s castle, the huge Rogue’s Clan-hall, the Angry Horse Inn; plus enlarge city-sections",
+      "* STRAYHOLD: a rude community not to be forgotten, and not to be taken lightly",
+      "* 3 COMPLETE ADVENTURES: The Excursion to Strayhold, Raid on the Rogue’s Clan-hall, The Castle of Leärdinoth"
     ],
     "TableOfContents": [
       {
