@@ -113,8 +113,6 @@
 - TSR11348 - Skullport
 - TSR11405 - The Wyrmskull Throne
 - TSR11316 - FOR12 - Demihumans of the Realms
-- TSR11430 - FOR13 - Secrets of the Magister
-- TSR9491 - FOR8 - Pages from the Mages
 - TSR9379 - Volo's Guide to Waterdeep
 - TSR9460 - Volo's Guide to the Sword Coast
 - TSR9486 - Volo's Guide to Cormyr
