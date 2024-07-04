@@ -98,9 +98,6 @@
 ## TSR
 - TSR1071 - Rules Cyclopedia
 - TSR2173 - Monstrous Compendium Annual - Volume Four
-- TSR9293 - The Magic Encyclopedia Volume One
-- TSR9421 - The Magic Encyclopedia Volume Two
-- TSR1089 - Dragon Mountain
 - TSR9431 - ALQ2 - Assassin Mountain
 - TSR9432 - ALQ3 - A Dozen And One Adventures
 - TSR9433 - ALQ4 - Secrets of the Lamp

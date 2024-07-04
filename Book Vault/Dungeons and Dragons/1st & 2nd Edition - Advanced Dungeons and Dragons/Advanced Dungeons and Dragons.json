@@ -3736,7 +3736,7 @@
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
@@ -3756,10 +3756,12 @@
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "The Magic Encyclopedia Volume One",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 6, "title": "Introduction"},
+        {"page": 8, "title": "Chemcheaux"},
+        {"page": 14, "title": "Product List"},
+        {"page": 19, "title": "Magical Items"}
       ]    
   }
 ]
@@ -3775,7 +3777,7 @@
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
@@ -5236,14 +5238,14 @@
     "BookShortName": "REF2 - Player Character Record Sheets",
     "BookPublisher": "TSR",
     "BookCode": "TSR9028",
-    "BookISBN": "",
+    "BookISBN": "0-935696-63-6",
     "BookAuthor": "",
-    "BookPublished": "",
+    "BookPublished": "1979",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "1st Edition",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Core",
     "BookType": "Accessory",
@@ -5751,9 +5753,13 @@
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "No",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Dragon_Mountain_(TSR1089)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
     "BookSetting": "",
     "BookType": "Accessory",
     "BookFormat": "Boxed Set",

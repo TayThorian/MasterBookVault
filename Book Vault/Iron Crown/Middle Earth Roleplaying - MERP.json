@@ -1133,8 +1133,8 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Mount_Gundabad_(ICE3110)",
     "VaultSML": "Iron Crown",
     "UseTOC": "No",
     "BookSetting": "Middle Earth",
@@ -1179,8 +1179,8 @@
     "BookPhysical": "To Source",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Greater_Harad_(ICE3111)",
     "VaultSML": "Iron Crown",
     "UseTOC": "No",
     "BookSetting": "Middle Earth",
@@ -1192,7 +1192,14 @@
       "D:\\OneDrive\\Master Vault\\MERP\\1E\\ICE3111 - Greater Harad.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "South and east of the burning sands of Far Harad lie the cities of Sîrayn. They command the thriving trade routes of Greater Harad, a fertile riverine domain tucked between the harsh desert and the daunting spires of the Yellow Mountains. Dynasties come and go in this vast, cosmopolitan oasis. Amidst mercantile rivalries, a new terror confronts the Haradrim. Akhôrahil the Ringwraith – the awful Storm King – plots the conquest of Greater Harad.",
+      "Seek your fortune in the lands of Greater Harad where merchant-lords dominate the roads and sinister tyrant enthroned in Tûl Isra rules the once independent cities. Dark minions sway the populace, and slavery thrives. Whispered tales about Obed of the Másra hint that the hero’s legendary weapons lie unclaimed in a ruined catacomb.",
+      "GREATER HARAD includes",
+      "* 22″ x 17″ FULL-COLOR MAP depicting the region.",
+      "* 3 FULL-COLOR CITY MAPS showing Tûl Isra, Tûl Harar, and Charnesra.",
+      "* DETAILED LAYOUTS of the ancient mines beneath Ghabaras, the haunted caverns of Moghóly Dask, and other adventure sites.",
+      "* IN-DEPTH INFORMATION on the peoples, cultures, politics, trade routes, and warcraft dominating the river valleys of Greater Harad.",
+      "* STATS AND BACKGROUND INFORMATION for prominent individuals such as Tartas Izain, the Taraskon of Tûl Isra, and his evil Nazgûl master, Akhôrahil the Storm King."
     ],
     "TableOfContents": [
       {
@@ -1299,8 +1306,8 @@
     "BookPhysical": "To Source",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/The_Grey_Mountains_(ICE3113)",
     "VaultSML": "Iron Crown",
     "UseTOC": "No",
     "BookSetting": "Middle Earth",
@@ -1312,7 +1319,13 @@
       "D:\\OneDrive\\Master Vault\\MERP\\1E\\ICE3113 - The Grey Mountains.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "Forming the northern border of the Rhovanion and Mirkwood, the Grey Mountains span four hundred miles: from Angmar’s Witch-realm to the Iron Hills. Shot through with Dwarven mines, Orc warrens and Dragon caves, the Ered Mithrin are a cold and foreboding ranges. They promise treasure and adventure, but more often deliver an untimely demise to explorers. Take your Middle-earth campaign to the edge of the chill Forodwaith and send your players across the deadly Withered Heath; just beware of Dragons!",
+      "The Grey Mountains includes:",
+      "17″ x 22″ Full-Color Map depicting the Grey Mountains range and Northern Rhovanion.",
+      "9 Challenging Adventures, including a 4-adventure mini-campaign. These travails take explorers from one end of the Grey Mountains to the other.",
+      "Detailed Layouts of the Dwarven city, Norr Dum, the Ice-orc fortress, Kala Dulakurth, and numerous other haunts scattered throughout this imposing mountain range.",
+      "In-depth Information on the Dragons and Dwarves of the Grey Mountains and the Withered Heath.",
+      "Stats and Background Information on numerous personalities and beasts who wander the frigid north of Middle-earth."
     ],
     "TableOfContents": [
       {
@@ -1888,8 +1901,8 @@
     "BookPhysical": "To Source",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Bree_and_The_Barrow_Downs_(ICE8010)",
     "VaultSML": "Iron Crown",
     "UseTOC": "No",
     "BookSetting": "Middle Earth",
@@ -1901,7 +1914,13 @@
       "D:\\OneDrive\\Master Vault\\MERP\\1E\\ICE8010 - Bree & The Barrow Downs.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "Here at the crossroads of the northern Dunedain Kingdom is located the old surviving settlement of Hobbits, the village of Bree. Not far away lie the eerie barrow-tombs of the cursed Kings of Cardolan…",
+      "This adventure module contains:",
+      "NPC charts color layouts of Bree-land, Silent-Head, and the villages of Bree, Archet, Staddle and Combe more than 20 barrows including the mounds of the ancient Edain Kings.",
+      "In Bree you’ll find the",
+      "haunted tombs of the fallen Edain Kings and the Princes of Cardolan",
+      "the evil Cormac and his small army of bandits",
+      "six pages of full color detailed barrow layouts and descriptions."
     ],
     "TableOfContents": [
       {
@@ -2122,8 +2141,8 @@
     "BookPhysical": "To Source",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Goblin_Gate_and_Eagles%27s_Eyrye_(ICE8070)",
     "VaultSML": "Iron Crown",
     "UseTOC": "No",
     "BookSetting": "Middle Earth",
@@ -2135,7 +2154,8 @@
       "D:\\OneDrive\\Master Vault\\MERP\\1E\\ICE8070 - Goblin Gate and Eagles's Eyrye.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "This package details the High Pass of the Misty Mountains. Adventure into the depths of Goblin-gate, kingdom of the Great-goblin and the hiding place of Gollum, possessor of the One True Ring. Soar with the Great-eagles of Eagle’s Eyrie, stroll the streets of Maethelburg, market of the upper Anduin, or battle Giants of the Misty Mountains.",
+      "Cutting through the heart of the Misty Mountains is the High Pass, connecting Rivendell and Rhudaur to the ancient Dwarf-road running east through the dreadful forest of Mirkwood. Near the summit, Orcs have delved one of their infamous subterranean strongholds, known to its apprehensive neighbors as Goblin-gate. The strategic locale of Goblin-gate is an incalculable threat to the Free Peoples because of its proximity to Angmar and the Orcish capital of Mount Gundabad."
     ],
     "TableOfContents": [
       {
@@ -2561,8 +2581,8 @@
     "BookPhysical": "To Source",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Denizens_of_the_Dark_Wood_(ICE8111)",
     "VaultSML": "Iron Crown",
     "UseTOC": "No",
     "BookSetting": "Middle Earth",
@@ -2574,7 +2594,12 @@
       "D:\\OneDrive\\Master Vault\\MERP\\1E\\ICE8111 - Denizens of the Dark Wood.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "Three low-to-mid level adventures which each stand on their own and can be set up in minutes.",
+      "The Necromancer’s presence in Mirkwood has lengthened the shadows darkening the forest’s eaves. Orcs from the Grey Mountains move south through the trees, Giant Spiders congregate in larger numbers, and Trolls emerge from their caves more frequently.",
+      "Several lads and lasses of Ulgarstat, a hamlet at the forest’s edge and due west of Lake-town, have disappeared without a trace. Will you risk unknown dangers to find and rescue the missing youths in Attercop Attack?",
+      "A merchant based in Lake town has lost a caravan to Trolls along the Men-i-Naugrim. Will you face the dread Tereg to recover Master Eolsen’s goods and discover the fate of his hirelings in Trouble With Trolls?",
+      "A Beorning warrior has learned of a tithe to the Necromancer from the last of the Orcs he slew while traveling though Mirkwood. Will you accompany Grimbold into the forest to waylay the treasure before it enters the Necromancer’s citadel in The Tithing Train?",
+      "Combat Giant Spiders, Trolls, Orcs of Fhahoz-Blogrum when you attack the Denizens of the Dark Wood in these three exiting adventures."
     ],
     "TableOfContents": [
       {
@@ -2600,8 +2625,8 @@
     "BookPhysical": "To Source",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Hazard_of_the_Harad_Wood_(ICE8112)",
     "VaultSML": "Iron Crown",
     "UseTOC": "No",
     "BookSetting": "Middle Earth",
@@ -2613,7 +2638,13 @@
       "D:\\OneDrive\\Master Vault\\MERP\\1E\\ICE8112 - Hazard of the Harad Wood.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "Four low-to-mid level adventures which each stand on their own and can be set up in minutes.",
+      "Secrets lurk within Far Harad’s Vale of Tears, mysteries that remain hidden for centuries. For the rural folk who dwell in the scrublands at the forest’s edge, these enigmas can spell misfortune… or disaster. The lush beauty of Suza Sumar unveils forgotten horrors all too often.",
+      "Inexplicable floating points of luminescence plague the village of Avashar. Can you discover the secret behind The Lights of Avashar?",
+      "Barthanan, a shepherd dwelling in the Scrublands, is losing sheep from his flock. No predators or signs of a struggle have been spotted. Can you solve the mystery of The Disappearing Flock?",
+      "Janir, a trapper who frequents the Suza Sumar, falls victim to nightmares after stumbling across a ruined keep. Will you risk insanity to stop a Demon’s triumph in The Terror in the Jungle?",
+      "Manari Akajhi, a young scholar, is tracing his family’s lineage in search of a suitable resting place for his dead father. Unfortunately, his newly discovered heritage has drawn the powerful Storm King’s attention. Will you oppose the Nazgûl to prevent his capture in The Eyes of the Dragon?",
+      "Confront Wild Menu, Baricha, Demons, and Desert Screamers when you face the Hazards of the Harad Wood in these four exciting adventures."
     ],
     "TableOfContents": [
       {
