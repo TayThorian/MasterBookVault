@@ -1944,6 +1944,10 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Player%27s_Option_-_Combat_%26_Tactics_(TSR2149)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Rule Supplements",
     "BookFormat": "Hardback",
@@ -2622,6 +2626,7 @@
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Monstrous_Manual_(TSR2140)",
     "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
     "BookSetting": "Core Books",
     "BookType": "Accessory",
     "BookFormat": "Hardback",
@@ -2663,6 +2668,7 @@
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Dungeon_Master_Guide_(TSR2160)",
     "VaultSML": "Advanced Dungeons and Dragons",
     "BookSetting": "Core Books",
+    "UseTOC": "Yes",
     "BookType": "Accessory",
     "BookFormat": "Hardback",
     "BookSeries": "Rulebooks",
@@ -2678,8 +2684,26 @@
       {
     "title": "Book",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 8, "title": "Introduction"},
+      {"page": 10, "title": "Chapter 1 - Player Character Ability Scores"},
+      {"page": 20, "title": "Chapter 2 - Player Character Races"},
+      {"page": 26, "title": "Chapter 3 - Player Character Classes"},
+      {"page": 36, "title": "Chapter 4 - Alignment"},
+      {"page": 44, "title": "Chapter 5 - Proficiencies"},
+      {"page": 48, "title": "Chapter 6 - Money and Equipment"},
+      {"page": 60, "title": "Chapter 7 - Magic"},
+      {"page": 66, "title": "Chapter 8 - Experience"},
+      {"page": 72, "title": "Chapter 9 - Combat"},
+      {"page": 112, "title": "Chapter 10 - Treasure and Magical Items"},
+      {"page": 128, "title": "Chapter 11 - Encounter"},
+      {"page": 142, "title": "Chapter 12 - NPCs"},
+      {"page": 158, "title": "Chapter 13 - Vision and Light"},
+      {"page": 162, "title": "Chapter 14 - Time and Movement"},
+      {"page": 174, "title": "Chapter 15 - A DM’s Miscellany"},
+      {"page": 180, "title": "Appendix 1 - Treasure Tables"},
+      {"page": 183, "title": "Appendix 2 - Magical Items Tables"},
+      {"page": 191, "title": "Appendix 3 - Magical Items Descriptions"},
+      {"page": 999, "title": "List of Tables"}
       ]    
   }
 ]
@@ -2701,6 +2725,7 @@
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Player%27s_Handbook_(TSR2159)",
     "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Accessory",
     "BookFormat": "Hardback",
@@ -2743,8 +2768,34 @@
       {
     "title": "Book",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 8, "title": "Welcome to the AD&D Game"},
+      {"page": 10, "title": "The Real Basics"},
+      {"page": 13, "title": "Glossary"},
+      {"page": 16, "title": "Step-by-Step Character Generation"},
+      {"page": 18, "title": "Chapter 1 - Player Character Ability Scores"},
+      {"page": 26, "title": "Chapter 2 - Player Character Races"},
+      {"page": 34, "title": "Chapter 3 - Player Character Classes"},
+      {"page": 64, "title": "Chapter 4 - Alignment"},
+      {"page": 70, "title": "Chapter 5 - Proficiencies (Optional)"},
+      {"page": 88, "title": "Chapter 6 - Money and Equipment"},
+      {"page": 106, "title": "Chapter 7 - Magic"},
+      {"page": 116, "title": "Chapter 8 - Experience"},
+      {"page": 118, "title": "Chapter 9 - Combat"},
+      {"page": 142, "title": "Chapter 10 - Treasure"},
+      {"page": 146, "title": "Chapter 11 - Encounters"},
+      {"page": 150, "title": "Chapter 12 - NPCs"},
+      {"page": 154, "title": "Chapter 13 - Vision and Light"},
+      {"page": 156, "title": "Chapter 14 - Time and Movement"},
+      {"page": 164, "title": "Appendix 1 - Spell Lists"},
+      {"page": 168, "title": "Appendix 2 - Notes on Spells"},
+      {"page": 170, "title": "Appendix 3 - Wizard Spells"},
+      {"page": 252, "title": "Appendix 4 - Priest Spells"},
+      {"page": 300, "title": "Appendix 5 - Wizard Spells by School"},
+      {"page": 302, "title": "Appendix 6 - Priest Spells by Sphere"},
+      {"page": 304, "title": "Appendix 7 - Spell Index"},
+      {"page": 308, "title": "Appendix 8 - Compiled Character Generation Tables"},
+      {"page": 314, "title": "Index"},
+      {"page": 999, "title": "List of Tables"}
       ]    
   }
 ]
@@ -7246,6 +7297,49 @@
       "Giants have been raiding the lands of men in large bands, with giants of different sorts in these marauding groups. Death and destruction have been laid heavily upon every place these monsters have visited. A party of the bravest and most powerful adventurers has been assembled and given the charge to punish the miscreant giants.",
       "This material was originally published as three separate adventures: G1: \"Steading of the Giant Chief\"; G2: \"The Glacial Rift of the Frost Giant Jarl\"; and G3: \"Hall of the Fire Giant King.\" Contained herein are referee notes, background information, maps, and exploration keys for three complete adventures using the Advanced Dungeons & Dragons rules.",
       "This adventure can be used alone or as the first in a series of adventures that includes D1: \"Descent into the Depths of the Earth,\" D2: \"Shrine of the Kuo-Toa,\" D3: \"Vault of the Drow,\" and Q1: \"Queen of the Demonweb Pits.\""
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9035 - Q1 - Queen of the Demonweb Pits",
+    "BookShortName": "Q1 - Queen of the Demonweb Pits",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9035",
+    "BookISBN": "0-935696-20-2",
+    "BookAuthor": "David C. Sutherland with Gary Gygax",
+    "BookPublished": "1980",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "Q Series",
+    "BookCharacterLevel": "Levels 10 - 14",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\Q Series\\TSR9035 - Q1 - Queen of the Demonweb Pits.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "How different things seem now from when you undertook the crushing of a few rebellious hill giants! What seemed a simple adventure has turned into a major expedition. Much time has passed since you discovered the conspiracy that led you to the frost giants, fire giants, and eventually to the long-forgotten Drow. Through your encounter with the dark elves, you have found the true source of the evil -- the demon queen Lolth!",
+      "This module is the exciting conclusion of a series of seven AD&D modules. It may be played on its own or as the climax of the \"Giant\" series (G1-G3) and the 'Drow' series (D1-D3). The first of a new series of other-planar adventures, this module includes several new monsters, maps of the Demonweb and lair of Lolth, and notes on eight alternate worlds, suitable for expansion and addition to existing AD&D campaigns."
     ],
     "TableOfContents": [
       {

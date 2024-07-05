@@ -471,7 +471,7 @@
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE8100",
     "BookISBN": "0-425090-37-X",
-    "BookAuthor": "",
+    "BookAuthor": "Coleman Charlton, S. Coleman Charlton",
     "BookPublished": "1986",
     "BookCover": "",
     "BookRules": "MERP",
@@ -479,8 +479,8 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Middle-earth_Role_Playing_(ICE8100)",
     "VaultSML": "Iron Crown",
     "UseTOC": "No",
     "BookSetting": "Middle Earth",
@@ -493,7 +493,16 @@
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
-      "No description available."
+      "THE ROLE PLAYING GAME OF J.R.R. TOLKIEN’S WORLD",
+      "Boxed Set",
+      "Based on THE HOBBIT and THE LORD OF THE RINGS. Perfect for seasoned players as well as those who have never experienced the thrill of fantasy role playing.",
+      "Role playing is a type of game which allows you to assume the role of a character in a “living” novel. MIDDLE-EARTH ROLE PLAYING, M.E.R.P. for short, provides the structure and framework for role playing in the greatest fantasy setting of all time… J.R.R. TOLKIEN’S MIDDLE-EARTH.",
+      "What you get",
+      "* MIDDLE-EARTH RULEBOOK containing the complete rules for character development, combat, magic and more, with a complete introductory adventure, The Trollshaws.",
+      "* 56 FULL-COLOR CARDBOARD CHARACTERS of all the personalities involved in The Trollshaws introductory adventure, with spares for the players’ characters, for use on the play sheets.",
+      "* ONE DOUBLE-SIDED A2 & ONE A3 PLAY SHEET which map areas of The Trollshaws in four-colour and are for use in play, either with the cardboard figures provided or with 25mm miniatures.",
+      "* ONE MAP BOOKLET charting all the areas involved in The Trollshaws together with some wilderness encounter areas.",
+      "* TWO TWENTY-SIDED DICE for use in play."
     ],
     "TableOfContents": [
       {
