@@ -12,7 +12,6 @@
 - ICE2210 - Middle-Earth Adventure Guidebook II
 - ICE2400 - Umbar - Haven of the Corsairs
 - ICE2500 - The Court of Ardor in Southern Middle-earth
-- ICE2600 - Northern Mirkwood, The Wood-Elves Realm
 - ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
 - ICE2700 - Southern Mirkwood - Haunt of the Necromancer
 - ICE3600 - Dunland and the Southern Misty Mountains
@@ -29,7 +28,6 @@
 - ICE8005 - Creatures of Middle Earth
 - ICE8006 - Treasures of Middle Earth
 - ICE8007 - Angus McBrides Characters of Middle Earth
-- ICE8010 - Bree and The Barrow Downs
 - ICE8012 - Warlords Desert
 - ICE8013 - Dark Mage of Rhudaur
 - ICE8014 - Rogues of the Borderlands
@@ -43,8 +41,6 @@
 - ICE8105 - Gates Of Mordor
 - ICE8106 - Assassins of Dol Amroth
 - ICE8108 - Raiders of Cardolan
-- ICE8111 - Denizens of the Dark Wood
-- ICE8112 - Hazard of the Harad Wood
 - ICE8113 - The Necromancer's Lieutenant
 - ICE4001 - Campaign Atlas - Northwestern Middle Eart Map Set
 - ICE4002 - Northwestern Middle-earth Gazeteer
