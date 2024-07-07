@@ -439,5 +439,150 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "GDW1013 - Colonial Atlas",
+  "BookShortName": "Colonial Atlas",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1013",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300AD",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "2300AD",
+  "BookType": "Supplement",
+  "BookFormat": "Softcover",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\21 - 2300AD\\GDW1013 - Colonial Atlas.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Since the first colonies were placed on Tirane in the mid-2100s, the human prsence in spac has expanded widly. With each new garden world discovered, the nations of Earth scramble to place their power base in the stellar civilization.",
+    "Every one of Earth's 29 colony worlds is described in Colonial Atlas, wih information on wach of the following:",
+    "System Data: The colony worlds are, for the most part, nestled upon the cream of explored planets. But the rest of the wrlds within a star system can have a great impact upon the colny and may even have been the original impetus for human settlement. This section describes the primary or primaries of the system, and its family of planetery bodies, some of which are quite valuable to the human effort in distant soace.",
+    "Plantary Data: Every planet has its own unique charater. Some planets are tectonically active, while others are more stable, or are manipulated by nearby gavity wells or recent meteor impacts. Nearly all the colony worlds have their own biosphere, evolved individually on the worlds to create a variety of life forms, most of which are still barely understood. Form the great silted seas of Botany Bay to the Eber ruins of Beta Hydri, each of Earth's colory worlds offers a wealth of unique characteristics for exploration and adventure.",
+    "olonial Data: Man has travelled to the stars and settled the more hospitable planets but failed to leave balkanization behind. More than a dozen of Earth's nations have established off-world colonies, many sharing planets under the protection of the Melbourne Accords. Some generalizations apply, as exemplified by the names given to the three arms of human space, but virtually every nation on Earth is now represented throughout man's stellar community."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1014 - Kafer Sourcebook",
+  "BookShortName": "Kafer Sourcebook",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1014",
+  "BookISBN": "0-943580-58-7",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300AD",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "2300AD",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softcover",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\21 - 2300AD\\GDW1014 - Kafer Sourcebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Humanity's exploration among the stars have brought it into contact with several alien species. All of these contacts have been peaceful, except for a shirt war against the Sung. Humanity had never met an alien species which presented a serious threat to its own species ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Å“ until the Kafers.",
+    "Humanity's contact with the Kafers is probably the most significant event in human history since the Twilight War of the late 20th century. The encounter, like that war, could conceivably spell the end of the human race.",
+    "The Kafer Sourcebook contains al information necessary for the 2300 AD referee to create campaigns and adventures involving the Kafers. It describes the physiology and psychology of the Kafers, concentrating on their unique intelligence, and explains why there can never be peace until either humanity of the Kafer population is destroyed.",
+    "Covering the origin and evolution of the Kafers, the Kafer Sourcebook goes into the details of the Kafer homeworld and explains Kafer motivations and drives, their history, their society and social structure and their technology.",
+    "The Kafer Sourcebook details the political and governmental structure of the Kafer Associative, discusses the political motivations behind the current war and explains why it will get worse.",
+    "The Kafer Sourcebook enables the 2300 AD referee to introduce new items of Kafer weaponry and equipment, as well as more complete details of previously described items. The equipment chapter is copiously illustrated (with some illustrations in full color). The players can be introduced to Kafer artifacts, which range from hand tolls and small arms up the Sigma-class starship. They can puzzle out the true function of the enigmatic \"worry stone\" often found in abandoned Kafer encampments or try to discover the technology, behind the recently discovered \"Kafer Computer Mark II,\" an advanced portable computer of chilling technological sophistication.",
+    "A full-color map of the Kafer Sphere is included, extending tbeyond the boundaries of the original game map. The Kafer Sourcebook also presents a complete listing of the more than 30 new stars not included in the original game map as well as those already covered.",
+    "Introduced in the Kafer Sourcebook is a new alien race, unknown to humanity so far but important to the understanding of certain aspect of Kafer technology and history.",
+    "The Kafer Sourcebook also presents a treatise on Kafer language, including a pronunciation guide, a short vocabulary and samples of Kafer ideographs."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1015 - Earth-Cybertech Sourcebook",
+  "BookShortName": "Earth-Cybertech Sourcebook",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1015",
+  "BookISBN": "1-55878-014-9",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300AD",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "2300AD",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softcover",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\21 - 2300AD\\GDW1015 - Earth-Cybertech Sourcebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "This is Earth. This is home. Even after years spent wandering among the colony worlds, where every turn brings anew discovery a man's heart quicken as he returns to the planet that gave him life.",
+    "And Earth's cities hold surprises to rival those found on alien worlds.",
+    "The Earth/ Cybertech Sourcebook describes the Earth of the 24th century from Earth's protective shell of warships that block the importation of dangerous alien organisms to the shining towers of Liberville spaceport; from the rain-slicked pavement of New York's alleys to the artificial landscape of Earth's computer matrix. The Earth/ Cybertech Sourcebook explains it all, with maps and diagrams that make it easy to understand.",
+    "Earth/ Cybertech Sourcebook begins by explaining the major forces that shape the societies of Earth in 2300 AD. It examines all of the nations of Earth describing what life is like for their citizens from the daily work to entertainment to travel. The maps clearly show national boundaries, major cities, and major transportation networks, giving the referee valuable aid in running adventures on Earth. And the illustrations help bring 24th century Earth into focus for players.",
+    "Earth/ Cybertech Sourcebook explains the cybertech revolution that is sweeping through Earth's cities. Statisitcs are given for surgical, chemical and mechanical enhancements of the body, with price, so that players can get in on the leading edge of this new technological wave. Equipment listed includes bionic eyes that allow you to snap pictures with a thought, \"smart guns\" whose sights are wired directly to character's brains and \"slashers\", carbon filament blades than can be extended at will from the fingertips.",
+    "Rules cover the operation of cyberdecks, the computers that deck jockeys yse to project their minds directly into Earth's computer network. With these rules, a character can purchase a deck, tinker with its capabilities and buy software programs to back him up on his runs into cyberspace. Cyberspace itself is described as well, as are rules for conducting computer battles within, the cyberspace matrix.",
+    "The Earth/ Cybertech Sourcebook includes a detailed cyberpunk adventure in which Provolution agents seek to unleash terror upon an unwitting New York City, and only the players can stop them. Floor plans are included for this adventure, as are sample characters, so that the 2300 AD can begin running it almost immediately.",
+    "Whether your players are just desiring to visit Earth for a short time or you have group of cyberpunk fanatics on your hands, the Earth/ Cybertech Sourcebook will meet your needs, adding loads of valuable information to your 2300 AD campaign and lots of fun for your players."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

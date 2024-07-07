@@ -145,9 +145,6 @@
 - - Cities Without Number
 - - Stars Without Number Revised Edition
 - - Worlds Without Number
-## Zozer Games
-- - Tau Ceti
-- - Orbital Platforms
 ## Free League Publishing
 - - Path of Glory
 ## Iron Crown Enterprises
@@ -197,6 +194,7 @@
 - SJG6606 - Far Trader
 - SJG6610 - Starports
 - SJG6613 - Starships
+- SJG6607 - Alien Races 2 - Aslan, K'kree, and Other Races Rimward of the Imperium
 - SJG01-2401 - Interstellar Wars
 ## Mongoose Publishing
 - MGP40111 - Reach Adventure 8 - Makergod

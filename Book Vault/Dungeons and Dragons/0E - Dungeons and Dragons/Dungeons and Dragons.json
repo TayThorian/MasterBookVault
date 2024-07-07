@@ -2921,5 +2921,64 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "TSR9208 - GAZ03 - The Principalities of Glantri",
+    "BookShortName": "GAZ03 - The Principalities of Glantri",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9208",
+    "BookISBN": "0-88038-485-9",
+    "BookAuthor": "Bruce Heard",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "Mystara",
+    "BookType": "Gazetteer",
+    "BookFormat": "Softback",
+    "BookSeries": "Gazetteer",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\City of Glantri\\GAZ3-9208-MAP2-9.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\City of Glantri\\GAZ3-9208-MAP2-10.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\City of Glantri\\GAZ3-9208-MAP2-11.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\City of Glantri\\GAZ3-9208-MAP2-12.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\City of Glantri\\GAZ3-9208-MAP2-13.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\City of Glantri\\GAZ3-9208-MAP2-14.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\City of Glantri\\GAZ3-9208-MAP2-15.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\City of Glantri\\GAZ3-9208-MAP2-16.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\Principalities of Glantri\\GAZ3-9208-MAP1-1.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\Principalities of Glantri\\GAZ3-9208-MAP1-2.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\Principalities of Glantri\\GAZ3-9208-MAP1-3.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\Principalities of Glantri\\GAZ3-9208-MAP1-4.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\Principalities of Glantri\\GAZ3-9208-MAP1-5.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\Principalities of Glantri\\GAZ3-9208-MAP1-6.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\Principalities of Glantri\\GAZ3-9208-MAP1-7.jpg",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9208 - GAZ03 - The Principalities of Glantri\\Principalities of Glantri\\GAZ3-9208-MAP1-8.jpg"
+    ],
+    "BookDescription": [
+      "It is early, and low over the mountains the sun set the sky ablaze. The little red creature yawns, stretches its small bat wings, and scratches its horny head. Suddenly, a gong echoes in the room below, making the creature jump. Almost falling, it grabs hold of the large statue on which it was sleeping.",
+      "Down below, the students are preparing for their daily barrage of courses in geography, economics, history, royal lineages, and magical instruction (including new spell research and casting). It is rumored that each of the school's instructors is a member (or leader) of one of the Seven Secret Crafts—with strange new abilities.",
+      "All who live or come to live in Glantri are searching for a secret: the Radiance, a mythical force covering the whole of the Principalities. Now your characters can join the adventure, with this Gazetteer. Here are complete maps of the Principalities, a street map of the capital, and all the information you'll need to interact with the citizens—people ruled by wizard-princes, not all of them satisfied with that situation."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
