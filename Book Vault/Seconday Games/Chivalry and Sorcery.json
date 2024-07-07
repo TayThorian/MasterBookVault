@@ -464,5 +464,47 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "CS5QS - Quickstart Rules",
+  "BookShortName": "Quickstart Rules",
+  "BookPublisher": "Brittannia Game Designs Ltd",
+  "BookCode": "CS5QS",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Chivalry & Sorcery",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Chivalry & Sorcery",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Quickstart Rules",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Chivalry and Sorcery\\CS5QS - Quickstart Rules.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

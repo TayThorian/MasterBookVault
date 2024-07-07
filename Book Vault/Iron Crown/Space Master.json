@@ -15,7 +15,8 @@
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Space_Master_Privateers_(GCP-SMP-4500)",
-    "VaultSML": "Iron Crown",
+    "VaultSML": "Spacemaster Privateers",
+    "UseTOC": "Yes",
     "BookSetting": "Spacemaster Privateers",
     "BookType": "Rulebook",
     "BookFormat": "Paperback",
@@ -33,11 +34,49 @@
     ],
     "TableOfContents": [
       {
-    "title": "Book",
-    "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
-      ]    
+      "title": "Part I Introduction",
+      "chapters": [
+        {"page": 6, "title": "How to Use Spacemaster"},
+        {"page": 6, "title": "Key Concepts and Mechanisms"},
+        {"page": 8, "title": "Calculation Conventions"},
+        {"page": 8, "title": "Dice Rolling Conventions"},
+        {"page": 8, "title": "Definitions"},
+        {"page": 11, "title": "Other Products"}
+        ]
+      },
+      {
+      "title": "Part II The Privateers",
+      "chapters": [
+        {"page": 13, "title": "1.0 - A Brief History of Intelligent Life"},
+        {"page": 16, "title": "2.0 - The War"},
+        {"page": 20, "title": "3.0 - The State of the Universe"},
+        {"page": 21, "title": "4.0 - The Architects"},
+        {"page": 22, "title": "5.0 - The Jeronan Empire"},
+        {"page": 23, "title": "6.0 - The ISC"},
+        {"page": 25, "title": "7.0 - Travel"},
+        {"page": 26, "title": "8.0 - Communication"},
+        {"page": 26, "title": "9.0 - Sensors"},
+        {"page": 27, "title": "10.0 - Computers"},
+        {"page": 28, "title": "11.0 - Artificial Life"},
+        {"page": 28, "title": "12.0 - Virtual Humans"},
+        {"page": 29, "title": "13.0 - Laws and Law Enforcement"},
+        {"page": 29, "title": "14.0 - Power"},
+        {"page": 29, "title": "15.0 - Medicine"}
+      ]
+    },
+      {
+      "title": "Part III Your Character",
+      "chapters": [
+        {"page": 32, "title": "16.0 - Character Concept"},
+        {"page": 33, "title": "17.0 - The Initial Choices"},
+        {"page": 36, "title": "18.0 - Stats"},
+        {"page": 38, "title": "19.0 - Adolescence Skill Development"},
+        {"page": 40, "title": "20.0 - Background Options"},
+        {"page": 42, "title": "21.0 - Apprenticeship Skill Development"},
+        {"page": 48, "title": "22.0 - Your Character’s Role"},
+        {"page": 50, "title": "23.0 - Final Character Preparation"},
+        {"page": 55, "title": "24.0 - Experience & Advancing Levels"}
+      ]
   }
 ]
   } ,
@@ -57,7 +96,7 @@
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Robotics_Manual_(GCP-SMP-4511)",
-    "VaultSML": "Iron Crown",
+    "VaultSML": "Spacemaster Privateers",
     "BookSetting": "Spacemaster Privateers",
     "BookType": "Supplement",
     "BookFormat": "Paperback",
@@ -99,7 +138,7 @@
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Equipment_Manual_(GCP-SMP-4512)",
-    "VaultSML": "Iron Crown",
+    "VaultSML": "Spacemaster Privateers",
     "BookSetting": "Spacemaster Privateers",
     "BookType": "Supplement",
     "BookFormat": "Paperback",
@@ -139,7 +178,7 @@
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Vehicle_Manual_(GCP-SMP-4513)",
-    "VaultSML": "Iron Crown",
+    "VaultSML": "Spacemaster Privateers",
     "BookSetting": "Spacemaster Privateers",
     "BookType": "Supplement",
     "BookFormat": "Paperback",
@@ -181,7 +220,7 @@
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Blaster_Law_(GCP-SMP-4514)",
-    "VaultSML": "Iron Crown",
+    "VaultSML": "Spacemaster Privateers",
     "BookSetting": "Spacemaster Privateers",
     "BookType": "Supplement",
     "BookFormat": "Paperback",
@@ -223,7 +262,7 @@
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Future_Law_(GCP-SMP-4515)",
-    "VaultSML": "Iron Crown",
+    "VaultSML": "Spacemaster Privateers",
     "BookSetting": "Spacemaster Privateers",
     "BookType": "Supplement",
     "BookFormat": "Paperback",
@@ -261,7 +300,7 @@
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Races_%26_Cultures_(GCP-SMP-4600)",
-    "VaultSML": "Iron Crown",
+    "VaultSML": "Spacemaster Privateers",
     "BookSetting": "Spacemaster Privateers",
     "BookType": "Supplement",
     "BookFormat": "Paperback",

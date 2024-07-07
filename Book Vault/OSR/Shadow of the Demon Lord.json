@@ -1,0 +1,100 @@
+[
+  {
+    "BookName": "SDL1000 - Shadow of the Demon Lord",
+    "BookShortName": "Shadow of the Demon Lord",
+    "BookPublisher": "Schwalb Entertainment",
+    "BookCode": "SDL1000",
+    "BookISBN": "978-1-4951-6886-4",
+    "BookAuthor": "Robert J. Schwalb",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Shadow of the Demon Lord",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Shadow of the Demon Lord",
+    "UseTOC": "No",
+    "BookSetting": "Shadow of the Demon Lord",
+    "BookType": "Rulebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadows Of The Demon Lord\\SDL1000 - Shadow of the Demon Lord.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "The End Is Just the Beginning",
+      "Sometimes the world needs heroes. But in the desperation of these last days, the world will take all those it can get: heroes, blackguards, madmen, and whoever else is willing to stand against the coming darkness. Will you fight the demons or will you burn it all down and dance among the ashes? Who will you become when the world dies? ",
+      "Shadow of the Demon Lord® opens a door to an imaginary world held in the grip of a cosmic destroyer. Enter a land steeped in the chaos and madness unleashed by the end times, with whole realms overrun by howling herds of beastmen, warped spirits freed from the Underworld, and unspeakable horrors stirred awaken by the Demon Lord’s imminent arrival. ",
+      "A complete tabletop roleplaying game in one book, Shadow of the Demon Lord provides everything you need to create and play characters, form groups in pursuit of adventure, and tell exciting stories with your friends. As well, the book gives Game Masters all the tools they need to create adventures, over one hundred foul creatures, a detailed region of the campaign world, and extensive advice to help run the game.",
+      "As the Demon Lord’s shadow creeps across the world, it creates the chance for heroes to seize their destinies and villains to accomplish their despicable goals. As you play the game, you and your friends tell stories about thwarting the plots of twisted cultists, hunting down and destroying bizarre demons, exploring lost lands, investigating weird mysteries, and so much more."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "SDL1001 - Demon Lord's Companion",
+  "BookShortName": "Demon Lord's Companion",
+  "BookPublisher": "Schwalb Entertainment",
+  "BookCode": "SDL1001",
+  "BookISBN": "",
+  "BookAuthor": "Robert J. Schwalb",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadow of the Demon Lord",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Shadow of the Demon Lord",
+  "UseTOC": "No",
+  "BookSetting": "Shadow of the Demon Lord",
+  "BookType": "Companion",
+  "BookFormat": "Softcover",
+  "BookSeries": "Companion",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadows Of The Demon Lord\\SDL1001 - Demon Lord's Companion.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Fight the Shadow or Fall!",
+    "As the Demon Lord’s influence creeps across the land, it touches more people, awakening in them crippling dread, tempting them to commit unspeakable acts, or to rise up and take a stand and fight back against the spreading darkness. In the end times, all must choose a side, to save the world or watch it burn.",
+    "The Demon Lord’s Companion reveals new options for players and Game Masters alike, providing a host of new options such as:",
+    "* Faun and Halfling ancestries",
+    "* Six expert paths including the psychic and mountebank",
+    "* A dozen master paths such as the blackguard, martial artist, and demonologist",
+    "* Alchemical Items, Forbidden Items, Marvels of Engineering, and new Potions",
+    "* New rules for creating gear and using vehicles",
+    "* Alchemy, Demonology, Telekinesis, and more new traditions of magic",
+    "* Magical places, relics, new creatures, and more!",
+    "An essential addition to the Shadow of the Demon Lord line of products, the Demon Lord’s Companion is bound to take your games into darker and stranger places!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]
