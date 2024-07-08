@@ -13,6 +13,10 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Greyhawk_Adventures_(TSR2023)",
+    "VaultSML": "Greyhawk",
+    "UseTOC": "No",
     "BookSetting": "Greyhawk",
     "BookType": "Accessory",
     "BookFormat": "Hardback",
@@ -1295,6 +1299,300 @@
     "BookDescription": [
       "An epic adventure set in the world of Greyhawk that begins with the players playing the famed Circle of Eight--Bigby, Tenser, Otto, and all the rest--and continues on from there. Features Iuz and Vecna as well.",
       "Effectively the first part of a Vecna trilogy that continues in Vecna Reborn (for Ravenloft) and Die Vecna Die (for Ravenloft, Greyhawk, and Planescape)."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9292 - WGR1 - Greyhawk Ruins",
+    "BookShortName": "WGR1 - Greyhawk Ruins",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9292",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Greyhawk",
+    "UseTOC": "No",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "WDR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Greyhawk\\TSR9292 - WGR1 - Greyhawk Ruins.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9360 - WGR2 - Treasures of Greyhawk",
+    "BookShortName": "WGR2 - Treasures of Greyhawk",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9360",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Greyhawk",
+    "UseTOC": "No",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "WDR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Greyhawk\\TSR9360 - WGR2 - Treasures of Greyhawk.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9386 - WGR3 - Rary the Traitor",
+    "BookShortName": "WGR3 - Rary the Traitor",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9386",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Greyhawk",
+    "UseTOC": "No",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "WDR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Greyhawk\\TSR9386 - WGR3 - Rary the Traitor.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9398 - WGR4 - The Marklands",
+    "BookShortName": "WGR4 - The Marklands",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9398",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Greyhawk",
+    "UseTOC": "No",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "WDR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Greyhawk\\TSR9398 - WGR4 - The Marklands.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9399 - WGR5 - Iuz the Evil",
+    "BookShortName": "WGR5 - Iuz the Evil",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9399",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Greyhawk",
+    "UseTOC": "No",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "WDR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Greyhawk\\TSR9399 - WGR5 - Iuz the Evil.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9405 - WGR6 - The City of Skulls",
+    "BookShortName": "WGR6 - The City of Skulls",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9405",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Greyhawk",
+    "UseTOC": "No",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "WDR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Greyhawk\\TSR9405 - WGR6 - The City of Skulls.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9399 - WGRX - Ivid the Undying",
+    "BookShortName": "WGRX - Ivid the Undying",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9399",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Greyhawk",
+    "UseTOC": "No",
+    "BookSetting": "Greyhawk",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "WDR Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Greyhawk\\TSR9399 - WGRX - Ivid the Undying.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
     ],
     "TableOfContents": [
       {

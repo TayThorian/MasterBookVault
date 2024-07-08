@@ -284,5 +284,132 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "The Lost City of Barakus",
+  "BookShortName": "The Lost City of Barakus",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "",
+  "BookOwnedPDF": "",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "The Lost Lands",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Lost City of Barakus",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\The Lost City of Barakus\\The Lost City of Barakus.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\The Lost City of Barakus\\Lost City of Barakus Maps Wilderness & Endhome.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\The Lost City of Barakus\\Lost City of Barakus Maps Player.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Lost City of Barakus Player's Guide",
+  "BookShortName": "Lost City of Barakus Player's Guide",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "",
+  "BookOwnedPDF": "",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "The Lost Lands",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Lost City of Barakus",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\The Lost City of Barakus\\Lost City of Barakus Player's Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "The Lost City of Barakus Iconic Characters",
+  "BookShortName": "The Lost City of Barakus Iconic Characters",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "",
+  "BookOwnedPDF": "",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "The Lost Lands",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Lost City of Barakus",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\The Lost City of Barakus\\The Lost City of Barakus Iconic Characters.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

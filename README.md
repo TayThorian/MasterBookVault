@@ -138,9 +138,6 @@
 ## Monte Cook Games
 - MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
-## Paizo
-- PZO12002 - Pathfinder - GM Core
-- PZO12003 - Monster Core
 ## Sine Nomine Publishing
 - - Cities Without Number
 - - Stars Without Number Revised Edition
@@ -183,6 +180,7 @@
 ## Goblinoid Games
 - GBD1003 - Advanced Labyrinth Lord
 ## Schwalb Entertainment
+- SDL1000 - Shadow of the Demon Lord
 - SWW2401 - Shadow of the Weird Wizard
 - SWW2402 - Secrets of the Weird Wizard
 ## Digest Group Publications
