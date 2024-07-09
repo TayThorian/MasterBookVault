@@ -2980,5 +2980,131 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "TSR9081 - X6 - Quagmire!",
+    "BookShortName": "X6 - Quagmire!",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9081",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "X Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9081 - X6 - Quagmire!.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9079 - X7 - The War Rafts of Kron",
+    "BookShortName": "X7 - The War Rafts of Kron",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9079",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "X Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9079 - X7 - The War Rafts of Kron.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9127 - X8 - Drums on Fire Mountain",
+    "BookShortName": "X8 - Drums on Fire Mountain",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9127",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "X Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9127 - X8 - Drums on Fire Mountain.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

@@ -13,6 +13,10 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Dragonbane",
+    "UseTOC": "Yes",
     "BookSetting": "Dragonbane",
     "BookType": "Core Set",
     "BookFormat": "Box Set",
@@ -87,6 +91,10 @@
   "BookPhysical": "Yes",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dragonbane",
+  "UseTOC": "Yes",
   "BookSetting": "Dragonbane",
   "BookType": "Bestiary",
   "BookFormat": "Hardback",
@@ -129,6 +137,10 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dragonbane",
+  "UseTOC": "No",
   "BookSetting": "Dragonbane",
   "BookType": "Quickstart",
   "BookFormat": "",
@@ -165,6 +177,10 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dragonbane",
+  "UseTOC": "Yes",
   "BookSetting": "Dragonbane",
   "BookType": "Rulebook",
   "BookFormat": "Hardback",
@@ -206,6 +222,10 @@
   "BookPhysical": "To Source",
   "BookOwnedPDF": "To Source",
   "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dragonbane",
+  "UseTOC": "No",
   "BookSetting": "Dragonbane",
   "BookType": "Adventure Campaign",
   "BookFormat": "Hardback",
@@ -219,6 +239,90 @@
   ],
   "BookDescription": [
     "Coming to the legendary Dead Forest in search of treasure, glory and a solution to the ancient curse laying waste to the forest, the adventurers soon find themselves embroiled in an epic conflict reaching back to the very foundations of the world. The quest will take the adventurers through the depths of the forest, under the mountain, and into a strange new land where the fate of the world will be determined."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "FLFDGB012 - Monster Standee Set",
+  "BookShortName": "Monster Standee Set",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFDGB012",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dragonbane",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "N/A",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dragonbane",
+  "UseTOC": "No",
+  "BookSetting": "Dragonbane",
+  "BookType": "Standee Set",
+  "BookFormat": "Standees",
+  "BookSeries": "Standee Set",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "FLFDGB002 - Dragombane Gamemaster Screen",
+  "BookShortName": "Dragombane Gamemaster Screen",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFDGB002",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dragonbane",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "N/A",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dragonbane",
+  "UseTOC": "No",
+  "BookSetting": "Dragonbane",
+  "BookType": "Gamemaster Screen",
+  "BookFormat": "Hardback",
+  "BookSeries": "Gamemaster Screen",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
   ],
   "TableOfContents": [
     {
