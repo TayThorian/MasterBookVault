@@ -179,10 +179,6 @@
 - - Swords of Cthulhu
 ## Goblinoid Games
 - GBD1003 - Advanced Labyrinth Lord
-## Schwalb Entertainment
-- SDL1000 - Shadow of the Demon Lord
-- SWW2401 - Shadow of the Weird Wizard
-- SWW2402 - Secrets of the Weird Wizard
 ## Digest Group Publications
 - - Manhunt
 ## Steve Jackson Games
