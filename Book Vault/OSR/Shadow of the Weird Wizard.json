@@ -8,7 +8,7 @@
     "BookAuthor": "Robert J Schwalb",
     "BookPublished": "2024",
     "BookCover": "",
-    "BookRules": "Shadow of the Demon Lord",
+    "BookRules": "Shadow of the Weird Wizard",
     "BookEdition": "1st Edition",
     "BookPhysical": "To Source",
     "BookOwnedPDF": "Yes",
@@ -16,7 +16,7 @@
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Shadow_of_the_Weird_Wizard_(SWW2401)",
     "VaultSML": "Shadow of the Weird Wizard",
-    "UseTOC": "No",
+    "UseTOC": "Yes",
     "BookSetting": "Shadow of the Weird Wizard",
     "BookType": "Rulebook",
     "BookFormat": "",
@@ -39,10 +39,18 @@
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "Shadow of the Weird Wizard",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 4, "title": "Foreward"},
+      {"page": 4, "title": "Introduction"},
+      {"page": 9, "title": "Chapter 1 - Creating a Character"},
+      {"page": 26, "title": "Chapter 2 - Game Rules"},
+      {"page": 54, "title": "Chapter 3 - Equipment"},
+      {"page": 75, "title": "Chapter 4 - Magic"},
+      {"page": 164, "title": "Chapter 5 - Expert Paths"},
+      {"page": 198, "title": "Chapter 6 - Master Paths"},
+      {"page": 278, "title": "Index"},
+      {"page": 284, "title": "Character Sheet"}
       ]    
   }
 ]
@@ -56,7 +64,7 @@
   "BookAuthor": "Robert J Schwalb",
   "BookPublished": "2024",
   "BookCover": "",
-  "BookRules": "Shadow of the Demon Lord",
+  "BookRules": "Shadow of the Weird Wizard",
   "BookEdition": "1st Edition",
   "BookPhysical": "To Source",
   "BookOwnedPDF": "Yes",
