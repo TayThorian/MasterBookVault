@@ -305,6 +305,7 @@ Public Class Form1
     End Sub
 
 
+
     'Populate the Physical To Source List Box
     Private Sub PopulateBooksToSourceListBox()
         ListBoxBooksToSource.Items.Clear()
@@ -647,15 +648,6 @@ Public Class Form1
         Next
     End Sub
 
-    'Private Sub DisplayTableOfContents(selectedBook As Book)
-    'If selectedBook.TableOfContents IsNot Nothing AndAlso selectedBook.TableOfContents.Chapters IsNot Nothing Then
-    '       ListBoxTOC.Items.Clear()
-    'For Each chapter As Chapter In selectedBook.TableOfContents.Chapters
-    '           ListBoxTOC.Items.Add("Page " & chapter.Page.ToString() & ": " & chapter.Title)
-    'Next
-    'End If
-    'End Sub
-
     Private Sub DisplayTableOfContents(selectedBook As Book)
         If selectedBook.TableOfContents IsNot Nothing AndAlso selectedBook.TableOfContents.Count > 0 Then
             ListBoxTOC.Items.Clear()
@@ -716,12 +708,6 @@ Public Class Form1
         ' Drawing the focus rectangle if the item has focus
         e.DrawFocusRectangle()
     End Sub
-
-
-
-
-
-
 
     Private Sub ButtonRunEditor_Click(sender As Object, e As EventArgs) Handles ButtonRunEditor.Click
         ' Ensure the path exists

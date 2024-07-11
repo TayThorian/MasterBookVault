@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net7.0-windows7.0": {
-      "Microsoft.Web.WebView2/1.0.2210.55": {
+      "Microsoft.Web.WebView2/1.0.2592.51": {
         "type": "package",
         "compile": {
           "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
@@ -84,10 +84,10 @@
     }
   },
   "libraries": {
-    "Microsoft.Web.WebView2/1.0.2210.55": {
-      "sha512": "pb5kuzl8TQm+ztzOnOm/qX75DXXjOQMdKlcs2hyizbZobiGzJcMcIhpmMmgg1cTGYwof2fVhlC809YScvDbm3w==",
+    "Microsoft.Web.WebView2/1.0.2592.51": {
+      "sha512": "AC9aWCthS2JvddYA1jl4dFpLBW3GsLRInhp5dkcBzaFXsRehfoUN9olIUsrH41eNaNYd7z9NRvmy81aUA5aD1g==",
       "type": "package",
-      "path": "microsoft.web.webview2/1.0.2210.55",
+      "path": "microsoft.web.webview2/1.0.2592.51",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -116,19 +116,19 @@
         "build/native/x86/WebView2LoaderStatic.lib",
         "build/wv2winrt.targets",
         "lib/Microsoft.Web.WebView2.Core.winmd",
-        "lib/net45/Microsoft.Web.WebView2.Core.dll",
-        "lib/net45/Microsoft.Web.WebView2.Core.xml",
-        "lib/net45/Microsoft.Web.WebView2.WinForms.dll",
-        "lib/net45/Microsoft.Web.WebView2.WinForms.xml",
-        "lib/net45/Microsoft.Web.WebView2.Wpf.dll",
-        "lib/net45/Microsoft.Web.WebView2.Wpf.xml",
+        "lib/net462/Microsoft.Web.WebView2.Core.dll",
+        "lib/net462/Microsoft.Web.WebView2.Core.xml",
+        "lib/net462/Microsoft.Web.WebView2.WinForms.dll",
+        "lib/net462/Microsoft.Web.WebView2.WinForms.xml",
+        "lib/net462/Microsoft.Web.WebView2.Wpf.dll",
+        "lib/net462/Microsoft.Web.WebView2.Wpf.xml",
         "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll",
         "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.xml",
         "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll",
         "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.xml",
         "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll",
         "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.xml",
-        "microsoft.web.webview2.1.0.2210.55.nupkg.sha512",
+        "microsoft.web.webview2.1.0.2592.51.nupkg.sha512",
         "microsoft.web.webview2.nuspec",
         "runtimes/win-arm64/native/WebView2Loader.dll",
         "runtimes/win-arm64/native_uap/Microsoft.Web.WebView2.Core.dll",
@@ -238,7 +238,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
-      "Microsoft.Web.WebView2 >= 1.0.2210.55",
+      "Microsoft.Web.WebView2 >= 1.0.2592.51",
       "Newtonsoft.Json >= 13.0.3",
       "PdfiumViewer >= 2.13.0",
       "PdfiumViewer.Native.x86_64.v8-xfa >= 2018.4.8.256"
@@ -290,7 +290,7 @@
         "dependencies": {
           "Microsoft.Web.WebView2": {
             "target": "Package",
-            "version": "[1.0.2210.55, )"
+            "version": "[1.0.2592.51, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",

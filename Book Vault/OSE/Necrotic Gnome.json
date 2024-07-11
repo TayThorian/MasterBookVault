@@ -97,8 +97,11 @@
     "BookFormat": "Hardback",
     "BookSeries": "Dolmenwood Core",
     "BookPDF": [
-      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Players Book.pdf",
-      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Character Sheet.pdf"
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Players Book.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Character Sheet.pdf",
+      "D:\\OneDrive\\Master Vault\\Extra Book Data\\Dolmenwood Players Book\\Adventuring Gear.md"
     ],
     "BookCharacterLevel": "",
     "BookDescription": [
@@ -111,9 +114,6 @@
       "<b>Equipment, Services, and Animals:</b> Detailed lists of adventuring gear, weapons, and armour. Horses, vehicles, and dogs. Richly evocative lists of food, beverages, pipeleaf, herbs, and fungi. Details on hiring the services of specialists and retainers.",
       "<b>Adventuring:</b> The core rules of the game, including rules for hazards and challenges, travel and camping in the wilds, dungeon exploration, settlements and downtime, and encounters and combat.",
       "<b>Appendices:</b> Extra details on the Dolmenwood calendar, moon signs, the noble houses, and the major saints. Optional Kindred-Classes for players who prefer to play archetypal non-humans (e.g. a grimalkin, rather than a grimalkin thief or a grimalkin minstrel)."
-    ],
-    "BookMD": [
-      "D:\\OneDrive\\Master Vault\\Extra Book Data\\Dolmenwood Players Book\\Adventuring Gear.md"
     ],
     "TableOfContents": [
       {

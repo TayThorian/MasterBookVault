@@ -17,6 +17,6 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgPdfiumViewer Condition=" '$(PkgPdfiumViewer)' == '' ">C:\Users\bsyca\.nuget\packages\pdfiumviewer\2.13.0</PkgPdfiumViewer>
-    <PkgMicrosoft_Web_WebView2 Condition=" '$(PkgMicrosoft_Web_WebView2)' == '' ">C:\Users\bsyca\.nuget\packages\microsoft.web.webview2\1.0.2210.55</PkgMicrosoft_Web_WebView2>
+    <PkgMicrosoft_Web_WebView2 Condition=" '$(PkgMicrosoft_Web_WebView2)' == '' ">C:\Users\bsyca\.nuget\packages\microsoft.web.webview2\1.0.2592.51</PkgMicrosoft_Web_WebView2>
   </PropertyGroup>
 </Project>
