@@ -138,10 +138,6 @@
 ## Monte Cook Games
 - MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
-## Sine Nomine Publishing
-- - Cities Without Number
-- - Stars Without Number Revised Edition
-- - Worlds Without Number
 ## Free League Publishing
 - - Path of Glory
 ## Iron Crown Enterprises

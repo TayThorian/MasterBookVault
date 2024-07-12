@@ -96,5 +96,53 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "SDL1732 - Demon Lord's Companion 2",
+  "BookShortName": "Demon Lord's Companion 2",
+  "BookPublisher": "Schwalb Entertainment",
+  "BookCode": "SDL1732",
+  "BookISBN": "",
+  "BookAuthor": "Robert J. Schwalb",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadow of the Demon Lord",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Shadow of the Demon Lord",
+  "UseTOC": "No",
+  "BookSetting": "Shadow of the Demon Lord",
+  "BookType": "Companion",
+  "BookFormat": "Softcover",
+  "BookSeries": "Companion",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadows Of The Demon Lord\\SDL1732 - Demon Lord's Companion 2.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "The Demon Lord’s weapons are many, and its agents have spread across the world, sowing chaos and despair wherever they go. As the world trembles before the dark one’s imminent arrival, new peoples join the struggle, coming forth to lend aid to the beleaguered defenders. Demon Lord’s Companion 2 reveals new secrets about peoples, magic, and development opportunities for characters and the groups to which they belong. Inside this book, you’ll find:",
+    "* Six new ancestries drawn from the forgotten corners of the world, including the thieving molekin, the mercurial sylphs, and the serpentine nagas who protect the great Cosmic Egg.",
+    "* New themes for building group identities, which let you and your friends play as sworn defenders charged with protecting the innocent, trusted agents in service to the Archmage, intrepid adventurers in search of treasure, or one of many more options.",
+    "* Four expert paths that define new aspects of character development, which include the divining auspex, who sees the future in her enemies’ movements, and the inscrutable wardscribe, who specializes in building magical traps.",
+    "* Eight new master paths to reward the most successful characters, allowing players to take on the roles of masters of Soul magic, Invocation magic, sleuths, and other endeavors.",
+    "* Four new traditions that expand the role of magic—Invocation, Metal, Order, and Soul—and a full suite of spells for each one.",
+    "Demon Lord’s Companion 2 builds on the first book of that name by providing a slew of new options for exploring and fighting in a world in its final days. With it, you can play tree people, mortals who can turn into cats, wield the power of Metal magic, and join others in their war against the darkness. Do you have what it takes to fight the Shadow? With this book, you will!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
