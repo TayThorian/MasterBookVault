@@ -6,6 +6,12 @@
 - MCG329 - Planar Bestiary
 - MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
+- MCG004 - Ninth World Bestiary
+- MCG168 - Ninth World Bestiary 3
+- MCG172 - Explorer's Keys - Ten Instant Adventures
+- MCG083 - Into the Outside
+- MCG082 - Into the Deep
+- MCG071 - Into the Night
 ## Free League Publishing
 - - Path of Glory
 ## Iron Crown Enterprises
@@ -32,7 +38,7 @@
 - ICE8013 - Dark Mage of Rhudaur
 - ICE8014 - Rogues of the Borderlands
 - ICE8015 - Forest of Tears
-- ICE8070 - Goblin Gate and Eagles's Eyrye
+- ICE8070 - Goblin-Gate and Eagle's Eyrie
 - ICE8090 - Brigands of Mirkwood
 - ICE8101 - Haunted Ruins of the Dunlendings
 - ICE8102 - Phantom Of The Northern Marches
