@@ -16,6 +16,7 @@
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/DMGR1_-_Campaign_Sourcebook_and_Catacomb_Guide_(TSR2112)",
     "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Rule Supplements",
     "BookFormat": "Paperback",
@@ -73,6 +74,7 @@
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/DMGR2_-_Castle_Guide_(TSR2114)",
     "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Rule Supplements",
     "BookFormat": "Paperback",
@@ -89,8 +91,16 @@
       {
     "title": "Book",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 3, "title": "Introduction"},
+      {"page": 5, "title": "Chapter 1 - The Feudal Setting"},
+      {"page": 25, "title": "Chapter 2 - In the Days of Knights"},
+      {"page": 38, "title": "Chapter 3 - The Tournament"},
+      {"page": 42, "title": "Chapter 4 - The Evolution of Castles"},
+      {"page": 45, "title": "Chapter 5 - Castle Construction"},
+      {"page": 69, "title": "Chapter 6 - Unusual Castles"},
+      {"page": 76, "title": "Chapter 7 - Warfare"},
+      {"page": 106, "title": "Chapter 8 - Quick Resolution"},
+      {"page": 118, "title": "Chapter 9 - Generic Castles"}
       ]    
   }
 ]
@@ -112,6 +122,7 @@
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/DMGR7_-_The_Complete_Book_of_Necromancers_(TSR2151)",
     "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Rule Supplements",
     "BookFormat": "Paperback",
@@ -2644,6 +2655,9 @@
       "D:\\OneDrive\\Master Vault\\ADnD\\Rulebooks\\TSR2140 - Monstrous Manual.pdf",
       "D:\\OneDrive\\Master Vault\\ADnD\\Rulebooks\\TSR2140 - Monstrous Manual Revised (Premium Edition).pdf"
     ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Extra Book Data\\AD&D 2E Monsters\\A\\Aarakocra.md"
+    ],
     "BookDescription": [
       "Need a monster? Look inside, where more than 300 new pieces of full colour art show what the monsters really look like!",
       "This book contains more than 600 monsters including all the creatures from the MONSTROUS COMPENDIUM Volumes 1 and 2! In addition, there are monsters from the other MONSTROUS COMPENDIUM Volumes, and some creatures never seen in the second edition AD&D Game before."
@@ -3338,6 +3352,9 @@
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2103 - MC2 - Monstrous Compendium - Volume Two.pdf",
       "D:\\OneDrive\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2103 - MC2 - Monstrous Compendium - Volume Two - Dividers.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Extra Book Data\\AD&D 2E Monsters\\A\\Aarakocra.md"
     ],
     "BookDescription": [
       "Monstrous Compendium - Volume Two"
