@@ -95,7 +95,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -1072,7 +1072,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Cormanthyr_Empire_of_Elves_(TSR1165)",
@@ -1391,7 +1391,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "To Source",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -1968,7 +1968,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -2252,7 +2252,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -2291,7 +2291,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -2938,7 +2938,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -4337,7 +4337,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -4349,6 +4349,9 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1085 - Forgotten Realms Campaign Setting, Revised Edition.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1085 - Forgotten Realms Campaign Setting, Revised Edition - Extras - Shortcut.lnk"  
     ],
     "BookDescription": [
       "It is a world where the gods have walked and fantastic armies clashed. It is the home of Elminster, Alias, Azoun, Khelben, and Drizzt the dark elf. It is the most popular fantasy campaign in history. Well met, traveler, and welcome to the Forgotten Realms!",
@@ -5222,7 +5225,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -5233,7 +5236,10 @@
     "BookSeries": "Boxed Sets",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1060 - The Ruins of Undermountain.pdf"
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1060 - The Ruins of Undermountain - Campaign_Guide.pdf",
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1060 - The Ruins of Undermountain - Adventures.pdf",      
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1060 - The Ruins of Undermountain - Maps and Cards.pdf",
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1060 - The Ruins of Undermountain - Monstrous_Compendium.pdf"
     ],
     "BookDescription": [
       "BRAVE THE RUINS",
@@ -5269,7 +5275,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -5359,7 +5365,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -5370,7 +5376,10 @@
     "BookSeries": "Boxed Sets",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1084 - The Ruins of Myth Drannor.pdf"
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1084 - The Ruins of Myth Drannor - Campaign Guide.pdf",
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1084 - The Ruins of Myth Drannor - Adventures.pdf",
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1084 - The Ruins of Myth Drannor - Map and Key.pdf",
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1084 - The Ruins of Myth Drannor - Monster Manual.pdf"
     ],
     "BookDescription": [
       "MYTH DRANNOR, city of glory. We shall not see its like again.",
@@ -5488,7 +5497,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -5531,7 +5540,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -5574,7 +5583,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -5585,7 +5594,11 @@
     "BookSeries": "Boxed Sets",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1159 - Lands of Intrigue.pdf"
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1159 - Lands of Intrigue - Book One.pdf","D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1159 - Lands of Intrigue - Book Three.pdf","D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1159 - Lands of Intrigue - Book Two.pdf","D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1159 - Lands of Intrigue - Maps.pdf"
+
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
     ],
     "BookDescription": [
       "Greetings kind travelers! The roads south to the Lands of Intrigue are long and dusty indeed, but they are roads to greatness and glory for merchants, adventurers, and scholars all. Folk with mettle enough to brave these lands will be challenged and astounded by forms of power, magic, and culture that are found nowhere else in Faerûn.",
@@ -5647,8 +5660,8 @@
   ]
   },
   {
-    "BookName": "TSR1104 - The Ruins of Undermountain II- The Deep Levels",
-    "BookShortName": "The Ruins of Undermountain II- The Deep Levels",
+    "BookName": "TSR1104 - The Ruins of Undermountain II - The Deep Levels",
+    "BookShortName": "The Ruins of Undermountain II - The Deep Levels",
     "BookPublisher": "TSR",
     "BookCode": "TSR1104",
     "BookISBN": "1-56076-821-5",
@@ -5658,7 +5671,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -5669,7 +5682,12 @@
     "BookSeries": "Boxed Sets",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1104 - The Ruins of Undermountain II- The Deep Levels.pdf"
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1104 - The Ruins of Undermountain II - The Deep Levels - Campaign_Guide.pdf",
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1104 - The Ruins of Undermountain II - The Deep Levels - Adventures.pdf",      
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1104 - The Ruins of Undermountain II - The Deep Levels - Monstrous_Compendium.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1104 - The Ruins of Undermountain II - The Deep Levels Extras - Shortcut.lnk"
     ],
     "BookDescription": [
       "Looking for adventure are ye? Looking for a place brimming with silver and gold, a place dripping with things magical?",
@@ -5737,7 +5755,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -5749,6 +5767,11 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1120 - Ruins of Zhentil Keep.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1120 - Ruins of Zhentil Keep\\CARDS - Shortcut.lnk","D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1120 - Ruins of Zhentil Keep\\MAP-001 - Shortcut.lnk",
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1120 - Ruins of Zhentil Keep\\MAP-002 - Shortcut.lnk",
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1120 - Ruins of Zhentil Keep\\MAP-003 - Shortcut.lnk"
     ],
     "BookDescription": [
       "Visit the Heart of the Black Network",
@@ -5962,7 +5985,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -6000,7 +6023,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -6083,7 +6106,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",

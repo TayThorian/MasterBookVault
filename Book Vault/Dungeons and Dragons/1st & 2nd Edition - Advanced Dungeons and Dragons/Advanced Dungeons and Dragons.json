@@ -2002,8 +2002,12 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Rule Supplements",
     "BookFormat": "Hardback",
@@ -2130,11 +2134,12 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "1st Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Manual_of_the_Planes_(TSR2022)",
     "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Accessory",
     "BookFormat": "Hardback",
@@ -2307,7 +2312,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "1st Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Unearthed_Arcana_(TSR2017)",
@@ -2569,11 +2574,12 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Tome_of_Magic_(TSR2121)",
     "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Accessory",
     "BookFormat": "Hardback",
@@ -5161,7 +5167,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Underdark",
     "BookType": "Accessory",
@@ -5170,6 +5176,13 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\ADnD\\Other Boxed Sets\\TSR1125 - Night Below - An Underdark Campaign.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Other Boxed Sets\\TSR1125 - Night Below - An Underdark Campaign - Book One.pdf",
+      "D:\\OneDrive\\Master Vault\\ADnD\\Other Boxed Sets\\TSR1125 - Night Below - An Underdark Campaign - Book Two.pdf",
+      "D:\\OneDrive\\Master Vault\\ADnD\\Other Boxed Sets\\TSR1125 - Night Below - An Underdark Campaign - Book Three.pdf",
+      "D:\\OneDrive\\Master Vault\\ADnD\\Other Boxed Sets\\TSR1125 - Night Below - An Underdark Campaign - Book Four.pdf"
+
     ],
     "BookDescription": [
       "A missing mage...",
@@ -7365,6 +7378,384 @@
     "BookDescription": [
       "How different things seem now from when you undertook the crushing of a few rebellious hill giants! What seemed a simple adventure has turned into a major expedition. Much time has passed since you discovered the conspiracy that led you to the frost giants, fire giants, and eventually to the long-forgotten Drow. Through your encounter with the dark elves, you have found the true source of the evil -- the demon queen Lolth!",
       "This module is the exciting conclusion of a series of seven AD&D modules. It may be played on its own or as the climax of the \"Giant\" series (G1-G3) and the 'Drow' series (D1-D3). The first of a new series of other-planar adventures, this module includes several new monsters, maps of the Demonweb and lair of Lolth, and notes on eight alternate worlds, suitable for expansion and addition to existing AD&D campaigns."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9226 - I14 - Swords of the Iron Legion",
+    "BookShortName": "I14 - Swords of the Iron Legion",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9226",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "I Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\I Series\\TSR9226 - I14 - Swords of the Iron Legion.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9330 - HHQ1 - Fighter's Challenge",
+    "BookShortName": "HHQ1 - Fighter's Challenge",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9330",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "HHQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\HHQ Series\\TSR9330 - HHQ1 - Fighter's Challenge.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9359 - HHQ2 - Wizard's Challenge",
+    "BookShortName": "HHQ2 - Wizard's Challenge",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9359",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "HHQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\HHQ Series\\TSR9359 - HHQ2 - Wizard's Challenge.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9420 - HHQ3 - Thief's Challenge",
+    "BookShortName": "HHQ3 - Thief's Challenge",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9420",
+    "BookISBN": "1-56076-562-3",
+    "BookAuthor": "Troy Christensen",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "HHQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\HHQ Series\\TSR9420 - HHQ3 - Thief's Challenge.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9429 - HHQ4 - Cleric's Challenge",
+    "BookShortName": "HHQ4 - Cleric's Challenge",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9429",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "HHQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\HHQ Series\\TSR9429 - HHQ4 - Cleric's Challenge.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9427 - HHQ5 - Fighter's Challenge II",
+    "BookShortName": "HHQ5 - Fighter's Challenge II",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9427",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "HHQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\HHQ Series\\TSR9427 - HHQ5 - Fighter's Challenge II.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9454 - HHQ6 - Wizard's Challenge II",
+    "BookShortName": "HHQ6 - Wizard's Challenge II",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9454",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "HHQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\HHQ Series\\TSR9454 - HHQ6 - Wizard's Challenge II.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9478 - HHQ7 - Thief's Challenge II -  Beacon Point",
+    "BookShortName": "HHQ7 - Thief's Challenge II -  Beacon Point",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9478",
+    "BookISBN": "0-7869-0135-7",
+    "BookAuthor": "Terry Amthor",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "HHQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\HHQ Series\\TSR9478 - HHQ7 - Thief's Challenge II -  Beacon Point.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9483 - HHQ8 - Cleric's Challenge II",
+    "BookShortName": "HHQ8 - Cleric's Challenge II",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9483",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "HHQ Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\HHQ Series\\TSR9483 - HHQ8 - Cleric's Challenge II.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
     ],
     "TableOfContents": [
       {

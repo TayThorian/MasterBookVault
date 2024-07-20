@@ -1511,7 +1511,7 @@
     "BookRules": "Dungeons and Dragons",
     "BookEdition": "Basic D&D",
     "BookPhysical": "No",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Mystara",
     "BookType": "Gazetteer",
@@ -2790,15 +2790,23 @@
     "BookRules": "Dungeons and Dragons",
     "BookEdition": "Basic D&D",
     "BookPhysical": "No",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Dungeons and Dragons",
+    "UseTOC": "No",
     "BookSetting": "Mystara",
     "BookType": "Gazetteer",
     "BookFormat": "Softback",
     "BookSeries": "Gazetteer",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9241 - GAZ10 - The Orcs of Thar.pdf"
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9241 - GAZ10 - The Orcs of Thar 1.pdf",
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9241 - GAZ10 - The Orcs of Thar 2.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9241 - GAZ10 - The Orcs of Thar - Maps - Shortcut.lnk"
     ],
     "BookDescription": [
       "Orcs? A Gazetteer about Orcs?",
@@ -2833,7 +2841,7 @@
     "BookRules": "Dungeons and Dragons",
     "BookEdition": "Basic D&D",
     "BookPhysical": "No",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Mystara",
     "BookType": "Gazetteer",
