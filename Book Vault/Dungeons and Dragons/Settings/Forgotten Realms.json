@@ -953,8 +953,8 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/FR6_-_Dreams_of_the_Red_Wizards_(TSR9235)",
     "VaultSML": "Forgotten Realms",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
@@ -1917,9 +1917,10 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/REF5_-_Lords_of_Darkness_(TSR9240)",
     "VaultSML": "Forgotten Realms",
+    "UseTOC": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
     "BookFormat": "Paperback",
@@ -2015,6 +2016,7 @@
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/FRC1_-_Ruins_of_Adventure_(TSR9238)",
     "VaultSML": "Forgotten Realms",
+    "UseTOC": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Adventure",
     "BookFormat": "Paperback",
@@ -2029,12 +2031,52 @@
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "Ruins of Adventure",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 2, "title": "Introduction"},
+      {"page": 10, "title": "Civilized Phlan"},
+      {"page": 13, "title": "Reconquest of Sokol Keep"},
+      {"page": 16, "title": "Kovel Mansion"},
+      {"page": 18, "title": "Mansions"},
+      {"page": 19, "title": "Slums"},
+      {"page": 20, "title": "The Temple of Bane"},
+      {"page": 23, "title": "Delving Into Kuto's Well"},
+      {"page": 26, "title": "Mantor's Library"},
+      {"page": 29, "title": "Stojanow Gate"},
+      {"page": 31, "title": "Podol Plaza"},
+      {"page": 33, "title": "The Cadorna Textile House"},
+      {"page": 36, "title": "Valhingen Graveyard"},
+      {"page": 42, "title": "Valjevo Castle"},
+      {"page": 55, "title": "Sorcerer's Island"},
+      {"page": 60, "title": "Zhentil Keep Outpost"},
+      {"page": 64, "title": "Thri-Kreen Village"},
+      {"page": 66, "title": "Orcs"},
+      {"page": 68, "title": "Nomad Camp"},
+      {"page": 70, "title": "Lizardmen Lair"},
+      {"page": 73, "title": "Kobolds Kingdom"},
+      {"page": 76, "title": "Hobgoblins Lair"}
       ]    
-  }
+  },
+  {
+  "title": "Random Encounters Section",
+  "chapters": [
+    {"page": 82, "title": "Forest"},
+    {"page": 83, "title": "Grasslands"},
+    {"page": 84, "title": "River & Coast Areas"},
+    {"page": 85, "title": "Low Hills"},
+    {"page": 86, "title": "Mountains"},
+    {"page": 87, "title": "Human Town Areas"},
+    {"page": 88, "title": "Unorganized Inhuman Town Areas"},
+    {"page": 89, "title": "Organized Inhuman Town Areas"},
+    {"page": 90, "title": "Outside Town Areas"},
+    {"page": 91, "title": "Specials"},
+    {"page": 92, "title": "Evil Specials"},
+    {"page": 93, "title": "Humans"},
+    {"page": 94, "title": "InHumans"},
+    {"page": 95, "title": "Random Monsters"},
+    {"page": 96, "title": "Swamp"}
+  ]    
+}
 ]
   },
   {
@@ -6533,8 +6575,8 @@
     "BookPhysical": "To Source",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/OA1_-_Swords_of_the_Daimyo_(TSR9164)",
     "VaultSML": "Forgotten Realms",
     "BookSetting": "Forgotten Realms",
     "BookType": "Adventure",
@@ -6545,7 +6587,11 @@
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR9164 - OA1 - Swords of the Daimyo.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "From the Log of the Leaping Dolphin",
+      "\"110th Day: The gale nae stops for two days. My ship is driven before it and the magus is as helpless as a wee babe. Akito names the winds tai-fun in his heathen tongue?\"",
+      "Drawn by the lure of adventure and riches, a crew of seamen sails valiantly into uncharted seas. In the squalid dens of the port districts, tales hint at a land of untold riches across the waves. But getting there is only the beginning.",
+      "Across the waters lies Kozakura, a land of mystery and danger. There you will discover new cultures, strange values, secret powers, and fabulous terrors. For Kozakura is a land of Oriental Adventures",
+      "Swords of the Daimyois the first module designed for use with the AD&D Oriental Adventures rulebook. Swords of the Daimyo includes descriptions and maps of the island of Kozakura, detailed information and maps of Miyama Province of Kozakura, and a series of adventures to introduce old and new player characters to the intrigues of the Orient."
     ],
     "TableOfContents": [
       {
@@ -6583,7 +6629,9 @@
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR9186 - OA2 - Night of the Seven Swords.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "While Maeshi province revels in the festival spirit, clouds gather over the political scene. Two warlords are vying for control of this otherwise peaceful place, and you are guests of one of them. Sun Temple officials have offered complete support to the faction which successfully travels to Ito-jo Castle (said to hold relics of great importance to the Sun Temple), brings them back safely, and returns them to the Inn of the Globefish.",
+      "The plan is laid before you. You are to leave immediately under secrecy for the castle of the Ito clan, also known as the Seven Swords Clan. Find the relics, and return them to the renowned inn Doi no Fugu. Extreme caution is needed here, for your warlord's rival must not hear of this!",
+      "Is the castle really haunted? What lies in the caverns beneath it? Will Korimori's troops discover your plan and try to wrest the relics from you, should you even get that far? What will you find at the Inn of the Globefish? Come, honorable stranger- the Seven Swords await!"
     ],
     "TableOfContents": [
       {
@@ -6621,7 +6669,9 @@
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR9195 - OA3 - Ochimo The Spirit Warrior.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "Your family and those of your friends are deeply indebted to the Ko family, a clan of merchants from distant and alien Shou Lung. The Ko have been instructed by their emperor to develop an island possession to extend the Glorious Empire of the Shou Lung. The colony there is failing because of fell spirits and dire hauntings. The Ko family is calling in old favors to discover who is responsible for these evil sendings. And if the Ko have a problem, you have a problem?",
+      "So you and your companions are bound for the island of Akari, a small pebble in the Celestial Sea. There you will find a land rich in ancient lore and guarded by the sword of a spectral samurai-Ochimo, the spirit warrior. Yet this is only the first taste of the adventures that await you.",
+      "Ochimo: The Spirit Warrior is an adventure for characters of levels 5-7 and uses the AD&D Oriental Adventures rule book. The module includes descriptions of Akari Island, as well as much information on the lifestyles, attitudes, and history of the most civilized nation in the world: Shou Lung."
     ],
     "TableOfContents": [
       {
@@ -6659,7 +6709,9 @@
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR9203 - OA4 - Blood of the Yakuza.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "In the port city of Nakamaru, the masks of deceit and treachery embroil the entire city. Plots and counterplots, loyalties, revenge? all can be found in this city of Wa.",
+      "You have been thrust amidst this cauldron of intrigue. You must pick your loyalties with care. Will you side with one of the yakuza gangs in their secret battle for control of the streets? Will you throw your fate into the political whirlwind that surrounds the powerful families of Nakamaru? Will you sohei battle his rivals for the hearts of the people?",
+      "Blood of the Yakuza is an adventure for use in your Oriental Adventures campaign. It includes a colorful city map of Nakamaru and descriptions of the major NPCs, districts, and factions of the city. All of these make Nakamaru an exciting and dangerous place for adventure!"
     ],
     "TableOfContents": [
       {
@@ -6692,12 +6744,16 @@
     "BookType": "Adventure",
     "BookFormat": "Softback",
     "BookSeries": "Oriental Adventures - Kara-Tur Series",
-    "BookCharacterLevel": "",
+    "BookCharacterLevel": "Levels 6 - 9",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR9242 - OA5 - Mad Monkey vs. the Dragon Claw.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "Kara-Tur The Eastern Realms",
+      "The followers of the many gods of Kara-Tur have always fought, to prove the superiority of their martial discipline and the greater wisdom of their deities. The strict hierarchy of the gods is now threatened by the sudden prominence of the followers of the Dragon Claw, a new and deadly school of martial arts that threatens to destroy all other schools. The players, recruited by a mysterious old monk with a bizarre fighting style, must find out what's behind the emergence of the Dragon claw and put a stop to it.",
+      "Mad Monkey vs the Dragon Claw will take the players across the entire country of T'u Lung, from the mouth of the great river Fenghsintzu to its headwaters, where they must deal with the legendary Cult of the Black Leopard-all in the name of the Mad Monkey.",
+      "Mad Monkey vs the Dragon Claw is a scenario for the ORIENTAL ADVENTURES supplememnt for the AD&D game. It is set in KARA-TUR, the oriental world in the Forgotten Realms.",
+      "Mad Monkey vs the Dragon Claw is designed for five to eight characters of Levels 6-9."
     ],
     "TableOfContents": [
       {
@@ -6714,7 +6770,7 @@
     "BookShortName": "OA6 - Ronin Challenge",
     "BookPublisher": "TSR",
     "BookCode": "TSR9257",
-    "BookISBN": "",
+    "BookISBN": "0-88038-749-1",
     "BookAuthor": "Curtis Smith & Rick Swan",
     "BookPublished": "1990",
     "BookCover": "",
@@ -6735,7 +6791,12 @@
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR9257 - OA6 - Ronin Challenge.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "It begins as a simple martial arts tournament. Sure, your skills are tested and you might even win a trophy - or learn a lesson or two. But it's still just a tournament...",
+      "Until someone starts playing for keeps.",
+      "When a traitor to the empire is revealed, His Excellency calls loyal and heroic citizens to follow the trail of deception. The scale of the treachery is grand - it seems that an entire army has turned its back on its rightful liege!",
+      "The trail leads through trackless (or seemingly trackless) mountains, into peaceful (or seemingly peaceful) valleys. The emperor has promised great rewards to heroes who can solve his mystery, but as the journey progresses the heroes find their own reasons for continuing.",
+      "As a sinister suspicion grow in the minds, the adventure reaches its climax in the ruins of an ancient civilization. Finally, our heroes are faced with an ultimate choice - between success and failure, loyalty and betrayal, even good and evil.",
+      "On their choice rests the future of nations."
     ],
     "TableOfContents": [
       {
@@ -6773,7 +6834,10 @@
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR9258 - OA7 - Test of the Samurai.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "The peninsula of Wa is no place to visit. The land is poor, the people wary and suspicious. Yet this quiet backwater has been the site of strange disturbances - mysterious disappearances and omens of dire events to come. Why do the animals of Wa disappear, only to return a short while later? Who are the Blue Kumi bandits, and why are they so active? Why do the black geese fly into the Jusofu Mountains? And what fell creature lurks along the southern coast of Wa?",
+      "Or does the stench of corruption emanate from the Celestial Bureaucracy itself? Could the danger, unchecked, grow great enough to doom all living creatures in Kara-Tur? Which clues will lead to the truth, and which are merely traps for the unwary...",
+      "Test of the Samurai will take the players across the Wa peninsula and to the unknown land of Qui. They will encounter such legendary beasts as the feng huang (phoenix) and the chi'-lin (unicorn) as they attempt to discover the secrets of Wa.",
+      "Test of the Samurai is a scenario for the Oriental Adventures supplement to the AD&D game. It is set in Kara-Tur, the oriental world in the Forgotten Realms. Although Test of the Samurai follows the events of module OA6: Ronin Challenge, it is an independent adventure for five to eight characters of levels 6-9."
     ],
     "TableOfContents": [
       {
