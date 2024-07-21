@@ -117,5 +117,89 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "CHA0360 - Agents of the Crown",
+    "BookShortName": "Agents of the Crown",
+    "BookPublisher": "Chaosium",
+    "BookCode": "CHA0360",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Basic Roleplaying",
+    "UseTOC": "No",
+    "BookSetting": "Basic Roleplaying",
+    "BookType": "Monograph",
+    "BookFormat": "",
+    "BookSeries": "Monographs",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Basic Roleplaying\\CHA0360 - Agents of the Crown.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "CHA0365 - Outpost 19",
+    "BookShortName": "Outpost 19",
+    "BookPublisher": "Chaosium",
+    "BookCode": "CHA0365",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Basic Roleplaying",
+    "UseTOC": "No",
+    "BookSetting": "Basic Roleplaying",
+    "BookType": "Monograph",
+    "BookFormat": "",
+    "BookSeries": "Monographs",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Basic Roleplaying\\CHA0365 - Outpost 19.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

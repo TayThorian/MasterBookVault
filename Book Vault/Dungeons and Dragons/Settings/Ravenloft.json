@@ -96,5 +96,383 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "TSR9352 - RQ1 - Night of the Walking Dead",
+  "BookShortName": "RQ1 - Night of the Walking Dead",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR9352",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ravenloft",
+  "UseTOC": "No",
+  "BookSetting": "Ravenloft",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "RQ Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ravenloft\\TSR9352 - RQ1 - Night of the Walking Dead.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR9364 - RQ2 - Thoughts of Darkness",
+  "BookShortName": "RQ2 - Thoughts of Darkness",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR9364",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ravenloft",
+  "UseTOC": "No",
+  "BookSetting": "Ravenloft",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "RQ Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ravenloft\\TSR9364 - RQ2 - Thoughts of Darkness.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR9375 - RQ3 - From the Shadows",
+  "BookShortName": "RQ3 - From the Shadows",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR9375",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ravenloft",
+  "UseTOC": "No",
+  "BookSetting": "Ravenloft",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "RQ Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ravenloft\\TSR9375 - RQ3 - From the Shadows.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR11447 - Van Richten's Monster Hunter's Compendium, Volume One",
+  "BookShortName": "Van Richten's Monster Hunter's Compendium, Volume One",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR11447",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ravenloft",
+  "UseTOC": "No",
+  "BookSetting": "Ravenloft",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Van Richten's Monster Hunter's Compendium",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ravenloft\\TSR11447 - Van Richten's Monster Hunter's Compendium, Volume One.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR11507 - Van Richten's Monster Hunter's Compendium, Volume Two",
+  "BookShortName": "Van Richten's Monster Hunter's Compendium, Volume Two",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR11507",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ravenloft",
+  "UseTOC": "No",
+  "BookSetting": "Ravenloft",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Van Richten's Monster Hunter's Compendium",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ravenloft\\TSR11507 - Van Richten's Monster Hunter's Compendium, Volume Two.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR11613 - Van Richten's Monster Hunter's Compendium, Volume Three",
+  "BookShortName": "Van Richten's Monster Hunter's Compendium, Volume Three",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR11613",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ravenloft",
+  "UseTOC": "No",
+  "BookSetting": "Ravenloft",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Van Richten's Monster Hunter's Compendium",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ravenloft\\TSR11613 - Van Richten's Monster Hunter's Compendium, Volume Three.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR9298 - RA1 - Feast of Goblyns",
+  "BookShortName": "RA1 - Feast of Goblyns",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR9298",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ravenloft",
+  "UseTOC": "No",
+  "BookSetting": "Ravenloft",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "RA Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ravenloft\\TSR9298 - RA1 - Feast of Goblyns.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR9321 - RA2 - Ship of Horrors",
+  "BookShortName": "RA2 - Ship of Horrors",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR9321",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ravenloft",
+  "UseTOC": "No",
+  "BookSetting": "Ravenloft",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "RA Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ravenloft\\TSR9321 - RA2 - Ship of Horrors.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR9338 - RA3 - Touch of Death",
+  "BookShortName": "RA3 - Touch of Death",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR9338",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ravenloft",
+  "UseTOC": "No",
+  "BookSetting": "Ravenloft",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "RA Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ravenloft\\TSR9338 - RA3 - Touch of Death.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
