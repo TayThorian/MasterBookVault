@@ -13,6 +13,10 @@
     "BookPhysical": "To Source",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/The_Glimmering_Valley_(MCG361)",
+    "VaultSML": "Numenera",
+    "UseTOC": "Yes",
     "BookSetting": "Numenera",
     "BookType": "Supplement",
     "BookFormat": "Hardback",
@@ -37,8 +41,22 @@
       {
     "title": "Book",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 4, "title": "Introduction"},
+      {"page": 6, "title": "Chapter 1: For the GM"},
+      {"page": 14, "title": "Chapter 2: Creating Characters for the Glimmering Valley"},
+      {"page": 22, "title": "Chapter 3: Neandran"},
+      {"page": 32, "title": "Chapter 4: The Valley"},
+      {"page": 44, "title": "Chapter 5: Valley Encounters"},
+      {"page": 50, "title": "Chapter 6: The Haunted Stair"},
+      {"page": 61, "title": "Chapter 7: The Ancient Crèche"},
+      {"page": 84, "title": "Chapter 8: Ketterach"},
+      {"page": 91, "title": "Chapter 9: The Briinii"},
+      {"page": 93, "title": "Chapter 10: The Uldada"},
+      {"page": 100, "title": "Chapter 11: The Ourach Invasion"},
+      {"page": 104, "title": "Chapter 12: Essatha"},
+      {"page": 109, "title": "Chapter 13: Creatures of the Valley"},
+      {"page": 120, "title": "Chapter 14: The Player's Guide"},
+      {"page": 128, "title": "Glossary and Index"}
       ]    
   }
 ]
@@ -669,13 +687,17 @@
     "BookCode": "MCG006",
     "BookISBN": "978-1-939979-24-7",
     "BookAuthor": "Monte Cook, Shanna Germain",
-    "BookPublished": "",
+    "BookPublished": "2015",
     "BookCover": "",
     "BookRules": "Cypher System",
     "BookEdition": "1st Edition",
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Ninth_World_Guidebook_(MCG006)",
+    "VaultSML": "Numenera",
+    "UseTOC": "Yes",
     "BookSetting": "Numenera",
     "BookType": "Supplement",
     "BookFormat": "Hardback",
@@ -690,12 +712,39 @@
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "Part 1: BACK TO THE NINTH WORLD",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 6, "title": "Chapter 1: Introduction"},
+      {"page": 7, "title": "Chapter 2: The Sound of a Beast"},
+      {"page": 16, "title": "Chapter 3: Life in the Ninth World"}
       ]    
-  }
+  },
+  {
+  "title": "Part 2: THE SETTING",
+  "chapters": [
+    {"page": 36, "title": "Chapter 4: The Steadfast"},
+    {"page": 60, "title": "Chapter 5: The Beyond"},
+    {"page": 77, "title": "Chapter 6: The Frozen South"},
+    {"page": 100, "title": "Chapter 7: Lostrei: The Spiritlands"},
+    {"page": 125, "title": "Chapter 8: Vralk: The Red Kingdom"},
+    {"page": 155, "title": "Chapter 9: Rayskel Cays"},
+    {"page": 181, "title": "Chapter 10: Lands of the Dawn"}
+  ]    
+},
+{
+"title": "Part 3: CHARACTERS AND CREATURES",
+"chapters": [
+  {"page": 214, "title": "Chapter 11: Character Options"},
+  {"page": 222, "title": "Chapter 12: Creatures"}
+]    
+},
+{
+"title": "Part 4: BACK MATTER",
+"chapters": [
+  {"page": 252, "title": "Glossary: Talk Like a Ninth Worlder"},
+  {"page": 253, "title": "Index"}
+]    
+}
 ]
   },
   {

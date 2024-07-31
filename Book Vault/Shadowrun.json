@@ -1779,5 +1779,89 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "CAT28405 - Final Bets",
+  "BookShortName": "Final Bets",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28405",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Shadowrun",
+  "UseTOC": "No",
+  "BookSetting": "Shadowrun",
+  "BookType": "Campaign",
+  "BookFormat": "",
+  "BookSeries": "Campaigns",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28405 - Final Bets.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28801 - Bestial Nature",
+  "BookShortName": "Bestial Nature",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28801",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Shadowrun",
+  "UseTOC": "No",
+  "BookSetting": "Shadowrun",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28801 - Bestial Nature.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
