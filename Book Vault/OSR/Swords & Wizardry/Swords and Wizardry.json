@@ -724,5 +724,89 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "White Box Omnibus - Player and Referee Options",
+  "BookShortName": "White Box Omnibus - Player and Referee Options",
+  "BookPublisher": "Barrel Rider Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "James M. Spahn",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Whitebox Rules",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Options",
+  "BookFormat": "",
+  "BookSeries": "Options",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\White Box Omnibus - Player and Referee Options.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "White Box Compendium - Player & Referee Options",
+  "BookShortName": "White Box Compendium - Player & Referee Options",
+  "BookPublisher": "Barrel Rider Games",
+  "BookCode": "",
+  "BookISBN": "",
+ "BookAuthor": "James M. Spahn",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Whitebox Rules",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Options",
+  "BookFormat": "",
+  "BookSeries": "Options",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\White Box Compendium - Player & Referee Options.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
