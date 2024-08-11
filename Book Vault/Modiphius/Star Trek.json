@@ -240,5 +240,95 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "MUH0142401 - Star Trek Adventures - Second Edition - Core Rulebook",
+  "BookShortName": "Star Trek Adventures - Second Edition - Core Rulebook",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH0142401",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Star Trek Adventures",
+  "UseTOC": "No",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Rule Book",
+  "BookFormat": "",
+  "BookSeries": "Rule Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142401 - Star Trek Adventures - Second Edition - Core Rulebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\STA 2e Character sheets and forms - Shortcut.lnk",
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\STA 2e personal log sheet and form - Shortcut.lnk",
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\STA 2e Starship sheets and forms - Shortcut.lnk"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit",
+  "BookShortName": "Star Trek Adventures - Second Edition - Game Toolkit",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH0142405",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Star Trek Adventures",
+  "UseTOC": "No",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Rule Book",
+  "BookFormat": "",
+  "BookSeries": "Rule Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit - Booklet.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit - Screen tables side 1 page.pdf",
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit -  Screen tables side 4 pages.pdf",
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit - Map Poster.pdf",
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit - Reference Cards Digital.pdf",
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit - Screen art side.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
