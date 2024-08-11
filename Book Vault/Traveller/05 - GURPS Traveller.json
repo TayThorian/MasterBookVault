@@ -11,7 +11,7 @@
     "BookRules": "Traveller",
     "BookEdition": "GURPS Traveller 3rd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Traveller_(SJG6602)",
@@ -143,7 +143,7 @@
   "BookRules": "Traveller",
   "BookEdition": "GURPS Traveller 3rd Edition",
   "BookPhysical": "Yes",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "To Source",
   "BookLibrary": "Yes",
   "BookWiki": "",
   "WikiPage": "",
@@ -187,7 +187,7 @@
   "BookRules": "Traveller",
   "BookEdition": "GURPS Traveller 3rd Edition",
   "BookPhysical": "Yes",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "To Source",
   "BookLibrary": "Yes",
   "BookWiki": "",
   "WikiPage": "",
@@ -236,7 +236,7 @@
   "BookRules": "Traveller",
   "BookEdition": "GURPS Traveller 3rd Edition",
   "BookPhysical": "Yes",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "To Source",
   "BookLibrary": "Yes",
   "BookWiki": "",
   "WikiPage": "",
@@ -291,7 +291,7 @@
   "BookRules": "Traveller",
   "BookEdition": "GURPS Traveller 3rd Edition",
   "BookPhysical": "Yes",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "To Source",
   "BookLibrary": "Yes",
   "BookWiki": "",
   "WikiPage": "",
@@ -337,7 +337,7 @@
   "BookRules": "Traveller",
   "BookEdition": "GURPS Traveller 3rd Edition",
   "BookPhysical": "Yes",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "To Source",
   "BookLibrary": "Yes",
   "BookWiki": "",
   "WikiPage": "",
@@ -388,7 +388,7 @@
   "BookRules": "Traveller",
   "BookEdition": "GURPS Traveller 3rd Edition",
   "BookPhysical": "Yes",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "To Source",
   "BookLibrary": "Yes",
   "BookWiki": "",
   "WikiPage": "",
@@ -415,6 +415,159 @@
     "Two new minor races are also presented here:",
     "The Inyx, a race of aquatic parasites who absorb bio-electrical energy from their whale-sized hosts;",
     "The Devi Intelligence, comprising two forms: The Intellects, sentient fungi who resemble colonies of giant toadstools, and their predatory spores, the Shiverbats."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SJG6608 - Alien Races 3",
+  "BookShortName": "Alien Races 3",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6608",
+  "BookISBN": "1-55634-431-7",
+  "BookAuthor": "Dave Nilsen, David L. Pulver, Andy Slack, David Thoma",
+  "BookPublished": "2000",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "GURPS Traveller",
+  "UseTOC": "No",
+  "BookSetting": "GURPS Traveller",
+  "BookType": "Alien Races",
+  "BookFormat": "Softback",
+  "BookSeries": "Alien Races",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6608 - Alien Races 3.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "The Hivers Should Worry You . . .",
+    "Openly cooperative, apparently pacifistic, reportedly cowardly, the starfish-shaped Hivers don't seem to be empire-building material – but they hold one in a secure grip. They won the only interstellar war they've fought after losing every battle, but with this most alien of the major races, looks almost always deceive. Inscrutable, patient, and subtle, the Hivers puzzle their neighbors more than they worry them. It should be the other way around.",
+    "The Droyne Should Awe You . . .",
+    "An insectoid race scattered across the Imperium like so many gypsies, the seemingly insignificant Droyne often fall beneath the notice of Humaniti . . . and most Humans are foolish enough to think it's their own choice. A series of puzzles in their history and culture suggests that huge secrets lurk behind the compound eyes of these tiny sentients . . . and that the most awesome of the major races may come in the smallest package.",
+    "Ancient Answers Await!",
+    "Alien Races 3 offers an expose on the Ancients themselves, and examines in detail the biology, homeworlds, culture, and society of the enigmatic Hivers and cryptic Droyne. Included are racial and career templates, sample equipment and starships, Ancient artifacts, and much more.",
+    "This book also includes a set of 36 Droyne \"coyns\" and instructions for predicting the future and making decisions, Droyne style.",
+    "Two new minor races are presented here as well:",
+    "The Inheritors, a race of fluorine-breathers living on the shell of an ancient Dyson sphere and \"improving\" on the technology left behind;",
+    "The Lithkind, a nocturnal species for which mating means death and death means rebirth, and who treat the opposite sex as taboo!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SJG6609 - Alien Races 4",
+  "BookShortName": "Alien Races 4",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6609",
+  "BookISBN": "1-55634-433-3",
+  "BookAuthor": "Steve Jackson, Loren Wiseman",
+  "BookPublished": "2001",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "GURPS Traveller",
+  "UseTOC": "No",
+  "BookSetting": "GURPS Traveller",
+  "BookType": "Alien Races",
+  "BookFormat": "Softback",
+  "BookSeries": "Alien Races",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6609 - Alien Races 4.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Aliens Everywhere!",
+    "Enough aliens to fill a cantina! GURPS Traveller: Alien Races 4 brings 16 strange species to life. Compiled and edited by Loren Wiseman and Steve Jackson, this book features the creations of several favorite Traveller authors, including Phil Masters, David Pulver, and David Thomas.",
+    "Here you'll meet:",
+    "The winged Ael Yael, nearly destroyed by greedy Humaniti, now finding their place in the galaxy.",
+    "The bureaucratic Bwaps, faithful administrators through three Imperiums . . . but they have their own agenda, and few suspect how decisively they can act on their own.",
+    "The huge Virushi, calm and nonviolent . . . until they're pushed too far.",
+    "The newest species to be recognized as sentient, the aquatic Schalli. Will these brilliant, ambitious carnivores be our allies in a hundred years – or our rivals?",
+    "And a dozen others!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SJG6614 - Ground Forces",
+  "BookShortName": "Ground Forces",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6614",
+  "BookISBN": "1-55634-444-9",
+  "BookAuthor": "Douglas E. Berry",
+  "BookPublished": "2000",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "GURPS Traveller",
+  "UseTOC": "No",
+  "BookSetting": "GURPS Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6614 - Ground Forces.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Countless Worlds.",
+    "A Few Good Troops.",
+    "Holding together an Imperium requires the services of an iron elite, Marines willing to jump from a starship and into the teeth of a planetary defense net, Army troopers willing to travel the universe one slit trench at a time, armor commanders willing to bet their lives that they can get there first with the most.",
+    "Do you have what it takes?",
+    "GURPS Traveller: Ground Forces describes the Imperial Marines and Unified Armies, laying the foundation for a campaign thick with laser fire and full of action! It includes:",
+    "A history of ground combat and campaigns in the Imperium.",
+    "Detailed descriptions of Marine and Army units, from squads to battalions and up – as well as rules for easily determining the makeup of a world or subsector army.",
+    "New, expanded templates for Marine and Army characters.",
+    "New gear for Imperial soldiers.",
+    "New, modular rules for designing military and civilian grav vehicles in GURPS Traveller.",
+    "And much more!",
+    "GURPS Traveller: Ground Forces has everything you need to add untold punch to your campaign!"
   ],
   "TableOfContents": [
     {

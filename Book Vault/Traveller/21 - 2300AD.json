@@ -584,5 +584,52 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "GDW1016 - Deathwatch Program",
+  "BookShortName": "Deathwatch Program",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1016",
+  "BookISBN": "1-55878-051-3",
+  "BookAuthor": "Lester W. Smith",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300AD",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "2300AD",
+  "BookType": "Adventure",
+  "BookFormat": "Softcover",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\21 - 2300AD\\GDW1016 - Deathwatch Program.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "What a sweet deal.",
+    "All you have to do is transfer one passenger from a small oil corp in Corpus Christi to an even smaller one in Monterey.",
+    "Easy money.",
+    "But playing bus driver turns sour. Bandits start shooting at you, so you radio for backup, and both the Mexican and Texan corps send in air support. The two rival pilots start a dogfight, and official Mexican aircraft join in. Suddenly, you're caught in a virtual maelstrom of combat.",
+    "With guts, skill, and luck, you escape and deliver your passenger, and think your mission is over. But the fates have something else in store for you. You return home to become immediately embroiled in a series of events you have little control over - from scandal to electronic theft to cold-blooded murder.",
+    "Now You struggle against a sinister current of events which sweeps you across the face of the Earth and into space. you are locked in a duel with elusive and powerful adversaries intent on eliminating the only thing standing between them and global supremacy - you."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

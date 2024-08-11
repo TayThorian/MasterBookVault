@@ -44,11 +44,21 @@
 - - Path of Glory
 ## Iron Crown Enterprises
 - GCP-SMP-4513 - Vehicle Manual
-- GCP-SMP-4514 - Blaster Law
 - GCP-SMP-4515 - Future Law
 - GCP-SMP-4600 - Races & Cultures
 ## Digest Group Publications
 - - Manhunt
+## Steve Jackson Games
+- SJG6602 - Traveller
+- SJG6603 - Alien Races 1 - Zhodani, Vargr, and Other Races of the Spinward Marches
+- SJG6604 - Star Mercs
+- SJG6606 - Far Trader
+- SJG6610 - Starports
+- SJG6613 - Starships
+- SJG6607 - Alien Races 2 - Aslan, K'kree, and Other Races Rimward of the Imperium
+- SJG6608 - Alien Races 3
+- SJG6609 - Alien Races 4
+- SJG6614 - Ground Forces
 ## TSR
 - TSR2158 - Monstrous Compendium Annual - Volume Two
 - TSR11383 - Campaign Option - Council of Wyrms
