@@ -56,8 +56,8 @@
 ]
 },
 {
-  "BookName": "A Wicked Secret and other Mysteries",
-  "BookShortName": "",
+  "BookName": "FLFVAS06 - A Wicked Secret and other Mysteries",
+  "BookShortName": "A Wicked Secret and other Mysteries",
   "BookPublisher": "Free League Publishing",
   "BookCode": "FLFVAS06",
   "BookISBN": "978-91-89143-98-2",
@@ -95,8 +95,8 @@
 ]
 },
 {
-  "BookName": "Mythic Britain & Ireland",
-  "BookShortName": "",
+  "BookName": "FLFVAS10 - Mythic Britain & Ireland",
+  "BookShortName": "Mythic Britain & Ireland",
   "BookPublisher": "Free League Publishing",
   "BookCode": "FLFVAS10",
   "BookISBN": "978-91-89143-61-6",
@@ -136,8 +136,8 @@
 ]
 },
 {
-  "BookName": "Seasons of Mystery",
-  "BookShortName": "",
+  "BookName": "FLFVAS11 - Seasons of Mystery",
+  "BookShortName": "Seasons of Mystery",
   "BookPublisher": "Free League Publishing",
   "BookCode": "FLFVAS11",
   "BookISBN": "978-91-89143-62-3",
@@ -147,7 +147,7 @@
   "BookRules": "Year Zero Engine",
   "BookEdition": "1st Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Vaesen",
   "BookType": "Adventure",
@@ -174,8 +174,8 @@
 ]
 },
 {
-  "BookName": "The Lost Mountain Saga",
-  "BookShortName": "",
+  "BookName": "FLFVAS16 - The Lost Mountain Saga",
+  "BookShortName": "The Lost Mountain Saga",
   "BookPublisher": "Free League Publishing",
   "BookCode": "FLFVAS16",
   "BookISBN": "",
@@ -185,7 +185,7 @@
   "BookRules": "Year Zero Engine",
   "BookEdition": "1st Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Vaesen",
   "BookType": "Adventure",
@@ -210,7 +210,7 @@
 },
 {
   "BookName": "Fear the Evenfall",
-  "BookShortName": "",
+  "BookShortName": "Fear the Evenfall",
   "BookPublisher": "Free League Workshop",
   "BookCode": "",
   "BookISBN": "",
@@ -245,7 +245,7 @@
 },
 {
   "BookName": "Mythic Japan",
-  "BookShortName": "",
+  "BookShortName": "Mythic Japan",
   "BookPublisher": "Free League Workshop",
   "BookCode": "",
   "BookISBN": "",

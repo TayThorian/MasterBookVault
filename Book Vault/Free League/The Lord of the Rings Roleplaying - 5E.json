@@ -149,5 +149,47 @@
       ]    
   }
 ]
-  } 
+  } ,
+  {
+    "BookName": "FLFLTR007 - Moria - Shadow of Khazad Dûm",
+    "BookShortName": "Moria - Shadow of Khazad Dûm",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFLTR007",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "5e Compatible",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "Middle Earth",
+    "BookType": "Campaign",
+    "BookFormat": "Hardback",
+    "BookSeries": "Campaigns",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\5E - Compatible\\The Lord of the Rings Roleplaying\\FLFLTR007 - Moria - Shadow of Khazad Dûm.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  }
 ]

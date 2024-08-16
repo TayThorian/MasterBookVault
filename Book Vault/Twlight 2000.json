@@ -95,15 +95,19 @@
   "BookShortName": "The Black Madonna",
   "BookPublisher": "Free League Publishing",
   "BookCode": "",
-  "BookISBN": "",
+  "BookISBN": "978-91-89765-36-8",
   "BookAuthor": "",
   "BookPublished": "2024",
   "BookCover": "",
   "BookRules": "Year Zero Engine",
   "BookEdition": "4th Edition",
-  "BookPhysical": "No",
+  "BookPhysical": "On Order",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
   "BookSetting": "Twlight 2000",
   "BookType": "Expansion",
   "BookFormat": "Boxed Set",
@@ -112,8 +116,18 @@
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Twlight 2000\\4th Edition\\The Black Madonna.pdf"
   ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Twlight 2000\\4th Edition\\The Black Madonna - Extras.lnk"
+  ],
   "BookDescription": [
-    "No description available."
+    "When I was a kid, my best friend was named Donald Kaminski. I was over at his house for dinner once when his Great Aunt Lucja was visiting. She was this crazy lady from the old country who spoke hardly any English. After dinner, she gave me a little card with a picture on one side and printing on the other. I thought it was a Polish baseball card or something, but it was an old-time picture of Mary and the baby Jesus. Don’s dad said that it was a holy picture. He read the stuff on the back to me. It was all about the painting, which was called Our Lady of Częstochowa, and had all sorts of neat stuff about sieges and battles, and thieves being struck dead as they tried to steal the painting. I loved it. I never dreamed I'd ever hold the real Black Madonna in my hands someday.",
+    "The Black Madonna is a campaign expansion for the fourth edition of TWILIGHT: 2000, based on the classic adventure with the same title for the first edition of the game. This new and updated supplement is written by the original author, Frank Frey, and Chris Keeling.",
+    "This boxed set includes new rules, new weapons, an overview of the Silesia region of Poland, new encounters, new factions for the PCs to tangle with, new scenario sites to explore, and details on the Black Madonna itself and its secrets. Contents of the boxed set:",
+    "A 72-page book with new rules and campaign material.",
+    "16 new encounter cards, for use in Silesia or elsewhere.",
+    "6 battle maps for specific locations.",
+    "3 battle maps for close quarters combat.",
+    "A travel map."
   ],
   "TableOfContents": [
     {
