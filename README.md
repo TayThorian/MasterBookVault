@@ -43,7 +43,6 @@
 ## Free League Publishing
 - - Path of Glory
 ## Iron Crown Enterprises
-- GCP-SMP-4513 - Vehicle Manual
 - GCP-SMP-4515 - Future Law
 - GCP-SMP-4600 - Races & Cultures
 ## Digest Group Publications
