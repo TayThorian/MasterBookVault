@@ -58,6 +58,7 @@
 - SJG6608 - Alien Races 3
 - SJG6609 - Alien Races 4
 - SJG6614 - Ground Forces
+- SJG6615 - Rim of Fire
 ## TSR
 - TSR2158 - Monstrous Compendium Annual - Volume Two
 - TSR11383 - Campaign Option - Council of Wyrms
@@ -71,6 +72,7 @@
 - TSR9425 - HR5 - The Glory of Rome Campaign Sourcebook
 - TSR9408 - HR6 - Age of Heroes Campaign Sourcebook
 - TSR9469 - HR7 - The Crusades Campaign Sourcebook
+- TSR9104 - MV1 - Midnight on Dagger Alley
 - TSR9558 - The Fall of Myth Drannor
 - TSR8908 - LC1 - Gateway to Raven's Bluff
 - TSR9316 - LC3 - Night Watch in the Living City

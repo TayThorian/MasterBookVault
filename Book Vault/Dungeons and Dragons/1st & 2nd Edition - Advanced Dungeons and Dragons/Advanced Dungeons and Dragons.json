@@ -7766,5 +7766,217 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "TSR9422 - GA1 - The Murky Deep",
+    "BookShortName": "GA1 - The Murky Deep",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9422",
+    "BookISBN": "1-56076-574-7",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "GA Series",
+    "BookCharacterLevel": "Levels 5 - 8",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\GA Series\\TSR9422 - GA1 - The Murky Deep.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9424 - GA2 - Swamplight",
+    "BookShortName": "GA2 - Swamplight",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9424",
+    "BookISBN": "1-56076-588-7",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "GA Series",
+    "BookCharacterLevel": "Levels 7 - 9",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\GA Series\\TSR9424 - GA2 - Swamplight.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9428 - GA3 - Tales of Enchantment",
+    "BookShortName": "GA3 - Tales of Enchantment",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9428",
+    "BookISBN": "1-56076-646-8",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "GA Series",
+    "BookCharacterLevel": "Levels 5 - 8",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\GA Series\\TSR9428 - GA3 - Tales of Enchantment.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9104 - MV1 - Midnight on Dagger Alley",
+    "BookShortName": "MV1 - Midnight on Dagger Alley",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9104",
+    "BookISBN": "0-88038-185-X",
+    "BookAuthor": "Merle M. Rasmussen",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "MV Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\MV Series\\TSR9104 - MV1 - Midnight on Dagger Alley.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9225 - OP1 - Tales of the Outer Planes",
+    "BookShortName": "OP1 - Tales of the Outer Planes",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9225",
+    "BookISBN": "0-88038-544-8",
+    "BookAuthor": "",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "OP Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\OP Series\\TSR9225 - OP1 - Tales of the Outer Planes.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Has reality got you down? Tired of everyday, humdrum, commonplace happenings of life on the Prime Material Plane? Want to really get away from it all? Then step right up for the chance for adventure out of the ordinary... way out of the ordinary...",
+      "Tales of the Outer Planes is an anthology of short adventures set throughout the many Outer Planes for use with the AD&D Manual of the Planes. Some of gaming's best designers have contributed adventures to this set, which includes scenarios set in the Seven Heavens, Olympus, the four Elemental Planes, the Nine Hells, and the Astral and Ethereal Planes. Tales of the Outer Planes is a perfect collection for powerful characters who have it too easy at home and are looking for new challenges. Many of the most fearsome monsters are even more dangerous on their own planes - can you take them on and live to tell the tale?",
+      "These adventures can be inserted as a \"change of pace\" in an existing campaign, or can be the foundation of an entire new set of adventures. Either way, Tales of the Outer Planes will be sure to open up a whole new frontier for AD&D game players everywhere."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

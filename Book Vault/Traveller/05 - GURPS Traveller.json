@@ -578,5 +578,55 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "SJG6615 - Rim of Fire",
+  "BookShortName": "Rim of Fire",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6615",
+  "BookISBN": "1-55634-436-8",
+  "BookAuthor": "Jon F. Zeigler",
+  "BookPublished": "2000",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "GURPS Traveller",
+  "UseTOC": "No",
+  "BookSetting": "GURPS Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6615 - Rim of Fire.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Where Empires Collide . . .",
+    "The Solomani Rim stands at the center of Human and Imperial history. It is home to the Solomani Confederation, an aggressive empire of Human supremacists eager to back their beliefs with force. Adventurers entering the Solomani Rim will discover some of the Imperium's oldest and most developed worlds – and some of its greatest dangers.",
+    "Rim of Fire describes more than 400 worlds and star systems . . . Imperial, Solomani, Vegan, and rebellious. It also describes:",
+    "The Solomani Confederation, and the iron-fisted SolSec that keeps the populace in line.",
+    "Rules for Solomani characters and sample Solomani Confederation starships.",
+    "The great clashes between the First Imperium and the Earth-bred founders of the Second, as well as between the Third Imperium and the Solomani descendants of the Second.",
+    "Life on Terra, birthplace of all Humaniti . . . a shrine to the Solomani, now held by the Imperium.",
+    "The Vegans and the Vegan Polity, an economic powerhouse that plays an important role in past and present Solomani Rim politics.",
+    "The Solomani Rim contains more history, honor, and horrors than any other part of Charted Space. Explore it today!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

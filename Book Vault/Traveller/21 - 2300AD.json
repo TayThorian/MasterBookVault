@@ -304,7 +304,7 @@
   "BookSetting": "2300AD",
   "BookType": "Rulebook",
   "BookFormat": "Boxed Set",
-  "BookSeries": "2300AD",
+  "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Traveller\\21 - 2300AD\\GDW1000 - 2300AD - Man's Battle for the Stars.pdf"
@@ -445,8 +445,8 @@
   "BookShortName": "Colonial Atlas",
   "BookPublisher": "Game Designers Workshop",
   "BookCode": "GDW1013",
-  "BookISBN": "",
-  "BookAuthor": "",
+  "BookISBN": "0-943580-58-7",
+  "BookAuthor": "Rob Caswell",
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "2300AD",
@@ -621,6 +621,306 @@
     "But playing bus driver turns sour. Bandits start shooting at you, so you radio for backup, and both the Mexican and Texan corps send in air support. The two rival pilots start a dogfight, and official Mexican aircraft join in. Suddenly, you're caught in a virtual maelstrom of combat.",
     "With guts, skill, and luck, you escape and deliver your passenger, and think your mission is over. But the fates have something else in store for you. You return home to become immediately embroiled in a series of events you have little control over - from scandal to electronic theft to cold-blooded murder.",
     "Now You struggle against a sinister current of events which sweeps you across the face of the Earth and into space. you are locked in a duel with elusive and powerful adversaries intent on eliminating the only thing standing between them and global supremacy - you."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1017 - Rotten To The Core",
+  "BookShortName": "Rotten To The Core",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1017",
+  "BookISBN": "1-55878-059-9",
+  "BookAuthor": "Julia Martin",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300AD",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "2300AD",
+  "BookType": "Adventure",
+  "BookFormat": "Softcover",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\21 - 2300AD\\GDW1017 - Rotten To The Core - Corruption At The Beanstalk's Root.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1034 - Invasion",
+  "BookShortName": "Invasion",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1034",
+  "BookISBN": "0-943580-67-6",
+  "BookAuthor": "J. Andrew Keith",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300AD",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "2300AD",
+  "BookType": "Adventure",
+  "BookFormat": "Softcover",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\21 - 2300AD\\GDW1034 - Invasion.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Another distant explosion shook the complex, throwing Konrad to the corridor floor. The cement torw at his knees and the plams of his hands. Blinking back tears, he climbed to his feet. Through a nearby viewport he could see the huge Kafer battleship approaching, its bulk blotting out the stars.",
+    "\"There's nowhere left to run.\" It amazed him how calml he could accept that. \"Sixteen years old, and I'm going to die.\" Suddenly, his surroundings took on a special clarity. He could hear the hum of the overheard lights, smell the smoke from far down the hall. He noticed the laser scars on the Kafer battleship where the defense systems had destroyed a gun tower. As he watched, a jack turret opened, and the inside began to glow red as its power built toward discharge. There was a sudden flash of light.\"",
+    "The Past",
+    "In 2295, humans and Kafers first met. Kafer ships discovered a human research facility orbiting Arcturus. The humans sent radio messages to the aliens but received no reply. Then, suddenly, without warning, the Kafers left the system.",
+    "Station personnel reported the alien contact to Terran officials and, regretting the lost opportunity to establish relations, continued to study the star. Two years later, reports from the Arcturus system ceased.",
+    "Early in 2298, Kafer ships swarmed into the Eta Bootis system and, driving away the human space fleet, bgean an attack on the Eta Bootian colony world, Aurore. The aliens destroyed the world's orbital facilities and landed ground troops on the planet.",
+    "Human space forces reentered the system with reinforcement from nations cooperating in the attack, and by 2299, the alien fellt was driven back. Then the humans fell back to Eta Bootis where a defensive lione could be established. An uneasy silence settled on the Frontier. No one knew when the enemy might attack again.",
+    "The Present",
+    "It is now 2301. The human fleet at Eta Bootis has been waiting at the alert for two years. While its leader have bickered over protocol and jockeyed for command of the combined fleet, individual ship crews have grown lax in performing pracrice exercises and routine duties.",
+    "But the Kafers have been busy. The remnants of the small force that originally attacked the humans have reported back to Kafer war leaders, and the combined might of all the Kafer nations has been assigned to invade human space. Theur goal is nothing short of the eradication of the human race.",
+    "The Future",
+    "The survivial of the human race is in jeopardy. Its fate lies not only in the hands of its armies and navies, but also in the hands of its civilian populations. In Invasion, player characters can experience the course of the Kafer assault on the French Arm, but they can also take an active part in the human defense efforts, no matter what career they have been trained in. The final fate of worlds may well depend upon their actions.",
+    "Invasion decribes the course of the Kafer campaign, from the initial assault on Hochbaden to the final, climactic battle at Queen Alice's Star. Along the way it treats each colony world in an individual chapter, explaing the particular effects of the invasion on that world. Both space battles and ground battles are described, with role-playing adventures and even official Star Cruiser scenarios included. With the information in this book the referee can run an entire campaign based upon the Kafer invasion."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1035 - Bayern",
+  "BookShortName": "Bayern",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1035",
+  "BookISBN": "0-943580-74-9",
+  "BookAuthor": "William W. Connors",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300AD",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "2300AD",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\21 - 2300AD\\GDW1035 - Bayern.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "The chief tenet of the Astrnomischen-Rechen Institut is the pursuit of interstellar exploration for the betterment of humanity. A rich and coveted pocket of stars lies a mere 350 light-years away. The time has come to unlock its secrets.",
+    "Resting comfortably in the constellation of Tauras in Earth's familiar night sky, the Pleiades have long been an object of awe, worship, and inspiration for different human cultures. To ancient civilizations which placed tremendous importance on the heavily bodies, the unique character of the Pleiades was as compelling as it was puzzling.",
+    "To the modern men of the 24th century, however, the Pleiades are very nearly as great prize - a storehouse of young stars just waiting to be tapped for information. The Astrnomischen-Rechen Institut, a foundation pledged to extend the boundaries of human explration and human knowledge, recognizes this potential and has for years been in preparation for the long voyage to this fabled cache of stars.",
+    "The vehicle for that mission has been carefully designed and purposefully crewed for the tenuous journey across uncharted stars. The ship is called Bayern.",
+    "After Bayern's aborted launch attempt in 2297, the Astrnomischen-Rechen Institut completed repair and redesign on its vital stutterwarp drive system, and the ship was then ready to set off again for the haunting star group. Now as the 24th century dawns on the human race, Commander Leopold Schmidt and his international crew of 110 brave explorers make ready to bid farewell to their friends and families for a journey that will last almost half a decade.",
+    "The module Bayern contains all of the background data needed to run an ongoing campaign of adventures based around the monumental voyage of this great craft. The important crewmembers are all detailed, as are the ship's systems, including the computers and the extra vehicular craft used on the Bayern during the mission.",
+    "Also included in Bayern are two complete adventure scenarios, Death Throes and The Daughters of Atlas. Each scenario is designed to begin or supplement a continuing campaign covering the unique encounters and adventures that can be found along the long flight of the Bayern."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1036 - Ground Vehicle Guide",
+  "BookShortName": "Ground Vehicle Guide",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1036",
+  "BookISBN": "0-943580-99-4",
+  "BookAuthor": "Loren K. Wiseman",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300AD",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "2300AD",
+  "BookType": "Vehicle Guide",
+  "BookFormat": "Softcover",
+  "BookSeries": "Guides",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\21 - 2300AD\\GDW1036 - Ground Vehicle Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Myriad Vehicles are produced by the factories of Earth and the human colonies of deep space. Vehicles are needed for exploration, for combat, and for transport of cargo and people. From the smallest passenger snow-skimmer to the largest cargo hovercraft, vehicles make life on the frontier possible. It is , after all, a long walk home.",
+    "The Ground Vehicle Guide presents 34 vehicles and their variants, both civilian and military, all fully illustrated. The full panoply of ground vehicles in the 2300 AD universe is covered, ranging from a small, two-passenger vehicles (such as the Matsu Snow-Demon) upward through American, French, and German combat vehicles (including the most modern types to the largest ground tanks and hovercraft.",
+    "Whether the players are assembling an exploratory expedition for an uncharted world , equipping a mercenary unit or are simply curious about the vehicles of the 2300 AD universe, the Ground Vehicle Guide will more than satisfy their needs. Game statistics for each vehicle are included with the illustrations. Players can look at the cutaways and imagine their characters sitting inside the vehicles. Referees can use the illustrations to imprive their descriptions of game events. The Ground Vehicle Guide cannot help but make a game 2300 AD more exciting.",
+    "Color plates depict either cutaways of exterior views of the American M9 hovertank and M24A3 hover APC, the French CC-12, the German LkPz-IX and GfPzTr-XIII and the Australian Kangaroo-IV. The module includes patches and vehicle emblems in full color and color illustrations of add-on vehicle acessories (including a Pentapod air cleaner) which can be fitted onto just about anything.",
+    "Vehicle acessories include packages to permit the vehicles to operate in extreme heat, extreme cold, unbreathable conditions and vacuum environments. Alternative weapons are covered for many of the military vehicles and local variations are discussed (and often illustrated).",
+    "All in all, the Ground Vehicle Guide is a resource and reference work that no 2300 AD players or referee can afford to be without."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1037 - Equipment Guide",
+  "BookShortName": "Equipment Guide",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1037",
+  "BookISBN": "1-55878-004-1",
+  "BookAuthor": "Lester W. Smith",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300AD",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "2300AD",
+  "BookType": "Equipment Guide",
+  "BookFormat": "Softcover",
+  "BookSeries": "Guides",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\21 - 2300AD\\GDW1037 - Equipment Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Humans are tool-using creatures and this is proved nowhere more than in the inhospitable wastes of space. In the reaches between the stars, every breath a human takes depends upon the functioning of his gear. Equipment must be used to regulate his temperature, the pressue of his atmosphere, and to give him mobility, keeping him from drifting , lost, through the darkness of the universe. His equipment must be strong and reliable. And the strength of human tools reflects the firmness of the human will, the determintation to dwell among the stars.",
+    "Equipment of the Future",
+    "The 2300 AD Equipment Guide is an infomative guide to the equipment available in the roleplaying setting of 2300 AD. In this book, you will find all sorts of gear, from reupply packages for a basic first aid kit to the anagathic regimen, from simple mechanical locks to sophisticated retina scanners. Each piece of equipment is described in detail and all are fully illustrated, many in full color.",
+    "This guide is a valuable aid to play. Care has been taken to include items that are useful during adventures. Essential statistics are given in standard format. Text descriptions focus on not only how the equipment works but also how it fits into the world of the future. Equipment is divided into logical chapters, so that the reader can easily find the tpye of equipment that interests him and an alphabetical index is included.",
+    "A Complete Listing",
+    "But the 2300 AD Equipment Guide is not just a guide to new equipment it is a guide to all equipment that a player might use. In this way, the reader is saved from having to search through various publications to find a description he needs.",
+    "For Referee and Player",
+    "The 2300 AD Equipment Guide is intended to be used by both the player and referee. For players, the lucid descriptions and beautiful illustrations will help to flesh out the world that is 2300 AD. For the referee, helpful information such as where many of the items are available, new rules, and task statements of how items are to be used and the basic statisitcs listed for each item will aid in making adventures in 2300 AD run smoothly. And it is a sure bet that many of the items listed in this book will serve as a spur to the referee's imagination suggesting ideas for further adventures in 2300 AD."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1038 - Ranger",
+  "BookShortName": "Ranger",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1038",
+  "BookISBN": "1-55878-016-5",
+  "BookAuthor": "David Nilsen",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300AD",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "2300AD",
+  "BookType": "Adventure",
+  "BookFormat": "Softcover",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\21 - 2300AD\\GDW1038 - Ranger.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "DO YOU HAVE WHAT IT TAKES TO BE A COLONIAL RANGER?",
+    "The Texas Rangers are always looking for a few adventurous types to swell our ranks in the growing colonies. The pay is good, and the benefits are superior; we'll even pay your way through advanced education during or after your enlistment. But the best benefit of all is the chance to get away from the familiar and predictable, to make you own future. And you'll be heir to 500 years of gallant Ranger tradtion, a roll of honor writtrn in indelible deeds, waiting for your name to be added.",
+    "82 ERIDANI IV",
+    "At the extreme end of a side branching of the Chinese Arm lies a yellow star much like Sol. This star is circled by eight glittering planets, the fourth of which bears life.",
+    "Humans call 82 Eridani IV \"Kormoran,\" and it is hime to the enigmatic Ebers - members of a race that once possessed star drives but destroyed its culture by interstellar war.",
+    "THE EBERS",
+    "Of the races thus far encountered by man, the Ebers are the most like men in gross biological characteristics, but they are also the least understood. Ebars are known first-hand by fewer than 9000 humans, the inhabatants of two enclaves, the UAR and Texas.",
+    "Once possessing knowledge beyond that of humanity, the Eber race neraly obliterated itself thousands of years ago in an interstellar war. Even now, they are just beginning a new industrial age. Most Eber nations conitnue to conduct travel by animal, and by sword and spear.",
+    "The Ebers are extremely ritualistic creatures. They hoard the decaying knowledge of their ancient forebearers and protect it with semi-religious tradtion against the day that their race will use it once again",
+    "THE ARABS",
+    "The UAR has a major enclave on Kormoran, the first extra-terrestrial project ever created by that nation. Enjoying good relations with the Civilized Eber nations and with Manchuria (which holds the reins of power on the Chinese arm), the enclave may someday divine the deep secrets of the Civilized Ebers.",
+    "And the Araba are not hesitant to use their unfluence with Ebers and Machurians to make life to make life difficult for the recently arrived Texans, in a jealous effort to protect their hold on Kormoran.",
+    "THE TEXANS",
+    "The Texas enclave was established eight years after the UAR enclave. In that eight years, the Arabs had wormed their way into the councils of the Civilized Ebers. Therefore, while by Terran treaty the UAR could not prevent Texas from planning an outpost on Kormoran, it could ensure that the Texan enclave had little chance of surviving. The Arabs convinced the Civilized Ebers to cede a parcel from the Great Desert to the Texans, believing that if the harsh environment did not destroy them, the savage Nomadic Ebers tribes would.",
+    "Now, with the dawning of the 24th century, Texas has signed a landmark agreement with the Civilized Eber nation of Black Sky to build an Eber steam train line through the Great Desert. With this gain, the Texans have become a real threat to the UAR enclave.",
+    "THE MISSION",
+    "In the wake of the historic agreemnt between Black Sky and the Texas enclave, the Nomadic Ebers of the Great Desert have assmembled for war. Attacks on New Austin's outlying areas are increasingly frequent and a Texas Ranger is missing.",
+    "The player characters have been recruited to serve as auxilaries alongside the Rangers. Now the Rangers have been ordered out into the desert to determine what is precipitating the war. Having come to Komroan for a peaceful break from Kafer fighting the player characters find themselves cast into the think of a mounting conflict with hordes of aliend who can throw spears through plate armor.",
+    "What was advertised as a relaxing stint of suty is quickly becoming a nightmare."
   ],
   "TableOfContents": [
     {
