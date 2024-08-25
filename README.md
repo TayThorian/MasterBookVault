@@ -43,8 +43,7 @@
 ## Free League Publishing
 - - Path of Glory
 ## Iron Crown Enterprises
-- GCP-SMP-4515 - Future Law
-- GCP-SMP-4600 - Races & Cultures
+- ICE9300 - Imperial Crisis House Devon in Turmoil
 ## Digest Group Publications
 - - Manhunt
 ## Steve Jackson Games
