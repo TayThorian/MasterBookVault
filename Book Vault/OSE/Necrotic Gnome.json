@@ -119,8 +119,14 @@
       {
     "title": "Book",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 4, "title": "Welcome to Dolmenwood"},
+      {"page": 11, "title": "Starting Play"},
+      {"page": 28, "title": "Kindreds"},
+      {"page": 57, "title": "Classes"},
+      {"page": 76, "title": "Magic"},
+      {"page": 115, "title": "Equipment, Services and Animals"},
+      {"page": 136, "title": "Adventuring"},
+      {"page": 173, "title": "Appendices"}
       ]    
   }
 ]

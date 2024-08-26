@@ -628,5 +628,51 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "SJG6623 - Humaniti",
+  "BookShortName": "Humaniti",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6623",
+  "BookISBN": "1-55634-521-6",
+  "BookAuthor": "Loren Wiseman, Jon F. Zeigle",
+  "BookPublished": "2003",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "GURPS Traveller",
+  "UseTOC": "No",
+  "BookSetting": "GURPS Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6623 - Humaniti.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Unity in Diversity",
+    "In the far future, mankind has scattered to many worlds and divided into many races . . . and some are very alien, despite their Human ancestry. GURPS Traveller: Humaniti describes 16 Human-descended races from the far reaches of the Imperium and beyond, including the technologically advanced Darrians (with their sun-smashing Star Trigger), the carnivorous Dynchia, the dour warrior Azhanti, and the aggressive Itharans. Compiled by Loren Wiseman, this book is a valuable resource for any Traveller campaign.",
+    "Never-before-published details on the societies and cultures of 16 races of Humaniti.",
+    "Maps of the Answerin, Darrians, Irhadre, Kargol, Luriani, Nexxies, and Otrai homeworlds.",
+    "Background histories and character-creation details for all 16 races."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

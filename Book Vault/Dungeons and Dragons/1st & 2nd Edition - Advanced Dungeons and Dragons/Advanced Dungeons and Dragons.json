@@ -7861,7 +7861,7 @@
     "BookPublished": "",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
-    "BookEdition": "",
+    "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
@@ -7968,6 +7968,447 @@
       "Has reality got you down? Tired of everyday, humdrum, commonplace happenings of life on the Prime Material Plane? Want to really get away from it all? Then step right up for the chance for adventure out of the ordinary... way out of the ordinary...",
       "Tales of the Outer Planes is an anthology of short adventures set throughout the many Outer Planes for use with the AD&D Manual of the Planes. Some of gaming's best designers have contributed adventures to this set, which includes scenarios set in the Seven Heavens, Olympus, the four Elemental Planes, the Nine Hells, and the Astral and Ethereal Planes. Tales of the Outer Planes is a perfect collection for powerful characters who have it too easy at home and are looking for new challenges. Many of the most fearsome monsters are even more dangerous on their own planes - can you take them on and live to tell the tale?",
       "These adventures can be inserted as a \"change of pace\" in an existing campaign, or can be the foundation of an entire new set of adventures. Either way, Tales of the Outer Planes will be sure to open up a whole new frontier for AD&D game players everywhere."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9045 - L1 - The Secret of Bone Hill",
+    "BookShortName": "L1 - The Secret of Bone Hill",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9045",
+    "BookISBN": "0-935696-32-6",
+    "BookAuthor": "Lenard Lakofka",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "L Series",
+    "BookCharacterLevel": "Levels 2 - 4",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\L Series\\TSR9045 - L1 - The Secret of Bone Hill.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Danger lurks in the Lendore Isles. Bands of evil creatures prowl the hills overlooking the town of Restenford, seeking unwary victims. Now you have come to this sleepy little village looking for adventure and excitement. You seek to fathom the unexplored reaches of Bone Hill and unlock the mysteries of Restenford.",
+      "This module contains complete information on the town of Restenford and the lands surrounding it. Included herein are encounter tables, background information, and numerous maps of the town, the surrounding areas, a dungeon, and various points of interest. This module may be incorporated into an exisitng campaign or used in conjunction with THE WORLD OF GREYHAWK Fantasy World Setting."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9057 - L2 - The Assassin's Knot",
+    "BookShortName": "L2 - The Assassin's Knot",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9057",
+    "BookISBN": "0-935696-70-9",
+    "BookAuthor": "Len Lakofka",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "L Series",
+    "BookCharacterLevel": "Levels 2 - 5",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\L Series\\TSR9057 - L2 - The Assassin's Knot.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "\"If you want someone murdered, go to Garrotten\" is a common saying in Restenford. The small, peaceful town of Garrotten is rumored to be the headquarters of a deadly band of assassins. Perhaps there is nothing to this talk. Perhaps it is true. There has never been any reason to find out. Until now.",
+      "The Baron of Restenford is dead.",
+      "The first day following his death, Restenford was a hornet's nest of activity. No one was allowed to enter or leave. The castle itself was sealed t outsiders as soon as the murder was discovered. Wild rumors hinted that the body was left in a condition that made magical restoration impossible. That evening came an urgent summons from the reclusive sorceror, Pelltar, whose council continued late into the night.",
+      "By midmorning of the next day, you were well on your way to Garrotten. Three slender clues are all that remain - three possible chances to unravel the tangled web of intrigue that doomed the Baron of Restenford. The sun is warm, and the land around your is full of life. By nightfall, you will arrive."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9844 - L3 - Deep Dwarven Delve",
+    "BookShortName": "L3 - Deep Dwarven Delve",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9844",
+    "BookISBN": "",
+    "BookAuthor": "Len Lakofka",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "L Series",
+    "BookCharacterLevel": "Levels 3 - 6",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\L Series\\TSR9844 - L3 - Deep Dwarven Delve.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Your party of stalwart heroes must venture into a lost dwarven mining complex, fighting terrible monsters, bypassing deadly traps, and exploring chambers heavy with the dust of ages. Somewhere deep below the surface lies the heart of darkness - a corrupting evil that must be stopped before its influence can spread!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9066 - UK1 - Beyond the Crystal Cave",
+    "BookShortName": "UK1 - Beyond the Crystal Cave",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9066",
+    "BookISBN": "0-88038-003-9",
+    "BookAuthor": "Dave J. Browne, Tom Kirby & Graeme Morris",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/UK1_-_Beyond_the_Crystal_Cave_(TSR9066)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "UK Series",
+    "BookCharacterLevel": "Levels 4 - 7",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\UK Series\\TSR9066 - UK1 - Beyond the Crystal Cave.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Fleeing the rage that consumed their feuding families, Juliana and Orlando fled to the Cave of Echoes, where it is said every wish is granted. Two years have passed, and all attempts to return the lovers to their parents have failed, though some believe them lost in the enchanted garden beyond the cave.",
+      "Many are the rescuers who have entered that enchanted park; a few have returned after long absences, their minds and memories curiously disturbed. Now, the handsome reward offered for the return of the lovers has tempted you, but who knows what lies beyond the Crystal Cave?"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9101 - UK2 - The Sentinel",
+    "BookShortName": "UK2 - The Sentinel",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9101",
+    "BookISBN": "0-88038-074-8",
+    "BookAuthor": "Graeme Morris",
+    "BookPublished": "1983",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/UK2_-_The_Sentinel_(TSR9101)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "UK Series",
+    "BookCharacterLevel": "Levels  2 - 5",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\UK Series\\TSR9101 - UK2 - The Sentinel.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Not even memories of past glory live on in the gentle hills around the village of Kusnir. Today its people have more concern for commonplace things, like the harvest, trade, and the threat of death in the night!",
+      "Kusnir is beset by a skulk.",
+      "The attentions of such a creature are a curse on any community. Streets and alleys which ring to the voices of children by day become fearful, shadowy places by night. Men go abroad armed and in groups, while women and children stay behind locked doors and even there are not safe. But life goes on. The lot of the peasant is always hard, what cannot be prevented must be endured and, of course, things could be worse.",
+      "Much worse. The skulk has begun to visit the village more and more often. Sometimes it kills, yet just as often it spares a victim, leaving clear signs of what it might have done had it wished. Its visits are now marked by strange and illegible symbols scrawled in blood on the walls of the buildings. The people are worried, helpless, and desperate. Desperate enough to welcome adventurers.",
+      "This adventure can be played alone or as the first adventure in the two-part Alderweg series."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9111 - UK3 - The Gauntlet",
+    "BookShortName": "UK3 - The Gauntlet",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9111",
+    "BookISBN": "0-88038-119-1",
+    "BookAuthor": "Graeme Morris",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/UK3_-_The_Gauntlet_(TSR9111)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "UK Series",
+    "BookCharacterLevel": "Levels 3 - 6",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\UK Series\\TSR9111 - UK3 - The Gauntlet.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Indomitable it stood for centuries, a symbol of order in a world of chaos. Bastion of the pass through the Kamph Mountains, the very stones of the Keep of Adlerweg were the stuff of legends. What evil power had strength enough to take it? How were its defenses swept aside?",
+      "Fell creatures now attend the battlements that overlook the only pass between Berghof and the sea.",
+      "This is not a pretty problem to be solved by the militia of the local villages. These and more may be needed to withstand the mayhem stirred up by the fall of the keep. Indeed, if the Keep is not retaken, and retaken soon, the Hold of the Sea Princes itself may not be secure.",
+      "Now is the time for heroic action. Aided by the Sentinel, former protector of the legendary Guardians of Adlerweg, have you the courage and the determination to rid the keep of its sinister occupants?"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9120 - UK4 - When a Star Falls",
+    "BookShortName": "UK4 - When a Star Falls",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9120",
+    "BookISBN": "0-88038-123-X",
+    "BookAuthor": "Graeme Morris",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/UK4_-_When_a_Star_Falls_(TSR9120)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "UK Series",
+    "BookCharacterLevel": "Levels 3 - 5",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\UK Series\\TSR9120 - UK4 - When a Star Falls.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "The power of prophecy is given to few. Wise are they who guard this gift well, for those who thirst after such knowledge are not always men of principle.",
+      "Bastion of destiny, the Tower of the Heavens stands silhouetted against the star-studded night sky. From within his darkened observatory, perched like an eyrie on the highest turret, a figure in white charts the course of a shooting-star as it disappears behind the snow-capped peaks of the Tegefed mountains. The old man smiles grimly to himself; the event foretold has come to pass!",
+      "Power, glory, riches - it takes years to acquire them. The uncanny accuracy of their predictions has brought all these and more to the sages of the Tower of the Heavens. But what is hard to win is often easier to lose, and the future of the tower now hangs in the balance."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9125 - UK5 - Eye of the Serpent",
+    "BookShortName": "UK5 - Eye of the Serpent",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9125",
+    "BookISBN": "0-88038-179-5",
+    "BookAuthor": "Graeme Morris",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/UK5_-_Eye_of_the_Serpent_(TSR9125)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "UK Series",
+    "BookCharacterLevel": "Level 1",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\UK Series\\TSR9125 - UK5 - Eye of the Serpent.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Gazing down form the pinnacle of Hardway Mountain, who would not be drawn by the far-off glint of the Serpent's Eye? The descent will be hard, the mountains know neither mercy nor compassion. Many are the lessons to be learned, but fate has left you little choice - are you equal to the challenge?",
+      "\"Eye of the Serpent\" is a one-on-one wilderness adventure module for one player and one Dungeon Master, and has been designed to develop the specialist skills of a 1st-level druid, ranger, or monk character. It can also be used for a normal party of four to six 1st-level player characters.",
+      "The perils of Hardway Mountain are unchanging, but the routes between them are not. This module includes a unique route planning system with different of routes linking the encounters to challenge the abilities of druids, rangers, or monks. Alternately, Dungeon Masters can change the routings to create their own original and exciting adventures."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9126 - UK6 - All That Glitters",
+    "BookShortName": "UK6 - All That Glitters",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9126",
+    "BookISBN": "0-88038-180-9",
+    "BookAuthor": "Jim Bambra",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/UK6_-_All_That_Glitters_(TSR9126)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "UK Series",
+    "BookCharacterLevel": "Levels 3 - 5",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\UK Series\\TSR9126 - UK6 - All That Glitters....pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "The dark jungle trees loom above you, and the scent of tropical blooms hangs heavy on the windless air. Overhead, brightly coloured birds wheel and dip through the branches. Swarming mosquitos buzz angrily as you raise a waterskin to your lips.",
+      "Still you push on, carefully following the riverbank and the fragment of your map. Those scraps of parchment came from this jungle - of that you are sure, for the carving around which they had been carelessly wrapped were the work of the local natives. Now you have left those peaceful craftsmen far behind and the map has led you to the uncharted territory of the murderous Atem.",
+      "Ahead, the river breaks into white water. These must be the rapids marked on the map. Reaching into your pouch, you draw out the fragments of the parchment, and once again you mind drifts ahead to your ultimate goal - the treasures promised at the journey's end. Riches! And hopefully an end to this stifling, humid jungle.",
+      "Can you unravel the map's mysteries and find your way to the promised treasure? Or will your dreams end only in death and an unmarked grave far from home! Only the bravest characters of levels 5-7 will live to discover that all that glitters is not gold, but much, much more!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9151 - UK7 - Dark Clouds Gathering",
+    "BookShortName": "UK7 - Dark Clouds Gathering",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9151",
+    "BookISBN": "0-88038-236-8",
+    "BookAuthor": "Jim Bambra & Phil Gallagher",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/UK7_-_Dark_Clouds_Gathering_(TSR9151)",
+    "VaultSML": "Advanced Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Softback",
+    "BookSeries": "UK Series",
+    "BookCharacterLevel": "Levels 7 - 9",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\UK Series\\TSR9151 - UK7 - Dark Clouds Gathering.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Storms frequently blow from the Cloudscape Mountains, but never one like this: For weeks it has hung over the peaks, casting its dark shadow across the land. Its huge black clouds billow and writhe in an effort to smother the sun. Once so picturesque and enchanting, the Cloudscape Mountains have taken on a sinister appearance.",
+      "Fear now stalks the land. A malignant entity is growing and festering high in the mountain peaks. With dark tendrils, it reaches out towards the lowlands. No one is safe. Caravans are not arriving at the village of Lurneslye. It is only a matter of time before the villagers fall prey to the dark clouds and the evil they conceal.",
+      "Powerful adventurers of levels 7 to 9 are urgently sought to banish the darkness. The sun must again shine in a clear blue sky - and soon. Once the dark clouds have fully gathered, who knows what may be unleashed across the land?"
     ],
     "TableOfContents": [
       {
