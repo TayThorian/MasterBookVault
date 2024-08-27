@@ -1868,7 +1868,7 @@
     "BookSetting": "Third Imperium",
     "BookType": "Campaign",
     "BookFormat": "Hardback",
-    "BookSeries": "Campaigns",
+    "BookSeries": "The Fifth Frontier War",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40118 - The Fifth Frontier War.pdf"
@@ -3927,19 +3927,23 @@
     "BookShortName": "Flashpoints",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40122",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "978-1-916675-24-7",
+    "BookAuthor": "M J Dougherty",
+    "BookPublished": "2024",
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
     "BookSetting": "Third Imperium",
-    "BookType": "",
-    "BookFormat": "",
-    "BookSeries": "",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "The Fifth Frontier War",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40122 - Flashpoints.pdf"
@@ -3948,7 +3952,9 @@
       "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
     ],
     "BookDescription": [
-      "No description available."
+      "Utoland… bleak, miserable Utoland. Amid a disaster aboard a giant mining machine the Travellers start asking themselves why they would come here, why they would take such dangerous and underpaid work – and why their memories are suddenly disjointed.",
+      "As the Zhodani occupation of Utoland begins, the Travellers realise they are not who they thought they were. The answers lie in a spacecraft in the Utoland system, but to reach it they will have to go through the Zhodani occupation force.",
+      "Reaching the ship, the Travellers learn why they were hiding on Utoland and where they must go next. More importantly, they unravel what they have done. The Fifth Frontier War is unfolding around them, and there is a good chance that they had a hand in starting it…"
     ],
     "TableOfContents": [
       {
@@ -3965,8 +3971,8 @@
     "BookShortName": "Bounty Hunter",
     "BookPublisher": "Mongoose Publishing",
     "BookCode": "MGP40123",
-    "BookISBN": "",
-    "BookAuthor": "",
+    "BookISBN": "978-1-916675-25-4",
+    "BookAuthor": "Darrin Drader, David Guymer and Matthew Sprange",
     "BookPublished": "2024",
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
@@ -3990,7 +3996,10 @@
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40123 - Bounty Hunter Wanted Posters.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "A new style of campaign for Traveller.",
+      "When law enforcement cannot resolve a crisis, and others need plausible deniability, who do they call?",
+      "Expendable, yet whispered about in hushed voices, bounty hunters are not paragons of virtue or honour. Taking contracts issued by guilds, corporations, law enforcement, criminal syndicates and others, there are few things more important than the reward. Rivalling far trader captains in the light years spent travelling, bounty hunters chase down their marks across Charted Space and bring them in, dead or alive.",
+      "Bounty Hunter covers rules for Reputation, the system by which a bounty hunter’s pay, contracts and support are measured. Learn how to hunt down marks, apprehend them, and get rewarded for your work. Bounty Hunter also features dedicated equipment, vehicles, ships, bounty hunting agencies, contracts, safe houses, hideouts and adversaries for use in your Traveller campaigns."
     ],
     "TableOfContents": [
       {

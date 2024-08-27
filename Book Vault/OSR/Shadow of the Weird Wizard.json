@@ -88,16 +88,65 @@
     "The Ultimate Guide for running Shadow of the Weird Wizard Games!",
     "The companion volume to Shadow of the Weird Wizard, this supplement includes everything you need to create and play through quests in the shadow of this strange and otherworldly wizard. To help you carry out this vital role, this book contains a staggering amount of information, covering rules and guidance for running the game, a dynamic setting ripe for exploration, and an in-depth bestiary that includes many old fantasy favorites and plenty of new and reimagined terrors. Some of the cool things you’ll find include:",
     "Origin stories for characters along with rules for playing starting characters and going beyond level 10.",
-"Advice and guidelines for running quests and creating ones from your own imagination.",
-"Downtime rules to cover the stuff that happens between quests.",
-"Dozens of tricks and traps",
-"Guidelines for creating supporting characters",
-"Oddities, magical items you can create using fun tables.",
-"Details on the gods, factions, societies, and more found in the borderlands, a place between the old country that burns, and the weirdness of the new lands abandoned by the Weird Wizard.",
-"Basic rules for playing ancestries other than human.",
-"A comprehensive bestiary that presents everything from enemy adventures to zombies. Need a dragon, a powerful demon, maybe a leshy, or a selection of faeries, undead, monsters? This book has it all.",
-"Secrets of the Weird Wizard complete the game that began in Shadow of the Weird Wizard. Armed with both supplements, you stand ready to make the world your own and tell countless stories with your friends. The secrets are here for the taking. Are you ready?",
-"A brilliant team of human artists helped make this book amazing. They include Jack Kaiser, Luka Arh, Juan Barea, Yeysson Bellaiza, Auri Cavendish, Andrew Clark, Biagio d’alessandro, Çağdaş Demiralp, Kim Van Deun, Nim Dewhirst—Kasgovs Maps, Ivan Dixon, Yugin Maffioli, Britt Martin, Maria Rosaria Monticelli, Victor Moreno, Mitch Mueller, Matthew Myslinski, Eduardo Nunes, Mirco Paganessi, Svetoslav Petrov, Claudio Pozas, Julio Rocha, Erica Rossi, Phill Simpson, Kim Van Deun, Sergio Villa-Isaza, and Cardin Yanis."
+   "Advice and guidelines for running quests and creating ones from your own imagination.",
+   "Downtime rules to cover the stuff that happens between quests.",
+   "Dozens of tricks and traps",
+   "Guidelines for creating supporting characters",
+   "Oddities, magical items you can create using fun tables.",
+   "Details on the gods, factions, societies, and more found in the borderlands, a place between the old country that burns, and the weirdness of the new lands abandoned by the Weird Wizard.",
+   "Basic rules for playing ancestries other than human.",
+   "A comprehensive bestiary that presents everything from enemy adventures to zombies. Need a dragon, a powerful demon, maybe a leshy, or a selection of faeries, undead, monsters? This book has it all.",
+   "Secrets of the Weird Wizard complete the game that began in Shadow of the Weird Wizard. Armed with both supplements, you stand ready to make the world your own and tell countless stories with your friends. The secrets are here for the taking. Are you ready?",
+   "A brilliant team of human artists helped make this book amazing. They include Jack Kaiser, Luka Arh, Juan Barea, Yeysson Bellaiza, Auri Cavendish, Andrew Clark, Biagio d’alessandro, Çağdaş Demiralp, Kim Van Deun, Nim Dewhirst—Kasgovs Maps, Ivan Dixon, Yugin Maffioli, Britt Martin, Maria Rosaria Monticelli, Victor Moreno, Mitch Mueller, Matthew Myslinski, Eduardo Nunes, Mirco Paganessi, Svetoslav Petrov, Claudio Pozas, Julio Rocha, Erica Rossi, Phill Simpson, Kim Van Deun, Sergio Villa-Isaza, and Cardin Yanis."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SWW2414 - Weird Ancestries",
+  "BookShortName": "Weird Ancestries",
+  "BookPublisher": "Schwalb Entertainment",
+  "BookCode": "SWW2414",
+  "BookISBN": "",
+  "BookAuthor": "Robert J Schwalb",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Shadow of the Weird Wizard",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookWiki": "Yes",
+  "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Weird_Ancestries_(SWW2414)",
+  "VaultSML": "Shadow of the Weird Wizard",
+  "UseTOC": "No",
+  "BookSetting": "Shadow of the Weird Wizard",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadow of the Weird Wizard\\SWW2414 - Weird Ancestries.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Mysterious janni and fierce sphinxes. Flighty sprites and diminutive dragonets—and many more. These remarkable peoples from all corners of the known world have one thing in common: They’re ready to make your campaigns even more unique and memorable.",
+    "At last, a collection of characters as fantastical as the world of Shadow of the Weird Wizard! Weird Ancestries gives you the rules and background to play almost any kind of character in the borderlands. Each of the 30 two-page ancestries offers:",
+    "Information about how to play the character as an adventurer, including origins, professions, and paths",
+    "Detailed physical descriptions enhanced with a cool piece of color art",
+    "Full rules for the ancestry’s talents and traits",
+    "Facts about society and culture plus optional ancestry paths to help you build out characters that reflect cultural characteristics",
+    "Some of these folks you’ve briefly met in Secrets of the Weird Wizard, and others are brand new. Run them as described or customize them to fit your own vision. You’ll find something here to spark every player’s imagination.",
+    "For players and Sages alike. Suitable for all levels of play."
   ],
   "TableOfContents": [
     {

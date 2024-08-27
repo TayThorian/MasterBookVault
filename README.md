@@ -44,6 +44,8 @@
 - - Path of Glory
 ## Iron Crown Enterprises
 - ICE9300 - Imperial Crisis House Devon in Turmoil
+## Schwalb Entertainment
+- SWW2414 - Weird Ancestries
 ## Digest Group Publications
 - - Manhunt
 ## Steve Jackson Games
