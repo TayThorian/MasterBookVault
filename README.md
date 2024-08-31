@@ -2,10 +2,8 @@
 # Physical Books to Source
 ## Monte Cook Games
 - MCG316 - Path of the Planebreaker
-- MCG370 - Rust And Redemption
 - MCG329 - Planar Bestiary
 - MCG372 - Cypher System Bestiary
-- MCG361 - The Glimmering Valley
 ## Free League Publishing
 - - Path of Glory
 ## Schwalb Entertainment
@@ -44,6 +42,7 @@
 - - Path of Glory
 ## Iron Crown Enterprises
 - ICE9300 - Imperial Crisis House Devon in Turmoil
+- ICE9600 - Beyond the Core
 ## Schwalb Entertainment
 - SWW2414 - Weird Ancestries
 ## Digest Group Publications
