@@ -6,9 +6,48 @@
 - MCG372 - Cypher System Bestiary
 ## Free League Publishing
 - - Path of Glory
+## Iron Crown Enterprises
+- GCP-SMP-4500 - Space Master Privateers
+- GCP-SMP-4511 - Robotics Manual
+- GCP-SMP-4512 - Equipment Manual
+- GCP-SMP-4513 - Vehicle Manual
+- GCP-SMP-4514 - Blaster Law
+- GCP-SMP-4515 - Future Law
+- GCP-SMP-4600 - Races & Cultures
+- ICE9003 - Aliens & Artifacts
+- ICE9004 - Space Master Companion II
+- ICE9100 - Future Law
+- ICE9101 - Action on Akaisha Outstation
+- ICE9102 - The Cygnus Conspiracy
+- ICE9200 - Tech Law
+- ICE9400 - Lost Telepaths - The Secret of House Kashmere
+- ICE9500 - Space Master Companion
+- ICE9000 - Space Master
+- ICE9010 - Star Strike
+- ICE9011 - Vessel Compendium 1 - Adventurer
+- ICE9012 - Vessel Compendium 2 - Pursuit Class
+- ICE9013 - Vessel Compendium 3 - Imperial Ships
+- ICE9020 - Armored Assault
+- ICE9021 - Armored Reserves
+- ICE9050 - Space Master Rulebook
+- ICE9103 - Tales from Deep Space
+- ICE9107 - Disaster on Adanis III, Rescue on a Contested World
+- ICE9001 - Combat Screen
+- SMD1 - Spacemaster Datanet 01
+- SMD2 - Spacemaster Datanet 02
+- SMD3 - Spacemaster Datanet 03
+- SMD4 - Spacemaster Datanet 04
+- SMD5 - Spacemaster Datanet 05
+- SMD6 - Spacemaster Datanet 06
+- SMD7 - Spacemaster Datanet 07
+- SMD8 - Spacemaster Datanet 08
 ## Schwalb Entertainment
 - SWW2401 - Shadow of the Weird Wizard
 - SWW2402 - Secrets of the Weird Wizard
+## Mongoose Publishing
+- MGP40095 - Central Supply Catalogue -Update 2023
+- MGP40087 - High Guard Update 2022
+- MGP40101 - Traveller Companion Update 2024
 ## TSR
 - TSR1071 - Rules Cyclopedia
 - TSR2173 - Monstrous Compendium Annual - Volume Four
@@ -60,6 +99,9 @@
 - SJG6614 - Ground Forces
 - SJG6615 - Rim of Fire
 - SJG6623 - Humaniti
+## Mongoose Publishing
+- MGP40095 - Central Supply Catalogue -Update 2023
+- MGP40087 - High Guard Update 2022
 ## TSR
 - TSR2158 - Monstrous Compendium Annual - Volume Two
 - TSR11383 - Campaign Option - Council of Wyrms

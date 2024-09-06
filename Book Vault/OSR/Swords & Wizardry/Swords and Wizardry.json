@@ -808,5 +808,89 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "OS1 - The Eye of Chentoufi",
+  "BookShortName": "OS1 - The Eye of Chentoufi",
+  "BookPublisher": "Gaxx Worx",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete Revised",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Swords & Wizardry",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Levels 6 - 8",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\OS1 - The Eye of Chentoufi.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "OS2 - The Heart of Chentoufi",
+  "BookShortName": "OS2 - The Heart of Chentoufi",
+  "BookPublisher": "Gaxx Worx",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete Revised",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Swords & Wizardry",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Levels 6 - 8",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\OS2 - The Heart of Chentoufi.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

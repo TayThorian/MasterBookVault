@@ -251,6 +251,9 @@
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40073 - The Third Imperium.pdf"
     ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40073 - The Third Imperium - Sector Map - Core.pdf"
+    ],
     "BookCharacterLevel": "",
     "BookDescription": [
       "The Third Imperium is the greatest interstellar empire in the history of Charted Space. Its Emperors have reigned for a thousand years, building a utopian society based upon the pillars of duty, honour, free trade and a powerful navy that protects its worlds and enforces its laws.",
@@ -520,8 +523,8 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
     "BookType": "Supplement",
@@ -566,7 +569,9 @@
     "BookFormat": "Hardback",
     "BookSeries": "Sourcebooks",
     "BookPDF": [
-      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40075 - The Spinward Extents.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40075 - The Spinward Extents.pdf"
+    ],
+    "BookMD": [
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40075 - The Spinward Extents - Map - Vanguard Reaches.pdf",
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40075 - The Spinward Extents - Map - The Beyond.pdf"
     ],
@@ -635,8 +640,8 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
     "BookType": "Rulebook",
@@ -1279,6 +1284,9 @@
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40051 - Solomani Front.pdf"
     ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40051 - Sector Map - Alpha Crucis.pdf","D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40051 - Sector Map - Solomani Rim.pdf"
+    ],
     "BookDescription": [
       "No description available."
     ],
@@ -1384,7 +1392,7 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "To Source",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Traveller",
@@ -1431,6 +1439,10 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40002 - High Guard.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40002 - High Guard - Fleet Combat Roster.pdf","D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40002 - High Guard - Preview.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40002 - High Guard - Ship Roster Sheet.pdf"
     ],
     "BookDescription": [
       "No description available."
@@ -1761,6 +1773,9 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40025 - Behind the Claw.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40025 - Behind the Claw - Deneb.pdf","D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40025 - Behind the Claw - Marches.pdf"
     ],
     "BookDescription": [
       "No description available."
