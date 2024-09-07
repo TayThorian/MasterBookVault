@@ -427,5 +427,59 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "CX3000 - Cyberpunk - Edgerunners Mission Kit",
+    "BookShortName": "Cyberpunk - Edgerunners Mission Kit",
+    "BookPublisher": "R Talsorian Games",
+    "BookCode": "CX3000",
+    "BookISBN": "",
+    "BookAuthor": "Mike Pondsmith, James Hutt, J Gray, Bartosz Sztybor",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "Cyberpunk Red",
+    "BookEdition": "RED",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "On Order",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Cyberpunk Red",
+    "UseTOC": "No",
+    "BookSetting": "Cyberpunk Red",
+    "BookType": "Mission Kit",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Mission Kits",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Cyberpunk\\Red\\CX3000 - Cyberpunk - Edgerunners Mission Kit\\Rule Book.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Cyberpunk\\Red\\CX3000 - Cyberpunk - Edgerunners Mission Kit\\Maps.pdf",
+      "D:\\OneDrive\\Master Vault\\Cyberpunk\\Red\\CX3000 - Cyberpunk - Edgerunners Mission Kit\\The Jacket.pdf",
+      "D:\\OneDrive\\Master Vault\\Cyberpunk\\Red\\CX3000 - Cyberpunk - Edgerunners Mission Kit\\Token Sheet.pdf",
+      "D:\\OneDrive\\Master Vault\\Cyberpunk\\Red\\CX3000 - Cyberpunk - Edgerunners Mission Kit\\Edgerunners Folios 11x17.pdf",
+      "D:\\OneDrive\\Master Vault\\Cyberpunk\\Red\\CX3000 - Cyberpunk - Edgerunners Mission Kit\\Edgerunners Folios LTR.pdf",
+      "D:\\OneDrive\\Master Vault\\Cyberpunk\\Red\\CX3000 - Cyberpunk - Edgerunners Mission Kit\\Edgerunners Handbook.pdf",
+      "D:\\OneDrive\\Master Vault\\Cyberpunk\\Red\\CX3000 - Cyberpunk - Edgerunners Mission Kit\\Intro Sheet.pdf"
+    ],
+    "BookDescription": [
+      "Night City’s full of stories, but you aren’t here to watch someone else grab all the glory, are you? With the Cyberpunk: Edgerunners Mission Kit, you’ll tell your own tale full of explosive action, intriguing investigation, and colorful characters. You’ll take on all comers, from the gangs to the megacorps, and carve your legacy onto The Street for all to see.",
+      "The Cyberpunk: Edgerunners Mission Kit is everything you need to immerse yourself in the world of the award-winning anime and the perfect introduction to the classic tabletop roleplaying game of the Dark Future. Everything you’ll need is inside, including…",
+      "The Edgerunners Handbook: Full of world lore curated to give you the detes you need to survive in Night City. Hand-picked by the creator of Cyberpunk, Mike Pondsmith. With new biographical information on David, Lucy, and the gang by Cyberpunk: Edgerunners writer Bartosz Sztybor",
+      "The Rules: Exactly what you need to play the game, from Friday Night Firefights to 2070-era guns, cyberware, and quickhacks.",
+      "The Jacket: A full-length mission for your Crew to play. Find out what happens after the anime ends.",
+      "Seven Edgerunners: Pre-made to let you jump into the action. Featuring art by Cyberpunk: Edgerunners director Hiroyuki Imaishi.",
+      "Maps, standees, and tokens to help bring the world of Cyberpunk: Edgerunners to life."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
