@@ -118,5 +118,188 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "JRL1 - Nightmare Over Ragged Hollow",
+  "BookShortName": "Nightmare Over Ragged Hollow",
+  "BookPublisher": "The Merry Mushmen",
+  "BookCode": "JRL1",
+  "BookISBN": "",
+  "BookAuthor": "Joseph R. Lewis",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSE",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "OSE",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "OSE - Adventures & Settings",
+  "BookCharacterLevel": "Levels 1 - 2",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSE\\OSE - Adventures & Settings\\Nightmare Over Ragged Hollow.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\OSE\\OSE - Adventures & Settings\\Nightmare Over Ragged Hollow Screen.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Raiding The Obsidian Keep",
+  "BookShortName": "Raiding The Obsidian Keep",
+  "BookPublisher": "The Merry Mushmen",
+  "BookCode": "",
+  "BookISBN": "978-2-487747-01-2",
+  "BookAuthor": "Joseph R. Lewis",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSE",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "OSE",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "OSE - Adventures & Settings",
+  "BookCharacterLevel": "Levels 2 - 4",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSE\\OSE - Adventures & Settings\\Raiding The Obsidian Keep.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\OSE\\OSE - Adventures & Settings\\Raiding The Obsidian Keep screen.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "The Horrendous Hounds of Hendenburgh",
+  "BookShortName": "The Horrendous Hounds of Hendenburgh",
+  "BookPublisher": "The Merry Mushmen",
+  "BookCode": "",
+  "BookISBN": "978-2-487747-02-9",
+  "BookAuthor": "Liam Pádraig Ó Cuilleanáin",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSE",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "OSE",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "OSE - Adventures & Settings",
+  "BookCharacterLevel": "2nd Level",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSE\\OSE - Adventures & Settings\\The Horrendous Hounds of Hendenburgh.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\OSE\\OSE - Adventures & Settings\\The Horrendous Hounds of Hendenburgh screen.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Falkrest Abbey",
+  "BookShortName": "Falkrest Abbey",
+  "BookPublisher": "Axian Spice",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Giuseppe Rotondo",
+  "BookPublished": "2021",
+  "BookCover": "",
+  "BookRules": "OSE",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "OSE",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "Hardback",
+  "BookSeries": "OSE - Adventures & Settings",
+  "BookCharacterLevel": "Levels 1 - 3",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSE\\OSE - Adventures & Settings\\Falkrest Abbey.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "The forlorn Falkrest Abbey in the icy Lune Mountains is where the Queens and Kings of Yore used to be crowned and buried, along with their treasures. According to legends, the Fountain of St. Brynedd still pours its miraculous water somewhere inside. But what caused the fall of the blessed Abbey?",
+    "alkrest Abbey is a level 1–3 dungeon adventure for Old-School Essentials. Written by Andrea Tupac Mollica and Giuseppe Rotondo, with original art by Zaira Diana.",
+    "Content:",
+    "A 19 room dungeon with exploration, combat, mystery, puzzles and NPCs",
+    "Encounters and events along the way on the icy Lune Mountains",
+    "Several hooks and alternate outcomes with possible repercussions on your campaign",
+    "3 new monsters",
+    "2 new magic items, plus one almighty magic vial of miraculous water",
+    "Original art by Zaira Diana",
+    "Map drawn with dungeonscrawl",
+    "Utility:",
+    "Treasure & monsters overview sorted by room",
+    "Interactive hyperlinked map and index",
+    "Interactive hyperlinked map snippets accompanying room descriptions",
+    "Printable hand-outs (optional)",
+    "Extra files: VTT friendly maps without room numbers, monsters, secrets doors etc"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

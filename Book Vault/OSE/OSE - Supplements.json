@@ -1,0 +1,101 @@
+[
+  {
+    "BookName": "A Folklore Bestiary - Volume 1",
+    "BookShortName": "A Folklore Bestiary - Volume 1",
+    "BookPublisher": "The Merry Mushmen",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "October 2022",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "OSE",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Bestiary",
+    "BookFormat": "Hardback",
+    "BookSeries": "OSE - Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\OSE - Supplements\\A Folklore Bestiary - Volume 1.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Axian Library",
+  "BookShortName": "Axian Library",
+  "BookPublisher": "Axian Spice",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Giuseppe Rotondo",
+  "BookPublished": "2021",
+  "BookCover": "",
+  "BookRules": "OSE",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "OSE",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "OSE - Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSE\\OSE - Adventures & Settings\\Axian Library.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Axian Library is a collection of five zines for Old-School Essentials and other old-school systems, featuring optional rules and dozens of tables to enhance your game.",
+    "The Five Zines:",
+    "Wondrous Weavings Warped and Weird: an alternate arcane magic system inspired by how magic works in the stories by Jack Vance and Fritz Leiber. More than a little inspiration comes from fairy tales and folklore too. Includes ritual casting, a vancian system with built-in risk/reward mechanism, and two hundred magical mishaps and a heap of arcane wonders for your game.",
+    "Mysteriously Missing and Merrily Met: a set of optional tables to answer the question: \"Where have you been?\", for when a player misses a session, explaining where their character has been and what they've been doing, with three different types of situations:",
+    "Last Seen in Town",
+    "Last Seen in the Wilderness",
+    "Last Seen in the Dungeon.",
+    "Notable Novices and Notorious Newcomers: a set of three optional tables:",
+    "Who Are You?, which gives a reason why the party quickly welcomes a new party member, such as when a replacement character is rolled mid-session.",
+    "What's Your Story?, which provides the previous adventuring career of a freshly rolled character that is level 2 or higher.",
+    "The Looted Items table, providing the magic items they've looted during such adventures, and has different columns based on character class.",
+    "Pious Prayers and Powerful Prodigies: an alternate divine magic system inspired by ancient and medieval religious traditions, complete with optional rules for prayers, magical research, scrolls and religious rituals, and an integrated system of divine disappointment and wrath, including tables with curses and quests divine casters might have to face to please their deities.",
+    "Deadly Dragons Dire and Daunting:  a host of tables and tools to make each dragon unique: their physical features and appearance, powers, secret weakness, interesting treasure hoard (with its own backstory!), lair peculiarities, motivations, fears and desires, enemies and allies, and quests and hooks involving the beast.",
+    ",Note that while the Wondrous Weavings Warped and Weird, Mysteriously Missing and Merrily Met, and Notable Novices and Notorious Newcomers_zines are available as Pay What You Want,  the versions inside _Axian Library are greatly revised and expanded.",
+    "The Pious Prayers and Powerful Prodigies and Deadly Dragons Dire and Daunting zines are exclusive to the Axian Library book!",
+    "The Axian Library PDF is fully bookmarked and includes internal links for maximum usability, allowing you to browse between the five zines and to specific sections."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]
