@@ -5,7 +5,7 @@ Imports System.Web
 Imports System.Formats.Tar
 
 Public Class Form1
-    Private rootFolderPath As String = "C:\Applications\GitHubs\MasterBookVault\Book Vault"
+    Private rootFolderPath As String = "D:\OneDrive\Master Vault\Extra Book Data\XML - Source files\Book Vault"
     Private bookDictionary As New Dictionary(Of String, Book)
 
     Private Async Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
