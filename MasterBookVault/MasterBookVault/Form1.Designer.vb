@@ -149,7 +149,7 @@ Partial Class Form1
         TextBoxPublicationYear.BackColor = SystemColors.Window
         TextBoxPublicationYear.BorderStyle = BorderStyle.None
         TextBoxPublicationYear.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxPublicationYear.Location = New Point(775, 789)
+        TextBoxPublicationYear.Location = New Point(130, 789)
         TextBoxPublicationYear.Name = "TextBoxPublicationYear"
         TextBoxPublicationYear.Size = New Size(315, 22)
         TextBoxPublicationYear.TabIndex = 5
@@ -160,9 +160,9 @@ Partial Class Form1
         PanelPdfLinks.BackColor = Color.FloralWhite
         PanelPdfLinks.BorderStyle = BorderStyle.Fixed3D
         PanelPdfLinks.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        PanelPdfLinks.Location = New Point(1115, 680)
+        PanelPdfLinks.Location = New Point(646, 680)
         PanelPdfLinks.Name = "PanelPdfLinks"
-        PanelPdfLinks.Size = New Size(477, 207)
+        PanelPdfLinks.Size = New Size(463, 463)
         PanelPdfLinks.TabIndex = 6
         ' 
         ' Panel1
@@ -177,7 +177,7 @@ Partial Class Form1
         ' PictureBox1
         ' 
         PictureBox1.BackColor = SystemColors.Window
-        PictureBox1.Location = New Point(1115, 37)
+        PictureBox1.Location = New Point(646, 37)
         PictureBox1.Name = "PictureBox1"
         PictureBox1.Size = New Size(477, 498)
         PictureBox1.SizeMode = PictureBoxSizeMode.Zoom
@@ -189,7 +189,7 @@ Partial Class Form1
         Label1.AutoSize = True
         Label1.BackColor = SystemColors.Window
         Label1.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label1.Location = New Point(674, 789)
+        Label1.Location = New Point(29, 789)
         Label1.Name = "Label1"
         Label1.Size = New Size(90, 21)
         Label1.TabIndex = 9
@@ -200,7 +200,7 @@ Partial Class Form1
         TextBoxISBN.BackColor = SystemColors.Window
         TextBoxISBN.BorderStyle = BorderStyle.None
         TextBoxISBN.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxISBN.Location = New Point(775, 761)
+        TextBoxISBN.Location = New Point(130, 761)
         TextBoxISBN.Name = "TextBoxISBN"
         TextBoxISBN.Size = New Size(315, 22)
         TextBoxISBN.TabIndex = 10
@@ -210,7 +210,7 @@ Partial Class Form1
         Label2.AutoSize = True
         Label2.BackColor = SystemColors.Window
         Label2.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label2.Location = New Point(674, 762)
+        Label2.Location = New Point(29, 762)
         Label2.Name = "Label2"
         Label2.Size = New Size(51, 21)
         Label2.TabIndex = 11
@@ -221,7 +221,7 @@ Partial Class Form1
         TextBoxCode.BackColor = SystemColors.Window
         TextBoxCode.BorderStyle = BorderStyle.None
         TextBoxCode.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxCode.Location = New Point(775, 702)
+        TextBoxCode.Location = New Point(130, 702)
         TextBoxCode.Name = "TextBoxCode"
         TextBoxCode.Size = New Size(315, 22)
         TextBoxCode.TabIndex = 12
@@ -231,7 +231,7 @@ Partial Class Form1
         TextBoxPublisher.BackColor = SystemColors.Window
         TextBoxPublisher.BorderStyle = BorderStyle.None
         TextBoxPublisher.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxPublisher.Location = New Point(775, 733)
+        TextBoxPublisher.Location = New Point(130, 733)
         TextBoxPublisher.Name = "TextBoxPublisher"
         TextBoxPublisher.Size = New Size(315, 22)
         TextBoxPublisher.TabIndex = 13
@@ -241,7 +241,7 @@ Partial Class Form1
         Label3.AutoSize = True
         Label3.BackColor = SystemColors.Window
         Label3.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label3.Location = New Point(674, 734)
+        Label3.Location = New Point(29, 734)
         Label3.Name = "Label3"
         Label3.Size = New Size(87, 21)
         Label3.TabIndex = 14
@@ -253,7 +253,7 @@ Partial Class Form1
         Label5.AutoSize = True
         Label5.BackColor = SystemColors.Window
         Label5.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label5.Location = New Point(674, 817)
+        Label5.Location = New Point(29, 817)
         Label5.Name = "Label5"
         Label5.Size = New Size(86, 21)
         Label5.TabIndex = 16
@@ -264,7 +264,7 @@ Partial Class Form1
         TextBoxRules.BackColor = SystemColors.Window
         TextBoxRules.BorderStyle = BorderStyle.None
         TextBoxRules.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxRules.Location = New Point(775, 882)
+        TextBoxRules.Location = New Point(130, 882)
         TextBoxRules.Name = "TextBoxRules"
         TextBoxRules.Size = New Size(315, 22)
         TextBoxRules.TabIndex = 17
@@ -274,7 +274,7 @@ Partial Class Form1
         Label6.AutoSize = True
         Label6.BackColor = SystemColors.Window
         Label6.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label6.Location = New Point(674, 883)
+        Label6.Location = New Point(29, 883)
         Label6.Name = "Label6"
         Label6.Size = New Size(55, 21)
         Label6.TabIndex = 18
@@ -285,7 +285,7 @@ Partial Class Form1
         TextBoxEdition.BackColor = SystemColors.Window
         TextBoxEdition.BorderStyle = BorderStyle.None
         TextBoxEdition.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxEdition.Location = New Point(775, 910)
+        TextBoxEdition.Location = New Point(130, 910)
         TextBoxEdition.Name = "TextBoxEdition"
         TextBoxEdition.Size = New Size(315, 22)
         TextBoxEdition.TabIndex = 19
@@ -295,7 +295,7 @@ Partial Class Form1
         Label7.AutoSize = True
         Label7.BackColor = SystemColors.Window
         Label7.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label7.Location = New Point(674, 911)
+        Label7.Location = New Point(29, 911)
         Label7.Name = "Label7"
         Label7.Size = New Size(69, 21)
         Label7.TabIndex = 20
@@ -306,7 +306,7 @@ Partial Class Form1
         TextBoxPhysical.BackColor = SystemColors.Window
         TextBoxPhysical.BorderStyle = BorderStyle.None
         TextBoxPhysical.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxPhysical.Location = New Point(775, 1051)
+        TextBoxPhysical.Location = New Point(130, 1051)
         TextBoxPhysical.Name = "TextBoxPhysical"
         TextBoxPhysical.Size = New Size(120, 22)
         TextBoxPhysical.TabIndex = 21
@@ -316,7 +316,7 @@ Partial Class Form1
         TextBoxOwnedPDF.BackColor = SystemColors.Window
         TextBoxOwnedPDF.BorderStyle = BorderStyle.None
         TextBoxOwnedPDF.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxOwnedPDF.Location = New Point(983, 1050)
+        TextBoxOwnedPDF.Location = New Point(338, 1050)
         TextBoxOwnedPDF.Name = "TextBoxOwnedPDF"
         TextBoxOwnedPDF.Size = New Size(107, 22)
         TextBoxOwnedPDF.TabIndex = 22
@@ -326,7 +326,7 @@ Partial Class Form1
         Label8.AutoSize = True
         Label8.BackColor = SystemColors.Window
         Label8.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label8.Location = New Point(674, 1051)
+        Label8.Location = New Point(29, 1051)
         Label8.Name = "Label8"
         Label8.Size = New Size(77, 21)
         Label8.TabIndex = 23
@@ -337,7 +337,7 @@ Partial Class Form1
         Label9.AutoSize = True
         Label9.BackColor = SystemColors.Window
         Label9.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label9.Location = New Point(933, 1051)
+        Label9.Location = New Point(288, 1051)
         Label9.Name = "Label9"
         Label9.Size = New Size(44, 21)
         Label9.TabIndex = 24
@@ -351,7 +351,7 @@ Partial Class Form1
         WebView2Description.DefaultBackgroundColor = Color.White
         WebView2Description.Location = New Point(13, 37)
         WebView2Description.Name = "WebView2Description"
-        WebView2Description.Size = New Size(1090, 587)
+        WebView2Description.Size = New Size(627, 587)
         WebView2Description.TabIndex = 25
         WebView2Description.ZoomFactor = 1R
         ' 
@@ -360,7 +360,7 @@ Partial Class Form1
         Label10.AutoSize = True
         Label10.BackColor = SystemColors.Window
         Label10.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label10.Location = New Point(1115, 656)
+        Label10.Location = New Point(646, 656)
         Label10.Name = "Label10"
         Label10.Size = New Size(87, 21)
         Label10.TabIndex = 26
@@ -383,7 +383,7 @@ Partial Class Form1
         ListBoxBooksToSource.ItemHeight = 15
         ListBoxBooksToSource.Location = New Point(2171, 108)
         ListBoxBooksToSource.Name = "ListBoxBooksToSource"
-        ListBoxBooksToSource.Size = New Size(400, 334)
+        ListBoxBooksToSource.Size = New Size(400, 364)
         ListBoxBooksToSource.TabIndex = 28
         ' 
         ' ListBoxBooksOnOrder
@@ -394,14 +394,14 @@ Partial Class Form1
         ListBoxBooksOnOrder.ItemHeight = 15
         ListBoxBooksOnOrder.Location = New Point(2171, 858)
         ListBoxBooksOnOrder.Name = "ListBoxBooksOnOrder"
-        ListBoxBooksOnOrder.Size = New Size(400, 154)
+        ListBoxBooksOnOrder.Size = New Size(400, 244)
         ListBoxBooksOnOrder.TabIndex = 29
         ' 
         ' Label11
         ' 
         Label11.AutoSize = True
         Label11.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label11.Location = New Point(13, 6)
+        Label11.Location = New Point(13, 11)
         Label11.Name = "Label11"
         Label11.Size = New Size(203, 21)
         Label11.TabIndex = 30
@@ -411,7 +411,7 @@ Partial Class Form1
         ' 
         Label12.AutoSize = True
         Label12.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label12.Location = New Point(13, 386)
+        Label12.Location = New Point(13, 400)
         Label12.Name = "Label12"
         Label12.Size = New Size(181, 21)
         Label12.TabIndex = 31
@@ -421,7 +421,7 @@ Partial Class Form1
         ' 
         Label13.AutoSize = True
         Label13.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label13.Location = New Point(13, 755)
+        Label13.Location = New Point(13, 761)
         Label13.Name = "Label13"
         Label13.Size = New Size(201, 21)
         Label13.TabIndex = 32
@@ -435,7 +435,7 @@ Partial Class Form1
         ListBoxPDFToSource.ItemHeight = 15
         ListBoxPDFToSource.Location = New Point(13, 424)
         ListBoxPDFToSource.Name = "ListBoxPDFToSource"
-        ListBoxPDFToSource.Size = New Size(400, 319)
+        ListBoxPDFToSource.Size = New Size(400, 334)
         ListBoxPDFToSource.TabIndex = 33
         ' 
         ' TextBoxSetting
@@ -443,7 +443,7 @@ Partial Class Form1
         TextBoxSetting.BackColor = SystemColors.Window
         TextBoxSetting.BorderStyle = BorderStyle.None
         TextBoxSetting.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxSetting.Location = New Point(775, 938)
+        TextBoxSetting.Location = New Point(130, 938)
         TextBoxSetting.Name = "TextBoxSetting"
         TextBoxSetting.Size = New Size(315, 22)
         TextBoxSetting.TabIndex = 34
@@ -453,7 +453,7 @@ Partial Class Form1
         Label14.AutoSize = True
         Label14.BackColor = SystemColors.Window
         Label14.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label14.Location = New Point(674, 939)
+        Label14.Location = New Point(29, 939)
         Label14.Name = "Label14"
         Label14.Size = New Size(69, 21)
         Label14.TabIndex = 35
@@ -464,7 +464,7 @@ Partial Class Form1
         TextBoxType.BackColor = SystemColors.Window
         TextBoxType.BorderStyle = BorderStyle.None
         TextBoxType.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxType.Location = New Point(775, 966)
+        TextBoxType.Location = New Point(130, 966)
         TextBoxType.Name = "TextBoxType"
         TextBoxType.Size = New Size(315, 22)
         TextBoxType.TabIndex = 36
@@ -474,7 +474,7 @@ Partial Class Form1
         Label15.AutoSize = True
         Label15.BackColor = SystemColors.Window
         Label15.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label15.Location = New Point(674, 967)
+        Label15.Location = New Point(29, 967)
         Label15.Name = "Label15"
         Label15.Size = New Size(50, 21)
         Label15.TabIndex = 37
@@ -485,7 +485,7 @@ Partial Class Form1
         TextBoxFormat.BackColor = SystemColors.Window
         TextBoxFormat.BorderStyle = BorderStyle.None
         TextBoxFormat.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxFormat.Location = New Point(775, 994)
+        TextBoxFormat.Location = New Point(130, 994)
         TextBoxFormat.Name = "TextBoxFormat"
         TextBoxFormat.Size = New Size(315, 22)
         TextBoxFormat.TabIndex = 38
@@ -495,7 +495,7 @@ Partial Class Form1
         TextBoxSeries.BackColor = SystemColors.Window
         TextBoxSeries.BorderStyle = BorderStyle.None
         TextBoxSeries.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxSeries.Location = New Point(775, 1022)
+        TextBoxSeries.Location = New Point(130, 1022)
         TextBoxSeries.Name = "TextBoxSeries"
         TextBoxSeries.Size = New Size(315, 22)
         TextBoxSeries.TabIndex = 39
@@ -505,7 +505,7 @@ Partial Class Form1
         Label16.AutoSize = True
         Label16.BackColor = SystemColors.Window
         Label16.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label16.Location = New Point(674, 1023)
+        Label16.Location = New Point(29, 1023)
         Label16.Name = "Label16"
         Label16.Size = New Size(59, 21)
         Label16.TabIndex = 40
@@ -516,7 +516,7 @@ Partial Class Form1
         Label17.AutoSize = True
         Label17.BackColor = SystemColors.Window
         Label17.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label17.Location = New Point(674, 995)
+        Label17.Location = New Point(29, 995)
         Label17.Name = "Label17"
         Label17.Size = New Size(68, 21)
         Label17.TabIndex = 41
@@ -538,7 +538,7 @@ Partial Class Form1
         TextBoxAuthor.BackColor = SystemColors.Window
         TextBoxAuthor.BorderStyle = BorderStyle.None
         TextBoxAuthor.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxAuthor.Location = New Point(775, 817)
+        TextBoxAuthor.Location = New Point(130, 817)
         TextBoxAuthor.Name = "TextBoxAuthor"
         TextBoxAuthor.ScrollBars = RichTextBoxScrollBars.Vertical
         TextBoxAuthor.Size = New Size(315, 59)
@@ -551,9 +551,9 @@ Partial Class Form1
         ListBoxTOC.FormattingEnabled = True
         ListBoxTOC.HorizontalScrollbar = True
         ListBoxTOC.ItemHeight = 17
-        ListBoxTOC.Location = New Point(13, 680)
+        ListBoxTOC.Location = New Point(1131, 37)
         ListBoxTOC.Name = "ListBoxTOC"
-        ListBoxTOC.Size = New Size(627, 463)
+        ListBoxTOC.Size = New Size(461, 582)
         ListBoxTOC.TabIndex = 44
         ' 
         ' Label4
@@ -561,7 +561,7 @@ Partial Class Form1
         Label4.AutoSize = True
         Label4.BackColor = SystemColors.Window
         Label4.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label4.Location = New Point(674, 702)
+        Label4.Location = New Point(29, 702)
         Label4.Name = "Label4"
         Label4.Size = New Size(53, 21)
         Label4.TabIndex = 45
@@ -572,7 +572,7 @@ Partial Class Form1
         ' 
         Label18.AutoSize = True
         Label18.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label18.Location = New Point(13, 656)
+        Label18.Location = New Point(1131, 11)
         Label18.Name = "Label18"
         Label18.Size = New Size(143, 21)
         Label18.TabIndex = 46
@@ -633,7 +633,7 @@ Partial Class Form1
         TextBoxCharLvl.BackColor = SystemColors.Window
         TextBoxCharLvl.BorderStyle = BorderStyle.None
         TextBoxCharLvl.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxCharLvl.Location = New Point(775, 1106)
+        TextBoxCharLvl.Location = New Point(130, 1106)
         TextBoxCharLvl.Name = "TextBoxCharLvl"
         TextBoxCharLvl.Size = New Size(315, 22)
         TextBoxCharLvl.TabIndex = 48
@@ -643,7 +643,7 @@ Partial Class Form1
         Label26.AutoSize = True
         Label26.BackColor = SystemColors.Window
         Label26.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label26.Location = New Point(675, 1107)
+        Label26.Location = New Point(30, 1107)
         Label26.Name = "Label26"
         Label26.Size = New Size(54, 21)
         Label26.TabIndex = 53
@@ -654,7 +654,7 @@ Partial Class Form1
         Label20.AutoSize = True
         Label20.BackColor = SystemColors.Window
         Label20.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label20.Location = New Point(1115, 899)
+        Label20.Location = New Point(1115, 656)
         Label20.Name = "Label20"
         Label20.Size = New Size(96, 21)
         Label20.TabIndex = 52
@@ -665,7 +665,7 @@ Partial Class Form1
         TextBoxWikiEntry.BackColor = SystemColors.Window
         TextBoxWikiEntry.BorderStyle = BorderStyle.None
         TextBoxWikiEntry.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxWikiEntry.Location = New Point(775, 1078)
+        TextBoxWikiEntry.Location = New Point(130, 1078)
         TextBoxWikiEntry.Name = "TextBoxWikiEntry"
         TextBoxWikiEntry.Size = New Size(52, 22)
         TextBoxWikiEntry.TabIndex = 53
@@ -675,7 +675,7 @@ Partial Class Form1
         Label24.AutoSize = True
         Label24.BackColor = SystemColors.Window
         Label24.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label24.Location = New Point(675, 1079)
+        Label24.Location = New Point(30, 1079)
         Label24.Name = "Label24"
         Label24.Size = New Size(49, 21)
         Label24.TabIndex = 46
@@ -687,16 +687,16 @@ Partial Class Form1
         PanelMDLInks.BackColor = Color.FloralWhite
         PanelMDLInks.BorderStyle = BorderStyle.Fixed3D
         PanelMDLInks.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        PanelMDLInks.Location = New Point(1115, 923)
+        PanelMDLInks.Location = New Point(1115, 680)
         PanelMDLInks.Name = "PanelMDLInks"
-        PanelMDLInks.Size = New Size(477, 220)
+        PanelMDLInks.Size = New Size(477, 463)
         PanelMDLInks.TabIndex = 51
         ' 
         ' Label19
         ' 
         Label19.AutoSize = True
         Label19.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label19.Location = New Point(650, 656)
+        Label19.Location = New Point(11, 656)
         Label19.Name = "Label19"
         Label19.Size = New Size(63, 21)
         Label19.TabIndex = 50
@@ -706,9 +706,9 @@ Partial Class Form1
         ' 
         Panel3.BorderStyle = BorderStyle.Fixed3D
         Panel3.Controls.Add(TextBoxWikiPage)
-        Panel3.Location = New Point(656, 680)
+        Panel3.Location = New Point(11, 680)
         Panel3.Name = "Panel3"
-        Panel3.Size = New Size(453, 463)
+        Panel3.Size = New Size(629, 463)
         Panel3.TabIndex = 49
         ' 
         ' TextBoxWikiPage
@@ -718,7 +718,7 @@ Partial Class Form1
         TextBoxWikiPage.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
         TextBoxWikiPage.Location = New Point(175, 396)
         TextBoxWikiPage.Name = "TextBoxWikiPage"
-        TextBoxWikiPage.Size = New Size(257, 22)
+        TextBoxWikiPage.Size = New Size(447, 22)
         TextBoxWikiPage.TabIndex = 54
         ' 
         ' Panel4
@@ -742,16 +742,16 @@ Partial Class Form1
         ' 
         BookCountListBox.FormattingEnabled = True
         BookCountListBox.ItemHeight = 15
-        BookCountListBox.Location = New Point(13, 987)
+        BookCountListBox.Location = New Point(13, 1064)
         BookCountListBox.Name = "BookCountListBox"
-        BookCountListBox.Size = New Size(400, 139)
+        BookCountListBox.Size = New Size(400, 79)
         BookCountListBox.TabIndex = 50
         ' 
         ' Label21
         ' 
         Label21.AutoSize = True
         Label21.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label21.Location = New Point(13, 953)
+        Label21.Location = New Point(13, 1040)
         Label21.Name = "Label21"
         Label21.Size = New Size(103, 21)
         Label21.TabIndex = 33

@@ -16,31 +16,15 @@
 - GCP-SMP-4600 - Races & Cultures
 - ICE9003 - Aliens & Artifacts
 - ICE9004 - Space Master Companion II
-- ICE9100 - Future Law
 - ICE9101 - Action on Akaisha Outstation
 - ICE9102 - The Cygnus Conspiracy
-- ICE9200 - Tech Law
 - ICE9400 - Lost Telepaths - The Secret of House Kashmere
 - ICE9500 - Space Master Companion
-- ICE9000 - Space Master
-- ICE9010 - Star Strike
 - ICE9011 - Vessel Compendium 1 - Adventurer
 - ICE9012 - Vessel Compendium 2 - Pursuit Class
 - ICE9013 - Vessel Compendium 3 - Imperial Ships
-- ICE9020 - Armored Assault
-- ICE9021 - Armored Reserves
-- ICE9050 - Space Master Rulebook
 - ICE9103 - Tales from Deep Space
 - ICE9107 - Disaster on Adanis III, Rescue on a Contested World
-- ICE9001 - Combat Screen
-- SMD1 - Spacemaster Datanet 01
-- SMD2 - Spacemaster Datanet 02
-- SMD3 - Spacemaster Datanet 03
-- SMD4 - Spacemaster Datanet 04
-- SMD5 - Spacemaster Datanet 05
-- SMD6 - Spacemaster Datanet 06
-- SMD7 - Spacemaster Datanet 07
-- SMD8 - Spacemaster Datanet 08
 ## Schwalb Entertainment
 - SWW2401 - Shadow of the Weird Wizard
 - SWW2402 - Secrets of the Weird Wizard
@@ -82,6 +66,14 @@
 ## Iron Crown Enterprises
 - ICE9300 - Imperial Crisis House Devon in Turmoil
 - ICE9600 - Beyond the Core
+- SMD1 - Spacemaster Datanet 01
+- SMD2 - Spacemaster Datanet 02
+- SMD3 - Spacemaster Datanet 03
+- SMD4 - Spacemaster Datanet 04
+- SMD5 - Spacemaster Datanet 05
+- SMD6 - Spacemaster Datanet 06
+- SMD7 - Spacemaster Datanet 07
+- SMD8 - Spacemaster Datanet 08
 ## Schwalb Entertainment
 - SWW2414 - Weird Ancestries
 ## Digest Group Publications
