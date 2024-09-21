@@ -1,0 +1,74 @@
+[
+  {
+    "BookName": "TSR3100 - Birthright Campaign Setting",
+    "BookShortName": "Birthright Campaign Setting",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR3100",
+    "BookISBN": "",
+    "BookAuthor": "L. Richard Baker III & Colin McComb",
+    "BookPublished": "1995",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Birthright",
+    "BookType": "Campaign setting",
+    "BookFormat": "Box Set",
+    "BookSeries": "Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Birthright\\TSR3100 - Birthright Campaign Setting.pdf"
+    ],
+    "BookDescription": [
+      "A king stands in the hight turret of his castle, squinting at the distant hills. He can just make out the figures of his troops engaging the enemy in battle. As a damp breeze whips at his cloak, he contemplates the war. He has culled the best generals, captains, and troops from his land. His court wizard wields powers that unnerve even the most seasonal warriors. Can the forces he commands hold the enemy at bay? Or will the king awake at dawn to the pounding of battering rams and showers of deadly arrows?"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "TSR3101 - Blood Enemies - Abominations of Cerilia",
+  "BookShortName": "Blood Enemies - Abominations of Cerilia",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR3101",
+  "BookISBN": "0-7869-0156-X",
+  "BookAuthor": "slade",
+  "BookPublished": "1995",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Birthright",
+  "BookType": "Other Accessories",
+  "BookFormat": "Softback",
+  "BookSeries": "Other Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Birthright\\TSR3101 - Blood Enemies - Abominations of Cerilia.pdf"
+  ],
+  "BookDescription": [
+    "Cerilia: Where gods died and kings now rule with divine powers. Where dark powers contaminate flesh and blood, and evil shows its true visage in the abominations that stalk the land. Where monarchs both pure and corrupt clash over rulership of the BIRTHRIGHT campaign world!",
+    "This book, designed for the Dungeon Master, is a guided to the most dangerous creatures on the face of Cerilia: the awnsheghlien. Soveriegn rulers of their own realms, these dark creatures wield their power with iron fists, and many seek to tear more power from weaker leaders.",
+    "These pages of monstrous dictators and wandering nightmares will strike fear into the hearts of all blooded rulers from the Sea of Storms to the Isle of the Serpent!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

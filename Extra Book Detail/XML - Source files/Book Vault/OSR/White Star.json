@@ -1,0 +1,110 @@
+[
+  {
+    "BookName": "White Star - White Box Science Fiction Roleplaying",
+    "BookShortName": "White Star - White Box Science Fiction Roleplaying",
+    "BookPublisher": "Gallant Knight Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "James M. Spahn",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Swords & Wizardry",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "White Star",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebook",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\White Star\\White Star Digital Edition.pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\White Star\\White Star Digital Edition - Character Sheet Interactive.pdf"
+    ],
+    "BookDescription": [
+      "Whether a noble Star Knight protecting the universe from galactic tyranny, a hot shot pilot in the cockpit of the fastest stunt fighter in space, or an enigmatic Alien Mystic, classic science fiction adventure awaits you with White Star: White Box Science Fiction Roleplaying.",
+      "Based on Swords & Wizardry WhiteBox, White Star brings all the simple elegance  of WhiteBox out of the dungeon and into the stars! This complete roleplaying game includes seven new classes as well as rules for advanced technology, laser weaponry, space combat, and so much more!",
+      "So ready your star sword and fire up your faster-than-light drive! A galaxy full of thrilling heroics is at your fingertips with White Star: White Box Science Fiction Roleplaying."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "White Star Companion",
+  "BookShortName": "White Star Companion",
+  "BookPublisher": "Gallant Knight Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "James M. Spahn",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "White Star",
+  "BookType": "Companion",
+  "BookFormat": "",
+  "BookSeries": "Companion",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\White Star\\White Star Companion.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "White Star Galaxy Edition",
+  "BookShortName": "White Star Galaxy Edition",
+  "BookPublisher": "Gallant Knight Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "James M. Spahn",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Galaxy Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "White Star",
+  "BookType": "Rulebook",
+  "BookFormat": "Softcover",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\White Star\\White Star Galaxy Edition.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

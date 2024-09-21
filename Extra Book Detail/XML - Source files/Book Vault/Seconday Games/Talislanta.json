@@ -1,0 +1,142 @@
+[
+  {
+    "BookName": "EPICTAL-PG - Talislanta - Player’s Guide",
+    "BookShortName": "Talislanta - Player’s Guide",
+    "BookPublisher": "Everything Epic Games LLC",
+    "BookCode": "EPICTAL-PG",
+    "BookISBN": "",
+    "BookAuthor": "Steve Sechi, Chris Batarlis",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "Epic Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Talislanta\\Epic Edition\\EPICTAL-PG - Talislanta - Player’s Guide.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "EPICTAL-AGM - Talislanta - Atlas & GMs Guide",
+  "BookShortName": "Talislanta - Atlas & GMs Guide",
+  "BookPublisher": "Everything Epic Games LLC",
+  "BookCode": "EPICTAL-AGM",
+  "BookISBN": "",
+  "BookAuthor": "Steve Sechi, Chris Batarlis",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Epic Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Talislanta\\Epic Edition\\EPICTAL-AGM - Talislanta - Atlas & GMs Guide.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TALEPIC-BES - Talislanta - Bestiary",
+  "BookShortName": "Talislanta - Bestiary",
+  "BookPublisher": "Everything Epic Games LLC",
+  "BookCode": "TALEPIC-BES",
+  "BookISBN": "",
+  "BookAuthor": "Steve Sechi, Chris Batarlis",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Epic Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Talislanta\\Epic Edition\\TALEPIC-BES - Talislanta - Bestiary.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "EPICTAL-5E - Talislanta - 5E Conversion - Archetypes-Bestiary",
+  "BookShortName": "Talislanta - 5E Conversion - Archetypes-Bestiary",
+  "BookPublisher": "Everything Epic Games LLC",
+  "BookCode": "EPICTAL-5E",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Epic Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Talislanta\\Epic Edition\\EPICTAL-5E - Talislanta - 5E Conversion - Archetypes-Bestiary.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

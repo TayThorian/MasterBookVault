@@ -1,0 +1,26 @@
+[
+ {
+   "Name": "Chevic's Tracer",
+   "DnDClass": "Wizard",
+   "Level": 4,
+   "LevelName": "4th Level Spell",
+   "School": "Divination/Alteration",
+   "Range": "Touch",
+   "Save": "Neg.",
+   "Duration": "Permanent",
+   "Components": "V, M",
+   "AoE": "One person",
+   "CastingTime": 7,
+   "SubField": "Mentalism",
+   "SourceShort": "TSR9540",
+   "SourceLong": "TSR9540 - How the Mighty Are Fallen",
+   "Page": 56,
+   "Vault": "Yes",
+   "First Letter": "C",
+   "SpellDescription": [
+   "The <em>tracer</em> spell was designed by a bounty-hunting arcanist who was tired of running into a mark and having them escape at the last second, only to have to hunt them down again. The spell he designed allowed him to spot a target and place a dweomer on the victim. Once the <em>tracer</em> was set, Chevic was able to teleport to within 10 feet of the victim in order to try and bring the criminal in to face justice.",
+   "Up to one <em>tracer</em> can be placed on the victim for every five levels of the spell caster. By simply willing it, the arcanist is able to \"break\" the <em>tracer</em>, freeing up a spell for yet another bounty target. The spell requires vocal components as well as a cube of lodestone."
+   ],
+   "Edition": "2E"
+ }
+]

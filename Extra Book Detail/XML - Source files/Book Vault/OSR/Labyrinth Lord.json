@@ -1,0 +1,221 @@
+[
+  {
+    "BookName": "GBD1003 - Advanced Labyrinth Lord",
+    "BookShortName": "Advanced Labyrinth Lord",
+    "BookPublisher": "Goblinoid Games",
+    "BookCode": "GBD1003",
+    "BookISBN": "",
+    "BookAuthor": "Daniel Proctor",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Labyrinth Lord",
+    "BookEdition": "Advanced",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Labyrinth Lord",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Labyrinth Lord\\GBD1003 - Advanced Labyrinth Lord (orcus cover).pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\Labyrinth Lord\\GBD1003 - Advanced Labyrinth Lord (dragon cover).pdf"
+    ],
+    "BookDescription": [
+      "We're older now. It's hard enough setting aside time to game.",
+      "Then you have to wrangle all your players together at the same time.",
+      "The last thing you want is your hard-fought game time wasted.",
+      "Combats in Labyrinth Lord are resolved quickly. Running adventures isn't bogged down with bloated monster stats and overcomplicated combats.",
+      "Get right into the fun stuff, squeezing the most adventure out of your time.",
+      "Play the game on your own terms. Most of us started out with the basic game, working in advanced elements without even realizing basic and advanced were supposed to be two different games. We all might have created our own Frankenstein's monster of rules in slightly different ways, but Labyrinth Lord lets you play the game the way you want it.",
+      "If you want to keep basic classes, you can, and play them right along with the advanced classes. Or just use the advanced options. Pick and choose what you want to place in your game on your own terms."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "GBD1001 - Labyrinth Lord Revised Edition",
+  "BookShortName": "Labyrinth Lord Revised Edition",
+  "BookPublisher": "Goblinoid Games",
+  "BookCode": "GBD1001",
+  "BookISBN": "",
+  "BookAuthor": "Daniel Proctor",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Labyrinth Lord",
+  "BookEdition": "Revised Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Labyrinth Lord",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Labyrinth Lord\\GBD1001 - Labyrinth Lord Revised Edition.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Labyrinth Lord\\GBD1001 - Labyrinth Lord - no art.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GBD1002 - Advanced Edition Companion",
+  "BookShortName": "Advanced Edition Companion",
+  "BookPublisher": "Goblinoid Games",
+  "BookCode": "GBD1002",
+  "BookISBN": "",
+  "BookAuthor": "Daniel Proctor",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Labyrinth Lord",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Labyrinth Lord",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Labyrinth Lord\\GBD1002 - Advanced Edition Companion.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Labyrinth Lord\\GBD1002 - Advanced Edition Companion - no art.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Labyrinth Lord",
+  "BookShortName": "Labyrinth Lord",
+  "BookPublisher": "Goblinoid Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Daniel Proctor",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Labyrinth Lord",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Labyrinth Lord",
+  "BookType": "Rulebook",
+  "BookFormat": "Paperback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Labyrinth Lord\\Labyrinth Lord 1e.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GGLLM1 - Module 1 - Idol of the Orcs",
+  "BookShortName": "Module 1 - Idol of the Orcs",
+  "BookPublisher": "Goblinoid Games",
+  "BookCode": "GGLLM1",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Labyrinth Lord",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "",
+  "BookOwnedPDF": "",
+  "BookLibrary": "Yes",
+  "BookSetting": "Labyrinth Lord",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Labyrinth Lord\\GGLLM1 - Module 1 - Idol of the Orcs.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "ll003 - Original Edition Characters",
+  "BookShortName": "Original Edition Characters",
+  "BookPublisher": "Goblinoid Games",
+  "BookCode": "ll003",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Labyrinth Lord",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "",
+  "BookOwnedPDF": "",
+  "BookLibrary": "Yes",
+  "BookSetting": "Labyrinth Lord",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Labyrinth Lord\\ll003 - Original Edition Characters.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

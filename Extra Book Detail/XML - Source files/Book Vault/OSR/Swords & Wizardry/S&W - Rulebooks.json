@@ -1,0 +1,257 @@
+[
+  {
+    "BookName": "Swords & Wizardry - Complete Revised",
+    "BookShortName": "Swords & Wizardry - Complete Revised",
+    "BookPublisher": "Mythmere Games",
+    "BookCode": "",
+    "BookISBN": "979-8-88584-002-6",
+    "BookAuthor": "Matt Finch",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Swords & Wizardry",
+    "BookEdition": "Complete Revised",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised.pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Cleric Digital Spellbook.pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Druid Digital Spellbook.pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Magic User Digital Spellbook.pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Referee Screen Inserts - Landscape.pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Referee Screen Inserts - Portrait.pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\SW_Character_Reference_Sheets.pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\SW_Character_Sheet_2023.pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\SW_Referee_Log_2023.pdf"
+    ],
+    "BookDescription": [
+      "Swords & Wizardry is the ENNIE award-winning retro-clone of the original 1974-1978 rules for Dungeons & Dragons*, an edition usually called Original D&D or \"OD&D.\"",
+      "This is a complete game, with rules for character generation, monsters, magic items, encounter tables -- the whole works. It is non-OGL: the original game is re-created using the creative commons grant from Wizards of the Coast, and will have a third-party publisher license once we decide whether to use the ORC license or a different third-party license.",
+      "This version includes several additions and revisions to earlier versions. The \"random castles\" material is added, morale rules are added, and spell research rules are added. The treasure tables are revamped, and errata from earlier versions is now incorporated into the book."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Swords & Wizardry - Complete Rulebook",
+  "BookShortName": "Swords & Wizardry - Complete Rulebook",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "978-1-62283-958-2",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "2020",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Rulebook",
+  "BookFormat": "Softcover",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords & Wizardry - Complete Rulebook (3rd print).pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords & Wizardry - Complete Rulebook.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Swords & Wizardry - Core Rules",
+  "BookShortName": "Swords & Wizardry - Core Rules",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Core Rules",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Rulebook",
+  "BookFormat": "Softcover",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Core Rules - Fourth Print.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Core Rules - Third Print.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Core Rules - Second Print.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Core Rules - First Print.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Swords & Wizardry Complete Box Set",
+  "BookShortName": "Swords & Wizardry Complete Box Set",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "2020",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Swords & Wizardry",
+  "BookType": "Rulebook",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Player Book.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Referee Book.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Monsters.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Spells & Magic.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Equipment Kits.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Spellbooks\\SW Box Cleric Spellbook.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Spellbooks\\SW Box Druid Spellbook.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Spellbooks\\SW Box Magic User Spellbook.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Spell Cards\\SW Box Cleric Spell Cards.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Spell Cards\\SW Box Druid Spell Cards.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry Complete Box Set\\Swords & Wizardry Box Extras\\Swords & Wizardry Box Spell Cards\\SW Box Magic User Spell Cards.pdf"
+  ],
+  "BookDescription": [
+    "Swords & Wizardry Complete Box Set is more than a re-statement of the original rules that gave rise to 5e. It is fast-playing, easy to start, and easy to learn by anyone. Swords & Wizardry is a snapshot of the rules as they existed in 1978 right before “first edition” was released. The fifth edition game currently played, watched, and beloved by millions is great fun, but the structure of the rules has changed over the course of editions, and there’s a unique feel to the earlier versions of the game which you may not have encountered before.",
+    "This box set presents the full expansion of the Swords & Wizardry Rules, covering all of the early-phase supplements from the 1970s. It creates a four-book resource, allowing players and game masters alike to create and run adventures and campaigns that will last for an entire lifetime. The game is supported by a vast array of adventures and other resources that are produced by Frog God Games. The box set includes:",
+    "Player Book",
+    "Spells & Magic book",
+    "Monsters book",
+    "Referee Book",
+    "Character Sheets",
+    "Dice(!)",
+    "Bookmark",
+    "This is the game as it was played 40 years ago. It is true to the original style and philosophy that made the game great. No “Spot Checks” here — just simple, flexible rules that allow players and game masters alike to roll play and roleplay. This stand-alone box set provides all the rules you need to play the game. It is easily transferable as a rules set for other retro-clone games, as well as those old dusty modules you may still have in the attic. The rulebooks within the box are presented in digest form, just like the original booklets they commemorate."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Swords and Wizardry Whitebox Rules",
+  "BookShortName": "Swords and Wizardry Whitebox Rules",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Whitebox Rules",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Whitebox Rules",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\White Box - 4th Print.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\Whitebox - 3rd Print.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\Whitebox - 2nd Print.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\Whitebox - 1st Print.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Swords and Wizardry Whitebox Rules",
+  "BookShortName": "Swords and Wizardry Whitebox Rules",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Whitebox Rules",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Whitebox Rules",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\White Box - 4th Print.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\Whitebox - 3rd Print.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\Whitebox - 2nd Print.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\Whitebox - 1st Print.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

@@ -1,0 +1,523 @@
+[
+  {
+  "BookName": "TLG80110 - Players Handbook",
+  "BookShortName": "Players Handbook",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80110",
+  "BookISBN": "978-1-952379-36-9",
+  "BookAuthor": "Davis Chenault, Mac Golden",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "10th Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80110 - Players Handbook.pdf"
+  ],
+  "BookDescription": [
+    "A pillar of the table top RPG industry, Castles & Crusades captures the essence of fantasy role playing and embodies the spirit of table top gamer of all stripes. With a versatile rule system and familiar playing field, the C&C Players Handbook has all you need to get started in a wild ride of adventure!",
+    "It’s easy to learn attribute-based rules system allows players to choose among 13 archetypal character classes and 7 races to create their characters. Spells, equipment, fast-paced combat rules, and all essential information needed to play a game of Castles & Crusades is in this book."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80115 - Monsters & Treasure",
+  "BookShortName": "Monsters & Treasure",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80115",
+  "BookISBN": "978-1-944135-83-6",
+  "BookAuthor": "Robert Doyel, Stephen Chenault",
+  "BookPublished": "2019",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80115 - Monsters & Treasure.pdf"
+  ],
+  "BookDescription": [
+    "Beasts of legend and myth, monsters great and small, these are the minstrel’s fare: dragons, giants, orcs, foul-minded fey, the dreaded hydra, the riddling sphynx, the naga, wyverns, griffons and so very much more.",
+    "Monsters & Treasure contains over 400 monsters for your Castles & Crusades game. Each entry consists of an in-depth description of the monster, along with its nature, habits, the territories they occupy, their predilections, and all other relevant material. Each entry contains all the statistical information required to run the monster at any game table.",
+    "Including mountains of treasure, both magical and mundane, as well as how to roleplay monsters, handling combat with monsters, creating monsters and defining and awarding treasures.",
+    "Contained within this book is a wealth of information for the Castle Keeper. Along with the monsters and are hundreds of unique treasure items, advice on roleplaying monsters, handling combat with monsters, creating monsters, rules for awarding treasures and creating magic items.",
+    "Beasts of legend and myth, monsters great and small, these are the minstrel’s fare: dragons, giants, orcs, foul-minded fey, the dreaded hydra, the riddling sphynx, the naga, wyverns, griffons and so very much more."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80154 - Castle Keepers Guide",
+  "BookShortName": "Castle Keepers Guide",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80154",
+  "BookISBN": "978-1-952379-48-2",
+  "BookAuthor": "Davis Chenault, Stephen Chenault",
+  "BookPublished": "2021",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "4th Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80154 - Castle Keepers Guide.pdf"
+  ],
+  "BookDescription": [
+    "The Castle Keepers Guide includes a host of new material for the role playing enthusiast; from world creation, to dungeon designs, managing non-player characters, character attributes at high levels, spell use and cost, equipment its use and wastage, the tumult of storms, from warfare to combat, monsters, treasure, death and more. The Castle Keepers Guide provides the CK and the Player with a host of new tools for their use; tools designed to enhance play, not hinder it; designed to be malleable from gaming table to gaming table."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG81421 - Adventurers Spellbook",
+  "BookShortName": "Adventurers Spellbook",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG81421",
+  "BookISBN": "978-1-952379-37-6",
+  "BookAuthor": "",
+  "BookPublished": "2021",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Spell Book",
+  "BookFormat": "Hardback",
+  "BookSeries": "Spell Book",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG81421 -  Adventurers Spellbook.pdf"
+  ],
+  "BookDescription": [
+    "The heart and soul of the magic system in Castles & Crusades are the spells. And now, for the first time we have gathered the spells or C&C into one place. From a wide variety of sources, we have compiled them all in one place. They come from the Players Handbook, Adventurers Backpack, Players Guide to Aihrde, Amazing Adventures, Hallowed Oracle Players Guide & Elemental Spells! A mountainous collection for all the spellcasters",
+    "You will also find a complete collection of all the Codices of Rune Spells within these pages, from the Shadow Runes to the Four Pillars. They are all here. Over 200 new spells for your Rune Mark and Castles & Crusades game!",
+    "It also includes the tables and information on the oft discussed but hard to find Chromatic Mage!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80181 - Adventurers Backpack",
+  "BookShortName": "Adventurers Backpack",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80181",
+  "BookISBN": "978-1-944135-49-2",
+  "BookAuthor": "Stephen Chenault",
+  "BookPublished": "2021",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Supplement",
+  "BookFormat": "Hardback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80181 - Adventurers Backpack.pdf"
+  ],
+  "BookDescription": [
+    "The Adventures Backpack is the first major book that focuses largely on player content for Castles & Crusades since the release of the Players Handbook. It brings a mountain of NEW material to your gaming table. Within this full color, hardcover book you will find:",
+    "13 new classes",
+    "New Non-derivative spells",
+    "A new approach on counter spells and canceling spells",
+    "34 different backpacks offerings an easier and faster way to equip",
+    "A fresh easier to use approach to Unarmed Combat",
+    "Magic Items for classes who have few to choose from",
+    "A look at the Archetype",
+    "The End Game, why old characters never die",
+    "A whole new renaissance has begun, with years-worth of C&C content at your fingertips."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8075 - Mortality of Green",
+  "BookShortName": "Mortality of Green",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8075",
+  "BookISBN": "978-1-936822-75-1",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "C Series",
+  "BookCharacterLevel": "Levels 3 - 5",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8075 - Mortality of Green.pdf"
+  ],
+  "BookDescription": [
+    "Tis said of that ancient brooding forest that even before the world grew accustomed to the light of day, that her stems were grown high and her eaves already dark and contemplative. If ever those ancient trees have pondered, however, then it was in silent expectancy, brooding on a bent that only they and perhaps a few others may know, for it has never been theirs to speak with vocal tongue. Mayhap they ponder simple things, or maybe they wonder on the many creatures which have come to crawl the earth since those days before days, for all manner of beasts and monsters have come from the outlands to slip into obscurity underneath the shadowy vale of the Darkenfold.",
+    "Mortality of Green includes an area map of the Darkenfold forest, information on the villages of Ends Meet and Greenbriar, handouts for the players, and new monsters for the Referee. The module is designed for and easily accommodates into any campaign setting, including the Winter Dark Campaign Setting. It is especially good for a single nights play.",
+    "Comes complete with Area Map of the Darkenfold Forest!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8504 - Engineering Castles",
+  "BookShortName": "Engineering Castles",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8504",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8504 - Engineering Castles.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG81303 - Codex Celtarum",
+  "BookShortName": "Codex Celtarum",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG81303",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Codex",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG81303 - Codex Celtarum.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG81311 - Codex Nordica",
+  "BookShortName": "Codex Nordica",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG81311",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Codex",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG81311 - Codex Nordica.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG81321 - Codex Germania",
+  "BookShortName": "Codex Germania",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG81321",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Codex",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG81321 - Codex Germania.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG81341 - Codex Classicum",
+  "BookShortName": "Codex Classicum",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG81341",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Codex",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG81341 - Codex Classicum.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG81322 - Codex Slavorum",
+  "BookShortName": "Codex Slavorum",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG81322",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Codex",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG81322 - Codex Slavorum.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG81351 - Codex Egyptium",
+  "BookShortName": "Codex Egyptium",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG81351",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "Codex",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG81351 - Codex Egyptium.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80173 - Gods & Legends",
+  "BookShortName": "Gods & Legends",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80173",
+  "BookISBN": "978-1-952379-35-2",
+  "BookAuthor": "Davis Chenault",
+  "BookPublished": "2021",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80173 - Gods & Legends.pdf"
+  ],
+  "BookDescription": [
+    "Though the gods dwell beyond the confines of the world, they are drawn to it. Too often they see to force their will upon the realms of mortals. Channeling this divine will lies upon the shoulders of the cleric and paladin, the skald and druid. They turn to the gods through prayer, ritual, sacrifice, and devotion, all in hopes of bringing that power into and through themselves, to unleash it upon the world at large.",
+    "Within Gods and Legends, there are hundreds of deities for both your characters and monsters; dwarves, elves, gnomes, orcs, gnolls, and more besides. Each deity comes complete with information you will need from when to sacrifice to what kinds of temples they prefer. It also includes short stats for the gods of the Celts, ancient Germans, Norse, Romans and Greeks, Egyptians, and the Slavic Gods.",
+    "More than that, Gods and Legends comes with guidelines on how to run deities and the characters that worship them.",
+    "What Lies Within Gods & Legends",
+    "Gods & Legends consists of three main parts: The Anvil of the Gods (a how-to section), Humanoid Pantheons (from humans to dwarfs to orcs), and real-world mythologies.",
+    "Anvil of the Gods",    
+    "Pantheon of Beliefs: In the first part of Gods & Legends you find a host of guidelines and suggestions for running deities in your campaign. Beginning with Deities in a Role Playing Game we explore the role of deities at the table, both for divine-based characters and the mundane fighter and rogue. The section covers role playing the deities themselves, the how and why, struggles with the deities, and a short description of the powers they all possess.",    
+    "Gifts and Boons, the Holy Gift: Here we explore the roles of various classes in the deity/character relation: clerics, paladins, and druids.",    
+    "Gods and Avatars: The abilities of gods transcend most characters, but it is always possible to use the god’s avatar, whether your games are high level or low. Learn how to use them no matter what your campaign.",    
+    "Healing and Holy Symbols: These sections delve into one of the major aspects of character play and how it relates to the gods.",    
+    "Humanoid Pantheons",    
+    "Dwarf, Elf, Halfling, Gnome, Bugbear, Gnoll, Goblin, Orc, Hobgoblin, Lizardman, Kobold, Giant, Ogre, Troll, Dragon, Fey, Centaur, Mermen and Sahugin.",    
+    "Real World Mythologies",    
+    "Here we step lightly into the real world and plug in the stat blocks for Celtic, Egyptian, Germanic, Norse, and Slavic deities. Each entry exists as a stat block of the necessary information, as these are covered in far greater detail in the Mythos books (see related products below)."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

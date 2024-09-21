@@ -1,0 +1,72 @@
+[
+    {
+    "BookName": "BFRPG4 - Basic Fantasy Role-Playing Game Core Rules",
+    "BookShortName": "Basic Fantasy Role-Playing Game Core Rules",
+    "BookPublisher": "The Basic Fantasy Project",
+    "BookCode": "BFRPG4",
+    "BookISBN": "",
+    "BookAuthor": "Chris Gonnerman",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Basic Fantasy",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Basic Fantasy",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Basic Fantasy Roleplaying\\Basic Fantasy Role-Playing Game Core Rules - 4th Edition.pdf"
+    ],
+   "BookDescription": [
+      "Release R137"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  } ,
+  {
+    "BookName": "",
+    "BookShortName": "",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  } 
+]

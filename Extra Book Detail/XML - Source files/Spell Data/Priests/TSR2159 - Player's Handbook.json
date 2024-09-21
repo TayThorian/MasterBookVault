@@ -1,0 +1,28 @@
+[
+{
+   "Name": "Animal Friendship",
+   "DnDClass": "Priest",
+   "Level": 1,
+   "LevelName": "1st Level Spell",
+   "School": "Enchantment/Charm",
+   "Range": "10 yds.",
+   "Save": "Neg.",
+   "Duration": "Permanent",
+   "Components": "V,S,M",
+   "AoE": "1 animal",
+   "CastingTime": "1 hr.",
+   "SubField": "Sphere: Animal",
+   "SourceShort": "TSR2159",
+   "SourceLong": "TSR2159 - Player's Handbook",
+   "Page": 252,
+   "Vault": "Yes",
+   "First Letter": "A",
+   "SpellDescription": [
+   "By means of this spell, the caster is able to show any animal of animal intelligence to semi-intelligence (i.e., Intelligence 1–4) that he desires friendship. If the animal does not roll a successful saving throw vs. spell immediately when the spell is begun, it stands quietly while the caster finishes the spell. Thereafter, it follows the caster about. The spell functions only if the caster actually wishes to be the animal’s friend. If the caster has ulterior motives, the animal always senses them (for example, the caster intends to eat the animal, send it ahead to set off traps, etc.).",
+   "The caster can teach the befriended animal three specific tricks or tasks for each point of Intelligence it possesses. Typical tasks are those taught to a dog or similar pet (i.e., they cannot be complex). Training for each such trick must be done over a period of one week, and all must be done within three months of acquiring the creature. During the three-month period, the animal will not harm the caster, but if the creature is left alone for more than a week, it will revert to its natural state and act accordingly.",
+   "The caster can use this spell to attract up to 2 Hit Dice of animal(s) per experience level he possesses. This is also the maximum total Hit Dice of the animals that can be attracted and trained at one time: no more than twice the caster’s experience level. Only unaligned animals can be attracted, befriended, and trained.",
+   "The material components of this spell are the caster’s holy symbol and a piece of food liked by the animal."
+   ],
+   "Edition": "2E"
+ },
+]

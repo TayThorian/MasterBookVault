@@ -1,0 +1,45 @@
+[
+ {
+"MonName": "",
+"MonClim": "",
+"MonFreq": "",
+"MonOrg": "",
+"MonAct": "",
+"MonDiet": "",
+"MonInt": "",
+"MonTreas": "",
+"MonAlign": "",
+"MonNumberApp": "",
+"MonArClass": "",
+"MonMove": "",
+"MonHD": "",
+"MonTHAC0": "",
+"MonNoAttacks": "",
+"MonDmgAttacks": "",
+"MonSpecAttacks": "",
+"MonSpecDef": "",
+"MonMagRes": "",
+"MonSize": "",
+"MonMorale": "",
+"MonXP": "",
+"MonImage": "",
+"MonSource": [
+"", 
+""
+],
+"MonSourceMat": [
+"",
+""
+],
+"MonSort": "",
+"MonDescription": [
+"",
+"<h2>Combat:</h2>",
+"",
+"<h2>Habitat/Society:</h2>",
+"",
+"<h2>Ecology:</h2>",
+""
+]
+ }
+ ]

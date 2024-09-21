@@ -1,0 +1,72 @@
+[
+  {
+    "BookName": "DD0003 - Blueholme - Journeymanne Rules",
+    "BookShortName": "Blueholme - Journeymanne Rules",
+    "BookPublisher": "Dreamscape Design",
+    "BookCode": "DD0003",
+    "BookISBN": "",
+    "BookAuthor": "Michael Thomas",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Blueholmne",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Blueholme\\DD0003 - Blueholme - Journeymanne Rules.Pdf"
+    ],
+    "BookDescription": [
+      "The BLUEHOLME™ Journeymanne Rules are a table top fantasy roleplaying game which emulates the game play of the original basic rule book, popularly known as the Holmes Edition or simply the Blue Book. Unlike those basic rules, however, this book allows for characters of 1st to 20th levels, and include everything the referee could possibly need to create and run a campaign in the Underworld, the Wilderness, or the Realm: monsters, magic, treasure, and … well, what more do you need? BLUEHOLME™ Journeymanne Rules are fully compatible with the BLUEHOLME™ Prentice Rules, and can be used with most old-school adventure modules."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "DD0001 - Blueholme - Prentice Rules",
+  "BookShortName": "Blueholme - Prentice Rules",
+  "BookPublisher": "Dreamscape Design",
+  "BookCode": "DD0001",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Blueholmne",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Blueholme\\DD0001 - Blueholme - Prentice Rules.pdf"
+  ],
+  "BookDescription": [
+    "<b>BLUEHOLME™ Prentice Rules</b> is a table top fantasy roleplaying game that emulates the game play of the original basic rule book, popularly known as the Holmes Edition or simply the Blue Book. The rules in this book allow for characters of 1st to 3rd levels, and include everything the referee could possibly need to create and run a campaign in the Underworld: monsters, magic, treasure, and … well, what more do you need?"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

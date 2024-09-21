@@ -1,0 +1,180 @@
+[
+  {
+    "BookName": "NWA301 - Hyperborea - Volume I - Players Manual",
+    "BookShortName": "Hyperborea - Volume I - Players Manual",
+    "BookPublisher": "North Wind Adventures",
+    "BookCode": "NWA301",
+    "BookISBN": "978-1-7335414-3-5",
+    "BookAuthor": "Jeffrey P. Talanian",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "BookSetting": "Hyperborea",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Hyperborea\\NWA301 - Hyperborea -  Volume I - Players Manual.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "HYPERBOREA is a role-playing game of swords, sorcery, and weird science-fantasy. It is played with paper, pencil, dice, and imagination. Participants include a referee and one or more players. The referee prepares and presents the adventure material (circumstances, challenges, quests, mysteries, etc.), and the players create player characters (PCs), including fighters, magicians, clerics, thieves, and 22 possible subclasses, including barbarian, berserker, cataphract, huntsman, paladin, ranger, warlock, cryomancer, illusionist, necromancer, pyromancer, witch, druid, monk, priest, runegraver, shaman, assassin, bard, legerdemainist, purloiner, and scout..",
+      "The heroes of a HYPERBOREA game delve dungeons filled with horrifying monsters, lethal traps, and bewildering puzzles; they explore savage wilderness frontiers and dangerous borderlands; they probe ancient ruins and investigate cursed tombs; they match steel against sorcery and sorcery against steel; and they plunder for gold, gems, and magical treasure.",
+      "HYPERBOREA is a “flat earth” realm hemmed in by the mystical boreas (“North Wind”), and under the scarlet light of a bloated, dying sun, its roiling seas spill eternal over the world’s rim. This world is in a perpetual state of decay and is populated by disharmonious men and women, hostile monsters, and weird, alien beings. The setting is adaptable and can be used independently or in conjunction with other milieux, published or home-brewed; indeed, HYPERBOREA might be just beyond the North Wind of any campaign setting."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 4, "title": "Chapter 1 - Introduction"},
+      {"page": 10, "title": "Chapter 2 - Character Generation"},
+      {"page": 14, "title": "Chapter 3 - Statistics"},
+      {"page": 20, "title": "Chapter 4 - Classes"},
+      {"page": 114, "title": "Chapter 5 - Background"},
+      {"page": 134, "title": "Chapter 6 - Equipment"},
+      {"page": 156, "title": "Chapter 7 - Sorcery"},
+      {"page": 248, "title": "Chapter 8 - Adventure"},
+      {"page": 260, "title": "Chapter 9 - Combat"},
+      {"page": 286, "title": "Appendix"},
+      {"page": 320, "title": "Index"}
+      ]    
+  }
+]
+},
+{
+  "BookName": "NWA302 - Hyperborea -  Volume II - Referees Manual",
+  "BookShortName": "Hyperborea -  Volume II - Referees Manual",
+  "BookPublisher": "North Wind Adventures",
+  "BookCode": "NWA302",
+  "BookISBN": "978-1-7335414-4-2",
+  "BookAuthor": "Jeffrey P. Talanian",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "BookSetting": "Hyperborea",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Hyperborea\\NWA302 - Hyperborea -  Volume II - Referees Manual.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "HYPERBOREA is a role-playing game of swords, sorcery, and weird science-fantasy. It is played with paper, pencil, dice, and imagination. Participants include a referee and one or more players. The referee prepares and presents the adventure material (circumstances, challenges, quests, mysteries, etc.), and the players create player characters (PCs), including fighters, magicians, clerics, thieves, and 22 possible subclasses, including barbarian, berserker, cataphract, huntsman, paladin, ranger, warlock, cryomancer, illusionist, necromancer, pyromancer, witch, druid, monk, priest, runegraver, shaman, assassin, bard, legerdemainist, purloiner, and scout..",
+    "The heroes of a HYPERBOREA game delve dungeons filled with horrifying monsters, lethal traps, and bewildering puzzles; they explore savage wilderness frontiers and dangerous borderlands; they probe ancient ruins and investigate cursed tombs; they match steel against sorcery and sorcery against steel; and they plunder for gold, gems, and magical treasure.",
+    "HYPERBOREA is a “flat earth” realm hemmed in by the mystical boreas (“North Wind”), and under the scarlet light of a bloated, dying sun, its roiling seas spill eternal over the world’s rim. This world is in a perpetual state of decay and is populated by disharmonious men and women, hostile monsters, and weird, alien beings. The setting is adaptable and can be used independently or in conjunction with other milieux, published or home-brewed; indeed, HYPERBOREA might be just beyond the North Wind of any campaign setting."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 4, "title": "Chapter 10 - Introduction"},
+    {"page": 8, "title": "Chapter 11 - Refereeing"},
+    {"page": 18, "title": "Chapter 12 - Bestiary"},
+    {"page": 150, "title": "Chapter 13 - Treasure"},
+    {"page": 222, "title": "Chapter 14 - Gazetteer"},
+    {"page": 285, "title": "Appendix"},
+    {"page": 303, "title": "Index"}
+    ]    
+}
+]
+},
+{
+  "BookName": "NWA303 - Atlas of Hyperborea",
+  "BookShortName": "Atlas of Hyperborea",
+  "BookPublisher": "North Wind Adventures",
+  "BookCode": "NWA303",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "BookSetting": "Hyperborea",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Hyperborea\\NWA303 - Atlas of Hyperborea.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "NWA304 - The Late Trappers Lament",
+  "BookShortName": "The Late Trappers Lament",
+  "BookPublisher": "North Wind Adventures",
+  "BookCode": "NWA304",
+  "BookISBN": "978-1-7335414-6-6",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "BookSetting": "Hyperborea",
+  "BookType": "Adventure",
+  "BookFormat": "Hardback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Levels 1 - 2",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Hyperborea\\NWA304 - The Late Trappers Lament.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

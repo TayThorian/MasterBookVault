@@ -1,0 +1,107 @@
+[
+  {
+  "BookName": "PAL450 - Palladium Fantasy Role-Playing Game",
+  "BookShortName": "Palladium Fantasy Role-Playing Game",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL450",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Palladium Fantasy",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Palladium Books\\Fantasy\\PAL450 - Palladium Fantasy Role-Playing Game, Second Edition.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "PAL451 - Dragons & Gods",
+  "BookShortName": "Dragons & Gods",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL451",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Palladium Fantasy",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Palladium Books\\Fantasy\\PAL451 - Dragons & Gods.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "PAL468 - Land of the Damned 1 - Chaos Lands",
+  "BookShortName": "Land of the Damned 1 - Chaos Lands",
+  "BookPublisher": "Palladium Books",
+  "BookCode": "PAL468",
+  "BookISBN": "",
+  "BookAuthor": "Bill Coffin",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Palladium System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Palladium Fantasy",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Palladium Books\\Fantasy\\PAL468 - Land of the Damned 1 - Chaos Lands.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

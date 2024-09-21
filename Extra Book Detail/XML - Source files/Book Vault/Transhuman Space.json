@@ -1,0 +1,71 @@
+[
+  {
+    "BookName": "SJG6708 - Transhuman Space",
+    "BookShortName": "Transhuman Space",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6708",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Transhuman Space",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Transhuman Space\\SJG6708 - Transhuman Space.pdf"
+    ],
+    "BookDescription": [
+      "It's the year 2100. Humans have colonized the solar system. China and America struggle for control of Mars. The Royal Navy patrols the asteroid belt. Nanotech has transformed life on Earth forever, and gene-enhanced humans share the world with artificial intelligences and robotic cybershells. Our solar system has become a setting as exciting and alien as any interstellar empire. Pirate spaceships hijacking black holes . . . sentient computers and artificial \"bioroids\" demanding human rights . . . nanotechnology and mind control . . . Transhuman Space is cutting-edge science fiction adventure that begins where cyberpunk ends."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "",
+  "BookPhysical": "",
+  "BookOwnedPDF": "",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

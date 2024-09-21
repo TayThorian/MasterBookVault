@@ -1,0 +1,337 @@
+[
+  {
+    "BookName": "FLFDGB001 - Dragonbane Core Set",
+    "BookShortName": "Dragonbane Core Set",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFDGB001",
+    "BookISBN": "978-91-89143-87-6",
+    "BookAuthor": "Tomas Härenstam",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "Dragonbane",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Dragonbane",
+    "UseTOC": "Yes",
+    "BookSetting": "Dragonbane",
+    "BookType": "Core Set",
+    "BookFormat": "Box Set",
+    "BookSeries": "Core Set",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Rulebook.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Pre-Generated Characters.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Solo Adventure.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Standees.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Treasure Cards.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Adventure Cards.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Adventures.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Battle Mat.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Character Sheet.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Getting Started.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Improvised Weapons Cards.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Initiative Cards.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Map - The Misty Vale.pdf",
+      "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB001 - Dragonbane Core Set\\Dragonbane - Player Maps.pdf"
+    ],
+    "BookDescription": [
+      "Dragonbane is a classic fantasy tabletop roleplaying game full of magic, mystery, and adventure. It is designed from the ground up to facilitate fast and furious play, with very little prep time and adventures that are a breeze to run. Dragonbane is a game with room for laughs at the table, while still offering brutal challenges for the adventurers. This boxed core set includes:",
+      "Rulebook with fast and effective D20-based game rules for character creation, skills, combat, magic, and travel",
+      "Adventures book with eleven complete adventures, to be played separately or tied together in the epic Secret of the Dragon Emperor campaign",
+      "The booklet Alone in Deepfall Breach letting you play Dragonbane solo",
+      "Huge full-color map of the Misty Vale",
+      "Illustrated playing cards for adventures, treasure, and more",
+      "Ten transparent polyhedral dice, including two custom D20s",
+      "Five pregenerated characters",
+      "Five blank character sheets",
+      "Cardboard standees for characters and monsters",
+      "Double-sided battle mat"
+    ],
+    "TableOfContents": [
+      {
+    "title": "RuleBook",
+    "chapters": [
+      {"page": 4, "title": "Chapter 1 - In the Oldest Times"},
+      {"page": 8, "title": "Chapter 2 - Your Player Character"},
+      {"page": 30, "title": "Chapter 3 - Skills"},
+      {"page": 40, "title": "Chapter 4 - Combat Damage"},
+      {"page": 56, "title": "Chapter 5 - Magic"},
+      {"page": 72, "title": "Chapter 6 - Gear"},
+      {"page": 82, "title": "Chapter 7 - Bestiary"},
+      {"page": 100, "title": "Chapter 8 - Adventures"}
+      ]    
+  },
+  {
+  "title": "Adventures",
+  "chapters": [
+    {"page": 3, "title": "Chapter 1 - Introduction"},
+    {"page": 11, "title": "Chapter 2 - Opening Scene"},
+    {"page": 14, "title": "Chapter 3 - Outskirt"},
+    {"page": 28, "title": "Chapter 4 - Journeys"},
+    {"page": 33, "title": "Chapter 5 - 15 - Adventures"}
+  ]    
+}
+]
+},
+{
+  "BookName": "FLFDGB010 - Dragonbane - Bestiary",
+  "BookShortName": "Dragonbane - Bestiary",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFDGB010",
+  "BookISBN": "978-91-89765-31-3",
+  "BookAuthor": "Magnus Seter, Mattias Johnsson Haake, Andreas Marklund, Tomas Härenstam",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "Dragonbane",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dragonbane",
+  "UseTOC": "Yes",
+  "BookSetting": "Dragonbane",
+  "BookType": "Bestiary",
+  "BookFormat": "Hardback",
+  "BookSeries": "Bestiary",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB010 - Dragonbane - Bestiary.pdf"
+  ],
+  "BookDescription": [
+    "From cat people to chimeras, fairies to frog people, hippogriffs to hydras, and much more – this Bestiary for the Dragonbane roleplaying game includes no less than 63 wondrous creatures for the player characters to encounter. Each of them is brought to life in text and art, as well as a random encounter and a seed for a complete adventure. Among these fantastic beings, there are nine new playable kin, each with their own unique ability. The full-color hardcover book is gloriously illustrated by Johan Egerkrans and David Brasgalla."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 5, "title": "Chapter 1 - Nightkin"},
+    {"page": 15, "title": "Chapter 2 - Rare Kin"},
+    {"page": 43, "title": "Chapter 3 - Insectoids"},
+    {"page": 51, "title": "Chapter 4 - Trolls"},
+    {"page": 59, "title": "Chapter 5 - Giants"},
+    {"page": 69, "title": "Chapter 6 - Beasts"},
+    {"page": 105, "title": "Chapter 7 - Undead"},
+    {"page": 123, "title": "Chapter 8 - Dragons"},
+    {"page": 135, "title": "Chapter 9 - Demons"}
+    ]    
+}
+]
+},
+{
+  "BookName": "Dragonbane Quickstart",
+  "BookShortName": "Dragonbane Quickstart",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Tomas Härenstam",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "Dragonbane",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dragonbane",
+  "UseTOC": "No",
+  "BookSetting": "Dragonbane",
+  "BookType": "Quickstart",
+  "BookFormat": "",
+  "BookSeries": "Quickstart",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dragonbane\\Dragonbane - Quickstart.pdf"
+  ],
+  "BookDescription": [
+    "Dragonbane is a classic fantasy tabletop roleplaying game full of magic, mystery, and adventure. It is designed from the ground up to facilitate fast and furious play, with very little prep time and adventures that are a breeze to run. Dragonbane is a game with room for laughs at the table, while still offering brutal challenges for the adventurers.",
+    "This FREE Quickstart PDF includes the complete introductory adventure Riddermound, and five pre-generated characters to play! Shortly after purchase (at zero cost), you will get a download link from DrivethruRPG. Just download the PDF and play!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "FLFDGB007 - Dragonbane - Rulebook",
+  "BookShortName": "Dragonbane - Rulebook",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFDGB007",
+  "BookISBN": " 978-91-89765-26-9",
+  "BookAuthor": "Tomas Härenstam",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "Dragonbane",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dragonbane",
+  "UseTOC": "Yes",
+  "BookSetting": "Dragonbane",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB007 - Dragonbane - Rulebook.pdf"
+  ],
+  "BookDescription": [
+    "Dragonbane is a classic fantasy tabletop roleplaying game full of magic, mystery, and adventure. It is designed from the ground up to facilitate fast and furious play, with very little prep time and adventures that are a breeze to run. This book includes fast and effective D20-based game rules for character creation, skills, combat, magic, and travel, and the introductory adventure The Castle of the Robber Knight."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 4, "title": "Chapter 1 - In the Oldest Times"},
+    {"page": 8, "title": "Chapter 2 - Your Player Character"},
+    {"page": 30, "title": "Chapter 3 - Skills"},
+    {"page": 40, "title": "Chapter 4 - Combat Damage"},
+    {"page": 56, "title": "Chapter 5 - Magic"},
+    {"page": 72, "title": "Chapter 6 - Gear"},
+    {"page": 82, "title": "Chapter 7 - Bestiary"},
+    {"page": 100, "title": "Chapter 8 - Adventures"}
+    ]    
+}
+]
+},
+{
+  "BookName": "Path of Glory",
+  "BookShortName": "Path of Glory",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Dragonbane",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dragonbane",
+  "UseTOC": "No",
+  "BookSetting": "Dragonbane",
+  "BookType": "Adventure Campaign",
+  "BookFormat": "Hardback",
+  "BookSeries": "Adventure Campaign",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Coming to the legendary Dead Forest in search of treasure, glory and a solution to the ancient curse laying waste to the forest, the adventurers soon find themselves embroiled in an epic conflict reaching back to the very foundations of the world. The quest will take the adventurers through the depths of the forest, under the mountain, and into a strange new land where the fate of the world will be determined."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "FLFDGB012 - Monster Standee Set",
+  "BookShortName": "Monster Standee Set",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFDGB012",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dragonbane",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "N/A",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dragonbane",
+  "UseTOC": "No",
+  "BookSetting": "Dragonbane",
+  "BookType": "Standee Set",
+  "BookFormat": "Standees",
+  "BookSeries": "Standee Set",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "FLFDGB002 - Dragombane Gamemaster Screen",
+  "BookShortName": "Dragombane Gamemaster Screen",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFDGB002",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dragonbane",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "N/A",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dragonbane",
+  "UseTOC": "No",
+  "BookSetting": "Dragonbane",
+  "BookType": "Gamemaster Screen",
+  "BookFormat": "Hardback",
+  "BookSeries": "Gamemaster Screen",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "BookName": "L5R02 - Legend of the Five Rings Core Rulebook",
+    "BookShortName": "Legend of the Five Rings Core Rulebook",
+    "BookPublisher": "Fantasy Flight Games",
+    "BookCode": "L5R02",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Legend of the Five Rings\\5th Edition\\L5R02 - Legend of the Five Rings Core Rulebook.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "L5R04 - Emerald Empire",
+  "BookShortName": "Emerald Empire",
+  "BookPublisher": "Fantasy Flight Games",
+  "BookCode": "L5R04",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Legend of the Five Rings\\5th Edition\\L5R04 - Emerald Empire.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "ESL5R16EN - Writ of the Wilds - The Essesntial Guide to Wilderness Survival",
+  "BookShortName": "Writ of the Wilds - The Essesntial Guide to Wilderness Survival",
+  "BookPublisher": "Fantasy Flight Games",
+  "BookCode": "ESL5R16EN",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Legend of the Five Rings\\5th Edition\\ESL5R16EN - Writ of the Wilds - The Essesntial Guide to Wilderness Survival.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "L5R06 - Shadowlands",
+  "BookShortName": "Shadowlands",
+  "BookPublisher": "Fantasy Flight Games",
+  "BookCode": "L5R06",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Legend of the Five Rings\\5th Edition\\L5R06 - Shadowlands.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "L5R07 - Mask of the Oni",
+  "BookShortName": "Mask of the Oni",
+  "BookPublisher": "Fantasy Flight Games",
+  "BookCode": "L5R07",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Legend of the Five Rings\\5th Edition\\L5R07 - Mask of the Oni - Booklet.pdf",
+    "D:\\OneDrive\\Master Vault\\Legend of the Five Rings\\5th Edition\\L5R07 - Mask of the Oni - Punchboard.pdf",
+    "D:\\OneDrive\\Master Vault\\Legend of the Five Rings\\5th Edition\\L5R07 - Mask of the Oni - Poster Map.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

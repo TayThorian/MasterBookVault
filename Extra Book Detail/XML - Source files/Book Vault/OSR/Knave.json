@@ -1,0 +1,128 @@
+[
+  {
+    "BookName": "Knave - Second Edition",
+    "BookShortName": "Knave - Second Edition",
+    "BookPublisher": "Questing Beast Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Ben Milton",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "Knave",
+    "BookEdition": "Second Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "Knave",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebook",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Knave\\Knave - Second Edition.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Knave Expanded Lore 2ED",
+  "BookShortName": "Knave Expanded Lore 2ED",
+  "BookPublisher": "Noobirus",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Simon \"Noobirus\" Piecha",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Knave",
+  "BookEdition": "Second Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Knave",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Knave\\Knave Expanded Lore 2ED.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Summer's End and Other One-Page Adventures",
+  "BookShortName": "Summer's End and Other One-Page Adventures",
+  "BookPublisher": "Questing Beast Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Ben Milton",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Knave",
+  "BookEdition": "Second Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Knave",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Knave\\Summer's End and Other One-Page Adventures.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

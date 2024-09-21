@@ -1,0 +1,170 @@
+[
+  {
+    "BookName": "Knock! - Issue 01",
+    "BookShortName": "Knock! - Issue 01",
+    "BookPublisher": "The Merry Mushmen",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "2020",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "Knock",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Magazine",
+    "BookFormat": "",
+    "BookSeries": "Knock! - Issues 01 - 04",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Magazines\\Knock\\Knock! - Issue 01.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Knock! - Issue 02",
+    "BookShortName": "Knock! - Issue 02",
+    "BookPublisher": "The Merry Mushmen",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "Knock",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Magazine",
+    "BookFormat": "",
+    "BookSeries": "Knock! - Issues 01 - 04",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Magazines\\Knock\\Knock! - Issue 02.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Knock! - Issue 03",
+    "BookShortName": "Knock! - Issue 03",
+    "BookPublisher": "The Merry Mushmen",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "Knock",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Magazine",
+    "BookFormat": "",
+    "BookSeries": "Knock! - Issues 01 - 04",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Magazines\\Knock\\Knock! - Issue 03.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Knock! - Issue 04",
+    "BookShortName": "Knock! - Issue 04",
+    "BookPublisher": "The Merry Mushmen",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "Knock",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "",
+    "BookType": "Magazine",
+    "BookFormat": "",
+    "BookSeries": "Knock! - Issues 01 - 04",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Magazines\\Knock\\Knock! - Issue 04.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

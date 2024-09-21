@@ -1,0 +1,737 @@
+[
+  {
+    "BookName": "IGI-1000 - Traveller",
+    "BookShortName": "Traveller",
+    "BookPublisher": "Imperium Gamnes, Inc.",
+    "BookCode": "IGI-1000",
+    "BookISBN": "1-57828-100-8",
+    "BookAuthor": "Marc Miller",
+    "BookPublished": "1996",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Marc Miller's Traveller",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Marc Miller's Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1000 - Traveller.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "IGI-1100 - Starships",
+  "BookShortName": "Starships",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1100",
+  "BookISBN": "1-57828-301-9",
+  "BookAuthor": "Don Perrin",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1100 - Starships.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1200 - Central Supply Catalog",
+  "BookShortName": "Central Supply Catalog",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1200",
+  "BookISBN": "1-57828-324-8",
+  "BookAuthor": "",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1200 - Central Supply Catalog.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1300 - Aliens Archive",
+  "BookShortName": "Aliens Archive",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1300",
+  "BookISBN": "1-57828-313-2",
+  "BookAuthor": "",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1300 - Aliens Archive.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1400 - Milieu 0",
+  "BookShortName": "Milieu 0",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1400",
+  "BookISBN": "1-57828-336-1",
+  "BookAuthor": "",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1400 - Milieu 0.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1410 - First Survey",
+  "BookShortName": "First Survey",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1410",
+  "BookISBN": "1-57828-347-7",
+  "BookAuthor": "",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1410 - First Survey.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1500 - Emperor's Arsenal",
+  "BookShortName": "Emperor's Arsenal",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1500",
+  "BookISBN": "1-57858-350-7",
+  "BookAuthor": "",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1500 - Emperor's Arsenal.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1600 - Pocket Empires",
+  "BookShortName": "Pocket Empires",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1600",
+  "BookISBN": "1-57828-374-4",
+  "BookAuthor": "",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1600 - Pocket Empires.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1700 - Anomalies",
+  "BookShortName": "Anomalies",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1700",
+  "BookISBN": "1-57828-386-8",
+  "BookAuthor": "Duane Maxwell, Steve Miller, David Wise",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1700 - Anomalies.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1710 - Psionic Institutes",
+  "BookShortName": "Psionic Institutes",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1710",
+  "BookISBN": "1-57828-410-4",
+  "BookAuthor": "",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1710 - Psionic Institutes.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1720 - Fire, Fusion and Steel",
+  "BookShortName": "Fire, Fusion and Steel",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1720",
+  "BookISBN": "1-57828-422-8",
+  "BookAuthor": "",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1720 - Fire, Fusion and Steel.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1730 - Emperor's Vehicles",
+  "BookShortName": "Emperor's Vehicles",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1730",
+  "BookISBN": "1-57828-136-9",
+  "BookAuthor": "",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1730 - Emperor's Vehicles.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1740 - Naval Architect's Manual",
+  "BookShortName": "Naval Architect's Manual",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1740",
+  "BookISBN": "1-57828-172-5",
+  "BookAuthor": "",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1740 - Naval Architect's Manual.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1510 - Games Screen",
+  "BookShortName": "Games Screen",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1510",
+  "BookISBN": "1-57828-362-0",
+  "BookAuthor": "",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Games Screen",
+  "BookFormat": "Softback",
+  "BookSeries": "Games Screen",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1510 - Games Screen.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1750 - Imperial Squadrons",
+  "BookShortName": "Imperial Squadrons",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1750",
+  "BookISBN": "1-57828-184-9",
+  "BookAuthor": "",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1750 - Imperial Squadrons.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-1770 - Missions of State",
+  "BookShortName": "Missions of State",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-1770",
+  "BookISBN": "1-57858-208-X",
+  "BookAuthor": "",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Adventures",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-1770 - Missions of State.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-2002 - Milieu 0 Campaign",
+  "BookShortName": "Milieu 0 Campaign",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-2002",
+  "BookISBN": "1-57858-124-5",
+  "BookAuthor": "",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Campaign",
+  "BookFormat": "Softback",
+  "BookSeries": "Campaigns",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-2002 - Milieu 0 Campaign.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-2003 - Aliens 1",
+  "BookShortName": "Aliens 1",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-2003",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "1998",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-2003 - Aliens 1.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-3001 - The Long Way Home",
+  "BookShortName": "The Long Way Home",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-3001",
+  "BookISBN": "1-57828-398-1",
+  "BookAuthor": "1997",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Adventures",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\raveller\\04 - Marc Miller's Traveller\\IGI-3001 - The Long Way Home.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-3002 - Gateway",
+  "BookShortName": "Gateway",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-3002",
+  "BookISBN": "1-57828-434-1",
+  "BookAuthor": "",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Adventures",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-3002 - Gateway.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "IGI-3003 - Annililik Run",
+  "BookShortName": "Annililik Run",
+  "BookPublisher": "Imperium Gamnes, Inc.",
+  "BookCode": "IGI-3003",
+  "BookISBN": "1-57828-458-9",
+  "BookAuthor": "",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "Marc Miller's Traveller",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Marc Miller's Traveller",
+  "BookType": "Adventures",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\04 - Marc Miller's Traveller\\IGI-3003 - Annililik Run.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

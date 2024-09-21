@@ -1,0 +1,1652 @@
+[
+    {
+    "BookName": "GCP-SMP-4500 - Space Master Privateers",
+    "BookShortName": "Space Master Privateers",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-SMP-4500",
+    "BookISBN": "1-55806-562-8",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2000",
+    "BookCover": "",
+    "BookRules": "Spacemaster Privateers",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Space_Master_Privateers_(GCP-SMP-4500)",
+    "VaultSML": "Spacemaster Privateers",
+    "UseTOC": "Yes",
+    "BookSetting": "Spacemaster Privateers",
+    "BookType": "Rulebook",
+    "BookFormat": "Paperback",
+    "BookSeries": "Rulebooks",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4500 - Spacemaster Privateers.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The panel exploded in a glowing crash of sparks. Mrralff cursed violently, waiting for the diagnostics to flicker across his screen. He breathed a sigh of relief. Nothing was damaged that did not have a redundant system.",
+      "Their relative velocities had carried Mrralff and his enemy far apart. It would take a moment for the Jeronan to pull his craft back into a firing position. but only a moment. The computer was still fighting to orient after the torpedo impact. His father, when training him to fly, had been very clear on the matter \"Recover the tumble within 3 seconds or I'll beat you until you're unconscious.\" His ISC flight instructor had been more helpful. \"When your gimbals are out and you don't have time to tackle roll, pitch and yawl one at a time, just pick a point in the sky fly toward it. Easier said than done.",
+      "Spacemaster Privateers is the perfect way to start your adventures with the ultimate science fiction role playing system. In the dynamic Privateers setting. you and your players play a part in the last, desperate gamble to win a war against an evil driven by insanity.",
+      "Everything you need to play combat-- character creation, a complete setting, starships. and even psychic powers can be found in the pages of this one book! Once you're up and running. other Spacemaster support books add even more flavor, detail, and action to your game.",
+      "The wonders of the future can be yours today!"
+    ],
+    "TableOfContents": [
+      {
+      "title": "Part I Introduction",
+      "chapters": [
+        {"page": 6, "title": "How to Use Spacemaster"},
+        {"page": 6, "title": "Key Concepts and Mechanisms"},
+        {"page": 8, "title": "Calculation Conventions"},
+        {"page": 8, "title": "Dice Rolling Conventions"},
+        {"page": 8, "title": "Definitions"},
+        {"page": 11, "title": "Other Products"}
+        ]
+      },
+      {
+      "title": "Part II The Privateers",
+      "chapters": [
+        {"page": 13, "title": "1.0 - A Brief History of Intelligent Life"},
+        {"page": 16, "title": "2.0 - The War"},
+        {"page": 20, "title": "3.0 - The State of the Universe"},
+        {"page": 21, "title": "4.0 - The Architects"},
+        {"page": 22, "title": "5.0 - The Jeronan Empire"},
+        {"page": 23, "title": "6.0 - The ISC"},
+        {"page": 25, "title": "7.0 - Travel"},
+        {"page": 26, "title": "8.0 - Communication"},
+        {"page": 26, "title": "9.0 - Sensors"},
+        {"page": 27, "title": "10.0 - Computers"},
+        {"page": 28, "title": "11.0 - Artificial Life"},
+        {"page": 28, "title": "12.0 - Virtual Humans"},
+        {"page": 29, "title": "13.0 - Laws and Law Enforcement"},
+        {"page": 29, "title": "14.0 - Power"},
+        {"page": 29, "title": "15.0 - Medicine"}
+      ]
+    },
+      {
+      "title": "Part III Your Character",
+      "chapters": [
+        {"page": 32, "title": "16.0 - Character Concept"},
+        {"page": 33, "title": "17.0 - The Initial Choices"},
+        {"page": 36, "title": "18.0 - Stats"},
+        {"page": 38, "title": "19.0 - Adolescence Skill Development"},
+        {"page": 40, "title": "20.0 - Background Options"},
+        {"page": 42, "title": "21.0 - Apprenticeship Skill Development"},
+        {"page": 48, "title": "22.0 - Your Character’s Role"},
+        {"page": 50, "title": "23.0 - Final Character Preparation"},
+        {"page": 55, "title": "24.0 - Experience & Advancing Levels"}
+      ]
+  }
+]
+  } ,
+  {
+    "BookName": "GCP-SMP-4511 - Robotics Manual",
+    "BookShortName": "Robotics Manual",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-SMP-4511",
+    "BookISBN": "1-55806-563-6",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2000",
+    "BookCover": "",
+    "BookRules": "Spacemaster Privateers",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Robotics_Manual_(GCP-SMP-4511)",
+    "VaultSML": "Spacemaster Privateers",
+    "BookSetting": "Spacemaster Privateers",
+    "BookType": "Supplement",
+    "BookFormat": "Paperback",
+    "BookSeries": "Tech Law",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4511 - Robotics Manual.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The panel exploded in a glowing crash of sparks. Mrralff cursed violently, waiting for the diagnostics to flicker across his screen. He breathed a sigh of relief. Nothing was damaged that did not have a redundant system.",
+      "Their relative velocities had carried Mrralff and his enemy far apart. It would take a moment for the Jeronan to pull his craft back into a firing position. but only a moment. The computer was still fighting to orient after the torpedo impact. His father, when training him to fly, had been very clear on the matter \"Recover the tumble within 3 seconds or I'll beat you until you're unconscious.\"His ISC flight instructor had been more helpful. \"When your gimbals are out and you dont 't have time to tackle roll, pitch and yawl one at a time, just pick a point in the sky fly toward it. Easier said than done.",
+      "Spacemaster Privateers is the perfect way to start your adventures with the ultimate science fiction role playing system. In the dynamic Privateers setting. you and your players play a part in the last, desperate gamble to win a war against an evil driven by insanity.",
+      "Everything you need to play combat-character creation, a complete setting, starships. and even psychic powers can be found in the pages of this one book! Once you're up and running. other Spacemaster support books add even more flavor, detail, and action to your game.",
+      "The wonders of the future can be yours today!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "GCP-SMP-4512 - Equipment Manual",
+    "BookShortName": "Equipment Manual",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-SMP-4512",
+    "BookISBN": "1-55806-564-4",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2000",
+    "BookCover": "",
+    "BookRules": "Spacemaster Privateers",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Equipment_Manual_(GCP-SMP-4512)",
+    "VaultSML": "Spacemaster Privateers",
+    "BookSetting": "Spacemaster Privateers",
+    "BookType": "Supplement",
+    "BookFormat": "Paperback",
+    "BookSeries": "Tech Law",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4512 - Equipment Manual.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "The cat pounced again, and Christian swung his sword. The monoblade clashed with the cat's hazzok, throwing Christian to one side and bruising his shoulder as 250kg barreled through where he used to be standing. Christian scrambled back to his feet, just in time. He didn't know why the cat was after him, but when a Falar wanted you dead, you usually died. He swung again as the cat charged. This time several supports cracked and the scaffolding slid to a bit of an angle. Not good. The cat was crazy. What was he thinking? It didn't matter. Christian didn't need to think like a cat. He needed to think like a monkey. What could a monkey do that a cat couldn't?",
+      "This Equipment Manual provides everything an enterprising privateer can carry - and more! Picture yourself in kinetic armor with a needler in one hand, a monosword in the other hand, and a sniping plasma-carbine with holo-sights on your back. How about adding on a thruster pack, a medscanner, a sneak suit, and a velocity shield? Going camping? Try anti-glare lenses, a vapor canteen, and an environment tent. With the right connections, you might even be able to load up with professional and military grade gear. Also included are 5 critical tables, 16 attack tables, complete tech level benchmarks, and guidelines for construction & design, malfunction & repair, and breakage. Outfit yourself for adventure! Dress for the kill! Equip to the max!",
+      "3 volumes, the perfect tool for customizing technology in your science fiction game. Look for Vehicle Manual and Robotics Manual to add even more tech to your game!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  } ,
+  {
+    "BookName": "GCP-SMP-4513 - Vehicle Manual",
+    "BookShortName": "Vehicle Manual",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-SMP-4513",
+    "BookISBN": "1-55806-565-2",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2002",
+    "BookCover": "",
+    "BookRules": "Spacemaster Privateers",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Vehicle_Manual_(GCP-SMP-4513)",
+    "VaultSML": "Spacemaster Privateers",
+    "BookSetting": "Spacemaster Privateers",
+    "BookType": "Supplement",
+    "BookFormat": "Paperback",
+    "BookSeries": "Tech Law",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4513 - Vehicle Manual.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Havagract reversed the polarity on his drive, rocking forward as the inertial dampers fought to keep up with a sudden blast from his foe. his control panel exploded in a shower of sparks. Not good. All his weapons were redlining, and damage control had failed to reroute power. He had to get far enough away from the planetary atmosphere to kick in the quantum drive.",
+      "He brought the craft into a tight orbit. His pursuers might be faster, but all objects orbit at the same rate, and only Havagract would be foolish enough to attemp a close forcedorbit around a gas giant. If he could come out with enough of a lead, he just might make it...",
+      "Inside you will find every type of vehicle a privateer could desire - marine ships, aircraft, ground conveyances, small spacecraft, and even decommissioned gunboats. Take a test drive in a Death Howl II Heavy Fighter, or perhaps in a \"Light Horse\" Class FAV, or even in a suit of APE Orbital Drop Armour. Bored with the standard, assembly line models? Try customizing your own state of the art vehicle using complete construction & design guidelines with comprehensive sets of features, quirks, and flaws. Also included are complete combat rules, 10 attack tables, and 6 critical tables focusing on vehicles, ordnance, and infantry untis.",
+      "Pilot the best & blast the rest!",
+      "Tech Law - 3 volumes, the perfect tool for customizing technology in your science fiction game. Look for Equipment Manual and Robotics Manual to add even more tech to your game!"    
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  } ,
+  {
+    "BookName": "GCP-SMP-4514 - Blaster Law",
+    "BookShortName": "Blaster Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-SMP-4514",
+    "BookISBN": "1-55806-567-9",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2002",
+    "BookCover": "",
+    "BookRules": "Spacemaster Privateers",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Blaster_Law_(GCP-SMP-4514)",
+    "VaultSML": "Spacemaster Privateers",
+    "BookSetting": "Spacemaster Privateers",
+    "BookType": "Supplement",
+    "BookFormat": "Paperback",
+    "BookSeries": "Blaster Law",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4514 - Blaster Law.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Erik stumbled to the side, his numb barely-working fingers fumbling for an energy cell. The laser fire stopped for a moment as his opponents waited for him to show himself. They wouldn't give up their cover. They'd wait for him to move.",
+      "After several, agonizing seconds, he managed to slide a new power cell into his blaster. The burns along the left side of his body made the slightest movement agony. His muscles twitched spasmodically, as nerves died. His burned flesh twitched as it cracked and flaked away.",
+      "This was bad. He took a deep breath and checked his blaster's setting. there was no room left for tactics. He could make a final charge on continuous fire. If he was really lucky, he might live long enough to kill one of his foes. Maybe two. It was either that or wait for his life to ooze out half a dozen small laser wounds.",
+      "Screaming with more bravado than he felt, he swung around the corner, firing wildly. beams of coherent light began seeking him out as he charged headlong, his blaster pulsing in his hand.",
+      "Revel in MORE POWER! Blaster Law is the complete guide to energy weapons and their use in combat. Spacemaster: Privateers has a ton of combat and power, but Blaster Law takes this to the max, expanding directed energy weapons. It uses a tech level system and gives complete weapon creation rules, for use with anything from primitive spacefaring worlds to power weapons invented by worlds on the cutting edge."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "GCP-SMP-4515 - Future Law",
+    "BookShortName": "Future Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-SMP-4515",
+    "BookISBN": "1-55806-569-2",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2003",
+    "BookCover": "",
+    "BookRules": "Spacemaster Privateers",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Future_Law_(GCP-SMP-4515)",
+    "VaultSML": "Spacemaster Privateers",
+    "BookSetting": "Spacemaster Privateers",
+    "BookType": "Supplement",
+    "BookFormat": "Paperback",
+    "BookSeries": "Future Law",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4515 - Future Law.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "Add the power of expanded character development to your sci-fi game with Future Law. Future Law is the ultimate players' guide to Spacemaster, with new professions and character options. Get the most out of your character and feel the power of Spacemaster with this exciting new core book."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  } ,
+  {
+    "BookName": "GCP-SMP-4600 - Races & Cultures",
+    "BookShortName": "Races & Cultures",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "GCP-SMP-4600",
+    "BookISBN": "1-55806-566-0",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Spacemaster Privateers",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Races_%26_Cultures_(GCP-SMP-4600)",
+    "VaultSML": "Spacemaster Privateers",
+    "BookSetting": "Spacemaster Privateers",
+    "BookType": "Supplement",
+    "BookFormat": "Paperback",
+    "BookSeries": "Races & Cultures",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Spacemaster Privateers\\GCP-SMP-4600 - Races & Cultures.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "A must for any Spacemaster game, this book details the races of the Privateers universe. Find out what the races are really like in detail; from culture to physiology to role playing, everything you wanted to know about the: Falanar, the Kagoth, the Oort, the Tulgar, the Valiesans the Xatosians and of course humans. What will our own species be like in the future?",
+      "Who will you be tomorrow?"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9002 - Space Master Companion I",
+    "BookShortName": "Space Master Companion I",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9002",
+    "BookISBN": "1-55806-135-5",
+    "BookAuthor": "T. Arnold",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9002 - Space Master Companion I.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9003 - Aliens & Artifacts",
+    "BookShortName": "Aliens & Artifacts",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9003",
+    "BookISBN": "1-55806-146-0",
+    "BookAuthor": "David Pulver",
+    "BookPublished": "1991",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9003 - Aliens & Artifacts.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9004 - Space Master Companion II",
+    "BookShortName": "Space Master Companion II",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9004",
+    "BookISBN": "1-55806-187-8",
+    "BookAuthor": "Leo LaDell, Sanford Berenberg, Lem Richards, Bruce Cordell, Thomas Arnold, Ross Henton, David Blank, Tim Taylor, Leo LaDell, Kieth Locke, Rick Cross",
+    "BookPublished": "1994",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9004 - Space Master Companion II.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9100 - Future Law",
+    "BookShortName": "Future Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9100",
+    "BookISBN": "0-915795-36-1",
+    "BookAuthor": "",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\1st Edition\\ICE9100 - Future Law.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9101 - Action on Akaisha Outstation",
+    "BookShortName": "Action on Akaisha Outstation",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9101",
+    "BookISBN": "0-915795-46-9",
+    "BookAuthor": "Terry Kevin Amthor",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\1st Edition\\ICE9101 - Action on Akaisha Outstation.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9102 - The Cygnus Conspiracy",
+    "BookShortName": "The Cygnus Conspiracy",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9102",
+    "BookISBN": "0-915795-92-2",
+    "BookAuthor": "Alexander Brooke Lindsay III",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\1st Edition\\ICE9102 - The Cygnus Conspiracy.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9200 - Tech Law",
+    "BookShortName": "Tech Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9200",
+    "BookISBN": "0-915795-38-8",
+    "BookAuthor": "",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\1st Edition\\ICE9200 - Tech Law.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9300 - Imperial Crisis House Devon in Turmoil",
+    "BookShortName": "Imperial Crisis House Devon in Turmoil",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9300",
+    "BookISBN": "0-915795-37-X",
+    "BookAuthor": "Kevin Barrett",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\1st Edition\\ICE9300 - Imperial Crisis House Devon in Turmoil.pdf"
+    ],
+    "BookDescription": [
+      "Long ago, before even the Empire, there was Devon Electronics: a huge corporation dominating the microcircuitry market. It survived nuclear conflicts, the expansion of mankind into space, and the repressive Terran Federated Democracy.",
+      "Devon Electronics — and a handful of other Megacorporations — also weathered the Wars of Integration and the consecration of the Terran Empire.",
+      "However, the Corporation has changed, Devon’s power has spread to encompass entire star systems. It is more than a Company: it is a Government.",
+      "House Devon, ruled by Lord Yama Pythagor III Devon, now holds sway over a rich Inner Province in a feudal arrangement with the Emperor. For thousands of years Devon has thrived, but now strife — internal and external — threatens to undermine the power of the Family and so the very existence of the Province.",
+      "This first Space Master Campaign Module details an Inner Province of the Terran Empire: House Devon, constantly under attack both openly and subversively by the rival family Colos, threatened by uprisings by Minor Clans within the House, and always on guard against pirates, smugglers, and interstellar terrorism.",
+      "IMPERIAL CRISIS: House Devon in Turmoil includes:",
+      "4 detailed adventures, complete with layouts, stats for NPC’s, and rich background material",
+      "Pages of “Chance Encounter” charts for mini-adventures",
+      "A general history of the Terran Empire",
+      "New weapons and supplemental rules for Space Master",
+      "Planetary information and Two full-page color starmaps",
+      "Plans of two new starships"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9400 - Lost Telepaths - The Secret of House Kashmere",
+    "BookShortName": "Lost Telepaths - The Secret of House Kashmere",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9400",
+    "BookISBN": "0-915795-48-5",
+    "BookAuthor": "Terry Kevin Amthor",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\1st Edition\\ICE9400 - Lost Telepaths - The Secret of House Kashmere.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9500 - Space Master Companion",
+    "BookShortName": "Space Master Companion",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9500",
+    "BookISBN": "0-915795-33-7",
+    "BookAuthor": "Tod Foley, Terry Kevin Amthor",
+    "BookPublished": "1986",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Softcover",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\1st Edition\\ICE9500 - Spacemaster Companion I.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9600 - Beyond the Core",
+    "BookShortName": "Beyond the Core",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9600",
+    "BookISBN": "0-915795-83-3",
+    "BookAuthor": "Tod Foley",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9600 - Beyond the Core.pdf"
+    ],
+    "BookDescription": [
+      "Beyond the Core: The Worlds of Frontier Zone Five is a Spacemaster 2nd Edition adventure module.",
+      "In the power hungry and paranoid world of Space Master, no region breeds as much avarice and distrust as the Frontier. Here, beyond the reaches of the Core Provinces, resources are still \"up for grabs.\" It is no surprise that the Emperor keeps a close eye on Frontier events, especially the discovery and exploration of new worlds. Imperial Observers (I.O.) nearly always accompany exploratory missions, scrutinizing development. Still, there are those clever groups which manage to evade investigations-by hook or by crook!",
+      "BEYOND THE CORE is an adventure-packed campaign module set in Frontier Zone Five, beyond the steel grip of the Empire and the Imperial Observers. Here you'll find",
+      "A history of FZ5",
+      "A description of life on the Frontier, including useful lists, from corporations to \"local\" slang",
+      "A systems listing of the inhabited worlds including a short history of each tech level, and orbital facilities",
+      "A complete list of the various cultures and races found in this turbulent region",
+      "Three complete adventures including layouts, and NPC descriptions!",
+      "Plus much more!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9000 - Space Master",
+    "BookShortName": "Space Master",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 1st Edition",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Missing",
+    "BookSetting": "Spacemaster",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9000 - Space Master - Boxed Set",
+    "BookShortName": "Space Master - Boxed Set",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9000",
+    "BookISBN": "1-55806-008-1",
+    "BookAuthor": "",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9000 - Space Master Boxed Set - GM Book.pdf",
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9000 - Space Master Boxed Set - Player Book.pdf",
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9000 - Space Master Boxed Set - Tech Book.pdf",
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\Maps\\Spacemaster Star Map.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Extra Book Data\\ICE9000 - Space Master Boxed Set - Player Book\\Tables\\Table 1 - Character Development Chart.md"
+    ],
+    "BookDescription": [
+      "The Space Master System is useable in a variety of SF environments, from a black near future of post-holocaust Earth, to a culture of high-tech exploration, to a distant time where civilization has fallen to superstitious ruin.",
+      "Choose from 17 professions, including Armsman, Planetologists, Telepaths, Starship Pilots, or Engineering Specialists. There are dozens of sub-professions, yet all are flexible, eliminating artificial restrictions. Over 120 skills and a rich selection of background options allow each character to be a complex, multi-talented individual. The sophisticated rules are set out in a lucid, understandable format.",
+      "Space Master: The Role Playing GameTM is completely compatible with all Space Master Modules, and is the first part of a Science Fiction Gaming Trilogy. Space Master: Star Strike TM (Fall 1988), a fast-paced game of interplanetary ship combat, puts you in the gunner’s chair as you face enemy starships. Space Master: Armored AssaultTM (Winter 1988-89), moves the combat planetside, where Hovertanks, Powered Armor, and Aircraft vie for supremacy. Space Master can also be integrated with Rolemaster; used together they set the stage for sweeping, coherent, science-fantasy campaigns."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9010 - Star Strike",
+    "BookShortName": "Star Strike",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9010",
+    "BookISBN": "1-55806-051-0",
+    "BookAuthor": "Kevin Barrett",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Combat Game",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Combat Games",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9010 - Star Strike.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9011 - Vessel Compendium 1 - Adventurer",
+    "BookShortName": "Vessel Compendium 1 - Adventurer",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9011",
+    "BookISBN": "1-55806-057-X",
+    "BookAuthor": "Tony van Liew",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9011 - Vessel Compendium 1 Adventurer.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9012 - Vessel Compendium 2 - Pursuit Class",
+    "BookShortName": "Vessel Compendium 2 - Pursuit Class",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9012",
+    "BookISBN": "1-55806-059-6",
+    "BookAuthor": "Tony van Liew",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9012 - Vessel Compendium 2 Pursuit Class.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9013 - Vessel Compendium 3 - Imperial Ships",
+    "BookShortName": "Vessel Compendium 3 - Imperial Ships",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9013",
+    "BookISBN": "1-55806-037-5",
+    "BookAuthor": "Tony van Liew",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9013 - Vessel Compendium 3 Imperial Ships.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9020 - Armored Assault",
+    "BookShortName": "Armored Assault",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9020",
+    "BookISBN": "1-55806-060-X",
+    "BookAuthor": "Kevin Barrett",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Combat Game",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Combat Games",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9020 - Armored Assault.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9021 - Armored Reserves",
+    "BookShortName": "Armored Reserves",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9021",
+    "BookISBN": "1-55806-106-1",
+    "BookAuthor": "Kevin Barrett, Tony van Liew",
+    "BookPublished": "1990",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Sourcebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Sourcebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9021 - Armored Reserves.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9050 - Space Master Rulebook",
+    "BookShortName": "Space Master Rulebook",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9050",
+    "BookISBN": "1-55806-172-X",
+    "BookAuthor": "",
+    "BookPublished": "1992",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Rulebook",
+    "BookFormat": "Softcover",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9050 - SpaceMaster.pdf",
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9050 - SpaceMaster - Charts & Tables.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9103 - Tales from Deep Space",
+    "BookShortName": "Tales from Deep Space",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9103",
+    "BookISBN": "1-55806-006-5",
+    "BookAuthor": "Tod Foley",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9103 - Tales from Deep Space.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9104 - War on a Distant Moon",
+    "BookShortName": "War on a Distant Moon",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9104",
+    "BookISBN": "1-55806-020-0",
+    "BookAuthor": "Tod Foley",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9104 - War on a Distant Moon.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9105 - The Durandrium Find, Salvation for House Augustus-Hayes",
+    "BookShortName": "The Durandrium Find, Salvation for House Augustus-Hayes",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9105",
+    "BookISBN": "1-55806-021-9",
+    "BookAuthor": "Leo LaDell",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9105 - The Durandrium Find.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9106 - Legacy of the Ancients, Survivors of a Forgotten Colony Ship",
+    "BookShortName": "Legacy of the Ancients, Survivors of a Forgotten Colony Ship",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9106",
+    "BookISBN": "1-55806-035-9",
+    "BookAuthor": "Leo LaDell",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9106 - Legacy of the Ancients.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9107 - Disaster on Adanis III, Rescue on a Contested World",
+    "BookShortName": "Disaster on Adanis III, Rescue on a Contested World",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9107",
+    "BookISBN": "1-55806-039-1",
+    "BookAuthor": "John Crowdis",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Adventure",
+    "BookFormat": "Softcover",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9107 - Disaster on Adanis III.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9700 - League of Merchants",
+    "BookShortName": "League of Merchants",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9700",
+    "BookISBN": "1-55806-011-1",
+    "BookAuthor": "Terry Kevin Amthor",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/League_of_Merchants_(ICE9700)",
+    "VaultSML": "Spacemaster",
+    "UseTOC": "No",
+    "BookSetting": "Spacemaster",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9700 - League of Merchants.pdf"
+    ],
+    "BookDescription": [
+      "Thick mist hangs on the cliffs of Hestus V, settling over the dark forests. The League exploration ship, Cleopatra, slides silently through the churning clouds, evading Provincial scans. Suddenly she bursts from the low ceiling over a narrow vale. Below les what the Cleopatra seeks; flanked by a pair of waiting Ghedian priests crouches a huge cauldron, brimming with prismatic light. Beautiful crystals glow with an inner fire, for their energy is Psionic power beyond belief. Such power might control even the Empire.",
+      "Cleopatra has found her treasure, and the League will be pleased.",
+      "LEAGUE OF MERCHANTS",
+      "Enter the sinister realm of the League of Merchants, a dynasty of thieves, terrorists and crime lords spanning the Terran Empire-and beyond. Their shadowy tentacles have found their way into every aspect of society, masterminding illegal operations; from raiding ancient ruins to controlling provincial governments.",
+      "League of Merchants is a Space Master Campaign book detailing the complex structure of an interstellar network of outlaws, coordinated by a powerful, secret council of master criminals. Corporations controlled by the League, divisions of operation, bases and important members are included. Every aspect of the League is presented for a GM to fully insinuate it into his SF campaign.",
+      "As free-lance mercenaries, officers of the law, or even League Agents, you can:",
+      "Plunge into an exciting mission where blackmail, doublecross, and the violent sport of Power Raking combine into a complex League frame-up.",
+      "Discover the cause of disturbing events on board your ship after a lone drifting traveler is retrieved from space.",
+      "Attempt to enter Starhaven, the League stronghold guarded by bloodthirsty killers and ancient machines stolen from the crypts of the Old Ones.",
+      "Steal a unique artifact of the supposed long dead K'taviir Empire from Imperial Archaeologists.",
+      "Travel to the quarantined world of Hestus V and discover its coveted mysterious power.",
+      "LEAGUE OF MERCHANTS includes:",
+      "Corporate Readout sheets of League Controlled Companies",
+      "Detailed layouts of Starhaven Space Station",
+      "Five Complete Adventures",
+      "Profiles and stats on League Officials",
+      "Two Full-page Starmaps."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9800 - Raiders from the Frontier",
+    "BookShortName": "Raiders from the Frontier",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9800",
+    "BookISBN": "1-55806-026-X",
+    "BookAuthor": "Alexander Brooke Lindsay III",
+    "BookPublished": "1989",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "Yes",
+    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Raiders_from_the_Frontier_(ICE9800)",
+    "VaultSML": "Spacemaster",
+    "UseTOC": "No",
+    "BookSetting": "Spacemaster",
+    "BookType": "Campaign Setting",
+    "BookFormat": "Softcover",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9800 - Raiders from the Frontier.pdf"
+    ],
+    "BookDescription": [
+      "Graced with abundant resources, Jade_London is envied as one of the Empire’s most powerful and wealthy provinces. Jadium, a metal useful in the construction of starcraft, can only be found here. Jade-London also acts as a buffer between the Imperial core worlds and the Idorian Star Empire.",
+      "The Idorians are cruel, blood-thirsty humanoids determined to disrupt the Terran Empire. Infamous for their disrespect of life and property, these pirate-raiders are believed to be responsible for recent strikes against remote Jadist mines. Plenty of Houses would enjoy undermining Jade-London's materials industry.",
+      "Raiders from the Frontier chronicles the conflict between House Jade-London and its various foes, including the terrifying Idorians. Provided are the history and structure of Jade-London, background on the Idorians, and 4 adventure scenarios which embroil you in the troubles of Jade-London.",
+      "As a space adventurer you can:",
+      "- Uncover a conspiracy to disrupt Jadist mining in the hazardous asteroids of the “Ring of Heaven.”",
+      "– Transport twelve “special personnel” to a remote mining station.",
+      "– Encounter a de-evolved culture which has sunk to violence and treachery.",
+      "– Rescue the count’s son and heir from Idorian rebels.",
+      "Rushing homeward from a profitable ambush in Jade-London province, militants aboard the Idorian raider 'WolfEagle' bask in their new-found wealth. Suddenly, a planet on a near-collision course interrupts the celebration. Miscalculations have brought the plunder-laden craft within a half-power thrust of Zoura, a quarantined planet with strangely variable energy fields. The planet's mystique has stimulated many a traveler's curiosity - but never enough to risk one's life for too close a view. The entire 'WolfEagle' crew would certainly breathe easier with Zoura, its flaring cosmic dust, and rumored dangers well behind them...",
+      "Raiders from the Frontier includes:",
+      "Background and Stats of Jade-London's leaders and personalities.",
+       "Planetary System Descriptions.",
+       "Descriptions of Minor Clams within Jade-London's sphere of influence.",
+       "4 Complete Adventures, including layouts for an Orbital Space Lab.",
+       "One Full-page Starmap."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "ICE9001 - Combat Screen",
+    "BookShortName": "Combat Screen",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE9001",
+    "BookISBN": "1-55806-009-X",
+    "BookAuthor": "",
+    "BookPublished": "1988",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 2nd Edition",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Play Aid",
+    "BookFormat": "Softcover",
+    "BookSeries": "Play Aids",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\2nd Edition\\ICE9001 - Spacemaster Combat Screen & Tables.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "SMD1 - Spacemaster Datanet 01",
+    "BookShortName": "Spacemaster Datanet 01",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD1",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 01.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "SMD2 - Spacemaster Datanet 02",
+    "BookShortName": "Spacemaster Datanet 02",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD2",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 02.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "SMD3 - Spacemaster Datanet 03",
+    "BookShortName": "Spacemaster Datanet 03",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD3",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 03.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "SMD4 - Spacemaster Datanet 04",
+    "BookShortName": "Spacemaster Datanet 04",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD4",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 04.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "SMD5 - Spacemaster Datanet 05",
+    "BookShortName": "Spacemaster Datanet 05",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD5",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 05.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "SMD6 - Spacemaster Datanet 06",
+    "BookShortName": "Spacemaster Datanet 06",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD6",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2007",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 06.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "SMD7 - Spacemaster Datanet 07",
+    "BookShortName": "Spacemaster Datanet 07",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD7",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2007",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 07.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "SMD8 - Spacemaster Datanet 08",
+    "BookShortName": "Spacemaster Datanet 08",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "SMD8",
+    "BookISBN": "",
+    "BookAuthor": "Robert J. Defendi",
+    "BookPublished": "2007",
+    "BookCover": "",
+    "BookRules": "Spacemaster - 3rd Edition",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Spacemaster",
+    "BookType": "Datanet",
+    "BookFormat": "",
+    "BookSeries": "Datanets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Spacemaster\\Datanet\\Spacemaster Datanet 08.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  }
+]

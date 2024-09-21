@@ -1,0 +1,765 @@
+[
+    {
+    "BookName": "Dolmenwood Campaign Book",
+    "BookShortName": "Dolmenwood Campaign Book",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Rule Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "Dolmenwood Core",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Campaign Book.pdf",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Referees Maps"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "A complete referee's guide to the magical forest realm of Dolmenwood — Necrotic Gnome's weird fairy tale campaign setting.",
+      "<b>Secrets of Dolmenwood:</b> Referee's background and introduction to Dolmenwood, delving into the secrets of the ley lines, standing stones, lost shrines, fairy roads, fairy nobles, and Wood Gods.",
+      "<b>Factions and Powers:</b> Seven major factions and two independent powers that vie for martial, spiritual, or occult control of the Wood. Each is detailed with its schemes, history, enclaves, and significant NPCs.",
+      "<b>Settlements:</b> Immersive descriptions of 12 settlements, each with an overview, a map, and descriptions of the most important services, locations, and inhabitants.",
+      "<b>Exploring the Wild:</b> Procedures for handling travel in the wilds of Dolmenwood, including rules and tables for weather, encounters, fishing, foraging, and hunting.",
+      "<b>Hex Descriptions:</b> 200 pages of fantastic locales throughout the Wood, each page covering one of the 200 hexes on the campaign map.",
+      "<b>Campaigns in Dolmenwood:</b> Advice on refereeing campaigns in Dolmenwood, including procedures for designing dungeons in the Wood.",
+      "<b>Treasures and Oddments:</b> Tables for determining treasure hoards, along with a wealth of magic items of all kinds — weapons and armour, scrolls and books, crystals, potions, oils, rings, wands, musical instruments, herbs, fungi, etc.",
+      "<b>Appendices:</b> A miscellany of additional detail, including rumours, new spells, and a plethora of useful indexes."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  } ,
+  {
+    "BookName": "Dolmenwood Monster Book",
+    "BookShortName": "Dolmenwood Monster Book",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Rule Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "Dolmenwood Core",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Monster Book.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "Dolmenwood Player's Book",
+    "BookShortName": "Dolmenwood Player's Book",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Rule Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "Dolmenwood Core",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Players Book.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Character Sheet.pdf",
+      "D:\\OneDrive\\Master Vault\\Extra Book Data\\Dolmenwood Players Book\\Adventuring Gear.md",
+      "D:\\OneDrive\\Master Vault\\Extra Book Data\\Dolmenwood Players Book\\Armour and Weapons.md"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "A complete player's guide to the magical forest realm of Dolmenwood — Necrotic Gnome's weird fairy tale campaign setting.",
+      "<b>Welcome to Dolmenwood:</b> An introduction to the setting, including a player's gazetteer, a player's overview of Dolmenwood, and some rumours and folklore.",
+      "<b>Starting Play:</b> The basics of RPG play and terminology, plus the rules for character creation and advancement.",
+      "<b>Kindreds:</b> Six playable kindreds (breggle, elf, grimalkin, human, mossling, woodgrue), each presented with background info, mechanical abilities, tables of names and backgrounds, a table of 50 random trinkets, and a set of eight tables of quirky characteristics.",
+      "<b>Classes:</b> Nine playable classes (cleric, enchanter, fighter, friar, hunter, knight, magician, minstrel, thief).",
+      "<b>Magic:</b> The rules for arcane, fairy, and holy magic, along with complete spell lists.",
+      "<b>Equipment, Services, and Animals:</b> Detailed lists of adventuring gear, weapons, and armour. Horses, vehicles, and dogs. Richly evocative lists of food, beverages, pipeleaf, herbs, and fungi. Details on hiring the services of specialists and retainers.",
+      "<b>Adventuring:</b> The core rules of the game, including rules for hazards and challenges, travel and camping in the wilds, dungeon exploration, settlements and downtime, and encounters and combat.",
+      "<b>Appendices:</b> Extra details on the Dolmenwood calendar, moon signs, the noble houses, and the major saints. Optional Kindred-Classes for players who prefer to play archetypal non-humans (e.g. a grimalkin, rather than a grimalkin thief or a grimalkin minstrel)."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 4, "title": "Welcome to Dolmenwood"},
+      {"page": 11, "title": "Starting Play"},
+      {"page": 28, "title": "Kindreds"},
+      {"page": 57, "title": "Classes"},
+      {"page": 76, "title": "Magic"},
+      {"page": 115, "title": "Equipment, Services and Animals"},
+      {"page": 136, "title": "Adventuring"},
+      {"page": 173, "title": "Appendices"}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "The Fungus That Came to Blackeswell",
+    "BookShortName": "The Fungus That Came to Blackeswell",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Yves Geens",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\The Fungus That Came to Blackeswell.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  } ,
+  {
+    "BookName": "NG-0024 - Classic Game Set",
+    "BookShortName": "Classic Game Set",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0024",
+    "BookISBN": "978-3-96657-069-5",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rules",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "OSE RuleBooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0024-1 - Classic Game Set - Characters.pdf",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0024-2 - Classic Game Set - Magic.pdf",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0024-3 - Classic Game Set - Adventures.pdf",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0024-4 - Classic Game Set - Monsters.pdf",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0024-5 - Classic Game Set - Treasures.pdf"
+    ],
+    "BookDescription": [
+      "Old-School Essentials Classic Fantasy is also available as a deluxe box set containing everything you need to play! The five books in the Classic Game Set detail:",
+      "<b>Characters:</b> 7 fantastic classes (cleric, dwarf, elf, fighter, halfling, magic-user, thief), full equipment lists, specialists and mercenaries, stronghold construction.",
+      "<b>Magic:</b> The complete set of 34 cleric spells (from 1st to 5th level) and 72 magic-user spells (from 1st to 6th level), for use by players of cleric, elf, and magic-user characters.",
+      "<b>Adventures:</b> Full rules for adventuring in dungeons, the wilderness, and at sea, as well as guidelines for designing and running adventures.",
+      "<b>Monsters:</b> A selection of over 200 classic monsters to challenge adventurers of all levels: dragons and dinosaurs, golems and giants, slimes and oozes, beast-men and unholy spirits, animals monstrous and mundane. Includes complete encounter tables for dungeon levels 1–8+ and all types of wilderness terrain.",
+      "<b>Treasures:</b> A hoard of over 150 wondrous magic items: enchanted arms coveted by every warrior, scrolls, staves, and seeing stones, alchemical concoctions, rings of power, boots and cloaks woven with magic.",
+      "Old-School Essentials Classic Fantasy is a complete retelling of the classic 1980s Basic/Expert game, including all rules, character options, spells, monsters, and magic items.",
+      "The Classic Game Set contains the same game as the Classic Fantasy Rules Tome, just presented in a 5 book set for those who share our love of RPG box sets!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "NG-0025 - Advanced Expansion Set",
+    "BookShortName": "Advanced Expansion Set",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0025",
+    "BookISBN": "",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rules",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "OSE RuleBooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0025-1 - Advanced Expansion Set - Characters.pdf",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0025-2 - Advanced Expansion Set - Magic.pdf",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0025-3 - Advanced Expansion Set - Monsters.pdf",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0025-4 - Advanced Expansion Set - Treasures.pdf"
+    ],
+    "BookDescription": [
+      "Want to take your game to the next level? Pair the  NG-0024 - Classic Game Set with the Advanced Expansion Set and advance your game with reams of new classes, options, monsters, and magic inspired by the weird and wondrous 1970s Advanced 1st Edition game. The four books in the Advanced Expansion Set detail:",
+      "<b>Characters:</b> 9 additional classes (acrobat, assassin, barbarian, bard, druid, illusionist, knight, paladin, ranger), 6 additional races (drow, duergar, gnome, half-elf, half-orc, svirfneblin), rules for choosing character race and class separately, plus optional rules to add extra depth to character creation, combat, and spell casting.",
+      "<b>Magic:</b> Over 100 new spells for bards, druids, gnomes, illusionists, and rangers.",
+      "<b>Monsters:</b> 120 new monsters: mimics, piercers, shambling mounds, banshees, coffer corpses, terrible eyes, metallic dragons, liches, drow, deep ones, the terrifying tarrasque and many more classic Advanced era monsters! Includes complete encounter tables for dungeon levels 1–8+ and all types of wilderness terrain.",
+      "<b>Treasures:</b> 150 new magic items: the apparatus of the crab, ioun stones, the deck of many things, dancing swords, holy avengers, and many more!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "NG-0014 - Classic Fantasy - Rules Tome",
+    "BookShortName": "Classic Fantasy - Rules Tome",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0014",
+    "BookISBN": "",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2019",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rules",
+    "BookFormat": "",
+    "BookSeries": "OSE RuleBooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0014 - Classic Fantasy - Rules Tome.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "Dolmenwood Referee's Screen",
+    "BookShortName": "Dolmenwood Referee's Screen",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Referee's Screen",
+    "BookFormat": "Hardback",
+    "BookSeries": "Referee's Screen",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Referee's Screen.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "Winter's Daughter",
+    "BookShortName": "Winter 's Daughter",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "Levels 1 - 3",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Winter's Daughter.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "NG-0029 - Adventure Anthology 1",
+    "BookShortName": "Adventure Anthology 1",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0029",
+    "BookISBN": "978-3-96657-072-5",
+    "BookAuthor": "Giuseppe Rotondo, Brad Kerr, Glynn Seal, D. M. Wilson and Sarah Brunt",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure Anthology",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventure Anthology",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0029 - Adventure Anthology 1.pdf"
+    ],
+    "BookDescription": [
+      "Four short adventures for Old-School Essentials, taking adventurers from disease-ridden sewers and bejeweled vaults, to sinister temples and to the deep void of space.",
+      "The Jeweler’s Sanctum (level 1–3): Delve into the abandoned workshop of a jeweler-magician.",
+      "Curse of the Maggot God (level 2–3): Brave the sewer lair of a maggot-worshiping heretic.",
+      "The Sunbathers (level 3): Uncover the dark secrets of the accursed temple of Lethe.",
+      "The Comet That Time Forgot (level 9+): Escape from a doomed comet hurtling through space."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "NG-0030 - Adventure Anthology 2",
+    "BookShortName": "Adventure Anthology 2",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0030",
+    "BookISBN": "978-3-96657-074-9",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure Anthology",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventure Anthology",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0030 - Adventure Anthology 2.pdf"
+    ],
+    "BookDescription": [
+      "Four short adventures for Old-School Essentials, taking adventurers from musty barrow mounds and gnomish shrines, to sinister cathedrals and accursed stepwells.",
+      "Barrow of the Bone Blaggards (level 1–3): Unearth the necromantic secrets of a freshly opened barrow mound.",
+      "Shrine of the Oozing Serpent (level 1–3): Delve into the slime-filled lair of a grease dragon and her amphibious minions.",
+      "Cathedral of the Crimson Death (level 4–6): Defeat an evil death cult and their plans for necrotic world domination.",
+      "The Ravener’s Ghat (level 6–8): Explore the accursed ruins of an ancient rakshasa’s temple."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "NG-0018 - Advanced Fantasy Referee's Tome",
+    "BookShortName": "Advanced Fantasy Referee's Tome",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0018",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rule Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "OSE RuleBooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0018 - Advanced Fantasy Referee's Tome.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "NG-0019 - Advanced Fantasy Reference Booklet",
+    "BookShortName": "Advanced Fantasy Reference Booklet",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0019",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Rule Book",
+    "BookFormat": "Hardback",
+    "BookSeries": "OSE RuleBooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0019 - Advanced Fantasy Reference Booklet.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "NG-0001 - Winter's Daughter",
+    "BookShortName": "Winter's Daughter",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0001",
+    "BookISBN": "978-3-96657-002-2",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2021",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0001 - Winter's Daughter\\NG-0001 - Winter's Daughter.pdf",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0001 - Winter's Daughter\\NG-0001 - Winter's Daughter - Unkeyed Maps.pdf"
+    ],
+    "BookDescription": [
+      "The tomb of an ancient hero, lost in the tangled depths of the woods. A ring of standing stones, guarded by the sinister Drune cult. A fairy princess who watches with ageless patience from beyond the veil of the mortal. A forgotten treasure that holds the key to her heart.",
+      "A romantic fairy tale dungeon adventure for characters of 1st to 2nd level.",
+      "Encompasses woodland, tomb, and fairy otherworld—all in one handy package!",
+      "Keyed in a quick-reference, bullet point format.",
+      "Unlabelled map included for VTT use.",
+      "Revised reprint now with full colour interior layout and art!"
+    ],
+    "TableOfContents": [
+      {
+      "title": "Winter's Daughter",
+      "chapters": [
+        {"page": 3, "title": "Introduction"},
+        {"page": 4, "title": "Referee’s Background"},
+        {"page": 6, "title": "Hooks"},
+        {"page": 7, "title": "Players’ Background"},
+        {"page": 8, "title": "Dolmenwood Lore"},
+        {"page": 9, "title": "Outside the Mound"},
+        {"page": 12, "title": "The Burial Mound"},
+        {"page": 19, "title": "The Fairy Prison"},
+        {"page": 23, "title": "Epilogue"},
+        {"page": 24, "title": "Magic Items"}
+        ]    
+    }
+  ]
+  },
+  {
+    "BookName": "NG-0011 - The Hole in the Oak",
+    "BookShortName": "The Hole in the Oak",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0011",
+    "BookISBN": "978-3-96657-022-0",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2021",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "Levels 1 - 2",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0011 - The Hole in the Oak\\NG-0011 - The Hole in the Oak.pdf",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0011 - The Hole in the Oak\\NG-0011 - The Hole in the Oak - Map.jpg"
+    ],
+    "BookDescription": [
+      "A hole in an old oak tree leads characters down to a maze of twisting, root-riddled passageways, the chambers of an ancient wizard-complex, and the banks of an underground river where once a reptile cult built their temples.",
+      "A classic expedition into the Mythic Underworld for characters of 1st to 2nd level.",
+      "60 keyed areas, rumour table, loot summary, dungeon background info, suggestions for expanding the dungeon.",
+      "Keyed in a quick-reference, bullet point format.",
+      "Unlabelled map included for VTT use.",
+      "The Hole in the Oak can be linked with NG-0020 - The Incandescent Grottoes to form a large, 3 level dungeon with over 115 keyed encounter areas!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 3, "title": "Introduction"},
+      {"page": 4, "title": "Adventure Overview"},
+      {"page": 6, "title": "Rumours"},
+      {"page": 7, "title": "Treasure in the Dungeon"},
+      {"page": 8, "title": "Area Descriptions"},
+      {"page": 40, "title": "Expanding the Dungeon"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "Dolmenwood Maps Book",
+    "BookShortName": "Dolmenwood Maps Book",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Maps Book",
+    "BookFormat": "",
+    "BookSeries": "Maps Book",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Dolmenwood Maps Book.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "The Ruined Abbey of St Clewyd",
+    "BookShortName": "The Ruined Abbey of St Clewyd",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\The Ruined Abbey of St Clewyd.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "Emelda's Song",
+    "BookShortName": "Emelda's Song",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dolmenwood",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\Dolmenwood\\Emelda's Song.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "NG-0020 - The Incandescent Grottoes",
+    "BookShortName": "The Incandescent Grottoes",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0020",
+    "BookISBN": "978-3-96657-051-0",
+    "BookAuthor": "Gavin Norman",
+    "BookPublished": "2021",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "Levels 1 - 2",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0020 - The Incandescent Grottoes\\NG-0020 - The Incandescent Grottoes.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0020 - The Incandescent Grottoes\\The_Incandescent_Grottoes_v1-0_VTT_Map_Level_2_Gridless.png",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0020 - The Incandescent Grottoes\\The_Incandescent_Grottoes_v1-0_VTT_Map_Level_1.jpg",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0020 - The Incandescent Grottoes\\The_Incandescent_Grottoes_v1-0_VTT_Map_Level_1_Gridless.png",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0020 - The Incandescent Grottoes\\The_Incandescent_Grottoes_v1-0_VTT_Map_Level_2.jpg"
+    ],
+    "BookDescription": [
+      "A bubbling stream cascades into a hole in the earth, leading to a series of underground watercourses and scintillating grottoes. Adventurers who delve within may discover odd mosses and fungi, a ruined temple complex, and the lair of a crystal-eating dream dragon.",
+      "A classic expedition into the Mythic Underworld for characters of 1st to 2nd level.",
+      "57 keyed areas, rumour table, loot summary, dungeon background info, suggestions for expanding the dungeon.",
+      "Keyed in a quick-reference, bullet point format.",
+      "Unlabelled map included for VTT use.",
+      "The Incandescent Grottoes can be linked with The Hole in the Oak to form a large, 3 level dungeon with over 115 keyed encounter areas!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "The Incandescent Grottoes",
+    "chapters": [
+      {"page": 3, "title": "Introduction"},
+      {"page": 4, "title": "Adventure Overview"},
+      {"page": 6, "title": "Rumours"},
+      {"page": 7, "title": "Treasure in the Dungeon"},
+      {"page": 8, "title": "Random Happenings"},
+      {"page": 10, "title": "Area Descriptions: Level 1"},
+      {"page": 34, "title": "Area Descriptions: Level 2"},
+      {"page": 48, "title": "Expanding the Dungeon"}
+      ]    
+  }
+  ]
+  }
+]

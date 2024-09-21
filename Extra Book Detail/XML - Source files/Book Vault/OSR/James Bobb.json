@@ -1,0 +1,37 @@
+[
+  {
+    "BookName": "Dungeons & Dragons - 1981 BX Omnibus",
+    "BookShortName": "Dungeons & Dragons - 1981 BX Omnibus",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "James Bobb",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons & Dragons",
+    "BookEdition": "BX",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Dungeons & Dragons",
+    "BookType": "BX Omnibus",
+    "BookFormat": "",
+    "BookSeries": "BX Omnibus",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\James Bobb\\Dungeons & Dragons - 1981 BX Omnibus Release 3.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+}
+]

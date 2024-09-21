@@ -1,0 +1,27 @@
+[
+  {
+   "Name": "Run",
+   "DnDClass": "Wizard",
+   "Level": 1,
+   "LevelName": "1st Level Spell",
+   "School": "Enchantment",
+   "Range": "Touch",
+   "Save": "None",
+   "Duration": "4 hrs. + 1d4 hrs.",
+   "Components": "V, S, M",
+   "AoE": "One or more persons",
+   "CastingTime": "1 round",
+   "SubField": "",
+   "SourceShort": "TSR2017",
+   "SourceLong": "TSR2017 - Unearthed Arcana",
+   "Page": 52,
+   "Vault": "Yes",
+   "First Letter": "R",
+   "SpellDescription": [
+   "Only persons (cf. charm person: human, demihuman, or humanoid of man-size or smaller) in their natural form are affected by this spell. The run spell enables the person to run at twice normal speed, up to a movement rate of 24. This pace can be maintained for 5 to 8 hours without tiring. However, after so running the individual must spend a like number of hours resting, as well as drinking plenty of liquids and eating heartily.",
+   "For every 2 levels of experience of the spellcaster, another person can be affected: at 4th level, 2 persons can be empowered to run; at 6th level, 3 persons; etc. The spell is mostly used for quick travel by messengers, scouts, and others who must travel far and quickly. Generally, it increases a day's foot travel rate by 70% to 100%.",
+   "The material component of this spell is an elixir made of spring water and the oil of 5 to 8 beans of a spurge (caster oil) plant."
+   ],
+   "Edition": "2E"
+ },
+]
