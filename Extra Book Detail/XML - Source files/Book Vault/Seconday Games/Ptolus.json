@@ -8,7 +8,7 @@
     "BookAuthor": "Monte Cook",
     "BookPublished": "",
     "BookCover": "",
-    "BookRules": "Dungeons and Dragons",
+    "BookRules": "5th Edition Comptabible",
     "BookEdition": "5th Edition",
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
@@ -120,6 +120,384 @@
     "But the dungeons aren't Ptolus's only secret. First and foremost is that which hangs above every head in the city. The ancient fortress of Jabel Shammar was not built atop a rocky spire—in fact, the fortress came first. The vaunted spire resulted from the very earth attempting to thrust the evil within that dread place as far from it as possible.",
     "Care to come to Ptolus, City by the Spire? Dare to try your luck in the catacombs below the streets? You might find great treasure, but you will almost certainly encounter deadly danger as well. Perhaps you’d rather pursue intrigue and adventure in the city’s streets, alleyways, pavilions and temples—for there’s plenty to be experienced there. No matter what you choose, you’ll likely find something far more intricate and complex than you ever expected.",
     "And should you survive it all, will you hone your skills and find power and knowledge that might allow you to explore the infamous Jabel Shammar at the top of the Spire itself? Such an undertaking would certainly be the most epic of all—and it seems as if the road of any truly great hero ultimately points in that direction . . . ."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG82 - Return Of The Ebon Hand",
+  "BookShortName": "Return Of The Ebon Hand",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG82",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ptolus",
+  "UseTOC": "No",
+  "BookSetting": "Ptolus",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ptolus\\MCG82 - Return Of The Ebon Hand.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG271 - Doctrine Of Ghul",
+  "BookShortName": "Doctrine Of Ghul",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG271",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ptolus",
+  "UseTOC": "No",
+  "BookSetting": "Ptolus",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ptolus\\MCG271 - Doctrine Of Ghul.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG273 - The Banewarrens",
+  "BookShortName": "The Banewarrens",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG273",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System / 5th Edition Comptabible",
+  "BookEdition": "2nd Edition / 5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ptolus",
+  "UseTOC": "No",
+  "BookSetting": "Ptolus",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ptolus\\MCG273 - The Banewarrens.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG276 - The Runeblood Blessing",
+  "BookShortName": "The Runeblood Blessing",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG276",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ptolus",
+  "UseTOC": "No",
+  "BookSetting": "Ptolus",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ptolus\\MCG276 - The Runeblood Blessing.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG268 - A Player's Guide to Ptolus",
+  "BookShortName": "A Player's Guide to Ptolus",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG268",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Ptolus",
+  "UseTOC": "No",
+  "BookSetting": "Ptolus",
+  "BookType": "Player's Guide",
+  "BookFormat": "",
+  "BookSeries": "Player's Guides",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ptolus\\MCG268 - A Player's Guide to Ptolus.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "WW16114 - Ptolus",
+  "BookShortName": "Ptolus",
+  "BookPublisher": "Malhavoc Press",
+  "BookCode": "WW16114",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "d20",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Ptolus",
+  "BookType": "Setting",
+  "BookFormat": "Hardback",
+  "BookSeries": "Setting",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ptolus\\WW16114 - Ptolus.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "WW16115 - The Night of Dissolution",
+  "BookShortName": "The Night of Dissolution",
+  "BookPublisher": "Malhavoc Press",
+  "BookCode": "WW16115",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "d20",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Ptolus",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ptolus\\WW16115 - The Night of Dissolution.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "WW16116 - A Player's Guide to Ptolus",
+  "BookShortName": "A Player's Guide to Ptolus",
+  "BookPublisher": "Malhavoc Press",
+  "BookCode": "WW16116",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "d20",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Ptolus",
+  "BookType": "Player's Guide",
+  "BookFormat": "",
+  "BookSeries": "Player's Guides",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ptolus\\WW16116 - A Player's Guide to Ptolus.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG278 - The Night of Dissolution",
+  "BookShortName": "The Night of Dissolution",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG278",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System / 5th Edition Comptabible",
+  "BookEdition": "2nd Edition / 5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Ptolus",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Ptolus\\MCG278 - The Night of Dissolution.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
   ],
   "TableOfContents": [
     {

@@ -209,11 +209,11 @@
 ]
 },
 {
-  "BookName": "Path of Glory",
+  "BookName": "FLFDGB015 - Path of Glory",
   "BookShortName": "Path of Glory",
   "BookPublisher": "Free League Publishing",
-  "BookCode": "",
-  "BookISBN": "",
+  "BookCode": "FLFDGB015",
+  "BookISBN": "978-91-89765-55-9",
   "BookAuthor": "",
   "BookPublished": "2024",
   "BookCover": "",
@@ -232,10 +232,10 @@
   "BookSeries": "Adventure Campaign",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\"
+    "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB015 - Path of Glory.pdf"
   ],
   "BookMD": [
-    "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
+    "D:\\OneDrive\\Master Vault\\Dragonbane\\FLFDGB015 - Path of Glory - Extras.lnk"
   ],
   "BookDescription": [
     "Coming to the legendary Dead Forest in search of treasure, glory and a solution to the ancient curse laying waste to the forest, the adventurers soon find themselves embroiled in an epic conflict reaching back to the very foundations of the world. The quest will take the adventurers through the depths of the forest, under the mountain, and into a strange new land where the fate of the world will be determined."

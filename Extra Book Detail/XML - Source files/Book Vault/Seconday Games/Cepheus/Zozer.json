@@ -629,5 +629,90 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Dirtside",
+  "BookShortName": "Dirtside",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Hostile",
+  "BookType": "Supplement",
+  "BookFormat": "PDF",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cepheus\\Zozer\\Dirtside.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Cepheus\\Zozer\\Dirtside - regional-hex.png",
+    "D:\\OneDrive\\Master Vault\\Cepheus\\Zozer\\Dirtside - WMG-Final.png"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Crew Expendable",
+  "BookShortName": "Crew Expendable",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Hostile",
+  "BookType": "Supplement",
+  "BookFormat": "PDF",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cepheus\\Zozer\\Crew Expendable.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

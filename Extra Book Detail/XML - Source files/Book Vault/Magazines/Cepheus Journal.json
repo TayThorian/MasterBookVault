@@ -532,5 +532,40 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Cepheus Journal - Issue 016",
+  "BookShortName": "Cepheus Journal - Issue 016",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "Cepheus Journal",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Journal",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Issue 011 - Issue 020",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Magazines\\Cepheus Journal\\Cepheus Journal - Issue 016.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

@@ -1991,5 +1991,47 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "CAT28009 - Smooth Operations",
+  "BookShortName": "Smooth Operations",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28009",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Shadowrun",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28009 - Smooth Operations.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

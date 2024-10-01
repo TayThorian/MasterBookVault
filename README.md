@@ -5,7 +5,7 @@
 - MCG329 - Planar Bestiary
 - MCG372 - Cypher System Bestiary
 ## Free League Publishing
-- - Path of Glory
+- FLFDGB015 - Path of Glory
 ## Iron Crown Enterprises
 - ICE2210 - Middle-Earth Adventure Guidebook II
 - ICE2400 - Umbar - Haven of the Corsairs
@@ -103,7 +103,7 @@
 - MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
 ## Free League Publishing
-- - Path of Glory
+- FLFDGB015 - Path of Glory
 ## Iron Crown Enterprises
 - ICE9300 - Imperial Crisis House Devon in Turmoil
 - ICE9600 - Beyond the Core

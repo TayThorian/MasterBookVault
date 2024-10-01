@@ -1,0 +1,383 @@
+[
+  {
+    "BookName": "GDW1000 - Traveller 2300 - Mankind Discovers The Stars",
+    "BookShortName": "Traveller 2300 - Mankind Discovers The Stars",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "GDW1000",
+    "BookISBN": "0-943580-16-1",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "2300",
+    "BookEdition": "GDW - 1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "2300",
+    "BookType": "Rulebook",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1000 - Traveller 2300 - Mankind Discovers The Stars - Player's Manual.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1000 - Traveller 2300 - Mankind Discovers The Stars - Naval Architects Manual.pdf",      
+      "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1000 - Traveller 2300 - Mankind Discovers The Stars - Referee's Manual.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1000 - Traveller 2300 - Mankind Discovers The Stars - Ship Status Sheets.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "GDW1010 - Aurore Sourcebook",
+  "BookShortName": "Aurore Sourcebook",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1010",
+  "BookISBN": "0-943580-37-4",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1010 - Aurore Sourcebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1011 - Ships of the French Arm",
+  "BookShortName": "Ships of the French Arm",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1011",
+  "BookISBN": "0-943580-34-X",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1011 - Ships of the French Arm.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1012 - Nyotekundu Sourcebook",
+  "BookShortName": "Nyotekundu Sourcebook",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1012",
+  "BookISBN": "0-943580-42-0",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1012 - Nyotekundu Sourcebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1030 - Beanstalk",
+  "BookShortName": "Beanstalk",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1030",
+  "BookISBN": "0-943580-26-9",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1030 - Beanstalk.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1031 - Energy Curve",
+  "BookShortName": "Energy Curve",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1031",
+  "BookISBN": "0-943580-20-X",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1031 - Energy Curve.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1032 - Kafer Dawn",
+  "BookShortName": "Kafer Dawn",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1032",
+  "BookISBN": "0-943580-21-8",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1032 - Kafer Dawn.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1033 - Mission Arcturus",
+  "BookShortName": "Mission Arcturus",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1033",
+  "BookISBN": "0-943580-45-5",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1033 - Mission Arcturus.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW1050 - Star Cruiser",
+  "BookShortName": "Star Cruiser",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW1050",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2300",
+  "BookEdition": "GDW - 1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1050 - Star Cruiser.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

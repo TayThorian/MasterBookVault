@@ -176,5 +176,173 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "The Oblation Slab of the Hepatomancer",
+  "BookShortName": "The Oblation Slab of the Hepatomancer",
+  "BookPublisher": "North Wind Adventures",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Hyperborea",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Hyperborea\\The Oblation Slab of the Hepatomancer.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "The Thousand Eyes of Thaumagorga",
+  "BookShortName": "The Thousand Eyes of Thaumagorga",
+  "BookPublisher": "North Wind Adventures",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "",
+  "BookOwnedPDF": "",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Hyperborea",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Hyperborea\\The Thousand Eyes of Thaumagorga.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "The Vanishing Isles of the Summer King",
+  "BookShortName": "The Vanishing Isles of the Summer King",
+  "BookPublisher": "North Wind Adventures",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "",
+  "BookOwnedPDF": "",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Hyperborea",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Hyperborea\\The Vanishing Isles of the Summer King.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "The Tower of the Mammoth",
+  "BookShortName": "The Tower of the Mammoth",
+  "BookPublisher": "North Wind Adventures",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "",
+  "BookOwnedPDF": "",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Hyperborea",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Hyperborea\\The Tower of the Mammoth.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Hyperborea\\Tower of the Mammoth Maps.lnk"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
