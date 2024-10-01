@@ -48,6 +48,9 @@
 - ICE8204 - Halls of the Elven King
 - ICE8205 - Nazguls Citadel
 - ICE8302 - Minas Ithil
+- GCP-RMU-001 - Core Law
+- GCP-RMU-002 - Spell Law
+- GCP-RMU-003 - Treasure Law
 - GCP-SMP-4500 - Space Master Privateers
 - GCP-SMP-4511 - Robotics Manual
 - GCP-SMP-4512 - Equipment Manual
