@@ -3546,5 +3546,47 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "Classic Traveller Facsimile Edition",
+    "BookShortName": "Classic Traveller Facsimile Edition",
+    "BookPublisher": "Game Designers Workshop",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Traveller",
+    "UseTOC": "No",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "PDF",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\Classic Traveller Facsimile Edition.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

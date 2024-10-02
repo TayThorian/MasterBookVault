@@ -123,10 +123,7 @@
 ## Digest Group Publications
 - - Manhunt
 ## Steve Jackson Games
-- SJG6602 - Traveller
 - SJG6603 - Alien Races 1 - Zhodani, Vargr, and Other Races of the Spinward Marches
-- SJG6604 - Star Mercs
-- SJG6606 - Far Trader
 - SJG6610 - Starports
 - SJG6613 - Starships
 - SJG6607 - Alien Races 2 - Aslan, K'kree, and Other Races Rimward of the Imperium
@@ -135,6 +132,9 @@
 - SJG6614 - Ground Forces
 - SJG6615 - Rim of Fire
 - SJG6623 - Humaniti
+- SJG6624 - Nobles
+- SJG6631 - Sword Worlds
+- SJG6616 - Modular Cutter
 ## Mongoose Publishing
 - MGP40095 - Central Supply Catalogue -Update 2023
 - MGP40087 - High Guard Update 2022

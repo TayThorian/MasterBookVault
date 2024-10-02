@@ -4067,5 +4067,47 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "MGP40126 - Opening Moves",
+    "BookShortName": "Opening Moves",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40126",
+    "BookISBN": "978-1-916675-28-5",
+    "BookAuthor": "M J Dougherty",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "Third Imperium",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "The Fifth Frontier War",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40126 - Opening Moves.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

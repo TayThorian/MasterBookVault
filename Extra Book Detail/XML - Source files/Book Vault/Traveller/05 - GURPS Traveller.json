@@ -11,7 +11,7 @@
     "BookRules": "Traveller",
     "BookEdition": "GURPS Traveller 3rd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Traveller_(SJG6602)",
@@ -187,7 +187,7 @@
   "BookRules": "Traveller",
   "BookEdition": "GURPS Traveller 3rd Edition",
   "BookPhysical": "Yes",
-  "BookOwnedPDF": "To Source",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookWiki": "",
   "WikiPage": "",
@@ -236,7 +236,7 @@
   "BookRules": "Traveller",
   "BookEdition": "GURPS Traveller 3rd Edition",
   "BookPhysical": "Yes",
-  "BookOwnedPDF": "To Source",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookWiki": "",
   "WikiPage": "",
@@ -664,6 +664,148 @@
     "Never-before-published details on the societies and cultures of 16 races of Humaniti.",
     "Maps of the Answerin, Darrians, Irhadre, Kargol, Luriani, Nexxies, and Otrai homeworlds.",
     "Background histories and character-creation details for all 16 races."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SJG6624 - Nobles",
+  "BookShortName": "Nobles",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6624",
+  "BookISBN": "1-55634-432-5",
+  "BookAuthor": "Loren Wiseman",
+  "BookPublished": "2005",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "GURPS Traveller",
+  "UseTOC": "No",
+  "BookSetting": "GURPS Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6624 - Nobles.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Lords of the Stars",
+    "From the Imperial family to the lowest knight; from the fantastically wealthy duchess on her private estate world to the impoverished baronet who barely has a Free Trader's bunk to call his own; from the archduke who governs hundreds of worlds to the knight with no formal duties – in Traveller, the aristocracy plays a major role in society, in government, and in the military.",
+    "Would you like to serve one of the Imperium's nobles . . . or be one? GURPS Traveller: Nobles details the lifestyle, fortunes, duties, and responsibilities of the nobility in the Third Imperium, the Vilani ruling class at the height of the ZiruSirka, and the Darrian and Zhodani systems.",
+    "Nobles contains:",
+    "A close-up look at the most powerful people in the GURPS Traveller universe, with complete GURPS stats for 13 major characters – including Emperor Strephon and Empress Iolanthe – and capsule biographies of many others.",
+    "Deck plans for the Wanderer-class yacht, the Midas-class courier, and the Condor-class racing yacht – plus floor plans of mansions and private getaways.",
+    "Details on life in the Imperial Palace . . . wealth, power, danger, and intrigue. If your Traveller campaign aims for real power, here's where it will climax."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SJG6631 - Sword Worlds",
+  "BookShortName": "Sword Worlds",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6631",
+  "BookISBN": "1-55634-725-1",
+  "BookAuthor": "Paul Drye, Hans Rancke-Madsen, Robert Prior",
+  "BookPublished": "2004",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "GURPS Traveller",
+  "UseTOC": "No",
+  "BookSetting": "GURPS Traveller",
+  "BookType": "Sourcebook",
+  "BookFormat": "Softback",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6631 - Sword Worlds.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "The Day After Ragnarok",
+    "The Sword Worlds stand at the border of the Third Imperium, a small but proud civilization descended from ancient Terran migrants. Their inhabitants have spent centuries fighting for independence – from the Imperium, from the other great empires, even from each other.",
+    "A decade ago, the Sword Worlds went to war against the Third Imperium. They lost. Today, the Sword Worlders are in search of a new destiny, in a universe where their fierce pride seems headed for an inevitable fall.",
+    "GURPS Traveller: Sword Worlds brings this unique culture to life for the player and GM. Every world in the area is described in detail, as are local history, social features, special technologies, and important people. A wealth of adventure seeds gives the GM plenty of starting points, for any campaign set in this distinctive region of the Traveller setting."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SJG6616 - Modular Cutter",
+  "BookShortName": "Modular Cutter",
+  "BookPublisher": "Steve Jackson Games",
+  "BookCode": "SJG6616",
+  "BookISBN": "1-55634-434-1",
+  "BookAuthor": "Andy Akins, Loren Wiseman",
+  "BookPublished": "2001",
+  "BookCover": "",
+  "BookRules": "Traveller",
+  "BookEdition": "GURPS Traveller 3rd Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "GURPS Traveller",
+  "UseTOC": "No",
+  "BookSetting": "GURPS Traveller",
+  "BookType": "Supplement",
+  "BookFormat": "Softback",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\05 - GURPS Traveller\\SJG6616 - Modular Cutter.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "The Ship of a Thousand Uses",
+    "With its legendary utility and flexibility, the 50-ton modular cutter has spread across the Imperium. Its interchangeable payloads can turn cargo hauler into battle craft or research vessel in the time it takes to unlock one module and load the next.",
+    "For the first time ever, GURPS Traveller: Modular Cutter details the operation of and options for this ubiquitous vessel. Discover:",
+    "The inner workings of modular shipping . . . including the unpleasant consequences of haphazard module-handling.",
+    "A wide variety of alternate module-carrying ships, from the small Hiver version of the cutter to huge container starships.",
+    "Scores of alternate modules to make the modular cutter fit any mission profile.",
+    "Information on designing custom modular vessels using the starship-construction rules in GURPS Traveller.",
+    "In a universe of mystery, it's impossible to know what tools you'll need to face tomorrow's challenges. Prepare yourself for all contingencies with GURPS Traveller: Modular Cutter!"
   ],
   "TableOfContents": [
     {

@@ -2651,5 +2651,54 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "WTCD09910000 - Dragonlance - Shadow of the Dragon Queen",
+    "BookShortName": "Dragonlance - Shadow of the Dragon Queen",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCD09910000",
+    "BookISBN": "978-0-7869-6828-2",
+    "BookAuthor": "",
+    "BookPublished": "2022",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "Dragonlance",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Dragonlance\\5E\\WTCD09910000 - Dragonlance - Shadow of the Dragon Queen.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "March to war against the Dragon Armies in this adventure for the world’s greatest roleplaying game.",
+      "Takhisis the Dragon Queen has returned to the world of Krynn. Across the land, her armies of fanatical draconians wage a brutal war of conquest. As the Dragon Armies march on the unprepared nation of Solamnia, only the defenders of the city of Kalaman stand in their way. But the Dragon Armies want more than just to crush their foes. An ancient evil in the Dragon Queen’s service seeks a magical weapon that could dominate Krynn for all time.",
+      "Dragonlance: Shadow of the Dragon Queen is a tale of conflict and defiance set during the legendary War of the Lance. Create characters from Krynn, the world of the Dragonlance setting, then march them to the front lines of battle against the terrifying Dragon Armies.",
+      "Optionally, use the Dragonlance: Warriors of Krynn board game to bring this adventure’s massive battles to your Dungeons & Dragons game.",
+      "World at War: Introduces war as a genre of play to fifth edition Dungeons & Dragons.",
+      "Dragonlance: Introduces the Dragonlance setting with a focus on the War of the Lance and an overview of what players and DMs need to run adventures during this world spanning conflict.",
+      "Heroes of War: Provides character creation rules highlighting core elements of the Dragonlance setting, including the kender race and new backgrounds for the Knight of Solamnia and Mage of High Sorcery magic-users. Also introduces the Lunar Sorcery sorcerer subclass with new spells that bind your character to Krynn's three mystical moons and imbues you with lunar magic.",
+      "Villains: Pits heroes against the infamous death knight Lord Soth and his army of draconians."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
