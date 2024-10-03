@@ -1,0 +1,86 @@
+[
+  {
+    "BookName": "MUH1140101 - Dreams and Machines Players Guide",
+    "BookShortName": "Dreams and Machines Players Guide",
+    "BookPublisher": "Modiphius",
+    "BookCode": "MUH1140101",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "2d20",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Dreams and Machines",
+    "UseTOC": "No",
+    "BookSetting": "Dreams and Machines",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Dreams and Machines\\MUH1140101 - Dreams and Machines Players Guide.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "MUH1140102 - Dreams and Machines Gamesmasters Guide",
+  "BookShortName": "Dreams and Machines Gamesmasters Guide",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH1140102",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dreams and Machines",
+  "UseTOC": "No",
+  "BookSetting": "Dreams and Machines",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dreams and Machines\\MUH1140102 - Dreams and Machines Gamesmasters Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

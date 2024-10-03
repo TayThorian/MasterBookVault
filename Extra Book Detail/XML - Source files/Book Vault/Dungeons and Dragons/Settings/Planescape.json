@@ -166,5 +166,49 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "WTCD2437 - Planescape - Adventures in the Multiverse",
+  "BookShortName": "Planescape - Adventures in the Multiverse",
+  "BookPublisher": "Wizards of the Coast",
+  "BookCode": "WTCD2437",
+  "BookISBN": "",
+  "BookAuthor": "Justice Ramin Arman, Dan Dillon & F. Wesley Schneider",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Planescape",
+  "UseTOC": "No",
+  "BookSetting": "Planescape",
+  "BookType": "Accessory",
+  "BookFormat": "Slipcase",
+  "BookSeries": "Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\WTCD2437 - Planescape - Adventures in the Multiverse - Sigil and the Outlands.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\WTCD2437 - Planescape - Adventures in the Multiverse - Turn of Fortune's Wheel.pdf",
+    "D:\\OneDrive\\Master Vault\\Planescape\\WTCD2437 - Planescape - Adventures in the Multiverse - Dungeon Master's Screen.pdf",
+    "D:\\OneDrive\\Master Vault\\Planescape\\WTCD2437 - Planescape - Adventures in the Multiverse - Morte's Planar Parade.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

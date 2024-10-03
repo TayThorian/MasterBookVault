@@ -33,5 +33,47 @@
       ]    
   }
 ]
+},
+{
+  "BookName": "The Monster Overhaul",
+  "BookShortName": "The Monster Overhaul",
+  "BookPublisher": "Skerples",
+  "BookCode": "",
+  "BookISBN": "978-1-9992573-2-3",
+  "BookAuthor": "Skerples, CoinsandScrolls",
+  "BookPublished": "2023",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "OSR",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Bestiary",
+  "BookFormat": "",
+  "BookSeries": "Bestiary",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Skerples\\The Monster Overhaul.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

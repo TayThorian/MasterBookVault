@@ -48,10 +48,10 @@
 ]
 },
 {
-  "BookName": "Urban Operations",
+  "BookName": "FLFT2K008 - Urban Operations",
   "BookShortName": "Urban Operations",
   "BookPublisher": "Free League Publishing",
-  "BookCode": "",
+  "BookCode": "FLFT2K008",
   "BookISBN": "978-91-89143-85-2",
   "BookAuthor": "Tomas Härenstam",
   "BookPublished": "2022",
@@ -67,7 +67,7 @@
   "BookSeries": "Expansions",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\Twlight 2000\\4th Edition\\Urban Operations .pdf"
+    "D:\\OneDrive\\Master Vault\\Twlight 2000\\4th Edition\\FLFT2K008 - Urban Operations.pdf"
   ],
   "BookDescription": [
     "Urban Operations, the first expansion to the new edition of RPG classic Twilight: 2000, is a massive modular expansion that includes everything you need to play in urban environments. The expansion is loosely based on the classic module Free City of Krakow from the first edition of Twilight: 2000 RPG, but designed to be used in any city environment.",
@@ -94,7 +94,7 @@
   "BookName": "FLFT2K010 - The Black Madonna",
   "BookShortName": "The Black Madonna",
   "BookPublisher": "Free League Publishing",
-  "BookCode": "FLFT2K010 - ",
+  "BookCode": "FLFT2K010",
   "BookISBN": "978-91-89765-36-8",
   "BookAuthor": "",
   "BookPublished": "2024",
@@ -114,9 +114,10 @@
   "BookSeries": "Expansions",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\Twlight 2000\\4th Edition\\The Black Madonna.pdf"
+    "D:\\OneDrive\\Master Vault\\Twlight 2000\\4th Edition\\FLFT2K010 - The Black Madonna.pdf"
   ],
   "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Twlight 2000\\4th Edition\\The Black Madonna.pdf",
     "D:\\OneDrive\\Master Vault\\Twlight 2000\\4th Edition\\The Black Madonna - Extras.lnk"
   ],
   "BookDescription": [

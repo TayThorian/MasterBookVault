@@ -130,5 +130,341 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "AUT1015 - Barbarian Conquerors Of Kanahu",
+  "BookShortName": "Barbarian Conquerors Of Kanahu",
+  "BookPublisher": "Autarch",
+  "BookCode": "AUT1015",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Adventurer Conqueror King System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Adventurer Conqueror King System",
+  "UseTOC": "No",
+  "BookSetting": "Adventurer Conqueror King System",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AUT1015 - Barbarian Conquerors Of Kanahu.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "AX1 - Sinister Stone of Sakkara",
+  "BookShortName": "Sinister Stone of Sakkara",
+  "BookPublisher": "Autarch",
+  "BookCode": "AX1",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Adventurer Conqueror King System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Adventurer Conqueror King System",
+  "UseTOC": "No",
+  "BookSetting": "Adventurer Conqueror King System",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AX1 - Sinister Stone of Sakkara.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "AX2 - Secrets of the Nethercity",
+  "BookShortName": "Secrets of the Nethercity",
+  "BookPublisher": "Autarch",
+  "BookCode": "AX2",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Adventurer Conqueror King System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Adventurer Conqueror King System",
+  "UseTOC": "No",
+  "BookSetting": "Adventurer Conqueror King System",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AX2 - Secrets of the Nethercity.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "AX3 - Capital of the Borderlands",
+  "BookShortName": "Capital of the Borderlands",
+  "BookPublisher": "Autarch",
+  "BookCode": "AX3",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Adventurer Conqueror King System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Adventurer Conqueror King System",
+  "UseTOC": "No",
+  "BookSetting": "Adventurer Conqueror King System",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AX3 - Capital of the Borderlands.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "AX6 - Sepulcher of the Sorceress Queen",
+  "BookShortName": "Sepulcher of the Sorceress Queen",
+  "BookPublisher": "Autarch",
+  "BookCode": "AX6",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Adventurer Conqueror King System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Adventurer Conqueror King System",
+  "UseTOC": "No",
+  "BookSetting": "Adventurer Conqueror King System",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AX6 - Sepulcher of the Sorceress Queen.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "AX4 - Ruined City of Cyfandir",
+  "BookShortName": "Ruined City of Cyfandir",
+  "BookPublisher": "Autarch",
+  "BookCode": "AX4",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Adventurer Conqueror King System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Adventurer Conqueror King System",
+  "UseTOC": "No",
+  "BookSetting": "Adventurer Conqueror King System",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AX4 - Ruined City of Cyfandir.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AX4 - Ruined City of Cyfandir Maps.lnk"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "AX5  - Eyrie of the Dread Eye",
+  "BookShortName": "Eyrie of the Dread Eye",
+  "BookPublisher": "Autarch",
+  "BookCode": "AX5",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Adventurer Conqueror King System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Adventurer Conqueror King System",
+  "UseTOC": "No",
+  "BookSetting": "Adventurer Conqueror King System",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AX5  - Eyrie of the Dread Eye.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AX5  - Eyrie of the Dread Eye Maps - Shortcut.lnk"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "AUT1014 - Heroic Fantasy Handbook",
+  "BookShortName": "Heroic Fantasy Handbook",
+  "BookPublisher": "Autarch",
+  "BookCode": "AUT1014",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Adventurer Conqueror King System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Adventurer Conqueror King System",
+  "UseTOC": "No",
+  "BookSetting": "Adventurer Conqueror King System",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AUT1014 - Heroic Fantasy Handbook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
