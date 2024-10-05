@@ -118,8 +118,6 @@
 - SMD6 - Spacemaster Datanet 06
 - SMD7 - Spacemaster Datanet 07
 - SMD8 - Spacemaster Datanet 08
-## Schwalb Entertainment
-- SWW2414 - Weird Ancestries
 ## Digest Group Publications
 - - Manhunt
 ## Steve Jackson Games
