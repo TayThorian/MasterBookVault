@@ -1661,5 +1661,48 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "MCG215 - Cypher System Character Portfolio",
+  "BookShortName": "Cypher System Character Portfolio",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG215",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Cypher System",
+  "UseTOC": "No",
+  "BookSetting": "Core",
+  "BookType": "Character Portfolio",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cypher System\\MCG215 - Cypher System Character Portfolio.pdf",
+    "D:\\OneDrive\\Master Vault\\Cypher System\\MCG215 - Cypher System Character Portfolio (Interactive).pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

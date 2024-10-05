@@ -278,5 +278,57 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Against the Darkmaster - Game Master's Guide",
+  "BookShortName": "Against the Darkmaster - Game Master's Guide",
+  "BookPublisher": "Open Ended Games",
+  "BookCode": "N/A",
+  "BookISBN": "",
+  "BookAuthor": "Massimiliano Caracristi, Tommaso Galmacci, Nikola Segoloni, Paolo Vecchiocattivi",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Against the Darkmaster",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Against the Darkmaster",
+  "UseTOC": "No",
+  "BookSetting": "Against the Darkmaster",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Against The Darkmaster\\Against the Darkmaster - Game Master's Guide - (SD).pdf",
+    "D:\\OneDrive\\Master Vault\\Against The Darkmaster\\Against the Darkmaster - Game Master's Guide - (HD).pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "This Game Master’s Guide contains everything an Against the Darkmaster GM needs to run and prepare their epic campaigns. We’ve collected all the GM-facing rules in the Against the Darkmaster Core Rules and the monsters in the Bestiary to give you a book that would be easier to carry around and reference during play.",
+    "Craft a living, breathing world for the players to explore. Weave the heroes’ deeds into a grandiose tale, inspired by your favorite fantasy sagas. Create your own Darkmaster, complete with world-shaking powers and legions of shadowy minions. Unleash the power of your imagination!",
+    "Featuring",
+    "Detailed guidelines on how to run and prepare your adventures",
+    "Rules for creating and handling opponents and other NPCs",
+    "Traveling and Hazards rules",
+    "Darkmaster creation rules",
+    "Optional rules for customizing your campaign",
+    "Magic Items and other rewards",
+    "A comprehensive Bestiary"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

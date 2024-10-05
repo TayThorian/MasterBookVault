@@ -4305,5 +4305,215 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "WEG40046 - Cracken's Rebel Field Guide",
+  "BookShortName": "Cracken's Rebel Field Guide",
+  "BookPublisher": "West End Games",
+  "BookCode": "WEG40046",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "d20",
+  "BookEdition": "01 - 1st Edition - WEG",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "N/A",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Star Wars",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Wars\\WEG\\WEG40046 - Cracken's Rebel Field Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "WEG40050 - Planets of the Galaxy - Volume One",
+  "BookShortName": "Planets of the Galaxy - Volume One",
+  "BookPublisher": "West End Games",
+  "BookCode": "WEG40050",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "d20",
+  "BookEdition": "01 - 1st Edition - WEG",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "N/A",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Star Wars",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Wars\\WEG\\WEG40050 - Planets of the Galaxy - Volume One.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "WEG40057 - Planets of the Galaxy - Volume Two",
+  "BookShortName": "Planets of the Galaxy - Volume Two",
+  "BookPublisher": "West End Games",
+  "BookCode": "WEG40057",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "d20",
+  "BookEdition": "01 - 1st Edition - WEG",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "N/A",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Star Wars",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Wars\\WEG\\WEG40057 - Planets of the Galaxy - Volume Two.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "WEG40072 - Planets of the Galaxy - Volume Three",
+  "BookShortName": "Planets of the Galaxy - Volume Three",
+  "BookPublisher": "West End Games",
+  "BookCode": "WEG40072",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "d20",
+  "BookEdition": "01 - 1st Edition - WEG",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "N/A",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Star Wars",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+   "D:\\OneDrive\\Master Vault\\Star Wars\\WEG\\WEG40072 - Planets of the Galaxy - Volume Three.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "WEG40074 - Dark Force Rising Sourcebook",
+  "BookShortName": "Dark Force Rising Sourcebook",
+  "BookPublisher": "West End Games",
+  "BookCode": "WEG40074",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "D6 System",
+  "BookEdition": "01 - 1st Edition - WEG",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "N/A",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Star Wars",
+  "UseTOC": "No",
+  "BookSetting": "Star Wars",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Wars\\WEG\\WEG40074 - Dark Force Rising Sourcebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

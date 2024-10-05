@@ -1,0 +1,551 @@
+[
+  {
+    "BookName": "GRR6600 - The Expanse - Quickstart",
+    "BookShortName": "The Expanse - Quickstart",
+    "BookPublisher": "Green Ronin Publishing",
+    "BookCode": "GRR6600",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "AGE Engine",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "The Expanse",
+    "UseTOC": "No",
+    "BookSetting": "The Expanse",
+    "BookType": "Quickstart",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\The Expanse\\GRR6600 - The Expanse - Quickstart.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "GRR6601 - The Expanse - Sci-Fi Roleplaying At Humanity's Edge",
+  "BookShortName": "The Expanse - Sci-Fi Roleplaying At Humanity's Edge",
+  "BookPublisher": "Green Ronin Publishing",
+  "BookCode": "GRR6601",
+  "BookISBN": "978-1-949160-02-4",
+  "BookAuthor": "Steve Kenson",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "AGE Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "The Expanse",
+  "UseTOC": "No",
+  "BookSetting": "The Expanse",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR6601 - The Expanse - Sci-Fi Roleplaying At Humanity's Edge.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\Expanse - Sol System Map.pdf",
+    "D:\\OneDrive\\Master Vault\\The Expanse\\Expanse - Character Sheet.pdf",
+    "D:\\OneDrive\\Master Vault\\The Expanse\\Expanse - Churn Tracker.pdf",
+    "D:\\OneDrive\\Master Vault\\The Expanse\\TEX Reference Sheets.pdf"
+  ],
+  "BookDescription": [
+    "The Expanse Roleplaying Game brings James S.A. Corey’s award-winning series of science fiction novels to the tabletop. Using the Adventure Game Engine (AGE) rules that power Green Ronin’s Fantasy AGE, Blue Rose, and Modern AGE RPGs, The Expanse takes players to a far-future solar system where humanity is divided: Martians, Belters, and the people of old Earth struggle for political power and resources, but older, alien, forces are stirring in the universe, and human history is about to take an unexpected new turn."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GRR6602 - The Expanse - Games Masters Kit",
+  "BookShortName": "The Expanse - Games Masters Kit",
+  "BookPublisher": "Green Ronin Publishing",
+  "BookCode": "GRR6602",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "AGE Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "The Expanse",
+  "UseTOC": "No",
+  "BookSetting": "The Expanse",
+  "BookType": "Games Masters Kit",
+  "BookFormat": "",
+  "BookSeries": "Games Masters Kit",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR6602 - The Expanse - Games Masters Kit.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR6602 - The Expanse - Games Masters Kit - The Ganymede Insurance Job.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GRR6603 - Abzu's Bounty",
+  "BookShortName": "Abzu's Bounty",
+  "BookPublisher": "Green Ronin Publishing",
+  "BookCode": "GRR6603",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "AGE Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "The Expanse",
+  "UseTOC": "No",
+  "BookSetting": "The Expanse",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR6603 - Abzu's Bounty.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GRR6607 - Ships Of The Expanse",
+  "BookShortName": "Ships Of The Expanse",
+  "BookPublisher": "Green Ronin Publishing",
+  "BookCode": "GRR6607",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "AGE Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "The Expanse",
+  "UseTOC": "No",
+  "BookSetting": "The Expanse",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR6607 - Ships Of The Expanse.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GRR6608 - Beyond the Ring - Adventure and Exploration Through the Ring Gates",
+  "BookShortName": "Beyond the Ring - Adventure and Exploration Through the Ring Gates",
+  "BookPublisher": "Green Ronin Publishing",
+  "BookCode": "GRR6608",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "AGE Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "The Expanse",
+  "UseTOC": "No",
+  "BookSetting": "The Expanse",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR6608 -  Beyond the Ring - Adventure and Exploration Through the Ring Gates.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GRR96601 - Salvage Op",
+  "BookShortName": "Salvage Op",
+  "BookPublisher": "Green Ronin Publishing",
+  "BookCode": "GRR96601",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "AGE Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "The Expanse",
+  "UseTOC": "No",
+  "BookSetting": "The Expanse",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR96601 - Salvage Op.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GRR96602 - Secrets of Lemuria",
+  "BookShortName": "Secrets of Lemuria",
+  "BookPublisher": "Green Ronin Publishing",
+  "BookCode": "GRR96602",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "AGE Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "The Expanse",
+  "UseTOC": "No",
+  "BookSetting": "The Expanse",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR96602 - Secrets of Lemuria.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GRR96651 - Trades of The Expanse - Bounty Hunter",
+  "BookShortName": "Trades of The Expanse - Bounty Hunter",
+  "BookPublisher": "Green Ronin Publishing",
+  "BookCode": "GRR96651",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "AGE Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "The Expanse",
+  "UseTOC": "No",
+  "BookSetting": "The Expanse",
+  "BookType": "Trades of the Expanse",
+  "BookFormat": "",
+  "BookSeries": "Trades of the Expanse",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR96651 - Trades of The Expanse - Bounty Hunter.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GRR96652 - Trades of The Expanse - Scout",
+  "BookShortName": "Trades of The Expanse - Scout",
+  "BookPublisher": "Green Ronin Publishing",
+  "BookCode": "GRR96652",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "AGE Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "The Expanse",
+  "UseTOC": "No",
+  "BookSetting": "The Expanse",
+  "BookType": "Trades of the Expanse",
+  "BookFormat": "",
+  "BookSeries": "Trades of the Expanse",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR96652 - Trades of The Expanse - Scout.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GRR96653 - Trades Of The Expanse - Planetary Surveyor",
+  "BookShortName": "Trades Of The Expanse - Planetary Surveyor",
+  "BookPublisher": "Green Ronin Publishing",
+  "BookCode": "GRR96653",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "AGE Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "The Expanse",
+  "UseTOC": "No",
+  "BookSetting": "The Expanse",
+  "BookType": "Trades of the Expanse",
+  "BookFormat": "",
+  "BookSeries": "Trades of the Expanse",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR96653 - Trades Of The Expanse - Planetary Surveyor.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GRR96654 - Trades of The Expanse - Journalist",
+  "BookShortName": "Trades of The Expanse - Journalist",
+  "BookPublisher": "Green Ronin Publishing",
+  "BookCode": "GRR96654",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "AGE Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "The Expanse",
+  "UseTOC": "No",
+  "BookSetting": "The Expanse",
+  "BookType": "Trades of the Expanse",
+  "BookFormat": "",
+  "BookSeries": "Trades of the Expanse",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR96654 - Trades of The Expanse - Journalist.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GRR96655 - Trades of the Expanse - Entertainer",
+  "BookShortName": "Trades of the Expanse - Entertainer",
+  "BookPublisher": "Green Ronin Publishing",
+  "BookCode": "GRR96655",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "AGE Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "The Expanse",
+  "UseTOC": "No",
+  "BookSetting": "The Expanse",
+  "BookType": "Trades of the Expanse",
+  "BookFormat": "",
+  "BookSeries": "Trades of the Expanse",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Expanse\\GRR96655 - Trades of the Expanse - Entertainer.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

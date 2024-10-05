@@ -720,5 +720,341 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "MGPRA01 - Referee's Aid 1 - Among the Trojans",
+  "BookShortName": "Referee's Aid 1 - Among the Trojans",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGPRA0",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Referee's Aid",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Referee's Aid",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGPRA01 - Referee's Aid 1 - Among the Trojans.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3888 - Referee's Aid 2 - The Type-S ScoutCourier",
+  "BookShortName": "Referee's Aid 2 - The Type-S ScoutCourier",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3888",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Referee's Aid",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Referee's Aid",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3888 - Referee's Aid 2 - The Type-S ScoutCourier.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP4089 - Referee's Aid 3 - Type-A Free Trader",
+  "BookShortName": "Referee's Aid 3 - Type-A Free Trader",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP4089",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Referee's Aid",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Referee's Aid",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP4089 - Referee's Aid 3 - Type-A Free Trader.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP4088 - Referee's Aid 4 - A Guide to Star Systems",
+  "BookShortName": "Referee's Aid 4 - A Guide to Star Systems",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP4088",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Referee's Aid",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Referee's Aid",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP4088 - Referee's Aid 4 - A Guide to Star Systems.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP4087 - Referee's Aid 5 - Type-Y Yacht",
+  "BookShortName": "Referee's Aid 5 - Type-Y Yacht",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP4087",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Referee's Aid",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Referee's Aid",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP4087 - Referee's Aid 5 - Type-Y Yacht.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3886 - Referee's Aid 6 - Societies and Settlements",
+  "BookShortName": "Referee's Aid 6 - Societies and Settlements",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3886",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Referee's Aid",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Referee's Aid",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3886 - Referee's Aid 6 - Societies and Settlements.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3878 - Referee's Aid 7 - Type-R Subsidised Merchant",
+  "BookShortName": "Referee's Aid 7 - Type-R Subsidised Merchant",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3878",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Referee's Aid",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Referee's Aid",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3878 - Referee's Aid 7 - Type-R Subsidised Merchant.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3869 - Referee's Aid 8 - Traders & Raiders",
+  "BookShortName": "Referee's Aid 8 - Traders & Raiders",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3869",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Referee's Aid",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Referee's Aid",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3869 - Referee's Aid 8 - Traders & Raiders.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

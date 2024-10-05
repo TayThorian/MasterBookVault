@@ -278,5 +278,173 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "MGP5001 - Skraag, City of Orcs",
+  "BookShortName": "Skraag, City of Orcs",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP5001",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "d20",
+  "BookEdition": "3E Compatible",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Cities of Fantasy",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\3E Compatible\\Mongoose Publishing\\MGP5001 - Skraag, City of Orcs.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP5002 - Stormhaven",
+  "BookShortName": "Stormhaven",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP5002",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "d20",
+  "BookEdition": "3E Compatible",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Cities of Fantasy",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\3E Compatible\\Mongoose Publishing\\MGP5002 - Stormhaven.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP5004 - Stonebridge - City of Illusion",
+  "BookShortName": "Stonebridge - City of Illusion",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP5004",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "d20",
+  "BookEdition": "3E Compatible",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Cities of Fantasy",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\3E Compatible\\Mongoose Publishing\\MGP5004 - Stonebridge - City of Illusion.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP5005 - Sheoloth City of the Drow",
+  "BookShortName": "Sheoloth City of the Drow",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP5005",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "d20",
+  "BookEdition": "3E Compatible",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Cities of Fantasy",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\3E Compatible\\Mongoose Publishing\\MGP5005 - Sheoloth City of the Drow.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

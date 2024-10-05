@@ -1357,5 +1357,53 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "CHA23160 - The Order of the Stone",
+    "BookShortName": "The Order of the Stone",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23160",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Call of Cthulhu",
+    "UseTOC": "No",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Scenario",
+    "BookFormat": "",
+    "BookSeries": "Scenarios",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23160 - The Order of the Stone.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23160 - The Order of the Stone - SS Champagne.pdf",
+      "D:\\OneDrive\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23160 - The Order of the Stone - Investigator Pack.pdf",
+      "D:\\OneDrive\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23160 - The Order of the Stone - Keeper Maps Pack.pdf",
+      "D:\\OneDrive\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23160 - The Order of the Stone - Keeper Reference Booklet.pdf",
+      "D:\\OneDrive\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23160 - The Order of the Stone - NPC Portrait Pack.pdf",
+      "D:\\OneDrive\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23160 - The Order of the Stone - Plain Text Handouts.pdf",
+      "D:\\OneDrive\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23160 - The Order of the Stone - Player Maps & Handouts Pack.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

@@ -21,6 +21,16 @@
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3200 - Rivers of London RPG.pdf"
     ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3200 - Rivers of London RPG -  Player Rules Crib Sheets v1.0.pdf",
+      "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3200 - Rivers of London RPG -  Blank Character Sheets v1.0.pdf",
+      "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3200 - Rivers of London RPG -  GM Map and Diagram Pack v1.0.pdf",
+      "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3200 - Rivers of London RPG -  GM Plain Text Handouts Pack v1.0.pdf",
+      "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3200 - Rivers of London RPG -  GM Reference Booklet v1.0.pdf",
+      "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3200 - Rivers of London RPG -  Investigator Pack v1.0.pdf",
+      "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3200 - Rivers of London RPG -  NPC Portrait Pack v1.0.pdf",
+      "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3200 - Rivers of London RPG -  Player Handouts Maps and Diagrams Pack v1.0.pdf"
+    ],
     "BookDescription": [
       "In Rivers of London: the Roleplaying Game, players take on the roles of newly recruited members of the London Metropolitan Police Service’s special magic branch, aka “the Folly.” You will solve mysteries, catch criminals, and come to grips with the “demi-monde”—those who have been irreversibly changed by magic."
     ],
@@ -32,6 +42,51 @@
       {"page": 2, "title": ""}
       ]    
   }
+]
+},
+{
+  "BookName": "CHA3203 - The Font of All Evil",
+  "BookShortName": "The Font of All Evil",
+  "BookPublisher": "Chaosium Inc.",
+  "BookCode": "CHA3203",
+  "BookISBN": "978-1-56882-531-1",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Basic Roleplaying System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Rivers of London",
+  "UseTOC": "No",
+  "BookSetting": "Rivers of London",
+  "BookType": "Scenario",
+  "BookFormat": "",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3203 - The Font of All Evil.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3203 - The Font of All Evil - GM Map and Diagram Pack.pdf",
+    "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3203 - The Font of All Evil - GM Plain Text Handouts.pdf",
+    "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3203 - The Font of All Evil - NPC Portrait Pack.pdf",
+    "D:\\OneDrive\\Master Vault\\Rivers of London\\CHA3203 - The Font of All Evil - Player Handouts and Maps.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
 ]
 }
 ]
