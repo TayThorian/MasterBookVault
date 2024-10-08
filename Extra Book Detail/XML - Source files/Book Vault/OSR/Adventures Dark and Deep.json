@@ -449,5 +449,89 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "Adventures Dark and Deep Core Rulebook",
+    "BookShortName": "Adventures Dark and Deep Core Rulebook",
+    "BookPublisher": "BRW Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Joseph Bloch",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Adventures Dark and Deep",
+    "UseTOC": "No",
+    "BookSetting": "Adventures Dark and Deep",
+    "BookType": "Bestiary",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Adventures Dark and Deep\\Adventures Dark and Deep Core Rulebook.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "Adventures Dark and Deep Core Bestiary",
+    "BookShortName": "Adventures Dark and Deep Core Bestiary",
+    "BookPublisher": "BRW Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Joseph Bloch",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Adventures Dark and Deep",
+    "UseTOC": "No",
+    "BookSetting": "Adventures Dark and Deep",
+    "BookType": "Bestiary",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Adventures Dark and Deep\\Adventures Dark and Deep Core Bestiary.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

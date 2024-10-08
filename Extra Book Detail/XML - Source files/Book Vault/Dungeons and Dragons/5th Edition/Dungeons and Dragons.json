@@ -703,10 +703,10 @@
   ]
   },
   {
-    "BookName": "WTCD37090000 - Player's Handbook 2024",
+    "BookName": "WTCDB3709000 - Player's Handbook 2024",
     "BookShortName": "Player's Handbook 2024",
     "BookPublisher": "Wizards of the Coast",
-    "BookCode": "WTCD37090000",
+    "BookCode": "WTCDB3709000",
     "BookISBN": "",
     "BookAuthor": "",
     "BookPublished": "2024",
@@ -714,7 +714,7 @@
     "BookRules": "Dungeons and Dragons",
     "BookEdition": "5th Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -726,13 +726,17 @@
     "BookSeries": "Core Rules",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\OneDrive\\Master Vault\\DnD\\5E\\WTCD37090000 - Player's Handbook 2024.pdf"
+      "D:\\OneDrive\\Master Vault\\DnD\\5E\\WTCDB3709000 - Player's Handbook 2024.pdf"
     ],
     "BookMD": [
       "D:\\Master Vault\\Extra Book Data\\"
     ],
     "BookDescription": [
-      "No description available."
+      "Introducing the 2024 Player’s Handbook, the new and improved guide for fifth edition DUNGEONS & DRAGONS. We’ve loved hearing from you and built this book to deliver what you want—and more! Packed with endless character options, striking illustrations, and a streamlined design, every part of this 384-page book is a joy to experience. Play however you want with optimized rules for character creation and advancement, exploration, combat, equipment, spells, and much more. Create characters you’ll love from an expanded selection of character options, revised and balanced for maximum fun.",
+      "Quicker Reference",
+      "Find whatever you’re looking for with an improved layout, better organization, and an alphabetized Rules Glossary. Updated character creation and learn-to-play sections make starting your adventure easier than it's ever been, whether you're a veteran or a brand new player. A world of new possibilities awaits!",
+      "Incredible Customization",
+      "Expanded player options! Customize your character with 12 classes, 48 subclasses, 10 species, 16 backgrounds, and 75 feats, revised and balanced for maximum fun. Everything has been thoughtfully designed from the ground up based on 10 years of feedback from the D&D community to provide you with the ultimate character creation experience. Explore the new Weapon Mastery feature to give your fighter an extra boost in battle, or discover any of the 380 spells available in this guide to build your ideal wizard!"
     ],
     "TableOfContents": [
       {
