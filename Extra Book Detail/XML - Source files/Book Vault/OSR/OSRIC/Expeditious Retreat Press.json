@@ -1,0 +1,171 @@
+[
+  {
+    "BookName": "The Halls of Arden Vul",
+    "BookShortName": "The Halls of Arden Vul",
+    "BookPublisher": "Expeditious Retreat Press",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSRIC",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "The Halls of Arden Vul",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\OSRIC\\Expeditious Retreat Press\\The Halls of Arden Vul.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\OSR\\OSRIC\\Expeditious Retreat Press\\The Maps of Arden Vul.lnk",
+      "D:\\OneDrive\\Master Vault\\OSR\\OSRIC\\Expeditious Retreat Press\\The VTT Maps of Arden Vul.lnk"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "XRP6900 - Malevolent And Benign I",
+  "BookShortName": "Malevolent And Benign I",
+  "BookPublisher": "Expeditious Retreat Press",
+  "BookCode": "XRP6900",
+  "BookISBN": "",
+  "BookAuthor": "Joseph Browning",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSRIC",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Bestiary",
+  "BookFormat": "",
+  "BookSeries": "Bestiary",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\OSRIC\\Expeditious Retreat Press\\XRP6900 - Malevolent And Benign I.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Evoking the early days of roleplaying, Expeditious Retreat Press is pleased to release Malevolent and Benign, a new 1e monster book with 150 new creaures and more than 85 illustrations in this 128-paged tome, compatible with the first edition of the world's most popular roleplaying game!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "XRP6901 - Malevolent And Benign II",
+  "BookShortName": "Malevolent And Benign II",
+  "BookPublisher": "Expeditious Retreat Press",
+  "BookCode": "XRP6901",
+  "BookISBN": "",
+  "BookAuthor": "Joseph Browning",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSRIC",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Bestiary",
+  "BookFormat": "",
+  "BookSeries": "Bestiary",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\OSRIC\\Expeditious Retreat Press\\XRP6901 - Malevolent And Benign II.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Evoking the early days of roleplaying, Expeditious Retreat Press is pleased to release Malevolent and Benign II, a new 1e monster book with 150+ new creatures and more than 75 illustrations in this 110-paged tome, compatible with the first edition of the world's most popular roleplaying game!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "XRP6101 - AA01 - The Pod-Caverns of the Sinister Shroom",
+  "BookShortName": "AA01 - The Pod-Caverns of the Sinister Shroom",
+  "BookPublisher": "Expeditious Retreat Press",
+  "BookCode": "XRP6101",
+  "BookISBN": "0-9778534-6-2",
+  "BookAuthor": "Matthew Finch",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSRIC",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Advanced Adventures",
+  "BookCharacterLevel": "Levels 2 - 4",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\OSRIC\\Expeditious Retreat Press\\XRP6101 - AA01 - The Pod-Caverns of the Sinister Shroom.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "BookName": "Barrowmaze Complete",
+    "BookShortName": "Barrowmaze Complete",
+    "BookPublisher": "Greg Gillespie",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Greg Gillespie",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "Barrowmaze",
+    "BookType": "Megadungeon",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\Barrowmaze Complete.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\Barrowmaze Complete Referee's Screen.pdf"
+    ],
+    "BookDescription": [
+      "Local villagers whisper of a mysterious place deep in the marsh - a place shrouded in mist and dotted with barrow mounds, ruined columns, and standing stones. The tomb-robbers who explore beneath the mounds - or rather the few who return - tell tales of labyrinthine passages, magnificent grave goods, and terrifying creatures waiting in the dark. Are you brave (or foolish) enough to enter Barrowmaze?",
+      "Barrowmaze Complete (BMC) is a classic megadungeon for use with any old school fantasy role-playing game. BMC includes everything in Barrowmaze I and II in the same book in addition to new material, art, layout, and cover art by Ex-TSR artist Erol Otus.",
+      "Barrowmaze Complete will keep your players on their toes and your campaign going strong.",
+      "BMC is brought to you by the Old School Renaissance (so don’t forget your 10’ pole).",
+      "This edition includes art by the aforementioned TSR artists Erol Otus, as well as Tim Truman, Jim Holloway. New old-school artists include Peter Pagano, Cory Hamel, Stefan Poag, Zhu Bajie, Stephan Thompson, and others."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Barrowmaze I",
+  "BookShortName": "Barrowmaze I",
+  "BookPublisher": "Greg Gillespie",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Greg Gillespie",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Barrowmaze",
+  "BookType": "Megadungeon",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\Barrowmaze I.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Barrowmaze II",
+  "BookShortName": "Barrowmaze II",
+  "BookPublisher": "Greg Gillespie",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Greg Gillespie",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Barrowmaze",
+  "BookType": "Megadungeon",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\Barrowmaze II.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Dwarrowdeep",
+  "BookShortName": "Dwarrowdeep",
+  "BookPublisher": "Greg Gillespie",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Dwarrowdeep",
+  "BookType": "Megadungeon",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\Dwarrowdeep.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Dwarrowdeep is a new megadungeon from Three Castles Award Winner (2018) and Barrowmaze author Dr. Greg Gillespie.",
+    "Gundgathol lies in ruin. Over 250 years ago, an evil host rose from the underdark and pushed the dwarves out of their ancestral mountains. Since that time, orcs and worse have defiled their sacred halls. In recent days, the high dwarven clerics cast their runestones and read the portents: the time has come to retake Gundgathol. Are you brave (or foolish) enough to enter Dwarrowdeep?",
+    "Dwarrowdeep will keep your players on their toes and your campaign going strong for years.",
+    "Dwarrowdeep is brought to you by the Old School Renaissance (so don’t forget your 10’ pole).",
+    "This project was created through a group of awesome backers from Kickstarter. Without them, this project wouldn't have happened. Thank you for your support!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Megadungeon Monster Manual",
+  "BookShortName": "Megadungeon Monster Manual",
+  "BookPublisher": "Greg Gillespie",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2022",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Monster Manual",
+  "BookFormat": "",
+  "BookSeries": "Monster Manuals",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\Megadungeon Monster Manual.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "The Megadungeon Monster Manual is an OSR fantasy role-playing game supplement for Barrowmaze, The Forbidden Caverns of Archaia, HighFell: The Drifting Dungeon, and Dwarrowdeep. The book brings together the most fearsome monsters from these megadungeons and combines them into a single volume.",
+    "The Megadungeon Monster Manual will keep your players on their toes and your campaign going strong for years. THe creatures are compatible with any early edition ruleset or their clones.",
+    "The MMM is brought to you by the Old School Renaissance (so don’t forget your 10’ pole)."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "HighFell The Drifting Dungeon",
+  "BookShortName": "HighFell The Drifting Dungeon",
+  "BookPublisher": "Greg Gillespie",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Greg Gillespie",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Megadungeon",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\HighFell The Drifting Dungeon.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "A new megadungeon from Three Castles Award Winner (2018) and Barrowmaze author Dr. Greg Gillespie!",
+    "HighFell: The Drifting Dungeon is a 246-page classic megadungeon for use with any old school fantasy role-playing games/clone. The pages of HighFell are crammed full with new material, maps, and art, including a colour cover by Ex-TSR artist Erol Otus (that matches Barrowmaze Complete and The Forbidden Caverns of Archaia as sister-books).",
+    "HighFell: The Drifting Dungeon will keep your players on their toes and your campaign going strong for years.",
+    "HighFell is brought to you by the Old School Renaissance (so don’t forget your 10’ pole)."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

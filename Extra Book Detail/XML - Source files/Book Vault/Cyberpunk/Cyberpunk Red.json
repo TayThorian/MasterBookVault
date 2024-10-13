@@ -481,5 +481,50 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "CR3091 - Hope Reborn",
+    "BookShortName": "Hope Reborn",
+    "BookPublisher": "R Talsorian Games",
+    "BookCode": "CR3091",
+    "BookISBN": "",
+    "BookAuthor": "J Gray, James Hutt, Mike Pondsmith, Chris Spivey, David Ackerman, Eddy Webb, Frances Stewart, Linda M Evans, Melissa Wong, Paris Arrowsmith, Tracie Hearne, Will Moss",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cyberpunk Red",
+    "BookEdition": "RED",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Cyberpunk Red",
+    "UseTOC": "No",
+    "BookSetting": "Cyberpunk Red",
+    "BookType": "Campaign",
+    "BookFormat": "",
+    "BookSeries": "Campaign",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Cyberpunk\\Red\\CR3091 - Hope Reborn.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "When the Megacorps blast your eyeballs with an unending bombardment of neon advertisements and the media outlets force-feed their version of reality into your bleeding ears, it can be easy to forget the truth about the world, the city, and your life. That’s when you need to retreat to a space made for and run by edgerunners. People who know what day-to-day life is like on The Street.",
+      "For decades, The Forlorn Hope’s been such a place: a bar where those Night City denizens who refuse to play by the Corporate rulebook go to unwind, connect, and reaffirm their humanity. But in the Time of the Red, The Forlorn Hope’s in trouble! Will this classic Night City institution die a whimpering death or survive and thrive, helping the next generation of cyberpunks navigate life on The Edge? That’s a question only you and your Crew can answer.",
+      "Tales of the RED: Hope Reborn is a mission book for Cyberpunk RED, the latest edition of the original tabletop roleplaying game of the Dark Future.",
+      "This is a full-length campaign of six jobs covering every style of play, from Friday Night Firefights to high society booze heists to the biggest bar brawl ever. Good luck, choomba! You’re gonna need it."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
