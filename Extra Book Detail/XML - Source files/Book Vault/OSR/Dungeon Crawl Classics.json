@@ -1,0 +1,385 @@
+[
+  {
+    "BookName": "GMG5070 - Dungeon Crawl Classics RPG",
+    "BookShortName": "Dungeon Crawl Classics RPG",
+    "BookPublisher": "Goodman Games",
+    "BookCode": "GMG5070",
+    "BookISBN": "978-0-9974738-3-4",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeon Crawl Classics",
+    "BookEdition": "DCC",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Dungeon Crawl Classics",
+    "UseTOC": "No",
+    "BookSetting": "Dungeon Crawl Classics",
+    "BookType": "Rulebook",
+    "BookFormat": "Softback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Dungeon Crawl Classics\\GMG5070 - Dungeon Crawl Classics RPG.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Glory & Gold Won by Sorcery & Sword",
+      "You’re no hero.",
+      "You’re an adventurer: a reaver, a cutpurse, a heathen-slayer, a tight-lipped warlock guarding long-dead secrets. You seek gold and glory, winning it with sword and spell, caked in the blood and filth of the weak, the dark, the demons, and the vanquished. There are treasures to be won deep underneath, and you shall have them. ",
+      "Return to the glory days of fantasy with the Dungeon Crawl Classics Role-Playing Game. Adventure as 1974 intended, with modern rules grounded in the origins of sword & sorcery. Fast play, cryptic secrets, and a mysterious past await you: turn the page…",
+      "RULES SET",
+      "DCC RPG is a fast-paced, open-feeling rules set allowing for epic game experiences without unnecessary tethers. It uses modern game-play while paying homage to the origins of role-playing and the fun that it inspired."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "GMG5111 - DCC 101 - The Veiled Vaults of the Onyx Queen",
+  "BookShortName": "DCC 101 - The Veiled Vaults of the Onyx Queen",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMG5111",
+  "BookISBN": "",
+  "BookAuthor": "Marzio Muscedere",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeon Crawl Classics",
+  "BookEdition": "DCC",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dungeon Crawl Classics",
+  "UseTOC": "No",
+  "BookSetting": "Dungeon Crawl Classics",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Level 0",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dungeon Crawl Classics\\GMG5111 - DCC 101 - The Veiled Vaults of the Onyx Queen.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMG5112 - DCC 102 - Dweller Between the Worlds",
+  "BookShortName": "DCC 102 - Dweller Between the Worlds",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMG5112",
+  "BookISBN": "",
+  "BookAuthor": "Marc Bruner",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeon Crawl Classics",
+  "BookEdition": "DCC",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dungeon Crawl Classics",
+  "UseTOC": "No",
+  "BookSetting": "Dungeon Crawl Classics",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Level 1",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dungeon Crawl Classics\\GMG5112 - DCC 102 - Dweller Between the Worlds.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMG5113 - DCC 103 - Bloom on the Blood Garden",
+  "BookShortName": "DCC 103 - Bloom on the Blood Garden",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMG5113",
+  "BookISBN": "",
+  "BookAuthor": "Edgar Johnson",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeon Crawl Classics",
+  "BookEdition": "DCC",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dungeon Crawl Classics",
+  "UseTOC": "No",
+  "BookSetting": "Dungeon Crawl Classics",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Level 0",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dungeon Crawl Classics\\GMG5113 - DCC 103 - Bloom on the Blood Garden.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMG5100 - DCC 099 - The Star Wound Of Abaddon",
+  "BookShortName": "DCC 099 - The Star Wound Of Abaddon",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMG5100",
+  "BookISBN": "",
+  "BookAuthor": "Marzio Muscedere",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeon Crawl Classics",
+  "BookEdition": "DCC",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dungeon Crawl Classics",
+  "UseTOC": "No",
+  "BookSetting": "Dungeon Crawl Classics",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Level 3",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dungeon Crawl Classics\\GMG5100 - DCC 099 - The Star Wound Of Abaddon.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMG5105 - DCC 100 - The Music of the Spheres is Chaos",
+  "BookShortName": "DCC 100 - The Music of the Spheres is Chaos",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMG5105",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeon Crawl Classics",
+  "BookEdition": "DCC",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dungeon Crawl Classics",
+  "UseTOC": "No",
+  "BookSetting": "Dungeon Crawl Classics",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Level 5",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dungeon Crawl Classics\\GMG5105 - DCC 100 - The Music of the Spheres is Chaos.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dungeon Crawl Classics\\GMG5105 - DCC 100 - Maps and Extras.lnk"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMG5114 - DCC 104 - Return To The Starless Sea",
+  "BookShortName": "DCC 104 - Return To The Starless Sea",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMG5114",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeon Crawl Classics",
+  "BookEdition": "DCC",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dungeon Crawl Classics",
+  "UseTOC": "No",
+  "BookSetting": "Dungeon Crawl Classics",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dungeon Crawl Classics\\GMG5114 - DCC 104 - Return To The Starless Sea.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMG5115 - DCC 105 - By Mitras Bones, Meet Thy Doom!",
+  "BookShortName": "DCC 105 - By Mitras Bones, Meet Thy Doom!",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMG5115",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeon Crawl Classics",
+  "BookEdition": "DCC",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dungeon Crawl Classics",
+  "UseTOC": "No",
+  "BookSetting": "Dungeon Crawl Classics",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dungeon Crawl Classics\\GMG5115 - DCC 105 - By Mitras Bones, Meet Thy Doom!.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMG5116 - DCC 106 - Trials of the Trapmaster's Tomb",
+  "BookShortName": "DCC 106 - Trials of the Trapmaster's Tomb",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMG5116",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeon Crawl Classics",
+  "BookEdition": "DCC",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Dungeon Crawl Classics",
+  "UseTOC": "No",
+  "BookSetting": "Dungeon Crawl Classics",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dungeon Crawl Classics\\GMG5116 - DCC 106 - Trials of the Trapmaster's Tomb.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

@@ -1591,13 +1591,55 @@
   "BookSetting": "Old Gods of Appalachia",
   "BookType": "Ruleboook",
   "BookFormat": "Hardback",
-  "BookSeries": "Ruleboooks",
+  "BookSeries": "Old Gods of Appalachia",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Cypher System\\Old Gods of Appalachia Roleplaying Game\\MCG336 - Old Gods of Appalachia Roleplaying Game.pdf"
   ],
   "BookMD": [
     "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG398 - Best Leave Them Ghosts Alone",
+  "BookShortName": "Best Leave Them Ghosts Alone",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG398",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Old Gods of Appalachia",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Old Gods of Appalachia",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cypher System\\Old Gods of Appalachia Roleplaying Game\\MCG398 - Best Leave Them Ghosts Alone.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
   ],
   "BookDescription": [
     "No description available."

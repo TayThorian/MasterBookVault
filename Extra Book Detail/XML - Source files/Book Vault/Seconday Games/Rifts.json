@@ -1165,41 +1165,6 @@
 ]
 },
 {
-  "BookName": "PAL853 - Chi-Town Burbs - Forbidden Knowledge",
-  "BookShortName": "Chi-Town Burbs - Forbidden Knowledge",
-  "BookPublisher": "Palladium Books",
-  "BookCode": "PAL853",
-  "BookISBN": "",
-  "BookAuthor": "",
-  "BookPublished": "",
-  "BookCover": "",
-  "BookRules": "Palladium System",
-  "BookEdition": "",
-  "BookPhysical": "No",
-  "BookOwnedPDF": "No",
-  "BookLibrary": "Yes",
-  "BookSetting": "Rifts",
-  "BookType": "Adventure Sourcebook",
-  "BookFormat": "",
-  "BookSeries": "Adventure Sourcebooks",
-  "BookCharacterLevel": "",
-  "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\Palladium Books\\Rifts\\PAL853 - Chi-Town Burbs - Forbidden Knowledge.pdf"
-  ],
-  "BookDescription": [
-    "No description available."
-  ],
-  "TableOfContents": [
-    {
-  "title": "Book",
-  "chapters": [
-    {"page": 1, "title": "TOC TO BE DONE"},
-    {"page": 2, "title": ""}
-    ]    
-}
-]
-},
-{
   "BookName": "PAL889 - Coalition Wars Sourcebook - Secrets of the Coalition States - Heroes of Humanity",
   "BookShortName": "Coalition Wars Sourcebook - Secrets of the Coalition States - Heroes of Humanity",
   "BookPublisher": "Palladium Books",

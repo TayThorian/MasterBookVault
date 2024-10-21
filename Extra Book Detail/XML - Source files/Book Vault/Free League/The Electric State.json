@@ -3,15 +3,15 @@
     "BookName": "FLFTES001 - The Electric State Roleplaying Game",
     "BookShortName": "The Electric State Roleplaying Game",
     "BookPublisher": "Free League Publishing",
-    "BookCode": "FLFTES00",
+    "BookCode": "FLFTES001",
     "BookISBN": "978–91–89765–43–6",
     "BookAuthor": "Simon Stalenhag",
-    "BookPublished": "",
+    "BookPublished": "2024",
     "BookCover": "",
     "BookRules": "The Electric State",
     "BookEdition": "1st Edition",
-    "BookPhysical": "",
-    "BookOwnedPDF": "",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -29,7 +29,11 @@
       "D:\\Master Vault\\Extra Book Data\\"
     ],
     "BookDescription": [
-      "No description available."
+      "A road trip on the verge of reality.",
+      "When did it all start? I can’t really remember. It started like any recreational activity, I guess. Like TV. Sometimes they watched TV and sometimes they would sit there wearing their neurocasters. I didn’t care. It was after the big update of 1996 that things got weird. Mode Six.",
+      "The Electric State Roleplaying Game is based on the narrative art book The Electric State by acclaimed visual artist and author Simon Stålenhag, which is being adapted into a major motion picture by the Russo brothers (Avengers: Endgame), starring Millie Bobby Brown (Stranger Things) and Chris Pratt (Guardians of the Galaxy).",
+      "This is a game about a group of travelers heading out on a journey through a strange America in an alternate 1997. The ruins of gigantic battle drones litter the countryside, heaped together with the discarded trash of a high tech consumerist society in decline.",
+      "The game is not about the goal but the journey – what the characters experience along the way and how it changes them. This is a game of exploration, of finding out who you are, who your friends are, and what you are willing to do when the world collapses around you."
     ],
     "TableOfContents": [
       {
@@ -39,48 +43,6 @@
       {"page": 2, "title": ""}
       ]    
   }
-]
-},
-{
-  "BookName": "",
-  "BookShortName": "",
-  "BookPublisher": "",
-  "BookCode": "",
-  "BookISBN": "",
-  "BookAuthor": "",
-  "BookPublished": "",
-  "BookCover": "",
-  "BookRules": "",
-  "BookEdition": "",
-  "BookPhysical": "",
-  "BookOwnedPDF": "",
-  "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "",
-  "UseTOC": "No",
-  "BookSetting": "",
-  "BookType": "",
-  "BookFormat": "",
-  "BookSeries": "",
-  "BookCharacterLevel": "",
-  "BookPDF": [
-    "D:\\Master Vault\\"
-  ],
-  "BookMD": [
-    "D:\\Master Vault\\Extra Book Data\\"
-  ],
-  "BookDescription": [
-    "No description available."
-  ],
-  "TableOfContents": [
-    {
-  "title": "Book",
-  "chapters": [
-    {"page": 1, "title": "TOC TO BE DONE"},
-    {"page": 2, "title": ""}
-    ]    
-}
 ]
 }
 ]

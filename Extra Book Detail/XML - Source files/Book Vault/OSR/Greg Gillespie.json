@@ -23,7 +23,8 @@
     "BookSeries": "Adventures",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\Barrowmaze Complete.pdf"
+      "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\Barrowmaze Complete.pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\M1 - Barrowmaze Special Edition Monochrome.pdf"
     ],
     "BookMD": [
       "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\Barrowmaze Complete Referee's Screen.pdf"
@@ -153,7 +154,8 @@
   "BookSeries": "Adventures",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\Dwarrowdeep.pdf"
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\Dwarrowdeep.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\M4 - Dwarrowdeep Special Edition Monochrome.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
@@ -243,7 +245,8 @@
   "BookSeries": "Adventures",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\HighFell The Drifting Dungeon.pdf"
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\HighFell The Drifting Dungeon.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\M3 - HighFell Special Edition Monochrome.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
@@ -253,6 +256,95 @@
     "HighFell: The Drifting Dungeon is a 246-page classic megadungeon for use with any old school fantasy role-playing games/clone. The pages of HighFell are crammed full with new material, maps, and art, including a colour cover by Ex-TSR artist Erol Otus (that matches Barrowmaze Complete and The Forbidden Caverns of Archaia as sister-books).",
     "HighFell: The Drifting Dungeon will keep your players on their toes and your campaign going strong for years.",
     "HighFell is brought to you by the Old School Renaissance (so don’t forget your 10’ pole)."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Dragonslayer",
+  "BookShortName": "Dragonslayer",
+  "BookPublisher": "Greg Gillespie",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Greg Gillespie",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Dragonslayer",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\Dragonslayer.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Harken back to the Golden Age of Role-playing Games!",
+      "Journey into a realm of myth and magic, where ancient legends and terrifying monsters come to life, and adventure awaits...",
+      "Inspired by the timeles role-playing tradition of the 1980s, this ruleset seamlessly integrates the simplicity of B/X with the chrome of First Edition. The book includes everything you need: races, classes spell, monsters, and treasure, combined in a single volume. ",
+      "The book includes cover art by Jeff Easley and interior art by Darlene, Diesel, Kennon James, Peter Pagano, and many others.",
+      "Welcome to Dragonslayer!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "The Forbidden Caverns of Archaia",
+  "BookShortName": "The Forbidden Caverns of Archaia",
+  "BookPublisher": "Greg Gillespie",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Greg Gillespie",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Megadungeon",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\The Forbidden Caverns of Archaia.pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\M2 - The Forbidden Caverns of Archaia Special Edition Monochrome.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Greg Gillespie\\The Forbidden Caverns of Archaia Referee's Screen.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
   ],
   "TableOfContents": [
     {
