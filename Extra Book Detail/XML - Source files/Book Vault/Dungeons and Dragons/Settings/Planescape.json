@@ -210,5 +210,257 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "TSR2601 - The Eternal Boundary",
+  "BookShortName": "The Eternal Boundary",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2601",
+  "BookISBN": "1-56076-843-6",
+  "BookAuthor": "L. Richard Baker III",
+  "BookPublished": "1994",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Planescape",
+  "UseTOC": "No",
+  "BookSetting": "Planescape",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2601 - The Eternal Boundary.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2603 - Planes of Chaos",
+  "BookShortName": "Planes of Chaos",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2603",
+  "BookISBN": "",
+  "BookAuthor": "Lester Smith & Wolfgang Baur",
+  "BookPublished": "1994",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Planescape",
+  "UseTOC": "No",
+  "BookSetting": "Planescape",
+  "BookType": "Campaign expansion",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Boxed Sets",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2603 - Planes of Chaos.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2604 - The Well of Worlds",
+  "BookShortName": "The Well of Worlds",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2604",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Planescape",
+  "UseTOC": "No",
+  "BookSetting": "Planescape",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2604 - The Well of Worlds.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2605 - In the Abyss",
+  "BookShortName": "In the Abyss",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2605",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Planescape",
+  "UseTOC": "No",
+  "BookSetting": "Planescape",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2605 - In the Abyss.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2606 - The Deva Spark",
+  "BookShortName": "The Deva Spark",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2606",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Planescape",
+  "UseTOC": "No",
+  "BookSetting": "Planescape",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2606 - The Deva Spark.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2608 - Fires of Dis",
+  "BookShortName": "Fires of Dis",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2608",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Planescape",
+  "UseTOC": "No",
+  "BookSetting": "Planescape",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2608 - Fires of Dis.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

@@ -533,5 +533,131 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "ADD12001 - Darker Paths 1 - The Necromancer",
+    "BookShortName": "Darker Paths 1 - The Necromancer",
+    "BookPublisher": "BRW Games",
+    "BookCode": "ADD12001",
+    "BookISBN": "",
+    "BookAuthor": "Joseph Bloch",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Adventures Dark and Deep",
+    "UseTOC": "No",
+    "BookSetting": "Adventures Dark and Deep",
+    "BookType": "Optional Character Class",
+    "BookFormat": "",
+    "BookSeries": "Optional Character Classes",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Adventures Dark and Deep\\ADD12001 - Darker Paths 1 - The Necromancer.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "ADD12002 - Darker Paths 2 - The Witch",
+    "BookShortName": "Darker Paths 2 - The Witch",
+    "BookPublisher": "BRW Games",
+    "BookCode": "ADD12002",
+    "BookISBN": "",
+    "BookAuthor": "Joseph Bloch",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Adventures Dark and Deep",
+    "UseTOC": "No",
+    "BookSetting": "Adventures Dark and Deep",
+    "BookType": "Optional Character Class",
+    "BookFormat": "",
+    "BookSeries": "Optional Character Classes",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Adventures Dark and Deep\\ADD12002 - Darker Paths 2 - The Witch.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "ADD12003 - Darker Paths 3 - The Demonolater",
+    "BookShortName": "Darker Paths 3 - The Demonolater",
+    "BookPublisher": "BRW Games",
+    "BookCode": "ADD12003",
+    "BookISBN": "",
+    "BookAuthor": "Joseph Bloch",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Adventures Dark and Deep",
+    "UseTOC": "No",
+    "BookSetting": "Adventures Dark and Deep",
+    "BookType": "Optional Character Class",
+    "BookFormat": "",
+    "BookSeries": "Optional Character Classes",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\Adventures Dark and Deep\\ADD12003 - Darker Paths 3 - The Demonolater.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
