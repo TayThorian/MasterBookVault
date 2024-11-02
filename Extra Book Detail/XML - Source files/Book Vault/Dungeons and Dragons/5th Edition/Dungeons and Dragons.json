@@ -749,6 +749,90 @@
   ]
   },
   {
+    "BookName": "WTCDB3710000 - Dungeon Master's Guide 2024",
+    "BookShortName": "Dungeon Master's Guide 2024",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCDB3710000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "Core Books",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Rules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Excite your imagination with the 2024 Dungeon Master’s Guide, revised and expanded for fifth edition D&D! Whether you're a new or experienced Dungeon Master, here's everything you need to weave epic tales, build fantastical worlds, and inspire memorable moments for your party to enjoy."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "WTCD3711000 - Monster Manual 2024",
+    "BookShortName": "Monster Manual 2024",
+    "BookPublisher": "Wizards of the Coast",
+    "BookCode": "WTCD3711000",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "5th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "On Order",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "Dungeons and Dragons",
+    "UseTOC": "No",
+    "BookSetting": "Core Books",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Core Rules",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
     "BookName": "WTCC22070000 - Tales from the Yawning Portal",
     "BookShortName": "Tales from the Yawning Portal",
     "BookPublisher": "Wizards of the Coast",

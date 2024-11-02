@@ -400,5 +400,48 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Symbaroum - Tower of the Lich Lord",
+  "BookShortName": "Symbaroum - Tower of the Lich Lord",
+  "BookPublisher": "Free League Workshop",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Neil Kingham",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Symbaroum",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Symbaroum",
+  "BookType": "Solo Gamebook",
+  "BookFormat": "",
+  "BookSeries": "Free League Workshop",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Symbaroum\\Workshop\\Symbaroum - Tower of the Lich Lord\\Symbaroum - Tower of the Lich Lord.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Symbaroum\\Workshop\\Symbaroum - Tower of the Lich Lord\\Symbaroum - Tower of the Lich Lord - Character Sheet.pdf",
+    "D:\\OneDrive\\Master Vault\\Symbaroum\\Workshop\\Symbaroum - Tower of the Lich Lord\\Symbaroum - Tower of the Lich Lord - Combat Sheet.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

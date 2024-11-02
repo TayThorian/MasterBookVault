@@ -76,41 +76,6 @@
 ]
 },
 {
-  "BookName": "Grand Duchy of Reme",
-  "BookShortName": "Grand Duchy of Reme",
-  "BookPublisher": "Frog God Games",
-  "BookCode": "",
-  "BookISBN": "",
-  "BookAuthor": "",
-  "BookPublished": "",
-  "BookCover": "",
-  "BookRules": "System Neutral",
-  "BookEdition": "System Neutral",
-  "BookPhysical": "No",
-  "BookOwnedPDF": "No",
-  "BookLibrary": "Yes",
-  "BookSetting": "The Lost Lands",
-  "BookType": "",
-  "BookFormat": "",
-  "BookSeries": "The Lost Lands",
-  "BookCharacterLevel": "",
-  "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\Grand Duchy of Reme.pdf"
-  ],
-  "BookDescription": [
-    "No description available."
-  ],
-  "TableOfContents": [
-    {
-  "title": "Book",
-  "chapters": [
-    {"page": 1, "title": "TOC TO BE DONE"},
-    {"page": 2, "title": ""}
-    ]    
-}
-]
-},
-{
   "BookName": "Grand Duchy of Reme Swords & Wizardry Sourcebook",
   "BookShortName": "Grand Duchy of Reme Swords & Wizardry Sourcebook",
   "BookPublisher": "Frog God Games",
@@ -227,7 +192,7 @@
   "BookRules": "Swords & Wizardry",
   "BookEdition": "Complete",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "",
   "BookType": "Adventure",
@@ -236,41 +201,6 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\The Fiend of Turlin's Well.pdf"
-  ],
-  "BookDescription": [
-    "No description available."
-  ],
-  "TableOfContents": [
-    {
-  "title": "Book",
-  "chapters": [
-    {"page": 1, "title": "TOC TO BE DONE"},
-    {"page": 2, "title": ""}
-    ]    
-}
-]
-},
-{
-  "BookName": "The World of the Lost Lands",
-  "BookShortName": "The World of the Lost Lands",
-  "BookPublisher": "Frog God Games",
-  "BookCode": "",
-  "BookISBN": "978-1-62283-822-6",
-  "BookAuthor": "Bill Webb",
-  "BookPublished": "",
-  "BookCover": "",
-  "BookRules": "Swords & Wizardry",
-  "BookEdition": "System Neutral",
-  "BookPhysical": "No",
-  "BookOwnedPDF": "No",
-  "BookLibrary": "Yes",
-  "BookSetting": "",
-  "BookType": "",
-  "BookFormat": "",
-  "BookSeries": "The Lost Lands",
-  "BookCharacterLevel": "",
-  "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\The World of the Lost Lands.pdf"
   ],
   "BookDescription": [
     "No description available."
@@ -381,8 +311,8 @@
   "BookCover": "",
   "BookRules": "Swords & Wizardry",
   "BookEdition": "Complete",
-  "BookPhysical": "",
-  "BookOwnedPDF": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookWiki": "",
   "WikiPage": "",
@@ -395,6 +325,300 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\The Lost City of Barakus\\The Lost City of Barakus Iconic Characters.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TB1 - The Crooked Nail",
+  "BookShortName": "TB1 - The Crooked Nail",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "The Lost Lands",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "The Blight",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\TB1 - The Crooked Nail.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TB2 - The Horror in the Sinks",
+  "BookShortName": "TB2 - The Horror in the Sinks",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "The Lost Lands",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "The Blight",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\TB2 - The Horror in the Sinks.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TB3 -  Bloody Jack",
+  "BookShortName": "TB3 -  Bloody Jack",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "The Lost Lands",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "The Blight",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\TB3 -  Bloody Jack.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TB4 -  The Crucible",
+  "BookShortName": "TB4 -  The Crucible",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "The Lost Lands",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "The Blight",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\TB4 -  The Crucible.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TB5 - The Children of the Harvest",
+  "BookShortName": "TB5 - The Children of the Harvest",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "The Lost Lands",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "The Blight",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\TB5 - The Children of the Harvest.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Eye of Itral",
+  "BookShortName": "Eye of Itral",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "The Lost Lands",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Cat's Cradle",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\Eye of Itral.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Fortune Hunters",
+  "BookShortName": "Fortune Hunters",
+  "BookPublisher": "Frog God Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Swords & Wizardry",
+  "BookEdition": "Complete",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "The Lost Lands",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Cat's Cradle",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\The Lost Lands\\Fortune Hunters.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

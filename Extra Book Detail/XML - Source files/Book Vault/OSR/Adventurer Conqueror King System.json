@@ -634,5 +634,174 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "AUT2001 - Imperial Imprint -  Revised Rulebook",
+  "BookShortName": "Imperial Imprint -  Revised Rulebook",
+  "BookPublisher": "Autarch",
+  "BookCode": "AUT2001",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Adventurer Conqueror King System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Adventurer Conqueror King System",
+  "UseTOC": "No",
+  "BookSetting": "Adventurer Conqueror King System",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AUT2001 - Imperial Imprint -  Revised Rulebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\Imperial Imprint - Character Sheet [print].pdf",
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\Imperial Imprint - Character Sheet [bkgd].pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "AUT2002 - Imperial Imprint - Judges Journal",
+  "BookShortName": "Imperial Imprint - Judges Journal",
+  "BookPublisher": "Autarch",
+  "BookCode": "AUT2002",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Adventurer Conqueror King System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Adventurer Conqueror King System",
+  "UseTOC": "No",
+  "BookSetting": "Adventurer Conqueror King System",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AUT2002 - Imperial Imprint - Judges Journal.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "AUT2003 - Imperial Imprint - Monstrous Manual",
+  "BookShortName": "Imperial Imprint - Monstrous Manual",
+  "BookPublisher": "Autarch",
+  "BookCode": "AUT2003",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Adventurer Conqueror King System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Adventurer Conqueror King System",
+  "UseTOC": "No",
+  "BookSetting": "Adventurer Conqueror King System",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\AUT2003 - Imperial Imprint - Monstrous Manual.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Imperial Imprint - System Compatibility Guide",
+  "BookShortName": "Imperial Imprint - System Compatibility Guide",
+  "BookPublisher": "Autarch",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Adventurer Conqueror King System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Adventurer Conqueror King System",
+  "UseTOC": "No",
+  "BookSetting": "Adventurer Conqueror King System",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\Imperial Imprint - System Compatibility Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

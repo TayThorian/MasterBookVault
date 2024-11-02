@@ -418,5 +418,47 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "WW8390 - Gary Gygax's Necropolis",
+  "BookShortName": "Gary Gygax's Necropolis",
+  "BookPublisher": "Necromancer Games",
+  "BookCode": "WW8390",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "d20",
+  "BookEdition": "3E Compatible",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "",
+  "UseTOC": "No",
+  "BookSetting": "Sword and Sorcery",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Levels 10 - 18",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\3E Compatible\\Necromancer Games\\WW8390 - Gary Gygax's Necropolis.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
