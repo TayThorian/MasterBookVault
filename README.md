@@ -66,9 +66,6 @@
 - ICE9013 - Vessel Compendium 3 - Imperial Ships
 - ICE9103 - Tales from Deep Space
 - ICE9107 - Disaster on Adanis III, Rescue on a Contested World
-## Schwalb Entertainment
-- SWW2401 - Shadow of the Weird Wizard
-- SWW2402 - Secrets of the Weird Wizard
 ## Mongoose Publishing
 - MGP40095 - Central Supply Catalogue -Update 2023
 - MGP40087 - High Guard Update 2022
