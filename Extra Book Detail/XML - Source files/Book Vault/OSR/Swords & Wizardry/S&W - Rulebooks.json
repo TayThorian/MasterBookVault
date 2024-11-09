@@ -13,13 +13,19 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
     "BookSetting": "",
     "BookType": "Rulebook",
     "BookFormat": "Hardback",
     "BookSeries": "Rulebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised.pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised.pdf"
+    ],
+    "BookMD": [
       "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Cleric Digital Spellbook.pdf",
       "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Druid Digital Spellbook.pdf",
       "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\Swords and Wizardry - Complete Revised Extras\\Magic User Digital Spellbook.pdf",

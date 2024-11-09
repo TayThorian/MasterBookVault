@@ -1031,7 +1031,7 @@
   "BookLibrary": "Yes",
   "BookWiki": "",
   "WikiPage": "",
-  "VaultSML": "traveller",
+  "VaultSML": "Traveller",
   "UseTOC": "No",
   "BookSetting": "",
   "BookType": "Referee's Aid",
@@ -1040,6 +1040,426 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3869 - Referee's Aid 8 - Traders & Raiders.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TRAVSS1 - Special Supplement 1 - Biotech Vehicles",
+  "BookShortName": "Special Supplement 1 - Biotech Vehicles",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "TRAVSS1",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Special Supplement",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Special Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\TRAVSS1 - Special Supplement 1 - Biotech Vehicles.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TRAVSS2 - Special Supplement 2 - Deadly Assassins",
+  "BookShortName": "Special Supplement 2 - Deadly Assassins",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "TRAVSS2",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Special Supplement",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Special Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\TRAVSS2 - Special Supplement 2 - Deadly Assassins.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3897 - Special Supplement 3 - Vehicle Upgrade Manual",
+  "BookShortName": "Special Supplement 3 - Vehicle Upgrade Manual",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3897",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Special Supplement",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Special Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3897 - Special Supplement 3 - Vehicle Upgrade Manual.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3896 - Special Supplement 4 - Rescue Ops",
+  "BookShortName": "Special Supplement 4 - Rescue Ops",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3896",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "N/A",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Special Supplement",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Special Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3896 - Special Supplement 4 - Rescue Ops.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3805 - Supplement 1 - 760 Patrons",
+  "BookShortName": "Supplement 1 - 760 Patrons",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3805",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3805 - Supplement 1 - 760 Patrons.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3806 - Supplement 2 - Traders and Gunboats",
+  "BookShortName": "Supplement 2 - Traders and Gunboats",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3806",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3806 - Supplement 2 - Traders and Gunboats.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3807 - Supplement 3 - Fighting Ships",
+  "BookShortName": "Supplement 3 - Fighting Ships",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3807",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3807 - Supplement 3 - Fighting Ships.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3819 - Supplement 4 - Central Supply Catalogue",
+  "BookShortName": "Supplement 4 - Central Supply Catalogue",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3819",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3819 - Supplement 4 - Central Supply Catalogue.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3821 - Supplement 5 - Civilian Vehicles",
+  "BookShortName": "Supplement 5 - Civilian Vehicles",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3821",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3821 - Supplement 5 - Civilian Vehicles.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3822 - Supplement 6 - Military Vehicles",
+  "BookShortName": "Supplement 6 - Military Vehicles",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3822",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookWiki": "",
+  "WikiPage": "",
+  "VaultSML": "Traveller",
+  "UseTOC": "No",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3822 - Supplement 6 - Military Vehicles.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

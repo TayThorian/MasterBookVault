@@ -457,5 +457,47 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "Ashes Without Number",
+    "BookShortName": "Ashes Without Number",
+    "BookPublisher": "Sine Nomine Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Kevin Crawford",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSR",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "Ashes Without Number",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Ashes Without Number",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Without Numbers\\Ashes\\Ashes Without Number.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
