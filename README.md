@@ -7,47 +7,6 @@
 ## Free League Publishing
 - FLFDGB015 - Path of Glory
 ## Iron Crown Enterprises
-- ICE2210 - Middle-Earth Adventure Guidebook II
-- ICE2400 - Umbar - Haven of the Corsairs
-- ICE2500 - The Court of Ardor in Southern Middle-earth
-- ICE2700 - Southern Mirkwood - Haunt of the Necromancer
-- ICE3600 - Dunland and the Southern Misty Mountains
-- ICE3200 - Lorien & The Halls of the Elven Smiths
-- ICE8107 - Woses of the Black Wood
-- ICE3111 - Greater Harad
-- ICE3113 - The Grey Mountains
-- ICE4010 - Mirkwood The Wilds of Rhovanion
-- ICE4020 - Empire of the Witch King
-- ICE3300 - Havens of Gondor
-- ICE3500 - Ents of Fangorn
-- ICE3700 - Lost Realm of Cardolan
-- ICE3900 - Shadow in the South
-- ICE8006 - Treasures of Middle Earth
-- ICE8007 - Angus McBrides Characters of Middle Earth
-- ICE8012 - Warlords Desert
-- ICE8013 - Dark Mage of Rhudaur
-- ICE8014 - Rogues of the Borderlands
-- ICE8015 - Forest of Tears
-- ICE8070 - Goblin-Gate and Eagle's Eyrie
-- ICE8090 - Brigands of Mirkwood
-- ICE8101 - Haunted Ruins of the Dunlendings
-- ICE8102 - Phantom Of The Northern Marches
-- ICE8103 - Trolls Of The Misty Mountains
-- ICE8104 - Pirates of Pelargir
-- ICE8105 - Gates Of Mordor
-- ICE8106 - Assassins of Dol Amroth
-- ICE8108 - Raiders of Cardolan
-- ICE8113 - The Necromancer's Lieutenant
-- ICE4001 - Campaign Atlas - Northwestern Middle Eart Map Set
-- ICE4002 - Northwestern Middle-earth Gazeteer
-- ICE8001 - Combat Screen
-- ICE8114 - River Running
-- ICE8201 - Weathertop Tower of Wind
-- ICE8202 - Teeth of Mordor
-- ICE8203 - Calenhad A Beacon of Gondor
-- ICE8204 - Halls of the Elven King
-- ICE8205 - Nazguls Citadel
-- ICE8302 - Minas Ithil
 - GCP-SMP-4500 - Space Master Privateers
 - GCP-SMP-4511 - Robotics Manual
 - GCP-SMP-4512 - Equipment Manual
@@ -55,46 +14,17 @@
 - GCP-SMP-4514 - Blaster Law
 - GCP-SMP-4515 - Future Law
 - GCP-SMP-4600 - Races & Cultures
-- ICE9003 - Aliens & Artifacts
-- ICE9004 - Space Master Companion II
-- ICE9101 - Action on Akaisha Outstation
-- ICE9102 - The Cygnus Conspiracy
-- ICE9400 - Lost Telepaths - The Secret of House Kashmere
-- ICE9500 - Space Master Companion
-- ICE9011 - Vessel Compendium 1 - Adventurer
-- ICE9012 - Vessel Compendium 2 - Pursuit Class
-- ICE9013 - Vessel Compendium 3 - Imperial Ships
-- ICE9103 - Tales from Deep Space
-- ICE9107 - Disaster on Adanis III, Rescue on a Contested World
 ## Mongoose Publishing
 - MGP40095 - Central Supply Catalogue -Update 2023
 - MGP40087 - High Guard Update 2022
 - MGP40101 - Traveller Companion Update 2024
 ## TSR
-- TSR1071 - Rules Cyclopedia
 - TSR2173 - Monstrous Compendium Annual - Volume Four
-- TSR11348 - Skullport
-- TSR11405 - The Wyrmskull Throne
-- TSR9379 - Volo's Guide to Waterdeep
-- TSR9460 - Volo's Guide to the Sword Coast
-- TSR9486 - Volo's Guide to Cormyr
-- TSR9524 - Volo's Guide to the Dalelands
-- TSR9535 - Volo's Guide to All Things Magical
-- TSR11509 - Drizzt Do'Urden's Guide to the Underdark
-- TSR9590 - Kidnapped
-- TSR9389 - FRM1 - The Jungles of Chult
-- TSR8908 - LC1 - Gateway to Raven's Bluff
-- TSR9282 - LC2 - Inside Raven's Bluff, The Living City
-- TSR9315 - LC4 - Port of Raven's Bluff
-- TSR9164 - OA1 - Swords of the Daimyo
-- TSR9186 - OA2 - Night of the Seven Swords
-- TSR9195 - OA3 - Ochimo The Spirit Warrior
-- TSR9203 - OA4 - Blood of the Yakuza
-- TSR9242 - OA5 - Mad Monkey vs. the Dragon Claw
-- TSR9257 - OA6 - Ronin Challenge
-- TSR9258 - OA7 - Test of the Samurai
-- TSR9307 - FROA1 - Ninja Wars
-- TSR2107 - MC5 - Monstrous Compendium Greyhawk Adventures Appendix
+## Wizards of the Coast
+- WTCDB3710000 - Dungeon Master's Guide 2024
+- WTCD37110000 - Monster Manual 2024
+## Modiphius
+- MUH0142305 - Captain's Log Solo RPG - TNG Edition
 # PDF's Books to Source
 ## Monte Cook Games
 - MCG372 - Cypher System Bestiary
