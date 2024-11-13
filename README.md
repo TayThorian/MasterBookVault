@@ -7,6 +7,15 @@
 ## Free League Publishing
 - FLFDGB015 - Path of Glory
 ## Iron Crown Enterprises
+- ICE1510 - Elemental Companion
+- ICE1800 - Rolemaster Companion IV
+- ICE1901 - Rolemaster Companion VI
+- ICE1902 - Rolemaster Companion VII
+- ICE1400 - Creatures & Treasures
+- ICE1410 - Creatures & Treasures II
+- ICE1430 - Creatures & Treasures III
+- ICE1530 - Alchemy Companion
+- ICE1520 - Spell User's Companion
 - GCP-SMP-4500 - Space Master Privateers
 - GCP-SMP-4511 - Robotics Manual
 - GCP-SMP-4512 - Equipment Manual
