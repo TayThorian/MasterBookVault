@@ -4,8 +4,6 @@
 - MCG316 - Path of the Planebreaker
 - MCG329 - Planar Bestiary
 - MCG372 - Cypher System Bestiary
-## Free League Publishing
-- FLFDGB015 - Path of Glory
 ## Iron Crown Enterprises
 - ICE1510 - Elemental Companion
 - ICE1800 - Rolemaster Companion IV
@@ -25,21 +23,15 @@
 - GCP-SMP-4600 - Races & Cultures
 ## Mongoose Publishing
 - MGP40095 - Central Supply Catalogue -Update 2023
-- MGP40087 - High Guard Update 2022
 - MGP40101 - Traveller Companion Update 2024
 ## TSR
 - TSR2173 - Monstrous Compendium Annual - Volume Four
 ## Wizards of the Coast
-- WTCDB3710000 - Dungeon Master's Guide 2024
 - WTCD37110000 - Monster Manual 2024
-## Modiphius
-- MUH0142305 - Captain's Log Solo RPG - TNG Edition
 # PDF's Books to Source
 ## Monte Cook Games
 - MCG372 - Cypher System Bestiary
 - MCG361 - The Glimmering Valley
-## Free League Publishing
-- FLFDGB015 - Path of Glory
 ## Iron Crown Enterprises
 - ICE9300 - Imperial Crisis House Devon in Turmoil
 - ICE9600 - Beyond the Core
@@ -68,7 +60,6 @@
 - SJG6616 - Modular Cutter
 ## Mongoose Publishing
 - MGP40095 - Central Supply Catalogue -Update 2023
-- MGP40087 - High Guard Update 2022
 ## TSR
 - TSR2158 - Monstrous Compendium Annual - Volume Two
 - TSR11383 - Campaign Option - Council of Wyrms

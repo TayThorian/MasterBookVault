@@ -789,5 +789,30 @@
  "The material component is a hollow bone from a vulture's wing, which must be carved into a whistle and blown when the spell is cast."
  ],
  "Edition": "2E"
+},
+{
+ "Name": "Abi-Dalzim's Horrid Wilting",
+ "DnDClass": "Wizard",
+ "Level": 8,
+ "LevelName": "8th Level Spell",
+ "School": "Alteration, Necromancy",
+ "Range": "20 yards/level",
+ "Save": "1/2",
+ "Duration": "Instantaneous",
+ "Components": "V, S, M",
+ "AoE": "30-foot cube",
+ "CastingTime": "8",
+ "SubField": "",
+ "SourceShort": "TSR2121",
+ "SourceLong": "TSR2121 - Tome of Magic",
+ "Page": 43,
+ "Vault": "Yes",
+ "First Letter": "A",
+ "SpellDescription": [
+ "This spell evaporates moisture from the bodies of every living creature within the area of effect, inflicting 1d8 points of damage per level of the caster. Affected creatures are allowed a saving throw, with success indicating half damage.",
+ "This spell is especially devastating to water elementals and plant creatures, who receive a penalty of -2 to their saving throws.",
+ "The material component is a bit of sponge."
+ ],
+ "Edition": "2E"
 }
 ]

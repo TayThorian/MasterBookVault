@@ -640,8 +640,8 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "To Source",
-    "BookOwnedPDF": "To Source",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Third Imperium",
     "BookType": "Rulebook",
@@ -3438,8 +3438,8 @@
     "BookCover": "",
     "BookRules": "Mongoose Traveller",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Traveller",
     "BookType": "Supplement",
@@ -4138,6 +4138,52 @@
     ],
     "BookMD": [
       "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGPFREE001 - Traveller Starter Pack",
+    "BookShortName": "Traveller Starter Pack",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGPFREE001",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "N/A",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookWiki": "",
+    "WikiPage": "",
+    "VaultSML": "",
+    "UseTOC": "No",
+    "BookSetting": "Traveller",
+    "BookType": "Starter Pack",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Starter Pack",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGPFREE001 - Traveller Starter Pack\\Explorers Edition.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGPFREE001 - Traveller Starter Pack\\Product_List.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGPFREE001 - Traveller Starter Pack\\Stranded.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGPFREE001 - Traveller Starter Pack\\Trav2022CharSheet.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGPFREE001 - Traveller Starter Pack\\travblanksubsectormap.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGPFREE001 - Traveller Starter Pack\\Death Station.pdf"
     ],
     "BookDescription": [
       "No description available."

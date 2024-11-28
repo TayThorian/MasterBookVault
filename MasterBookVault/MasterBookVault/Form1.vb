@@ -45,16 +45,6 @@ Public Class Form1
             .Columns.Add("BookISBN", "ISBN")
             .Columns.Add("BookPhysical", "Physical")
             .Columns.Add("BookOwnedPDF", "Owned PDF")
-            .Columns.Add("BookWiki", "On Wiki")
-
-            ' Add a DataGridViewLinkColumn for the WikiPage column
-            Dim linkColumn As New DataGridViewLinkColumn()
-            linkColumn.Name = "WikiPage"
-            linkColumn.HeaderText = "Wiki Page"
-            linkColumn.DataPropertyName = "WikiPage" ' Make sure this matches the property in your data source
-            linkColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill
-            .Columns.Add(linkColumn)
-
             .AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill
 
             ' Set the SortMode for the BookCode column
@@ -72,14 +62,7 @@ Public Class Form1
 
     End Sub
 
-    Private Sub DataGridViewBookDetails_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridViewBookDetails.CellContentClick
-        If e.ColumnIndex = DataGridViewBookDetails.Columns("WikiPage").Index AndAlso e.RowIndex >= 0 Then
-            Dim url As String = DataGridViewBookDetails.Rows(e.RowIndex).Cells("WikiPage").Value.ToString()
-            If Not String.IsNullOrWhiteSpace(url) Then
-                Process.Start(New ProcessStartInfo("cmd", $"/c start {url}") With {.CreateNoWindow = True})
-            End If
-        End If
-    End Sub
+
 
 
     Private Sub ClearAllData()
@@ -484,8 +467,7 @@ Public Class Form1
         TextBoxPhysical.Text = selectedBook.BookPhysical
         TextBoxOwnedPDF.Text = selectedBook.BookOwnedPDF
         TextBoxCharLvl.Text = selectedBook.BookCharacterLevel
-        TextBoxWikiEntry.Text = selectedBook.BookWiki
-        TextBoxWikiPage.Text = selectedBook.WikiPage
+
 
         ' Logic to construct WikiPageTitle
         Dim wikiPageTitle As String

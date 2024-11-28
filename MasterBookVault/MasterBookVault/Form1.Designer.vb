@@ -74,12 +74,9 @@ Partial Class Form1
         TextBoxCharLvl = New TextBox()
         Label26 = New Label()
         Label20 = New Label()
-        TextBoxWikiEntry = New TextBox()
-        Label24 = New Label()
         PanelMDLInks = New Panel()
         Label19 = New Label()
         Panel3 = New Panel()
-        TextBoxWikiPage = New TextBox()
         Panel4 = New Panel()
         BookCountListBox = New ListBox()
         Label21 = New Label()
@@ -582,11 +579,7 @@ Partial Class Form1
         ' 
         Panel2.BackColor = SystemColors.Window
         Panel2.BorderStyle = BorderStyle.Fixed3D
-        Panel2.Controls.Add(TextBoxCharLvl)
-        Panel2.Controls.Add(Label26)
         Panel2.Controls.Add(Label20)
-        Panel2.Controls.Add(TextBoxWikiEntry)
-        Panel2.Controls.Add(Label24)
         Panel2.Controls.Add(PanelMDLInks)
         Panel2.Controls.Add(Label19)
         Panel2.Controls.Add(Label18)
@@ -633,7 +626,7 @@ Partial Class Form1
         TextBoxCharLvl.BackColor = SystemColors.Window
         TextBoxCharLvl.BorderStyle = BorderStyle.None
         TextBoxCharLvl.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxCharLvl.Location = New Point(130, 1106)
+        TextBoxCharLvl.Location = New Point(117, 400)
         TextBoxCharLvl.Name = "TextBoxCharLvl"
         TextBoxCharLvl.Size = New Size(315, 22)
         TextBoxCharLvl.TabIndex = 48
@@ -643,7 +636,7 @@ Partial Class Form1
         Label26.AutoSize = True
         Label26.BackColor = SystemColors.Window
         Label26.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label26.Location = New Point(30, 1107)
+        Label26.Location = New Point(16, 400)
         Label26.Name = "Label26"
         Label26.Size = New Size(54, 21)
         Label26.TabIndex = 53
@@ -659,27 +652,6 @@ Partial Class Form1
         Label20.Size = New Size(96, 21)
         Label20.TabIndex = 52
         Label20.Text = "Extra Links:"
-        ' 
-        ' TextBoxWikiEntry
-        ' 
-        TextBoxWikiEntry.BackColor = SystemColors.Window
-        TextBoxWikiEntry.BorderStyle = BorderStyle.None
-        TextBoxWikiEntry.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxWikiEntry.Location = New Point(130, 1078)
-        TextBoxWikiEntry.Name = "TextBoxWikiEntry"
-        TextBoxWikiEntry.Size = New Size(52, 22)
-        TextBoxWikiEntry.TabIndex = 53
-        ' 
-        ' Label24
-        ' 
-        Label24.AutoSize = True
-        Label24.BackColor = SystemColors.Window
-        Label24.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label24.Location = New Point(30, 1079)
-        Label24.Name = "Label24"
-        Label24.Size = New Size(49, 21)
-        Label24.TabIndex = 46
-        Label24.Text = "Wiki:"
         ' 
         ' PanelMDLInks
         ' 
@@ -705,21 +677,12 @@ Partial Class Form1
         ' Panel3
         ' 
         Panel3.BorderStyle = BorderStyle.Fixed3D
-        Panel3.Controls.Add(TextBoxWikiPage)
+        Panel3.Controls.Add(TextBoxCharLvl)
+        Panel3.Controls.Add(Label26)
         Panel3.Location = New Point(11, 680)
         Panel3.Name = "Panel3"
         Panel3.Size = New Size(629, 463)
         Panel3.TabIndex = 49
-        ' 
-        ' TextBoxWikiPage
-        ' 
-        TextBoxWikiPage.BackColor = SystemColors.Window
-        TextBoxWikiPage.BorderStyle = BorderStyle.None
-        TextBoxWikiPage.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxWikiPage.Location = New Point(175, 396)
-        TextBoxWikiPage.Name = "TextBoxWikiPage"
-        TextBoxWikiPage.Size = New Size(447, 22)
-        TextBoxWikiPage.TabIndex = 54
         ' 
         ' Panel4
         ' 
@@ -936,7 +899,6 @@ Partial Class Form1
     Friend WithEvents ContextMenuStrip1 As ContextMenuStrip
     Friend WithEvents Label21 As Label
     Friend WithEvents BookCountListBox As ListBox
-    Friend WithEvents Label24 As Label
     Friend WithEvents TextBoxCharLvl As TextBox
     Friend WithEvents TextBoxObjectCount As TextBox
     Friend WithEvents Label25 As Label
@@ -944,9 +906,7 @@ Partial Class Form1
     Friend WithEvents Label19 As Label
     Friend WithEvents Label20 As Label
     Friend WithEvents PanelMDLInks As Panel
-    Friend WithEvents TextBoxWikiEntry As TextBox
     Friend WithEvents Label26 As Label
-    Friend WithEvents TextBoxWikiPage As TextBox
     Friend WithEvents btnCopyToWiki As Button
     Friend WithEvents TextBoxWikiPageTitle As TextBox
     Friend WithEvents btnOpenWikiPage As Button

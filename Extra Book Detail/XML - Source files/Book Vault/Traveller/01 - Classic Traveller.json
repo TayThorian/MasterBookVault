@@ -219,7 +219,7 @@
     "BookCode": "GDW337",
     "BookISBN": "",
     "BookAuthor": "Marc Miller",
-    "BookPublished": "",
+    "BookPublished": "1983",
     "BookCover": "",
     "BookRules": "Traveller",
     "BookEdition": "Classic Traveller",
@@ -234,15 +234,24 @@
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Traveller\\01 - CT\\Game Designers Workshop\\GDW337 - Book 6 - Scouts.pdf"
     ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\The Vault\\Traveller\\Errata\\337 - Scouts (Book 6, 1983 Edition).md"
+    ],
     "BookDescription": [
-      "No description available."
+      "Book 6: Scouts addressed in detail the Imperial Interstellar Scout Service, its organisation, duties, and operations, plus an expanded star system generation sequence."
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "Book 6 - Scouts",
     "chapters": [
-      {"page": 1, "title": "TOC TO BE DONE"},
-      {"page": 2, "title": ""}
+      {"page": 4, "title": "Introduction"},
+      {"page": 9, "title": "Scout Characters"},
+      {"page": 21, "title": "Star System Generation"},
+      {"page": 41, "title": "Astronomical Data"},
+      {"page": 51, "title": "System Data Forms"},
+      {"page": 54, "title": "Star System Examples"},
+      {"page": 55, "title": "The Regina System"},
+      {"page": 56, "title": "The Terra System"}
       ]    
   }
 ]

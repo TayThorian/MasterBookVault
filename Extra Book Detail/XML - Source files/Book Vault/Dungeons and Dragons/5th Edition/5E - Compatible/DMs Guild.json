@@ -996,10 +996,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "",
-  "UseTOC": "No",
   "BookSetting": "",
   "BookType": "Supplement",
   "BookFormat": "",
@@ -1007,6 +1003,44 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\5E - Compatible\\DMs Guild\\Elminster's Candlekeep Companion.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Greyhawk Campaign Guide",
+  "BookShortName": "Greyhawk Campaign Guide",
+  "BookPublisher": "DM's Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Joseph Bloch",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5th Edition - Greyhawk",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\5E - Compatible\\DMs Guild\\Greyhawk Campaign Guide.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

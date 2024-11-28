@@ -135,5 +135,47 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "KOB 9870 - Tales of the Valiant - Game Master's Guide",
+  "BookShortName": "Tales of the Valiant - Game Master's Guide",
+  "BookPublisher": "Kobold Press",
+  "BookCode": "KOB 9870",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Black Flag Roleplaying",
+  "BookEdition": "5E Compatible",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookWiki": "Yes",
+  "WikiPage": "",
+  "VaultSML": "5E Compatible",
+  "UseTOC": "No",
+  "BookSetting": "Tales of the Valiant",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Tales of the Valiant\\KOB 9870 - Tales of the Valiant - Game Master's Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
