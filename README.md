@@ -31,7 +31,6 @@
 # PDF's Books to Source
 ## Monte Cook Games
 - MCG372 - Cypher System Bestiary
-- MCG361 - The Glimmering Valley
 ## Iron Crown Enterprises
 - ICE9300 - Imperial Crisis House Devon in Turmoil
 - ICE9600 - Beyond the Core

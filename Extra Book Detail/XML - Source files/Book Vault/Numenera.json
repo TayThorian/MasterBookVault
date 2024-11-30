@@ -11,7 +11,7 @@
     "BookRules": "Cypher System",
     "BookEdition": "1st Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/The_Glimmering_Valley_(MCG361)",
@@ -231,7 +231,7 @@
     "BookCover": "",
     "BookRules": "Cypher System",
     "BookEdition": "1st Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "On Order",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
@@ -266,7 +266,7 @@
     "BookCover": "",
     "BookRules": "Cypher System",
     "BookEdition": "1st Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "On Order",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
@@ -654,7 +654,7 @@
     "BookCover": "",
     "BookRules": "Cypher System",
     "BookEdition": "1st Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "On Order",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
@@ -833,7 +833,7 @@
     "BookCover": "",
     "BookRules": "Cypher System",
     "BookEdition": "1st Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "On Order",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
@@ -910,7 +910,7 @@
     "BookCover": "",
     "BookRules": "Cypher System",
     "BookEdition": "1st Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "On Order",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
@@ -946,7 +946,7 @@
     "BookCover": "",
     "BookRules": "Cypher System",
     "BookEdition": "1st Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "On Order",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
@@ -1443,9 +1443,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Numenera",
-    "BookType": "",
+    "BookType": "Supplement",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Numenera\\MCG019 - Character Options.pdf"
@@ -1462,5 +1462,575 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "MCG088 - Character Options 2",
+    "BookShortName": "Character Options 2",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG088",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG088 - Character Options 2.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG047 - Jade Colossus - Ruins of the Prior Worlds",
+    "BookShortName": "Jade Colossus - Ruins of the Prior Worlds",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG047",
+    "BookISBN": "",
+    "BookAuthor": "Bruce R. Cordell",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG047 - Jade Colossus - Ruins of the Prior Worlds.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG155 - Escape From The Jade Colossus",
+    "BookShortName": "Escape From The Jade Colossus",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG155",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG155 - Escape From The Jade Colossus.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG142 - The Spire of the Hunting Sound",
+    "BookShortName": "The Spire of the Hunting Sound",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG142",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG142 - The Spire of the Hunting Sound.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG142 - The Spire of the Hunting Sound - Characters and Mini Bestiary.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG087 - In Alternate Dimensions",
+    "BookShortName": "In Alternate Dimensions",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG087",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG087 - In Alternate Dimensions.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG086 - The Octopi of the Ninth World",
+    "BookShortName": "The Octopi of the Ninth World",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG086",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG086 - The Octopi of the Ninth World.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG065 - Weird Discoveries - Ten Instant Adventures for Numenera",
+    "BookShortName": "Weird Discoveries - Ten Instant Adventures for Numenera",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG065",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG065 - Weird Discoveries - Ten Instant Adventures for Numenera.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG064 - Strange Creatures of the Ninth World",
+    "BookShortName": "Strange Creatures of the Ninth World",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG064",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Bestiary",
+    "BookFormat": "",
+    "BookSeries": "Bestiary",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG064 - Strange Creatures of the Ninth World.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG057 - Taking the Narrative by the Tail - GM Intrusions & Special Effects",
+    "BookShortName": "Taking the Narrative by the Tail - GM Intrusions & Special Effects",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG057",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG057 - Taking the Narrative by the Tail - GM Intrusions & Special Effects.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG045 - Exploring Numenera - Strand",
+    "BookShortName": "Exploring Numenera - Strand",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG045",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG045 - Exploring Numenera - Strand.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG040 - Torment - Tides of Numenera - The Explorer's Guide",
+    "BookShortName": "Torment - Tides of Numenera - The Explorer's Guide",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG040",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG040 - Torment - Tides of Numenera - The Explorer's Guide.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG025 - Into the Violet Vale",
+    "BookShortName": "Into the Violet Vale",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG025",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG025 - Into the Violet Vale.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG022 - Love and Sex in the Ninth World",
+    "BookShortName": "Love and Sex in the Ninth World",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG022",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG022 - Love and Sex in the Ninth World.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG021 - Injecting the Weird",
+    "BookShortName": "Injecting the Weird",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG021",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG021 - Injecting the Weird.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MCG020 - Artifacts & Oddities Collection 1",
+    "BookShortName": "Artifacts & Oddities Collection 1",
+    "BookPublisher": "Monte Cook Games",
+    "BookCode": "MCG020",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Cypher System",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Numenera",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Numenera\\MCG020 - Artifacts & Oddities Collection 1.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
