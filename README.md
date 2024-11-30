@@ -22,8 +22,18 @@
 - GCP-SMP-4515 - Future Law
 - GCP-SMP-4600 - Races & Cultures
 ## Mongoose Publishing
+- MGP40073 - The Third Imperium
+- MGP40112 - The Deep and the Dark
 - MGP40095 - Central Supply Catalogue -Update 2023
+- MGP40075 - The Spinward Extents
+- MGP40085 - Robot Handbook
+- MGP40100 - World Builder’s Handbook
+- MGP40108 - Small Craft Catalogue
+- MGP40105 - Adventure Class Ships
+- MGP40102 - Rim Expeditions
 - MGP40101 - Traveller Companion Update 2024
+- MGP40123 - Bounty Hunter
+- MGP40128 - Traders and Gunboats
 ## TSR
 - TSR2173 - Monstrous Compendium Annual - Volume Four
 ## Wizards of the Coast
@@ -58,7 +68,17 @@
 - SJG6631 - Sword Worlds
 - SJG6616 - Modular Cutter
 ## Mongoose Publishing
+- MGP40073 - The Third Imperium
+- MGP40112 - The Deep and the Dark
 - MGP40095 - Central Supply Catalogue -Update 2023
+- MGP40075 - The Spinward Extents
+- MGP40085 - Robot Handbook
+- MGP40100 - World Builder’s Handbook
+- MGP40108 - Small Craft Catalogue
+- MGP40105 - Adventure Class Ships
+- MGP40102 - Rim Expeditions
+- MGP40123 - Bounty Hunter
+- MGP40128 - Traders and Gunboats
 ## TSR
 - TSR2158 - Monstrous Compendium Annual - Volume Two
 - TSR11383 - Campaign Option - Council of Wyrms
