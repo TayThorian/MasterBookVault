@@ -1746,5 +1746,81 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "MCG379 - The Magnus Archives Roleplaying Game",
+  "BookShortName": "The Magnus Archives Roleplaying Game",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG379",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Magnus Archives",
+  "BookType": "Ruleboook",
+  "BookFormat": "",
+  "BookSeries": "The Magnus Archives",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cypher System\\MCG379 - The Magnus Archives Roleplaying Game.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG382 - The Magnus Archives Player's Guide",
+  "BookShortName": "The Magnus Archives Player's Guide",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG382",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Magnus Archives",
+  "BookType": "Ruleboook",
+  "BookFormat": "",
+  "BookSeries": "The Magnus Archives",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cypher System\\MCG382 - The Magnus Archives Player's Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
