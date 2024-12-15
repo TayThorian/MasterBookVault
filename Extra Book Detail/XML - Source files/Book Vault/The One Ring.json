@@ -1020,5 +1020,47 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "FLFTOR018 - Realms of the Three Rings",
+    "BookShortName": "Realms of the Three Rings",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFTOR018",
+    "BookISBN": "978-91-89765-78-8",
+    "BookAuthor": "Gabriele Quaglia, Francesco Nepitello",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "The One Ring",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "The One Ring",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\The One Ring\\FLFTOR018 - Realms of the Three Rings.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "In Eregion long ago many Elven-rings were made, magic rings as you call them, and they were, of course, of various kinds: some more potent and some less. The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles – yet still to my mind dangerous for mortals. But the Great Rings, the Rings of Power, they were perilous.",
+      "In the twilight of the Third Age, three realms of the West-elves still endure in Middle-earth. By the power of the Three Rings, they exist as a testament to a time that was. But not only the Elves remember. As Sauron gathers his strength to bring war to Middle-earth once again, he plans a devious vengeance against those who humbled him long ago.",
+      "Realms of the Three Rings™ is a supplement for The One Ring™, the official tabletop roleplaying game based on the works of J.R.R. Tolkien.",
+      "Chapter 1: Where The West-elves Still Linger describes the realms of Lórien, Rivendell and Lindon and those who dwell there, including the Elf-lords who are their guardians.","Chapter 2: The Days Darken provides the Loremaster with details about Sauron’s schemes against the Immortal Folk, including possible events, Adversaries, and Loremaster characters.","Chapter 3: Landmarks outlines twelve sites of interest, including locations mentioned in The Lord of the Rings™ and others created specifically for the game.",
+      "The Appendix contains rules to play High Elves of Rivendell and Elves of Lórien, and introduces guidelines to create Elf-lords, powerful characters especially suited for solo play."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

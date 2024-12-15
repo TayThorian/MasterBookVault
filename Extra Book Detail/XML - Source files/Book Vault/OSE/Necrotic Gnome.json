@@ -761,5 +761,43 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "NG-046 - The Necromancer",
+    "BookShortName": "The Necromancer",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-046",
+    "BookISBN": "979-8-88756-132-5",
+    "BookAuthor": "",
+    "BookPublished": "2023",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Class",
+    "BookFormat": "",
+    "BookSeries": "Classes",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-046 - The Necromancer.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

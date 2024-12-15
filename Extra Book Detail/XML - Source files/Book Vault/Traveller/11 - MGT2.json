@@ -4197,5 +4197,83 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "MGP40130 - Merchant's Edition",
+    "BookShortName": "Merchant's Edition",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40130",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Core Books",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40130 - Merchant's Edition.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Traveller is the science fiction roleplaying game of the far future. The Traveller Merchant’s Edition is an introduction to the game for newcomers that provides all of the tools you need to create adventures or even an entire campaign. Create bold exploratory traders and merchant princes who travel into the unknown aboard their trusty Type-A2 Far Trader, a rugged merchant ship perfect for frontier space.",
+      "Dock your ship at advanced starports, visit strange worlds, encounter alien beings and animals, and make a fortune as you cross the galaxy. ",
+      "The universe awaits. Welcome to Traveller!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40131 - Clans of the Aslan",
+    "BookShortName": "Clans of the Aslan",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40131",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40131 - Clans of the Aslan.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

@@ -4,6 +4,8 @@
 - MCG316 - Path of the Planebreaker
 - MCG329 - Planar Bestiary
 - MCG372 - Cypher System Bestiary
+## Free League Publishing
+- FLFTOR018 - Realms of the Three Rings
 ## Iron Crown Enterprises
 - ICE1510 - Elemental Companion
 - ICE1800 - Rolemaster Companion IV
@@ -41,6 +43,8 @@
 # PDF's Books to Source
 ## Monte Cook Games
 - MCG372 - Cypher System Bestiary
+## Free League Publishing
+- FLFTOR018 - Realms of the Three Rings
 ## Iron Crown Enterprises
 - ICE9300 - Imperial Crisis House Devon in Turmoil
 - ICE9600 - Beyond the Core
@@ -82,9 +86,6 @@
 ## TSR
 - TSR2158 - Monstrous Compendium Annual - Volume Two
 - TSR11383 - Campaign Option - Council of Wyrms
-- TSR2016 - Monster Manual II
-- TSR2013 - Deities & Demigods
-- TSR2012 - Fiend Folio
 - TSR9322 - HR1 - Vikings Campaign Sourcebook
 - TSR9323 - HR2 - Charlemagne's Paladins Campaign Sourcebook
 - TSR9376 - HR3 - Celts Campaign Sourcebook
