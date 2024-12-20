@@ -198,7 +198,7 @@
     "BookRules": "GURPS",
     "BookEdition": "3rd Edition",
     "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "",
     "BookType": "Rulebook",
@@ -514,5 +514,81 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "SJG6519 - Compendium I",
+    "BookShortName": "Compendium I",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6519",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Compendium",
+    "BookFormat": "",
+    "BookSeries": "Compendiums",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\3E\\SJG6519 - Compendium I.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG6522 - Compendium II",
+    "BookShortName": "Compendium II",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6522",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Compendium",
+    "BookFormat": "",
+    "BookSeries": "Compendiums",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\3E\\SJG6522 - Compendium II.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

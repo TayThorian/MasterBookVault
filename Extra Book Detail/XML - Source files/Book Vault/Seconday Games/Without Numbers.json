@@ -11,7 +11,7 @@
     "BookRules": "OSR",
     "BookEdition": "1st Edition",
     "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Cities Without Number",
     "BookType": "Rulebook",
