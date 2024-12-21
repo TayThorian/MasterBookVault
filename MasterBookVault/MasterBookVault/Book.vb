@@ -26,6 +26,11 @@
     Public Property BookPDF As List(Of String)
 
     Public Property BookMD As List(Of String)
+
+    Public Property BookMDWSpells As List(Of String)
+    Public Property BookMDPSpells As List(Of String)
+    Public Property BookMDMonsters As List(Of String)
+    Public Property BookMDMagicItems As List(Of String)
     Public Property BookDescription As String()
 
     Public Property TableOfContents As List(Of TOCSection)

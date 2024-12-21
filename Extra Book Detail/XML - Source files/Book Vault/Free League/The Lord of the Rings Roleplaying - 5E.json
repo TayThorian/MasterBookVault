@@ -191,5 +191,43 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "FLFLTR010 - Keepers of the Elven-rings",
+    "BookShortName": "Keepers of the Elven-rings",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "FLFLTR010",
+    "BookISBN": "978-91-89765-81-8",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "5e Compatible",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Middle Earth",
+    "BookType": "Supplement",
+    "BookFormat": "Hardback",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\5E - Compatible\\The Lord of the Rings Roleplaying\\FLFLTR010 - Keepers of the Elven-rings.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

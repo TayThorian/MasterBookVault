@@ -282,7 +282,73 @@ Public Class Form1
                 PanelMDLInks.AutoScroll = True ' Enable scrolling if needed
             End If
 
+            ' Update MDLInksWSpells with MD Files
+            MDLinksWSpells.Controls.Clear()
+            If selectedBook.BookMDWSpells IsNot Nothing AndAlso selectedBook.BookMDWSpells.Any() Then
+                Dim yOffset As Integer = 0
+                For Each pdfPath In selectedBook.BookMDWSpells
+                    Dim link As New LinkLabel()
+                    link.Text = Path.GetFileNameWithoutExtension(pdfPath)
+                    link.Tag = pdfPath
+                    link.AutoSize = True
+                    link.Location = New Point(0, yOffset) ' Set Y position for each link
+                    yOffset += link.Height + 5 ' Increment Y offset for the next link
+                    AddHandler link.Click, AddressOf PdfLink_Click
+                    MDLinksWSpells.Controls.Add(link)
+                Next
+                MDLinksWSpells.AutoScroll = True ' Enable scrolling if needed
+            End If
 
+            ' Update MDLInksPSpells with MD Files
+            MDLinksPSpells.Controls.Clear()
+            If selectedBook.BookMDPSpells IsNot Nothing AndAlso selectedBook.BookMDPSpells.Any() Then
+                Dim yOffset As Integer = 0
+                For Each pdfPath In selectedBook.BookMDPSpells
+                    Dim link As New LinkLabel()
+                    link.Text = Path.GetFileNameWithoutExtension(pdfPath)
+                    link.Tag = pdfPath
+                    link.AutoSize = True
+                    link.Location = New Point(0, yOffset) ' Set Y position for each link
+                    yOffset += link.Height + 5 ' Increment Y offset for the next link
+                    AddHandler link.Click, AddressOf PdfLink_Click
+                    MDLinksPSpells.Controls.Add(link)
+                Next
+                MDLinksPSpells.AutoScroll = True ' Enable scrolling if needed
+            End If
+
+            ' Update MDLInksMonsters with MD Files
+            MDLinksMonsters.Controls.Clear()
+            If selectedBook.BookMDMonsters IsNot Nothing AndAlso selectedBook.BookMDMonsters.Any() Then
+                Dim yOffset As Integer = 0
+                For Each pdfPath In selectedBook.BookMDMonsters
+                    Dim link As New LinkLabel()
+                    link.Text = Path.GetFileNameWithoutExtension(pdfPath)
+                    link.Tag = pdfPath
+                    link.AutoSize = True
+                    link.Location = New Point(0, yOffset) ' Set Y position for each link
+                    yOffset += link.Height + 5 ' Increment Y offset for the next link
+                    AddHandler link.Click, AddressOf PdfLink_Click
+                    MDLinksMonsters.Controls.Add(link)
+                Next
+                MDLinksMonsters.AutoScroll = True ' Enable scrolling if needed
+            End If
+
+            ' Update MDLInksMagicItems with MD Files
+            MDLinksMagicItems.Controls.Clear()
+            If selectedBook.BookMDMagicItems IsNot Nothing AndAlso selectedBook.BookMDMagicItems.Any() Then
+                Dim yOffset As Integer = 0
+                For Each pdfPath In selectedBook.BookMDMagicItems
+                    Dim link As New LinkLabel()
+                    link.Text = Path.GetFileNameWithoutExtension(pdfPath)
+                    link.Tag = pdfPath
+                    link.AutoSize = True
+                    link.Location = New Point(0, yOffset) ' Set Y position for each link
+                    yOffset += link.Height + 5 ' Increment Y offset for the next link
+                    AddHandler link.Click, AddressOf PdfLink_Click
+                    MDLinksMagicItems.Controls.Add(link)
+                Next
+                MDLinksMagicItems.AutoScroll = True ' Enable scrolling if needed
+            End If
 
         End If
     End Sub

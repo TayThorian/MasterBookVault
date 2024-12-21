@@ -4695,6 +4695,32 @@
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR9301 - FA1 - Halls of the High King.pdf"
     ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookMDWSpells": [
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\2nd Level\\Mist Magic.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\3rd Level\\Call Undead.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\4th Level\\Flamsterd's Flamestrike.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\6th Level\\Starharp.md"
+    ],
+    "BookMDPSpells": [
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\4th Level\\The Doom of Bane.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\5th Level\\Mystic Lash.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\7th Level\\Death Symbol.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\7th Level\\Moonveil.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\7th Level\\Stone Walk.md"
+    ],
+    "BookMDMonsters": [
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\B\\Bat - Bonebat.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\H\\Helmed Horror.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\P\\Peltast.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\S\\Shee.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\W\\Weredragon.md"
+    ],
+    "BookMDMagicItems": [
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Clothing\\Black Hand.md"
+    ],
     "BookDescription": [
       "Someone in the misty, wooded Moonshae isles needs hundreds of brand new swords taken under guard from Sword Coast smiths to a certain place on the Isles. The swords are needed so badly, and their safe arrival is considered so unlikely, that someone is willing to pay adventurers a lot of gold - someone fairly important.",
       "Adventures foolish enough to take assignments too good to be true (or merely desperate for coins) will soon find themselves embroiled in a dark and mysterious struggle against evil that will take them into sacred groves, crumbling castles, and through ancient magical gates to the halls of the High King - and beyond",
@@ -4702,7 +4728,7 @@
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "FA1 - Halls of the High King",
     "chapters": [
       {"page": 2, "title": "Introduction"},
       {"page": 3, "title": "Chapter 1 - The Adventure Begins"},

@@ -71,12 +71,20 @@ Partial Class Form1
         Label4 = New Label()
         Label18 = New Label()
         Panel2 = New Panel()
-        TextBoxCharLvl = New TextBox()
-        Label26 = New Label()
+        MDLinksMagicItems = New Panel()
+        Label29 = New Label()
+        MDLinksMonsters = New Panel()
+        Label28 = New Label()
+        MDLinksPSpells = New Panel()
+        Label27 = New Label()
+        Label24 = New Label()
+        MDLinksWSpells = New Panel()
         Label20 = New Label()
         PanelMDLInks = New Panel()
         Label19 = New Label()
         Panel3 = New Panel()
+        TextBoxCharLvl = New TextBox()
+        Label26 = New Label()
         Panel4 = New Panel()
         BookCountListBox = New ListBox()
         Label21 = New Label()
@@ -159,7 +167,7 @@ Partial Class Form1
         PanelPdfLinks.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
         PanelPdfLinks.Location = New Point(646, 680)
         PanelPdfLinks.Name = "PanelPdfLinks"
-        PanelPdfLinks.Size = New Size(463, 463)
+        PanelPdfLinks.Size = New Size(477, 463)
         PanelPdfLinks.TabIndex = 6
         ' 
         ' Panel1
@@ -366,10 +374,10 @@ Partial Class Form1
         ' DataGridViewBookDetails
         ' 
         DataGridViewBookDetails.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewBookDetails.Location = New Point(2592, 69)
+        DataGridViewBookDetails.Location = New Point(2544, 779)
         DataGridViewBookDetails.Name = "DataGridViewBookDetails"
         DataGridViewBookDetails.RowTemplate.Height = 25
-        DataGridViewBookDetails.Size = New Size(721, 1155)
+        DataGridViewBookDetails.Size = New Size(769, 445)
         DataGridViewBookDetails.TabIndex = 27
         ' 
         ' ListBoxBooksToSource
@@ -378,9 +386,9 @@ Partial Class Form1
         ListBoxBooksToSource.Font = New Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point)
         ListBoxBooksToSource.FormattingEnabled = True
         ListBoxBooksToSource.ItemHeight = 15
-        ListBoxBooksToSource.Location = New Point(2171, 108)
+        ListBoxBooksToSource.Location = New Point(3, 37)
         ListBoxBooksToSource.Name = "ListBoxBooksToSource"
-        ListBoxBooksToSource.Size = New Size(400, 364)
+        ListBoxBooksToSource.Size = New Size(348, 364)
         ListBoxBooksToSource.TabIndex = 28
         ' 
         ' ListBoxBooksOnOrder
@@ -389,16 +397,16 @@ Partial Class Form1
         ListBoxBooksOnOrder.Font = New Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point)
         ListBoxBooksOnOrder.FormattingEnabled = True
         ListBoxBooksOnOrder.ItemHeight = 15
-        ListBoxBooksOnOrder.Location = New Point(2171, 858)
+        ListBoxBooksOnOrder.Location = New Point(5, 440)
         ListBoxBooksOnOrder.Name = "ListBoxBooksOnOrder"
-        ListBoxBooksOnOrder.Size = New Size(400, 244)
+        ListBoxBooksOnOrder.Size = New Size(346, 244)
         ListBoxBooksOnOrder.TabIndex = 29
         ' 
         ' Label11
         ' 
         Label11.AutoSize = True
         Label11.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label11.Location = New Point(13, 11)
+        Label11.Location = New Point(3, 13)
         Label11.Name = "Label11"
         Label11.Size = New Size(203, 21)
         Label11.TabIndex = 30
@@ -408,7 +416,7 @@ Partial Class Form1
         ' 
         Label12.AutoSize = True
         Label12.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label12.Location = New Point(13, 400)
+        Label12.Location = New Point(357, 11)
         Label12.Name = "Label12"
         Label12.Size = New Size(181, 21)
         Label12.TabIndex = 31
@@ -418,7 +426,7 @@ Partial Class Form1
         ' 
         Label13.AutoSize = True
         Label13.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label13.Location = New Point(13, 761)
+        Label13.Location = New Point(5, 416)
         Label13.Name = "Label13"
         Label13.Size = New Size(201, 21)
         Label13.TabIndex = 32
@@ -430,9 +438,9 @@ Partial Class Form1
         ListBoxPDFToSource.Font = New Font("Segoe UI", 9.75F, FontStyle.Regular, GraphicsUnit.Point)
         ListBoxPDFToSource.FormattingEnabled = True
         ListBoxPDFToSource.ItemHeight = 15
-        ListBoxPDFToSource.Location = New Point(13, 424)
+        ListBoxPDFToSource.Location = New Point(357, 37)
         ListBoxPDFToSource.Name = "ListBoxPDFToSource"
-        ListBoxPDFToSource.Size = New Size(400, 334)
+        ListBoxPDFToSource.Size = New Size(400, 364)
         ListBoxPDFToSource.TabIndex = 33
         ' 
         ' TextBoxSetting
@@ -550,7 +558,7 @@ Partial Class Form1
         ListBoxTOC.ItemHeight = 17
         ListBoxTOC.Location = New Point(1131, 37)
         ListBoxTOC.Name = "ListBoxTOC"
-        ListBoxTOC.Size = New Size(461, 582)
+        ListBoxTOC.Size = New Size(431, 582)
         ListBoxTOC.TabIndex = 44
         ' 
         ' Label4
@@ -579,6 +587,14 @@ Partial Class Form1
         ' 
         Panel2.BackColor = SystemColors.Window
         Panel2.BorderStyle = BorderStyle.Fixed3D
+        Panel2.Controls.Add(MDLinksMagicItems)
+        Panel2.Controls.Add(Label29)
+        Panel2.Controls.Add(MDLinksMonsters)
+        Panel2.Controls.Add(Label28)
+        Panel2.Controls.Add(MDLinksPSpells)
+        Panel2.Controls.Add(Label27)
+        Panel2.Controls.Add(Label24)
+        Panel2.Controls.Add(MDLinksWSpells)
         Panel2.Controls.Add(Label20)
         Panel2.Controls.Add(PanelMDLInks)
         Panel2.Controls.Add(Label19)
@@ -618,36 +634,103 @@ Partial Class Form1
         Panel2.Controls.Add(Panel3)
         Panel2.Location = New Point(531, 69)
         Panel2.Name = "Panel2"
-        Panel2.Size = New Size(1619, 1155)
+        Panel2.Size = New Size(2007, 1155)
         Panel2.TabIndex = 8
         ' 
-        ' TextBoxCharLvl
+        ' MDLinksMagicItems
         ' 
-        TextBoxCharLvl.BackColor = SystemColors.Window
-        TextBoxCharLvl.BorderStyle = BorderStyle.None
-        TextBoxCharLvl.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        TextBoxCharLvl.Location = New Point(117, 400)
-        TextBoxCharLvl.Name = "TextBoxCharLvl"
-        TextBoxCharLvl.Size = New Size(315, 22)
-        TextBoxCharLvl.TabIndex = 48
+        MDLinksMagicItems.AutoScroll = True
+        MDLinksMagicItems.BackColor = Color.FloralWhite
+        MDLinksMagicItems.BorderStyle = BorderStyle.Fixed3D
+        MDLinksMagicItems.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        MDLinksMagicItems.Location = New Point(1573, 960)
+        MDLinksMagicItems.Name = "MDLinksMagicItems"
+        MDLinksMagicItems.Size = New Size(427, 183)
+        MDLinksMagicItems.TabIndex = 55
         ' 
-        ' Label26
+        ' Label29
         ' 
-        Label26.AutoSize = True
-        Label26.BackColor = SystemColors.Window
-        Label26.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label26.Location = New Point(16, 400)
-        Label26.Name = "Label26"
-        Label26.Size = New Size(54, 21)
-        Label26.TabIndex = 53
-        Label26.Text = "Level:"
+        Label29.AutoSize = True
+        Label29.BackColor = SystemColors.Window
+        Label29.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
+        Label29.Location = New Point(1573, 936)
+        Label29.Name = "Label29"
+        Label29.Size = New Size(107, 21)
+        Label29.TabIndex = 56
+        Label29.Text = "Magic Items:"
+        ' 
+        ' MDLinksMonsters
+        ' 
+        MDLinksMonsters.AutoScroll = True
+        MDLinksMonsters.BackColor = Color.FloralWhite
+        MDLinksMonsters.BorderStyle = BorderStyle.Fixed3D
+        MDLinksMonsters.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        MDLinksMonsters.Location = New Point(1573, 701)
+        MDLinksMonsters.Name = "MDLinksMonsters"
+        MDLinksMonsters.Size = New Size(427, 231)
+        MDLinksMonsters.TabIndex = 54
+        ' 
+        ' Label28
+        ' 
+        Label28.AutoSize = True
+        Label28.BackColor = SystemColors.Window
+        Label28.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
+        Label28.Location = New Point(1573, 677)
+        Label28.Name = "Label28"
+        Label28.Size = New Size(84, 21)
+        Label28.TabIndex = 55
+        Label28.Text = "Monsters:"
+        ' 
+        ' MDLinksPSpells
+        ' 
+        MDLinksPSpells.AutoScroll = True
+        MDLinksPSpells.BackColor = Color.FloralWhite
+        MDLinksPSpells.BorderStyle = BorderStyle.Fixed3D
+        MDLinksPSpells.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        MDLinksPSpells.Location = New Point(1573, 402)
+        MDLinksPSpells.Name = "MDLinksPSpells"
+        MDLinksPSpells.Size = New Size(427, 272)
+        MDLinksPSpells.TabIndex = 53
+        ' 
+        ' Label27
+        ' 
+        Label27.AutoSize = True
+        Label27.BackColor = SystemColors.Window
+        Label27.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
+        Label27.Location = New Point(1573, 378)
+        Label27.Name = "Label27"
+        Label27.Size = New Size(106, 21)
+        Label27.TabIndex = 54
+        Label27.Text = "Priest Spells:"
+        ' 
+        ' Label24
+        ' 
+        Label24.AutoSize = True
+        Label24.BackColor = SystemColors.Window
+        Label24.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
+        Label24.Location = New Point(1573, 13)
+        Label24.Name = "Label24"
+        Label24.Size = New Size(117, 21)
+        Label24.TabIndex = 53
+        Label24.Text = "Wizard Spells:"
+        ' 
+        ' MDLinksWSpells
+        ' 
+        MDLinksWSpells.AutoScroll = True
+        MDLinksWSpells.BackColor = Color.FloralWhite
+        MDLinksWSpells.BorderStyle = BorderStyle.Fixed3D
+        MDLinksWSpells.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        MDLinksWSpells.Location = New Point(1573, 37)
+        MDLinksWSpells.Name = "MDLinksWSpells"
+        MDLinksWSpells.Size = New Size(427, 338)
+        MDLinksWSpells.TabIndex = 52
         ' 
         ' Label20
         ' 
         Label20.AutoSize = True
         Label20.BackColor = SystemColors.Window
         Label20.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label20.Location = New Point(1115, 656)
+        Label20.Location = New Point(1131, 656)
         Label20.Name = "Label20"
         Label20.Size = New Size(96, 21)
         Label20.TabIndex = 52
@@ -659,9 +742,9 @@ Partial Class Form1
         PanelMDLInks.BackColor = Color.FloralWhite
         PanelMDLInks.BorderStyle = BorderStyle.Fixed3D
         PanelMDLInks.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
-        PanelMDLInks.Location = New Point(1115, 680)
+        PanelMDLInks.Location = New Point(1131, 680)
         PanelMDLInks.Name = "PanelMDLInks"
-        PanelMDLInks.Size = New Size(477, 463)
+        PanelMDLInks.Size = New Size(431, 463)
         PanelMDLInks.TabIndex = 51
         ' 
         ' Label19
@@ -684,6 +767,27 @@ Partial Class Form1
         Panel3.Size = New Size(629, 463)
         Panel3.TabIndex = 49
         ' 
+        ' TextBoxCharLvl
+        ' 
+        TextBoxCharLvl.BackColor = SystemColors.Window
+        TextBoxCharLvl.BorderStyle = BorderStyle.None
+        TextBoxCharLvl.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point)
+        TextBoxCharLvl.Location = New Point(117, 400)
+        TextBoxCharLvl.Name = "TextBoxCharLvl"
+        TextBoxCharLvl.Size = New Size(315, 22)
+        TextBoxCharLvl.TabIndex = 48
+        ' 
+        ' Label26
+        ' 
+        Label26.AutoSize = True
+        Label26.BackColor = SystemColors.Window
+        Label26.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
+        Label26.Location = New Point(16, 400)
+        Label26.Name = "Label26"
+        Label26.Size = New Size(54, 21)
+        Label26.TabIndex = 53
+        Label26.Text = "Level:"
+        ' 
         ' Panel4
         ' 
         Panel4.BackColor = SystemColors.Window
@@ -696,16 +800,18 @@ Partial Class Form1
         Panel4.Controls.Add(Label11)
         Panel4.Controls.Add(Label12)
         Panel4.Controls.Add(Label13)
-        Panel4.Location = New Point(2156, 69)
+        Panel4.Controls.Add(ListBoxBooksToSource)
+        Panel4.Controls.Add(ListBoxBooksOnOrder)
+        Panel4.Location = New Point(2544, 69)
         Panel4.Name = "Panel4"
-        Panel4.Size = New Size(430, 1155)
+        Panel4.Size = New Size(769, 697)
         Panel4.TabIndex = 47
         ' 
         ' BookCountListBox
         ' 
         BookCountListBox.FormattingEnabled = True
         BookCountListBox.ItemHeight = 15
-        BookCountListBox.Location = New Point(13, 1064)
+        BookCountListBox.Location = New Point(357, 440)
         BookCountListBox.Name = "BookCountListBox"
         BookCountListBox.Size = New Size(400, 79)
         BookCountListBox.TabIndex = 50
@@ -714,7 +820,7 @@ Partial Class Form1
         ' 
         Label21.AutoSize = True
         Label21.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point)
-        Label21.Location = New Point(13, 1040)
+        Label21.Location = New Point(357, 416)
         Label21.Name = "Label21"
         Label21.Size = New Size(103, 21)
         Label21.TabIndex = 33
@@ -821,8 +927,6 @@ Partial Class Form1
         Controls.Add(TextBoxObjectCount)
         Controls.Add(ButtonRunEditor)
         Controls.Add(btnGenerateMD)
-        Controls.Add(ListBoxBooksOnOrder)
-        Controls.Add(ListBoxBooksToSource)
         Controls.Add(DataGridViewBookDetails)
         Controls.Add(TreeView1)
         Controls.Add(Button1)
@@ -910,4 +1014,12 @@ Partial Class Form1
     Friend WithEvents btnCopyToWiki As Button
     Friend WithEvents TextBoxWikiPageTitle As TextBox
     Friend WithEvents btnOpenWikiPage As Button
+    Friend WithEvents Label24 As Label
+    Friend WithEvents MDLinksWSpells As Panel
+    Friend WithEvents Label27 As Label
+    Friend WithEvents MDLinksMagicItems As Panel
+    Friend WithEvents Label29 As Label
+    Friend WithEvents MDLinksMonsters As Panel
+    Friend WithEvents Label28 As Label
+    Friend WithEvents MDLinksPSpells As Panel
 End Class

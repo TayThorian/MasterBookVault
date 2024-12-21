@@ -1057,5 +1057,43 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Chains of Asmodeus",
+  "BookShortName": "Chains of Asmodeus",
+  "BookPublisher": "DM's Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5th Edition - Compatible",
+  "BookPhysical": "",
+  "BookOwnedPDF": "",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "DM's Guild",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\5E - Compatible\\DMs Guild\\Chains of Asmodeus.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
