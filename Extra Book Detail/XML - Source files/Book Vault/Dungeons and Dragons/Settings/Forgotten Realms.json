@@ -3571,13 +3571,25 @@
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - Cormanthor.pdf",
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - Explorers Manual.pdf",
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - The Cormyrean Marshes.pdf",
-      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - The Great Gray Land o fThar.pdf",
+      "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - The Great Gray Land of Thar.pdf",
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - The Settled Lands.pdf",
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - The Stone lands and the Goblin.pdf",
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1111 - Elminster's Ecologies - The Thunder Peaks and the Storm Horns.pdf"
     ],
     "BookMD": [
-      "D:\\OneDrive\\Master Vault\\Extra Book Data\\AD&D 2E - Spells\\TSR1111 - Elminster's Ecologies - Spells.lnk"
+        ""
+    ],
+    "BookMDWSpells": [
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\1st Level\\Troll Repellent.md"
+    ],
+    "BookMDPSpells": [
+        ""
+    ],
+    "BookMDMonsters": [
+        ""
+    ],
+    "BookMDMagicItems": [
+        ""
     ],
     "BookDescription": [
       "The world is vast and varied, comprising towering mountains, dense jungles, and sprawling seas. There are regions so cold that their snow never melts, others so hot that their rain turns to steam as it touches the ground.",
@@ -3736,23 +3748,20 @@
     "BookShortName": "Four From Cormyr",
     "BookPublisher": "TSR",
     "BookCode": "TSR9531",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "0-7869-0646-4",
+    "BookAuthor": "John Terra",
+    "BookPublished": "1997",
     "BookCover": "",
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
-    "VaultSML": "Forgotten Realms",
     "BookSetting": "Forgotten Realms",
     "BookType": "Adventure",
     "BookFormat": "Softback",
     "BookSeries": "Other Adventures",
-    "BookCharacterLevel": "",
+    "BookCharacterLevel": "Levels 9 - 12",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR9531 - Four From Cormyr.pdf"
     ],
@@ -4772,6 +4781,21 @@
     "BookCharacterLevel": "Levels 18 - 20",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR9341 - FA2 - Nightmare Keep.pdf"
+    ],
+    "BookMD": [
+        ""
+    ],
+    "BookMDWSpells": [
+        ""
+    ],
+    "BookMDPSpells": [
+        ""
+    ],
+    "BookMDMonsters": [
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\L\\Lichling.md"
+    ],
+    "BookMDMagicItems": [
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Rods\\Rod of Immobile Insects.md"
     ],
     "BookDescription": [
       "What your players say a the start of Nightmare Keep: \"Oh, look, an underground labyrinth filled with treasure. No one who's gone in ever came out alive. Gosh, we've never seen that before, oh no.\" (Stifled yawn.)",

@@ -638,16 +638,13 @@
   "BookPhysical": "On Order",
   "BookOwnedPDF": "On Order",
   "BookLibrary": "Yes",
-  "BookWiki": "Yes",
-  "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Coriolis_-_The_Great_Dark",
-  "VaultSML": "The Great Dark",
   "BookSetting": "The Great Dark",
   "BookType": "Rulebook",
   "BookFormat": "Hardback",
   "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\"
+    "D:\\OneDrive\\Master Vault\\Coriolis\\Coriolis - The Great Dark.pdf"
   ],
   "BookDescription": [
     "No description available."

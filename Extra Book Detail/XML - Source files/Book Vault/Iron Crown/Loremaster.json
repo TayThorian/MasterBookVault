@@ -1,0 +1,116 @@
+[
+  {
+    "BookName": "ICE5000 - The Cloudlords of Tanara",
+    "BookShortName": "The Cloudlords of Tanara",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE5000",
+    "BookISBN": "0-915795-17-5",
+    "BookAuthor": "",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Loremaster",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Loremaster",
+    "BookType": "Campaign Setting",
+    "BookFormat": "",
+    "BookSeries": "Campaign Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Loremaster\\ICE5000 - Cloudlords of Tanara.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "ICE5010 - The Shade of the Sinking Plain",
+  "BookShortName": "The Shade of the Sinking Plain",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "ICE5010",
+  "BookISBN": "0-915795-19-1",
+  "BookAuthor": "",
+  "BookPublished": "1984",
+  "BookCover": "",
+  "BookRules": "Loremaster",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Loremaster",
+  "BookType": "Campaign Setting",
+  "BookFormat": "",
+  "BookSeries": "Campaign Settings",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Loremaster\\ICE5010 - The Shade of the Sinking Plain.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "ICE5020 - The Iron Wind",
+  "BookShortName": "The Iron Wind",
+  "BookPublisher": "Iron Crown Enterprises",
+  "BookCode": "ICE5020",
+  "BookISBN": "9-915795-23-X",
+  "BookAuthor": "",
+  "BookPublished": "1984",
+  "BookCover": "",
+  "BookRules": "Loremaster",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Loremaster",
+  "BookType": "Campaign Setting",
+  "BookFormat": "",
+  "BookSeries": "Campaign Settings",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Loremaster\\ICE5020 - The Iron Wind.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

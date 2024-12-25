@@ -1069,8 +1069,8 @@
   "BookCover": "",
   "BookRules": "Dungeons and Dragons",
   "BookEdition": "5th Edition - Compatible",
-  "BookPhysical": "",
-  "BookOwnedPDF": "",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "",
   "BookType": "",
@@ -1079,6 +1079,44 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\5E - Compatible\\DMs Guild\\Chains of Asmodeus.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "World of Greyhawk Gazetteer Revised",
+  "BookShortName": "World of Greyhawk Gazetteer Revised",
+  "BookPublisher": "DM's Guild",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5th Edition - Greyhawk",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Greyhawk",
+  "BookType": "Gazetteer",
+  "BookFormat": "",
+  "BookSeries": "DM's Guild",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\5E - Compatible\\DMs Guild\\World of Greyhawk Gazetteer Revised.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

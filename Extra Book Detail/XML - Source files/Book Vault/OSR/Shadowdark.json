@@ -4,22 +4,18 @@
     "BookShortName": "Shadowdark",
     "BookPublisher": "The Arcane Library",
     "BookCode": "",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "979-8-98-545640-0",
+    "BookAuthor": "Kelsey Dionne",
+    "BookPublished": "2023",
     "BookCover": "",
     "BookRules": "Shadowdark",
     "BookEdition": "1st Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
-    "VaultSML": "Shadowdark",
-    "UseTOC": "No",
     "BookSetting": "Shadowdark",
     "BookType": "Rulebook",
-    "BookFormat": "",
+    "BookFormat": "Hardback",
     "BookSeries": "Rulebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
@@ -29,11 +25,16 @@
       "D:\\Master Vault\\Extra Book Data\\"
     ],
     "BookDescription": [
-      "No description available."
+      "In Shadowdark RPG, you and your group of crawlers use magic, steel, and wits to delve into mysterious ruins, lost cities, and monster-infested depths.",
+      "Wondrous treasures and long-forgotten secrets await you! But don't let your last torch burn out, or you could be swallowed by the Shadowdark...",
+      "5E players will find what they've been waiting for: an intuitive and complete TTRPG that serves as a seamless bridge into the heart of the Old School Renaissance.  ",
+      "Old-school gamers will find a system that is familiar and nostalgic, but with major quality-of-life upgrades that modernize the old-school experience. ",
+      "Your legend awaits, crawler. ",
+      "Lift your blade, light your torch, and plunge into the unknown depths of the Shadowdark!"
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "Shadowdark",
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
