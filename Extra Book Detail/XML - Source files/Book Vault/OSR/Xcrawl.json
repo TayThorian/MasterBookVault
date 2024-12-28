@@ -1,25 +1,25 @@
 [
   {
-  "BookName": "",
-  "BookShortName": "",
-  "BookPublisher": "",
-  "BookCode": "",
+  "BookName": "GMGXCC1 - Xcrawl Classics Roleplaying Game",
+  "BookShortName": "Xcrawl Classics Roleplaying Game",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMGXCC1",
   "BookISBN": "",
-  "BookAuthor": "",
+  "BookAuthor": "Brendan J. LaSalle",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "",
-  "BookEdition": "",
-  "BookPhysical": "",
-  "BookOwnedPDF": "",
+  "BookRules": "Xcrawl",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookSetting": "",
-  "BookType": "",
+  "BookSetting": "Xcrawl",
+  "BookType": "Rulebook",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\Master Vault\\"
+    "D:\\OneDrive\\Master Vault\\OSR\\Xcrawl\\GMGXCC1 - Xcrawl Classics Roleplaying Game.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

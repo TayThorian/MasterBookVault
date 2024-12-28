@@ -4,19 +4,19 @@
     "BookShortName": "Five Parsecs From Home - Solo Adventure Wargaming",
     "BookPublisher": "Modiphius",
     "BookCode": "MUH052042",
-    "BookISBN": "",
-    "BookAuthor": "",
+    "BookISBN": "978-1-912743-55-1",
+    "BookAuthor": "Ivan Sorensen",
     "BookPublished": "",
     "BookCover": "",
     "BookRules": "",
-    "BookEdition": "",
+    "BookEdition": "1st Edition",
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Five Parsecs From Home",
-    "BookType": "",
+    "BookType": "Rulebook",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Rulebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH052042 - Five Parsecs From Home - Solo Adventure Wargaming.pdf"
@@ -35,26 +35,26 @@
 ]
 },
 {
-  "BookName": "MUH052421 - Five Parsecs From Home - Expansion 1 - Trailblazers Toolkit",
-  "BookShortName": "Five Parsecs From Home - Expansion 1 - Trailblazers Toolkit",
+  "BookName": "MUH052421 - Expansion 1 - Trailblazers Toolkit",
+  "BookShortName": "Expansion 1 - Trailblazers Toolkit",
   "BookPublisher": "Modiphius",
   "BookCode": "MUH052421",
-  "BookISBN": "",
+  "BookISBN": "Ivan Sorensen",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "Five Parsecs From Home",
-  "BookType": "",
+  "BookType": "Expansion",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Expansions",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH052421 - Five Parsecs From Home - Expansion 1 - Trailblazers Toolkit.pdf"
+    "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH052421 - Expansion 1 - Trailblazers Toolkit.pdf"
   ],
   "BookDescription": [
     "No description available."
@@ -70,26 +70,26 @@
 ]
 },
 {
-  "BookName": "MUH084V012 - Five Parsecs From Home - Expansion 2 - The Freelancers Handbook",
-  "BookShortName": "Five Parsecs From Home - Expansion 2 - The Freelancers Handbook",
+  "BookName": "MUH084V012 - Expansion 2 - The Freelancers Handbook",
+  "BookShortName": "Expansion 2 - The Freelancers Handbook",
   "BookPublisher": "Modiphius",
   "BookCode": "MUH084V012",
   "BookISBN": "",
-  "BookAuthor": "",
+  "BookAuthor": "Ivan Sorensen",
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "Five Parsecs From Home",
-  "BookType": "",
+  "BookType": "Expansion",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Expansions",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH084V012 - Five Parsecs From Home - Expansion 2 - The Freelancers Handbook.pdf"
+    "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH084V012 - Expansion 2 - The Freelancers Handbook.pdf"
   ],
   "BookDescription": [
     "No description available."

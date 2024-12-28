@@ -93,10 +93,6 @@
 - TSR9425 - HR5 - The Glory of Rome Campaign Sourcebook
 - TSR9408 - HR6 - Age of Heroes Campaign Sourcebook
 - TSR9469 - HR7 - The Crusades Campaign Sourcebook
-- TSR9104 - MV1 - Midnight on Dagger Alley
-- TSR9045 - L1 - The Secret of Bone Hill
-- TSR9057 - L2 - The Assassin's Knot
-- TSR9844 - L3 - Deep Dwarven Delve
 - TSR9558 - The Fall of Myth Drannor
 - TSR8908 - LC1 - Gateway to Raven's Bluff
 - TSR9316 - LC3 - Night Watch in the Living City
@@ -106,12 +102,11 @@
 - TSR9488 - The Return of Randal Morn
 - TSR9239 - FRC2 - Curse of the Azure Bonds
 - TSR1055 - The Horde
-- TSR9552 - Villains' Lorebook
-- TSR9519 - Undermountain The Lost Level
 - TSR9528 - Undermountain Maddgoth's Castle
 - TSR2106 - Forgotten Realms Adventures
 - TSR9465 - Book of Lairs
 - TSR9474 - The Moonsea
+- TSR1032 - Kara-Tur The Eastern Realms
 - TSR9509 - FOR10 - Warriors and Priests of the Realms
 - TSR1083 - Menzoberranzan
 - TSR1109 - City of Splendors

@@ -2422,11 +2422,8 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
-    "VaultSML": "Forgotten Realms",
     "BookSetting": "Forgotten Realms",
     "BookType": "Accessory",
     "BookFormat": "Paperback",
@@ -4114,7 +4111,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "To Source",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookWiki": "",
     "WikiPage": "",
@@ -4198,10 +4195,6 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/FRE1_-_Shadowdale_(TSR9247)",
-    "VaultSML": "Forgotten Realms",
-    "UseTOC": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Adventure",
     "BookFormat": "Softback",
@@ -4209,6 +4202,24 @@
     "BookCharacterLevel": "Levels 5 - 8",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR9247 - FRE1 - Shadowdale.pdf"
+    ],
+    "BookMD": [
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\10 - NPC's\\Forgotten Realms\\Adon.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\10 - NPC's\\Forgotten Realms\\Cyric.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\10 - NPC's\\Forgotten Realms\\Kelemvor Lyonsbane.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\10 - NPC's\\Forgotten Realms\\Midnight Ariel Manx.md"
+    ],
+    "BookMDWSpells": [
+        ""
+    ],
+    "BookMDPSpells": [
+        ""
+    ],
+    "BookMDMonsters": [
+        ""
+    ],
+    "BookMDMagicItems": [
+        ""
     ],
     "BookDescription": [
       "The Gods walk the Realms.",
@@ -4218,7 +4229,7 @@
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "FRE1 - Shadowdale",
     "chapters": [
       {"page": 2, "title": "Prologue"},
       {"page": 4, "title": "Chapter 1 - The Coming of the Gods"},
@@ -4249,10 +4260,6 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/FRE2_-_Tantras_(TSR9248)",
-    "VaultSML": "Forgotten Realms",
-    "UseTOC": "Yes",
     "BookSetting": "Forgotten Realms",
     "BookType": "Adventure",
     "BookFormat": "Softback",
@@ -4563,7 +4570,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "1st Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
     "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/TSR1032_-_Kara-Tur_The_Eastern_Realms",
@@ -4693,9 +4700,6 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/TSR9301_-_FA1_-_Halls_of_the_High_King",
-    "VaultSML": "Forgotten Realms",
     "BookSetting": "Forgotten Realms",
     "BookType": "Adventure",
     "BookFormat": "Softback",

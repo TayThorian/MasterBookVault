@@ -1,0 +1,121 @@
+[
+  {
+    "BookName": "Cursed Scroll 1 - Diablerie",
+    "BookShortName": "Cursed Scroll 1 - Diablerie",
+    "BookPublisher": "The Arcane Library",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Shadowdark",
+    "BookEdition": "Cursed Scroll",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Zine",
+    "BookFormat": "",
+    "BookSeries": "Issue 001 - Issue 010",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 1 - Diablerie.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 1 - Extras\\Ruins of Bittermold Keep (68 wide x 44 high).png",
+      "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 1 - Extras\\The Gloaming Hex Map.jpg"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Cursed Scroll 2 - Red Sands",
+  "BookShortName": "Cursed Scroll 2 - Red Sands",
+  "BookPublisher": "The Arcane Library",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowdark",
+  "BookEdition": "Cursed Scroll",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Zine",
+  "BookFormat": "",
+  "BookSeries": "Issue 001 - Issue 010",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 2 - Red Sands.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 2 - Extras\\The Djurum Hex Map.jpg",
+    "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 2 - Extras\\The Iron Fortress (45 wide x 35 high).png",
+    "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 2 - Extras\\The Mines (45 wide x 34 high).png"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Cursed Scroll 3 - Midnight Sun",
+  "BookShortName": "Cursed Scroll 3 - Midnight Sun",
+  "BookPublisher": "The Arcane Library",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowdark",
+  "BookEdition": "Cursed Scroll",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Zine",
+  "BookFormat": "",
+  "BookSeries": "Issue 001 - Issue 010",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 3 - Midnight Sun.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 3 - Extras\\Isles of Andrik Hex Map.jpg",
+    "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 3 - Extras\\Sea Caves and Tombs (68 wide x 44 high).png",
+    "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 3 - Extras\\Wortwick Monastery 28 high x 28 wide.jpg"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

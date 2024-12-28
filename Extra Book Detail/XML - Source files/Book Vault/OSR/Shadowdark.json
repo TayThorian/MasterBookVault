@@ -125,5 +125,43 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Formoria - The Dark Age",
+  "BookShortName": "Formoria - The Dark Age",
+  "BookPublisher": "Rune and Relic Press",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Bryan C. O’Doherty",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Shadowdark",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Formoria",
+  "BookType": "Setting",
+  "BookFormat": "",
+  "BookSeries": "Settings",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Shadowdark\\Formoria - The Dark Age.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

@@ -1,5 +1,43 @@
 [
   {
+    "BookName": "",
+    "BookShortName": "",
+    "BookPublisher": "",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "",
+    "BookEdition": "",
+    "BookPhysical": "",
+    "BookOwnedPDF": "",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "",
+    "BookFormat": "",
+    "BookSeries": "",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
   "BookName": "",
   "BookShortName": "",
   "BookPublisher": "",
@@ -33,8 +71,8 @@
   "chapters": [
     {"page": 1, "title": "TOC TO BE DONE"},
     {"page": 2, "title": ""}
-      ]    
-  }
+    ]    
+}
 ]
 },
 {
@@ -60,7 +98,19 @@
     "D:\\Master Vault\\"
   ],
   "BookMD": [
-    "D:\\Master Vault\\Extra Book Data\\"
+      ""
+  ],
+  "BookMDWSpells": [
+      ""
+  ],
+  "BookMDPSpells": [
+      ""
+  ],
+  "BookMDMonsters": [
+      ""
+  ],
+  "BookMDMagicItems": [
+      ""
   ],
   "BookDescription": [
     "No description available."

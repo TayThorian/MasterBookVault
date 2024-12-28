@@ -1,39 +1,39 @@
 [
-  {
-  "BookName": "",
-  "BookShortName": "",
+ {
+  "BookName": "DNGN Issue 01",
+  "BookShortName": "DNGN Issue 01",
   "BookPublisher": "",
   "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "",
-  "BookEdition": "",
-  "BookPhysical": "",
-  "BookOwnedPDF": "",
+  "BookRules": "OSE",
+  "BookEdition": "DNGN",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
   "BookSetting": "",
-  "BookType": "",
-  "BookFormat": "",
-  "BookSeries": "",
+  "BookType": "Zine",
+  "BookFormat": "Zine",
+  "BookSeries": "Issue 001 - Issue 010",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\Master Vault\\"
-  ],
+      "D:\\OneDrive\\Master Vault\\Magazines\\DNGN\\Issue 001 - Issue 010\\DNGN Issue 01.pdf"
+   ],
   "BookMD": [
-    "D:\\Master Vault\\Extra Book Data\\"
-  ],
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
   "BookDescription": [
-    "No description available."
-  ],
+      "No description available."
+    ],
   "TableOfContents": [
-    {
+      {
   "title": "Book",
-  "chapters": [
-    {"page": 1, "title": "TOC TO BE DONE"},
-    {"page": 2, "title": ""}
-      ]    
+   "chapters": [
+     {"page": 1, "title": "TOC TO BE DONE"},
+     {"page": 2, "title": ""}
+     ]    
   }
 ]
 },
