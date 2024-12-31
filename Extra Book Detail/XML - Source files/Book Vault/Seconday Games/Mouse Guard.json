@@ -1,0 +1,78 @@
+[
+  {
+  "BookName": "Mouse Guard Roleplaying Game 1E",
+  "BookShortName": "Mouse Guard Roleplaying Game 1E",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mouse Guard",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Mouse Guard",
+  "BookType": "Roleplaying Game",
+  "BookFormat": "",
+  "BookSeries": "Roleplaying Games",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Mouse Guard\\Mouse Guard 1E.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Mouse Guard Roleplaying Game 2E",
+  "BookShortName": "Mouse Guard Roleplaying Game 2E",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mouse Guard",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Mouse Guard",
+  "BookType": "Roleplaying Game",
+  "BookFormat": "",
+  "BookSeries": "Roleplaying Games",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Mouse Guard\\Mouse Guard 2E.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

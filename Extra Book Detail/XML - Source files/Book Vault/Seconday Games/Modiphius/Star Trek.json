@@ -298,7 +298,7 @@
   "BookShortName": "Star Trek Adventures - Second Edition - Core Rulebook",
   "BookPublisher": "Modiphius",
   "BookCode": "MUH0142401",
-  "BookISBN": "",
+  "BookISBN": "978-1-80281-223-7",
   "BookAuthor": "",
   "BookPublished": "2024",
   "BookCover": "",
@@ -307,25 +307,33 @@
   "BookPhysical": "Yes",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Star Trek Adventures",
-  "UseTOC": "No",
   "BookSetting": "Star Trek Adventures",
   "BookType": "Rule Book",
-  "BookFormat": "",
+  "BookFormat": "Hardback",
   "BookSeries": "Rule Books",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142401 - Star Trek Adventures - Second Edition - Core Rulebook.pdf"
   ],
   "BookMD": [
-    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\STA 2e Character sheets and forms - Shortcut.lnk",
-    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\STA 2e personal log sheet and form - Shortcut.lnk",
-    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\STA 2e Starship sheets and forms - Shortcut.lnk"
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\STA 2e Character sheets and forms.lnk",
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\STA 2e personal log sheet and form.lnk",
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\STA 2e Starship sheets and forms.lnk"
   ],
   "BookDescription": [
-    "No description available."
+    "The Star Trek Adventures roleplaying game takes you to the final frontier!",
+    "From the 21st through to the 32nd century, join Starfleet, the Klingon Empire, the Romulan Star Empire, and countless other civilizations, and journey across the Star Trek universe with your crew. Explore strange new worlds, encounter fantastical alien life-forms, and engage in dramatic adventures in a detailed and immersive Galaxy.",
+    "Tell your stories and unravel the mysteries of the unknown!",
+    "The 376-page, full-color, hardcover Star Trek Adventures Second Edition Core Rulebook contains:",
+    "A complete and updated version of the 2d20 System rules, designed for an authentic Star Trek experience.",
+    "An extensive primer on Star Trek, including details on a range of societies, worlds, species, and the scientific concepts that underpin this timeless universe.",
+    "14 player character species to choose from, including Andorian, Cardassian, Klingon, Orion, and Vulcan.",
+    "Guidelines for both novice and experienced gamemasters, offering advice on challenging your players with dramatic and thoughtful gameplay, unique to the Star Trek universe.",
+    "Game statistics and graphics for 15 playable starship classes, including Federation, Klingon, and Romulan vessels.",
+    "Dozens of non-player characters, starships, and creatures to populate your missions, including Federation, Klingon, Cardassian, and Dominion.",
+    "Historical excerpts, personal logs, and intercepted communications provide fresh perspectives and insights from across the Galaxy.",
+    "Created by an expert Star Trek development team, including a diverse mix of experienced and new artists, designers, editors, and writers.",
+    "These are the voyages of your ship, your crew. Live it together."
   ],
   "TableOfContents": [
     {

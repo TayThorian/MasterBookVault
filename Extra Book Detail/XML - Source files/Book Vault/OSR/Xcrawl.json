@@ -38,26 +38,292 @@
 ]
 },
 {
-  "BookName": "",
-  "BookShortName": "",
-  "BookPublisher": "",
-  "BookCode": "",
+  "BookName": "GMGXCC13S - XCC 1 - The Crawl Formerly Known As Terror on the Tundra",
+  "BookShortName": "XCC 1 - The Crawl Formerly Known As Terror on the Tundra",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMGXCC13S",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "",
-  "BookEdition": "",
-  "BookPhysical": "",
-  "BookOwnedPDF": "",
+  "BookRules": "Xcrawl",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookSetting": "",
-  "BookType": "",
+  "BookSetting": "Xcrawl",
+  "BookType": "Adventure",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Level 1",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Xcrawl\\GMGXCC13S - XCC 1 - The Crawl Formerly Known As Terror on the Tundra.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMGXCC14S - XCC 2 - Tropicrawl Cataclysm",
+  "BookShortName": "XCC 2 - Tropicrawl Cataclysm",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMGXCC14S",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Xcrawl",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Xcrawl",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Level 2",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Xcrawl\\GMGXCC14S - XCC 2 - Tropicrawl Cataclysm.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMGXCC15S - XCC 3 - Please Xcrawl Don't Hurt 'Em",
+  "BookShortName": "XCC 3 - Please Xcrawl Don't Hurt 'Em",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMGXCC15S",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Xcrawl",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Xcrawl",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Level 3",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Xcrawl\\GMGXCC15S - XCC 3 - Please Xcrawl Don't Hurt 'Em.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMGXCC16S - XCC 4 - Death in the Dungeons of Tomorrow",
+  "BookShortName": "XCC 4 - Death in the Dungeons of Tomorrow",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMGXCC16S",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Xcrawl",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Xcrawl",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Level 4",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Xcrawl\\GMGXCC16S - XCC 4 - Death in the Dungeons of Tomorrow.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMGXCC17S - XCC 5 - Bay City Firestorm",
+  "BookShortName": "XCC 5 - Bay City Firestorm",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMGXCC17S",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Xcrawl",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Xcrawl",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Level 5",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Xcrawl\\GMGXCC17S - XCC 5 - Bay City Firestorm.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMGXCC18S - XCC 6 - Dooms to Go",
+  "BookShortName": "XCC 6 - Dooms to Go",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMGXCC18S",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Xcrawl",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Xcrawl",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Level 6",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Xcrawl\\GMGXCC18S - XCC 6 - Dooms to Go.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMGXCC12S - XCC 0 - Murder Mountain Smackdown",
+  "BookShortName": "XCC 0 - Murder Mountain Smackdown",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMGXCC12S",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Xcrawl",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Xcrawl",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Level 0",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Xcrawl\\GMGXCC12S - XCC 0 - Murder Mountain Smackdown.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMGXCC21 - Xcrawl Xtras",
+  "BookShortName": "Xcrawl Xtras",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMGXCC21",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Xcrawl",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Xcrawl",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\Master Vault\\"
+    "D:\\OneDrive\\Master Vault\\OSR\\Xcrawl\\GMGXCC21 - Xcrawl Xtras.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

@@ -714,5 +714,233 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Hostile Situation Report 011 - Black Moon",
+  "BookShortName": "Hostile Situation Report 011 - Black Moon",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\aster Vault\\Cepheus\\Zozer\\Hostile Situation Report 011 - Black Moon.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Hostile Situation Report 012 - The Mine",
+  "BookShortName": "Hostile Situation Report 012 - The Mine",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 012 - The Mine.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Hostile Situation Report 013 - Dust Devil",
+  "BookShortName": "Hostile Situation Report 013 - Dust Devil",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 013 - Dust Devil.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Hostile Situation Report 014 - Underground",
+  "BookShortName": "Hostile Situation Report 014 - Underground",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 014 - Underground.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Hostile Situation Report 015 - Hallows Eve",
+  "BookShortName": "Hostile Situation Report 015 - Hallows Eve",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 015 - Hallows Eve.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Hostile Situation Report 016 - Gray Man",
+  "BookShortName": "Hostile Situation Report 016 - Gray Man",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Situation Report",
+  "BookFormat": "PDF",
+  "BookSeries": "Situation Reports",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cepheus\\Zozer\\Hostile Situation Report 016 - Gray Man.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

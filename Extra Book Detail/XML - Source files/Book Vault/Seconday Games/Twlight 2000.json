@@ -139,5 +139,43 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "FLFT2K009 - Hostile Waters",
+  "BookShortName": "Hostile Waters",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFT2K009",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Year Zero Engine",
+  "BookEdition": "4th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Twlight 2000",
+  "BookType": "Expansion",
+  "BookFormat": "",
+  "BookSeries": "Expansions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Twlight 2000\\4th Edition\\FLFT2K009 - Hostile Waters.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Twlight 2000\\4th Edition\\FLFT2K009 - Hostile Waters - Extras.lnk"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

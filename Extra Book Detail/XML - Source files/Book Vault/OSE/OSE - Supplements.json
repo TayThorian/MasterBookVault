@@ -241,5 +241,81 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "BX Advanced Bestiary Vol. 1",
+  "BookShortName": "BX Advanced Bestiary Vol. 1",
+  "BookPublisher": "Third Kingdom Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Todd Leback",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSE",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "OSE - Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSE\\OSE - Supplements\\BX Advanced Bestiary Vol. 1.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "BX Advanced Bestiary Vol. 2",
+  "BookShortName": "BX Advanced Bestiary Vol. 2",
+  "BookPublisher": "Third Kingdom Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Todd Leback",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSE",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "OSE - Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSE\\OSE - Supplements\\BX Advanced Bestiary Vol. 2.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

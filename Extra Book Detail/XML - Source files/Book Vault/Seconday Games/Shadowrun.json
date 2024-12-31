@@ -2327,5 +2327,157 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "CAT28M1003 - Mission 10.03 - When the Bough Breaks",
+  "BookShortName": "Mission 10.03 - When the Bough Breaks",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28M1003",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "Missions",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Missions",
+  "BookFormat": "",
+  "BookSeries": "Season 10",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\Missions\\Season 10\\CAT28M1003 - Mission 10.03 - When the Bough Breaks.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28M1004 - Mission 10.04 - Get Bento",
+  "BookShortName": "Mission 10.04 - Get Bento",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28M1004",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "Missions",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Missions",
+  "BookFormat": "",
+  "BookSeries": "Season 10",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\Missions\\Season 10\\CAT28M1004 - Mission 10.04 - Get Bento.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28M1005 - Mission 10.05 - The Out of Body Experience",
+  "BookShortName": "Mission 10.05 - The Out of Body Experience",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28M1005",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "Missions",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Missions",
+  "BookFormat": "",
+  "BookSeries": "Season 10",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\Missions\\Season 10\\CAT28M1005 - Mission 10.05 - The Out of Body Experience.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28M1006 - Mission 10.06 - The No Body Problem",
+  "BookShortName": "Mission 10.06 - The No Body Problem",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28M1006",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "Missions",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Missions",
+  "BookFormat": "",
+  "BookSeries": "Season 10",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\Missions\\Season 10\\CAT28M1006 - Mission 10.06 - The No Body Problem.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
