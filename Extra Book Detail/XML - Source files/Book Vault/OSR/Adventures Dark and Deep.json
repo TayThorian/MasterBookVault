@@ -461,13 +461,9 @@
     "BookCover": "",
     "BookRules": "OSR",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "On Order",
+    "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
-    "VaultSML": "Adventures Dark and Deep",
-    "UseTOC": "No",
     "BookSetting": "Adventures Dark and Deep",
     "BookType": "Bestiary",
     "BookFormat": "Hardback",
@@ -480,7 +476,13 @@
       "D:\\Master Vault\\Extra Book Data\\"
     ],
     "BookDescription": [
-      "No description available."
+      "\"What if the creator of the first advanced version of the world's most popular RPG had the chance to expand his game?\" That's the question that Adventures Dark and Deep™ attempts to answer. Starting with the 1st Edition as a foundation, it consolidates and streamlines rules, and adds new material, including around 1,000 monsters, including many new ones.",
+      "New races (centaurs, half-drow)",
+      "New Classes (bard, jester, skald, blackguard, mystic, savant, mountebank)",
+      "A skill system",
+      "New spells and magic items",
+      "Adventures Dark and Deep™ is the ultimate game for enthusiasts of the 1st Edition. This book includes everything needed to play except the monsters (which are found in the accompanying Core Bestiary), dice, and imagination.",
+      "Take your game to the next level with Adventures Dark and Deep™."
     ],
     "TableOfContents": [
       {
@@ -503,13 +505,9 @@
     "BookCover": "",
     "BookRules": "OSR",
     "BookEdition": "2nd Edition",
-    "BookPhysical": "On Order",
+    "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
-    "VaultSML": "Adventures Dark and Deep",
-    "UseTOC": "No",
     "BookSetting": "Adventures Dark and Deep",
     "BookType": "Bestiary",
     "BookFormat": "Hardback",
@@ -522,7 +520,10 @@
       "D:\\Master Vault\\Extra Book Data\\"
     ],
     "BookDescription": [
-      "No description available."
+      "\"What if the creator of the first advanced version of the world's most popular RPG had the chance to expand his game?\" That's the question that Adventures Dark and Deep™ attempts to answer. Starting with the 1st Edition as a foundation, it consolidates and streamlines rules, and adds new material, including around 1,000 monsters, including many new ones.",
+      "Adventures Dark and Deep™ is the ultimate game for enthusiasts of the 1st Edition.",
+      "This book contains nearly a thousand monsters and other creatures to bedevil your players. It is intended for use with the Adventures Dark and Deep™ Core Rulebook, but can be used with most OSR games with little or no modification needed.",
+      "Take your game to the next level with Adventures Dark and Deep™."
     ],
     "TableOfContents": [
       {

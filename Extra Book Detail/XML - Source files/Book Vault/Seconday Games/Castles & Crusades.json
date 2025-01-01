@@ -16,7 +16,7 @@
   "BookSetting": "Castles & Crusades",
   "BookType": "Rulebook",
   "BookFormat": "Hardback",
-  "BookSeries": "Rulebook",
+  "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80110 - Players Handbook.pdf"
@@ -52,7 +52,7 @@
   "BookSetting": "Castles & Crusades",
   "BookType": "Rulebook",
   "BookFormat": "Hardback",
-  "BookSeries": "Rulebook",
+  "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80115 - Monsters & Treasure.pdf"
@@ -91,7 +91,7 @@
   "BookSetting": "Castles & Crusades",
   "BookType": "Rulebook",
   "BookFormat": "Hardback",
-  "BookSeries": "Rulebook",
+  "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80154 - Castle Keepers Guide.pdf"
@@ -119,7 +119,7 @@
   "BookPublished": "2021",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -156,7 +156,7 @@
   "BookPublished": "2021",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -200,14 +200,14 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Castles & Crusades",
   "BookType": "Adventure",
   "BookFormat": "",
-  "BookSeries": "C Series",
+  "BookSeries": "Adventures - C Series",
   "BookCharacterLevel": "Levels 3 - 5",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8075 - Mortality of Green.pdf"
@@ -237,14 +237,14 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Castles & Crusades",
-  "BookType": "",
+  "BookType": "Supplement",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Supplements",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8504 - Engineering Castles.pdf"
@@ -272,7 +272,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
@@ -307,7 +307,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -342,7 +342,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
@@ -377,7 +377,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
@@ -412,7 +412,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -447,7 +447,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -482,7 +482,7 @@
   "BookPublished": "2021",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -509,6 +509,1876 @@
     "Dwarf, Elf, Halfling, Gnome, Bugbear, Gnoll, Goblin, Orc, Hobgoblin, Lizardman, Kobold, Giant, Ogre, Troll, Dragon, Fey, Centaur, Mermen and Sahugin.",    
     "Real World Mythologies",    
     "Here we step lightly into the real world and plug in the stat blocks for Celtic, Egyptian, Germanic, Norse, and Slavic deities. Each entry exists as a stat block of the necessary information, as these are covered in far greater detail in the Mythos books (see related products below)."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8050 - Castle Zagyg - Yggsburgh Campaign Setting",
+  "BookShortName": "Castle Zagyg - Yggsburgh Campaign Setting",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8050",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Yggsburgh Campaign Setting",
+  "BookType": "Campaign",
+  "BookFormat": "",
+  "BookSeries": "Campaigns",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8050 - Castle Zagyg - Yggsburgh Campaign Setting.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8017 - Of Gods & Monsters",
+  "BookShortName": "Of Gods & Monsters",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8017",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8017 - Of Gods & Monsters.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8348 - The Hallowed Oracle",
+  "BookShortName": "The Hallowed Oracle",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8348",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8348 - The Hallowed Oracle.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8348 - The Hallowed Oracle Map.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8329 - A Druids Lament",
+  "BookShortName": "A Druids Lament",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8329",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8329 - A Druids Lament.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8329 - A Druids Lament Extras.lnk"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG85803 - Fortress of The Three",
+  "BookShortName": "Fortress of The Three",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG85803",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "Levels 7 - 9",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG85803 - Fortress of The Three.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG83132 - Towers of Adventure",
+  "BookShortName": "Towers of Adventure",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG83132",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG83132 - Towers of Adventure.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG83132 - Towers of Adventure - The Cloud's Giant's Tower.pdf",
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG83132 - Towers of Adventure - The Wizard's Tower.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG82010 - Inzae",
+  "BookShortName": "Inzae",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG82010",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG82010 - Inzae.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG81271 - Rune Lore",
+  "BookShortName": "Rune Lore",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG81271",
+  "BookISBN": "978-1-936822-30-0",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG81271 - Rune Lore.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8521 - Character Classes",
+  "BookShortName": "Character Classes",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8521",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8521 - Character Classes.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8520 - Encounter Tables & Monster Index",
+  "BookShortName": "Encounter Tables & Monster Index",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8520",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8520 - Encounter Tables & Monster Index.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8125 - Classic Monsters",
+  "BookShortName": "Classic Monsters",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8125",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8125 - Classic Monsters.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8336 - The Lost City of Gaxmoor",
+  "BookShortName": "The Lost City of Gaxmoor",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8336",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8336 - The Lost City of Gaxmoor.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8336 - The Lost City of Gaxmoor Sewer Map.pdf",
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8336 - The Lost City of Gaxmoor City Map.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8343 - Undercaverns of Gaxmoor",
+  "BookShortName": "Undercaverns of Gaxmoor",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8343",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8343 - Undercaverns of Gaxmoor.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8345 - Brindisium Adventures",
+  "BookShortName": "Brindisium Adventures",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8345",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8345 - Brindisium Adventures.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80200 - A0 - Rising Knight",
+  "BookShortName": "A0 - Rising Knight",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80200",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80200 - A0 - Rising Knight.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80201 - A1 - Assault on Blacktooth Ridge",
+  "BookShortName": "A1 - Assault on Blacktooth Ridge",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80201",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80201 - A1 - Assault on Blacktooth Ridge.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80202 - A2 - The Slag Heap",
+  "BookShortName": "A2 - The Slag Heap",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80202",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80202 - A2 - The Slag Heap.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80203 - A3 - Wicked Cauldron",
+  "BookShortName": "A3 - Wicked Cauldron",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80203",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80203 - A3 - Wicked Cauldron.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80203 - A4 - Usurpers of the Fell Axe",
+  "BookShortName": "A4 - Usurpers of the Fell Axe",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80203",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80203 - A4 - Usurpers of the Fell Axe.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80205 - A5 - Shattered Horn",
+  "BookShortName": "A5 - Shattered Horn",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80205",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80205 - A5 - Shattered Horn.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80206 - A6 - Of Banishment & Blight",
+  "BookShortName": "A6 - Of Banishment & Blight",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80206",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80206 - A6 - Of Banishment & Blight.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8026 - A7 - Beneath the Despairing Stone",
+  "BookShortName": "A7 - Beneath the Despairing Stone",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8026",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8026 - A7 - Beneath the Despairing Stone.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80208 - A8 - Forsaken Mountain",
+  "BookShortName": "A8 - Forsaken Mountain",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80208",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80208 - A8 - Forsaken Mountain.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80209 - A9 - Helm of Night",
+  "BookShortName": "A9 - Helm of Night",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80209",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80209 - A9 - Helm of Night.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80210 - A10 - Last Respite",
+  "BookShortName": "A10 - Last Respite",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80210",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80210 - A10 - Last Respite.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80211 - A11 - Wasting Way",
+  "BookShortName": "A11 - Wasting Way",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80211",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80211 - A11 - Wasting Way.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80212 - A12 - Paladin's Lament",
+  "BookShortName": "A12 - Paladin's Lament",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80212",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\astles & Crusades\\TLG80212 - A12 - Paladin's Lament.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80351 - A13-A17 - The Dungeons of Aufstrag",
+  "BookShortName": "A13-A17 - The Dungeons of Aufstrag",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80351",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - A Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80351 - A13-A17 - The Dungeons of Aufstrag.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8357 - M1 - A Stranger Among Us",
+  "BookShortName": "M1 - A Stranger Among Us",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8357",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - M Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8357 - M1 - A Stranger Among Us.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8358 - M2 - The Ebon Staff",
+  "BookShortName": "M2 - The Ebon Staff",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8358",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - M Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8358 - M2 - The Ebon Staff.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8359 - M3 - A Gathering Storm",
+  "BookShortName": "M3 - A Gathering Storm",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8359",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - M Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8359 - M3 - A Gathering Storm.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8360 - M4 - A Deadly Tide",
+  "BookShortName": "M4 - A Deadly Tide",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8360",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - M Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8360 - M4 - A Deadly Tide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8311 - D1 - Chimera's Roost",
+  "BookShortName": "D1 - Chimera's Roost",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8311",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - D Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8311 - D1 - Chimera's Roost.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG82021 - D2 - By Shadow of Night",
+  "BookShortName": "D2 - By Shadow of Night",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG82021",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - D Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG82021 - D2 - By Shadow of Night.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80921 - D3 - Beneath The Black Moon",
+  "BookShortName": "D3 - Beneath The Black Moon",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80921",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - D Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80921 - D3 - Beneath The Black Moon.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80991 - D7 - Den of Iniquity",
+  "BookShortName": "D7 - Den of Iniquity",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80991",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - D Series",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80991 - D7 - Den of Iniquity.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG81451 - Tome of the Unclean",
+  "BookShortName": "Tome of the Unclean",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG81451",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG81451 - Tome of the Unclean.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80193 - Monsters & Treasure of Aihrde",
+  "BookShortName": "Monsters & Treasure of Aihrde",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80193",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Aihrde",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80193 - Monsters & Treasure of Aihrde.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8349 - Hallowed Oracle Player's Guide",
+  "BookShortName": "Hallowed Oracle Player's Guide",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8349 - Hallowed Oracle Player's Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8353 - Quick Threats and Sidetreks",
+  "BookShortName": "Quick Threats and Sidetreks",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8353",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8353 - Quick Threats and Sidetreks.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8501 - Engineering Dungeons",
+  "BookShortName": "Engineering Dungeons",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8501",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8501 - Engineering Dungeons.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Beware the Yule Cat",
+  "BookShortName": "Beware the Yule Cat",
+  "BookPublisher": "Necromancy Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - Necromancy Games",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\Necromancy Games\\Beware the Yule Cat.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Raslam Asylum",
+  "BookShortName": "Raslam Asylum",
+  "BookPublisher": "Necromancy Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - Necromancy Games",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\Necromancy Games\\Raslam Asylum.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Fungus God from Outer Space",
+  "BookShortName": "Fungus God from Outer Space",
+  "BookPublisher": "Necromancy Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - Necromancy Games",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\Necromancy Games\\Fungus God from Outer Space.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Heresy of Rot",
+  "BookShortName": "Heresy of Rot",
+  "BookPublisher": "Necromancy Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures - Necromancy Games",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\Necromancy Games\\Heresy of Rot.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG3053 - The Marmoreal Tomb - The Underworld",
+  "BookShortName": "The Marmoreal Tomb - The Underworld",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG3053",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Marmoreal Tomb",
+  "BookType": "Campaign",
+  "BookFormat": "",
+  "BookSeries": "Campaigns - The Marmoreal Tomb",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG3053 - The Marmoreal Tomb - The Underworld.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG3053 - The Marmoreal Tomb - The Underworld - Maps.lnk"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG3054 - The Marmoreal Tomb - The Wilderness",
+  "BookShortName": "The Marmoreal Tomb - The Wilderness",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG3054",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Marmoreal Tomb",
+  "BookType": "Campaign",
+  "BookFormat": "",
+  "BookSeries": "Campaigns - The Marmoreal Tomb",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Mster Vault\\Castles & Crusades\\TLG3054 - The Marmoreal Tomb - The Wilderness.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG3054 - The Marmoreal Tomb - The Wilderness - Maps.lnk"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG3052 - The Marmoreal Tomb",
+  "BookShortName": "The Marmoreal Tomb",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG3052",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Marmoreal Tomb",
+  "BookType": "Campaign",
+  "BookFormat": "",
+  "BookSeries": "Campaigns - The Marmoreal Tomb",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG3052 - The Marmoreal Tomb.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG3052A The Marmoreal Tomb - Appendices.pdf",
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG3052 - The Marmoreal Tomb - Maps.lnk"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG80041 - Classic Box Set",
+  "BookShortName": "Classic Box Set",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG80041",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Boxed Set",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80041 - Classic Box Set\\TLG80041 - Castles & Crusades Classic Vol. 1 Men & Magic.pdf",
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80041 - Classic Box Set\\TLG80041 - Castles & Crusades Classic Vol. 2 Eldritch Enchantments.pdf",
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80041 - Classic Box Set\\TLG80041 - Castles & Crusades Classic Vol. 3 Adventures in Wild & Underworld.pdf",
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80041 - Classic Box Set\\TLG80041 - Castles & Crusades Classic Vol. 4 Monsters & Treasure.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80041 - Classic Box Set\\TLG80041 - Castles & Crusades Classic Character Reference Sheet.pdf",
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80041 - Classic Box Set\\TLG80041 - Castles & Crusades Classic Kane's Gauntlet.pdf",
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG80041 - Classic Box Set\\TLG80041 - Castles & Crusades Classic Reference Pages.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
   ],
   "TableOfContents": [
     {
