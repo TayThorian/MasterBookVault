@@ -1,11 +1,5 @@
 # Master Book Vault
 # Physical Books to Source
-## Monte Cook Games
-- MCG316 - Path of the Planebreaker
-- MCG329 - Planar Bestiary
-- MCG372 - Cypher System Bestiary
-## Free League Publishing
-- FLFTOR018 - Realms of the Three Rings
 ## Iron Crown Enterprises
 - ICE1510 - Elemental Companion
 - ICE1800 - Rolemaster Companion IV
@@ -16,6 +10,7 @@
 - ICE1430 - Creatures & Treasures III
 - ICE1530 - Alchemy Companion
 - ICE1520 - Spell User's Companion
+- ICE5522 - Spell Law
 - GCP-SMP-4500 - Space Master Privateers
 - GCP-SMP-4511 - Robotics Manual
 - GCP-SMP-4512 - Equipment Manual
@@ -23,6 +18,8 @@
 - GCP-SMP-4514 - Blaster Law
 - GCP-SMP-4515 - Future Law
 - GCP-SMP-4600 - Races & Cultures
+## Free League Publishing
+- FLFTOR018 - Realms of the Three Rings
 ## Mongoose Publishing
 - MGP40073 - The Third Imperium
 - MGP40112 - The Deep and the Dark
@@ -36,15 +33,15 @@
 - MGP40101 - Traveller Companion Update 2024
 - MGP40123 - Bounty Hunter
 - MGP40128 - Traders and Gunboats
+## Monte Cook Games
+- MCG316 - Path of the Planebreaker
+- MCG329 - Planar Bestiary
+- MCG372 - Cypher System Bestiary
 ## TSR
 - TSR2173 - Monstrous Compendium Annual - Volume Four
 ## Wizards of the Coast
 - WTCD37110000 - Monster Manual 2024
 # PDF's Books to Source
-## Monte Cook Games
-- MCG372 - Cypher System Bestiary
-## Free League Publishing
-- FLFTOR018 - Realms of the Three Rings
 ## Iron Crown Enterprises
 - ICE9300 - Imperial Crisis House Devon in Turmoil
 - ICE9600 - Beyond the Core
@@ -56,6 +53,8 @@
 - SMD6 - Spacemaster Datanet 06
 - SMD7 - Spacemaster Datanet 07
 - SMD8 - Spacemaster Datanet 08
+## Free League Publishing
+- FLFTOR018 - Realms of the Three Rings
 ## Digest Group Publications
 - - Manhunt
 ## Steve Jackson Games
@@ -83,6 +82,8 @@
 - MGP40102 - Rim Expeditions
 - MGP40123 - Bounty Hunter
 - MGP40128 - Traders and Gunboats
+## Monte Cook Games
+- MCG372 - Cypher System Bestiary
 ## TSR
 - TSR2158 - Monstrous Compendium Annual - Volume Two
 - TSR11383 - Campaign Option - Council of Wyrms
@@ -95,11 +96,8 @@
 - TSR9469 - HR7 - The Crusades Campaign Sourcebook
 - TSR9558 - The Fall of Myth Drannor
 - TSR8908 - LC1 - Gateway to Raven's Bluff
-- TSR9316 - LC3 - Night Watch in the Living City
 - TSR9315 - LC4 - Port of Raven's Bluff
 - TSR9575 - The City of Ravens Bluff
-- TSR9485 - The Secret of Spiderhaunt
-- TSR9488 - The Return of Randal Morn
 - TSR9239 - FRC2 - Curse of the Azure Bonds
 - TSR1055 - The Horde
 - TSR9528 - Undermountain Maddgoth's Castle
