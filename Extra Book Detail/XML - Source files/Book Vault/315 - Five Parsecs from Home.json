@@ -11,7 +11,7 @@
     "BookRules": "",
     "BookEdition": "1st Edition",
     "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Five Parsecs From Home",
     "BookType": "Rulebook",
@@ -22,7 +22,8 @@
       "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH052042 - Five Parsecs From Home - Solo Adventure Wargaming.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH052042 - Five Parsecs From Home - Solo Adventure Wargaming - Sheets BW.pdf",
+      "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH052042 - Five Parsecs From Home - Solo Adventure Wargaming - Sheets.pdf"
     ],
     "TableOfContents": [
       {

@@ -1405,5 +1405,43 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "CHA23104 - Tatters of the King",
+    "BookShortName": "Tatters of the King",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23104",
+    "BookISBN": "1-56882-184-0",
+    "BookAuthor": "Tim Wiseman",
+    "BookPublished": "2006",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "6th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Call of Cthulhu\\6th Edition\\CHA23104 - Tatters of the King.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "A Call of Cthulhu campaign taking its inspiration from The King in Yellow by Robert W. Chambers and related works. The campaign begins in London in 1928, where a strange taint hangs over the populace, particularly the weak and sensitive..."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

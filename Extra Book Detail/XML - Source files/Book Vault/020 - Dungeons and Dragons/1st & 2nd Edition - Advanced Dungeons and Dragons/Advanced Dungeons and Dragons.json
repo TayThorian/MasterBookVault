@@ -9374,5 +9374,105 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "TSR9508 - The Silver Key",
+    "BookShortName": "The Silver Key",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9508",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\Other\\TSR9508 - The Silver Key.pdf"
+    ],
+    "BookMD": [
+        ""
+    ],
+    "BookMDWSpells": [
+        ""
+    ],
+    "BookMDPSpells": [
+        ""
+    ],
+    "BookMDMonsters": [
+        ""
+    ],
+    "BookMDMagicItems": [
+        ""
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR11376 - Road to Danger",
+    "BookShortName": "Road to Danger",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR11376",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Advanced Dungeons and Dragons",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\ADnD\\Adventures\\Other\\TSR11376 - Road to Danger.pdf"
+    ],
+    "BookMD": [
+        ""
+    ],
+    "BookMDWSpells": [
+        ""
+    ],
+    "BookMDPSpells": [
+        ""
+    ],
+    "BookMDMonsters": [
+        ""
+    ],
+    "BookMDMagicItems": [
+        ""
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

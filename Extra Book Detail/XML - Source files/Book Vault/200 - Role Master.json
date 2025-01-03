@@ -2229,7 +2229,7 @@
     "BookSetting": "Rolemaster",
     "BookType": "Combat System",
     "BookFormat": "Softback & Hardback",
-    "BookSeries": "Combat Systems",
+    "BookSeries": "Rulebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Rolemaster\\Standard System\\ICE5520 - Arms Law.pdf"
@@ -2312,7 +2312,7 @@
       "A bestiary of epic proportions! Inside you will find hundreds of animals, monsters and races. Many are culled from myth, others are staples of fantasy fiction, and many more are completely original—unlike anything you have ever seen in a role playing game before! Creatures & Monsters includes monsters that fly, swim, and terrorize the land. You’ll also find many pages devoted to animals of all types, ranging from those that characters can protect and befriend to those that can threaten their very lives,",
       "Creatures and Monsters includes:",
       "* Over 300 pages of animals, monsters, and races with detailed information regarding appearance, lifestyle, combat statistics, and background.",
-      "* Dragons,-Fell Beasts, Elementals, Constructs, Other Planar Creatures, Undead, Shapechangers, Prehistoric Animals, Dangerous Plants, Giants, Tolls, the Fairy Folk, and more.",
+      "* Dragons,Fell Beasts, Elementals, Constructs, Other Planar Creatures, Undead, Shapechangers, Prehistoric Animals, Dangerous Plants, Giants, Tolls, the Fairy Folk, and more.",
       "* Extensive random encounter tables regarding Nvater`sources, terrain, vegetation, and special features.",
       "* Guidelines for how to create your own Rolemaster creatures.",
       "* A complete index."
@@ -2338,7 +2338,7 @@
     "BookCover": "",
     "BookRules": "Rolemaster Standard System",
     "BookEdition": "3 - RMSS",
-    "BookPhysical": "No",
+    "BookPhysical": "To Source",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "Rolemaster",

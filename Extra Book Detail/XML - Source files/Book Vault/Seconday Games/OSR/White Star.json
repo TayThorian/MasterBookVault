@@ -84,7 +84,7 @@
   "BookRules": "",
   "BookEdition": "Galaxy Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "White Star",
   "BookType": "Rulebook",

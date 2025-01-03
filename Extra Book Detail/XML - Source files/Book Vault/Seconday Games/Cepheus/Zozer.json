@@ -942,5 +942,134 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Far Horizon",
+  "BookShortName": "Far Horizon",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adevnture",
+  "BookFormat": "PDF",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cepheus\\Zozer\\Far Horizon.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Explorers",
+  "BookShortName": "Explorers",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Paul Elliott",
+  "BookPublished": "2021",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cepheus\\Zozer\\Explorers.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Explorers is a supplement for Cepheus Engine and for the gritty HOSTILE science fiction setting.",
+    "It provides all of the tools the explorer needs to tackle dangers and exotic encounters on remote worlds. Included within the book is a fully detailed survey ship, the USCS Castle Bravo; an in-depth look at both the Tharsis Armadillo All-Terrain Vehicle as well as the explorer’s habitat of choice: the Leyland-Okuda modular base series. The space suits of the HOSTILE universe are also featured, with a set of customisable options.",
+    "Finally, survey and exploration procedures are explained with advice and rules provided which will allow the referee to create a tense, unpredictable and (hopefully!) dangerous survey mission. These come with 36 uninhabited world descriptions for use in your game.",
+    "- Deckplan for the ATV",
+    "- Deckplan for 9 modular base variants",
+    "- Deckplan for the 300-ton survey ship, Castle Bravo",
+    "- The state of exploration today",
+    "- How to game a planetary expedition",
+    "- 36 world descriptions for exploration use",
+    "- Hex charts for your use",
+    "- Vacc suits in depth, with 4 full colour full page adverts"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 4, "title": "Introduction"},
+    {"page": 6, "title": "Upstream Magazine"},
+    {"page": 13, "title": "Armadillo ATV"},
+    {"page": 17, "title": "Modular Bases"},
+    {"page": 24, "title": "Space Suit Design"},
+    {"page": 34, "title": "How to Explore"},
+    {"page": 59, "title": "Survey Ship"}
+    ]    
+}
+]
+},
+{
+  "BookName": "Gunboats and Shuttles",
+  "BookShortName": "Gunboats and Shuttles",
+  "BookPublisher": "Zozer Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cepheus",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Hostile",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cepheus\\Zozer\\Gunboats and Shuttles.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

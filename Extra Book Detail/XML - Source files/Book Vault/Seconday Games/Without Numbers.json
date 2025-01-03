@@ -109,8 +109,8 @@
 ]
   } ,
   {
-    "BookName": "Worlds Without Number",
-    "BookShortName": "Worlds Without Number",
+    "BookName": "Worlds Without Number Deluxe",
+    "BookShortName": "Worlds Without Number Deluxe",
     "BookPublisher": "Sine Nomine Publishing",
     "BookCode": "",
     "BookISBN": "978-1-950965-07-6",
@@ -120,7 +120,7 @@
     "BookRules": "OSR",
     "BookEdition": "1st Edition",
     "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Worlds Without Number",
     "BookType": "Rulebook",
@@ -129,6 +129,11 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Without Numbers\\Worlds\\Worlds Without Number Deluxe.pdf"
+    ],
+    "BookMD": [
+        "D:\\OneDrive\\Master Vault\\Without Numbers\\Worlds\\Worlds Without Number - Fillable Character Sheet [2021-03-15].pdf",
+        "D:\\OneDrive\\Master Vault\\Without Numbers\\Worlds\\Worlds Without Number - Gyre Map.png",
+        "D:\\OneDrive\\Master Vault\\Without Numbers\\Worlds\\Worlds Without Number Deluxe - Character Sheet.pdf"
     ],
     "BookDescription": [
       "The stars gutter and the skies fade and the earth grows weary with years. Ages of men and of Outsiders have ascended and been forgotten, and only the bones of their cities and the dust of their dreams remain upon this tired world. The Legacy of their laws is woven deep now, the edicts of dead gods and fallen sorcerer-kings made to trace patterns of power we no longer understand. We are heirs to their unseen empires, and our lives are built upon their ashes.",
