@@ -232,9 +232,9 @@
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Star Trek Adventures",
-  "BookType": "",
+  "BookType": "Mission Compendium",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Mission Compendiums",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051062 - These are the Voyages - Volume 1.pdf"
@@ -356,8 +356,8 @@
   "BookCover": "",
   "BookRules": "2d20",
   "BookEdition": "2nd Edition",
-  "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "To Source",
   "BookLibrary": "Yes",
   "BookWiki": "",
   "WikiPage": "",
@@ -373,10 +373,1504 @@
   ],
   "BookMD": [
     "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit - Screen tables side 1 page.pdf",
-    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit -  Screen tables side 4 pages.pdf",
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit - Screen tables side 4 pages.pdf",
     "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit - Map Poster.pdf",
     "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit - Reference Cards Digital.pdf",
     "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit - Screen art side.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH0142407 - Star Trek Adventures Second Edition Starter Set",
+  "BookShortName": "Star Trek Adventures Second Edition Starter Set",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH0142407",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Starter Set",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Starter Sets",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "The Star Trek Adventures roleplaying game takes you to the final frontier!",
+    "You may travel to the edges of known space, to colonies in need, to the borders of neighboring galactic powers, or into the eye of interstellar phenomena. Explore strange new worlds, encounter fantastical alien life-forms, and engage in dramatic adventures in a detailed and immersive Galaxy.",
+    "PLAY STRAIGHT OUT OF THE BOX!",
+    "This Starter Set contains everything you need to begin your journey into the final frontier, including an epic campaign of three linked missions designed to challenge a brave crew of 3–7 player characters.",
+    "The Star Trek Adventures Second Edition Starter Set includes:",
+    "RULES BOOKLET: A 48-page booklet providing an overview of the 2d20 game system adapted for Star Trek Adventures, for use with the included campaign.",
+    "CAMPAIGN BOOKLET: A 60-page booklet containing the epic, three-part campaign “Infinite Combinations,” which guides you through the rules as you play so you can begin exploring the Galaxy straight out of the box.",
+    "SHIP SHEET and CHARACTER SHEETS: A statistics sheet for the Constitution-class U.S.S. Challenger and seven player character sheets, with rules references on the backs.",
+    "REFERENCE SHEETS: Four double-sided rules reference sheets.",
+    "DICE: Five twenty-sided dice (d20s) in a unique color only available in this Starter Set.",
+    "TOKENS: Six Momentum tokens for each of six different civilizations (i.e., 36 total Momentum tokens), 36 Threat tokens on the reverse side of the Momentum tokens, and 9 Determination tokens."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH0142406 - Star Trek Adventures 2e Quickstar Guide",
+  "BookShortName": "Star Trek Adventures 2e Quickstar Guide",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH0142406",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Quickstar Guide",
+  "BookFormat": "",
+  "BookSeries": "Quickstar Guides",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\2nd Edition\\MUH0142406 - Star Trek Adventures 2e Quickstar Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051063 - Command Division Supplement",
+  "BookShortName": "Command Division Supplement",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051063",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Supplemental Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Supplemental Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051063 - Command Division Supplement.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051064 - Operations Division Supplement",
+  "BookShortName": "Operations Division Supplement",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051064",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Supplemental Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Supplemental Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051064 - Operations Division Supplement.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051065 - Science Division Supplement",
+  "BookShortName": "Science Division Supplement",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051065",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Supplemental Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Supplemental Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051065 - Science Division Supplement.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051066 - Alpha Quadrant Source Book",
+  "BookShortName": "Alpha Quadrant Source Book",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051066",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051066 - Alpha Quadrant Source Book.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051067 - Beta Quadrant Sourcebook",
+  "BookShortName": "Beta Quadrant Sourcebook",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051067",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051067 - Beta Quadrant Sourcebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051068 - Gamma Quadrant Sourcebook",
+  "BookShortName": "Gamma Quadrant Sourcebook",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051068",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051068 - Gamma Quadrant Sourcebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051069 - Star Trek Adventures - Delta Quadrant",
+  "BookShortName": "Star Trek Adventures - Delta Quadrant",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051069",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051069 - Star Trek Adventures - Delta Quadrant.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051070 - Shackleton Expanse Campaign Guide",
+  "BookShortName": "Shackleton Expanse Campaign Guide",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051070",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Campaign Guide",
+  "BookFormat": "",
+  "BookSeries": "Campaign Guides",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051071 - The Klingon Empire - Core Rulebook",
+  "BookShortName": "The Klingon Empire - Core Rulebook",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051071",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Rule Book",
+  "BookFormat": "",
+  "BookSeries": "Rule Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051071 - The Klingon Empire - Core Rulebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051426 - Ends and Means",
+  "BookShortName": "Ends and Means",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051426",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Mission",
+  "BookFormat": "",
+  "BookSeries": "Missions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051426 - Ends and Means.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051427 - Call Back Yesterday",
+  "BookShortName": "Call Back Yesterday",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051427",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Mission",
+  "BookFormat": "",
+  "BookSeries": "Missions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051427 - Call Back Yesterday.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051428 - Nest in the Dark",
+  "BookShortName": "Nest in the Dark",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051428",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Mission",
+  "BookFormat": "",
+  "BookSeries": "Missions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051428 - Nest in the Dark.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051429 - The Gravity Of The Crime",
+  "BookShortName": "The Gravity Of The Crime",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051429",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Mission",
+  "BookFormat": "",
+  "BookSeries": "Missions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051429 - The Gravity Of The Crime - black.pdf",
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051429 - The Gravity Of The Crime - white.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051430 - Trouble On Omned III",
+  "BookShortName": "Trouble On Omned III",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051430",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Mission",
+  "BookFormat": "",
+  "BookSeries": "Missions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051430 - Trouble On Omned III - white.pdf",
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051430 - Trouble On Omned III - black.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051431 - A Forest Apart",
+  "BookShortName": "A Forest Apart",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051431",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Mission",
+  "BookFormat": "",
+  "BookSeries": "Missions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051431 - A Forest Apart.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051432 - Remnants",
+  "BookShortName": "Remnants",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051432",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Mission",
+  "BookFormat": "",
+  "BookSeries": "Missions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051432 - Remnants.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051433 - Stolen Liberty",
+  "BookShortName": "Stolen Liberty",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051433",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Mission",
+  "BookFormat": "",
+  "BookSeries": "Missions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051433 - Stolen Liberty.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051434 - Hard Rock Catastrophe",
+  "BookShortName": "Hard Rock Catastrophe",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051434",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Mission",
+  "BookFormat": "",
+  "BookSeries": "Missions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051434 - Hard Rock Catastrophe.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051077 - Star Trek Adventures - Gamemaster Screen",
+  "BookShortName": "Star Trek Adventures - Gamemaster Screen",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051077",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Gamemaster Screen",
+  "BookFormat": "",
+  "BookSeries": "Gamemaster Screens",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\tar Trek\\MUH051077 - Star Trek Adventures - Gamemaster Screen.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051422 - The Original Series Player Characters",
+  "BookShortName": "The Original Series Player Characters",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051422",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Player Characters",
+  "BookFormat": "",
+  "BookSeries": "Player Characters",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051422 - The Original Series Player Characters.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051422 - The Original Series Player Characters - Errata.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051423 - The Next Generation Player Characters",
+  "BookShortName": "The Next Generation Player Characters",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051423",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Player Characters",
+  "BookFormat": "",
+  "BookSeries": "Player Characters",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051423 - The Next Generation Player Characters.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051423 - The Next Generation Player Characters - Errata.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051665 - Deep Space Nine Player Characters",
+  "BookShortName": "Deep Space Nine Player Characters",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051665",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Player Characters",
+  "BookFormat": "",
+  "BookSeries": "Player Characters",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051665 - Deep Space Nine Player Characters.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051666 - Voyager Player Characters",
+  "BookShortName": "Voyager Player Characters",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051666",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Player Characters",
+  "BookFormat": "",
+  "BookSeries": "Player Characters",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051666 - Voyager Player Characters.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051667 - Enterprise Player Characters",
+  "BookShortName": "Enterprise Player Characters",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051667",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Player Characters",
+  "BookFormat": "",
+  "BookSeries": "Player Characters",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051667 - Enterprise Player Characters.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051763 - Strange New Worlds - Mission Compendium Vol. 2",
+  "BookShortName": "Strange New Worlds - Mission Compendium Vol. 2",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051763",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Mission Compendium",
+  "BookFormat": "",
+  "BookSeries": "Mission Compendiums",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051763 - Strange New Worlds - Mission Compendium Vol. 2.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH0142221 - Star Trek - Lower Decks Campaign Guide",
+  "BookShortName": "Star Trek - Lower Decks Campaign Guide",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH0142221",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Campaign Guide",
+  "BookFormat": "",
+  "BookSeries": "Campaign Guides",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH0142221 - Star Trek - Lower Decks Campaign Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH0142203 - Utopia Planitia",
+  "BookShortName": "Utopia Planitia",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH0142203",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH0142203 - Utopia Planitia.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH0142201 - Discovery 2256-2258 Campaign Guide",
+  "BookShortName": "Discovery 2256-2258 Campaign Guide",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH0142201",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Campaign Guide",
+  "BookFormat": "",
+  "BookSeries": "Campaign Guides",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH0142201 - Discovery 2256-2258 Campaign Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH0142103 - Star Trek Discovery Season 2 - Player Characters",
+  "BookShortName": "Star Trek Discovery Season 2 - Player Characters",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH0142103",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Player Characters",
+  "BookFormat": "",
+  "BookSeries": "Player Characters",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH0142103 - Star Trek Discovery Season 2 - Player Characters.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH052340 - Star Trek Adventures - Player's Guide",
+  "BookShortName": "Star Trek Adventures - Player's Guide",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH052340",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Rule Book",
+  "BookFormat": "",
+  "BookSeries": "Rule Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH052340 - Star Trek Adventures - Player's Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH052341 - Star Trek Adventures - Gamemaster Guide",
+  "BookShortName": "Star Trek Adventures - Gamemaster Guide",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH052341",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Rule Book",
+  "BookFormat": "",
+  "BookSeries": "Rule Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH052341 - Star Trek Adventures - Gamemaster Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH052189 - Another Roll of the Dice",
+  "BookShortName": "Another Roll of the Dice",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH052189",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Mission",
+  "BookFormat": "",
+  "BookSeries": "Missions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH052189 - Another Roll of the Dice.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH052130 - Iconic Villains - Non-Player Characters",
+  "BookShortName": "Iconic Villains - Non-Player Characters",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH052130",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Non Player Characters",
+  "BookFormat": "",
+  "BookSeries": "Non Player Characters",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH052130 - Iconic Villains - Non-Player Characters.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051566 - A Star Beyond The Stars",
+  "BookShortName": "A Star Beyond The Stars",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051566",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Campaign",
+  "BookFormat": "",
+  "BookSeries": "Campaigns",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051566 - A Star Beyond The Stars.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051076 - The Next Generation Starfleet Deck Tiles",
+  "BookShortName": "The Next Generation Starfleet Deck Tiles",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051076",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Deck Tiles",
+  "BookFormat": "",
+  "BookSeries": "Deck Tiles",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051076 - The Next Generation Starfleet Deck Tiles.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051476 - The Next Generation Klingon Tile Set",
+  "BookShortName": "The Next Generation Klingon Tile Set",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051476",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Deck Tiles",
+  "BookFormat": "",
+  "BookSeries": "Deck Tiles",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051476 - The Next Generation Klingon Tile Set.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH051246 - Star Trek Adventures - Quickstart",
+  "BookShortName": "Star Trek Adventures - Quickstart",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH051246",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Star Trek Adventures",
+  "BookType": "Quickstart",
+  "BookFormat": "",
+  "BookSeries": "Quickstarts",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Star Trek\\MUH051246 - Star Trek Adventures - Quickstart.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
   ],
   "BookDescription": [
     "No description available."
