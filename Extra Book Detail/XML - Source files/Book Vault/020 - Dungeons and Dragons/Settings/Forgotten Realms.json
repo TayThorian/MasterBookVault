@@ -2212,9 +2212,6 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "To Source",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
-    "VaultSML": "Forgotten Realms",
     "BookSetting": "Forgotten Realms",
     "BookType": "Campaign Setting",
     "BookFormat": "Boxed Set",
@@ -2222,6 +2219,26 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Forgotten Realms\\ADnD\\TSR1055 - The Horde.pdf"
+    ],
+    "BookMD": [
+        ""
+    ],
+    "BookMDWSpells": [
+        ""
+    ],
+    "BookMDPSpells": [
+        ""
+    ],
+    "BookMDMonsters": [
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\C\\Centaur, Nomadic.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\H\\Horse (Endless Waste).md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\M\\Manggus.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\M\\Monkey (Greater Spirit).md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\S\\Shatjan.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\S\\Shimnus, Greater Spirit.md"
+    ],
+    "BookMDMagicItems": [
+        ""
     ],
     "BookDescription": [
       "Between East and West, between Earth and Sky, lies the Endless Waste. Barren and desolate, this windswept land forms the barrier between the feuding kingdoms of Faerun and the ancient empires of Kara-Tur. The eternal steppe is home only to the hardy, nomadic horsemen who travel its secret paths.",

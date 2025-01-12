@@ -590,5 +590,81 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "SJG6053 - War Against the Chtorr",
+    "BookShortName": "War Against the Chtorr",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6053",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Setting",
+    "BookFormat": "",
+    "BookSeries": "Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\3E\\SJG6053 - War Against the Chtorr.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG6067 - Lensman",
+    "BookShortName": "Lensman",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG6067",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "3rd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Setting",
+    "BookFormat": "",
+    "BookSeries": "Settings",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\3E\\SJG6067 - Lensman.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

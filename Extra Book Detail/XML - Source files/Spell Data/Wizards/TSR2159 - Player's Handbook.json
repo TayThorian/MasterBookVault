@@ -1429,7 +1429,7 @@
    "SourceShort": "TSR2159",
    "SourceLong": "TSR2159 - Player's Handbook",
    "Page": 173,
-   "Vault": "",
+   "Vault": "Yes",
    "First Letter": "D",
    "SpellDescription": [
     "This spell enables the caster to detect all undead creatures out to the limit of the spell. The area of effect extends in a path 10 feet wide and 60 feet long (plus 10 feet longer per level of the wizard), in the direction the caster is facing. Scanning a direction requires one round, and the caster must be motionless. While the spell indicates direction, it does not give specific location or distance. It detects undead through walls and obstacles but is blocked by 1 foot of solid stone, 1 yard of wood or loose earth, or a thin coating of metal. The spell does not indicate the type of undead detected, only that undead are present.",
@@ -2986,7 +2986,9 @@
    "Page": 184,
    "Vault": "",
    "First Letter": "I",
-   "SpellDescription": [""],
+   "SpellDescription": [
+    ""
+  ],
    "Edition": "2E"
  },
  {
@@ -4266,9 +4268,12 @@
    "SourceShort": "TSR2159",
    "SourceLong": "TSR2159 - Player's Handbook",
    "Page": 177,
-   "Vault": "",
+   "Vault": "Yes",
    "First Letter": "N",
-   "SpellDescription": [""],
+   "SpellDescription": [
+    "By means of this spell, any one item of no more than five pounds weight per level of the spellcaster can be given an aura that is noticed by someone using magic detection. Furthermore, the caster can specify the type of magical aura that is detected (alteration, conjuration, etc.) and this effectively masks the item's actual aura, if any, unless the item's own aura is exceptionally powerful (if it is an artifact, for instance). If the object bearing Nystul's magical aura has an identify spell cast on it or is similarly examined, the examiner has a 50% chance of recognizing that the aura has been placed to mislead the unwary. Otherwise, the aura is believed and no amount of testing reveals what the true magic is.",
+    "The component for this spell is a small square of silk, which must be passed over the object that receives the aura."
+  ],
    "Edition": "2E"
  },
  {
@@ -4455,9 +4460,13 @@
    "SourceShort": "TSR2159",
    "SourceLong": "TSR2159 - Player's Handbook",
    "Page": 177,
-   "Vault": "",
+   "Vault": "Yes",
    "First Letter": "P",
-   "SpellDescription": [""],
+   "SpellDescription": [
+    "This spell creates the illusion of any object, creature, or force, as long as it is within the boundaries of the spell's area of effect. The illusion is visual and affects all believing creatures (undead are immune) that view it. It does not create sound, smell, or temperature. Effects that depend on these senses usually fail. The illusion lasts until struck by an opponent--unless the spellcaster causes the illusion to react appropriately--or until the wizard ceases concentration upon the spell (due to desire, moving, or a successful attack that causes damage). Saving throws for illusions are explained under \"Illusions\" in Chapter 7: Magic and under \"Adjudicating Illusions\" at the beginning of Appendix 2. Creatures that disbelieve the illusion see it for what it is and add +4 to associates' saving throws if this knowledge can be communicated effectively. Creatures believing the illusion are subject to its effects (again, as explained in Chapter 7). ",
+    "The illusionary effect can be moved by the caster within the limits of the area of effect. The DM has to rule on the effectiveness of this spell; detailed guidelines are outlined in Chapter 7: Magic and under \"Adjudicating Illusions\" at the beginning of Appendix 2. ",
+    "The material component of the spell is a bit of fleece."
+  ],
    "Edition": "2E"
  },
  {
