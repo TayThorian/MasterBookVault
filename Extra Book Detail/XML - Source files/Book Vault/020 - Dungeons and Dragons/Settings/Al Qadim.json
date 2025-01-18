@@ -93,7 +93,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Al Qadim",
     "BookType": "Al-Qadim (ALQ) Series Sourceboxes",
@@ -101,7 +101,8 @@
     "BookSeries": "ALQ Series",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\OneDrive\\Master Vault\\Al Qadim\\TSR9432 - ALQ3 - A Dozen And One Adventures.pdf"
+      "D:\\OneDrive\\Master Vault\\Al Qadim\\TSR9432 - ALQ3 - A Dozen And One Adventures.pdf",
+      "D:\\OneDrive\\Master Vault\\Al Qadim\\TSR9432 - ALQ3 - A Dozen And One Adventures - Campaign Book.pdf"
     ],
     "BookDescription": [
       "High Adventure is Your Companion Throughout the Land of Fate! ",
@@ -168,7 +169,7 @@
     "BookRules": "Advanced Dungeons and Dragons",
     "BookEdition": "2nd Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Al Qadim",
     "BookType": "Al-Qadim (ALQ) Series Sourceboxes",
@@ -177,6 +178,11 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Al Qadim\\TSR9440 - ALQ5 - Ruined Kingdoms.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Al Qadim\\TSR9440 - ALQ5 - Ruined Kingdoms - Adventure Book.pdf",
+      "D:\\OneDrive\\Master Vault\\Al Qadim\\TSR9440 - ALQ5 - Ruined Kingdoms - Monsters.pdf",
+      "D:\\OneDrive\\Master Vault\\Al Qadim\\TSR9440 - ALQ5 - Ruined Kingdoms - Poster Map.pdf"
     ],
     "BookDescription": [
       "Unveil the forbidden secrets of Nog and Kadar!",

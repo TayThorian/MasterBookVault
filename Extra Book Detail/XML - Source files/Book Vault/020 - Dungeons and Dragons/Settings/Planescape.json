@@ -52,11 +52,11 @@
 ]
 },
 {
-  "BookName": "TSR2602 - Monstrous Compendium - Appendix I",
-  "BookShortName": "Monstrous Compendium - Appendix I",
+  "BookName": "TSR2602 - Monstrous Compendium - Appendix",
+  "BookShortName": "Monstrous Compendium - Appendix",
   "BookPublisher": "TSR",
   "BookCode": "TSR2602",
-  "BookISBN": "",
+  "BookISBN": "1-56076-862-2",
   "BookAuthor": "",
   "BookPublished": "1994",
   "BookCover": "",
@@ -67,11 +67,11 @@
   "BookLibrary": "Yes",
   "BookSetting": "Planescape",
   "BookType": "Monstrous Compendium",
-  "BookFormat": "",
+  "BookFormat": "Softback",
   "BookSeries": "Monstrous Compendium",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2602 - Monstrous Compendium - Appendix I.pdf"
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2602 - Monstrous Compendium - Appendix.pdf"
   ],
   "BookMD": [
     "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
@@ -94,7 +94,7 @@
   "BookShortName": "Monstrous Compendium - Appendix II",
   "BookPublisher": "TSR",
   "BookCode": "TSR2613",
-  "BookISBN": "",
+  "BookISBN": "0-7869-0173-X",
   "BookAuthor": "",
   "BookPublished": "1995",
   "BookCover": "",
@@ -105,7 +105,7 @@
   "BookLibrary": "Yes",
   "BookSetting": "Planescape",
   "BookType": "Monstrous Compendium",
-  "BookFormat": "",
+  "BookFormat": "Softback",
   "BookSeries": "Monstrous Compendium",
   "BookCharacterLevel": "",
   "BookPDF": [
@@ -132,8 +132,8 @@
   "BookShortName": "Monstrous Compendium - Appendix III",
   "BookPublisher": "TSR",
   "BookCode": "TSR2635",
-  "BookISBN": "",
-  "BookAuthor": "",
+  "BookISBN": "0-7869-0751-7",
+  "BookAuthor": "Monte Cook",
   "BookPublished": "1998",
   "BookCover": "",
   "BookRules": "Advanced Dungeons and Dragons",
@@ -143,7 +143,7 @@
   "BookLibrary": "Yes",
   "BookSetting": "Planescape",
   "BookType": "Monstrous Compendium",
-  "BookFormat": "",
+  "BookFormat": "Softback",
   "BookSeries": "Monstrous Compendium",
   "BookCharacterLevel": "",
   "BookPDF": [
@@ -172,7 +172,7 @@
   "BookShortName": "Planescape - Adventures in the Multiverse",
   "BookPublisher": "Wizards of the Coast",
   "BookCode": "WTCD2437",
-  "BookISBN": "",
+  "BookISBN": "978-0-7869-6905-0",
   "BookAuthor": "Justice Ramin Arman, Dan Dillon & F. Wesley Schneider",
   "BookPublished": "2023",
   "BookCover": "",
@@ -181,10 +181,6 @@
   "BookPhysical": "Yes",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Planescape",
-  "UseTOC": "No",
   "BookSetting": "Planescape",
   "BookType": "Accessory",
   "BookFormat": "Slipcase",
@@ -225,10 +221,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Planescape",
-  "UseTOC": "No",
   "BookSetting": "Planescape",
   "BookType": "Adventure",
   "BookFormat": "Softback",
@@ -258,7 +250,7 @@
   "BookShortName": "Planes of Chaos",
   "BookPublisher": "TSR",
   "BookCode": "TSR2603",
-  "BookISBN": "",
+  "BookISBN": "1-56076-874-6",
   "BookAuthor": "Lester Smith & Wolfgang Baur",
   "BookPublished": "1994",
   "BookCover": "",
@@ -267,12 +259,8 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Planescape",
-  "UseTOC": "No",
   "BookSetting": "Planescape",
-  "BookType": "Campaign expansion",
+  "BookType": "Campaign Expansion",
   "BookFormat": "Boxed Set",
   "BookSeries": "Boxed Sets",
   "BookCharacterLevel": "",
@@ -296,30 +284,26 @@
 ]
 },
 {
-  "BookName": "TSR2604 - The Well of Worlds",
-  "BookShortName": "The Well of Worlds",
+  "BookName": "TSR2604 - Well of Worlds",
+  "BookShortName": "Well of Worlds",
   "BookPublisher": "TSR",
   "BookCode": "TSR2604",
-  "BookISBN": "",
-  "BookAuthor": "",
-  "BookPublished": "",
+  "BookISBN": "1-56076-893-2",
+  "BookAuthor": "Colin McComb",
+  "BookPublished": "1994",
   "BookCover": "",
   "BookRules": "Advanced Dungeons and Dragons",
   "BookEdition": "2nd Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Planescape",
-  "UseTOC": "No",
   "BookSetting": "Planescape",
   "BookType": "Adventure",
   "BookFormat": "Softback",
   "BookSeries": "Adventures",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2604 - The Well of Worlds.pdf"
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2604 - Well of Worlds.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
@@ -342,19 +326,15 @@
   "BookShortName": "In the Abyss",
   "BookPublisher": "TSR",
   "BookCode": "TSR2605",
-  "BookISBN": "",
-  "BookAuthor": "",
-  "BookPublished": "",
+  "BookISBN": "1-56076-908-4",
+  "BookAuthor": "Skip Williams",
+  "BookPublished": "1994",
   "BookCover": "",
   "BookRules": "Advanced Dungeons and Dragons",
   "BookEdition": "2nd Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Planescape",
-  "UseTOC": "No",
   "BookSetting": "Planescape",
   "BookType": "Adventure",
   "BookFormat": "Softback",
@@ -384,19 +364,15 @@
   "BookShortName": "The Deva Spark",
   "BookPublisher": "TSR",
   "BookCode": "TSR2606",
-  "BookISBN": "",
-  "BookAuthor": "",
-  "BookPublished": "",
+  "BookISBN": "1-56076-916-5",
+  "BookAuthor": "Bill Slavicsek & J.M. Salsbury",
+  "BookPublished": "1994",
   "BookCover": "",
   "BookRules": "Advanced Dungeons and Dragons",
   "BookEdition": "2nd Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Planescape",
-  "UseTOC": "No",
   "BookSetting": "Planescape",
   "BookType": "Adventure",
   "BookFormat": "Softback",
@@ -426,19 +402,15 @@
   "BookShortName": "Fires of Dis",
   "BookPublisher": "TSR",
   "BookCode": "TSR2608",
-  "BookISBN": "",
-  "BookAuthor": "",
-  "BookPublished": "",
+  "BookISBN": "0-7869-0100-4",
+  "BookAuthor": "Steve Perrin & Ray Vallese",
+  "BookPublished": "1995",
   "BookCover": "",
   "BookRules": "Advanced Dungeons and Dragons",
   "BookEdition": "2nd Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Planescape",
-  "UseTOC": "No",
   "BookSetting": "Planescape",
   "BookType": "Adventure",
   "BookFormat": "Softback",
@@ -446,6 +418,766 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Planescape\\TSR2608 - Fires of Dis.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2607 - Planes of Law",
+  "BookShortName": "Planes of Law",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2607",
+  "BookISBN": "0-7869-0093-8",
+  "BookAuthor": "Colin McComb & Wolfgang Baur",
+  "BookPublished": "1995",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Campaign Expansion",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Boxed Sets",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2607 - Planes of Law.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2609 - In The Cage A Guide to Sigil",
+  "BookShortName": "In The Cage A Guide to Sigil",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2609",
+  "BookISBN": "0-7869-0111-X",
+  "BookAuthor": "Wolfgang Baur & Rick Swan",
+  "BookPublished": "1995",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Accessory",
+  "BookFormat": "Softback",
+  "BookSeries": "Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2609 - In The Cage A Guide to Sigil.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2611 - The Factol's Manifesto",
+  "BookShortName": "The Factol's Manifesto",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2611",
+  "BookISBN": "0-7869-0141-1",
+  "BookAuthor": "Tim Beach, Dori Jean Hein & J.M. Salsbury",
+  "BookPublished": "1995",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Accessory",
+  "BookFormat": "Softback",
+  "BookSeries": "Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2611 - The Factol's Manifesto.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2620 - The Planewalker's Handbook",
+  "BookShortName": "The Planewalker's Handbook",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2620",
+  "BookISBN": "0-7869-0460-7",
+  "BookAuthor": "Monte Cook",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Accessory",
+  "BookFormat": "Softback",
+  "BookSeries": "Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2620 - The Planewalker's Handbook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2623 - On Hallowed Ground",
+  "BookShortName": "On Hallowed Ground",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2623",
+  "BookISBN": "0-7869-0430-5",
+  "BookAuthor": "Colin McComb",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Accessory",
+  "BookFormat": "Softback",
+  "BookSeries": "Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2623 - On Hallowed Ground.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2624 - Uncaged - Faces of Sigil",
+  "BookShortName": "Uncaged - Faces of Sigil",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2624",
+  "BookISBN": "0-7869-0385-6",
+  "BookAuthor": "R.V. Vallese",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Accessory",
+  "BookFormat": "Softback",
+  "BookSeries": "Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2624 - Uncaged - Faces of Sigil.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2625 - A Guide to the Astral Plane",
+  "BookShortName": "A Guide to the Astral Plane",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2625",
+  "BookISBN": "0-7869-0438-0",
+  "BookAuthor": "Monte Cook",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Accessory",
+  "BookFormat": "Softback",
+  "BookSeries": "Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2625 - A Guide to the Astral Plane.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2630 - Faces of Evil - The Fiends",
+  "BookShortName": "Faces of Evil - The Fiends",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2630",
+  "BookISBN": "0-7869-0684-7",
+  "BookAuthor": "Colin McComb",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Accessory",
+  "BookFormat": "Softback",
+  "BookSeries": "Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2630 - Faces of Evil - The Fiends.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2633 - A Guide to the Ethereal Plane",
+  "BookShortName": "A Guide to the Ethereal Plane",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2633",
+  "BookISBN": "0-7869-1205-7",
+  "BookAuthor": "Bruce R. Cordell",
+  "BookPublished": "1998",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Accessory",
+  "BookFormat": "Softback",
+  "BookSeries": "Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2633 - A Guide to the Ethereal Plane.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2634 - The Inner Planes",
+  "BookShortName": "The Inner Planes",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2634",
+  "BookISBN": "0-7869-0736-3",
+  "BookAuthor": "Monte Cook & William W. Connors",
+  "BookPublished": "1998",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Accessory",
+  "BookFormat": "Softback",
+  "BookSeries": "Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2634 - The Inner Planes.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2615 - Planes of Conflict",
+  "BookShortName": "Planes of Conflict",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2615",
+  "BookISBN": "0-7869-0309-0",
+  "BookAuthor": "Colin McComb, Dale Donovan & Monte Cook",
+  "BookPublished": "1995",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Campaign Expansion",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Boxed Sets",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2615 - Planes of Conflict.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2621 - Hellbound - The Blood War",
+  "BookShortName": "Hellbound - The Blood War",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2621",
+  "BookISBN": "0-7869-0407-0",
+  "BookAuthor": "Colin McComb & Monte Cook",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Deluxe Adventure & Accessory",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Boxed Sets",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2621 - Hellbound - The Blood War.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2610 - Player's Primer to the Outlands",
+  "BookShortName": "Player's Primer to the Outlands",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2610",
+  "BookISBN": "0-7869-0121-7",
+  "BookAuthor": "Jeff Grubb & Colin McComb",
+  "BookPublished": "1995",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Accessory",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Boxed Sets",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2610 - Player's Primer to the Outlands.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2614 - Harbinger House",
+  "BookShortName": "Harbinger House",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2614",
+  "BookISBN": "0-7869-0154-3",
+  "BookAuthor": "Bill Slavicsek",
+  "BookPublished": "1995",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2614 - Harbinger House.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2619 - Something Wild",
+  "BookShortName": "Something Wild",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2619",
+  "BookISBN": "0-7869-0377-5",
+  "BookAuthor": "Ray Vallese",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2619 - Something Wild.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2626 - Doors to the Unknown",
+  "BookShortName": "Doors to the Unknown",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2626",
+  "BookISBN": "0-7869-0447-X",
+  "BookAuthor": "Bill Slavicsek",
+  "BookPublished": "1996",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2626 - Doors to the Unknown.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2628 - The Great Modron March",
+  "BookShortName": "The Great Modron March",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2628",
+  "BookISBN": "0-7869-0648-0",
+  "BookAuthor": "Monte Cook & Colin McComb",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2628 - The Great Modron March.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2629 - Faction War",
+  "BookShortName": "Faction War",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2629",
+  "BookISBN": "0-7869-1203-0",
+  "BookAuthor": "Monte Cook & Ray Vallese",
+  "BookPublished": "1998",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2629 - Faction War.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2631 - Dead Gods",
+  "BookShortName": "Dead Gods",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2631",
+  "BookISBN": "0-7869-0711-8",
+  "BookAuthor": "Monte Cook",
+  "BookPublished": "1997",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2631 - Dead Gods.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2632 - Tales From the Infinite Staircase",
+  "BookShortName": "Tales From the Infinite Staircase",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2632",
+  "BookISBN": "0-7869-1204-9",
+  "BookAuthor": "Monte Cook",
+  "BookPublished": "1998",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Planescape",
+  "BookType": "Adventure",
+  "BookFormat": "Softback",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Planescape\\TSR2632 - Tales From the Infinite Staircase.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

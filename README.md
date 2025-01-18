@@ -18,6 +18,9 @@
 - GCP-SMP-4514 - Blaster Law
 - GCP-SMP-4515 - Future Law
 - GCP-SMP-4600 - Races & Cultures
+## Modiphius
+- MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit
+- MUH0142407 - Star Trek Adventures Second Edition Starter Set
 ## Free League Publishing
 - FLFTOR018 - Realms of the Three Rings
 ## Mongoose Publishing
@@ -53,6 +56,9 @@
 - SMD6 - Spacemaster Datanet 06
 - SMD7 - Spacemaster Datanet 07
 - SMD8 - Spacemaster Datanet 08
+## Modiphius
+- MUH0142405 - Star Trek Adventures - Second Edition - Game Toolkit
+- MUH0142407 - Star Trek Adventures Second Edition Starter Set
 ## Free League Publishing
 - FLFTOR018 - Realms of the Three Rings
 ## Digest Group Publications
