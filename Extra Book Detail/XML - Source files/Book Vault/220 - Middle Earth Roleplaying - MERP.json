@@ -922,7 +922,7 @@
     "BookCover": "",
     "BookRules": "MERP",
     "BookEdition": "1st Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "On Order",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookWiki": "Yes",
@@ -1455,7 +1455,7 @@
     "BookSeries": "Campaign Settings",
     "BookCharacterLevel": "",
     "BookPDF": [
-      "D:\\OneDrive\\Master Vault\\MERP\\1E\\ICE4010 - Mirkwood The Wilds of Rhovanion.pdf"
+      "D:\\OneDrive\\Master Vault\\MERP\\1E\\ICE4020 - Empire of the Witch-King.pdf"
     ],
     "BookDescription": [
       "No description available."

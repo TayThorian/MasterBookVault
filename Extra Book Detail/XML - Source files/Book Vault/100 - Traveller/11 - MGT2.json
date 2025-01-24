@@ -4275,5 +4275,81 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "MGPFREE002 - Bu and Embla do the Fifth Frontier War",
+    "BookShortName": "Bu and Embla do the Fifth Frontier War",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGPFREE002",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Supplement",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGPFREE002 - Bu and Embla do the Fifth Frontier War.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGPBUEMBLA - Bu and Embla's Guide to Starports of the Marches",
+    "BookShortName": "Bu and Embla's Guide to Starports of the Marches",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGPBUEMBLA",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Supplement",
+    "BookFormat": "PDF Only",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGPBUEMBLA - Bu and Embla's Guide to Starports of the Marches.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

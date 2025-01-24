@@ -13,10 +13,6 @@
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Tales_of_the_Valiant_-_Player%27s_Guide",
-    "VaultSML": "5E Compatible",
-    "UseTOC": "No",
     "BookSetting": "Tales of the Valiant",
     "BookType": "Rulebook",
     "BookFormat": "Hardback",
@@ -61,10 +57,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "Yes",
-  "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Tales_of_the_Valiant_-_Monster_Vault_(KOB_9771)",
-  "VaultSML": "5E Compatible",
-  "UseTOC": "No",
   "BookSetting": "Tales of the Valiant",
   "BookType": "Rulebook",
   "BookFormat": "Hardback",
@@ -108,10 +100,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "",
-  "UseTOC": "No",
   "BookSetting": "Tales of the Valiant",
   "BookType": "Adventure",
   "BookFormat": "",
@@ -150,10 +138,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "Yes",
-  "WikiPage": "",
-  "VaultSML": "5E Compatible",
-  "UseTOC": "No",
   "BookSetting": "Tales of the Valiant",
   "BookType": "Rulebook",
   "BookFormat": "Hardback",
@@ -161,6 +145,44 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Tales of the Valiant\\KOB 9870 - Tales of the Valiant - Game Master's Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Shards of the Spellforge",
+  "BookShortName": "Shards of the Spellforge",
+  "BookPublisher": "Kobold Press",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Black Flag Roleplaying",
+  "BookEdition": "5E Compatible",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Tales of the Valiant",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "1st Level",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Tales of the Valiant\\Shards of the Spellforge.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

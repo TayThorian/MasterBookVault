@@ -1,0 +1,81 @@
+[
+  {
+  "BookName": "PELGY01D - The Yellow King Roleplaying Game",
+  "BookShortName": "The Yellow King Roleplaying Game",
+  "BookPublisher": "Pelgrane Press",
+  "BookCode": "PELGY01D",
+  "BookISBN": "",
+  "BookAuthor": "Robin D. Laws",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Gumshoe",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Yellow King",
+  "BookType": "Boxed Set",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Boxed Sets",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Yellow King RPG\\PELGY02 - The Yellow King RPG - Book 1 - Paris.pdf",
+    "D:\\OneDrive\\Master Vault\\The Yellow King RPG\\PELGY03 - The Yellow King RPG - Book 2 - The Wars.pdf",
+    "D:\\OneDrive\\Master Vault\\The Yellow King RPG\\PELGY04 - The Yellow King RPG - Book 3 - Aftermath.pdf",
+    "D:\\OneDrive\\Master Vault\\The Yellow King RPG\\PELGY05 - The Yellow King RPG - Book 4 - This is Normal Now.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "PELGY06D - Absinthe in Carcosa",
+  "BookShortName": "Absinthe in Carcosa",
+  "BookPublisher": "Pelgrane Press",
+  "BookCode": "PELGY06D",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Gumshoe",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "The Yellow King",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\The Yellow King RPG\\PELGY06D - Absinthe in Carcosa.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

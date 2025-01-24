@@ -1,0 +1,155 @@
+[
+  {
+  "BookName": "FS0001 - Farsight RPG",
+  "BookShortName": "Farsight RPG",
+  "BookPublisher": "Lightfish Games",
+  "BookCode": "FS0001",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Double Twelve System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Farsight",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Farsight\\FS0001 - Farsight RPG.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "FS0002 - Chronicles of the Edge",
+  "BookShortName": "Chronicles of the Edge",
+  "BookPublisher": "Lightfish Games",
+  "BookCode": "FS0002",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Double Twelve System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Farsight",
+  "BookType": "Campaign Setting",
+  "BookFormat": "",
+  "BookSeries": "Campaign Settings",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Farsight\\FS0002 - Chronicles of the Edge.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "FS0008 - Echoes In The Dark",
+  "BookShortName": "Echoes In The Dark",
+  "BookPublisher": "Lightfish Games",
+  "BookCode": "FS0008",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Double Twelve System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Farsight",
+  "BookType": "Adventure Module",
+  "BookFormat": "",
+  "BookSeries": "Adventure ModuleS",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Farsight\\FS0008 - Echoes In The Dark.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "FS0003 - Farsight RPG - Quickstarter",
+  "BookShortName": "Farsight RPG - Quickstarter",
+  "BookPublisher": "Lightfish Games",
+  "BookCode": "FS0003",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Double Twelve System",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Farsight",
+  "BookType": "Quickstarter",
+  "BookFormat": "",
+  "BookSeries": "Quickstarters",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Farsight\\FS0003 - Farsight RPG - Quickstarter\\FS0003 - Farsight RPG - Quickstarter.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Farsight\\FS0003 - Farsight RPG - Quickstarter\\FS0003 - Farsight RPG - Quickstarter - Maps.pdf",
+    "D:\\OneDrive\\Master Vault\\Farsight\\FS0003 - Farsight RPG - Quickstarter\\FS0003 - Farsight RPG - Quickstarter - Pregens.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

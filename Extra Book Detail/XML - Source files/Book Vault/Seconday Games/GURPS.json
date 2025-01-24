@@ -14,9 +14,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "GURPS",
-    "BookType": "Rulebook",
+    "BookType": "Supplement",
     "BookFormat": "Hardback, Softback",
-    "BookSeries": "Space",
+    "BookSeries": "Supplements",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-1002 - Space.pdf"
     ],
@@ -49,9 +49,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "GURPS",
-    "BookType": "Rulebook",
+    "BookType": "Supplement",
     "BookFormat": "Hardback",
-    "BookSeries": "Horror",
+    "BookSeries": "Supplements",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-1003 - Horror.pdf"
     ],
@@ -90,9 +90,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "GURPS",
-    "BookType": "Rulebook",
+    "BookType": "Supplement",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-0101 - Magic.pdf"
@@ -125,9 +125,9 @@
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
     "BookSetting": "GURPS",
-    "BookType": "Rulebook",
+    "BookType": "Supplement",
     "BookFormat": "",
-    "BookSeries": "",
+    "BookSeries": "Supplements",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-0102 - Powers.pdf"
@@ -650,6 +650,956 @@
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\GURPS\\3E\\SJG6067 - Lensman.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-0001 - Basic Set - Characters",
+    "BookShortName": "Basic Set - Characters",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-0001",
+    "BookISBN": "978-1-55634-729-4",
+    "BookAuthor": "Steve Jackson",
+    "BookPublished": "2004",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-0001 - Basic Set - Characters.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-0002 - Basic Set - Campaigns",
+    "BookShortName": "Basic Set - Campaigns",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-0002",
+    "BookISBN": "978-1-55634-730-6",
+    "BookAuthor": "Steve Jackson",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-0002 - Basic Set - Campaigns.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-0103 - Bio-Tech",
+    "BookShortName": "Bio-Tech",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-0103",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-0103 - Bio-Tech.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-0104 - Ultra-Tech",
+    "BookShortName": "Ultra-Tech",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-0104",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-0104 - Ultra-Tech.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-0105 - Martial Arts",
+    "BookShortName": "Martial Arts",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-0105",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-0105 - Martial Arts.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-0106 - High-Tech",
+    "BookShortName": "High-Tech",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-0106",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-0106 - High-Tech.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-0107 - Thaumatology",
+    "BookShortName": "Thaumatology",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-0107",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-0107 - Thaumatology.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-0108 - Low-Tech",
+    "BookShortName": "Low-Tech",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-0108",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-0108 - Low-Tech.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-1001 - Fantasy",
+    "BookShortName": "Fantasy",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-1001",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-1001 - Fantasy.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-1004 - Zombies",
+    "BookShortName": "Zombies",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-1004",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-1004 - Zombies.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-2001 - Infinite Worlds",
+    "BookShortName": "Infinite Worlds",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-2001",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-2001 - Infinite Worlds.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-2002 - Banestorm",
+    "BookShortName": "Banestorm",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-2002",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-2002 - Banestorm.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-2490 - Vorkosigan Saga Sourcebook and Roleplaying Game",
+    "BookShortName": "Vorkosigan Saga Sourcebook and Roleplaying Game",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-2490",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-2490 - Vorkosigan Saga Sourcebook and Roleplaying Game.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-6198 - Psionic Powers",
+    "BookShortName": "Psionic Powers",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-6198",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-6198 - Psionic Powers.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-7998 - Supers",
+    "BookShortName": "Supers",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-7998",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-7998 - Supers.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-7999 - Mysteries",
+    "BookShortName": "Mysteries",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-7999",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-7999 - Mysteries.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG37-0120 - Spaceships",
+    "BookShortName": "Spaceships",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG37-0120",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG37-0120 - Spaceships.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG37-0121 - Spaceships 2 - Traders, Liners and Transports",
+    "BookShortName": "Spaceships 2 - Traders, Liners and Transports",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG37-0121",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "e23",
+    "BookFormat": "",
+    "BookSeries": "e23 - Spaceships",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG37-0121 - Spaceships 2 - Traders, Liners and Transports.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG37-0122 - Spaceships 3 - Warships and Space Pirates",
+    "BookShortName": "Spaceships 3 - Warships and Space Pirates",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG37-0122",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "e23",
+    "BookFormat": "",
+    "BookSeries": "e23 - Spaceships",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG37-0122 - Spaceships 3 - Warships and Space Pirates.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG37-0123 - Spaceships 4 - Fighters, Carriers and Mecha",
+    "BookShortName": "Spaceships 4 - Fighters, Carriers and Mecha",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG37-0123",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "e23",
+    "BookFormat": "",
+    "BookSeries": "e23 - Spaceships",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG37-0123 - Spaceships 4 - Fighters, Carriers and Mecha.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG37-0124 - Spaceships 5 - Exploration and Colony Spacecraft",
+    "BookShortName": "Spaceships 5 - Exploration and Colony Spacecraft",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG37-0124",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "e23",
+    "BookFormat": "",
+    "BookSeries": "e23 - Spaceships",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG37-0124 - Spaceships 5 - Exploration and Colony Spacecraft.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG37-0125 - Spaceships 6 - Mining and Industrial Spacecraft",
+    "BookShortName": "Spaceships 6 - Mining and Industrial Spacecraft",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG37-0125",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "e23",
+    "BookFormat": "",
+    "BookSeries": "e23 - Spaceships",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG37-0125 - Spaceships 6 - Mining and Industrial Spacecraft.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG37-0126 - Spaceships 7 - Divergent and Paranormal Tech",
+    "BookShortName": "Spaceships 7 - Divergent and Paranormal Tech",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG37-0126",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "e23",
+    "BookFormat": "",
+    "BookSeries": "e23 - Spaceships",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG37-0126 - Spaceships 7 - Divergent and Paranormal Tech.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG37-0127 - Spaceships 8 - Transhuman Spacecraft",
+    "BookShortName": "Spaceships 8 - Transhuman Spacecraft",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG37-0127",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "e23",
+    "BookFormat": "",
+    "BookSeries": "e23 - Spaceships",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG37-0127 - Spaceships 8 - Transhuman Spacecraft.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "SJG01-2500 - Discworld Roleplaying Game",
+    "BookShortName": "Discworld Roleplaying Game",
+    "BookPublisher": "Steve Jackson Games",
+    "BookCode": "SJG01-2500",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "GURPS",
+    "BookEdition": "4th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "GURPS",
+    "BookType": "Discworld",
+    "BookFormat": "",
+    "BookSeries": "Discworld",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\GURPS\\4E\\SJG01-2500 - Discworld Roleplaying Game.pdf"
     ],
     "BookMD": [
       "D:\\Master Vault\\Extra Book Data\\"

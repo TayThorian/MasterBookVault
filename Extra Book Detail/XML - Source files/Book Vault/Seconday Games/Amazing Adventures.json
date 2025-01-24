@@ -13,10 +13,6 @@
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
-    "VaultSML": "",
-    "UseTOC": "No",
     "BookSetting": "Amazing Adventures",
     "BookType": "Rulebook",
     "BookFormat": "",
@@ -55,10 +51,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "",
-  "UseTOC": "No",
   "BookSetting": "Amazing Adventures",
   "BookType": "Rulebook",
   "BookFormat": "",
@@ -66,6 +58,82 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Amazing Adventures\\TLG76181 - Amazing Adventures Chronicle Keepers Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG76211 - Shadows of the Red God",
+  "BookShortName": "Shadows of the Red God",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG76211",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Amazing Adventures",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Amazing Adventures\\TLG76211 - Shadows of the Red God.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG76241 - The Deeper Darkness Trilogy",
+  "BookShortName": "The Deeper Darkness Trilogy",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG76241",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Amazing Adventures",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Amazing Adventures\\TLG76241 - The Deeper Darkness Trilogy.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

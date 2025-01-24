@@ -4,8 +4,8 @@
   "BookShortName": "Savage Worlds Adventure Edition",
   "BookPublisher": "Pinnacle Entertainment Group",
   "BookCode": "S2P10023",
-  "BookISBN": "",
-  "BookAuthor": "",
+  "BookISBN": "978-1-950082-00-1",
+  "BookAuthor": "Shane Lacy Hensley, with Clint Black",
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Savage Worlds",
@@ -19,7 +19,7 @@
   "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\Master Vault\\"
+    "D:\\OneDrive\\Master Vault\\Savage Worlds\\S2P10023 - Savage Worlds Adventure Edition.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
@@ -38,26 +38,26 @@
 ]
 },
 {
-  "BookName": "",
-  "BookShortName": "",
-  "BookPublisher": "",
-  "BookCode": "",
+  "BookName": "PEG10010 - Savage Worlds - Explorers Edition",
+  "BookShortName": "Savage Worlds - Explorers Edition",
+  "BookPublisher": "Pinnacle Entertainment Group",
+  "BookCode": "PEG10010",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "",
-  "BookEdition": "",
-  "BookPhysical": "",
-  "BookOwnedPDF": "",
+  "BookRules": "Savage Worlds",
+  "BookEdition": "Explorers Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookSetting": "",
-  "BookType": "",
+  "BookSetting": "Savage Worlds",
+  "BookType": "Rulebook",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\Master Vault\\"
+    "D:\\OneDrive\\Master Vault\\Savage Worlds\\PEG10010 - Savage Worlds - Explorers Edition.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

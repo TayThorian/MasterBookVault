@@ -1,25 +1,25 @@
 [
   {
-  "BookName": "The Game Master's Book of Legendary Dragons",
-  "BookShortName": "The Game Master's Book of Legendary Dragons",
-  "BookPublisher": "Topix Media Lab",
+  "BookName": "Fabula Ultima",
+  "BookShortName": "Fabula Ultima",
+  "BookPublisher": "Need Games",
   "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons",
-  "BookEdition": "5th Edition - Compatible",
+  "BookRules": "Fabula Ultima",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookSetting": "",
-  "BookType": "Supplement",
+  "BookSetting": "Fabula Ultima",
+  "BookType": "Rulebook",
   "BookFormat": "",
-  "BookSeries": "Supplements",
+  "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\5E - Compatible\\Topix Media Lab\\The Game Master's Book of Legendary Dragons.pdf"
+    "D:\\OneDrive\\Master Vault\\Fabula Ultima\\Fabula Ultima.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
@@ -38,26 +38,26 @@
 ]
 },
 {
-  "BookName": "The Game Master's Book of Astonishing Random Tables",
-  "BookShortName": "The Game Master's Book of Astonishing Random Tables",
-  "BookPublisher": "Topix Media Lab",
+  "BookName": "Atlas - High Fantasy",
+  "BookShortName": "Atlas - High Fantasy",
+  "BookPublisher": "Need Games",
   "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons",
-  "BookEdition": "5th Edition - Compatible",
+  "BookRules": "Fabula Ultima",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookSetting": "",
-  "BookType": "Supplement",
+  "BookSetting": "Fabula Ultima",
+  "BookType": "Atlas",
   "BookFormat": "",
-  "BookSeries": "Supplements",
+  "BookSeries": "Atlas",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\5E - Compatible\\Topix Media Lab\\The Game Master's Book of Astonishing Random Tables.pdf"
+    "D:\\OneDrive\\Master Vault\\Fabula Ultima\\Atlas - High Fantasy.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
@@ -76,26 +76,26 @@
 ]
 },
 {
-  "BookName": "The Game Master's Book of Random Encounters",
-  "BookShortName": "The Game Master's Book of Random Encounters",
-  "BookPublisher": "Topix Media Lab",
-  "BookCode": "",
+  "BookName": "FUE-003 - Game Master's Toolkit",
+  "BookShortName": "Game Master's Toolkit",
+  "BookPublisher": "Need Games",
+  "BookCode": "FUE-003",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons",
-  "BookEdition": "5th Edition - Compatible",
+  "BookRules": "Fabula Ultima",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookSetting": "",
-  "BookType": "Supplement",
+  "BookSetting": "Fabula Ultima",
+  "BookType": "Game Master's Toolkit",
   "BookFormat": "",
-  "BookSeries": "Supplements",
+  "BookSeries": "Game Master's Toolkits",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\5E - Compatible\\Topix Media Lab\\The Game Master's Book of Random Encounters.pdf"
+    "D:\\OneDrive\\Master Vault\\Fabula Ultima\\FUE-003 - Game Master's Toolkit.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
@@ -114,26 +114,26 @@
 ]
 },
 {
-  "BookName": "The Game Master's Guide to Traps, Puzzles & Dungeons",
-  "BookShortName": "The Game Master's Guide to Traps, Puzzles & Dungeons",
-  "BookPublisher": "Topix Media Lab",
-  "BookCode": "",
+  "BookName": "FUE-004 - Atlas - Techno Fantasy",
+  "BookShortName": "Atlas - Techno Fantasy",
+  "BookPublisher": "Need Games",
+  "BookCode": "FUE-004",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons",
-  "BookEdition": "5th Edition - Compatible",
+  "BookRules": "Fabula Ultima",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookSetting": "",
-  "BookType": "Supplement",
+  "BookSetting": "Fabula Ultima",
+  "BookType": "Atlas",
   "BookFormat": "",
-  "BookSeries": "Supplements",
+  "BookSeries": "Atlas",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\5E - Compatible\\Topix Media Lab\\The Game Master's Guide to Traps, Puzzles & Dungeons.pdf"
+    "D:\\OneDrive\\Master Vault\\Fabula Ultima\\FUE-004 - Atlas - Techno Fantasy.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
@@ -152,29 +152,30 @@
 ]
 },
 {
-  "BookName": "The Game Master's Book Of Non Player Characters",
-  "BookShortName": "The Game Master's Book Of Non Player Characters",
-  "BookPublisher": "Topix Media Lab",
+  "BookName": "Press Start",
+  "BookShortName": "Press Start",
+  "BookPublisher": "Need Games",
   "BookCode": "",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Dungeons and Dragons",
-  "BookEdition": "5th Edition - Compatible",
+  "BookRules": "Fabula Ultima",
+  "BookEdition": "1st Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
-  "BookSetting": "",
-  "BookType": "Supplement",
+  "BookSetting": "Fabula Ultima",
+  "BookType": "Introductory Scenario",
   "BookFormat": "",
-  "BookSeries": "Supplements",
+  "BookSeries": "Introductory Scenario",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\5E - Compatible\\Topix Media Lab\\The Game Master's Book Of Non Player Characters.pdf"
+    "D:\\OneDrive\\Master Vault\\Fabula Ultima\\Press Start.pdf"
   ],
   "BookMD": [
-    "D:\\Master Vault\\Extra Book Data\\"
+    "D:\\OneDrive\\Master Vault\\Fabula Ultima\\Press Start - Load Game.pdf",
+    "D:\\OneDrive\\Master Vault\\Fabula Ultima\\Press Start - Pregens.pdf"
   ],
   "BookDescription": [
     "No description available."

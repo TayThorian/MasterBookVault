@@ -1,0 +1,87 @@
+[
+  {
+  "BookName": "ESAIR01EN - Adventures in Rokugan",
+  "BookShortName": "Adventures in Rokugan",
+  "BookPublisher": "Edge Studio",
+  "BookCode": "ESAIR01EN",
+  "BookISBN": "",
+  "BookAuthor": "Max Brooke, Welden Bringhurs",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5E Compatible",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rokugan",
+  "BookType": "Rulebook",
+  "BookFormat": "Hardback",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "In the land of Rokugan, the Emerald Empire has lasted a for a thousand years. Generations of past heroes have staved off crises and catastrophes that threatened to bring the Emerald Empire low, becoming legends of Rokugan.",
+    "Now the task falls to you. Whether you are the scion of an esteemed samurai line, a farmer with ambitions, a wanderer who simply wants a quiet life, or an outsider who seeks a destiny in Rokugan, the fate of the realm may well rest in your hands.",
+    "So draw your blade, study your invocations, sharpen your wits, and prepare to face unearthly horrors and mortal intrigues alike as you take on the role of one of Rokugan’s foremost heroes!",
+    "In this rulebook you will find everything you need to forge your own legend, including:",
+    "-   Rules for species, backgrounds, classes, feats, and more to create iconic heroes of Rokugan.",
+    "-   Using the rules of the 5th edition SRD, this book is completely compatible with the world’s most popular roleplaying game.",
+    "-   A new motivation system to create characters with dynamic goals using the inspiration system.",
+    "-   Guidance on running games in the vast and vibrant world of Rokugan.",
+    "-   Threats to challenge even the most hardened heroes.",
+    "-   An included adventure, A Grim Inheritance, where PCs of levels 1–3 venture into a haunted castle in the forbidding Shadowlands."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "ESAIR03EN - Tomb of Iuchiban",
+  "BookShortName": "Tomb of Iuchiban",
+  "BookPublisher": "Edge Studio",
+  "BookCode": "ESAIR03EN",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5E Compatible",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Rokugan",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\5E - Compatible\\Adventures in Rokugan\\ESAIR03EN - Tomb of Iuchiban.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

@@ -12,10 +12,6 @@
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
-    "VaultSML": "5E Compatible",
-    "UseTOC": "No",
     "BookSetting": "",
     "BookType": "Magic Book",
     "BookFormat": "",
@@ -50,10 +46,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "5E Compatible",
-  "UseTOC": "No",
   "BookSetting": "",
   "BookType": "Bestiary",
   "BookFormat": "",
@@ -88,10 +80,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "5E Compatible",
-  "UseTOC": "No",
   "BookSetting": "",
   "BookType": "Bestiary",
   "BookFormat": "",
@@ -126,10 +114,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "5E Compatible",
-  "UseTOC": "No",
   "BookSetting": "",
   "BookType": "Bestiary",
   "BookFormat": "",
@@ -165,10 +149,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "5E Compatible",
-  "UseTOC": "No",
   "BookSetting": "",
   "BookType": "Expansion",
   "BookFormat": "Hardback",
@@ -215,10 +195,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "",
-  "UseTOC": "No",
   "BookSetting": "",
   "BookType": "Supplement",
   "BookFormat": "",
@@ -257,10 +233,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "",
-  "UseTOC": "No",
   "BookSetting": "",
   "BookType": "Supplement",
   "BookFormat": "",
@@ -299,10 +271,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "",
-  "UseTOC": "No",
   "BookSetting": "",
   "BookType": "Adventure",
   "BookFormat": "",
@@ -310,6 +278,82 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\5E - Compatible\\Kobold Press\\KOB9528 - Tales From the Wastes.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Reach For The Stars",
+  "BookShortName": "Reach For The Stars",
+  "BookPublisher": "Kobold Press",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5E Compatible",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\5E - Compatible\\Kobold Press\\Reach For The Stars.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Shoulders of Giants",
+  "BookShortName": "Shoulders of Giants",
+  "BookPublisher": "Kobold Press",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeons and Dragons",
+  "BookEdition": "5E Compatible",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\5E - Compatible\\Kobold Press\\Shoulders of Giants.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

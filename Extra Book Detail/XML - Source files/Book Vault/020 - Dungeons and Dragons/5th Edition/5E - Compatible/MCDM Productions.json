@@ -1,0 +1,78 @@
+[
+  {
+  "BookName": "Kingdoms & Warfare",
+  "BookShortName": "Kingdoms & Warfare",
+  "BookPublisher": "MCDM Productions",
+  "BookCode": "",
+  "BookISBN": "978-1-7375124-2-4",
+  "BookAuthor": "Matthew Colville",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "5E Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\5E - Compatible\\MCDM Productions\\Kingdoms & Warfare.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Strongholds & Followers",
+  "BookShortName": "Strongholds & Followers",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "978-0-578-40962-7",
+  "BookAuthor": "Matthew Colville",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "5E Compatible",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\5E - Compatible\\MCDM Productions\\Strongholds & Followers.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

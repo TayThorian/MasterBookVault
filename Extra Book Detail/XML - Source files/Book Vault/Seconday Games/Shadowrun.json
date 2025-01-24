@@ -16,7 +16,7 @@
     "BookSetting": "Shadowrun",
     "BookType": "Rulebook",
     "BookFormat": "Hardback",
-    "BookSeries": "Rulebook",
+    "BookSeries": "Rulebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Shadowrun\\3rd Edition\\FPR25000 - Shadowrun - Third Edition.pdf"
@@ -55,7 +55,7 @@
     "BookSetting": "Shadowrun",
     "BookType": "Sourcebook",
     "BookFormat": "Softcover",
-    "BookSeries": "Sourcebook",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Shadowrun\\3rd Edition\\FAS7213 - Aztlan.pdf"
@@ -428,7 +428,7 @@
     "BookSetting": "Shadowrun",
     "BookType": "Sourcebook",
     "BookFormat": "",
-    "BookSeries": "Sourcebook",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Shadowrun\\3rd Edition\\FPR25006 - Loose Alliances.pdf"
@@ -464,7 +464,7 @@
     "BookSetting": "Shadowrun",
     "BookType": "Sourcebook",
     "BookFormat": "",
-    "BookSeries": "Sourcebook",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Shadowrun\\3rd Edition\\FPR10658 - Magic in the Shadows.pdf"
@@ -502,7 +502,7 @@
     "BookSetting": "Shadowrun",
     "BookType": "Sourcebook",
     "BookFormat": "",
-    "BookSeries": "Sourcebook",
+    "BookSeries": "Sourcebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Shadowrun\\3rd Edition\\FPR25001 - Man & Machine - Cyberware.pdf"
@@ -1799,9 +1799,9 @@
   "VaultSML": "Shadowrun",
   "UseTOC": "No",
   "BookSetting": "Shadowrun",
-  "BookType": "Campaign",
+  "BookType": "Campaign Book",
   "BookFormat": "",
-  "BookSeries": "Campaigns",
+  "BookSeries": "Campaign Books",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28405 - Final Bets.pdf"
@@ -1836,14 +1836,10 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Shadowrun",
-  "UseTOC": "No",
   "BookSetting": "Shadowrun",
-  "BookType": "",
+  "BookType": "Supplement",
   "BookFormat": "",
-  "BookSeries": "",
+  "BookSeries": "Supplements",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28801 - Bestial Nature.pdf"
@@ -1865,8 +1861,8 @@
 ]
 },
 {
-  "BookName": "CAT28002 - Firing Squad - Core Combat Rulebook",
-  "BookShortName": "Firing Squad - Core Combat Rulebook",
+  "BookName": "CAT28002 - Firing Squad",
+  "BookShortName": "Firing Squad",
   "BookPublisher": "Catalyst Games Lab",
   "BookCode": "CAT28002",
   "BookISBN": "",
@@ -1888,7 +1884,7 @@
   "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28002 - Firing Squad - Core Combat Rulebook.pdf"
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28002 - Firing Squad.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
@@ -1907,8 +1903,8 @@
 ]
 },
 {
-  "BookName": "CAT28003 - Street Wyrd - Core Magic Rulebook",
-  "BookShortName": "Street Wyrd - Core Magic Rulebook",
+  "BookName": "CAT28003 - Street Wyrd",
+  "BookShortName": "Street Wyrd",
   "BookPublisher": "Catalyst Games Lab",
   "BookCode": "CAT28003",
   "BookISBN": "",
@@ -1930,7 +1926,7 @@
   "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28003 - Street Wyrd - Core Magic Rulebook.pdf"
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28003 - Street Wyrd.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
@@ -2463,6 +2459,852 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Shadowrun\\Missions\\Season 10\\CAT28M1006 - Mission 10.06 - The No Body Problem.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28005 - Sixth World Companion",
+  "BookShortName": "Sixth World Companion",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28005",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28005 - Sixth World Companion.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28006 - Hack & Slash",
+  "BookShortName": "Hack & Slash",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28006",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28006 - Hack & Slash.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28007 - Body Shop",
+  "BookShortName": "CAT28007 - Body Shop",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28007 - Body Shop",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28007 - Body Shop.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28450 - Collapsing Now",
+  "BookShortName": "Collapsing Now",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28450",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Runner Resouce Book",
+  "BookFormat": "",
+  "BookSeries": "Runner Resouce Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28450 - Collapsing Now.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28100 - Emerald City",
+  "BookShortName": "Emerald City",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28100",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Setting Book",
+  "BookFormat": "",
+  "BookSeries": "Setting Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28100 - Emerald City.PDF"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28101 - Astral Ways",
+  "BookShortName": "Astral Ways",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28101",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Setting Book",
+  "BookFormat": "",
+  "BookSeries": "Setting Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28101 - Astral Ways.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28300 - Cutting Black",
+  "BookShortName": "CAT28300 - Cutting Black",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28300",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Plot Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Plot Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28300 - Cutting Black.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28301 - Slip Streams",
+  "BookShortName": "Slip Streams",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28301",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Plot Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Plot Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28301 - Slip Streams.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28302 - The Kechibi Code",
+  "BookShortName": "The Kechibi Code",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28302",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Plot Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Plot Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28302 - The Kechibi Code.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28303 - Scotophobia",
+  "BookShortName": "Scotophobia",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28303",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Plot Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Plot Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28303 - Scotophobia.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28400 - 30 Nights",
+  "BookShortName": "CAT28400 - 30 Nights",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28400 - 30 Nights",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Campaign Book",
+  "BookFormat": "",
+  "BookSeries": "Campaign Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28400 - 30 Nights.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28401 - Free Seattle",
+  "BookShortName": "CAT28401 - Free Seattle",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28401 - Free Seattle",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28401 - Free Seattle.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28402 - Assassins Night",
+  "BookShortName": "Assassins Night",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28402",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Campaign Book",
+  "BookFormat": "",
+  "BookSeries": "Campaign Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28402 - Assassins Night.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28403 - The Third Parallel",
+  "BookShortName": "The Third Parallel",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28403",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Campaign Book",
+  "BookFormat": "",
+  "BookSeries": "Campaign Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28403 - The Third Parallel.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28451 - Power Plays",
+  "BookShortName": "CAT28451 - Power Plays",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28451 - Power Plays",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Runner Resouce Book",
+  "BookFormat": "",
+  "BookSeries": "Runner Resouce Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28451 - Power Plays.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28510 - Shadow Cast",
+  "BookShortName": "Shadow Cast",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28510",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Runner Resouce Book",
+  "BookFormat": "",
+  "BookSeries": "Runner Resouce Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28510 - Shadow Cast.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28513 - Shoot Straight",
+  "BookShortName": "Shoot Straight",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28513",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Runner Resouce Book",
+  "BookFormat": "",
+  "BookSeries": "Runner Resouce Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28513 - Shoot Straight.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28010 - Sixth World Beginner Box",
+  "BookShortName": "Sixth World Beginner Box",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28010",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Beginner Box",
+  "BookFormat": "",
+  "BookSeries": "Beginner Box",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28010 - Sixth World Beginner Box\\Shadowrun 6E - Beginner Box - Quick Start Rules.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28010 - Sixth World Beginner Box\\Shadowrun 6E - Beginner Box - Battle Royale Adventure.pdf",
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28010 - Sixth World Beginner Box\\Shadowrun 6E - Beginner Box - Dossier - Emu.pdf",
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28010 - Sixth World Beginner Box\\Shadowrun 6E - Beginner Box - Dossier - Frostburn.pdf",
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28010 - Sixth World Beginner Box\\Shadowrun 6E - Beginner Box - Dossier - Rude.pdf",
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28010 - Sixth World Beginner Box\\Shadowrun 6E - Beginner Box - Dossier - Sledge (Game Trade Magazine 233) (Scan).pdf",
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28010 - Sixth World Beginner Box\\Shadowrun 6E - Beginner Box - Dossier - Yu.pdf",
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28010 - Sixth World Beginner Box\\Shadowrun 6E - Beginner Box - Dossier - Zipfile.pdf",
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28010 - Sixth World Beginner Box\\Shadowrun 6E - Beginner Box - Instant Guide.pdf",
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28010 - Sixth World Beginner Box\\Shadowrun 6E - Beginner Box - Instruction Sheet.pdf",
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28010 - Sixth World Beginner Box\\Shadowrun 6E - Beginner Box - Poster Map.pdf",
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28010 - Sixth World Beginner Box\\Shadowrun 6E - Beginner Box - Reference Cards.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28516 - Tarnished Star",
+  "BookShortName": "Tarnished Star",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28516",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Runner Resouce Book",
+  "BookFormat": "",
+  "BookSeries": "Runner Resouce Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28516 - Tarnished Star.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28453 - Falling Point",
+  "BookShortName": "Falling Point",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28453",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Runner Resouce Book",
+  "BookFormat": "",
+  "BookSeries": "Runner Resouce Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28453 - Falling Point.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CAT28452 - Null Value",
+  "BookShortName": "Null Value",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28452",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Runner Resouce Book",
+  "BookFormat": "",
+  "BookSeries": "Runner Resouce Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28452 - Null Value.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "FAS7901 - Shadowrun Second Edition",
+  "BookShortName": "Shadowrun Second Edition",
+  "BookPublisher": "FASA Corporation",
+  "BookCode": "FAS7901",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\2nd Edition\\FAS7901 - Shadowrun Second Edition.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

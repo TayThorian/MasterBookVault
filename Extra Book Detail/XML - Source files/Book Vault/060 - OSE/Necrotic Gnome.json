@@ -118,7 +118,7 @@
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "Dolmenwood Player's Book",
     "chapters": [
       {"page": 4, "title": "Welcome to Dolmenwood"},
       {"page": 11, "title": "Starting Play"},
@@ -590,7 +590,7 @@
     ],
     "TableOfContents": [
       {
-    "title": "Book",
+    "title": "The Hole in the Oak",
     "chapters": [
       {"page": 3, "title": "Introduction"},
       {"page": 4, "title": "Adventure Overview"},
@@ -796,6 +796,161 @@
     "chapters": [
       {"page": 1, "title": "TOC TO BE DONE"},
       {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "NG-0021 - Halls of the Blood King",
+    "BookShortName": "Halls of the Blood King",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0021",
+    "BookISBN": "978-3-96657-053-4",
+    "BookAuthor": "Diogo Nogueira",
+    "BookPublished": "2021",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "Levels 3 - 5",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0021 - Halls of the Blood King\\NG-0021 - Halls of the Blood King.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0021 - Halls of the Blood King\\NG-0021 - Halls of the Blood King - Map (GM).png",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0021 - Halls of the Blood King\\NG-0021 - Halls of the Blood King - Map (Players).png"
+    ],
+    "BookDescription": [
+      "_With the rising of the Blood Moon, the accursed abode of the Blood King returns to this world. The lord of all vampires comes to claim the blood that is owed to him. His halls contain treasures and secrets that would make any ambitious adventurer abandon reason and caution to seek them out. Will you risk your soul for gold and glory in the Halls of the Blood King?_",
+      "A fantasy horror adventure for characters of 3rd to 5th level.",
+      "37 keyed areas, rumour table, loot summary, dungeon background info.",
+      "Keyed in a quick-reference, bullet point format.",
+      "Unlabelled map included for VTT use."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Halls of the Blood King",
+    "chapters": [
+      {"page": 3, "title": "Introduction"},
+      {"page": 4, "title": "Adventure Overview"},
+      {"page": 7, "title": "Rumours"},
+      {"page": 8, "title": "Treasure"},
+      {"page": 9, "title": "Vampire Traits"},
+      {"page": 10, "title": "Random Happenings"},
+      {"page": 11, "title": "Putting Pressure on Players"},
+      {"page": 12, "title": "Area Descriptions: Manor Grounds"},
+      {"page": 16, "title": "Area Descriptions: First Floor"},
+      {"page": 38, "title": "Area Descriptions: Second Floor"},
+      {"page": 46, "title": "Area Descriptions: Dungeon"},
+      {"page": 48, "title": "Concluding the Adventure"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "NG-0023 - Holy Mountain Shaker",
+    "BookShortName": "Holy Mountain Shaker",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0023",
+    "BookISBN": "978-3-96657-057-2-4",
+    "BookAuthor": "Luka Rejec",
+    "BookPublished": "2021",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "Levels 5 - 6",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\ecrotic Gnome\\NG-0023 - Holy Mountain Shaker\\NG-0023 - Holy Mountain Shaker.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0023 - Holy Mountain Shaker\\NG-0023 - Holy Mountain Shaker - Pointcrawl Map Unlabelled.jpg",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0023 - Holy Mountain Shaker\\NG-0023 - Holy Mountain Shaker - God Fish Map Unlabelled.jpg"
+    ],
+    "BookDescription": [
+      "_Thunder and quake have come to the old town. Towers crumble, homes tumble, the quick become the dead. What omen could be more obvious? The Pharaoh Fish under the mountain is displeased. This God must be propitiated. Brave heroes must venture to buy the city's salvation. At the very least, the Town Council needs to appear in control and send some 'expert adventurers' into the depths._",
+      "A fantasy pointcrawl adventure for characters of 5th to 6th level.",
+      "Local town, 17 pointcrawl regions, dungeon inside the Pharaoh Fish.",
+      "Pointcrawl mechanics for Old-School Essentials.",
+      "Keyed in a quick-reference, bullet point format.",
+      "Unlabelled map included for VTT use."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Holy Mountain Shaker",
+    "chapters": [
+      {"page": 3, "title": "Introduction"},
+      {"page": 4, "title": "The Holy Mountain and the Town"},
+      {"page": 7, "title": "Small Treasures"},
+      {"page": 8, "title": "Mechanics: Pointcrawl Adventuring"},
+      {"page": 10, "title": "Mountain Creatures"},
+      {"page": 12, "title": "Area Descriptions"},
+      {"page": 48, "title": "The Fish’s Blessing"}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "NG-0022 - The Isle of the Plangent Mage",
+    "BookShortName": "The Isle of the Plangent Mage",
+    "BookPublisher": "Necrotic Gnome",
+    "BookCode": "NG-0022",
+    "BookISBN": "978-3-96657-055-8",
+    "BookAuthor": "Donn Stroud",
+    "BookPublished": "2021",
+    "BookCover": "",
+    "BookRules": "OSE",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "",
+    "BookType": "Adventure",
+    "BookFormat": "Hardback",
+    "BookSeries": "Adventures",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSE\\ecrotic Gnome\\NG-0022 - The Isle of the Plangent Mage\\NG-0022 - The Isle of the Plangent Mage.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0022 - The Isle of the Plangent Mage\\NG-0022 - The Isle of the Plangent Mage - VTT_Map_Levels_1-8.jpg",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0022 - The Isle of the Plangent Mage\\NG-0022 - The Isle of the Plangent Mage - VTT_Map_Levels_1-8_Gridless.png",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0022 - The Isle of the Plangent Mage\\NG-0022 - The Isle of the Plangent Mage - VTT_Map_Overland_and_Undertower_Side-View.jpg",
+      "D:\\OneDrive\\Master Vault\\OSE\\Necrotic Gnome\\NG-0022 - The Isle of the Plangent Mage\\NG-0022 - The Isle of the Plangent Mage - VTT_Map_Overland_and_Undertower_Side-View_Gridless.png"
+    ],
+    "BookDescription": [
+      "_An idyllic cove harbours deep secrets. Magic and sound are entwined harmoniously, while dark things lurking in the depths rise to explore new avenues through previously locked portals. Adventurers will be changed as they explore the depths of the Undertower, unlock strange musical puzzles, and reveal the glorious treasures of the Isle of the Plangent Mage._ ",
+      "A fantasy adventure of sonic wonder for characters of 3rd to 5th level.",
+      "64 keyed areas, village description and NPCs, rumour table, loot summary, dungeon background info.",
+      "Keyed in a quick-reference, bullet point format.",
+      "Unlabelled map included for VTT use."
+    ],
+    "TableOfContents": [
+      {
+    "title": "The Isle of the Plangent Mage",
+    "chapters": [
+      {"page": 3, "title": "Introduction"},
+      {"page": 4, "title": "Adventure Overview"},
+      {"page": 6, "title": "Imbrich, Village Beside the Sea"},
+      {"page": 8, "title": "Rumours"},
+      {"page": 9, "title": "Treasure in the Adventure"},
+      {"page": 10, "title": "Random Happenings"},
+      {"page": 12, "title": "Oceanic Mutations"},
+      {"page": 13, "title": "Area Descriptions: Caves on the Coast"},
+      {"page": 15, "title": "Area Descriptions: Darksand Isle"},
+      {"page": 22, "title": "Area Descriptions: The Undertower"}
       ]    
   }
   ]
