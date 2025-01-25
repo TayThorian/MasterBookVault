@@ -1,0 +1,78 @@
+[
+  {
+  "BookName": "MST010102 - City of Mist - Player's Guide",
+  "BookShortName": "City of Mist - Player's Guide",
+  "BookPublisher": "Son of Oak Game Studio",
+  "BookCode": "MST010102",
+  "BookISBN": "",
+  "BookAuthor": "Amít Moshe, Eran Aviram, Christopher Gunning, Bri, Noble A. DraKoln Yaniv Rozenblat",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "City of Mist",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "City of Mist",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\City of Mist\\MST010102 - City of Mist - Player's Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "MST010103 - Master of Ceremonies' Toolkit",
+  "BookShortName": "Master of Ceremonies' Toolkit",
+  "BookPublisher": "Son of Oak Game Studio",
+  "BookCode": "MST010103",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "City of Mist",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "City of Mist",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\City of Mist\\MST010103 - Master of Ceremonies' Toolkit.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

@@ -1,0 +1,40 @@
+[
+  {
+  "BookName": "FLFDIS001 - Death in Space",
+  "BookShortName": "Death in Space",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFDIS001",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Death in Space",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Death in Space",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Death in Space\\FLFDIS001 - Death in Space.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+}
+]

@@ -168,5 +168,43 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "EHP0065E - City Of Red Waters",
+  "BookShortName": "City Of Red Waters",
+  "BookPublisher": "Evil Hat Productions",
+  "BookCode": "EHP0065E",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Forged in the Dark",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Blades in the Dark",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Blades in the Dark",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Forged in the Dark\\EHP0065E - City Of Red Waters.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Forged in the Dark\\EHP0065E - City Of Red Waters Sheets.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

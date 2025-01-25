@@ -1,0 +1,116 @@
+[
+  {
+  "BookName": "MUH042601 - Capharnaum - The Tales Of The Dragon-Marked",
+  "BookShortName": "Capharnaum - The Tales Of The Dragon-Marked",
+  "BookPublisher": "Mindjammer Press",
+  "BookCode": "MUH042601",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Capharnaum",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Capharnaum",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebook",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Capharnaum\\MUH042601 - Capharnaum - The Tales Of The Dragon-Marked.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "MUH042602 - Capharnaum - Example Of Play",
+  "BookShortName": "Capharnaum - Example Of Play",
+  "BookPublisher": "Mindjammer Press",
+  "BookCode": "MUH042602",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Capharnaum",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Capharnaum",
+  "BookType": "Example Of Play",
+  "BookFormat": "",
+  "BookSeries": "Example Of Play",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Capharnaum\\MUH042602 - Capharnaum - Example Of Play.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH042602 - Capharnaum Quickstart - The Tears of Ampharool",
+  "BookShortName": "Capharnaum Quickstart - The Tears of Ampharool",
+  "BookPublisher": "Mindjammer Press",
+  "BookCode": "MUH042602",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Capharnaum",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Capharnaum",
+  "BookType": "Quickstart",
+  "BookFormat": "",
+  "BookSeries": "Quickstart",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Capharnaum\\MUH042602 - Capharnaum Quickstart - The Tears of Ampharool.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

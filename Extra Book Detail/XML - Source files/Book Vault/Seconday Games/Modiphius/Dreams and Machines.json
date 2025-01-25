@@ -13,10 +13,6 @@
     "BookPhysical": "No",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
-    "VaultSML": "Dreams and Machines",
-    "UseTOC": "No",
     "BookSetting": "Dreams and Machines",
     "BookType": "Rulebook",
     "BookFormat": "",
@@ -55,10 +51,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Dreams and Machines",
-  "UseTOC": "No",
   "BookSetting": "Dreams and Machines",
   "BookType": "Rulebook",
   "BookFormat": "",
@@ -66,6 +58,48 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Dreams and Machines\\MUH1140102 - Dreams and Machines Gamesmasters Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH1140104 - GM's Toolkit",
+  "BookShortName": "GM's Toolkit",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH1140104",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "2d20",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dreams and Machines",
+  "BookType": "GM's Toolkit",
+  "BookFormat": "",
+  "BookSeries": "GM's Toolkit",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dreams and Machines\\MUH1140104 - GM's Toolkit\\MUH1140104 - GM's Toolkit - Hexploration.pdf",
+    "D:\\OneDrive\\Master Vault\\Dreams and Machines\\MUH1140104 - GM's Toolkit\\MUH1140104 - GM's Toolkit - Character Sheets.pdf",
+    "D:\\OneDrive\\Master Vault\\Dreams and Machines\\MUH1140104 - GM's Toolkit\\MUH1140104 - GM's Toolkit - GMs Screen.pdf",
+    "D:\\OneDrive\\Master Vault\\Dreams and Machines\\MUH1140104 - GM's Toolkit\\MUH1140104 - GM's Toolkit - Map.pdf",
+    "D:\\OneDrive\\Master Vault\\Dreams and Machines\\MUH1140104 - GM's Toolkit\\MUH1140104 - GM's Toolkit - Scenario Generator.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
