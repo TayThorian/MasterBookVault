@@ -18,6 +18,19 @@
 - GCP-SMP-4514 - Blaster Law
 - GCP-SMP-4515 - Future Law
 - GCP-SMP-4600 - Races & Cultures
+- ICE2400 - Umbar - Haven of the Corsairs
+- ICE2700 - Southern Mirkwood - Haunt of the Necromancer
+- ICE3600 - Dunland and the Southern Misty Mountains
+- ICE3111 - Greater Harad
+- ICE3113 - The Grey Mountains
+- ICE4010 - Mirkwood The Wilds of Rhovanion
+- ICE4020 - Empire of the Witch King
+- ICE3300 - Havens of Gondor
+- ICE3500 - Ents of Fangorn
+- ICE3700 - Lost Realm of Cardolan
+- ICE3900 - Shadow in the South
+- ICE8006 - Treasures of Middle Earth
+- ICE8302 - Minas Ithil
 ## Modiphius
 - MUH0142407 - Star Trek Adventures Second Edition Starter Set
 ## Free League Publishing
