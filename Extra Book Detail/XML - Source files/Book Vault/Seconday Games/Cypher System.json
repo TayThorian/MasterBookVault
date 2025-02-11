@@ -50,7 +50,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Cypher System",
-  "BookEdition": "",
+  "BookEdition": "2nd Edition",
   "BookPhysical": "Yes",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
@@ -94,7 +94,7 @@
   "BookPublished": "2017",
   "BookCover": "",
   "BookRules": "Cypher System",
-  "BookEdition": "",
+  "BookEdition": "2nd Edition",
   "BookPhysical": "Yes",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -407,7 +407,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Cypher System",
-  "BookEdition": "",
+  "BookEdition": "2nd Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -442,7 +442,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Cypher System",
-  "BookEdition": "",
+  "BookEdition": "2nd Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
@@ -477,7 +477,7 @@
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Cypher System",
-  "BookEdition": "",
+  "BookEdition": "2nd Edition",
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
@@ -1797,7 +1797,7 @@
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "The Magnus Archives",
   "BookType": "Ruleboook",
@@ -1806,6 +1806,44 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Cypher System\\MCG382 - The Magnus Archives Player's Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG293 - Tidal Blades",
+  "BookShortName": "Tidal Blades",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG293",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Tidal Blades",
+  "BookFormat": "",
+  "BookSeries": "Tidal Blades",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Cypher System\\MCG293 - Tidal Blades.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

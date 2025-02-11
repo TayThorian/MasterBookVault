@@ -172,8 +172,8 @@
 ]
   } ,
   {
-    "BookName": "ICE1200 - Spell Law [1989]",
-    "BookShortName": "Spell Law",
+    "BookName": "ICE1200 - Spell Law (1989)",
+    "BookShortName": "Spell Law (1989)",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE1200",
     "BookISBN": "1-55806-092-8",
@@ -207,8 +207,8 @@
 ]
   },
   {
-    "BookName": "ICE1200 - Spell Law [1984]",
-    "BookShortName": "Spell Law [1984]",
+    "BookName": "ICE1200 - Spell Law (1984)",
+    "BookShortName": "Spell Law (1984)",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE1200",
     "BookISBN": "0-915795-01-9",
@@ -921,8 +921,8 @@
 ]
   },
   {
-    "BookName": "ICE1100 - Arms Law & Claw Law [1984]",
-    "BookShortName": "Arms Law & Claw Law [1984]",
+    "BookName": "ICE1100 - Arms Law & Claw Law (1984)",
+    "BookShortName": "Arms Law & Claw Law (1984)",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE1100",
     "BookISBN": "",
@@ -956,8 +956,8 @@
 ]
   },
   {
-    "BookName": "ICE1100 - Arms Law & Claw Law [1989]",
-    "BookShortName": "Arms Law & Claw Law [1989]",
+    "BookName": "ICE1100 - Arms Law & Claw Law (1989)",
+    "BookShortName": "Arms Law & Claw Law (1989)",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE1100",
     "BookISBN": "1-55806-090-1",
@@ -1463,8 +1463,8 @@
 ]
   },
   {
-    "BookName": "ICE1300 - Character Law & Campaign Law [1985]",
-    "BookShortName": "Character Law & Campaign Law [1985]",
+    "BookName": "ICE1300 - Character Law & Campaign Law (1985)",
+    "BookShortName": "Character Law & Campaign Law (1985)",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE1300",
     "BookISBN": "0-915795-03-5",
@@ -1498,8 +1498,8 @@
 ]
   },
   {
-    "BookName": "ICE1300 - Character Law & Campaign Law [1989]",
-    "BookShortName": "Character Law & Campaign Law [1989]",
+    "BookName": "ICE1300 - Character Law & Campaign Law (1989)",
+    "BookShortName": "Character Law & Campaign Law (1989)",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE1300",
     "BookISBN": "1-55806-093-6",
@@ -2108,8 +2108,8 @@
 ]
   },
   {
-    "BookName": "ICE5503 - Player Guide",
-    "BookShortName": "Player Guide",
+    "BookName": "ICE5503 - Rolemaster Player Guide",
+    "BookShortName": "Rolemaster Player Guide",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5503",
     "BookISBN": "1-55806-240-8",
@@ -2143,8 +2143,8 @@
 ]
   },
   {
-    "BookName": "ICE5502 - GM Screens and Game Aid",
-    "BookShortName": "GM Screens and Game Aid",
+    "BookName": "ICE5502 - Rolemaster GM Screen",
+    "BookShortName": "Rolemaster GM Screen",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5502",
     "BookISBN": "1-55806-238-6",
@@ -2178,8 +2178,8 @@
 ]
   },
   {
-    "BookName": "ICE5504 - Character Records",
-    "BookShortName": "Character Records",
+    "BookName": "ICE5504 - Rolemaster Character Records",
+    "BookShortName": "Rolemaster Character Records",
     "BookPublisher": "Iron Crown Enterprises",
     "BookCode": "ICE5504",
     "BookISBN": "1-55806-247-5",

@@ -11,7 +11,7 @@
 - ICE1530 - Alchemy Companion
 - ICE1520 - Spell User's Companion
 - ICE5522 - Spell Law
-- GCP-SMP-4500 - Space Master Privateers
+- GCP-SMP-4500 - Spacemaster Privateers
 - GCP-SMP-4511 - Robotics Manual
 - GCP-SMP-4512 - Equipment Manual
 - GCP-SMP-4513 - Vehicle Manual
@@ -54,8 +54,6 @@
 - MCG372 - Cypher System Bestiary
 ## TSR
 - TSR2173 - Monstrous Compendium Annual - Volume Four
-## Wizards of the Coast
-- WTCD37110000 - Monster Manual 2024
 # PDF's Books to Source
 ## Iron Crown Enterprises
 - ICE9300 - Imperial Crisis House Devon in Turmoil

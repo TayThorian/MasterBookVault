@@ -123,10 +123,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
-  "BookWiki": "Yes",
-  "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Weird_Ancestries_(SWW2414)",
-  "VaultSML": "Shadow of the Weird Wizard",
-  "UseTOC": "No",
   "BookSetting": "Shadow of the Weird Wizard",
   "BookType": "Supplement",
   "BookFormat": "",
@@ -147,6 +143,44 @@
     "Facts about society and culture plus optional ancestry paths to help you build out characters that reflect cultural characteristics",
     "Some of these folks you’ve briefly met in Secrets of the Weird Wizard, and others are brand new. Run them as described or customize them to fit your own vision. You’ll find something here to spark every player’s imagination.",
     "For players and Sages alike. Suitable for all levels of play."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SWW2501 - With a Faerie Hand in Hand",
+  "BookShortName": "With a Faerie Hand in Hand",
+  "BookPublisher": "Schwalb Entertainment",
+  "BookCode": "SWW2501",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadow of the Weird Wizard",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadow of the Weird Wizard",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadow of the Weird Wizard\\SWW2501 - With a Faerie Hand in Hand.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
   ],
   "TableOfContents": [
     {

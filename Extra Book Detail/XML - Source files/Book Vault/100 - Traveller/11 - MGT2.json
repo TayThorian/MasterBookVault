@@ -2249,7 +2249,9 @@
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40013 - The Great Rift & Deep Space Exploration - Book 1 - The Grea Rift.pdf",
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40013 - The Great Rift & Deep Space Exploration - Book 2 - Reft.pdf",
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40013 - The Great Rift & Deep Space Exploration - Book 3 - Touchstone And Afawahisa.pdf",
-      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40013 - The Great Rift & Deep Space Exploration - Book 4 - Deep-Space Exploration Handbook.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40013 - The Great Rift & Deep Space Exploration - Book 4 - Deep-Space Exploration Handbook.pdf"
+    ],
+    "BookMD": [
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40013 - Map Of Phobetor System.pdf",
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40013 - Sector Map Of Afawahisa Sector.pdf",
       "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40013 - Sector Map Of Corridor.pdf",
@@ -2259,6 +2261,51 @@
     ],
     "BookDescription": [
       "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "MGP40132 - The Great Rift",
+    "BookShortName": "The Great Rift",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP40132",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "2024",
+    "BookCover": "",
+    "BookRules": "Mongoose Traveller",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Third Imperium",
+    "BookType": "Campaign",
+    "BookFormat": "Slip Case Set",
+    "BookSeries": "The Great Rift",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40132 - The Great Rift - Book 1.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40132 - The Great Rift - Book 2.pdf"      
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40132 - Sector Map Of Touchstone Sector.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40132 - Sector Map Of Afawahisa Sector.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40132 - Sector Map Of Corridor.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40132 - Sector Map Of Reft sector.pdf",
+      "D:\\OneDrive\\Master Vault\\Traveller\\11 - MGT2\\MGP40132 - Sector Map Of Riftspan Reaches.pdf"
+    ],
+    "BookDescription": [
+      "Only the boldest dare venture into the depths of the Great Rift, crossing the abyss of empty space to find unexplored star systems and forgotten wonders. Deep in the Great Rift lie ancient mysteries, strange alien civilisations and human cultures who have not seen offworld contact in centuries. Portside rumours speak of giant creatures capable of interstellar flight, and of starship wrecks belonging to no known peoples.",
+      "From the cold war of the Islands Cluster to the isolation of the Boulderfield, the Great Rift is a place of danger both varied and insidious. A miscalculated jump means a slow death in deep space – yet Travellers are ever willing to take the risk.",
+      "What awaits the intrepid voyager who finds an undiscovered star system or deep space object? What secrets lie within the Great Rift, hidden in the vast emptiness and forgotten by ordinary starfarers? There are great risks here, it is true, but with them comes the chance to be the first people in history to stand on a new world and gaze upon what no-one else has ever seen."
     ],
     "TableOfContents": [
       {

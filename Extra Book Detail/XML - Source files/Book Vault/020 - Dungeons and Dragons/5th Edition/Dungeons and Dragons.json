@@ -801,13 +801,9 @@
     "BookCover": "",
     "BookRules": "Dungeons and Dragons",
     "BookEdition": "5th Edition",
-    "BookPhysical": "To Source",
+    "BookPhysical": "On Order",
     "BookOwnedPDF": "On Order",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
-    "VaultSML": "Dungeons and Dragons",
-    "UseTOC": "No",
     "BookSetting": "Core Books",
     "BookType": "Rulebook",
     "BookFormat": "Hardback",
@@ -820,7 +816,14 @@
       "D:\\Master Vault\\Extra Book Data\\"
     ],
     "BookDescription": [
-      "No description available."
+      "This revised and expanded Monster Manual contains a horde of creatures for fifth edition Dungeons & Dragons. Encounter a monstrous menagerie of familiar favorites like dragons, giants, and mind flayers, plus a host of new monsters like the arch-hag, the blob of annihilation, and the vampire nightbringer. Populate your worlds and adventures with the hundreds of monsters provided, and let their stories, illustrations, and easy-to-use stat blocks fuel your D&D adventures for years to come.",
+      "The biggest D&D monster manual ever, with over 500 total and over 75 brand-new monsters to choose from",
+      "9 terrifying new predators for higher-level play, like the arch-hag and blob of annihilation",
+      "New variations on beloved creatures like the primeval owlbear and vampire familiar",
+      "40+ versatile humanoid stat blocks that give Dungeon Masters greater flexibility when populating their worlds with NPCs",
+      "All creature stat blocks have been redesigned and rebalanced for ease of use and maximum fun",
+      "Breathtaking new artwork for almost every monster, including stunning redesigns of the chromatic and metallic dragons",
+      "Intuitive organization makes finding your favorite monster easier than ever before"
     ],
     "TableOfContents": [
       {
