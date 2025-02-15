@@ -127,24 +127,74 @@
     "BookType": "Rule Supplements",
     "BookFormat": "Paperback",
     "BookSeries": "Dungeon Master's Guide Rules Supplements",
+    "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\ADnD\\Dungeon Master's Guide Rules Supplements\\TSR2151 - DMGR7 - The Complete Book of Necromancers.pdf"
     ],
     "BookMD": [
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 1 - Pregenerated Ability Scores for Necromancer Wizards by Methods (I-VI).md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 2 - Extended Necromancer (Wizard) Advancement, Spells, and Level Improvements.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 3 - Wild Devotions for Necromancers.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 4 - Wild Sciences for Necromancers.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 5 - Special Powers for Necromancers.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 6 - Psionic Progression for Githyanki Necromancers.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 7 - Assorted Physical Deformities.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 8 - Disease Check Modifiers.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 9 - Unholy Compulsions and Curses.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 10 - Forbidden Spells of Black Necromancy.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 11 - Spirit Summoning Modifiers.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 12 - Extended Death Priest Advancement, Spells, and Level Improvements.md"
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 1 - Pregenerated Ability Scores for Necromancer Wizards by Methods (I-VI).md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 2 - Extended Necromancer (Wizard) Advancement, Spells, and Level Improvements.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 3 - Wild Devotions for Necromancers.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 4 - Wild Sciences for Necromancers.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 5 - Special Powers for Necromancers.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 6 - Psionic Progression for Githyanki Necromancers.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 7 - Assorted Physical Deformities.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 8 - Disease Check Modifiers.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 9 - Unholy Compulsions and Curses.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 10 - Forbidden Spells of Black Necromancy.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 11 - Spirit Summoning Modifiers.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2151 - DMGR7 - The Complete Book of Necromancers\\Tables\\Table 12 - Extended Death Priest Advancement, Spells, and Level Improvements.md"
     ],
-    "BookCharacterLevel": "",
+    "BookMDWSpells": [
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\Wizard\\1st Level\\Animate Dead Animals.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\Wizard\\1st Level\\Corpse Link.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\Wizard\\1st Level\\Exterminate.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\Wizard\\1st Level\\Locate Remains.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\Wizard\\1st Level\\Spectral Voice.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\Wizard\\2nd Level\\Embalm.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\Wizard\\2nd Level\\Living Link.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\Wizard\\2nd Level\\Skeletal Hands.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\Wizard\\3rd Level\\Bone Dance.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\Wizard\\3rd Level\\False Face.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\02 - Spell Tome\\Wizard\\3rd Level\\Skulltrap.md"
+    ],
+    "BookMDPSpells": [
+        ""
+    ],
+    "BookMDMonsters": [
+        ""
+    ],
+    "BookMDMagicItems": [
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Oils and Potions\\Deathdust.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Oils and Potions\\Dreambliss.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Oils and Potions\\Ghast Salve.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Oils and Potions\\Ju-ju Wine.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Oils and Potions\\Mindshadow.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Oils and Potions\\Soultravel.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Amulets\\Amulet of Health.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Amulets\\Amulet of Terror.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Miscellaneous Magic\\Arrow of Harm.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Rings\\Bone Ring.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Miscellaneous Magic\\Gloom Candle.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Miscellaneous Magic\\Hades Hand.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Miscellaneous Magic\\Handglyphs of Power.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Miscellaneous Magic\\Horn of the Exalted Dead.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Miscellaneous Magic\\Nether Scarab.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Miscellaneous Magic\\Plague Bolts.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Miscellaneous Magic\\Robes of the Shadow.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Miscellaneous Magic\\Scepter of the Netherworld.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Scrolls\\Scroll of Protection from Fiends.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Miscellaneous Magic\\Shadowblade.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Staves\\Staff of Skulls.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Miscellaneous Magic\\Talisman of Divining.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Tomes\\On Coming Forth By Day.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Tomes\\The Art of Necromancy.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Tomes\\The Book of Shadows.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Tomes\\The Eleven Baneful Gates.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Tomes\\The Fabric of the Human Body.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Tomes\\The Necrophidicon.md",
+        "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\04 - Magic Item Tome\\Tomes\\The Nycoptic Manuscripts.md"        
+    ],
     "BookDescription":[
       "Necromancers like Kazerabet and their priestly counterparts have mastered many dark, forbidden secrets. This tome reveals these mysteries to the Dungeon Master, who will find new NPC kits and volumes of necromancer's minions, familiars, secret societies, poisons, magical items, enchanted tomes, and dozens of new wizard and priest spells, plus the deadly Isle of the Necromancers, a portable setting which can be placed into any existing campaign."
     ],
@@ -1438,7 +1488,7 @@
       "D:\\OneDrive\\Master Vault\\ADnD\\Player's Handbook Rules Supplements\\TSR2115 - PHBR4 - The Complete Wizard's Handbook.pdf"
     ],
     "BookMD": [
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2115 - PHBR4 - The Complete Wizard's Handbook\\Tables\\Table 16 - Chromatic Orb Effects.md"
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2115 - PHBR4 - The Complete Wizard's Handbook\\Tables\\Table 16 - Chromatic Orb Effects.md"
     ],
     "BookDescription": [
       "If you thought all wizards were alike, think again! The masters of magic now have a new guide to creating more interesting and imaginative mages, just when you thought you had them figured out. The Complete Wizard's Handbook will put a whole new twist on wizards, from personality and dress codes to schools of magic to building that dream laboratory.",
@@ -2139,10 +2189,6 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Manual_of_the_Planes_(TSR2022)",
-    "VaultSML": "Advanced Dungeons and Dragons",
-    "UseTOC": "Yes",
     "BookSetting": "Core Books",
     "BookType": "Accessory",
     "BookFormat": "Hardback",
@@ -2592,12 +2638,13 @@
       "D:\\OneDrive\\Master Vault\\ADnD\\Other Hardbacks\\TSR2121 - Tome of Magic.pdf"
     ],
     "BookMD": [
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 1 - Level Variation.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 2 - Wild Surge Results.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 3 - Focused Spell Effects.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 4 - Potions and Oils.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 5 - Rings.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 6 - Rods, Staves and Wands.md"
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 1 - Level Variation.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 2 - Wild Surge Results.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 3 - Focused Spell Effects.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 4 - Potions and Oils.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 5 - Rings.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 6 - Rods, Staves and Wands.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2121 - Tome of Magic\\Tables\\Table 7 - Miscellaneous Magic - Books,  Librams, Manuals, Tomes.md"
         ],
     "BookDescription": [
       "Take your spellcasters to limits they have never reached before! With over 200 new spells and magical items, Tome of Magic stretches the horizons of every wizard and priest in the AD&D 2nd Edition game.",
@@ -2665,7 +2712,7 @@
       "D:\\OneDrive\\Master Vault\\ADnD\\Rulebooks\\TSR2140 - Monstrous Manual Revised (Premium Edition).pdf"
     ],
     "BookMD": [
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\A\\Aarakocra.md"
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\A\\Aarakocra.md"
     ],
     "BookDescription": [
       "Need a monster? Look inside, where more than 300 new pieces of full colour art show what the monsters really look like!",
@@ -2709,8 +2756,8 @@
       "D:\\OneDrive\\Master Vault\\ADnD\\Rulebooks\\TSR2160 - Dungeon Master Guide Revised  (Premium Edition).pdf"
     ],
     "BookMD": [
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2160 - Dungeon Master Guide\\Tables\\Table 49 - Morale Ratings.md",
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2160 - Dungeon Master Guide\\Tables\\Table 50 - Situational Modifiers.md"
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2160 - Dungeon Master Guide\\Tables\\Table 49 - Morale Ratings.md",
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\01 - Book Content\\TSR2160 - Dungeon Master Guide\\Tables\\Table 50 - Situational Modifiers.md"
     ],
     "BookDescription": [
       "Here is the essential manual for the AD&D game Dungeon Master. All the information you need to create and run thrilling, swords-and-sorcery adventures is clearly laid out in the DUNGEON MASTER Guide. Learn all there is to know about magical spells, hundreds of magical devices and treasures, battles, travel, experience awards, and more. This fresh, new format is your guidebook to the challenging world of the AD&D Dungeon Master!"
@@ -3373,7 +3420,7 @@
       "D:\\OneDrive\\Master Vault\\ADnD\\Monstrous Compendium\\TSR2103 - MC2 - Monstrous Compendium - Volume Two - Dividers.pdf"
     ],
     "BookMD": [
-      "D:\\OneDrive\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\A\\Aarakocra.md"
+      "D:\\The Vault\\020 - Advanced Dungeons and Dragons\\03 - Monster Tome\\A\\Aarakocra.md"
     ],
     "BookDescription": [
       "Monstrous Compendium - Volume Two"

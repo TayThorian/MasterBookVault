@@ -1,0 +1,46 @@
+[
+  {
+  "BookName": "CHA3400 - QuestWorlds Core Rulebook",
+  "BookShortName": "QuestWorlds Core Rulebook",
+  "BookPublisher": "Chaosium Inc.",
+  "BookCode": "CHA3400",
+  "BookISBN": "978-1-56882-381-2",
+  "BookAuthor": "Ian Cooper, Robin D. Laws, Greg Stafford",
+  "BookPublished": "2025",
+  "BookCover": "",
+  "BookRules": "QuestWorlds",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "QuestWorlds",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\QuestWorlds\\CHA3400 - QuestWorlds Core Rulebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "QuestWorlds is a self-contained roleplaying system. No other books are required to play.",
+    "Chaosium founder and legendary game designer, Greg Stafford, defined storytelling games like QuestWorlds as follows:",
+    "In a storytelling game, the object is to participate verbally in the cooperative experience of a story. Everyone talks in order to contribute to the ongoing story. Inevitably, some people will talk a lot, some will talk only a little. Hopefully, everyone will talk a lot when their turn comes around and only a little at other times.",
+    "Play is verbal and imaginative. The action takes place in the minds of the players. This is a social game in the most positive sense of the word. Aggressive competition or legalistic arguments over rules are alien to the spirit of a storytelling game.",
+    "QuestWorlds offers a complete, rules-light system focussed on resolving in-play conflicts quickly and easily. It centers around a simple core mechanic and optional rules that allow you to customize your game to suit any setting or genre.",
+    "QuestWorlds contains fast character creation rules that enable you to start playing straight away. The only limit is your imagination—use these rules to create any sort of character, ranging from an every-day accountant to an enigmatic super-human mastermind; the possibilities are endless!",
+    "Dive into extensive rules for designing your own QuestWorld settings and bring the epic adventures of your dreams to the tabletop!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+}
+]

@@ -837,7 +837,7 @@ Public Class Form1
         End If
 
         ' Generate the wiki markup
-        Dim wikiMarkup As String = GenerateWikiMarkup(selectedBook)
+        Dim wikiMarkup As String = GenerateObsidianMarkup(selectedBook)
 
         ' Display the wiki markup in a new form for easy copying
         Dim form As New Form
@@ -866,122 +866,86 @@ Public Class Form1
         Return Nothing
     End Function
 
-    Private Function GenerateWikiMarkup(book As Book) As String
-        Dim sb As New StringBuilder
 
-        sb.AppendLine("{{BookDetails2")
-        sb.AppendLine($"| BookName = {book.BookCode} - {book.BookShortName}")
-        sb.AppendLine($"| BookShortName = {book.BookShortName}")
-        sb.AppendLine($"| BookPublisher = [[{book.BookPublisher}]]")
-        sb.AppendLine($"| BookPublishersml = {book.BookPublisher}")
-        sb.AppendLine($"| BookCode = {book.BookCode}")
-        sb.AppendLine($"| BookISBN = {book.BookISBN}")
-        sb.AppendLine($"| BookAuthor = {book.BookAuthor}")
-        sb.AppendLine($"| BookPublished = {book.BookPublished}")
-        sb.AppendLine($"| BookCover = [[File:{book.BookCode} - {book.BookShortName}.jpg|300px|alt={book.BookShortName}]]")
-        sb.AppendLine($"| BookRules = {book.BookRules}")
-        sb.AppendLine($"| BookEdition = {book.BookEdition}")
-        sb.AppendLine($"| BookPhysical = {book.BookPhysical}")
-        sb.AppendLine($"| BookOwnedPDF = {book.BookOwnedPDF}")
-        sb.AppendLine($"| BookLibrary = {book.BookLibrary}")
-        sb.AppendLine($"| BookSetting = {book.BookSetting}")
-        sb.AppendLine($"| BookType = {book.BookType}")
-        sb.AppendLine($"| BookFormat = {book.BookFormat}")
-        sb.AppendLine($"| BookSeries = {book.BookSeries}")
-        sb.AppendLine($"| BookCharacterLevel = {book.BookCharacterLevel}")
-        sb.AppendLine($"| VaultSML = {book.VaultSML}")
-        sb.AppendLine("}}")
-        sb.AppendLine($"== {book.BookShortName} ==")
 
-        ' Add BookDescription if it exists
+    Private Function GenerateObsidianMarkup(book As Book) As String
+        Dim sb As New StringBuilder()
+
+        ' YAML frontmatter for Dataview
+        sb.AppendLine("---")
+        sb.AppendLine("cssclass: academia")
+        sb.AppendLine($"BookName: {book.BookShortName}")
+        sb.AppendLine($"BookPublisher: {book.BookPublisher}")
+        sb.AppendLine($"BookCode: {book.BookCode}")
+        sb.AppendLine($"BookISBN: {book.BookISBN}")
+        sb.AppendLine("BookAuthor: [" & String.Join(", ", book.BookAuthor) & "]")
+        sb.AppendLine($"BookPublished: {book.BookPublished}")
+        sb.AppendLine($"BookRules: {book.BookRules}")
+        sb.AppendLine($"BookEdition: {book.BookEdition}")
+        sb.AppendLine($"BookPhysical: {book.BookPhysical}")
+        sb.AppendLine($"BookOwnedPDF: {book.BookOwnedPDF}")
+        sb.AppendLine($"BookLibrary: {book.BookLibrary}")
+        sb.AppendLine($"BookSetting: {book.BookSetting}")
+        sb.AppendLine($"BookType: {book.BookType}")
+        sb.AppendLine($"BookFormat: {book.BookFormat}")
+        sb.AppendLine($"BookSeries: {book.BookSeries}")
+        sb.AppendLine($"CharacterLevel: {book.BookCharacterLevel}")
+        sb.AppendLine("BookTemplate: Version 1")
+        sb.AppendLine("---")
+        sb.AppendLine()
+
+        ' Book Title as header
+        sb.AppendLine($"## `=this.BookName`")
+        sb.AppendLine()
+
+        ' Multi-column layout start
+        sb.AppendLine("--- start-multi-column: ExampleRegion1")
+        sb.AppendLine("```column-settings")
+        sb.AppendLine("number of columns: 2")
+        sb.AppendLine("largest column: left")
+        sb.AppendLine("```")
+        sb.AppendLine()
+
+        ' Add book description
         If book.BookDescription IsNot Nothing AndAlso book.BookDescription.Any() Then
-            '   sb.AppendLine("== Book Description ==")
-            sb.AppendLine()
             For Each descriptionLine As String In book.BookDescription
                 sb.AppendLine(descriptionLine)
                 sb.AppendLine() ' Add a blank line after each description line
             Next
-            sb.AppendLine()
         End If
 
-        ' Add Table of Contents if it exists and BookRules is "Advanced Dungeons and Dragons"
-        If book.UseTOC = "Yes" AndAlso book.TableOfContents IsNot Nothing AndAlso book.TableOfContents.Any() Then
-            sb.AppendLine("=== Table of Contents ===")
-            sb.AppendLine("{| class=""wikitable""")
-            sb.AppendLine("! ")
-            sb.AppendLine("! Page No.")
-            sb.AppendLine("|-")
-
-            For Each tocEntry In book.TableOfContents
-                ' Include section title if there are multiple sections
-                If book.TableOfContents.Count > 1 Then
-                    sb.AppendLine($"| colspan=""2"" | '''{tocEntry.Title}'''")
-                    sb.AppendLine("|-")
-                End If
-
-                For Each chapter In tocEntry.Chapters
-                    If chapter.Title = "List of Tables" Then
-                        sb.AppendLine($"| [[{book.BookCode} - {chapter.Title}|{chapter.Title}]]")
-                        sb.AppendLine("|-")
-                    ElseIf Not String.IsNullOrEmpty(chapter.Title) Then
-                        sb.AppendLine($"| [[{book.BookCode} - {chapter.Title}|{chapter.Title}]]")
-                        sb.AppendLine($"| style=""text-align:right;"" | {chapter.Page}")
-                        sb.AppendLine("|-")
-                    End If
-                Next
-            Next
-
-            sb.AppendLine("|}")
-            sb.AppendLine()
-        End If
-
-
-
-        ' Conditionally include the spell and monster sections based on BookRules
-        If book.BookRules = "Advanced Dungeons and Dragons" Then
-            sb.AppendLine("=== Known Wizard Spells ===")
-            sb.AppendLine("{{#ask: [[Has spell2e::Yes]] [[Has source::" & book.BookCode & "]] [[Has dndclass::Wizard]]")
-            sb.AppendLine("| format=list")
-            sb.AppendLine("| headers=none")
-            sb.AppendLine("| link=subject")
-            sb.AppendLine("}}")
-            sb.AppendLine()
-            sb.AppendLine("=== Known Priest Spells ===")
-            sb.AppendLine("{{#ask: [[Has spell2e::Yes]] [[Has source::" & book.BookCode & "]] [[Has dndclass::Priest]]")
-            sb.AppendLine("| format=list")
-            sb.AppendLine("| headers=none")
-            sb.AppendLine("| link=subject")
-            sb.AppendLine("}}")
-            sb.AppendLine()
-            sb.AppendLine("=== Known Monsters ===")
-            sb.AppendLine("{{#ask: [[Has source::~*" & book.BookCode & "*]] [[Has systemtype::ADnD2E Monster]]")
-            sb.AppendLine("| format=list")
-            sb.AppendLine("| headers=none")
-            sb.AppendLine("| link=subject")
-            sb.AppendLine("}}")
-            sb.AppendLine()
-            sb.AppendLine()
-        End If
-
-        sb.AppendLine("<br><br>")
-        sb.AppendLine("<div style=""clear: both; border: 2px solid #0073e6; padding: 20px; background-color: #e6f2ff; margin: 25px 0; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);"">")
-        sb.AppendLine("  <h2 style=""margin-top: 0;"">Books in this Series</h2>")
-        sb.AppendLine("  {{#ask: ")
-        sb.AppendLine("[[Has rules::" & book.BookRules & "]]")
-        sb.AppendLine("[[Has edition::" & book.BookEdition & "]]")
-        sb.AppendLine("[[Has series::" & book.BookSeries & "]]")
-        sb.AppendLine("| format=ul")
-        sb.AppendLine("| headers=none")
-        sb.AppendLine("| link=subject")
-        sb.AppendLine("  }}")
-        sb.AppendLine("</div>")
         sb.AppendLine()
-        sb.AppendLine("__NOTOC__")
-        sb.AppendLine("[[Category:Page Needs Extra Detail]]")
-        sb.AppendLine("[[Category:RPG Book]]")
+        sb.AppendLine("--- end-column ---")
+        sb.AppendLine()
+
+        ' Book Cover Image
+        sb.AppendLine($"![[{book.BookCode} - {book.BookShortName}.jpg|350]]")
+        sb.AppendLine()
+
+        ' Book Details in Dataview Format
+        sb.AppendLine("**Code:** `=this.BookCode`")
+        sb.AppendLine("**Publisher:** `=this.BookPublisher`")
+        sb.AppendLine("**ISBN:** `=this.BookISBN`")
+        sb.AppendLine("**Published:** `=this.BookPublished`")
+        sb.AppendLine("**Author(s):** `=this.BookAuthor`")
+        sb.AppendLine("**Rules:** `=this.BookRules`")
+        sb.AppendLine("**Edition:** `=this.BookEdition`")
+        sb.AppendLine("**Setting:** `=this.BookSetting`")
+        sb.AppendLine("**Type:** `=this.BookType`")
+        sb.AppendLine("**Format:** `=this.BookFormat`")
+        sb.AppendLine("**Series:** `=this.BookSeries`")
+        sb.AppendLine("**Level:** `=this.CharacterLevel`")
+        sb.AppendLine("___")
+        sb.AppendLine("**Physical:** `=this.BookPhysical`")
+        sb.AppendLine("**PDF:** `=this.BookOwnedPDF`")
+        sb.AppendLine()
+        sb.AppendLine("--- end-multi-column")
 
         Return sb.ToString()
     End Function
+
+
+
 
     Private Sub btnOpenWikiPage_Click(sender As Object, e As EventArgs) Handles btnOpenWikiPage.Click
         ' Base URL parts

@@ -135,7 +135,7 @@
   "BookCover": "",
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
-  "BookPhysical": "To Source",
+  "BookPhysical": "On Order",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookWiki": "Yes",
@@ -367,7 +367,7 @@
   "BookCover": "",
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
-  "BookPhysical": "To Source",
+  "BookPhysical": "On Order",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "",
@@ -548,12 +548,9 @@
   "BookCover": "",
   "BookRules": "Cypher System",
   "BookEdition": "2nd Edition",
-  "BookPhysical": "To Source",
-  "BookOwnedPDF": "To Source",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
-  "BookWiki": "Yes",
-  "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Cypher_System_Bestiary_(MCG372)",
-  "VaultSML": "Cypher System",
   "BookSetting": "Core",
   "BookType": "Supplement",
   "BookFormat": "Hardback",
@@ -561,6 +558,9 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Cypher System\\MCG372 - Cypher System Bestiary.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Cypher System\\MCG372 - Cypher System Bestiary - End Sheets.pdf"
   ],
   "BookDescription": [
     "Scores of awe-inspiring creatures in an amazing presentation",
@@ -1850,6 +1850,44 @@
   ],
   "BookDescription": [
     "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MCG371 - Cypher System Starter Set",
+  "BookShortName": "Cypher System Starter Set",
+  "BookPublisher": "Monte Cook Games",
+  "BookCode": "MCG371",
+  "BookISBN": "",
+  "BookAuthor": "Monte Cook, Sean K. Reynolds",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Cypher System",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Core",
+  "BookType": "Starter Set",
+  "BookFormat": "Boxed Set",
+  "BookSeries": "Starter Set",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "Gather your friends, open the box, and begin playing right away! The Cypher System is easy to learn and fun to play—and the Cypher System Starter Set is perfect for getting started. The boxed Starter Set includes the game rules in an easy-to-learn format, along with pregenerated characters and several adventures."
   ],
   "TableOfContents": [
     {
