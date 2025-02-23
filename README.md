@@ -18,9 +18,23 @@
 - GCP-SMP-4514 - Blaster Law
 - GCP-SMP-4515 - Future Law
 - GCP-SMP-4600 - Races & Cultures
+- ICE9003 - Aliens & Artifacts
+- ICE9004 - Spacemaster Companion II
+- ICE9101 - Action on Akaisha Outstation
+- ICE9102 - The Cygnus Conspiracy
+- ICE9400 - Lost Telepaths - The Secret of House Kashmere
+- ICE9500 - Spacemaster Companion
+- ICE9011 - Vessel Compendium 1 - Adventurer
+- ICE9012 - Vessel Compendium 2 - Pursuit Class
+- ICE9013 - Vessel Compendium 3 - Imperial Ships
+- ICE9103 - Tales from Deep Space
+- ICE9107 - Disaster on Adanis III, Rescue on a Contested World
 - ICE2400 - Umbar - Haven of the Corsairs
+- ICE2500 - The Court of Ardor in Southern Middle-earth
+- ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
 - ICE2700 - Southern Mirkwood - Haunt of the Necromancer
 - ICE3600 - Dunland and the Southern Misty Mountains
+- ICE8107 - Woses of the Black Wood
 - ICE3111 - Greater Harad
 - ICE3113 - The Grey Mountains
 - ICE4010 - Mirkwood The Wilds of Rhovanion
@@ -29,8 +43,53 @@
 - ICE3500 - Ents of Fangorn
 - ICE3700 - Lost Realm of Cardolan
 - ICE3900 - Shadow in the South
-- ICE8006 - Treasures of Middle Earth
+- ICE8007 - Angus McBrides Characters of Middle Earth
+- ICE8012 - Warlords Desert
+- ICE8013 - Dark Mage of Rhudaur
+- ICE8014 - Rogues of the Borderlands
+- ICE8015 - Forest of Tears
+- ICE8090 - Brigands of Mirkwood
+- ICE8101 - Haunted Ruins of the Dunlendings
+- ICE8102 - Phantom Of The Northern Marches
+- ICE8103 - Trolls Of The Misty Mountains
+- ICE8104 - Pirates of Pelargir
+- ICE8105 - Gates Of Mordor
+- ICE8106 - Assassins of Dol Amroth
+- ICE8108 - Raiders of Cardolan
+- ICE4001 - Campaign Atlas - Northwestern Middle Eart Map Set
+- ICE4002 - Northwestern Middle-earth Gazeteer
+- ICE8001 - Combat Screen
+- ICE8114 - River Running
+- ICE8201 - Weathertop Tower of Wind
+- ICE8202 - Teeth of Mordor
+- ICE8203 - Calenhad A Beacon of Gondor
+- ICE8204 - Halls of the Elven King
+- ICE8205 - Nazguls Citadel
 - ICE8302 - Minas Ithil
+- ICE2002 - Accessory Pack
+- ICE2004 - Combat Screen & Reference Sheets
+- ICE2005 - Arnor
+- ICE2006 - Valar and Maiar - The Immortal Powers
+- ICE2007 - Minas Tirith
+- ICE2008 - Map of Middle-Earth
+- ICE2009 - Palantir Quest
+- ICE2010 - Treasures of Middle-earth
+- ICE2011 - Moria
+- ICE2012 - Creatures of Middle-earth
+- ICE2013 - Elves
+- ICE2014 - Dol Guldur
+- ICE2015 - The Kinstrife
+- ICE2016 - Lake-Town
+- ICE2017 - The Shire
+- ICE2018 - Angmar
+- ICE2019 - Mirkwood
+- ICE2020 - Southern Gondor - The People
+- ICE2021 - Southern Gondor - The Land
+- ICE2022 - Arnor - The People
+- ICE2023 - Arnor - The Land
+- ICE2025 - The Northern Wastes
+- ICE2026 - Hands of the Healer
+- ICE2024 - Lord of the Rings Poster Map
 ## Modiphius
 - MUH0142407 - Star Trek Adventures Second Edition Starter Set
 ## Free League Publishing
@@ -48,16 +107,37 @@
 - MGP40101 - Traveller Companion Update 2024
 - MGP40123 - Bounty Hunter
 - MGP40128 - Traders and Gunboats
-## Monte Cook Games
-- MCG316 - Path of the Planebreaker
-- MCG329 - Planar Bestiary
-- MCG372 - Cypher System Bestiary
 ## TSR
 - TSR2173 - Monstrous Compendium Annual - Volume Four
 # PDF's Books to Source
 ## Iron Crown Enterprises
+- ICE9002 - Spacemaster Companion I
+- ICE9003 - Aliens & Artifacts
+- ICE9004 - Spacemaster Companion II
+- ICE9100 - Future Law
+- ICE9101 - Action on Akaisha Outstation
+- ICE9102 - The Cygnus Conspiracy
+- ICE9200 - Tech Law
 - ICE9300 - Imperial Crisis House Devon in Turmoil
+- ICE9400 - Lost Telepaths - The Secret of House Kashmere
+- ICE9500 - Spacemaster Companion
 - ICE9600 - Beyond the Core
+- ICE9000 - Spacemaster
+- ICE9010 - Star Strike
+- ICE9011 - Vessel Compendium 1 - Adventurer
+- ICE9012 - Vessel Compendium 2 - Pursuit Class
+- ICE9013 - Vessel Compendium 3 - Imperial Ships
+- ICE9020 - Armored Assault
+- ICE9021 - Armored Reserves
+- ICE9050 - Spacemaster Rulebook
+- ICE9103 - Tales from Deep Space
+- ICE9104 - War on a Distant Moon
+- ICE9105 - The Durandrium Find, Salvation for House Augustus-Hayes
+- ICE9106 - Legacy of the Ancients, Survivors of a Forgotten Colony Ship
+- ICE9107 - Disaster on Adanis III, Rescue on a Contested World
+- ICE9700 - League of Merchants
+- ICE9800 - Raiders from the Frontier
+- ICE9001 - Combat Screen
 - SMD1 - Spacemaster Datanet 01
 - SMD2 - Spacemaster Datanet 02
 - SMD3 - Spacemaster Datanet 03
@@ -97,8 +177,6 @@
 - MGP40102 - Rim Expeditions
 - MGP40123 - Bounty Hunter
 - MGP40128 - Traders and Gunboats
-## Monte Cook Games
-- MCG372 - Cypher System Bestiary
 ## TSR
 - TSR2158 - Monstrous Compendium Annual - Volume Two
 - TSR11383 - Campaign Option - Council of Wyrms

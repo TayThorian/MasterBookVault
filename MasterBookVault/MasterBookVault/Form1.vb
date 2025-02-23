@@ -902,7 +902,7 @@ Public Class Form1
         sb.AppendLine("--- start-multi-column: ExampleRegion1")
         sb.AppendLine("```column-settings")
         sb.AppendLine("number of columns: 2")
-        sb.AppendLine("largest column: left")
+        sb.AppendLine("largest column:")
         sb.AppendLine("```")
         sb.AppendLine()
 
