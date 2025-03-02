@@ -11,25 +11,21 @@
     "BookRules": "2300",
     "BookEdition": "GDW - 1st Edition",
     "BookPhysical": "Yes",
-    "BookOwnedPDF": "No",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
-    "VaultSML": "",
-    "UseTOC": "No",
     "BookSetting": "2300",
     "BookType": "Rulebook",
     "BookFormat": "Boxed Set",
     "BookSeries": "Rulebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1000 - Traveller 2300 - Mankind Discovers The Stars.pdf"
+    ],
+    "BookMD": [
       "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1000 - Traveller 2300 - Mankind Discovers The Stars - Player's Manual.pdf",
       "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1000 - Traveller 2300 - Mankind Discovers The Stars - Naval Architects Manual.pdf",      
       "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1000 - Traveller 2300 - Mankind Discovers The Stars - Referee's Manual.pdf",
       "D:\\OneDrive\\Master Vault\\Traveller\\20 - 2300\\GDW1000 - Traveller 2300 - Mankind Discovers The Stars - Ship Status Sheets.pdf"
-    ],
-    "BookMD": [
-      "D:\\Master Vault\\Extra Book Data\\"
     ],
     "BookDescription": [
       "No description available."

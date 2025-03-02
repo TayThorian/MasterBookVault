@@ -3307,5 +3307,157 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "ICE1400 - Spell Law",
+    "BookShortName": "Spell Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1400",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1981",
+    "BookCover": "",
+    "BookRules": "Rolemaster",
+    "BookEdition": "1 - Rolemaster - 1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Rolemaster\\Rolemaster - 1st Edition\\ICE1400 - Spell Law.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "ICE1500 - Claw Law",
+    "BookShortName": "Claw Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1500",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1980",
+    "BookCover": "",
+    "BookRules": "Rolemaster",
+    "BookEdition": "1 - Rolemaster - 1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Rolemaster\\Rolemaster - 1st Edition\\ICE1500 - Claw Law.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "ICE1600 - Claw Law - Arms Law",
+    "BookShortName": "Claw Law - Arms Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1600",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1982",
+    "BookCover": "",
+    "BookRules": "Rolemaster",
+    "BookEdition": "1 - Rolemaster - 1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Rolemaster\\Rolemaster - 1st Edition\\ICE1600 - Claw Law - Arms Law.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "ICE1900 - Campaign Law",
+    "BookShortName": "Campaign Law",
+    "BookPublisher": "Iron Crown Enterprises",
+    "BookCode": "ICE1900",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Rolemaster",
+    "BookEdition": "1 - Rolemaster - 1st Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Rolemaster",
+    "BookType": "Supplement",
+    "BookFormat": "",
+    "BookSeries": "Supplements",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Rolemaster\\Rolemaster - 1st Edition\\ICE1900 - Campaign Law.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

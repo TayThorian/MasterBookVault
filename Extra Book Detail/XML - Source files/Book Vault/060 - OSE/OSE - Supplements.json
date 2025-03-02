@@ -317,5 +317,43 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "OSR Advanced Options",
+  "BookShortName": "OSR Advanced Options",
+  "BookPublisher": "Third Kingdom Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Todd Leback",
+  "BookPublished": "2025",
+  "BookCover": "",
+  "BookRules": "OSE",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "OSE - Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSE\\OSE - Supplements\\OSR Advanced Options.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

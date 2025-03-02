@@ -636,12 +636,12 @@
 ]
 },
 {
-  "BookName": "AUT2001 - Imperial Imprint -  Revised Rulebook",
-  "BookShortName": "Imperial Imprint -  Revised Rulebook",
+  "BookName": "AUT2001 - Imperial Imprint - Revised Rulebook",
+  "BookShortName": "Imperial Imprint - Revised Rulebook",
   "BookPublisher": "Autarch",
   "BookCode": "AUT2001",
-  "BookISBN": "",
-  "BookAuthor": "",
+  "BookISBN": "978-1-941956-70-0",
+  "BookAuthor": "Alexander Macris",
   "BookPublished": "2024",
   "BookCover": "",
   "BookRules": "Adventurer Conqueror King System",
@@ -649,13 +649,9 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Adventurer Conqueror King System",
-  "UseTOC": "No",
   "BookSetting": "Adventurer Conqueror King System",
   "BookType": "Rulebook",
-  "BookFormat": "",
+  "BookFormat": "Hardback",
   "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
@@ -667,7 +663,20 @@
     "D:\\OneDrive\\Master Vault\\OSR\\Adventurer Conqueror King System\\Imperial Imprint - Character Sheet Form.pdf"
   ],
   "BookDescription": [
-    "No description available."
+    "The Adventurer Conqueror King System™ Imperial Imprint (ACKS II) is the new edition of the acclaimed bestselling fantasy role-playing game. It offers everything you need to enjoy epic fantasy campaigns with a sweeping scope. Whether you want to crawl through dungeons, experiment with alchemy, crossbreed monsters, run a merchant emporium, raise an undead legion, or conquer an empire, ACKS II supports your playstyle. The ACKS II Revised Rulebook features:",
+    "18 character classes, each with 8 quick-start templates featuring pre-selected proficiencies, spells, equipment, and encumbrance that let you start playing in minutes!",
+    "110 proficiencies carefully selected to help you customize your character to your taste without risk of skill traps, min-max chains, or feat taxes.",
+    "378 spells carefully calibrated for long campaigns that ascend from dungeon delves to pitched battles with armies. Magic doesn't have to make a game world implausible or unbalanced anymore!",
+    "Dungeon delving mechanics that let your adventurers interact with the subterranean environment by spelunking, rappelling, traversing, and more.",
+    "Wilderness expedition rules that bring the challenges and dangers of the wild to life, including mechanics for wilderness survival, inclement weather, and more.",
+    "Sea voyage and naval warfare system with mechanics for boarding, grappling, ramming, rowing, sailing, and siege weapons.",
+    "Combat mechanics that play like a realistic simulation of ancient hand-to-hand battle at low levels and a cinematic emulation of the legendary exploits of demigods and heroes at high levels.",
+    "Stronghold and domain rules that allow you to establish domains, rule realms, take vassals, establish a senate, and more.",
+    "Hijinks and hideout rules that let high-level thieves run their own criminal guild or spy network, dispatching their ruffians to racketeer, smuggle, surveil, and steal.",
+    "Magic research mechanics that go beyond spell design and magic item manufacture. Crossbreed monsters, construct golems, practice necromancy, and engage in magical experiments with unforeseeable consequences.",
+    "Mercantile venture system that let you set up a trade routes, build and manage caravans and merchant fleets, start and run businesses, engage in moneylending, and more.",
+    "Mass combat mechanics, with scalable rules for raising and organizing armies ranging from dozens to hundreds of thousands of soldiers, maneuvering them on the strategic theater, maintaining lines of supply, and fighting pitched battles and sieges.",
+    "And much, much more!"
   ],
   "TableOfContents": [
     {
@@ -684,8 +693,8 @@
   "BookShortName": "Imperial Imprint - Judges Journal",
   "BookPublisher": "Autarch",
   "BookCode": "AUT2002",
-  "BookISBN": "",
-  "BookAuthor": "",
+  "BookISBN": "978-1-941956-71-7",
+  "BookAuthor": "Alexander Macris, Matthew Jarmak, Daniel Hicks, Cole Kelland, Scott Ludwig, Eric Maloof, D. McGrane, Matt Price",
   "BookPublished": "2024",
   "BookCover": "",
   "BookRules": "Adventurer Conqueror King System",
@@ -693,10 +702,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Adventurer Conqueror King System",
-  "UseTOC": "No",
   "BookSetting": "Adventurer Conqueror King System",
   "BookType": "Rulebook",
   "BookFormat": "",
@@ -709,7 +714,20 @@
     "D:\\Master Vault\\Extra Book Data\\"
   ],
   "BookDescription": [
-    "No description available."
+    "The Adventurer Conqueror King System™ Imperial Imprint (ACKS II) is the new edition of the acclaimed bestselling fantasy role-playing game. It offers everything you need to run epic fantasy campaigns with a sweeping scope.  The ACKS II Judges Journal includes:",
+    "A setting construction system using the top-down zoom-in methodology, with a comprehensive explanation of how to create a functional sandbox that creates emergent play.",
+    "A realm generation system that allows you to bring your setting into the ACKS II economic and political framework, determining realm types, establishing urban settlement sizes, demarcating territory, and more.",
+    "A settlement generation system with dynamic building tables that let you fill each city block with establishments and occupants on the fly.",
+    "An NPC creation system that lets you quickly generate anything from a 0th level farmer to a 14th level emperor, complete with entourage of vassals and array of magic items.",
+    "An abstract dungeon delving and wilderness exploration system that allows your high-level heroes to dispatch their minions on adventures, with resolution that reveals casualties and treasure.",
+    "A monster encounter system with tables for 18 different terrain types that take into account the extent of civilization and the rarity of monsters.",
+    "A custom class creation system using a system of point allocation and level trade-offs. All of the classes in ACKS II were designed using this system, so anything you create with it will be seamlessly compatible with the existing material.",
+    "A custom race creation system that goes beyond elf, dwarf, and halfling. Whether you want sapient cockroaches, winged lizardmen, sinister serpent people, or just a bunch of weird elves, you can build it.",
+    "A custom spell creation system that takes into account magic type, magic school, effect, duration, targeting, and saving throws. The spells in ACKS II were created with this system, too.",
+    "A custom magic type creation system that allows you to transcend the ordinary limits of arcane and divine magic. Create varieties of shaded magic that can cause horrific corruption, cross the boundaries of cleric and mage, and more.",
+    "More than 150 marvelous magic items to astound, delight, and terrify your adventurers, each with a detailed description and lore behind its creation.",
+    "And much, much more!",
+    "With the ACKS II Judges Journal, you can create a living, breathing world — one in which the rules function as natural laws, and players are endowed with the agency only objective mechanics can provide."
   ],
   "TableOfContents": [
     {
@@ -726,8 +744,8 @@
   "BookShortName": "Imperial Imprint - Monstrous Manual",
   "BookPublisher": "Autarch",
   "BookCode": "AUT2003",
-  "BookISBN": "",
-  "BookAuthor": "",
+  "BookISBN": "978-1-941956-72-4",
+  "BookAuthor": "Alexander Macris",
   "BookPublished": "2024",
   "BookCover": "",
   "BookRules": "Adventurer Conqueror King System",
@@ -735,10 +753,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Adventurer Conqueror King System",
-  "UseTOC": "No",
   "BookSetting": "Adventurer Conqueror King System",
   "BookType": "Supplement",
   "BookFormat": "",
@@ -751,7 +765,16 @@
     "D:\\Master Vault\\Extra Book Data\\"
   ],
   "BookDescription": [
-    "No description available."
+    "The Adventurer Conqueror King System™ Imperial Imprint (ACKS II) is the new edition of the acclaimed bestselling fantasy role-playing game. Built on more than 12 years of playtesting and hundreds of hours of methodical research and development, ACKS II is a three-volume D20 fantasy RPG that that offers everything you need to run epic fantasy campaigns with a sweeping scope. ",
+    "This book, the ACKS II Monstrous Manual, is a 432-page compendium of the creatures found in the worlds of ACKS II. To make the Monstrous Manual a bestiary like no other, we returned to the primordial source material of myth and legend and re-created all the classic fantasy creatures from the ground up. In the Monstrous Manual you get:",
+    "More than 290 monster entries, each featuring a full-page description of the creature's game statistics, combat abilities, habitat, reproduction, and spoils.",
+    "Monster creation rules that reveal how to create your own ACKS II monsters using the same mechanics that the designers used.",
+    "Monster taming and training systems that take into account monster intelligence and attitude, training complexity, and more. ",
+    "Monstrous henchman rules that let you level up your monstrous companions into fearsome sidekicks and allies.",
+    "Monster part mechanics that let adventurers collect furs, ivory, and even magical components from slain monsters. ",
+    "In-character commentary and lore from the sages and explorers of the Auran Empire campaign setting.",
+    "And much, much more!",
+    "Whether you expect your adventurers to fight monsters or breed them, the ACKS II Monstrous Manual is the bestiary of fantasy creatures you need! "
   ],
   "TableOfContents": [
     {
@@ -777,10 +800,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Adventurer Conqueror King System",
-  "UseTOC": "No",
   "BookSetting": "Adventurer Conqueror King System",
   "BookType": "Supplement",
   "BookFormat": "",

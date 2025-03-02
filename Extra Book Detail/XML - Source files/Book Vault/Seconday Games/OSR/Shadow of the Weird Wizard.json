@@ -13,10 +13,6 @@
     "BookPhysical": "No",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Shadow_of_the_Weird_Wizard_(SWW2401)",
-    "VaultSML": "Shadow of the Weird Wizard",
-    "UseTOC": "Yes",
     "BookSetting": "Shadow of the Weird Wizard",
     "BookType": "Rulebook",
     "BookFormat": "",
@@ -69,10 +65,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
-  "BookWiki": "Yes",
-  "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Secrets_of_the_Weird_Wizard_(SWW2402)",
-  "VaultSML": "Shadow of the Weird Wizard",
-  "UseTOC": "No",
   "BookSetting": "Shadow of the Weird Wizard",
   "BookType": "Rulebook",
   "BookFormat": "",
@@ -175,6 +167,196 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadow of the Weird Wizard\\SWW2501 - With a Faerie Hand in Hand.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SWW2416 - Glory to the High One",
+  "BookShortName": "Glory to the High One",
+  "BookPublisher": "Schwalb Entertainment",
+  "BookCode": "SWW2416",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "2024",
+  "BookCover": "",
+  "BookRules": "Shadow of the Weird Wizard",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadow of the Weird Wizard",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadow of the Weird Wizard\\SWW2416 - Glory to the High One.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SWW2403 - One Bad Apple",
+  "BookShortName": "One Bad Apple",
+  "BookPublisher": "Schwalb Entertainment",
+  "BookCode": "SWW2403",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadow of the Weird Wizard",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadow of the Weird Wizard",
+  "BookType": "Novice Quest",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Novice Quests",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadow of the Weird Wizard\\SWW2403 - One Bad Apple.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SWW2404 - Friends in Need",
+  "BookShortName": "Friends in Need",
+  "BookPublisher": "Schwalb Entertainment",
+  "BookCode": "SWW2404",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadow of the Weird Wizard",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadow of the Weird Wizard",
+  "BookType": "Novice Quest",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Novice Quests",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadow of the Weird Wizard\\SWW2404 - Friends in Need.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SWW2413 - The Hand that Beckons",
+  "BookShortName": "The Hand that Beckons",
+  "BookPublisher": "Schwalb Entertainment",
+  "BookCode": "SWW2413",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadow of the Weird Wizard",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadow of the Weird Wizard",
+  "BookType": "Novice Quest",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Novice Quests",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadow of the Weird Wizard\\SWW2413 - The Hand that Beckons.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SWW2504 - With Gnashed Teeth and Howling",
+  "BookShortName": "With Gnashed Teeth and Howling",
+  "BookPublisher": "Schwalb Entertainment",
+  "BookCode": "SWW2504",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadow of the Weird Wizard",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadow of the Weird Wizard",
+  "BookType": "Novice Quest",
+  "BookFormat": "PDF Only",
+  "BookSeries": "Novice Quests",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadow of the Weird Wizard\\SWW2504 - With Gnashed Teeth and Howling.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"
