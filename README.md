@@ -188,7 +188,6 @@
 - TSR9408 - HR6 - Age of Heroes Campaign Sourcebook
 - TSR9469 - HR7 - The Crusades Campaign Sourcebook
 - TSR9558 - The Fall of Myth Drannor
-- TSR8908 - LC1 - Gateway to Raven's Bluff
 - TSR9315 - LC4 - Port of Raven's Bluff
 - TSR9575 - The City of Ravens Bluff
 - TSR9239 - FRC2 - Curse of the Azure Bonds
@@ -197,21 +196,10 @@
 - TSR2106 - Forgotten Realms Adventures
 - TSR9465 - Book of Lairs
 - TSR9474 - The Moonsea
-- TSR1032 - Kara-Tur The Eastern Realms
-- TSR9509 - FOR10 - Warriors and Priests of the Realms
 - TSR1083 - Menzoberranzan
 - TSR1109 - City of Splendors
 - TSR1121 - Spellbound
 - TSR9401 - TM4 - Waterdeep Trailmap
 - TSR9402 - TM5 - Kara-Tur Trailmap
-- TSR9492 - FOR9 - Wizards and Rogues of the Realms
-- TSR9164 - OA1 - Swords of the Daimyo
-- TSR9186 - OA2 - Night of the Seven Swords
-- TSR9195 - OA3 - Ochimo The Spirit Warrior
-- TSR9203 - OA4 - Blood of the Yakuza
-- TSR9242 - OA5 - Mad Monkey vs. the Dragon Claw
-- TSR9257 - OA6 - Ronin Challenge
-- TSR9258 - OA7 - Test of the Samurai
-- TSR9307 - FROA1 - Ninja Wars
 ## Wizards of the Coast
 - TSR11634 - Into the Dragon's Lair
