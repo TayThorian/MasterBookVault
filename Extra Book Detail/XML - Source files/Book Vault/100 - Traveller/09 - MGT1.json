@@ -1449,10 +1449,6 @@
   "BookPhysical": "Yes",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Traveller",
-  "UseTOC": "No",
   "BookSetting": "",
   "BookType": "Supplement",
   "BookFormat": "",
@@ -1460,6 +1456,239 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3822 - Supplement 6 - Military Vehicles.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3804 - Adventure 1 - Beltstrike",
+  "BookShortName": "Adventure 1 - Beltstrike",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3804",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3804 - Adventure 1 - Beltstrike.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3812 - Adventure 2 - Prison Planet",
+  "BookShortName": "Adventure 2 - Prison Planet",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3812",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3812 - Adventure 2 - Prison Planet.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3881 - Adventure 3 - Trillion Credit Squadron",
+  "BookShortName": "Adventure 3 - Trillion Credit Squadron",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3881",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3881 - Adventure 3 - Trillion Credit Squadron.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3887 - Adventure 4 - Into the Unknown",
+  "BookShortName": "Adventure 4 - Into the Unknown",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3887",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3887 - Adventure 4 - Into the Unknown.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3887 - Adventure 4 - Into the Unknown - GCarrier Handout.pdf",
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3887 - Adventure 4 - Into the Unknown - Journal Handout.pdf",
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3887 - Adventure 4 - Into the Unknown - Logbook Handout.pdf",
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3887 - Adventure 4 - Into the Unknown - Scout Branches Handout.pdf",
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3887 - Adventure 4 - Into the Unknown - Spartan Wainright Handout.pdf",
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3887 - Adventure 4 - Into the Unknown - Survey Phases Handout.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3873 - Campaign 1 - Secrets of the Ancients",
+  "BookShortName": "Campaign 1 - Secrets of the Ancients",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3873",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3873 - Campaign 1 - Secrets of the Ancients.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MGP3876 - Aramis - The Traveller Adventure",
+  "BookShortName": "Aramis - The Traveller Adventure",
+  "BookPublisher": "Mongoose Publishing",
+  "BookCode": "MGP3876",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Mongoose Traveller",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Traveller",
+  "BookType": "Adventure",
+  "BookFormat": "",
+  "BookSeries": "Adventures",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Traveller\\09 - MGT1\\MGP3876 - Aramis - The Traveller Adventure.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

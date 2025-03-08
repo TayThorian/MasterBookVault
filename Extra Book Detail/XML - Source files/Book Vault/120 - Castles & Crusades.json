@@ -1,7 +1,7 @@
 [
   {
-  "BookName": "TLG80110 - Players Handbook",
-  "BookShortName": "Players Handbook",
+  "BookName": "TLG80110 - Players Handbook - 10th Printing",
+  "BookShortName": "Players Handbook - 10th Printing",
   "BookPublisher": "Troll Lord Games",
   "BookCode": "TLG80110",
   "BookISBN": "978-1-952379-36-9",
@@ -9,7 +9,7 @@
   "BookPublished": "2024",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "10th Edition",
+  "BookEdition": "1st Edition",
   "BookPhysical": "Yes",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
@@ -36,8 +36,8 @@
 ]
 },
 {
-  "BookName": "TLG80116 - Monsters & Treasure",
-  "BookShortName": "Monsters & Treasure",
+  "BookName": "TLG80116 - Monsters & Treasure - 6th Printing",
+  "BookShortName": "Monsters & Treasure - 6th Printing",
   "BookPublisher": "Troll Lord Games",
   "BookCode": "TLG80116",
   "BookISBN": "978-1-944135-83-6",
@@ -45,7 +45,7 @@
   "BookPublished": "2024",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "6th Edition",
+  "BookEdition": "1st Edition",
   "BookPhysical": "Yes",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
@@ -75,8 +75,8 @@
 ]
 },
 {
-  "BookName": "TLG80155 - Castle Keepers Guide",
-  "BookShortName": "Castle Keepers Guide",
+  "BookName": "TLG80155 - Castle Keepers Guide - 5th Printing",
+  "BookShortName": "Castle Keepers Guide - 5th Printing",
   "BookPublisher": "Troll Lord Games",
   "BookCode": "TLG80155",
   "BookISBN": "978-1-952379-48-2",
@@ -84,7 +84,7 @@
   "BookPublished": "2024",
   "BookCover": "",
   "BookRules": "Siege Engine",
-  "BookEdition": "5th Edition",
+  "BookEdition": "1st Edition",
   "BookPhysical": "Yes",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
@@ -2487,6 +2487,44 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8511 - Castle Keeper's Guide to The Haunted Highlands.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TLG8531 - Engineering Villages",
+  "BookShortName": "Engineering Villages",
+  "BookPublisher": "Troll Lord Games",
+  "BookCode": "TLG8531",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Siege Engine",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Castles & Crusades",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Castles & Crusades\\TLG8531 - Engineering Villages.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

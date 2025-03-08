@@ -116,7 +116,7 @@
   "BookRules": "Advanced Dungeons and Dragons",
   "BookEdition": "2nd Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Dark Sun",
   "BookType": "Campaign Setting",
@@ -125,6 +125,14 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\Dark Sun\\TSR2400 - Dark Sun Campaign Setting.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Dark Sun\\TSR2400 - Dark Sun Campaign Setting - The Wanderer's Journal.pdf",
+    "D:\\OneDrive\\Master Vault\\Dark Sun\\TSR2400 - Dark Sun Campaign Setting - Rules Book.pdf",
+    "D:\\OneDrive\\Master Vault\\Dark Sun\\TSR2400 - Dark Sun Campaign Setting - DM's Book.pdf",
+    "D:\\OneDrive\\Master Vault\\Dark Sun\\TSR2400 - Dark Sun Campaign Setting - Player Aid Cards.pdf",
+    "D:\\OneDrive\\Master Vault\\Dark Sun\\TSR2400 - Dark Sun Campaign Setting - A Little Knowledge.pdf",
+    "D:\\OneDrive\\Master Vault\\Dark Sun\\TSR2400 - Dark Sun Campaign Setting - Cover.pdf"
   ],
   "BookDescription": [
     "Amid the barren wastelands of Athas lie the scattered city-states, each in the grip of its own, tyrannical sorcerer-king. Protecting their own positions with dark magic, they demand absolute obedience. The restless mobs are placated with bread and circuses --the arenas overflow with spectators seeking release from their harsh lives.",
@@ -217,6 +225,158 @@
     "Such is the heady cry that echoes from the darkest warrens to the gleaming chambers of the Council in that ancient city. Now is your chance to savor life released from the oppressive gloom of the sorcerer-kings-but for how long?",
     "New forces threaten the newly-born independence of Tyr, as outside forces march upon the city. King Tithian is determined to resist, but there are others on the Council of Advisors less eager to risk their wealth and lives for the cause of independence. It falls upon you to help mobilize and lead the citizen-army of Tyr on the road to Urik.",
     "Designed for four to six characters of 4th to 7th level, Road to Urik is set in and around Tyr, the campaign base for your Dark Sun game. A stand-alone adventure, Road to Urik can also be played as the sequel to Freedom."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2404 - DSR1 - Slave Tribes",
+  "BookShortName": "DSR1 - Slave Tribes",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2404",
+  "BookISBN": "",
+  "BookAuthor": "Bill Slavicsek",
+  "BookPublished": "1992",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dark Sun",
+  "BookType": "Accessory",
+  "BookFormat": "Softback",
+  "BookSeries": "DSR Series Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Sun\\TSR2404 - DSR1 - Slave Tribes.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2407 - DSR2 - Dune Trader",
+  "BookShortName": "DSR2 - Dune Trader",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2407",
+  "BookISBN": "",
+  "BookAuthor": "Anthony Pryor",
+  "BookPublished": "1992",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dark Sun",
+  "BookType": "Accessory",
+  "BookFormat": "",
+  "BookSeries": "DSR Series Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Sun\\TSR2407 - DSR2 - Dune Trader.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2411 - DSR3 - The Veiled Alliance",
+  "BookShortName": "DSR3 - The Veiled Alliance",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2411",
+  "BookISBN": "",
+  "BookAuthor": "Allen Varney",
+  "BookPublished": "1992",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dark Sun",
+  "BookType": "Accessory",
+  "BookFormat": "",
+  "BookSeries": "DSR Series Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Sun\\TSR2411 - DSR3 - The Veiled Alliance.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "TSR2413 - DSR4 - Valley of Dust and Fire",
+  "BookShortName": "DSR4 - Valley of Dust and Fire",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2413",
+  "BookISBN": "",
+  "BookAuthor": "L. Richard Baker III",
+  "BookPublished": "1992",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dark Sun",
+  "BookType": "Accessory",
+  "BookFormat": "",
+  "BookSeries": "DSR Series Accessories",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Sun\\TSR2413 - DSR4 - Valley of Dust and Fire.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
   ],
   "TableOfContents": [
     {
