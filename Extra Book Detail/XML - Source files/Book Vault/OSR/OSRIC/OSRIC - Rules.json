@@ -1,0 +1,77 @@
+[
+    {
+    "BookName": "OSRIC",
+    "BookShortName": "OSRIC",
+    "BookPublisher": "Usherwood Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "Stuart Marshall",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSRIC",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "OSRIC",
+    "BookType": "Rulebook",
+    "BookFormat": "Hardback",
+    "BookSeries": "OSRIC",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\OSRIC\\Usherwood Publishing\\OSRIC -Rulebook - Hardback.pdf",
+      "D:\\OneDrive\\Master Vault\\OSR\\OSRIC\\Usherwood Publishing\\OSRIC -Rulebook - Softback.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "A complete ruleset in one volume",
+      "<b>The OSRIC rules include:</b>",
+      "413 spells, 285 monsters, 442 magic items",
+      "Official OSRIC character sheet template",
+      "Character creation rules for 7 races and 9 classes",
+      "Complete rules and tables for adventuring, exploration and combat",
+      "Over 100 original, never before published, illustrations"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  },
+  {
+    "BookName": "OSRIC Player's Guide",
+    "BookPublisher": "Seattle Hill Games",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "OSRIC",
+    "BookEdition": "1st Edition",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "OSRIC",
+    "BookType": "Rulebook",
+    "BookFormat": "Paperback",
+    "BookSeries": "OSRIC",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\OSR\\OSRIC\\OSRIC Player's Guide.pdf"
+    ],
+    "BookCharacterLevel": "",
+    "BookDescription": [
+      "No description available."
+    ],"TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+]
+  } 
+]

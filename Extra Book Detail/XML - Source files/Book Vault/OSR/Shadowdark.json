@@ -163,5 +163,43 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "SoloDark",
+  "BookShortName": "SoloDark",
+  "BookPublisher": "The Arcane Library",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Kelsey Dionne",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowdark",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowdark",
+  "BookType": "Solo Rules",
+  "BookFormat": "",
+  "BookSeries": "Solo Rules",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Shadowdark\\SoloDark.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

@@ -387,5 +387,43 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "TSR2405 - MC12 - Monstrous Compendium - Dark Sun Appendix I",
+  "BookShortName": "MC12 - Monstrous Compendium - Dark Sun Appendix I",
+  "BookPublisher": "TSR",
+  "BookCode": "TSR2405",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Advanced Dungeons and Dragons",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dark Sun",
+  "BookType": "Monstrous Compendium",
+  "BookFormat": "",
+  "BookSeries": "Monstrous Compendium",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Sun\\TSR2405 - MC12 - Monstrous Compendium - Dark Sun Appendix I.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

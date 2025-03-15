@@ -13,10 +13,6 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "No",
     "BookLibrary": "Yes",
-    "BookWiki": "",
-    "WikiPage": "",
-    "VaultSML": "Dungeon Crawl Classics",
-    "UseTOC": "No",
     "BookSetting": "Dungeon Crawl Classics",
     "BookType": "Rulebook",
     "BookFormat": "Softback",
@@ -60,10 +56,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Dungeon Crawl Classics",
-  "UseTOC": "No",
   "BookSetting": "Dungeon Crawl Classics",
   "BookType": "Adventure",
   "BookFormat": "",
@@ -102,10 +94,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Dungeon Crawl Classics",
-  "UseTOC": "No",
   "BookSetting": "Dungeon Crawl Classics",
   "BookType": "Adventure",
   "BookFormat": "",
@@ -144,10 +132,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Dungeon Crawl Classics",
-  "UseTOC": "No",
   "BookSetting": "Dungeon Crawl Classics",
   "BookType": "Adventure",
   "BookFormat": "",
@@ -186,10 +170,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Dungeon Crawl Classics",
-  "UseTOC": "No",
   "BookSetting": "Dungeon Crawl Classics",
   "BookType": "Adventure",
   "BookFormat": "",
@@ -228,10 +208,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Dungeon Crawl Classics",
-  "UseTOC": "No",
   "BookSetting": "Dungeon Crawl Classics",
   "BookType": "Adventure",
   "BookFormat": "",
@@ -270,10 +246,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Dungeon Crawl Classics",
-  "UseTOC": "No",
   "BookSetting": "Dungeon Crawl Classics",
   "BookType": "Adventure",
   "BookFormat": "",
@@ -312,10 +284,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Dungeon Crawl Classics",
-  "UseTOC": "No",
   "BookSetting": "Dungeon Crawl Classics",
   "BookType": "Adventure",
   "BookFormat": "",
@@ -354,10 +322,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Dungeon Crawl Classics",
-  "UseTOC": "No",
   "BookSetting": "Dungeon Crawl Classics",
   "BookType": "Adventure",
   "BookFormat": "",
@@ -365,6 +329,44 @@
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\OSR\\Dungeon Crawl Classics\\GMG5116 - DCC 106 - Trials of the Trapmaster's Tomb.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GMG5310 - Dungeon Denizens",
+  "BookShortName": "Dungeon Denizens",
+  "BookPublisher": "Goodman Games",
+  "BookCode": "GMG5310",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dungeon Crawl Classics",
+  "BookEdition": "DCC",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dungeon Crawl Classics",
+  "BookType": "Monster Manual",
+  "BookFormat": "",
+  "BookSeries": "Monster Manual",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dungeon Crawl Classics\\GMG5310 - Dungeon Denizens.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

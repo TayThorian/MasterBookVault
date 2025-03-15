@@ -10,7 +10,7 @@
     "BookCover": "",
     "BookRules": "Warhammer Fantasy",
     "BookEdition": "Warhammer Fantasy - 4th Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "On Order",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Warhammer Fantasy",
@@ -47,18 +47,18 @@
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
-  "BookRules": "Wrath & Glory",
-  "BookEdition": "Wrath & Glory - 1st Edition",
-  "BookPhysical": "",
-  "BookOwnedPDF": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
-  "BookSetting": "Wrath & Glory",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
   "BookType": "Rulebook",
   "BookFormat": "",
   "BookSeries": "Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer - Wrath and Glory\\CB72600 - Wrath & Glory - Core Rules.pdf"
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72600 - Wrath & Glory - Core Rules.pdf"
   ],
   "BookDescription": [
     "No description available."
@@ -676,6 +676,772 @@
     "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer Fantasy\\CB72401 - Warhammer Fantasy Roleplay Starter Set\\CB72401 - Warhammer Fantasy Roleplay Starter Set - Reference Sheet 2.pdf",
     "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer Fantasy\\CB72401 - Warhammer Fantasy Roleplay Starter Set\\CB72401 - Warhammer Fantasy Roleplay Starter Set - Reference Sheet 3.pdf",
     "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer Fantasy\\CB72401 - Warhammer Fantasy Roleplay Starter Set\\CB72401 - Warhammer Fantasy Roleplay Starter Set - Tokens.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72641 - Space Marine 2 - Purge the Swarm",
+  "BookShortName": "Space Marine 2 - Purge the Swarm",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72641",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72641 - Space Marine 2 - Purge the Swarm.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72634 - Wretches of the Writ",
+  "BookShortName": "Wretches of the Writ",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72634",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72634 - Wretches of the Writ.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72602 - Forsaken System Player's Guide",
+  "BookShortName": "Forsaken System Player's Guide",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72602",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72602 - Forsaken System Player's Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72619 - Redacted Records II",
+  "BookShortName": "Redacted Records II",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72619",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72619 - Redacted Records II.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72616 - Redacted Records",
+  "BookShortName": "Redacted Records",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72616",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72616 - Redacted Records.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72622 - Affliction Ascendant",
+  "BookShortName": "Affliction Ascendant",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72622",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72622 - Affliction Ascendant.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72628 - Gutshiva's Kommandos",
+  "BookShortName": "Gutshiva's Kommandos",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72628",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72628 - Gutshiva's Kommandos.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72607 - Church of Steel",
+  "BookShortName": "Church of Steel",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72607",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72607 - Church of Steel.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72621 - Lord of the Spire",
+  "BookShortName": "Lord of the Spire",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72621",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72621 - Lord of the Spire.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72630 - The Null Hypothesis",
+  "BookShortName": "The Null Hypothesis",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72630",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72630 - The Null Hypothesis.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72603 - Rain of Mercy",
+  "BookShortName": "Rain of Mercy",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72603",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72603 - Rain of Mercy.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72627 - Threat Assessment - Xenos",
+  "BookShortName": "Threat Assessment - Xenos",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72627",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72627 - Threat Assessment - Xenos.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72637 - Brass Tax",
+  "BookShortName": "Brass Tax",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72637",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72637 - Brass Tax.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72613 - On The Wings of Valkyries",
+  "BookShortName": "On The Wings of Valkyries",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72613",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72613 - On The Wings of Valkyries.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72631 - Departmento Munitorum - Shotguns",
+  "BookShortName": "Departmento Munitorum - Shotguns",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72631",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72631 - Departmento Munitorum - Shotguns.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72615 - Bloody Gates",
+  "BookShortName": "Bloody Gates",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72615",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72615 - Bloody Gates.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72615 - Bloody Gates - Maps.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72604 - Gamemaster's Screen",
+  "BookShortName": "Gamemaster's Screen",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72604",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72604 - Gamemaster's Screen - Booklet.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72604 - Gamemaster's Screen.pdf",
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72604 - Gamemaster's Screen - Printable.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72605 - Litanies of The Lost",
+  "BookShortName": "Litanies of The Lost",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72605",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72605 - Litanies of The Lost.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72605 - Litanies of The Lost - MAP Ancre Player Safe.pdf",
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72605 - Litanies of The Lost - MAP Dark Bidding Player Safe.pdf",
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72605 - Litanies of The Lost - MAP Monastery Map Player Safe.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "CB72618 - Wrath & Glory - Starter Set",
+  "BookShortName": "Wrath & Glory - Starter Set",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "CB72618",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "Starter Set",
+  "BookFormat": "",
+  "BookSeries": "Starter Set",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72618 - Wrath & Glory - Starter Set - Traitors Hymn.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72618 - Wrath & Glory - Starter Set - Flotilla Guide.pdf",
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72618 - Wrath & Glory - Starter Set - Premade Characters.pdf",
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72618 - Wrath & Glory - Starter Set - Tokens.pdf",
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\CB72618 - Wrath & Glory - Starter Set - Handouts.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Graveyard Shift",
+  "BookShortName": "Graveyard Shift",
+  "BookPublisher": "Cubicle 7 Entertainment Ltd.",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Warhammer 40,000 - Wrath and Glory",
+  "BookEdition": "Warhammer 40,000 - Wrath and Glory - 1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Warhammer 40,000 - Wrath and Glory",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Warhammer\\Warhammer 40,000 - Wrath and Glory\\Graveyard Shift.pdf"
+  ],
+  "BookMD": [
+    ""
   ],
   "BookDescription": [
     "No description available."

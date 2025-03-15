@@ -1,0 +1,116 @@
+[
+  {
+  "BookName": "Tome of World Building",
+  "BookShortName": "Tome of World Building",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "2025",
+  "BookCover": "",
+  "BookRules": "System Agnostic",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "System Agnostic",
+  "BookType": "World Building",
+  "BookFormat": "",
+  "BookSeries": "World Building",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\System Agnostic\\Tome of World Building.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Tome of Adventure Design - Revised",
+  "BookShortName": "Tome of Adventure Design - Revised",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "System Agnostic",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "System Agnostic",
+  "BookType": "World Building",
+  "BookFormat": "",
+  "BookSeries": "World Building",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\System Agnostic\\Tome of Adventure Design - Revised.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "WM039 - Mythic Game Master Emulator - Second Edition",
+  "BookShortName": "Mythic Game Master Emulator - Second Edition",
+  "BookPublisher": "Word Mill Games",
+  "BookCode": "WM039",
+  "BookISBN": "",
+  "BookAuthor": "Tana Pigeon",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "System Agnostic",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "System Agnostic",
+  "BookType": "Game Master Emulator",
+  "BookFormat": "",
+  "BookSeries": "Game Master Emulator",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\System Agnostic\\WM039 - Mythic Game Master Emulator - Second Edition.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

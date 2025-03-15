@@ -1,0 +1,75 @@
+[
+  {
+  "BookName": "Evolved Grottoes and Griffons Teratic Tome",
+  "BookShortName": "Evolved Grottoes and Griffons Teratic Tome",
+  "BookPublisher": "",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSRIC",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "OSRIC",
+  "BookType": "Supplement",
+  "BookFormat": "",
+  "BookSeries": "Supplements",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\OSRIC\\Evolved Grottoes and Griffons Teratic Tome.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Monsters of Myth",
+  "BookShortName": "Monsters of Myth",
+  "BookPublisher": "First Edition Society",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Stuart Marshall and Matt Finch",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSRIC",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "OSRIC",
+  "BookType": "Bestiary",
+  "BookFormat": "",
+  "BookSeries": "Bestiary",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\OSRIC\\Monsters of Myth.pdf"
+  ],
+  "BookCharacterLevel": "",
+  "BookDescription": [
+    "Monsters of Myth is  the premiere collection of OSRIC monsters, and contains more than 150 new creatures for use with First Edition-compatible games.   A companion in the spirit of the monster collections from the 1970s to 1980s, Monsters of Myth will provide game masters with many unique challenges with which to test their players!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}   
+]

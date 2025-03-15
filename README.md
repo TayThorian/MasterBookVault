@@ -1,34 +1,6 @@
 # Master Book Vault
 # Physical Books to Source
 ## Iron Crown Enterprises
-- ICE1510 - Elemental Companion
-- ICE1800 - Rolemaster Companion IV
-- ICE1901 - Rolemaster Companion VI
-- ICE1902 - Rolemaster Companion VII
-- ICE1400 - Creatures & Treasures
-- ICE1410 - Creatures & Treasures II
-- ICE1430 - Creatures & Treasures III
-- ICE1530 - Alchemy Companion
-- ICE1520 - Spell User's Companion
-- ICE5522 - Spell Law
-- GCP-SMP-4500 - Spacemaster Privateers
-- GCP-SMP-4511 - Robotics Manual
-- GCP-SMP-4512 - Equipment Manual
-- GCP-SMP-4513 - Vehicle Manual
-- GCP-SMP-4514 - Blaster Law
-- GCP-SMP-4515 - Future Law
-- GCP-SMP-4600 - Races & Cultures
-- ICE9003 - Aliens & Artifacts
-- ICE9004 - Spacemaster Companion II
-- ICE9101 - Action on Akaisha Outstation
-- ICE9102 - The Cygnus Conspiracy
-- ICE9400 - Lost Telepaths - The Secret of House Kashmere
-- ICE9500 - Spacemaster Companion
-- ICE9011 - Vessel Compendium 1 - Adventurer
-- ICE9012 - Vessel Compendium 2 - Pursuit Class
-- ICE9013 - Vessel Compendium 3 - Imperial Ships
-- ICE9103 - Tales from Deep Space
-- ICE9107 - Disaster on Adanis III, Rescue on a Contested World
 - ICE2400 - Umbar - Haven of the Corsairs
 - ICE2500 - The Court of Ardor in Southern Middle-earth
 - ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
@@ -89,6 +61,34 @@
 - ICE2025 - The Northern Wastes
 - ICE2026 - Hands of the Healer
 - ICE2024 - Lord of the Rings Poster Map
+- ICE1510 - Elemental Companion
+- ICE1800 - Rolemaster Companion IV
+- ICE1901 - Rolemaster Companion VI
+- ICE1902 - Rolemaster Companion VII
+- ICE1400 - Creatures & Treasures
+- ICE1410 - Creatures & Treasures II
+- ICE1430 - Creatures & Treasures III
+- ICE1530 - Alchemy Companion
+- ICE1520 - Spell User's Companion
+- ICE5522 - Spell Law
+- GCP-SMP-4500 - Spacemaster Privateers
+- GCP-SMP-4511 - Robotics Manual
+- GCP-SMP-4512 - Equipment Manual
+- GCP-SMP-4513 - Vehicle Manual
+- GCP-SMP-4514 - Blaster Law
+- GCP-SMP-4515 - Future Law
+- GCP-SMP-4600 - Races & Cultures
+- ICE9003 - Aliens & Artifacts
+- ICE9004 - Spacemaster Companion II
+- ICE9101 - Action on Akaisha Outstation
+- ICE9102 - The Cygnus Conspiracy
+- ICE9400 - Lost Telepaths - The Secret of House Kashmere
+- ICE9500 - Spacemaster Companion
+- ICE9011 - Vessel Compendium 1 - Adventurer
+- ICE9012 - Vessel Compendium 2 - Pursuit Class
+- ICE9013 - Vessel Compendium 3 - Imperial Ships
+- ICE9103 - Tales from Deep Space
+- ICE9107 - Disaster on Adanis III, Rescue on a Contested World
 ## Modiphius
 - MUH0142407 - Star Trek Adventures Second Edition Starter Set
 ## Free League Publishing
@@ -147,6 +147,11 @@
 - SMD8 - Spacemaster Datanet 08
 ## Modiphius
 - MUH0142407 - Star Trek Adventures Second Edition Starter Set
+## Mythmere Games
+- - Tome of World Building
+- - Tome of Adventure Design - Revised
+## Word Mill Games
+- WM039 - Mythic Game Master Emulator - Second Edition
 ## Free League Publishing
 - FLFTOR018 - Realms of the Three Rings
 ## Digest Group Publications
