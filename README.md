@@ -62,7 +62,6 @@
 - ICE8114 - River Running
 - ICE8201 - Weathertop Tower of Wind
 - ICE8202 - Teeth of Mordor
-- ICE8203 - Calenhad A Beacon of Gondor
 - ICE8204 - Halls of the Elven King
 - ICE8205 - Nazguls Citadel
 - ICE8302 - Minas Ithil
