@@ -13,10 +13,6 @@
     "BookPhysical": "No",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Shadow_of_the_Demon_Lord_(SDL1000)",
-    "VaultSML": "Shadow of the Demon Lord",
-    "UseTOC": "No",
     "BookSetting": "Shadow of the Demon Lord",
     "BookType": "Rulebook",
     "BookFormat": "Softcover",
@@ -59,10 +55,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "Yes",
-  "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Demon_Lord%27s_Companion_(SDL1001)",
-  "VaultSML": "Shadow of the Demon Lord",
-  "UseTOC": "No",
   "BookSetting": "Shadow of the Demon Lord",
   "BookType": "Companion",
   "BookFormat": "Softcover",
@@ -111,10 +103,6 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookWiki": "",
-  "WikiPage": "",
-  "VaultSML": "Shadow of the Demon Lord",
-  "UseTOC": "No",
   "BookSetting": "Shadow of the Demon Lord",
   "BookType": "Companion",
   "BookFormat": "Softcover",
@@ -134,6 +122,82 @@
     "* Eight new master paths to reward the most successful characters, allowing players to take on the roles of masters of Soul magic, Invocation magic, sleuths, and other endeavors.",
     "* Four new traditions that expand the role of magic—Invocation, Metal, Order, and Soul—and a full suite of spells for each one.",
     "Demon Lord’s Companion 2 builds on the first book of that name by providing a slew of new options for exploring and fighting in a world in its final days. With it, you can play tree people, mortals who can turn into cats, wield the power of Metal magic, and join others in their war against the darkness. Do you have what it takes to fight the Shadow? With this book, you will!"
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SDL1002 - Victims of the Demon Lord - Starter Guide",
+  "BookShortName": "Victims of the Demon Lord - Starter Guide",
+  "BookPublisher": "Schwalb Entertainment",
+  "BookCode": "SDL1002",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadow of the Demon Lord",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadow of the Demon Lord",
+  "BookType": "Supplement",
+  "BookFormat": "Supplement",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadows Of The Demon Lord\\SDL1002 - Victims of the Demon Lord - Starter Guide.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "SDL1003 - Tales of the Demon Lord",
+  "BookShortName": "Tales of the Demon Lord",
+  "BookPublisher": "Schwalb Entertainment",
+  "BookCode": "SDL1003",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadow of the Demon Lord",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadow of the Demon Lord",
+  "BookType": "Supplement",
+  "BookFormat": "Supplement",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Schwalb Entertainment\\Shadows Of The Demon Lord\\SDL1003 - Tales of the Demon Lord.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
   ],
   "TableOfContents": [
     {

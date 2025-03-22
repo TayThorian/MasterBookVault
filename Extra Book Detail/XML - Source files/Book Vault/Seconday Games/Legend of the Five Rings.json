@@ -48,7 +48,7 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookSetting": "",
+  "BookSetting": "Legend of the Five Rings",
   "BookType": "",
   "BookFormat": "",
   "BookSeries": "",
@@ -83,7 +83,7 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookSetting": "",
+  "BookSetting": "Legend of the Five Rings",
   "BookType": "",
   "BookFormat": "",
   "BookSeries": "",
@@ -118,7 +118,7 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookSetting": "",
+  "BookSetting": "Legend of the Five Rings",
   "BookType": "",
   "BookFormat": "",
   "BookSeries": "",
@@ -153,7 +153,7 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
-  "BookSetting": "",
+  "BookSetting": "Legend of the Five Rings",
   "BookType": "",
   "BookFormat": "",
   "BookSeries": "",
@@ -162,6 +162,82 @@
     "D:\\OneDrive\\Master Vault\\Legend of the Five Rings\\5th Edition\\L5R07 - Mask of the Oni - Booklet.pdf",
     "D:\\OneDrive\\Master Vault\\Legend of the Five Rings\\5th Edition\\L5R07 - Mask of the Oni - Punchboard.pdf",
     "D:\\OneDrive\\Master Vault\\Legend of the Five Rings\\5th Edition\\L5R07 - Mask of the Oni - Poster Map.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "ESL5R17EN - Imperfect Land",
+  "BookShortName": "Imperfect Land",
+  "BookPublisher": "Edge Studio",
+  "BookCode": "ESL5R17EN",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Legend of the Five Rings",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Legend of the Five Rings\\5th Edition\\ESL5R17EN - Imperfect Land.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "ESL5R15EN - Blood of the Lioness",
+  "BookShortName": "Blood of the Lioness",
+  "BookPublisher": "Edge Studio",
+  "BookCode": "ESL5R15EN",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Legend of the Five Rings",
+  "BookType": "",
+  "BookFormat": "",
+  "BookSeries": "",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Legend of the Five Rings\\5th Edition\\ESL5R15EN - Blood of the Lioness.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
   ],
   "BookDescription": [
     "No description available."

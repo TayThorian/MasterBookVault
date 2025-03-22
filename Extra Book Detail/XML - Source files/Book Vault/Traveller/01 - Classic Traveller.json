@@ -3597,5 +3597,43 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "MGP10001 - Book 9 - Pirates",
+    "BookShortName": "Book 9 - Pirates",
+    "BookPublisher": "Mongoose Publishing",
+    "BookCode": "MGP10001",
+    "BookISBN": "978-1-916675-36-0",
+    "BookAuthor": "",
+    "BookPublished": "2025",
+    "BookCover": "",
+    "BookRules": "Traveller",
+    "BookEdition": "Classic Traveller",
+    "BookPhysical": "To Source",
+    "BookOwnedPDF": "To Source",
+    "BookLibrary": "Yes",
+    "BookSetting": "Traveller",
+    "BookType": "Rulebook",
+    "BookFormat": "Paperback",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Traveller\\01 - CT\\Mongoose Publishing\\MGP10001 - Book 9 - Pirates.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

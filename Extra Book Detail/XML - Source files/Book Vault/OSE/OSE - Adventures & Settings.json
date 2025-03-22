@@ -205,10 +205,10 @@
 ]
 },
 {
-  "BookName": "Raiding The Obsidian Keep",
+  "BookName": "JRL2 - Raiding The Obsidian Keep",
   "BookShortName": "Raiding The Obsidian Keep",
   "BookPublisher": "The Merry Mushmen",
-  "BookCode": "",
+  "BookCode": "JRL2",
   "BookISBN": "978-2-487747-01-2",
   "BookAuthor": "Joseph R. Lewis",
   "BookPublished": "",
@@ -247,10 +247,10 @@
 ]
 },
 {
-  "BookName": "The Horrendous Hounds of Hendenburgh",
+  "BookName": "LPOC1 - The Horrendous Hounds of Hendenburgh",
   "BookShortName": "The Horrendous Hounds of Hendenburgh",
   "BookPublisher": "The Merry Mushmen",
-  "BookCode": "",
+  "BookCode": "LPOC1",
   "BookISBN": "978-2-487747-02-9",
   "BookAuthor": "Liam Pádraig Ó Cuilleanáin",
   "BookPublished": "",

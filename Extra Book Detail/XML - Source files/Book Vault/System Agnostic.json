@@ -112,5 +112,43 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "The Nomicon",
+  "BookShortName": "The Nomicon",
+  "BookPublisher": "Mythmere Games",
+  "BookCode": "",
+  "BookISBN": "979-8-88584-027-9",
+  "BookAuthor": "Matt Finch",
+  "BookPublished": "2025",
+  "BookCover": "",
+  "BookRules": "System Agnostic",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "System Agnostic",
+  "BookType": "World Building",
+  "BookFormat": "",
+  "BookSeries": "World Building",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\System Agnostic\\The Nomicon.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

@@ -3321,5 +3321,43 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "CAT28305 - Lethal Harvest",
+  "BookShortName": "Lethal Harvest",
+  "BookPublisher": "Catalyst Games Lab",
+  "BookCode": "CAT28305",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowrun",
+  "BookEdition": "6th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Shadowrun",
+  "BookType": "Plot Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Plot Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Shadowrun\\6th Edition\\CAT28305 - Lethal Harvest.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]
