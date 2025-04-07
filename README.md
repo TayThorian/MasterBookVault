@@ -92,8 +92,10 @@
 ## Modiphius
 - MUH0142407 - Star Trek Adventures Second Edition Starter Set
 ## Free League Publishing
+- FLFSYM037 - The Throne of Thorns II
 - FLFTOR018 - Realms of the Three Rings
 ## Mongoose Publishing
+- MGP10001 - Book 9 - Pirates
 - MGP40073 - The Third Imperium
 - MGP40112 - The Deep and the Dark
 - MGP40095 - Central Supply Catalogue -Update 2023
@@ -114,13 +116,8 @@
 - ICE9003 - Aliens & Artifacts
 - ICE9004 - Spacemaster Companion II
 - ICE9100 - Future Law
-- ICE9101 - Action on Akaisha Outstation
-- ICE9102 - The Cygnus Conspiracy
 - ICE9200 - Tech Law
-- ICE9300 - Imperial Crisis House Devon in Turmoil
-- ICE9400 - Lost Telepaths - The Secret of House Kashmere
 - ICE9500 - Spacemaster Companion
-- ICE9600 - Beyond the Core
 - ICE9000 - Spacemaster
 - ICE9010 - Star Strike
 - ICE9011 - Vessel Compendium 1 - Adventurer
@@ -129,13 +126,6 @@
 - ICE9020 - Armored Assault
 - ICE9021 - Armored Reserves
 - ICE9050 - Spacemaster Rulebook
-- ICE9103 - Tales from Deep Space
-- ICE9104 - War on a Distant Moon
-- ICE9105 - The Durandrium Find, Salvation for House Augustus-Hayes
-- ICE9106 - Legacy of the Ancients, Survivors of a Forgotten Colony Ship
-- ICE9107 - Disaster on Adanis III, Rescue on a Contested World
-- ICE9700 - League of Merchants
-- ICE9800 - Raiders from the Frontier
 - ICE9001 - Combat Screen
 - SMD1 - Spacemaster Datanet 01
 - SMD2 - Spacemaster Datanet 02
@@ -150,10 +140,25 @@
 ## Mythmere Games
 - - Tome of World Building
 - - Tome of Adventure Design - Revised
+- - The Nomicon
 ## Word Mill Games
 - WM039 - Mythic Game Master Emulator - Second Edition
 ## Free League Publishing
+- FLFSYM037 - The Throne of Thorns II
 - FLFTOR018 - Realms of the Three Rings
+## Mongoose Publishing
+- MGP10001 - Book 9 - Pirates
+- MGP40073 - The Third Imperium
+- MGP40112 - The Deep and the Dark
+- MGP40095 - Central Supply Catalogue -Update 2023
+- MGP40075 - The Spinward Extents
+- MGP40085 - Robot Handbook
+- MGP40100 - World Builder’s Handbook
+- MGP40108 - Small Craft Catalogue
+- MGP40105 - Adventure Class Ships
+- MGP40102 - Rim Expeditions
+- MGP40123 - Bounty Hunter
+- MGP40128 - Traders and Gunboats
 ## Digest Group Publications
 - - Manhunt
 ## Steve Jackson Games
@@ -169,18 +174,6 @@
 - SJG6624 - Nobles
 - SJG6631 - Sword Worlds
 - SJG6616 - Modular Cutter
-## Mongoose Publishing
-- MGP40073 - The Third Imperium
-- MGP40112 - The Deep and the Dark
-- MGP40095 - Central Supply Catalogue -Update 2023
-- MGP40075 - The Spinward Extents
-- MGP40085 - Robot Handbook
-- MGP40100 - World Builder’s Handbook
-- MGP40108 - Small Craft Catalogue
-- MGP40105 - Adventure Class Ships
-- MGP40102 - Rim Expeditions
-- MGP40123 - Bounty Hunter
-- MGP40128 - Traders and Gunboats
 ## TSR
 - TSR2158 - Monstrous Compendium Annual - Volume Two
 - TSR11383 - Campaign Option - Council of Wyrms
@@ -191,6 +184,7 @@
 - TSR9425 - HR5 - The Glory of Rome Campaign Sourcebook
 - TSR9408 - HR6 - Age of Heroes Campaign Sourcebook
 - TSR9469 - HR7 - The Crusades Campaign Sourcebook
+- TSR1031 - Forgotten Realms Campaign Set
 - TSR9558 - The Fall of Myth Drannor
 - TSR9315 - LC4 - Port of Raven's Bluff
 - TSR9575 - The City of Ravens Bluff
@@ -200,10 +194,46 @@
 - TSR2106 - Forgotten Realms Adventures
 - TSR9465 - Book of Lairs
 - TSR9474 - The Moonsea
+- TSR1040 - City System
+- TSR1044 - The Great Khan Game
 - TSR1083 - Menzoberranzan
 - TSR1109 - City of Splendors
 - TSR1121 - Spellbound
 - TSR9401 - TM4 - Waterdeep Trailmap
 - TSR9402 - TM5 - Kara-Tur Trailmap
 ## Wizards of the Coast
+- WTC882360000 - Forgotten Realms Campaign Setting
+- WTC176650000 - Unapproachable East
+- WTC398890000 - Menzoberranzan - City of Intrigue
+- WTC398880000 - Ed Greenwood Presents Elminster's Forgotten Realm
+- WTC317290000 - Neverwinter Campaign Setting
+- WTC218287200 - Forgotten Realms Campaign Guide
+- WTC218587200 - Forgotten Realms Player's Guide
+- WTC21764740 - FR1 - Scepter Tower of Spellgard
+- WTC880990000 - Monsters of Faerun
+- WTC882410000 - Magic of Faerun
+- WTC885670000 - Silver Marches
+- WTC885740000 - City of the Spider Queen
+- WTC885780000 - Races of Faerun
+- WTC885810000 - Underdark
+- WTC886430000 - Faiths and Pantheons
+- WTC886700000 - Lords of Darkness
+- WTC886860000 - Forgotten Realms Dungeon Master Screen
+- WTC953660000 - Power of Faerun
 - TSR11634 - Into the Dragon's Lair
+- WTC177380000 - Lost Empires of Faerun
+- WTC178720000 - Champions of Ruin
+- WTC957327200 - Expedition to Undermountain
+- WTC978078694 - Grand History of the Realms
+- WTC179290000 - Shining South
+- WTC953947400 - The Twilight Tomb
+- WTC881620000 - City of Splendors - Waterdeep
+- WTC882927200 - Champions of Valor
+- WTC884467400 - Sons of Gruumsh
+- WTC886470000 - Player's Guide to Faerun
+- WTC953717200 - Mysteries of the Moonsea
+- WTC953797200 - Dragons of Faerun
+- WTC955697200 - Shadowdale - The Scouring of the Land
+- WTC956857200 - Cormyr - The Tearing of the Weave
+- WTC965660000 - Serpent Kingdoms
+- WTC978078694 - Anauroch - The Sundering of the World

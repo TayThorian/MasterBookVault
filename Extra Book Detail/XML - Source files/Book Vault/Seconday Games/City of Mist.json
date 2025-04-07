@@ -16,7 +16,7 @@
   "BookSetting": "City of Mist",
   "BookType": "Rulebook",
   "BookFormat": "",
-  "BookSeries": "Rulebook",
+  "BookSeries": "City of Mist - Rulebook",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\City of Mist\\MST010102 - City of Mist - Player's Guide.pdf"
@@ -54,10 +54,200 @@
   "BookSetting": "City of Mist",
   "BookType": "Rulebook",
   "BookFormat": "",
-  "BookSeries": "Rulebook",
+  "BookSeries": "City of Mist - Rulebooks",
   "BookCharacterLevel": "",
   "BookPDF": [
     "D:\\OneDrive\\Master Vault\\City of Mist\\MST010103 - Master of Ceremonies' Toolkit.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Metro - Otherscape Corebook",
+  "BookShortName": "Metro - Otherscape Corebook",
+  "BookPublisher": "Son of Oak Game Studio",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "City of Mist",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Otherscape",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Otherscape - Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\City of Mist\\Otherscape\\Metro - Otherscape Corebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Tokyo Otherscape",
+  "BookShortName": "Tokyo Otherscape",
+  "BookPublisher": "Son of Oak Game Studio",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "City of Mist",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Otherscape",
+  "BookType": "Setting Book",
+  "BookFormat": "",
+  "BookSeries": "Otherscape - Setting Books",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\City of Mist\\Otherscape\\Tokyo Otherscape.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Otherscape - Action Database",
+  "BookShortName": "Otherscape - Action Database",
+  "BookPublisher": "Son of Oak Game Studio",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "City of Mist",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Otherscape",
+  "BookType": "Action Database",
+  "BookFormat": "",
+  "BookSeries": "Otherscape - Action Databases",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\City of Mist\\Otherscape\\Otherscape - Action Database.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Otherscape - Character Pack",
+  "BookShortName": "Otherscape - Character Pack",
+  "BookPublisher": "Son of Oak Game Studio",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "City of Mist",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Otherscape",
+  "BookType": "Character Pack",
+  "BookFormat": "",
+  "BookSeries": "Otherscape - Character Packs",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\City of Mist\\Otherscape\\Otherscape - Character Pack.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Otherscape - Character Pack 2",
+  "BookShortName": "Otherscape - Character Pack 2",
+  "BookPublisher": "Son of Oak Game Studio",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "City of Mist",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Otherscape",
+  "BookType": "Character Pack",
+  "BookFormat": "",
+  "BookSeries": "Otherscape - Character Packs",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\City of Mist\\Otherscape\\Otherscape - Character Pack 2.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

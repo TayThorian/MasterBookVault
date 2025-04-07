@@ -4422,5 +4422,246 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "TSR1082 - Wrath of the Immortals",
+    "BookShortName": "Wrath of the Immortals",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1082",
+    "BookISBN": "1-56076-412-0",
+    "BookAuthor": "Aaron Allston",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Hardback",
+    "BookSeries": "Challenger Series Rules / Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\Master Vault\\"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\0E - Dungeons and Dragons\\TSR1082 - Wrath of the Immortals.pdf"
+    ],
+    "BookDescription": [
+      "Immortals. Warriors of the outer planes...",
+      "Wrath of the Immortals unveils untold secrets of how to create and role-play Immortals in the World of Mystara and other dimensions. The frightening power of the Immortals, their strange worlds, and their secret alliances are revealed at last, but is it in time?",
+      "And then, the final confrontation! In the name of the Immortals, the two greatest empires of the Known World clash in a brutal war. The world has gone mad… will both disappear from the face of the earth? Wrath of the Immortals' amazing saga takes heroes on a six-year quest, with adventures from the apprentice to the highest level of the game.",
+      "Create new worlds, wondrous artifacts, and entire new races!",
+      "Complete rules to create and role-play PC and NPC immortals.",
+      "Details a host of awe-inspiring Immortals in the Known World, the HOLLOW WORLD, and the outer planes.",
+      "Reveals all on the mysterious Pandius, City of the Immortals.",
+      "Contains a 128-page referee's guide with Immortal-level spells, abilities, character classes, and monsters.",
+      "a 96-page campaign saga covering the entire war.",
+      "two new, updated poster-sized maps of the Known World and the empires.",
+      "The supra-natural beings march, and the world trembles before their colossal power. The world will never be the same!"
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR1094 - Champions of Mystara - Heroes of the Princess Ark",
+    "BookShortName": "Champions of Mystara - Heroes of the Princess Ark",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR1094",
+    "BookISBN": "",
+    "BookAuthor": "Ann Dupuis",
+    "BookPublished": "1993",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Boxed Set",
+    "BookSeries": "Challenger Series Rules / Boxed Sets",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR1094 - Champions of Mystara.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9116 - AC4 - The Book of Marvelous Magic",
+    "BookShortName": "AC4 - The Book of Marvelous Magic",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9116",
+    "BookISBN": "",
+    "BookAuthor": "Frank Mentzer & Gary Gygax",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "Softback",
+    "BookSeries": "AC Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9116 - AC4 - The Book of Marvelous Magic.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "Tell me, teacher?How does one open the cabinet of security? Of what use is the banner of bravery? And what are the limits of the sun deck? My books and scrolls tell me nothing about many of the magical treasures I've heard you mention time and again.",
+      "No, Phaedras, your manuscripts are too general. But since you have inquired, I will allow you to peruse this, one of my most treasured volumes?The Book of Marvelous Magic. It will answer your questions.",
+      "And now you, too, can learn the secrets that were revealed to Phaedras! The Book of Marvelous Magic is the ultimate sourcebook on magical items and their twists and quirks. Over 500 new magical items are described in detail. An appendix describes how these items can be used with the AD&D game."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9037 - AC5 - Player Character Record Sheets",
+    "BookShortName": "AC5 - Player Character Record Sheets",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9037",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1984",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "",
+    "BookSeries": "AC Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9037 - AC5 - Player Character Record Sheets.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9037 - AC6 - Player Character Record Sheets",
+    "BookShortName": "AC6 - Player Character Record Sheets",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9037",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "1985",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Core",
+    "BookType": "Accessory",
+    "BookFormat": "",
+    "BookSeries": "AC Series",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\TSR9037 - AC6 - Player Character Record Sheets.pdf"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "TSR9215 - GAZ04 - The Kingdom of Ierendi",
+    "BookShortName": "GAZ04 - The Kingdom of Ierendi",
+    "BookPublisher": "TSR",
+    "BookCode": "TSR9215",
+    "BookISBN": "0-88038-492-1",
+    "BookAuthor": "Anne Gray McCready",
+    "BookPublished": "1987",
+    "BookCover": "",
+    "BookRules": "Dungeons and Dragons",
+    "BookEdition": "Basic D&D",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "Yes",
+    "BookLibrary": "Yes",
+    "BookSetting": "Mystara",
+    "BookType": "Gazetteer",
+    "BookFormat": "Paperback",
+    "BookSeries": "Gazetteer",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9215 - GAZ04 - The Kingdom of Ierendi.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\DnD\\0E - Dungeons and Dragons\\Gazetteer\\TSR9215 - GAZ04 - The Kingdom of Ierendi - Maps.lnk"
+    ],
+    "BookDescription": [
+      "To some it is a vacationer's paradise. Tropical islands, set in sapphire seas, fringed with shell-covered beaches: the perfect spot to \"get away from it all.\" To others, it is a place to be feared. Pirates' hideaways, disease-ridden jungles, psychotic natives: the perfect spot to avoid.",
+      "The Kingdom of Ierendi comprises ten islands, each with a specific attraction for the adventure-seeking visitor. the native population includes the Makai, the original tribe to inhabit the islands, and various settlers who have chosen these exotic locales as their home (well for some, perhaps \"chosen\" is not quite the proper word...). Your characters want to take a break from precisely that kind of relief."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

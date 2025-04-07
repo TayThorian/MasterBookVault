@@ -1,0 +1,154 @@
+[
+  {
+  "BookName": "Dark Dungeons - 4th Edition",
+  "BookShortName": "Dark Dungeons",
+  "BookPublisher": "Gurbintroll Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Blacky the Blackball",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "4th Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dark Dungeons",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dark Dungeons\\Dark Dungeons - 4th Edition.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "Dark Dungeons",
+  "BookShortName": "Dark Dungeons",
+  "BookPublisher": "Gurbintroll Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Blacky the Blackball",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dark Dungeons",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dark Dungeons\\Dark Dungeons.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Dark Dungeons X",
+  "BookShortName": "Dark Dungeons",
+  "BookPublisher": "Gurbintroll Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Blacky the Blackball",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "3rd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dark Dungeons",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dark Dungeons\\Dark Dungeons X.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Darker Dungeons",
+  "BookShortName": "Darker Dungeons",
+  "BookPublisher": "Gurbintroll Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "Blacky the Blackball",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "OSR",
+  "BookEdition": "2nd Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Dark Dungeons",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\OSR\\Dark Dungeons\\Darker Dungeons.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

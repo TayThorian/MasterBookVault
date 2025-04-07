@@ -4,28 +4,40 @@
     "BookShortName": "Five Leagues from the Borderlands",
     "BookPublisher": "Modiphius Entertainment",
     "BookCode": "MUH098V001",
-    "BookISBN": "",
-    "BookAuthor": "",
-    "BookPublished": "",
+    "BookISBN": "978-1-80281-038-7",
+    "BookAuthor": "Ivan Sorensen",
+    "BookPublished": "2022",
     "BookCover": "",
     "BookRules": "",
     "BookEdition": "3rd Edition",
-    "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookPhysical": "Yes",
+    "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Five Leagues from the Borderlands",
     "BookType": "Rulebook",
-    "BookFormat": "",
+    "BookFormat": "Hardback",
     "BookSeries": "Rulebooks",
     "BookCharacterLevel": "",
     "BookPDF": [
       "D:\\OneDrive\\Master Vault\\Five Leagues from the Borderlands\\MUH098V001 - Five Leagues from the Borderlands.pdf"
     ],
     "BookMD": [
-      "D:\\Master Vault\\Extra Book Data\\"
+      "D:\\OneDrive\\Master Vault\\Five Leagues from the Borderlands\\MUH098V001 - Five Leagues from the Borderlands - Warband Roster Sheet Letter.pdf",
+      "D:\\OneDrive\\Master Vault\\Five Leagues from the Borderlands\\MUH098V001 - Five Leagues from the Borderlands - Campaign Tracking Sheet Letter.pdf"
     ],
     "BookDescription": [
-      "No description available."
+      "The last tomb was crawling with Grave Walkers.",
+      "The Tower held a fey sorcerer; we lost Tring there, blasted by eldritch fire; Artum fell as we ran from the trolls of the deep woods, but for now, the village is safe. Tonight we’ll restock the gear and recruit any travellers from the inn who fancy a share of the coin. Tomorrow we’ll take the woods, then bring down that cursed tower for good. Maybe then we can rest, but there are already worrying rumours from the next valley…",
+      "Five Leagues From the Borderlands is a solo adventure wargame where you take the role of a warband of heroes and adventurers and explore a grim fantasy world full of monsters, enemies, creeping malice and exciting quests.",
+      "The whole campaign is generated procedurally with each battle created from over 100 different enemy types, 17 unique foes and 6 scenario types that can play out in a wide number of ways. As you play, you will explore the game world, discover new locations and take on quests and jobs. Your warband will gain in experience and power and find wondrous loot… or die gruesomely in brutal combat.",
+      "The game is playable with any miniatures you may own and can be played on a 2x2 foot or 3x3 foot gaming table, making it ideal for players who are just getting started on fantasy gaming or for whom this is their first miniatures game. All you need is 6 figures for your heroes and a handful of suitable enemies to fight.",
+      "Inside this 232-page full colour royal-sized (15.6cm x 23.4cm) hardback book, you’ll discover:",
+      "Fast-moving miniatures agnostic rules, developed specifically for solo and co-op adventure wargaming with a procedurally generating campaign world. All you need is a handful of six-sided dice, a pair of percentile dice, some paper and pens.",
+      "Create a warband of hard-as-nails adventurers, whether human or one of 5 other origins, and follow their story! Develop their skills, gain spells and magical weapons!",
+      "Explore and map out the game world, meet people on the road, discover ancient ruins, fearful villages and brooding lairs all the while engaging in desperate battles.",
+      "Undertake epic quests, face off against fearsome monsters and foil the enemies’ plans as they are revealed to you.",
+      "A host of random tables and systems provide unexpected challenges and seeds for new adventures in a living, breathing world that will unfold before your eyes.",
+      "Several options to tailor the game difficulty to your tastes, as well as mechanics to add your own narrative elements."
     ],
     "TableOfContents": [
       {

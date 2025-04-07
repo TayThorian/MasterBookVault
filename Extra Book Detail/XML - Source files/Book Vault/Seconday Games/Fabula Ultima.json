@@ -189,5 +189,43 @@
     ]    
 }
 ]
+},
+{
+  "BookName": "Atlas - Natural Fantasy",
+  "BookShortName": "Atlas - Natural Fantasy",
+  "BookPublisher": "Need Games",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Fabula Ultima",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "BookSetting": "Fabula Ultima",
+  "BookType": "Atlas",
+  "BookFormat": "",
+  "BookSeries": "Atlas",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Fabula Ultima\\Atlas - Natural Fantasy.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
 }
 ]

@@ -1443,5 +1443,44 @@
       ]    
   }
   ]
+  },
+  {
+    "BookName": "CHA23162 -  A Cold Fire Within",
+    "BookShortName": "A Cold Fire Within",
+    "BookPublisher": "Chaosium Inc.",
+    "BookCode": "CHA23162",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Basic Roleplaying System",
+    "BookEdition": "7th Edition",
+    "BookPhysical": "No",
+    "BookOwnedPDF": "No",
+    "BookLibrary": "Yes",
+    "BookSetting": "Call of Cthulhu",
+    "BookType": "Short Campaign",
+    "BookFormat": "",
+    "BookSeries": "Short Campaigns",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23162 -  A Cold Fire Within.pdf"
+    ],
+    "BookMD": [
+      "D:\\OneDrive\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23162 -  A Cold Fire Within - Keeper Reference Booklet.pdf",
+      "D:\\OneDrive\\Master Vault\\Call of Cthulhu\\7th Edition\\CHA23162 -  A Cold Fire Within - NPC Portaits.pdf"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]

@@ -871,7 +871,7 @@ Public Class Form1
     Private Function GenerateObsidianMarkup(book As Book) As String
         Dim sb As New StringBuilder()
 
-        ' YAML frontmatter for Dataview
+        ' YAML frontmatter (Version 2)
         sb.AppendLine("---")
         sb.AppendLine("cssclass: academia")
         sb.AppendLine($"BookName: {book.BookShortName}")
@@ -880,30 +880,46 @@ Public Class Form1
         sb.AppendLine($"BookISBN: {book.BookISBN}")
         sb.AppendLine("BookAuthor: [" & String.Join(", ", book.BookAuthor) & "]")
         sb.AppendLine($"BookPublished: {book.BookPublished}")
-        sb.AppendLine($"BookRules: {book.BookRules}")
-        sb.AppendLine($"BookEdition: {book.BookEdition}")
-        sb.AppendLine($"BookPhysical: {book.BookPhysical}")
-        sb.AppendLine($"BookOwnedPDF: {book.BookOwnedPDF}")
-        sb.AppendLine($"BookLibrary: {book.BookLibrary}")
-        sb.AppendLine($"BookSetting: {book.BookSetting}")
+        sb.AppendLine($"Rules: {book.BookRules}")
+        sb.AppendLine($"Edition: {book.BookEdition}")
+        sb.AppendLine($"Physical: {book.BookPhysical}")
+        sb.AppendLine($"OwnedPDF: {book.BookOwnedPDF}")
+        sb.AppendLine($"Library: {book.BookLibrary}")
+        sb.AppendLine($"Setting: {book.BookSetting}")
         sb.AppendLine($"BookType: {book.BookType}")
         sb.AppendLine($"BookFormat: {book.BookFormat}")
         sb.AppendLine($"BookSeries: {book.BookSeries}")
         sb.AppendLine($"CharacterLevel: {book.BookCharacterLevel}")
-        sb.AppendLine("BookTemplate: Version 1")
+        sb.AppendLine("BookTemplate: Version 2")
         sb.AppendLine("---")
         sb.AppendLine()
 
-        ' Book Title as header
-        sb.AppendLine($"## `=this.BookName`")
+        ' Infobox section
+        sb.AppendLine("> [!infobox]")
+        sb.AppendLine(">  ")
+        sb.AppendLine($"> ![[{book.BookCode} - {book.BookShortName}.jpg|400]]")
+        sb.AppendLine("> ###### Book Info")
+        sb.AppendLine(">  **Detail**  |  **Info** | ")
+        sb.AppendLine("> ---|---|")
+        sb.AppendLine($"> **Code:** | `=this.BookCode` |")
+        sb.AppendLine($"> **Publisher:** |`=this.BookPublisher`")
+        sb.AppendLine($"> **ISBN:** | `=this.BookISBN` |")
+        sb.AppendLine($"> **Published:** | `=this.BookPublished` |")
+        sb.AppendLine($"> **Author(s):** | `=this.BookAuthor` |")
+        sb.AppendLine($"> **Rules:** | `=this.Rules` |")
+        sb.AppendLine($"> **Edition:** | `=this.Edition` |")
+        sb.AppendLine($"> **Owned Physical:** | `=this.Physical`")
+        sb.AppendLine($"> **Owned PDF:** | `=this.OwnedPDF`|")
+        sb.AppendLine($"> **In Library:** | `=this.Library`|")
+        sb.AppendLine($"> **Setting:** | `=this.Setting`|")
+        sb.AppendLine($"> **Type:** |`=this.BookType`|")
+        sb.AppendLine($"> **Format:** |`=this.BookFormat`|")
+        sb.AppendLine($"> **Series:** |`=this.BookSeries`|")
+        sb.AppendLine($"> **Level:** |`=this.CharacterLevel`|")
         sb.AppendLine()
 
-        ' Multi-column layout start
-        sb.AppendLine("--- start-multi-column: ExampleRegion1")
-        sb.AppendLine("```column-settings")
-        sb.AppendLine("number of columns: 2")
-        sb.AppendLine("largest column:")
-        sb.AppendLine("```")
+        ' Book Title
+        sb.AppendLine($"## `=this.BookName`")
         sb.AppendLine()
 
         ' Add book description
@@ -914,35 +930,102 @@ Public Class Form1
             Next
         End If
 
-        sb.AppendLine()
-        sb.AppendLine("--- end-column ---")
+
+        ' Table of Contents block
+        sb.AppendLine("---")
+        sb.AppendLine("### Table of Contents")
         sb.AppendLine()
 
-        ' Book Cover Image
-        sb.AppendLine($"![[{book.BookCode} - {book.BookShortName}.jpg|350]]")
+        If book.TableOfContents IsNot Nothing AndAlso book.TableOfContents.Any() Then
+            For Each tocBook In book.TableOfContents
+                sb.AppendLine($"#### {tocBook.Title}")
+                sb.AppendLine()
+                sb.AppendLine("| Description | Page |")
+                sb.AppendLine("| ----------- |:----:|")
+                For Each chapter In tocBook.Chapters
+                    sb.AppendLine($"| {chapter.Title} | {chapter.Page} |")
+                Next
+                sb.AppendLine()
+            Next
+        Else
+            sb.AppendLine("_No Table of Contents available._")
+            sb.AppendLine()
+        End If
+
+        sb.AppendLine("---")
+
+        ' Books in Series block (BookRules is inserted; rest uses literal `this.` references)
+        sb.AppendLine("> [!info|background-color-yellow nmg no-i alt-line embed] ### Books in this Series")
+        sb.AppendLine("> ```dataview")
+        sb.AppendLine("> LIST WITHOUT ID")
+        sb.AppendLine($"> from ""1000 - The TTRPG Vault/1100 - Game Systems and Settings/{book.BookRules}""")
+        sb.AppendLine("> where BookSeries = this.BookSeries")
+        sb.AppendLine("> where Edition = this.Edition")
+        sb.AppendLine("> sort BookCode asc")
+        sb.AppendLine("> ```")
         sb.AppendLine()
 
-        ' Book Details in Dataview Format
-        sb.AppendLine("**Code:** `=this.BookCode`")
-        sb.AppendLine("**Publisher:** `=this.BookPublisher`")
-        sb.AppendLine("**ISBN:** `=this.BookISBN`")
-        sb.AppendLine("**Published:** `=this.BookPublished`")
-        sb.AppendLine("**Author(s):** `=this.BookAuthor`")
-        sb.AppendLine("**Rules:** `=this.BookRules`")
-        sb.AppendLine("**Edition:** `=this.BookEdition`")
-        sb.AppendLine("**Setting:** `=this.BookSetting`")
-        sb.AppendLine("**Type:** `=this.BookType`")
-        sb.AppendLine("**Format:** `=this.BookFormat`")
-        sb.AppendLine("**Series:** `=this.BookSeries`")
-        sb.AppendLine("**Level:** `=this.CharacterLevel`")
-        sb.AppendLine("___")
-        sb.AppendLine("**Physical:** `=this.BookPhysical`")
-        sb.AppendLine("**PDF:** `=this.BookOwnedPDF`")
+        sb.AppendLine("---")
+
+        If book.BookEdition = "2nd Edition" AndAlso book.BookRules = "Advanced Dungeons and Dragons" Then
+            ' Known Wizard Spells block
+            sb.AppendLine("> [!info|background-color-green nmg no-i alt-line embed] ### Known Wizard Spells")
+            sb.AppendLine("> ```dataview")
+            sb.AppendLine("List join(rows.file.link)")
+            sb.AppendLine("> from ""020 - Advanced Dungeons and Dragons/02 - Spell Tome/Wizard""")
+            sb.AppendLine("> where contains(BookSource, this.BookCode)")
+            sb.AppendLine("> sort SpellName asc")
+            sb.AppendLine("> Group by SpellLevelName")
+            sb.AppendLine("> ```")
+            sb.AppendLine()
+
+            sb.AppendLine("---")
+
+            ' Known Priest Spells block
+            sb.AppendLine("> [!info|background-color-green nmg no-i alt-line embed] ### Known Priest Spells")
+            sb.AppendLine("> ```dataview")
+            sb.AppendLine("List join(rows.file.link)")
+            sb.AppendLine("> from ""020 - Advanced Dungeons and Dragons/02 - Spell Tome/Priest""")
+            sb.AppendLine("> where contains(BookSource, this.BookCode)")
+            sb.AppendLine("> sort SpellName asc")
+            sb.AppendLine("> Group by SpellLevelName")
+            sb.AppendLine("> ```")
+            sb.AppendLine()
+        End If
+
+        sb.AppendLine("---")
+
+        ' Conditionally include Books in Monster Series block for AD&D 2nd Edition
+        If book.BookEdition = "2nd Edition" AndAlso book.BookRules = "Advanced Dungeons and Dragons" Then
+            sb.AppendLine("> [!info|background-color-yellow nmg no-i alt-line embed] ### Monsters in this Series")
+            sb.AppendLine("> ```dataview")
+            sb.AppendLine("> LIST WITHOUT ID")
+            sb.AppendLine("> from ""020 - Advanced Dungeons and Dragons/03 - Monster Tome""")
+            sb.AppendLine("> where BookSeries = this.BookSeries and Edition = this.Edition")
+            sb.AppendLine("> sort BookCode asc")
+            sb.AppendLine("> ```")
+            sb.AppendLine()
+        End If
+
+        ' PDF File Links block
+        sb.AppendLine("---")
         sb.AppendLine()
-        sb.AppendLine("--- end-multi-column")
+        sb.AppendLine("> [!info|background-color-blue nmg no-i alt-line embed] #### PDF File Links")
+
+        If book.BookPDF IsNot Nothing AndAlso book.BookPDF.Any() Then
+            For Each pdfPath As String In book.BookPDF
+                Dim pdfFileName As String = System.IO.Path.GetFileName(pdfPath)
+                sb.AppendLine($"> - [[{pdfFileName}]]")
+            Next
+        Else
+            sb.AppendLine("> - No PDF linked.")
+        End If
+
+        sb.AppendLine()
 
         Return sb.ToString()
     End Function
+
 
 
 

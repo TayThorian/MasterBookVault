@@ -10,7 +10,7 @@
     "BookCover": "",
     "BookRules": "",
     "BookEdition": "1st Edition",
-    "BookPhysical": "No",
+    "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
     "BookSetting": "Five Parsecs From Home",
@@ -47,7 +47,7 @@
   "BookRules": "",
   "BookEdition": "1st Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Five Parsecs From Home",
   "BookType": "Expansion",
@@ -82,7 +82,7 @@
   "BookRules": "",
   "BookEdition": "1st Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Five Parsecs From Home",
   "BookType": "Expansion",
@@ -110,14 +110,14 @@
   "BookShortName": "Five Parsecs From Home - Compendium (includes Bug Hunt)",
   "BookPublisher": "Modiphius",
   "BookCode": "MUH084V032",
-  "BookISBN": "",
+  "BookISBN": "978-1-80281-368-5",
   "BookAuthor": "",
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "",
   "BookEdition": "1st Edition",
-  "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "Five Parsecs From Home",
   "BookType": "Compendium",
@@ -148,6 +148,45 @@
   "BookShortName": "Five Parsecs From Home - Tactics",
   "BookPublisher": "Modiphius",
   "BookCode": "MUH084V041",
+  "BookISBN": "978-1-80281-288-6",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "Yes",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "f",
+  "BookType": "Expansion",
+  "BookFormat": "",
+  "BookSeries": "Expansions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH084V041 - Five Parsecs From Home - Tactics.pdf"
+  ],
+  "BookMD": [
+    "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH084V041 - Five Parsecs From Home - Tactics - Game Markers Sheet.pdf",
+    "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH084V041 - Five Parsecs From Home - Tactics -  Unit Cards Sheet.pdf"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH084V024 - Fixer’s Guidebook",
+  "BookShortName": "Fixer’s Guidebook",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH084V024",
   "BookISBN": "",
   "BookAuthor": "",
   "BookPublished": "",
@@ -155,15 +194,53 @@
   "BookRules": "",
   "BookEdition": "1st Edition",
   "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
-  "BookSetting": "",
+  "BookSetting": "Five Parsecs From Home",
   "BookType": "Expansion",
   "BookFormat": "",
   "BookSeries": "Expansions",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\Fve Parsecs From Home\\MUH084V041 - Five Parsecs From Home - Tactics.pdf"
+    "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH084V024 - Fixer’s Guidebook.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "MUH084V032 - Bug Hunt",
+  "BookShortName": "Bug Hunt",
+  "BookPublisher": "Modiphius",
+  "BookCode": "MUH084V032",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "Yes",
+  "BookLibrary": "Yes",
+  "BookSetting": "Five Parsecs From Home",
+  "BookType": "Expansion",
+  "BookFormat": "",
+  "BookSeries": "Expansions",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Five Parsecs From Home\\MUH084V032 - Bug Hunt.pdf"
   ],
   "BookMD": [
     "D:\\Master Vault\\Extra Book Data\\"

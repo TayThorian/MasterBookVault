@@ -13,9 +13,6 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Ruins_of_Symbaroum_-_Player%27s_Guide_(FLFSYM018)",
-    "VaultSML": "Ruins of Symbaroum",
     "BookSetting": "Ruins of Symbaroum",
     "BookType": "Rulebook",
     "BookFormat": "Hardback",
@@ -62,9 +59,6 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Ruins_of_Symbaroum_-_Gamemaster%27s_Guide_(FLFSYM019)",
-    "VaultSML": "Ruins of Symbaroum",
     "BookSetting": "Ruins of Symbaroum",
     "BookType": "Rulebook",
     "BookFormat": "Hardback",
@@ -109,9 +103,6 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Ruins_of_Symbaroum_-_Bestiary_(FLFSYM020)",
-    "VaultSML": "Ruins of Symbaroum",
     "BookSetting": "Ruins of Symbaroum",
     "BookType": "Rulebook",
     "BookFormat": "Hardback",
@@ -154,9 +145,6 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Ruins_of_Symbaroum_-_Gamemasters_Screen_(FLFSYM023)",
-    "VaultSML": "Ruins of Symbaroum",
     "BookSetting": "Ruins of Symbaroum",
     "BookType": "Gamemasters Screen",
     "BookFormat": "Hardback",
@@ -196,9 +184,6 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Adventure_Compendium_(FLFSYM025)",
-    "VaultSML": "Ruins of Symbaroum",
     "BookSetting": "Ruins of Symbaroum",
     "BookType": "Adventure Compendium",
     "BookFormat": "Hardback",
@@ -242,9 +227,6 @@
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
     "BookLibrary": "Yes",
-    "BookWiki": "Yes",
-    "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/Call_of_the_Dark_(FLFSYM030)",
-    "VaultSML": "Ruins of Symbaroum",
     "BookSetting": "Ruins of Symbaroum",
     "BookType": "Adventure",
     "BookFormat": "Hardback",
@@ -289,9 +271,6 @@
   "BookPhysical": "Yes",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
-  "BookWiki": "Yes",
-  "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/The_World_of_Symbaroum_(FLFSYM034)",
-  "VaultSML": "Ruins of Symbaroum",
   "BookSetting": "Ruins of Symbaroum",
   "BookType": "Supplement",
   "BookFormat": "Hardback",
@@ -333,9 +312,6 @@
   "BookPhysical": "Yes",
   "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
-  "BookWiki": "Yes",
-  "WikiPage": "http://ttrpgvault.co.uk/wiki/index.php/The_Throne_of_Thorns_I_(FLFSYM035)",
-  "VaultSML": "Ruins of Symbaroum",
   "BookSetting": "Ruins of Symbaroum",
   "BookType": "Adventure",
   "BookFormat": "Hardback",
@@ -363,5 +339,45 @@
     ]    
 }
 ]
-} 
+},
+{
+  "BookName": "FLFSYM037 - The Throne of Thorns II",
+  "BookShortName": "The Throne of Thorns II",
+  "BookPublisher": "Free League Publishing",
+  "BookCode": "FLFSYM037",
+  "BookISBN": "",
+  "BookAuthor": "Mattias Johnsson Haake",
+  "BookPublished": "2025",
+  "BookCover": "",
+  "BookRules": "Ruins of Symbaroum",
+  "BookEdition": "5th Edition",
+  "BookPhysical": "To Source",
+  "BookOwnedPDF": "To Source",
+  "BookLibrary": "Yes",
+  "BookSetting": "Ruins of Symbaroum",
+  "BookType": "Adventure",
+  "BookFormat": "Hardback",
+  "BookSeries": "The Throne of Thorns",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\5E - Compatible\\Ruins of Symbaroum\\"
+  ],
+  "BookDescription": [
+    "The capital city of Yndaros descending into chaos amid preparations for a royal wedding; deadly conspiracies that threaten to plunge the Davokar region into all-out war; the most perilous and decisive wilderness expedition in Ambrian history – experience all this and more as the epic quest for the legendary Throne of Thorns continues! This book presents the third and fourth episodes of the acclaimed adventure chronicle The Throne of Thorns, adapted for play with the 5e ruleset and the Ruins of Symbaroum setting books. Expect the stakes to be even higher, the competition fiercer, and the darkness abysmal, for the forest of Davokar is about to awaken.",
+    "The two full-length adventures The Darkest Star and Mother of Darkness, for characters of 10th to 14th level.",
+    "Close to 20 color maps, detailing adventure locations in towns, forests, and ruins.",
+    "Over 60 stat blocks, covering non-player characters of different types – monsters, potential allies or adversaries, as well as famous/notorious individuals.",
+    "A rich collection of handouts to be used during play, offering important information for social challenges and problem-solving.",
+    "Note that this book requires access to the Ruins of Symbaroum Core Setting Books – the Player’s Guide, Gamemaster’s Guide and Bestiary."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}  
 ]

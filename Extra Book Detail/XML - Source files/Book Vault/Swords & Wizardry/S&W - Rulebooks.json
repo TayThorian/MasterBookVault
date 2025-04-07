@@ -220,18 +220,18 @@
 ]
 },
 {
-  "BookName": "Swords and Wizardry Whitebox Rules",
-  "BookShortName": "Swords and Wizardry Whitebox Rules",
-  "BookPublisher": "Mythmere Games",
+  "BookName": "White Box Cyclopedia",
+  "BookShortName": "White Box Cyclopedia",
+  "BookPublisher": "Gallant KNight Games",
   "BookCode": "",
   "BookISBN": "",
-  "BookAuthor": "",
+  "BookAuthor": "James M. Spahn",
   "BookPublished": "",
   "BookCover": "",
   "BookRules": "Swords & Wizardry",
   "BookEdition": "Whitebox Rules",
-  "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "Yes",
   "BookLibrary": "Yes",
   "BookSetting": "",
   "BookType": "",
@@ -239,10 +239,7 @@
   "BookSeries": "Whitebox Rules",
   "BookCharacterLevel": "",
   "BookPDF": [
-    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\White Box - 4th Print.pdf",
-    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\Whitebox - 3rd Print.pdf",
-    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\Whitebox - 2nd Print.pdf",
-    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\Whitebox - 1st Print.pdf"
+    "D:\\OneDrive\\Master Vault\\OSR\\Swords and Wizardry\\White Box\\White Box Cyclopedia.pdf"
   ],
   "BookMD": [
     "D:\\OneDrive\\Master Vault\\Extra Book Data\\"
