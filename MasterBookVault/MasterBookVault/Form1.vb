@@ -880,16 +880,16 @@ Public Class Form1
         sb.AppendLine($"BookISBN: {book.BookISBN}")
         sb.AppendLine("BookAuthor: [" & String.Join(", ", book.BookAuthor) & "]")
         sb.AppendLine($"BookPublished: {book.BookPublished}")
-        sb.AppendLine($"Rules: {book.BookRules}")
-        sb.AppendLine($"Edition: {book.BookEdition}")
-        sb.AppendLine($"Physical: {book.BookPhysical}")
-        sb.AppendLine($"OwnedPDF: {book.BookOwnedPDF}")
-        sb.AppendLine($"Library: {book.BookLibrary}")
-        sb.AppendLine($"Setting: {book.BookSetting}")
+        sb.AppendLine($"BookRules: {book.BookRules}")
+        sb.AppendLine($"BookEdition: {book.BookEdition}")
+        sb.AppendLine($"BookPhysical: {book.BookPhysical}")
+        sb.AppendLine($"BookOwnedPDF: {book.BookOwnedPDF}")
+        sb.AppendLine($"BookLibrary: {book.BookLibrary}")
+        sb.AppendLine($"BookSetting: {book.BookSetting}")
         sb.AppendLine($"BookType: {book.BookType}")
         sb.AppendLine($"BookFormat: {book.BookFormat}")
         sb.AppendLine($"BookSeries: {book.BookSeries}")
-        sb.AppendLine($"CharacterLevel: {book.BookCharacterLevel}")
+        sb.AppendLine($"BookCharacterLevel: {book.BookCharacterLevel}")
         sb.AppendLine("BookTemplate: Version 2")
         sb.AppendLine("---")
         sb.AppendLine()
@@ -906,16 +906,16 @@ Public Class Form1
         sb.AppendLine($"> **ISBN:** | `=this.BookISBN` |")
         sb.AppendLine($"> **Published:** | `=this.BookPublished` |")
         sb.AppendLine($"> **Author(s):** | `=this.BookAuthor` |")
-        sb.AppendLine($"> **Rules:** | `=this.Rules` |")
-        sb.AppendLine($"> **Edition:** | `=this.Edition` |")
-        sb.AppendLine($"> **Owned Physical:** | `=this.Physical`")
-        sb.AppendLine($"> **Owned PDF:** | `=this.OwnedPDF`|")
-        sb.AppendLine($"> **In Library:** | `=this.Library`|")
-        sb.AppendLine($"> **Setting:** | `=this.Setting`|")
+        sb.AppendLine($"> **Rules:** | `=this.BookRules` |")
+        sb.AppendLine($"> **Edition:** | `=this.BookEdition` |")
+        sb.AppendLine($"> **Owned Physical:** | `=this.BookPhysical`")
+        sb.AppendLine($"> **Owned PDF:** | `=this.BookOwnedPDF`|")
+        sb.AppendLine($"> **In Library:** | `=this.BookLibrary`|")
+        sb.AppendLine($"> **Setting:** | `=this.BookSetting`|")
         sb.AppendLine($"> **Type:** |`=this.BookType`|")
         sb.AppendLine($"> **Format:** |`=this.BookFormat`|")
         sb.AppendLine($"> **Series:** |`=this.BookSeries`|")
-        sb.AppendLine($"> **Level:** |`=this.CharacterLevel`|")
+        sb.AppendLine($"> **Level:** |`=this.BookCharacterLevel`|")
         sb.AppendLine()
 
         ' Book Title
@@ -960,15 +960,16 @@ Public Class Form1
         sb.AppendLine("> LIST WITHOUT ID")
         sb.AppendLine($"> from ""1000 - The TTRPG Vault/1100 - Game Systems and Settings/{book.BookRules}""")
         sb.AppendLine("> where BookSeries = this.BookSeries")
-        sb.AppendLine("> where Edition = this.Edition")
+        sb.AppendLine("> where BookEdition = this.BookEdition")
         sb.AppendLine("> sort BookCode asc")
         sb.AppendLine("> ```")
         sb.AppendLine()
 
-        sb.AppendLine("---")
+
 
         If book.BookEdition = "2nd Edition" AndAlso book.BookRules = "Advanced Dungeons and Dragons" Then
             ' Known Wizard Spells block
+            sb.AppendLine("---")
             sb.AppendLine("> [!info|background-color-green nmg no-i alt-line embed] ### Known Wizard Spells")
             sb.AppendLine("> ```dataview")
             sb.AppendLine("List join(rows.file.link)")
@@ -978,10 +979,11 @@ Public Class Form1
             sb.AppendLine("> Group by SpellLevelName")
             sb.AppendLine("> ```")
             sb.AppendLine()
+        End If
 
-            sb.AppendLine("---")
-
+        If book.BookEdition = "2nd Edition" AndAlso book.BookRules = "Advanced Dungeons and Dragons" Then
             ' Known Priest Spells block
+            sb.AppendLine("---")
             sb.AppendLine("> [!info|background-color-green nmg no-i alt-line embed] ### Known Priest Spells")
             sb.AppendLine("> ```dataview")
             sb.AppendLine("List join(rows.file.link)")
@@ -993,10 +995,12 @@ Public Class Form1
             sb.AppendLine()
         End If
 
-        sb.AppendLine("---")
+
 
         ' Conditionally include Books in Monster Series block for AD&D 2nd Edition
+
         If book.BookEdition = "2nd Edition" AndAlso book.BookRules = "Advanced Dungeons and Dragons" Then
+            sb.AppendLine("---")
             sb.AppendLine("> [!info|background-color-yellow nmg no-i alt-line embed] ### Monsters in this Series")
             sb.AppendLine("> ```dataview")
             sb.AppendLine("> LIST WITHOUT ID")
@@ -1014,8 +1018,10 @@ Public Class Form1
 
         If book.BookPDF IsNot Nothing AndAlso book.BookPDF.Any() Then
             For Each pdfPath As String In book.BookPDF
-                Dim pdfFileName As String = System.IO.Path.GetFileName(pdfPath)
-                sb.AppendLine($"> - [[{pdfFileName}]]")
+                ' Convert Windows path to file URI (escape spaces)
+                Dim fileUri As String = "file:///" & pdfPath.Replace("\", "/").Replace(" ", "%20")
+                Dim displayName As String = System.IO.Path.GetFileName(pdfPath)
+                sb.AppendLine($"> - [{displayName}]({fileUri})")
             Next
         Else
             sb.AppendLine("> - No PDF linked.")

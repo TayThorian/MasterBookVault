@@ -70,7 +70,22 @@
 - ICE1430 - Creatures & Treasures III
 - ICE1530 - Alchemy Companion
 - ICE1520 - Spell User's Companion
+- ICE5503 - Rolemaster Player Guide
+- ICE5502 - Rolemaster GM Screen
+- ICE5504 - Rolemaster Character Records
+- ICE5600 - Arcane Companion
 - ICE5522 - Spell Law
+- ICE5523 - Talent Law
+- ICE5524 - Weapon Law - Firearms
+- ICE5541 - Races & Cultures - Underground Races
+- ICE5601 - Treasure Companion
+- ICE5702 - Shades of Darkness
+- ICE5701 - Pulp Adventures
+- ICE5700 - Black Ops
+- ICE5603 - Essence Companion
+- ICE5602 - Martial Arts Companion
+- ICE5604 - Channeling Companion
+- ICE5605 - Mentalism Companion
 - GCP-SMP-4500 - Spacemaster Privateers
 - GCP-SMP-4511 - Robotics Manual
 - GCP-SMP-4512 - Equipment Manual
