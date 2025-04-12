@@ -1,0 +1,509 @@
+[
+  {
+  "BookName": "GDW2100 - Dark Conspiracy",
+  "BookShortName": "Dark Conspiracy",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2100",
+  "BookISBN": "",
+  "BookAuthor": "Lester W. Smith",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Rulebook",
+  "BookFormat": "",
+  "BookSeries": "Rulebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2100 - Dark Conspiracy.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+      ]    
+  }
+]
+},
+{
+  "BookName": "GDW2101 - New Orleans",
+  "BookShortName": "New Orleans",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2101",
+  "BookISBN": "",
+  "BookAuthor": "Eric W. Haddock",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Scenario",
+  "BookFormat": "",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2101 - New Orleans.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW2102 - Darktek",
+  "BookShortName": "Darktek",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2102",
+  "BookISBN": "",
+  "BookAuthor": "Charles E. Gannon",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2102 - Darktek.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW2103 - Heart of Darkness",
+  "BookShortName": "Heart of Darkness",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2103",
+  "BookISBN": "",
+  "BookAuthor": "Creede and Sharleen Lambard",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Scenario",
+  "BookFormat": "",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2103 - Heart of Darkness.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW2104 - Hellsgate",
+  "BookShortName": "Hellsgate",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2104",
+  "BookISBN": "",
+  "BookAuthor": "Julia Martin",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Scenario",
+  "BookFormat": "",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2104 - Hellsgate.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW2106 - Dark Races Volume 1 Compendium",
+  "BookShortName": "Dark Races Volume 1 Compendium",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2106",
+  "BookISBN": "",
+  "BookAuthor": "Lester W. Smith",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2106 - Dark Races Volume 1 Compendium.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW2107 - Among the Dead",
+  "BookShortName": "Among the Dead",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2107",
+  "BookISBN": "",
+  "BookAuthor": "Mark Galeotti and Loren K. Wiseman",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Scenario",
+  "BookFormat": "",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2107 - Among the Dead.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW2108 - Empathic",
+  "BookShortName": "Empathic",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2108",
+  "BookISBN": "",
+  "BookAuthor": "Craig Sheeley, Geoff Pass and Alex Bund, Winston Hamilton, Lester Smith",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2108 - Empathic.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW2109 - Proto-Dimensions Sourcebook Volume 1",
+  "BookShortName": "Proto-Dimensions Sourcebook Volume 1",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2109",
+  "BookISBN": "",
+  "BookAuthor": "Tred Kocot and Loren Wiseman",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Sourcebook",
+  "BookFormat": "",
+  "BookSeries": "Sourcebooks",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2109 - Proto-Dimensions Sourcebook Volume 1.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW2111 - Ice Daemon",
+  "BookShortName": "Ice Daemon",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2111",
+  "BookISBN": "",
+  "BookAuthor": "Creede and Sharleen Lambard",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Scenario",
+  "BookFormat": "",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2111 - Ice Daemon.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW2114 - Nightsider",
+  "BookShortName": "Nightsider",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2114",
+  "BookISBN": "",
+  "BookAuthor": "Michael C. LaBossiere",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Scenario",
+  "BookFormat": "",
+  "BookSeries": "Scenarios",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2114 - Nightsider.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW2112 - PC Booster Kit",
+  "BookShortName": "PC Booster Kit",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2112",
+  "BookISBN": "",
+  "BookAuthor": "Lester W. Smith",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Game Tool",
+  "BookFormat": "",
+  "BookSeries": "Game Tools",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2112 - PC Booster Kit.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "GDW2115 - Minion Nation The Minion Hunter Expansion Kit",
+  "BookShortName": "Minion Nation The Minion Hunter Expansion Kit",
+  "BookPublisher": "Game Designers Workshop",
+  "BookCode": "GDW2115",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Dark Conspiracy",
+  "BookEdition": "1st Edition",
+  "BookPhysical": "No",
+  "BookOwnedPDF": "No",
+  "BookLibrary": "Yes",
+  "VaultSML": "Dark Conspiracy",
+  "BookSetting": "Dark Conspiracy",
+  "BookType": "Expansion Set",
+  "BookFormat": "",
+  "BookSeries": "Expansion Sets",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\Dark Conspiracy\\1st Edition\\GDW2115 - Minion Nation The Minion Hunter Expansion Kit.pdf"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+}
+]

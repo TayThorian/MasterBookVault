@@ -890,7 +890,7 @@ Public Class Form1
         sb.AppendLine($"BookFormat: {book.BookFormat}")
         sb.AppendLine($"BookSeries: {book.BookSeries}")
         sb.AppendLine($"BookCharacterLevel: {book.BookCharacterLevel}")
-        sb.AppendLine("BookTemplate: Version 2")
+        sb.AppendLine("BookTemplate: Version 3")
         sb.AppendLine("---")
         sb.AppendLine()
 
@@ -958,7 +958,7 @@ Public Class Form1
         sb.AppendLine("> [!info|background-color-yellow nmg no-i alt-line embed] ### Books in this Series")
         sb.AppendLine("> ```dataview")
         sb.AppendLine("> LIST WITHOUT ID")
-        sb.AppendLine($"> from ""1000 - The TTRPG Vault/1100 - Game Systems and Settings/{book.BookRules}""")
+        sb.AppendLine($"> from ""1000 - The TTRPG Vault/1100 - Game Systems and Settings/{book.VaultSML}""")
         sb.AppendLine("> where BookSeries = this.BookSeries")
         sb.AppendLine("> where BookEdition = this.BookEdition")
         sb.AppendLine("> sort BookCode asc")

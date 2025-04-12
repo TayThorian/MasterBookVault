@@ -13,6 +13,7 @@
   "BookPhysical": "No",
   "BookOwnedPDF": "No",
   "BookLibrary": "Yes",
+  "VaultSML": "QuestWorlds",
   "BookSetting": "QuestWorlds",
   "BookType": "Rulebook",
   "BookFormat": "",
