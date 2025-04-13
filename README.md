@@ -5,7 +5,6 @@
 - ICE2500 - The Court of Ardor in Southern Middle-earth
 - ICE2000 - Middle-earth Role Playing, 2nd Edition - Collector's Edition
 - ICE2700 - Southern Mirkwood - Haunt of the Necromancer
-- ICE3600 - Dunland and the Southern Misty Mountains
 - ICE8107 - Woses of the Black Wood
 - ICE3111 - Greater Harad
 - ICE3113 - The Grey Mountains
@@ -14,7 +13,6 @@
 - ICE3300 - Havens of Gondor
 - ICE3500 - Ents of Fangorn
 - ICE3700 - Lost Realm of Cardolan
-- ICE3900 - Shadow in the South
 - ICE8007 - Angus McBrides Characters of Middle Earth
 - ICE8012 - Warlords Desert
 - ICE8013 - Dark Mage of Rhudaur
@@ -24,7 +22,6 @@
 - ICE8101 - Haunted Ruins of the Dunlendings
 - ICE8102 - Phantom Of The Northern Marches
 - ICE8103 - Trolls Of The Misty Mountains
-- ICE8104 - Pirates of Pelargir
 - ICE8105 - Gates Of Mordor
 - ICE8106 - Assassins of Dol Amroth
 - ICE8108 - Raiders of Cardolan
@@ -74,7 +71,6 @@
 - ICE5502 - Rolemaster GM Screen
 - ICE5504 - Rolemaster Character Records
 - ICE5600 - Arcane Companion
-- ICE5522 - Spell Law
 - ICE5523 - Talent Law
 - ICE5524 - Weapon Law - Firearms
 - ICE5541 - Races & Cultures - Underground Races
@@ -95,15 +91,11 @@
 - GCP-SMP-4600 - Races & Cultures
 - ICE9003 - Aliens & Artifacts
 - ICE9004 - Spacemaster Companion II
-- ICE9101 - Action on Akaisha Outstation
-- ICE9102 - The Cygnus Conspiracy
-- ICE9400 - Lost Telepaths - The Secret of House Kashmere
 - ICE9500 - Spacemaster Companion
 - ICE9011 - Vessel Compendium 1 - Adventurer
 - ICE9012 - Vessel Compendium 2 - Pursuit Class
 - ICE9013 - Vessel Compendium 3 - Imperial Ships
 - ICE9103 - Tales from Deep Space
-- ICE9107 - Disaster on Adanis III, Rescue on a Contested World
 ## Modiphius
 - MUH0142407 - Star Trek Adventures Second Edition Starter Set
 ## Free League Publishing
