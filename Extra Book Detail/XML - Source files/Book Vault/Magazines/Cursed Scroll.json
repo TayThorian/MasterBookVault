@@ -10,10 +10,11 @@
     "BookCover": "",
     "BookRules": "Shadowdark",
     "BookEdition": "Cursed Scroll",
-    "BookPhysical": "No",
-    "BookOwnedPDF": "No",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "On Order",
     "BookLibrary": "Yes",
-    "BookSetting": "",
+    "VaultSML": "Shadowdark",
+    "BookSetting": "Shadowdark",
     "BookType": "Zine",
     "BookFormat": "",
     "BookSeries": "Issue 001 - Issue 010",
@@ -49,10 +50,11 @@
   "BookCover": "",
   "BookRules": "Shadowdark",
   "BookEdition": "Cursed Scroll",
-  "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "On Order",
   "BookLibrary": "Yes",
-  "BookSetting": "",
+  "VaultSML": "Shadowdark",
+  "BookSetting": "Shadowdark",
   "BookType": "Zine",
   "BookFormat": "",
   "BookSeries": "Issue 001 - Issue 010",
@@ -89,10 +91,11 @@
   "BookCover": "",
   "BookRules": "Shadowdark",
   "BookEdition": "Cursed Scroll",
-  "BookPhysical": "No",
-  "BookOwnedPDF": "No",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "On Order",
   "BookLibrary": "Yes",
-  "BookSetting": "",
+  "VaultSML": "Shadowdark",
+  "BookSetting": "Shadowdark",
   "BookType": "Zine",
   "BookFormat": "",
   "BookSeries": "Issue 001 - Issue 010",
@@ -104,6 +107,123 @@
     "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 3 - Extras\\Isles of Andrik Hex Map.jpg",
     "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 3 - Extras\\Sea Caves and Tombs (68 wide x 44 high).png",
     "D:\\OneDrive\\Master Vault\\Magazines\\Cursed Scroll\\Issue 001 - Issue 010\\Cursed Scroll 3 - Extras\\Wortwick Monastery 28 high x 28 wide.jpg"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Cursed Scroll 4 - River of Night",
+  "BookShortName": "Cursed Scroll 4 - River of Night",
+  "BookPublisher": "The Arcane Library",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowdark",
+  "BookEdition": "Cursed Scroll",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "On Order",
+  "BookLibrary": "Yes",
+  "VaultSML": "Shadowdark",
+  "BookSetting": "Shadowdark",
+  "BookType": "Zine",
+  "BookFormat": "",
+  "BookSeries": "Issue 001 - Issue 010",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Cursed Scroll 5 - Dwellers in the Deep",
+  "BookShortName": "Cursed Scroll 5 - Dwellers in the Deep",
+  "BookPublisher": "The Arcane Library",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowdark",
+  "BookEdition": "Cursed Scroll",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "On Order",
+  "BookLibrary": "Yes",
+  "VaultSML": "Shadowdark",
+  "BookSetting": "Shadowdark",
+  "BookType": "Zine",
+  "BookFormat": "",
+  "BookSeries": "Issue 001 - Issue 010",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
+  ],
+  "BookDescription": [
+    "No description available."
+  ],
+  "TableOfContents": [
+    {
+  "title": "Book",
+  "chapters": [
+    {"page": 1, "title": "TOC TO BE DONE"},
+    {"page": 2, "title": ""}
+    ]    
+}
+]
+},
+{
+  "BookName": "Cursed Scroll 6 - City of Masks",
+  "BookShortName": "Cursed Scroll 6 - City of Masks",
+  "BookPublisher": "The Arcane Library",
+  "BookCode": "",
+  "BookISBN": "",
+  "BookAuthor": "",
+  "BookPublished": "",
+  "BookCover": "",
+  "BookRules": "Shadowdark",
+  "BookEdition": "Cursed Scroll",
+  "BookPhysical": "On Order",
+  "BookOwnedPDF": "On Order",
+  "BookLibrary": "Yes",
+  "VaultSML": "Shadowdark",
+  "BookSetting": "Shadowdark",
+  "BookType": "Zine",
+  "BookFormat": "",
+  "BookSeries": "Issue 001 - Issue 010",
+  "BookCharacterLevel": "",
+  "BookPDF": [
+    "D:\\OneDrive\\Master Vault\\"
+  ],
+  "BookMD": [
+    "D:\\Master Vault\\Extra Book Data\\"
   ],
   "BookDescription": [
     "No description available."

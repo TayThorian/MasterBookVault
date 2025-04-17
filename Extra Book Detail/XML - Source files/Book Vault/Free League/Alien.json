@@ -53,7 +53,7 @@
     "BookAuthor": "",
     "BookPublished": "2022",
     "BookCover": "",
-    "BookRules": "Alien RPG",
+    "BookRules": "Year Zero Engine",
     "BookEdition": "1st Edition",
     "BookPhysical": "Yes",
     "BookOwnedPDF": "Yes",
@@ -372,5 +372,122 @@
       ]    
   }
 ]
+  },
+  {
+    "BookName": "Alien RPG - Evolved Edition",
+    "BookShortName": "Alien RPG - Evolved Edition",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "On Order",
+    "BookLibrary": "Yes",
+    "VaultSML": "Alien",
+    "BookSetting": "Alien",
+    "BookType": "Core Rulebook",
+    "BookFormat": "",
+    "BookSeries": "Rulebooks",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "Alien RPG - Evolved Edition Starter Set",
+    "BookShortName": "Alien RPG - Evolved Edition Starter Set",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "On Order",
+    "BookLibrary": "Yes",
+    "VaultSML": "Alien",
+    "BookSetting": "Alien",
+    "BookType": "Starter Set",
+    "BookFormat": "",
+    "BookSeries": "Starter Set",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
+  },
+  {
+    "BookName": "Rapture Protocol",
+    "BookShortName": "Rapture Protocol",
+    "BookPublisher": "Free League Publishing",
+    "BookCode": "",
+    "BookISBN": "",
+    "BookAuthor": "",
+    "BookPublished": "",
+    "BookCover": "",
+    "BookRules": "Year Zero Engine",
+    "BookEdition": "2nd Edition",
+    "BookPhysical": "On Order",
+    "BookOwnedPDF": "On Order",
+    "BookLibrary": "Yes",
+    "VaultSML": "Alien",
+    "BookSetting": "Alien",
+    "BookType": "Cinematic Scenario",
+    "BookFormat": "",
+    "BookSeries": "Cinematic Scenario",
+    "BookCharacterLevel": "",
+    "BookPDF": [
+      "D:\\OneDrive\\Master Vault\\"
+    ],
+    "BookMD": [
+      "D:\\Master Vault\\Extra Book Data\\"
+    ],
+    "BookDescription": [
+      "No description available."
+    ],
+    "TableOfContents": [
+      {
+    "title": "Book",
+    "chapters": [
+      {"page": 1, "title": "TOC TO BE DONE"},
+      {"page": 2, "title": ""}
+      ]    
+  }
+  ]
   }
 ]
